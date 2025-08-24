@@ -176,6 +176,10 @@ def merge_wer(df: pd.DataFrame, wer_map: Dict[str, float]) -> pd.DataFrame:
 
 def process_spanish_acoustic_folder(acoustic_dir: Path, out_dir: Path, spanish_wer_map: Dict[str, float]) -> dict:
     """Process Spanish-speaking countries and add Spanish WER scores."""
+    print(f"[DEBUG] process_spanish_acoustic_folder called with {len(spanish_wer_map)} WER scores")
+    print(f"[DEBUG] Processing files from: {acoustic_dir}")
+    print(f"[DEBUG] Output directory: {out_dir}")
+    
     out_dir.mkdir(parents=True, exist_ok=True)
     stats = {"files": 0, "rows_total": 0, "rows_with_wer": 0, "rows_missing_wer": 0, "written": 0}
     missing_wer_details = []
@@ -190,15 +194,18 @@ def process_spanish_acoustic_folder(acoustic_dir: Path, out_dir: Path, spanish_w
         if not any(country in filename.lower() for country in spanish_countries):
             continue
             
+        print(f"[DEBUG] Processing Spanish file: {filename}")
         stats["files"] += 1
         df = load_csv(csv_path)
         stats["rows_total"] += len(df)
+        print(f"[DEBUG] Loaded {len(df)} rows from {filename}")
 
         df_out = merge_wer(df, spanish_wer_map)
         with_ = int(df_out[WER_COLUMN_NAME].notna().sum())
         without_ = len(df_out) - with_
         stats["rows_with_wer"] += with_
         stats["rows_missing_wer"] += without_
+        print(f"[DEBUG] After merge: {with_} with WER, {without_} without WER")
 
         # Track which rows lack WER scores for this file
         if without_ > 0:
@@ -212,9 +219,12 @@ def process_spanish_acoustic_folder(acoustic_dir: Path, out_dir: Path, spanish_w
         rel = csv_path.relative_to(acoustic_dir)
         out_path = out_dir / rel
         out_path.parent.mkdir(parents=True, exist_ok=True)
+        print(f"[DEBUG] Writing to: {out_path}")
         df_out.to_csv(out_path, **CSV_WRITE_KW)
         stats["written"] += 1
+        print(f"[DEBUG] Successfully wrote {filename}")
 
+    print(f"[DEBUG] process_spanish_acoustic_folder completed. Stats: {stats}")
     stats["missing_wer_details"] = missing_wer_details
     return stats
 
@@ -620,12 +630,21 @@ def verify_no_duplicates(out_dir: Path) -> bool:
 
 
 def main():
+    print("[DEBUG] Main function started!")
+    print("[DEBUG] Current working directory:", Path.cwd())
+    
     root = Path(PROJECT_ROOT).resolve()
     acoustic_dir = (root / ACOUSTIC_DIR).resolve()
     transformed_acoustic_dir = (root / TRANSFORMED_ACOUSTIC_DIR).resolve()
     wer_root = (root / WER_ROOT).resolve()
     out_acoustic_dir = (root / OUT_ACOUSTIC_DIR).resolve()
     out_transformed_acoustic_dir = (root / OUT_TRANSFORMED_ACOUSTIC_DIR).resolve()
+
+    print("[DEBUG] Paths resolved:")
+    print(f"  root: {root}")
+    print(f"  acoustic_dir: {acoustic_dir}")
+    print(f"  wer_root: {wer_root}")
+    print(f"  out_acoustic_dir: {out_acoustic_dir}")
 
     # Check if required directories exist
     if not acoustic_dir.exists():
@@ -642,6 +661,7 @@ def main():
     print(f"[INFO] Parsing Spanish WERs from '{SPANISH_WER_SUBFOLDER}' ...")
     spanish_map, spanish_dup_cross = parse_spanish_wers(wer_root)
     print(f"[INFO] Parsed {len(spanish_map):,} unique Spanish line_ids (duplicates across files: {spanish_dup_cross}).")
+    print(f"[DEBUG] Spanish map size: {len(spanish_map)}")
 
     # Step 2: Parse Transformed WERs (both French and Spanish)
     print(f"[INFO] Parsing Transformed WERs from both '{TRANSFORMED_FRENCH_WER_SUBFOLDER}' and '{TRANSFORMED_SPANISH_WER_SUBFOLDER}' ...")
@@ -651,8 +671,10 @@ def main():
 
     # Step 3: Merge Spanish WERs into Acoustic Lines (Spanish-speaking countries only)
     print(f"[INFO] Merging Spanish WERs into Acoustic Lines → {out_acoustic_dir} ...")
+    print(f"[DEBUG] About to call process_spanish_acoustic_folder with {len(spanish_map)} WER scores")
     spanish_stats = process_spanish_acoustic_folder(acoustic_dir, out_acoustic_dir, spanish_map)
     print(json.dumps({"spanish_acoustic_stats": spanish_stats}, indent=2))
+    print(f"[DEBUG] Spanish processing completed with stats: {spanish_stats}")
 
     if spanish_stats["rows_missing_wer"]:
         print(f"\n[NOTE] {spanish_stats['rows_missing_wer']} Spanish rows lack WER scores.")
