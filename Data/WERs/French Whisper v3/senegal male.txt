@@ -1,0 +1,1186 @@
+WER Evaluation Results
+======================
+
+Line ID: 2478090655
+WER Score: 3.33
+Transcript: quand tu allais mixer une soiree en tant que dj tu arrivais avec 4 5 bacs qui font presque 20 30 kilos chacune avec 50 60 vinyles dans chaque bac et donc toi si tu venais mixer une soiree il fallait que tu viennes avec ton materiel la aujourd hui tu viens juste avec un ordi tu mixes une soiree
+Reference:  quand tu allais mixer une soiree en tant que dj t arrivais avec 4 5 bacs qui font presque 20 30 kilos chacune avec 50 60 vinyles dans chaque bac et donc toi si tu venais mixer une soiree tu fallait que tu viennes avec ton materiel la aujourd hui tu viens juste avec un ordi tu mixes une soiree
+-------------------------------------------
+
+Line ID: 2478039050
+WER Score: 7.81
+Transcript: et puis moi je suis quelqu un comme tu dis de tres spirituel tu vois et donc a un moment donne j etais plus en phase avec ce que je raconte et ce que je veux etre donc du coup je me suis dit bon c est mieux t arrete de rapper et apres voila j ai arrete de rapper pendant une periode
+Reference:  et puis moi je suis quelqu un comme je te dis de tres spirituel tu vois et donc a un moment donne j etais plus en phase avec ce que je raconte et ce que je veux etre donc du coup je me suis dit bon c est mieux que t arretes de rapper et apres j ai arrete de rapper pendant une periode
+-------------------------------------------
+
+Line ID: 2478025430
+WER Score: 4.17
+Transcript: je faisais pas forcement de la musique en tant que compositeur mais je faisais des instruments un peu a droite a gauche et reellement quand la composition est arrivee sur le devant c est assez recent ca quand meme et le rap c est vraiment 100% passionne
+Reference:  je ne faisais pas forcement de la musique en tant que compositeur mais je faisais des instruments un peu a droite a gauche et reellement quand la composition est arrivee sur le devant c est assez recent ca quand meme et le rap c est vraiment 100% passion
+-------------------------------------------
+
+Line ID: 2478027141
+WER Score: 11.46
+Transcript: je pense que toutes les personnes qui sont acteurs de ce truc la ne le font pas que par la musique il y a forcement a un moment donne un amour de la musique qui fait que ils ne font pas que ca que pour l argent plutot il y a forcement l amour de la musique qui fait que moi j ai la chance c est que j ai quand meme une culture musicale qui est assez riche et assez dense j ecoutais plein de choses et j ai traverse plusieurs generations
+Reference:  je pense que toutes les personnes qui sont justement acteurs de ce truc la ne le font pas que par la musique forcement a un moment donne il y a l amour de la musique qui fait que ils ne font pas que ca pour que pour l argent plutot il y a forcement l amour de la musique qui fait que moi j ai la chance c est que j ai quand meme une culture musicale qui est assez riche et assez dense j ai ecoute plein de choses et j ai traverse plusieurs generations
+-------------------------------------------
+
+Line ID: 2478048451
+WER Score: 4.26
+Transcript: moi je suis ne quand meme en 81 donc la aujourd hui j ai traverse quand meme les annees 80 les annees 90 2000 jusqu a la donc j ai ecoute pas mal de choses et j ai ecoute pas mal de styles de musique
+Reference:  moi je suis ne quand meme en 81 donc la aujourd hui tu vois j ai traverse quand meme les annees 80 les annees 90 2000 jusqu a la donc j ai ecoute pas mal de choses et j ai ecoute pas mal de styles de musique
+-------------------------------------------
+
+Line ID: 2478035566
+WER Score: 0.00
+Transcript: et ce qui fait que je suis capable de faire tout type de musique aujourd hui en tout cas toute couleur de musique et ce qui fait que souvent oui quand j ecoute un artiste ou en tout cas quand je rentre dans l univers d un artiste je sais quoi lui proposer ou quelle direction prendre avec lui en tout cas
+Reference:  et ce qui fait que je suis capable de faire tout type de musique aujourd hui en tout cas toute couleur de musique et ce qui fait que souvent oui quand j ecoute un artiste ou en tout cas quand je rentre dans l univers d un artiste je sais quoi lui proposer ou quelle direction prendre avec lui en tout cas
+-------------------------------------------
+
+Line ID: 2478021283
+WER Score: 9.43
+Transcript: la fameuse question est ce que tu peux te presenter la fameuse pour ceux qui ne te connaissent pas quoi dire flag plus connu sur le nom de flag grandelli en tant que producteur mais flag en tant que rappeur parce que j ai eu une carriere de rap avant de faire de la production musicale
+Reference:  la fameuse question est ce que tu peux te presenter pour ceux qui ne te connaissent pas pourquoi dire flag plus connu sur le nom de flagrandelit en tant que producteur mais flag en tant que rappeur parce que j ai eu une carriere de rap avant de faire de la production musicale
+-------------------------------------------
+
+Line ID: 2478099266
+WER Score: 12.50
+Transcript: bonne question en fait ca vient d une en fait c est plein de diminutifs parce qu a un moment donne je m appelais je crois quand j etais plus jeune en tant que rappeur flagada qui etait un des personnages de picsou je ne vous pose pas la question pourquoi c etait un des personnages de picsou un peu fou la
+Reference:  bonne question en fait ca vient d une . en fait c est plein de diminutifs c est qu a un moment donne je m appelais je crois quand j etais plus jeune en tant que rappeur flagada qui etait un des personnages de pixo on ne me pose pas la question pourquoi c est un des personnages de pixo un peu fou la
+-------------------------------------------
+
+Line ID: 2478044899
+WER Score: 2.78
+Transcript: c est des moments qui sont pris en flagrant delai donc du coup je prenais des photos un peu comme ca droite a gauche apres quand j ai commence a faire de la production musicale je veux dire vraiment produire des sons a une periode ou je signais flag sur les instruments mais en meme temps comme j avais une carriere de rap en parallele je voulais vraiment distinguer les deux
+Reference:  c est des moments qui sont pris en flagrant delit donc du coup je prenais des photos un peu comme ca a droite a gauche apres quand j ai commence a faire de la production musicale je veux dire vraiment produire des sons a une periode ou je signais flag sur les instruments mais en meme temps comme j avais une carriere de rap en parallele je voulais vraiment distinguer les deux
+-------------------------------------------
+
+Line ID: 2478044228
+WER Score: 5.49
+Transcript: il y a des gens qui connaissent qui ont un peu l historique d ou je viens et autres mais il y a tres peu de gens qui savent qu a la base j avais une carriere de rap et qu apres la suite je suis devenu producteur et ainsi de suite il y a des gens qui ne m ont connu qu a travers la production d autres qui me connaissent du rap et a la production et d autres qui ont fait le lien par la suite mais non
+Reference:  il y a des gens oui qui connaissent qui ont un peu l historique d ou je viens et autres mais il y a tres peu de gens qui savent qu a la base j avais une carriere de rap et que apres la suite j ai devenu producteur et ainsi de suite il y a des gens qui ne m ont connu qu a travers la production d autres qui me connaissent du rap a la production et d autres qui ont fait le lien par la suite mais non
+-------------------------------------------
+
+Line ID: 2478053258
+WER Score: 8.33
+Transcript: herve vr the legend qui a l epoque avait ce privilege la nous quand on etait petits on n avait pas forcement acces a la musique moi je me rappelle je regardais beaucoup uom tv rap et j etais dingue de tout ce que je voyais sur uom tv rap il y avait des clips qui passaient il y avait cette fameuse emission qui passait les samedis a 11 h qui s appelait justement uom tv rap ou on passait des clips de rap
+Reference:  herve vr the legend qui a l epoque avait ce privilege la nous quand on etait petit on n avait pas forcement acces a la musique moi je me rappelle je regardais beaucoup yo mtv rap et j etais dingue de tout ce que je voyais sur yo mtv rap il y avait des clips qui passaient il y avait cette fameuse emission qui passait les samedis a 11 h qui s appelait justement yo mtv rap ou on passait des clips de rap
+-------------------------------------------
+
+Line ID: 2478015307
+WER Score: 12.22
+Transcript: et t avais ce grand la vert qui lui avait la possibilite d acheter des disques il etait dj et donc lui de temps en temps il aimait bien sortir les platines sur la place de la commune et les enceintes et il sortait les disques et il mixait moi je passais la bas devant tout le temps a chaque fois je m arretais 15 20 minutes je le regardais j ai dit non mais c est un truc de fou j aimerais tellement avoir des vinyles chez moi
+Reference:  il y avait ce grand la vr qui lui avait la possibilite d acheter des disques il etait dj et donc lui de temps en temps il aimait sortir les platines sur la place de la commune et les enceintes et il sortait les disques et il mixait moi je passais la bas devant tout le temps a chaque fois je m arretais les 15 20 minutes et je lui regardais je lui disais non mais c est un truc de fou j aimerais tellement avoir des vinyles chez moi
+-------------------------------------------
+
+Line ID: 2478023991
+WER Score: 4.23
+Transcript: lui m a mis un peu le prix a l etrier j allais le voir je me rappelle je connaissais ses disques par coeur lui je crois que je connaissais ses disques mieux que lui et donc moi je me rappelle quand il allait souvent mixer faire des trucs apres il me prenait avec lui je portais ses bagues de disques parce qu a l epoque c etait lourd
+Reference:  lui il m a mis un peu le prix a l etrier j allais le voir je me rappelle je connaissais ses disques par coeur lui je crois que je connaissais ses disques mieux que lui et donc moi je me rappelle quand il allait souvent mixer et faire des trucs apres il me prenait avec lui je portais ses bagues de disque parce qu a l epoque c etait lourd
+-------------------------------------------
+
+Line ID: 2478089022
+WER Score: 17.72
+Transcript: j ai commence a rapper a cette periode la 95 96 mais apres c etait pas reellement officiellement je me suis dit je rappe j ecrivais des petits trucs je faisais genre j avais mon premier groupe de rap si tu peux rappeler ca a un groupe je rappelais avec mon grand frere a l epoque on ecrivait des textes ensemble histoire de truquer mais c etait pas reellement serieux
+Reference:  j ai commence a rapper je sais pas a cette periode la 95 96 mais apres ce n etait pas reellement officiellement je me suis dit je rappe j ecrivais des petits trucs tu vois je faisais genre j avais mon premier groupe de rap si tu peux appeler ca un groupe mais je me rappelais avec mon grand frere a l epoque et on ecrivait des textes ensemble histoire de truquer mais ce n etait pas reellement serieux
+-------------------------------------------
+
+Line ID: 2478036297
+WER Score: 7.04
+Transcript: on avait cree ce groupe de rap qui s appelait le 91 corps d elite on a fait nos premieres scenes dans les fetes de quartier a la maison de quartier ils faisaient a chaque fois la fete de la musique donc nous on montait sur scene je me rappelle on faisait les fetes de la musique de differents quartiers on faisait les battles entre quartiers
+Reference:  et on avait cree ce groupe de rap la qui s appelait le 91 corps d elite et on a fait nos premieres scenes justement dans les fetes de quartier a la maison de quartier ils faisaient a chaque fois la fete de la musique et donc nous on montait sur scene je me rappelle on faisait les fetes de la musique de differents quartiers on faisait les battles entre quartiers
+-------------------------------------------
+
+Line ID: 2478038324
+WER Score: 15.56
+Transcript: this is the pest exactement c est in by gay qui a explose un peu de maniere j ai envie de dire internationale ou nationale a l echelle gros en tout cas lui a cree justement ce label a l epoque qui s appelait fuck that
+Reference:  this is la peste exactement c est une baigai qui a explose un peu de maniere j ai envie de dire internationale ou nationale a l echelle grosse en tout cas lui a cree justement ce label a l epoque qui s appelait fuck dat
+-------------------------------------------
+
+Line ID: 2478088789
+WER Score: 9.89
+Transcript: il n y a pas eu vraiment de switch parce que pour moi ca a toujours ete la c est juste que ce n est pas quelque chose que j ai developpe plus que ca et puis a un moment donne juste que moi je pense qu avec le temps je n etais pas forcement plus en phase avec le contexte de prendre le micro et de dire des choses je partais du postulat que je n avais rien a dire d interessant
+Reference:  il n y a pas eu vraiment de switch parce que pour moi ca a toujours ete la c est juste que ce n est pas quelque chose que j ai developpe plus que ca et puis a un moment donne juste que moi je pense qu avec le temps je n etais pas forcement je n etais plus en phase avec le contexte de prendre le micro et de dire des choses parce que je suis parti du postulat que je n avais rien a dire entre guillemets d interessant
+-------------------------------------------
+
+Line ID: 2478037096
+WER Score: 18.02
+Transcript: je ne sais pas si je peux me dire si il y a une date precise ou j ai commence a dire que je ne faisais que de la production parce que ca a toujours ete un peu la mais ca s est accentue quand j ai vraiment arrete de rapper et je me suis dit qu il fallait que je m occupe et que je fasse autre chose comme je passais mon temps a ouvrir l ordinateur et a triturer les instruments je me suis dit que c est devenu reellement officiel j ai envie de dire
+Reference:  je ne sais pas si je peux dater et me dire est ce que la il y a une date precise ou j ai commence vraiment a dire la je ne vais faire que de la production parce que ca a toujours ete un peu la mais ca s est accentue quand j ai vraiment arrete de rapper et je me suis dit bon voila il faut que je m occupe et que je fasse autre chose et que comme je passais mon temps a ouvrir l ordinateur et a truturer un peu les instruments je me suis dit bon la c est devenu reellement officiel j ai envie de dire
+-------------------------------------------
+
+Line ID: 2478059306
+WER Score: 30.77
+Transcript: et on avait fait un morceau avec dam rens qui s appelait chon et sur ce morceau la j etais avec dam rens this is et keisha de dom rap je crois que c est ca son groupe je me rappelle plus je pense que c est dom rap je pense qu on t aime ca et c est la ou ma premiere rencontre avec le rap senegalais parce que j ai ecoute dam rens j ai ecoute les morceaux de tafa djiby et bahao
+Reference:  et on avait fait un morceau avec dabrenz qui s appelait chon et sur ce morceau la j etais avec dabrenz this is et keisha de dome rap je crois que c est ca c etait son groupe je m en rappelle plus je pense que c est dome rap et c est la que ma premiere rencontre avec le rap senegalais puisque j ai ecoute dabrenz et j ai ecoute les morceaux de tafa dibi et bachao
+-------------------------------------------
+
+Line ID: 2478050158
+WER Score: 17.57
+Transcript: apres par la suite on a ete au senegal avec this is justement pour la promo de ce projet la et c est la ou j ai eu ma premiere rencontre avec d autres acteurs autres que dabrens du rap senegalais et la notamment en x ou on s est croises a l epoque c etait a une emission de coco jean je pense que c etait ca je pense que c etait a nostalgie je pense si je ne me trompe pas
+Reference:  apres par la suite on a ete au senegal avec this is justement pour la promo de ce projet la et c est la ou j ai eu ma premiere rencontre avec d autres acteurs autres que dabrenz du rap senegalais et la notamment nix ou on s est croise a l epoque c etait a une emission de kokojin je pense c etait ca je pense que c etait a nostalgie je pense
+-------------------------------------------
+
+Line ID: 2478027105
+WER Score: 2.17
+Transcript: et apres de fil en aiguille j ai commence a connaitre un peu d autres acteurs en venant au senegal en vacances j ai commence a rencontrer plein d autres gens young fresh fleuysi a l epoque qui faisait partie aussi de l entourage de nix
+Reference:  et apres de fil en aiguille j ai commence a connaitre un peu d autres acteurs en venant au senegal en vacances j ai commence a rencontrer plein d autres gens young fresh fleuisi a l epoque qui faisait partie aussi de l entourage de nix
+-------------------------------------------
+
+Line ID: 2478082872
+WER Score: 2.04
+Transcript: je suis pere de famille j ai des responsabilites et c est juste que j ai un rythme de vie qui fait que je ne peux pas vivre que de ca parce que la musique c est quelque chose qui est assez ponctuel en tout cas en termes de revenus
+Reference:  je suis pere de famille j ai des responsabilites c est juste que j ai un rythme de vie qui fait que je ne peux pas vivre que de ca parce que la musique c est quelque chose qui est assez ponctuel en tout cas en termes de revenus
+-------------------------------------------
+
+Line ID: 2478058152
+WER Score: 0.00
+Transcript: il y a une gestion derriere qui fait que je ne voulais pas forcement etre dependant de ce truc la donc je n ai jamais reellement lache le travail meme a l epoque ou je faisais du rap ou il y avait des contrats des sorties et des projets j ai toujours travaille a cote puisque je viens de ce truc la
+Reference:  il y a une gestion derriere qui fait que je ne voulais pas forcement etre dependant de ce truc la donc je n ai jamais reellement lache le travail meme a l epoque ou je faisais du rap ou il y avait des contrats des sorties et des projets j ai toujours travaille a cote puisque je viens de ce truc la
+-------------------------------------------
+
+Line ID: 2478051500
+WER Score: 7.50
+Transcript: donc pour moi il y a forcement une plus value et je pense que c est ce qui fait un peu peut etre ma difference en tout cas avec les autres c est que le fait que j ai deja rappe tout de suite je sais ou je dois aller je sais qu est ce que je dois pas trop mettre a la difference de ce que d autres producteurs peuvent faire qui sont pas forcement dans le rap
+Reference:  donc forcement pour moi il y a forcement une plus value et je pense que c est ce qui fait peut etre ma difference en tout cas avec les autres c est que le fait que j ai deja rape tout de suite je sais ou je dois aller je sais qu est ce que je ne dois pas trop mettre a la difference de ce que d autres producteurs peuvent faire qui ne sont pas forcement dans le rap
+-------------------------------------------
+
+Line ID: 2478051442
+WER Score: 6.33
+Transcript: t as les deux en fait t as les gens qui vont venir vers moi plus parce qu ils ont entendu des choses que j ai eu a faire et donc ils aiment la couleur ou la patte de la musique que moi je peux proposer mais derriere ouais il m arrive en tout cas mais tres souvent en tout cas c est les artistes qui viennent vers moi plutot moi qui va vers tel ou tel artiste
+Reference:  t as les deux en fait t as les gens qui vont venir vers moi plus parce qu ils ont entendu des choses que j ai eu a faire et donc ils aiment la couleur ou la patte de la musique que moi je peux proposer mais d arriere oui ils m arrivent en tout cas mais tres souvent en tout cas c est les artistes qui viennent vers moi plutot moi qui va vers tel ou tel artiste
+-------------------------------------------
+
+Line ID: 2478087740
+WER Score: 3.88
+Transcript: moi j ai la chance c est que j ai quand meme une culture musicale qui est assez riche et assez dense j ecoutais plein de choses et j ai traverse plusieurs generations moi je suis ne quand meme en 81 donc la aujourd hui j ai traverse quand meme les annees 80 les annees 90 2000 jusqu a la donc j ai ecoute pas mal de choses et j ai ecoute pas mal de styles de musique ce qui fait que je suis capable de faire tout type de musique aujourd hui en tout cas toute couleur de musique
+Reference:  moi j ai la chance c est que j ai quand meme une culture musicale qui est assez riche et assez dense j ai ecoute plein de choses et j ai traverse plusieurs generations moi je suis ne quand meme en 81 donc la aujourd hui j ai traverse quand meme les annees 80 les annees 90 2000 jusqu a la donc j ai ecoute pas mal de choses et j ai ecoute pas mal de styles de musique ce qui fait que je suis capable de faire tout type de musique aujourd hui en tout cas tout type toute couleur de musique
+-------------------------------------------
+
+Line ID: 2478063757
+WER Score: 7.23
+Transcript: pour l instant non pas forcement parce que justement comme je suis tres piquee aussi dans mes relations et dans les collaborations que je fais je ne me lance jamais dans des choses que je sais que je ne pourrais pas qui ne m inspirent pas ou en tout cas dans lesquelles je ne pourrais pas aller et puis comme tout le monde je pense qu il y a des periodes ou je fais moins de musique que d autres
+Reference:  pour l instant non pas forcement parce que justement comme je suis tres pique aussi dans mes relations et dans les collaborations que je fais je me lance jamais dans des choses que je sais que je ne pourrais pas en tout cas qui ne m inspirent pas ou en tout cas dans lesquelles je ne pourrais pas aller et puis oui comme tout le monde je pense qu il y a des periodes ou je fais moins de musique que d autres
+-------------------------------------------
+
+Line ID: 2478087471
+WER Score: 6.58
+Transcript: tous les cas aujourd hui mes plus gros projets ou en tout cas mes plus grosses satisfactions c est aujourd hui tout ce qu on est en train de construire autour de la carriere de nix parce que tu vois on a cree une couleur ensemble on a cree une certaine energie dans le rap senegalais j ai envie de dire qui pour moi n a jamais ete fait avant et super important et
+Reference:  dans tous les cas aujourd hui mes plus gros projets ou en tout cas mes plus grosses satisfactions c est aujourd hui tout ce qu on est en train de construire autour de la carriere de nix parce que tu vois on a cree une couleur ensemble on a cree une certaine energie dans le rap senegalais j ai envie de dire qui pour moi n a jamais ete faite avant et c est super important
+-------------------------------------------
+
+Line ID: 2478093787
+WER Score: 3.90
+Transcript: l une de mes plus grandes satisfactions c est d avoir reussi justement a creer cette couleur la et a sortir nix un peu de ce truc dans lequel il etait peut etre un peu avant ou il prenait des instruments un peu a droite a gauche et d avoir reussi justement a lui proposer toute une palette de musique qui fait qu aujourd hui lui meme en tant qu artiste il est passe aussi dans un niveau superieur
+Reference:  l une de mes plus grandes satisfactions c est d avoir reussi a creer cette couleur la et a sortir nix un peu de ce truc dans lequel il etait peut etre un peu avant ou il prenait des instruments un peu a droite a gauche et d avoir reussi justement a lui proposer toute une palette de musique qui fait qu aujourd hui lui meme en tant qu artiste il passait aussi dans un niveau superieur
+-------------------------------------------
+
+Line ID: 2478036520
+WER Score: 8.93
+Transcript: et le fait que lui meme aussi il ait pris des risques de se dire a un moment donne j arrete de rapper que en francais et maintenant je vais commencer a y introduire le holof pour leur montrer que je sais rapper aussi en holof et voila et switcher justement sur ce truc la
+Reference:  et le fait que lui meme aussi il ait pris des risques de se dire a un moment donne j arrete de rapper que en francais et je vais commencer a y introduire le wall off pour leur montrer que je sais rapper aussi en wall off et voila et switcher justement sur ce truc la
+-------------------------------------------
+
+Line ID: 2478083724
+WER Score: 10.53
+Transcript: pour moi je pense que c est l une des choses les plus satisfaisantes qui me sont arrivees en tout cas dans ce que j ai eu a faire en tant que producteur apres j ai bosse sur pas mal de projets un pas droite un pas gauche et a chaque fois c est toujours la meme chose j apporte toujours ma couleur ma proposition et quand je vois la resultante c est tout de suite satisfaisant
+Reference:  pour moi je pense que c est l une des choses les plus satisfaisantes qui me sont arrivees en tout cas dans ce que j ai eu a faire en tant que producteur apres voila j ai bosse sur pas mal de projets un peu a droite a gauche et a chaque fois sur la meme chose j apporte toujours ma couleur ma proposition et quand je vois la resultante c est tout de suite satisfaisant
+-------------------------------------------
+
+Line ID: 2478043413
+WER Score: 6.35
+Transcript: et comme de toute facon je n ai pas une cadence de travail ou en tout cas un rythme effrene j essaie toujours a chaque fois de prendre le temps de faire les choses correctement et de sortir des choses assez qualitatives en tout cas de ma vision en moi donc j essaie vraiment de faire ce truc la tu vois a ce niveau
+Reference:  et comme de toute facon j ai pas une cadence de travail ou en tout cas un rythme effrene j essaye toujours a chaque fois de prendre le temps de faire les choses correctement et de sortir des choses assez qualitatives en tout cas de ma vision en moi donc j essaye vraiment de faire ce truc la tu vois a ce niveau
+-------------------------------------------
+
+Line ID: 2478033642
+WER Score: 16.39
+Transcript: je ne prends pas mille projets mais le peu de projets que je prends j essaie d aller au bout c est pour ca que moi meme je travaille differemment je n ai jamais des instrus qui sont la et je prends et j envoie des palettes d instru a x artistes ce n est pas ma methode de travail
+Reference:  je prends pas 1000 projets mais le peu de projets que je prends j essaye d aller au bout et c est pour ca que moi meme je travaille differemment tu vois moi j ai jamais des instrus qui sont la et je prends et j envoie des palettes d instru a x artistes c est pas ma methode de travail
+-------------------------------------------
+
+Line ID: 2478067183
+WER Score: 21.62
+Transcript: mais en general c est un ensemble si je dois en citer un je dirais badou manlep de nix parce que c est pour moi un de ses premiers singles forts en rap galsene en wall off parce que c est tout en wall off la dessus et je suis content d avoir fait ce disque la avec lui et d avoir fait ce single la avec lui plus particulierement
+Reference:  mais dans le general c est un ensemble si je dois en citer peut etre un je dirais badou man lepp deja de nix parce que c est un des pour moi un de ses premiers singles forts en rap galsen en wolof puisque c est tout en wolof la dessus et je suis content d avoir fait ce disque la avec lui et d avoir fait ce single la avec lui plus particulierement
+-------------------------------------------
+
+Line ID: 2478080043
+WER Score: 9.09
+Transcript: mais ce n est pas des choses qui sont arrivees souvent parce que generalement quand les artistes viennent me voir si moi j aime bien ce qu ils font ou en tout cas je trouve leur univers interessant ou je trouve qu il y a une fenetre ou une porte qu on peut ouvrir ensemble qui va etre tres interessante la je me dis ok il y a ca que j avais deja dans l ordi ou il y a ca que j avais fait il y a putain de temps
+Reference:  mais ce ne sont pas les choses qui sont arrivees souvent parce que generalement quand les artistes viennent me voir si moi j aime bien ce qu ils font ou en tout cas je trouve leur univers interessant ou je trouve qu il y a une fenetre ou une porte qu on peut ouvrir ensemble qui va etre tres interessante la je me dis ok il y a ca que j avais deja dans l ordi ou il y a ca que j avais fait fut un temps
+-------------------------------------------
+
+Line ID: 2478021892
+WER Score: 1.45
+Transcript: je pense que ca t irait bien ou je pense que je trouverais que tu irais bien dans ce style la parce que je sais qu en ayant ecoute sa musique ou en ayant fait mes recherches je sais qu il y a peut etre certains aspects de sa personnalite ou certaines couleurs que je sais que lui il n a pas exploite mais qui seraient interessants pour lui
+Reference:  je pense que ca t irait bien ou je pense que je trouverais que tu irais bien dans ce style la parce que je sais qu en ayant ecoute sa musique ou en ayant fait mes recherches je sais qu il y a peut etre certaines aspects de sa personnalite ou certaines couleurs que je sais que lui il n a pas exploite mais qui seraient interessants pour lui
+-------------------------------------------
+
+Line ID: 5921188970
+WER Score: 3.77
+Transcript: devant dieu et devant la nation senegalaise je jure de remplir fidelement la charge du president de la republique du senegal de consacrer toutes mes forces a defendre les institutions constitutionnelles l integrite du territoire l independance nationale et de ne menager enfin aucun effort pour la realization de l unite africaine
+Reference:  devant dieu et devant la nation senegalaise je jure de remplir fidelement la charge du president de la republique du senegal de consacrer toutes mes forces a defendre les institutions constitutionnelles l integrite du territoire l independance nationale et de ne menager en fait aucun effort pour la realization de l unite africaine
+-------------------------------------------
+
+Line ID: 1393856379
+WER Score: 7.14
+Transcript: le mandat du president macky sall arrivait a echeance le 2 avril et il etait disons sujet a caution que l election se tienne dans les delais constitutionnels souvenez vous que la premiere date de l election du 25 fevrier avait ete reportee il y a eu des tumultes des echauffourees qui ont occasionne des morts d hommes dans certaines villes de dakar et dans certaines regions ou dans certaines villes de province
+Reference:  le mandat du president macky sall arrivait a echeance le 2 avril et il etait disons sujet a caution que l election se tienne dans les delais constitutionnels souvenez vous que la premiere date de l election du 25 fevrier avait ete reportee il y a eu des tumultes des echoufourees qui ont occasionne des mordoms dans certaines villes de dakar et dans certaines regions ou certaines villes de province
+-------------------------------------------
+
+Line ID: 1393820543
+WER Score: 9.43
+Transcript: effectivement j avais ete surpris parce que je ne pensais peut etre pas que la dynamique avec laquelle l election avait ete approchee avec disons le candidat la substitution que constitue abbasidou diomayefai mais aussi le fait qu il avait ete pendant un long moment victime d un handicap avec sa detention
+Reference:  effectivement j avais ete surpris parce que je ne pensais peut etre pas que la dynamique avec laquelle l election avait ete approchee avec disons le candidat de substitution que constituait bassirou diomaye faye mais aussi le fait qu il avait ete pendant un long moment victime d un handicap avec sa detention
+-------------------------------------------
+
+Line ID: 1393896893
+WER Score: 5.66
+Transcript: qui pouvaient etre des facteurs handicapants pour sa campagne se sont reveles quelque part a l oppose des facteurs catalyseurs d une campagne electorale surtout qu ils ont beneficie il faut le dire d une situation ou de circonstances qui ont ete appreciees comme etant tres favorables a cette dynamique de campagne
+Reference:  qu il pouvait etre des facteurs handicapants pour sa campagne se sont reveles quelque part a l oppose des facteurs catalyseurs d une campagne electorale surtout qu ils ont beneficie il faut le dire d une situation ou de circonstances qui ont ete appreciees comme etant tres favorables a cette dynamique de campagne
+-------------------------------------------
+
+Line ID: 1393895405
+WER Score: 3.77
+Transcript: tout dependra de l intelligence dont ils feront l un et l autre dans la collaboration au plus haut niveau de l etat il y a eu des experiences heureuses de collaboration comme cela comme s il y a eu des experiences malheureuses on verra et on pourra juger sur les faits
+Reference:  tout dependra de l intelligence dont ils feront pour l un et l autre dans la collaboration au plus haut niveau de l etat il y a eu des experiences heureuses de collaboration comme cela comme aussi il y a eu des experiences malheureuses on verra et on pourra juger sur les faits
+-------------------------------------------
+
+Line ID: 1393815721
+WER Score: 14.52
+Transcript: toujours est il que c est une nomination qui a ete attendue effectivement le peuple de pasteur attendait que son coup soit aux manettes en meme temps que le passe du kamai fai et aujourd hui les roles sont partages ils vont essayer tres certainement de pouvoir elaborer peut etre une politique commune et gouverner le pays dans la perspective des attentes de la population
+Reference:  toujours est il que c est une nomination qui a ete attendue effectivement le peuple de pastef attendait que sonko soit aux manettes en meme temps que bassirou diomaye faye et aujourd hui les roles sont partages ils vont essayer tres certainement de pouvoir elaborer peut etre une politique commune et couvrir le pays dans la perspective des attentes de la population
+-------------------------------------------
+
+Line ID: 1393883422
+WER Score: 1.72
+Transcript: par le passe on a eu des situations assez facheuses au senegal quand le president ouad etait arrive au pouvoir en 2000 il avait remis en cause des engagements dans le secteur de l electricite et le senegal a ete oblige de casquer beaucoup d argent pour rembourser ou bien pour dedommager des investisseurs qui se sentaient spolies
+Reference:  par le passe on a eu des situations assez facheuses au senegal quand le president ouad etait arrive au pouvoir en 2000 il avait remis en cours des engagements dans le secteur de l electricite et le senegal a ete oblige de casquer beaucoup d argent pour rembourser ou bien pour dedommager des investisseurs qui se sentaient spolies
+-------------------------------------------
+
+Line ID: 1393852567
+WER Score: 11.39
+Transcript: makissal a connu la meme situation aussi en arrivant en 2012 l idee de renegocier des contrats commerciaux ou miniers avait ete agitee et le senegal avait ete condamne par des juridictions arbitrales a l international et le senegal avait ete oblige de rembourser des sommes importantes est ce que cette meme logique sera poursuivie par le president bassilou diamaefai on attend de voir quel contenu il va donner a cette notion de renegocier des contrats miniers
+Reference:  macky sall a connu la meme situation aussi en arrivant en 2012 l idee de renegotie des contrats commerciaux ou miniers avait ete agitee et le senegal avait ete condamne par des juridictions arbitrales a l international et le senegal avait ete oblige de rembourser des sommes importantes est ce que cette meme logique sera poursuivue par le president bassirou diomaye faye on attend de voir quel contenu il va donner a cette motion de renegotie des contrats miniers
+-------------------------------------------
+
+Line ID: 1393872531
+WER Score: 6.25
+Transcript: donc a petits pas la france reconnait sa responsabilite dans la commission du genocide de 1994 la france a t elle ete coupable de laxisme ou de prudence excessive ou la france a t elle detourne son regard ou n a pas voulu voir les massacres qui se deroulaient
+Reference:  a petit pas la france reconnait sa responsabilite dans la commission du genocide de 1994 la france a t elle ete coupable de laxisme ou de prudence excessive ou la france a t elle detourne son regard ou n a pas voulu voir les massacres qui se deroulent
+-------------------------------------------
+
+Line ID: 1393855946
+WER Score: 6.67
+Transcript: qu il y a une responsabilite qu il faut pointer du doigt je ne veux pas parler a la place des historiens je ne veux pas parler aussi non plus a la place des politiques francais qui ont voulu se laver a grande eau
+Reference:  est il qu il y a une responsabilite qu il faut pointer du doigt je ne veux pas parler a la place des historiens je ne veux pas parler non plus a la place des politiques francais qui ont voulu se laver a grande eau
+-------------------------------------------
+
+Line ID: 1393810889
+WER Score: 6.67
+Transcript: je ne veux pas non plus parler a la place des victimes rwandais qui considerent que la france a participe a ce tchenosuide ou l a encourage ou peut etre ne l a pas empeche toujours est il qu il y a un fait historique qui est la il faudra en tirer des lecons et des enseignements mais il faudra voir dans quelle mesure il faut depasser cette situation la aller de l avant
+Reference:  je ne veux pas non plus parler a la place des victimes rwandais qui considerent que la france a participe a ce genocide ou l a encourage ou l a peut etre ne l a pas empeche est il qu il y a un fait historique qui est la il faudra en tirer des lecons et des enseignements mais il faudra voir dans quel mesure il faut depasser cette situation la aller de l avant
+-------------------------------------------
+
+Line ID: 1393837355
+WER Score: 6.56
+Transcript: si les jeunes sideres ont pu se pardonner ont pu s embrasser aujourd hui jusqu a s embrasser sur la bouche je pense que le rwanda peut continuer a faire la paix avec la france ou avec d autres pays du monde qu il a pu accuser d avoir joue un role pas honorable dans la commission de ce drame de 1994
+Reference:  si les genocidaires ont pu se pardonner ont pu s embrasser aujourd hui jusqu a s embrasser sur la bouche je pense que le rwanda peut continuer a faire la paix avec la france ou avec d autres pays du monde qui l a pu accuser d avoir joue un role pas honorable dans la commission de ce drame de 1994
+-------------------------------------------
+
+Line ID: 1393898893
+WER Score: 0.00
+Transcript: et aussi j entends bien des autorites americaines demander a ce qu on accroisse l aide humanitaire suite a cette bavure de l armee israelienne ca parait assez aberrant dans la mesure ou c est maintenant qu on trouve la necessite d accroitre l aide humanitaire
+Reference:  et aussi j entends bien des autorites americaines demander a ce qu on accroisse l aide humanitaire suite a cette bavure de l armee israelienne ca parait assez aberrant dans la mesure ou c est maintenant qu on trouve la necessite d accroitre l aide humanitaire
+-------------------------------------------
+
+Line ID: 1393883048
+WER Score: 10.11
+Transcript: alors que sous tous les temps les populations de gaza ont reclame de l aide les organizations internationales humanitaires ont reclame de l aide ont reclame plus d humanite plus d humanitaire dans le conflit et tous ces appels la avaient ete ignores aussi bien par l armee israelienne que par ses partenaires ou bien par l autorite americaine qui soutenait ouvertement et manifestement l armee israelienne dans son offensive contre le hamas et qui fait des victimes collaterales tres importantes au sein de la population civile
+Reference:  alors que sous tous les temps les gens les populations de gaza ont reclame de l aide les organizations internationales humanitaires ont reclame de l aide on reclame plus d humanite plus d humanite dans le conflit et tous ces appels la avaient ete ignores aussi bien pour l armee israelienne que par ses partenaires ou bien par les autorites americaines qui soutenaient ouvertement et manifestement l armee israelienne dans son offensive contre le hamas et qui fait des victimes collaterales tres importantes au sein de la population civile
+-------------------------------------------
+
+Line ID: 1393835259
+WER Score: 16.39
+Transcript: je crois que ce drame humanitaire parce que la bavure frappe une ong occidentale a peut etre permis disons une catharsis ou il y a un reveil de la part des autorites americaines c est quelque chose qui est absolument neanmoins pour lui simplement qu on ne s en tienne pas simplement a des declarations d intention
+Reference:  je crois que ce drame humanitaire parce que la bavure frappe une ong occidentale a peut etre permis disons une catharsis ou il y a un reveil de la part des autorites americaines c est quelque chose qu a fait plus du mal que du bon pour lui simplement qu on s en tienne pas simplement a des declarations d intention
+-------------------------------------------
+
+Line ID: 1393832458
+WER Score: 17.14
+Transcript: donc il y a une necessite de prendre en compte cette preoccupation humanitaire au stade de loi mais aussi qu on arrive a trouver une solution de ce type de feu durable ou definitive pour pouvoir evacuer les populations civiles pour pouvoir aussi venir en aide a ces populations qui sont prises en etat dans un conflit dans lequel peut etre la plupart des populations civiles sont totalement etrangeres
+Reference:  pour lui il y a une necessite de prendre en compte cette preoccupation humanitaire a gaza mais aussi qu on arrive a trouver une solution de ce que c est un feu durable ou definitive pour pouvoir evacuer les populations civiles pour pouvoir aussi venir en aide a ces populations qui sont pris en etau dans un conflit dans lequel peut etre la plupart des populations civiles sont totalement etrangeres
+-------------------------------------------
+
+Line ID: 1393835416
+WER Score: 7.50
+Transcript: cette posture a toujours ete celle des etats unis condamnes quand il y a des bavures inacceptables ou qui choquent tout esprit doue d humanite ou de raison mais continuent en meme temps a avoir une cooperation militaire avec israel
+Reference:  cette posture a toujours ete celle des etats unis condamnee quand il y a des bavures inacceptables ou qui choquent tout esprit doue d humanite ou de raison mais continue a meme temps a avoir une cooperation militaire avec israel
+-------------------------------------------
+
+Line ID: 1393818832
+WER Score: 10.00
+Transcript: je crois que ca depasse tous les regimes americains de tout le temps ca a ete comme ca toujours est il qu il faudrait qu au niveau de la communaute internationale et peut etre au niveau surtout de la cooperation multilaterale qu une des voix plus fortes se prononce sur le conflit
+Reference:  je crois que ca depasse tous les regimes americains de tout temps ca a ete comme ca toujours est il qu il faudrait qu au niveau de la communaute internationale et peut etre au niveau surtout de la cooperation multilaterale qu ils voient plus fortes se prononcer sur le conflit
+-------------------------------------------
+
+Line ID: 1393893905
+WER Score: 7.69
+Transcript: je vois par exemple quand le president macron s etait prononce en faveur de plus d humanite et plus de degats ou de retenues par rapport aux populations civiles je crois que ca a eu un echo au sein de l opinion publique israelienne comme de l opinion publique mondiale
+Reference:  je vois par exemple quand le president macron s etait prononce en faveur de plus d humanite et plus de disons d egard ou de retenue par rapport aux populations civiles je crois que ca a eu un echo au sein de l opinion publique israelienne comme de l opinion publique mondiale
+-------------------------------------------
+
+Line ID: 1393867241
+WER Score: 0.00
+Transcript: et il est important qu au dela des etats unis que d autres puissances du monde se prononcent sur ce conflit la et exigent de la part des etats unis et surtout de la part de l armee israelienne de tenir en compte cette situation dramatique que vivent les populations civiles a gaza
+Reference:  et il est important qu au dela des etats unis que d autres puissances du monde se prononcent sur ce conflit la et exigent de la part des etats unis et surtout de la part de l armee israelienne de tenir en compte cette situation dramatique que vivent les populations civiles a gaza
+-------------------------------------------
+
+Line ID: 1393832167
+WER Score: 5.26
+Transcript: je pense qu il faudrait toujours douter de la sincerite des autorites israeliennes qui aujourd hui sont dans une logique a la limite d extermination du hamas mais aussi ne pas regardant du sort des populations civiles
+Reference:  bon je pense qu il faut toujours douter de la sincerite des autorites israeliennes qui aujourd hui sont dans une logique a la limite d extermination du hamas mais aussi ne pas regardant du sort des populations civiles
+-------------------------------------------
+
+Line ID: 1393878123
+WER Score: 7.25
+Transcript: il y a trop de cruaute dans ce conflit la aujourd hui il faut aller dans une logique d une condamnation ferme et sans equivoque d israel dans sa facon de se comporter dans ce conflit la comme l a dit tantot notre conseiller du bnn effectivement il y avait peut etre un vent de sympathie ou de comprehension de la reaction d israel apres l attaque du 7 octobre
+Reference:  il y a trop de cruaute dans ce conflit la aujourd hui il faut aller dans une logique d une condamnation ferme et sans equivoque d israel dans sa facon de se comporter dans ce conflit la comme l a dit tantot notre conseil europeen effectivement il y avait peut etre un vent de sympathie ou de comprehension de la reaction d israel apres l attaque de sept octobre
+-------------------------------------------
+
+Line ID: 1393861988
+WER Score: 15.94
+Transcript: en fait que beto netanyahou etait toujours dans le collimateur de la justice et de l opinion publique ou peut etre d une bonne partie de l opinion publique israelienne par rapport a des faits de politique interieure aujourd hui que cette situation humanitaire dramatique le met au devant de la scene et disons revele au grand monde au grand public les exactions de l armee israelienne et la responsabilite de l autorite politique israelienne
+Reference:  en fait benjamin netanyahu etait toujours dans le collimateur de la justice et de l opinion publique au fait d une bonne partie de l opinion publique israelienne par rapport a des faits de politique interieure aujourd hui cette situation humanitaire dramatique le met au devant de la cedre et disons revele au grand monde au grand public les exactions de l armee israelienne et la responsabilite politique israelienne
+-------------------------------------------
+
+Line ID: 1393880894
+WER Score: 3.45
+Transcript: je crois qu effectivement il y a une evolution sur cette perception des choses et sur la necessite disons de plus de justice vis a vis des autorites politiques israeliennes
+Reference:  je crois qu effectivement il y a une evolution sur cette perception des choses et sur la necessite de plus de justice vis a vis des autorites politiques israeliennes
+-------------------------------------------
+
+Line ID: 1393821737
+WER Score: 4.92
+Transcript: une surprise pour beaucoup de gens mais aussi c etait une dynamique sur laquelle surfait l opposition politique notamment la formation pastef voyez vous par exemple quand on regarde dans le retroviseur on voit que lors des elections locales de 2022 et des elections legislatives de la meme annee il y a eu un pourversement de la hierarchie politique
+Reference:  une surprise pour beaucoup de gens mais aussi c etait une dynamique sur laquelle surfait l opposition politique notamment a la formation pastef vous voyez vous par exemple quand on regarde dans le retroviseur on voit que lors des elections locales de 2022 et des elections legislatives de la meme annee il y a eu un traversement de la hierarchie politique
+-------------------------------------------
+
+Line ID: 1393870388
+WER Score: 8.57
+Transcript: il y a une eruption d une vague politique sous la ferule de pasteur avec une coalition electorale tres forte qui a pu par exemple avoir une presence jamais constatee a l assemblee nationale
+Reference:  il y a eu une eruption d une vague politique sous la fleurine de pastef avec une coalition electorale tres forte qui a pu par exemple avoir une presence jamais constatee a l assemblee nationale
+-------------------------------------------
+
+Line ID: 6391744614
+WER Score: 3.53
+Transcript: bon je pense que c est comme la majeure partie des jeunes ici enfin la majeure partie des jeunes de ma generation c est a l epoque ou je pense qu il y avait dara di ou pbs et on avait tous un grand frere ou bien un oncle qui aimait beaucoup le hip hop et qui avait des cassettes de mc solar ou des trucs du genre donc je pense que c est a cette epoque ou on s est vraiment interesse a la chose
+Reference:  bon je pense que c est comme la majeure partie des jeunes ici enfin la majeure partie des jeunes de ma generation c est a l epoque ou je pense il y avait daara j ou pbs et on avait tous un grand frere ou bien un oncle qui aimait beaucoup le hip hop et qui avait des cassettes de mc solar ou des trucs du genre donc je pense que c est a cette epoque ou on s est vraiment interesse a la chose
+-------------------------------------------
+
+Line ID: 6391737101
+WER Score: 1.92
+Transcript: donc tu avais le mbalar a la tele a la radio il y avait une seule tele et tout donc on n avait pas forcement acces a l information et c est a cette epoque la meme s il y avait le hip hop il n etait pas aussi populaire que maintenant
+Reference:  donc tu avais le balard a la tele a la radio il y avait une seule tele et tout donc on n avait pas forcement acces a l information et c est a cette epoque la meme s il y avait le hip hop il n etait pas aussi populaire que maintenant
+-------------------------------------------
+
+Line ID: 6391760801
+WER Score: 35.19
+Transcript: il y en a beaucoup je pense que l un des premiers sons je ne dirais pas le premier son ce n est pas forcement le premier son de hip hop que j ai ecoute je parlerais deja du groupe c est le pbs post black soul ou il y a des guittes a l epoque
+Reference:  bah il y en a beaucoup je pense dans des premiers sons moi je dirais pas le premier son c est pas forcement le premier son de hip hop que j ai ecoute je pense enfin je parlerai deja du groupe c est le pbs pour ce black soul des guitares a l epoque
+-------------------------------------------
+
+Line ID: 6391770037
+WER Score: 11.27
+Transcript: apres il y a eu des sons comme ataya et tout et puis apres il y a eu des dao cho l album new york paris dakar qui reste pour moi enfin pas forcement le meilleur album mais l un des albums qui m a le plus marque qui a le plus marque ma jeunesse et tout donc je pense que c etait a cette epoque la
+Reference:  tu vois apres il y a eu des sons comme ataya et tout et puis apres il y a eu des daouchiwau l album new york par les dakar qui reste pour moi enfin tu vois pas forcement le meilleur album mais l un des albums qui m a le plus marque qui a le plus marque ma jeunesse et tout donc je pense que c etait a cette epoque la
+-------------------------------------------
+
+Line ID: 6391767559
+WER Score: 3.90
+Transcript: enfin je pense que c est les foyers c est les fetes d ecole et tout ou on faisait appel a des groupes et tout donc on avait l occasion d avoir des concerts que ce soit a l ecole ou bien que ce soit dans d autres ecoles parce qu ils arrivaient que les groupes tournent dans les ecoles et les eleves aussi ils etaient obliges d aller dans certaines ecoles pour pouvoir suivre les concerts
+Reference:  enfin je pense que c est les foyers c est les fetes d ecoles et tout ou on faisait appel a des groupes et tout donc on avait l occasion d avoir des concerts que ca soit a l ecole ou bien que ca soit dans d autres ecoles parce qu ils arrivaient que les groupes tournent dans les ecoles et les eleves aussi ils etaient obliges d aller dans certaines ecoles pour pouvoir suivre les concerts
+-------------------------------------------
+
+Line ID: 6391777968
+WER Score: 15.69
+Transcript: et il y avait aussi les matinees a tenby des matinees qu on a vraiment frequentees a l epoque donc oui il y avait beaucoup de showcase il y avait beaucoup d evenements meme si ce n est pas comparable a ce qui se passe maintenant
+Reference:  et il y avait aussi les matinees a tenby ou on a vraiment enfin des matinees ou on a vraiment frequente a l epoque donc oui il y avait beaucoup de showcases il y avait beaucoup d evenements meme si ce n est pas comparable a ce qui se passe maintenant
+-------------------------------------------
+
+Line ID: 6391770443
+WER Score: 6.82
+Transcript: et de fil en aiguille les gens ont commence a repartager mes photos sur les reseaux a l epoque donc j ai commence a prendre gout aussi comme je te disais tantot j ai une relation tres intime avec les images
+Reference:  et de fil en aiguille les gens ont commence a repartager mes photos sur les reseaux a l epoque et tout et donc j ai commence a prendre gout aussi comme je te disais tantot j ai une relation tres intime avec les images
+-------------------------------------------
+
+Line ID: 6391799882
+WER Score: 16.13
+Transcript: je pense que personne n a l apparence du savoir donc l idee peut venir de n importe ou apres moi je suis tres fort de propositions je suis creatif de base et a chaque fois j aime bien voir les idees concevoir les choses de l idee a la materialization de l idee
+Reference:  bon tu sais enfin moi je pense que personne n a l apparence du savoir donc l idee elle peut venir de n importe ou apres moi je suis tres fort de proposition je suis creatif de base et a chaque fois en fait j aime bien avoir les idees concevoir les choses de l idee a la materialization de l idee
+-------------------------------------------
+
+Line ID: 6391733328
+WER Score: 6.41
+Transcript: donc du coup quand je discute avec quelqu un je prends l exemple par exemple de je dis n importe quoi flood ripper tu vois quand on a fait la pochette de son album renaissance j avais l idee mais on a discute aussi parce que lui aussi c est un gars qui est tres carre qui sait ce qu il veut et qui a vraiment pas mal de idees dans sa tete donc c est issu d une discussion
+Reference:  donc du coup quand je discute avec quelqu un je prends l exemple par exemple je dis n importe quoi flat ripper tu vois quand on a fait la poche de son album renaissance j avais l idee mais on a discute aussi parce que lui aussi c est un gars qui est tres carre qui sait ce qu il veut et qui a vraiment pas mal dit dans sa tete donc c est issu d une discussion
+-------------------------------------------
+
+Line ID: 6391732598
+WER Score: 3.23
+Transcript: les reflexions venaient de partout et puis on a abouti a une belle cover qui avait une bonne symbolique et qui repondait forcement au brief de ce qu ils voulaient en fait mais sinon d habitude moi je suis force de proposition il y a des artistes qui viennent qui te disent voila c est ca le nom du projet je te laisse faire ce que tu veux il y en a d autres qui viennent qui te disent c est ca le projet moi je pense c est ca ca ca et ca
+Reference:  les reflexions venaient de partout et puis on a abouti a une belle cover qui avait une bonne symbolique et qui repondait forcement au brief de ce qu ils voulaient en fait mais sinon d habitude moi je suis fort de proposition il y a des artistes qui viennent qui te disent voila c est ca le nom du projet je te laisse faire ce que tu veux il y en a d autres qui viennent qui te disent c est ca le projet moi je pense a ca ca ca et ca
+-------------------------------------------
+
+Line ID: 6391723771
+WER Score: 2.86
+Transcript: pense que on pourrait dire la meme chose du hip hop francais et la meme chose du hip hop americain parce qu on dit que les cultures sont differentes meme si en fait la base parce que le hip hop c est une culture urbaine la rue reste la meme tu vois les histoires restent a peu pres les memes mais les cultures des gens les societes sont differentes
+Reference:  je pense qu on pourrait dire la meme chose du hip hop francais et la meme chose du hip hop americain parce qu on dit que les cultures sont differentes meme si en fait la base parce que le hip hop c est une culture urbaine la rue reste la meme tu vois les histoires restent a peu pres les memes mais les cultures des gens les societes sont differentes
+-------------------------------------------
+
+Line ID: 6391762184
+WER Score: 2.08
+Transcript: je pense que c est la raison pour laquelle il y a meme des clivages ici au sein du hip hop parce qu il y en a qui pensent qu on devrait se calquer au hip hop americain dans la mesure ou c est ne a new york
+Reference:  je pense que c est la raison pour laquelle il y a meme des clivages ici au sein du hip hop parce qu il y en a qui pensent qu on devrait se calquer au hip hop americain dans la region ou c est ne a new york
+-------------------------------------------
+
+Line ID: 6391742320
+WER Score: 4.35
+Transcript: donc c est une culture americaine qu on a exportee mais il y a certains artistes ou bien certains gens qui ont su le tropicaliser et l adapter a nos cultures et a nos realites parce que les realites sont differentes les realites aux etats unis et a new york ne sont pas les memes qu a dakar et a yomel elles ne sont pas non plus les memes qu a paris
+Reference:  donc c est une culture americaine qu on a exportee mais il y a certains artistes ou bien certains gens qui ont su le tropicaliser et l adapter a nos cultures et a nos realites parce que les realites sont differentes les realites aux etats unis a new york ne sont pas les memes qu a dakar a yomel elles ne sont pas non plus les memes a paris
+-------------------------------------------
+
+Line ID: 6391766972
+WER Score: 3.45
+Transcript: oui bon si ca a change quelque chose je ne sais pas trop mais je sais que ca nous a offert quand meme un peu de visibilite ca nous a offert un peu de visibilite en tant que photographe parce que pas forcement dans le cadre que du hip hop mais meme dans d autres domaines
+Reference:  oui bon si ca a change quelque chose je ne sais pas trop mais je sais que ca nous a offert quand meme un peu de visibilite ca nous a offert un peu de visibilite en tant que photographe parce que pas forcement dans le cadre que du hip hop en fait mais meme dans d autres domaines
+-------------------------------------------
+
+Line ID: 6391754594
+WER Score: 4.29
+Transcript: oui je pense qu il y a eu un impact tres fort mais au dela meme de ce qu on peut imaginer en fait parce que en fait comme je le dis a chaque fois les gens ont tendance a categoriser les gens qui etaient dans l hip hop comme des jeunes qui etaient un peu des rates de la societe qui n avaient rien d autre a faire tu vois
+Reference:  oui je pense qu il y a eu un impact tres fort mais au dela meme de ce qu on peut imaginer en fait parce que en fait comme je le dis a chaque fois les gens ont tendance a categoriser les gens qui etaient dans le hip hop comme des jeunes qui etaient un peu des rates la societe qui n avait rien d autre a faire tu vois
+-------------------------------------------
+
+Line ID: 6391714420
+WER Score: 1.61
+Transcript: mais l avenir a prouve le contraire parce que par exemple si tu prends l exemple du senegal et meme au dela du senegal quand tu vas aux states quand tu vas aux us on a vu des businessmen emerger qui sont issus de la culture urbaine on a vu des mouvements qui ont contribue a une alternance en l occurrence yanamar
+Reference:  et l avenir a prouve le contraire parce que par exemple si tu prends l exemple du senegal et meme au dela du senegal quand tu vas aux states quand tu vas aux us on a vu des businessmen emerger qui sont issus de la culture urbaine on a vu des mouvements qui ont contribue a une alternance en l occurrence yanamar
+-------------------------------------------
+
+Line ID: 6391731732
+WER Score: 26.15
+Transcript: je pense que c est de l album album et il est de 2000 si je ne me trompe pas ma petite reflexion sur cet album je trouve que c est un album qui est tres underrated parce qu il a eu la chance de sortir a la meme epoque que rapodio
+Reference:  je pense que c est il est de l album al bombo l album il s appelle al bombo et il est de 2000 je pense si je me trompe pas et ma petite reflexion sur cet album je trouve que c est un album qui est tres underrated parce qu il a eu la chance de pomper de sortir a la meme epoque rapodio
+-------------------------------------------
+
+Line ID: 6391726442
+WER Score: 100.00
+Transcript: je suis mohamed kandji je suis senegalais je suis d akara je suis ne ici
+Reference:  bon c est mohamed kandji qui est senegalais dakarois born and raised here
+-------------------------------------------
+
+Line ID: 6391712593
+WER Score: 34.69
+Transcript: je suis graphique designer a la base et directeur artistique dans une entreprise de publicite je suis passionne de culture urbaine et photographe aussi a cote et qui fait beaucoup de choses en rapport avec l art et la culture
+Reference:  je suis de format je suis graphic designer a la base et je suis directeur artistique dans une agence de publicite et passionne de cultures urbaines et photographes aussi a cote et qui fait beaucoup de choses en fait mais tout en rapport avec l art et la culture
+-------------------------------------------
+
+Line ID: 5701884100
+WER Score: 6.38
+Transcript: effectivement apres une election presidentielle qui s est bien deroulee dans l ensemble le calme est maintenant bien revenu au senegal et les activites ont effectivement repris suite a la confiance retrouvee la reprise egalement de la liaison maritime dakar gigant chore a mon avis vient couronner le tout
+Reference:  effectivement apres une election presidentielle qui s est bien deroulee dans l ensemble le calme est maintenant bien revenu au senegal les activites ont effectivement repris suite a la confiance retrouvee la reprise egalement de la liaison maritime dakar zygnashor a mon avis vient couronner le tout
+-------------------------------------------
+
+Line ID: 5701859147
+WER Score: 0.00
+Transcript: tout a fait cette equipe est bien constituee avec des ministres qui ont de l experience et une certaine virginite par rapport aux erreurs de gestion du passe je pense pour ma part que c est l un des meilleurs gouvernements que le senegal ait connu depuis les independances
+Reference:  tout a fait cette equipe est bien constituee avec des ministres qui ont de l experience et une certaine virginite par rapport aux erreurs de gestion du passe je pense pour ma part que c est l un des meilleurs gouvernements que le senegal ait connu depuis les independances
+-------------------------------------------
+
+Line ID: 5701852109
+WER Score: 9.68
+Transcript: la situation qu il herite est difficile vu les tensions budgetaires existantes avec comme vous le savez un ratio dette publique sur pib de l ordre de 796% en 2023 et un service de la dette de l ordre de one milliard de one 800 plutot one milliard one 826 milliards plus precisement de france fa qui represente environ 40% des recettes fiscales
+Reference:  la situation qu il herite est difficile vu les tensions budgetaires existantes avec comme vous le savez un ratio dette publique sur pib de l ordre de 79 6% en 2023 et un service de la dette de l ordre de one milliard de 1800 plutot one milliard 1826 milliards plus precisement de france fa qui represente environ 40% des recettes fiscales
+-------------------------------------------
+
+Line ID: 5701831654
+WER Score: 0.00
+Transcript: il doit travailler a reformer les nombreux goulots d etranglement d une economie extravertie qui a besoin d ailleurs de retrouver une certaine souverainete c est une balance commerciale qui est structurellement deficitaire representant environ 15% du pib avec une grosse dependance par rapport a des segments strategiques comme le ble le riz et le petrole
+Reference:  il doit travailler a reformer les nombreux goulots d etranglement d une economie extravertie qui a besoin d ailleurs de retrouver une certaine souverainete c est une balance commerciale qui est structurellement deficitaire representant environ 15% du pib avec une grosse dependance par rapport a des segments strategiques comme le ble le riz et le petrole
+-------------------------------------------
+
+Line ID: 5701813371
+WER Score: 12.12
+Transcript: un financement de l economie qui est faible avec 346% alors qu un pays comme le maroc est a 60% mais aussi un budget dependant a grande partie des financements exterieurs
+Reference:  un financement de l economie qui est faible avec 34 6% alors qu un pays comme le maroc est a 60% mais aussi un budget dependant d une grande partie des financements exterieurs
+-------------------------------------------
+
+Line ID: 5701819287
+WER Score: 7.81
+Transcript: effectivement l appropriation de notre politique monetaire est devenue un enjeu majeur de notre politique economique a cet egard d ailleurs le franc cfa ne peut plus fonctionner comme ca a ete jusqu a present j ai bien suivi l emission dont vous faites reference et les arguments avances par m nubikpo ont retenu mon attention d ailleurs m nubikpo est un economiste reconnu
+Reference:  effectivement l appropriation de notre politique monetaire est devenue un enjeu majeur de nos politiques economiques a cet egard d ailleurs le franc cfa ne peut plus fonctionner comme ca a ete jusqu a present j ai bien suivi l emission dont vous faites reference et les arguments avances par m nubukpo ont retenu mon attention d ailleurs m nubukpo est un economiste reconnu
+-------------------------------------------
+
+Line ID: 5701897855
+WER Score: 0.00
+Transcript: mais je trouve ces arguments relativement insuffisants d abord je pense effectivement que la parite fixe est un gros handicap aujourd hui pour nos economies vu son impact negatif sur nos exportations elle confine cette parite fixe dans une position d importatrice et handicap notre capacite a transformer nos matieres premieres locales sur place
+Reference:  mais je trouve ces arguments relativement insuffisants d abord je pense effectivement que la parite fixe est un gros handicap aujourd hui pour nos economies vu son impact negatif sur nos exportations elle confine cette parite fixe dans une position d importatrice et handicap notre capacite a transformer nos matieres premieres locales sur place
+-------------------------------------------
+
+Line ID: 5701814499
+WER Score: 14.29
+Transcript: il faut aller a mon avis a un taux de change variable cale sur les principales monnaies caracteristiques de notre commerce exterieur il faut aussi mener cette reforme surtout en urgence au sein de l umoa et non dans le cadre de la cedeao comme propose par m nibutpo ce qui risque de retarder l agenda
+Reference:  il faut aller a mon avis en taux de change variable caler sur les principales monnaies caracteristiques de notre commerce exterieur il faut aussi mener cette reforme surtout en urgence au sein de l uemoa et non dans le cadre de la cedeao qu on proposait par m nubikpou ce qui risque de retarder l agenda
+-------------------------------------------
+
+Line ID: 5701866115
+WER Score: 0.00
+Transcript: ca c est le premier element le deuxieme element c est qu il faut a mon avis reflechir a imprimer notre monnaie sur place ou a defaut sur la base d appels d offres internationaux au lieu que ce soit toujours en france et la je pense qu effectivement ca pourrait permettre de relever les defis de l emploi mais aussi de la maitrise technique
+Reference:  ca c est le premier element le deuxieme element c est qu il faut a mon avis reflechir a imprimer notre monnaie sur place ou a defaut sur la base d appels d offres internationaux au lieu que ce soit toujours en france et la je pense qu effectivement ca pourrait permettre de relever les defis de l emploi mais aussi de la maitrise technique
+-------------------------------------------
+
+Line ID: 5701844632
+WER Score: 0.00
+Transcript: le troisieme element que je voulais completer egalement c est qu il faudra modifier les regles de fonctionnement des organes de gouvernance des banques centrales des trois zones de maniere a rendre les decisions entierement africaines
+Reference:  le troisieme element que je voulais completer egalement c est qu il faudra modifier les regles de fonctionnement des organes de gouvernance des banques centrales des trois zones de maniere a rendre les decisions entierement africaines
+-------------------------------------------
+
+Line ID: 5701854933
+WER Score: 0.00
+Transcript: sans oublier egalement un quatrieme point qui me parait important c est de revoir surtout les missions des banques centrales surtout de la bcao en les elargissant au plein emploi le plein emploi c est quand meme tres important au lieu de la seule lutte contre l inflation
+Reference:  sans oublier egalement un quatrieme point qui me parait important c est de revoir surtout les missions des banques centrales surtout de la bcao en les elargissant au plein emploi le plein emploi c est quand meme tres important au lieu de la seule lutte contre l inflation
+-------------------------------------------
+
+Line ID: 5701895017
+WER Score: 8.82
+Transcript: enfin je crois qu il faudra egalement veiller aux exigences de circulation monetaire de cooperation et d integration il faudra faire circuler dans les trois zones le cfa les memes signes monetaires afin de favoriser leur integration rien ne peut justifier le fait que le franc cfa d afrique centrale ne soit pas interchangeable avec le franc cfa d afrique de l ouest
+Reference:  et enfin je crois qu il faudra egalement veiller a aux exigences je dirais de surpilation monetaire de cooperation et d integration il faudra faire circuler dans les trois zones le cfa les memes signes monetaires afin de favoriser leur integration rien ne peut justifier le fait que le franc cfa d afrique centrale ne soit pas interchangeable avec justement le franc cfa d afrique de l ouest
+-------------------------------------------
+
+Line ID: 5701895815
+WER Score: 2.00
+Transcript: bien entendu l emploi doit etre au coeur des politiques publiques saviez vous que 65% des entreprises creees meurent apres une annee d existence c est pourquoi je suis convaincu que de maniere ad hoc l avenement d un etat stratege devrait permettre de contribuer a la resolution du probleme
+Reference:  bien entendu l emploi doit etre au coeur des politiques publiques saviez vous que 65% des entreprises creees meurent apres une annee d existence c est pourquoi je suis convaincu que de maniere ad hoc l avenement d un etat strategique devrait permettre de contribuer a la resolution du probleme
+-------------------------------------------
+
+Line ID: 5701879337
+WER Score: 13.56
+Transcript: je propose depuis 2014 de passer d un etat entraineur a un etat capitaine a d autres faire plus d etats et mieux d etats cet etat du senegal a aujourd hui un budget estime a plus de 7 0 milliards de francs cfa et pourtant les mangues qui pourrissent en casemance necessitent juste des investissements peu couteux
+Reference:  je propose depuis 2014 de passer d un etat entraineur a un etat capitaine a d autres faire plus d etat et mieux d etat cet etat du senegal a aujourd hui un budget estime a plus de 7000 milliards de francs cfa et pourtant les manques qui pourrissent en cas d amance necessitent juste des investissements peu couteux
+-------------------------------------------
+
+Line ID: 5701890734
+WER Score: 1.56
+Transcript: il faudra optimiser au mieux les ressources budgetaires de l etat grace a une renegociation des contrats une meilleure taxation des entreprises evoluant dans les secteurs de rente et une optimisation du train de vue de l etat de maniere a investir cette manne financiere dans des industries de substitution aux importations mais aussi dans la transformation et la conservation des produits agricoles
+Reference:  il faudra optimiser au mieux les ressources budgetaires de l etat grace a une renegociation des contrats une meilleure taxation des entreprises evoluant dans les secteurs de rente et une optimisation du train de vue de l etat et de maniere a investir cette manne financiere dans des industries de substitution aux importations mais aussi dans la transformation et la conservation des produits agricoles
+-------------------------------------------
+
+Line ID: 5701899173
+WER Score: 4.65
+Transcript: les autres mesures que je preconise c est de restaurer le secteur prive autour de vrais hommes d affaires et de leur donner un bon accompagnement financier et technique grace aux instruments financiers existants mais qu il faudra auditer et renforcer les mesures .
+Reference:  les autres mesures que je preconis c est de restaurer le secteur prive autour de vrais hommes d affaires et de leur donner un bon accompagnement financier et technique grace aux instruments financiers existants mais qu il faudra auditer et renforcer les mesures
+-------------------------------------------
+
+Line ID: 5701882690
+WER Score: 5.00
+Transcript: d autres evidemment concerneront d autres domaines d activite tels que le deroulement de travaux d interet collectif mais aussi veiller surtout a dissuader les collectivites locales d operer des deguerpissements intempestifs de marchands ambulants dans leur quete de modernisation
+Reference:  d autres evidemment concerneront d autres domaines d activite tel que le deroulement des travaux d interet collectif mais aussi veiller surtout a dissuader les collectivites locales d operer des deguerpissements intempestifs de marchands ambulants dans leur quete de modernisation
+-------------------------------------------
+
+Line ID: 5701849749
+WER Score: 2.44
+Transcript: et je pense qu aussi il faudra penser peut etre a organizer des journees de valorisation des petits metiers parce que beaucoup d africains sont prets a faire de petits metiers ailleurs qu ils ne souhaitent pas faire au plan local
+Reference:  et je pense que aussi il faudra penser peut etre a organizer des journees de valorisation des petits metiers parce que beaucoup d africains sont prets a faire de petits metiers ailleurs qu ils ne souhaitent pas faire au plan local
+-------------------------------------------
+
+Line ID: 5701898263
+WER Score: 0.00
+Transcript: oui effectivement l acces du secteur prive au marche public est devenu une exigence pour renforcer le secteur prive local qui doit participer plus a l execution des marches publics
+Reference:  oui effectivement l acces du secteur prive au marche public est devenu une exigence pour renforcer le secteur prive local qui doit participer plus a l execution des marches publics
+-------------------------------------------
+
+Line ID: 5701879831
+WER Score: 2.38
+Transcript: bien entendu avec parallelement des programs de mise a niveau technique et moins de concurrence deloyale de la part des fonctionnaires qui parfois sur la base de prete nom et sans aucune connaissance du monde de l entreprise s arrachent les marches
+Reference:  bien entendu avec parallelement des programs de mise a niveau technique et moins de concurrence deloyale de la part des fonctionnaires qui parfois sur la base de prete non et sans aucune connaissance du monde de l entreprise s arrachent les marches
+-------------------------------------------
+
+Line ID: 5701816325
+WER Score: 4.29
+Transcript: alors je me rejouis de constater que dans les statistiques 65% de la commande publique serait executee a ce jour par des entreprises communautaires sous la base de regles de preference mises en place je crois que l umoa devrait quand meme aller dans ce sens la et mieux l approfondir parce que plus de marche pour les entreprises locales c est plus de possibilites financieres et plus d investissements
+Reference:  alors je me rejouis de constater que dans les statistiques 65% de la commande publique serait executee a ce jour par des entreprises communautaires sous la base des regles de preference mises en place je crois que l uemoa devrait quand meme aller dans ce sens la et mieux l approfondir parce que plus de marches pour les entreprises locales c est plus de possibilites financieres et plus d investissements
+-------------------------------------------
+
+Line ID: 5701838021
+WER Score: 0.00
+Transcript: alors en ce qui concerne l inflation il faudra une panoplie de mesures c est d abord de relancer la production locale maitriser le risque de change au niveau international puisque le senegal est un pays importateur de tout c est de diversifier les sources d approvisionnement mener des politiques de contingentement afin de reequilibrer les importations en faveur de la production locale
+Reference:  alors en ce qui concerne l inflation il faudra une panoplie de mesures c est d abord de relancer la production locale maitriser le risque de change au niveau international puisque le senegal est un pays importateur de tout c est de diversifier les sources d approvisionnement mener des politiques de contingentement afin de reequilibrer les importations en faveur de la production locale
+-------------------------------------------
+
+Line ID: 5701865940
+WER Score: 1.61
+Transcript: mais aussi c est d auditer les societes d eau et d electricite d ailleurs comme vous le savez m faure les structures de charges pesent sur les prix aux consommateurs bien entendu il faudra aussi penser a faire plus d economies au niveau des gaspillages constates au niveau des etats mais aussi au niveau des menages et recourir aux boutiques temoins
+Reference:  mais aussi c est d auditer les societes d eau et d electricite d ailleurs comme vous le savez monsieur faure les structures de charges pesent sur les prix aux consommateurs bien entendu il faudra aussi penser a faire plus d economies au niveau des gaspillages constates au niveau des etats mais aussi au niveau des menages et recourir aux boutiques temoins
+-------------------------------------------
+
+Line ID: 5701846161
+WER Score: 2.00
+Transcript: il faudra donc travailler a formaliser les entreprises du secteur informel mais aussi mieux cibler les politiques d exoneration en direction des entreprises multinationales je crois que si le senegal fait cela il pourra elargir la base fiscale en ayant beaucoup plus de recettes permettant de financer son developpement
+Reference:  il faudra donc travailler a formaliser les entreprises du secteur informel mais aussi mieux cibler les politiques d exoneration en direction des entreprises multinationales je crois que si le senegal le fait cela il pourra elargir la base fiscale en ayant beaucoup plus de recettes permettant de financer son developpement
+-------------------------------------------
+
+Line ID: 5701844245
+WER Score: 3.39
+Transcript: effectivement la decentralization est un element fondamental de toute politique economique j ai l habitude de dire qu un pays comme le senegal n a pas fait preuve d une grande vision dans ce domaine parce qu aujourd hui trois quarts des activites economiques sont concentrees a dakar qui ne representent du reste que 075% du territoire national
+Reference:  effectivement la decentralization est un element fondamental de toute politique economique j ai l habitude de dire qu un pays comme le senegal n a pas fait preuve d une grande vision dans ce domaine parce qu aujourd hui trois quarts des activites economiques sont concentrees a dakar qui ne representent du reste que 0 75% du territoire national
+-------------------------------------------
+
+Line ID: 5701897568
+WER Score: 3.57
+Transcript: c est un manque de vision et je crois qu on ne peut pas se developper le senegal ne peut pas se developper sans qu il y ait une bonne politique d amenagement du territoire je propose une politique basee sur cinq poles economiques mais surtout assortie de transferts des ministeres economiques dans ces regions concernees
+Reference:  c est un manque de vision et je crois qu on ne peut pas se developper le senegal ne peut pas se developper sans qu il y ait une bonne politique d amenagement du territoire je propose une politique basee sur cinq poles economiques mais surtout assorti des transferts des ministeres economiques dans ces regions concernees
+-------------------------------------------
+
+Line ID: 5701816469
+WER Score: 19.05
+Transcript: l agriculture par exemple l industrie le ministere du tourisme je pense qu a l heure d internet mais aussi d internet cela pourrait developper les terroirs d une part mais aussi d autre part decongestionner la capitale egalement arreter l exode rural
+Reference:  l agriculture par exemple l industrie le ministere du tourisme je pense que alors d internet mais aussi d intranet sera pour developper les terroirs d une part mais aussi d autre part decongestionner la capitale et egalement arreter l exode rural
+-------------------------------------------
+
+Line ID: 5701865891
+WER Score: 3.51
+Transcript: alors la reduction du train de vue de l etat vous avez parfaitement raison je pense qu aujourd hui il y a des mesures qui doivent etre prises tres rapidement par le gouvernement du senegal parce que vous savez un pays comme le senegal ferait beaucoup d economies en supplement des institutions budgetivores inefficaces mais aussi inopportunes
+Reference:  alors la reduction du train de vie de l etat vous avez parfaitement raison je pense qu aujourd hui il y a des mesures qui doivent etre prises tres rapidement par le gouvernement du senegal parce que vous savez un pays comme le senegal ferait beaucoup d economies en supprimant des institutions budgetivores inefficaces mais aussi inopportunes
+-------------------------------------------
+
+Line ID: 5701889555
+WER Score: 0.00
+Transcript: je pense par exemple au conseil economique social et environnemental au conseil des collectivites territoriales je pense au conseil du dialog social mais les mesures d economie ne vont pas se limiter a ces aspects il faudra aussi reduire les fonds politiques
+Reference:  je pense par exemple au conseil economique social et environnemental au conseil des collectivites territoriales je pense au conseil du dialog social mais les mesures d economie ne vont pas se limiter a ces aspects il faudra aussi reduire les fonds politiques
+-------------------------------------------
+
+Line ID: 5701876057
+WER Score: 6.52
+Transcript: parce que des fonds politiques distribues comme cela sans aucune forme de controle je crois que ca il faut y mettre un terme mais egalement au niveau de l assemblee je pense que le nombre de deputes est trop important pour un pays en developpement
+Reference:  parce que des fonds politiques distribues comme cela sans aucune forme de controle je crois que ca il faut y mettre en termes alors mais egalement au niveau de l assemblee je pense que le nombre de deputes est trop important pour un pays en developpement
+-------------------------------------------
+
+Line ID: 5701827707
+WER Score: 0.00
+Transcript: il faudra essayer de le restreindre et regarder aussi la question du versement des salaires afin de les remplacer par des indemnites de cession mais egalement la mise en place de maniere generale au niveau de l etat de systemes de controle efficaces et digitalises
+Reference:  il faudra essayer de le restreindre et regarder aussi la question du versement des salaires afin de les remplacer par des indemnites de cession mais egalement la mise en place de maniere generale au niveau de l etat de systemes de controle efficaces et digitalises
+-------------------------------------------
+
+Line ID: 5701897597
+WER Score: 0.00
+Transcript: je crois que cela permettrait certainement de relever un tout petit peu le niveau professionnel de gestion de l etat du senegal et ca devrait permettre bien entendu de degager des marges budgetaires permettant de financer l emploi
+Reference:  je crois que cela permettrait certainement de relever un tout petit peu le niveau professionnel de gestion de l etat du senegal et ca devrait permettre bien entendu de degager des marges budgetaires permettant de financer l emploi
+-------------------------------------------
+
+Line ID: 9288747594
+WER Score: 2.70
+Transcript: alors definir l actuarial c est d abord definir l actuaire qui est au center un actuaire c est un gestionnaire de risque a long terme il est dote de connaissances poussees dans le domaine des mathematiques
+Reference:  alors definir l actuaria c est d abord definir l actuaire qui est au center un actuaire c est un gestionnaire de risque a long terme il est dote de connaissances poussees dans le domaine des mathematiques
+-------------------------------------------
+
+Line ID: 9288723753
+WER Score: 1.75
+Transcript: et ces connaissances lui permettent meme s il n est pas maitre du hasard de pouvoir controler les consequences du hasard donc partout ou se posent des problemes de gestion de risque les actuaires sont presents quand vous prenez l occident la ou les actuaires sont le plus presents c est dans les assurances et les banques
+Reference:  et ses connaissances lui permettent meme s il n est pas maitre du hasard de pouvoir controler les consequences du hasard donc partout ou se posent des problemes de gestion de risque les actuaires sont presents quand vous prenez l occident la ou les actuaires sont le plus presents c est dans les assurances et les banques
+-------------------------------------------
+
+Line ID: 9288746771
+WER Score: 2.44
+Transcript: c est aujourd hui qu on voit maintenant les etats comprendre qu ils ont signe tellement de contrats et que tout ce qui est contractuel est relie a l assurance et que donc la technique assurance est geree par l actuariat
+Reference:  c est aujourd hui qu on voit maintenant les etats comprendre qu ils ont signe tellement de contrats et que tout ce qui est contractuel est relie a l assurance et que donc la technique assurance est geree par l actuaria
+-------------------------------------------
+
+Line ID: 9288755245
+WER Score: 1.47
+Transcript: alors de la meme sorte que la construction d un systeme financier etait indispensable pour developper l occident aujourd hui comme les africains ont pris beaucoup de retard depuis les independances passer par l assurance c est devenu fondamental comprendre deja qu est ce que c est que l assurance comprendre que l assurance en fait c est le socle par lequel la finance africaine va se developper
+Reference:  alors de la meme sorte que la construction d un systeme financier etait indispensable pour developper l occident aujourd hui comme les africains ont pris beaucoup de retard depuis les independances passer par l assurance s est devenu fondamental comprendre deja qu est ce que c est que l assurance comprendre que l assurance en fait c est le socle par lequel la finance africaine va se developper
+-------------------------------------------
+
+Line ID: 9288740250
+WER Score: 7.02
+Transcript: ce qui a fait le systeme financier de la france c est la banque d assurance dans le monde entier la ou la banque d assurance a vraiment reussi c est en france c est que des banques se sont dotees de compagnies d assurance qui developpent les produits d assurance que ces banques vont distribuer dans le reseau
+Reference:  ce qui a fait le systeme financier de la france c est la banque assurance dans le monde entier la ou la banque assurance a vraiment reussi c est en france c est que des banques se sont dotees de compagnies d assurances qui developpent les produits d assurances que ces banques vont distribuer dans le reseau
+-------------------------------------------
+
+Line ID: 9288790625
+WER Score: 7.55
+Transcript: aujourd hui quand vous regardez la france c est en afrique subtarienne la france a une strategie surtout sur le plan de ses banques parce que les banques sont des instruments sa strategie c est de sortir progressivement donc c est certainement aux francais de dire exactement pourquoi ils ont cette strategie
+Reference:  aujourd hui quand vous regardez la france c est qu en afrique subsaharienne la france a une strategie surtout sur le plan de ses banques parce que les banques sont des instruments sa strategie c est de sortir progressivement donc c est certainement aux francais de dire exactement pourquoi ils ont ces strategies
+-------------------------------------------
+
+Line ID: 5701851717
+WER Score: 10.00
+Transcript: sans oublier une economie encore completement extravertie mais je pense qu un rebond est bien possible au vu des elements de rupture annonces des profits legalement cooptes dans le gouvernement
+Reference:  sans oublier une economie encore completement extravertie mais je pense qu un rebond est bien possible au vu des elements de rupture annonces des profils egalement coptes dans le gouvernement
+-------------------------------------------
+
+Line ID: 5701899589
+WER Score: 7.50
+Transcript: mais egalement des pistes degagees par rapport a la renegociation des contrats minier gazier petrolier l introduction d une bonne dose de bonne gouvernance dans la gestion des affaires et un reprofilage de la politique economique autour de la souverainete
+Reference:  mais egalement des pistes degagees par rapport a la renegociation des contrats miniers gaziers petroliers l introduction d une bonne dose de bonne gouvernance dans la gestion des affaires et un reprofilage de la politique economique autour de la souverainete
+-------------------------------------------
+
+Line ID: 5701882977
+WER Score: 17.24
+Transcript: sans oublier une agriculture qui occupe a ce jour 70% de la population active qui travaille seulement 3 mois sur 12 parce que fortement dependant de la pluviometrique
+Reference:  sans oublier une agriculture qui occupe a ce jour 70% de la population active qui travaille seulement trois mois sur douze parce que fortement dependante de la pluie biometrique
+-------------------------------------------
+
+Line ID: 5701818341
+WER Score: 0.00
+Transcript: si dans le cadre du concept global de souverainete lance par les nouvelles autorites le gouvernement arrive a inverser la tendance sur ces differents points ce serait un bon debut et un gaz certain de prosperite surtout dans un contexte de production petroliere et gaziere
+Reference:  si dans le cadre du concept global de souverainete lance par les nouvelles autorites le gouvernement arrive a inverser la tendance sur ces differents points ce serait un bon debut et un gaz certain de prosperite surtout dans un contexte de production petroliere et gaziere
+-------------------------------------------
+
+Line ID: 5701884507
+WER Score: 3.57
+Transcript: effectivement dans nos propositions les deux axes existent le senegal gagnerait a faire coexister sur son sol un parfait dosage et harmonie entre un secteur prive et national fort
+Reference:  effectivement dans nos propositions les deux axes existent le senegal gagnerait a faire coexister sur son sol un parfait dosage et harmonie entre un secteur prive national fort
+-------------------------------------------
+
+Line ID: 5701888907
+WER Score: 2.86
+Transcript: mais aussi des entreprises etrangeres responsables etablissent la base de criteres de transparence irreprochable et qui jouent un jeu collectif bien entendu en favorisant un transfert de technologies et de solides ententes de complementarite industrielle
+Reference:  mais aussi des entreprises etrangeres responsables etablissent la base de criteres de transparence irreprochable et qui jouent un jeu collectif bien entendu en favorisant un transfert de technologie et de solides ententes de complementarite industrielle
+-------------------------------------------
+
+Line ID: 5701811284
+WER Score: 12.20
+Transcript: sur cette question de la fiscalite il faudra surtout dire que le secteur informel qui represente aujourd hui plus de 50% du pib du senegal mais aussi 90% des emplois ne contribue qu a autour de 3% aux recettes fiscales
+Reference:  alors sur cette question de la fiscalite il faudra surtout dire que le secteur informel qui represente aujourd hui plus de 50% du pib du senegal mais aussi 90% des emplois ne contribuent qu a autour de 3% au recette fiscal
+-------------------------------------------
+
+Line ID: 5701825867
+WER Score: 2.63
+Transcript: c est encore tres peu alors avec un taux de pression fiscale de l ordre de 18% le senegal a mon avis a de la marge par rapport au seuil defini par l umoa qui est de 20%
+Reference:  c est encore tres peu alors avec un taux de pression fiscale de l ordre de 18% le senegal a mon avis a de la marge par rapport au seuil defini par l uemoa qui est de 20%
+-------------------------------------------
+
+Line ID: 7042715355
+WER Score: 1.47
+Transcript: c est triste ce qu on est en train de vivre en ce moment en rdc meme si ce n est pas la premiere fois qu il y a ce genre de conflit mais nous savons que goma c est la principale ville qui est a la fois strategique mais aussi symbolique pour la rdc c est une ville de 2000000s d habitants qui a un aeroport international
+Reference:  c est triste ce qu on est en train de vivre en ce moment en rdc meme si ce n est pas la premiere fois qu il y a ce genre de conflits mais nous savons que goma c est la principale ville qui est a la fois strategique mais aussi symbolique pour la rdc c est une ville de 2000000s d habitants qui a un aeroport international
+-------------------------------------------
+
+Line ID: 7042762231
+WER Score: 2.04
+Transcript: donc pour les rebelles ca serait une prise symbolique surtout ils etaient la si on se rappelle il y a une dizaine d annees plus de dix ans maintenant c etait je pense bien en 2012 ils avaient reussi a prendre cette ville qui avait ete reprise en 2013
+Reference:  donc pour les rebelles ca serait une prise symbolique surtout ils etaient la si on se rappelle il y a une dizaine d annees plus de 10 ans maintenant c etait je pense bien en 2012 ils avaient reussi a prendre cette ville qui avait ete reprise en 2013
+-------------------------------------------
+
+Line ID: 7042769829
+WER Score: 0.00
+Transcript: apres il y a eu des discussions il y a eu une sorte d accord c est pourquoi cette situation est vraiment complexe et compliquee et c est regrettable ce qu on est en train de vivre aujourd hui avec une situation vraiment catastrophique avec plusieurs milliers de civils qui se deplacent vers goma
+Reference:  apres il y a eu des discussions il y a eu une sorte d accord c est pourquoi cette situation est vraiment complexe et compliquee et c est regrettable ce qu on est en train de vivre aujourd hui avec une situation vraiment catastrophique avec plusieurs milliers de civils qui se deplacent vers goma
+-------------------------------------------
+
+Line ID: 7042711794
+WER Score: 1.25
+Transcript: alors que goma est encercle mon confrere disait que pour que cette bataille elle est inevitable entre les forces armees congolaises et le m 23 et la guerre elle n est pas prete a s arreter la vu tout ce que nous avons comme informations sur l armement que ce soit du m 23 mais aussi de la rdc avec des armes sophistiquees c est ce qui voudrait dire que le conflit n est pas pret a s arreter
+Reference:  alors que goma est encercle mon confrere disait que pour que cette bataille elle est inevitable entre les forces armees congolaises et le m 23 et la guerre elle n est pas prete a s arreter la vu tout ce que nous avons comme informations sur l armement que ce soit du m 23 mais aussi de la rdc avec des armes sophistiquees c est ce qui voudrait dire que le conflit il n est pas pret a s arreter
+-------------------------------------------
+
+Line ID: 7042796275
+WER Score: 2.86
+Transcript: toutes les initiatives diplomatiques qui ont ete engagees pour l instant elles n ont pas du tout porte fruit une prise de goma serait vraiment un echec terrible pour le regime de felix tshisekedi
+Reference:  toutes les initiatives diplomatiques qui ont ete engagees pour l instant elles n ont pas du tout porte fruit et une prise de goma serait vraiment un echec terrible pour le regime de felix tshisekedi
+-------------------------------------------
+
+Line ID: 7042751577
+WER Score: 0.00
+Transcript: ca c est la grande question et sur le terrain ca ne pourrait pas changer grand chose peut etre sauf cote mediatisation mais je voudrais juste rebondir sur ces analyzes de ma concert sur les actions quelque peu nuisibles des voisins
+Reference:  ca c est la grande question et sur le terrain ca ne pourrait pas changer grand chose peut etre sauf cote mediatisation mais je voudrais juste rebondir sur ces analyzes de ma concert sur les actions quelque peu nuisibles des voisins
+-------------------------------------------
+
+Line ID: 7042750689
+WER Score: 0.00
+Transcript: c est vrai et diplomatiquement ces voisins a mon avis ne font pas grand chose parce que tout ce qui a ete initie pour venir a bout de ce conflit ou au moins trouver un cessez le feu n est pas venu des voisins
+Reference:  c est vrai et diplomatiquement ces voisins a mon avis ne font pas grand chose parce que tout ce qui a ete initie pour venir a bout de ce conflit ou au moins trouver un cessez le feu n est pas venu des voisins
+-------------------------------------------
+
+Line ID: 7042726776
+WER Score: 1.72
+Transcript: on a eu en 2023 donc l annee derniere un cessez le fait de deux semaines mais il a ete obtenu grace aux etats unis par les voisins pratiquement c est un echec diplomatique cuisant de tous les etats toutes les organizations aujourd hui africaines face a ce qui est en train de se passer dans la zone
+Reference:  on a eu en 2023 donc l annee derniere un cessez le feu de deux semaines mais il a ete obtenu grace aux etats unis par les voisins pratiquement c est un echec diplomatique cuisant de tous les etats toutes les organizations aujourd hui africaines face a ce qui est en train de se passer dans la zone
+-------------------------------------------
+
+Line ID: 7042734566
+WER Score: 4.69
+Transcript: peut etre que c est du a l influence du rwanda c est possible parce qu aujourd hui ce soutien rwandais ne date pas d aujourd hui il y a eu plusieurs rapports meme des nations unies qui l ont montre depuis tres longtemps et nous parlons de trafic de mineraux notamment le coltan l aecarment il y a des rapports qui le mentionnent
+Reference:  peut etre que c est du a l influence du rwanda c est possible parce qu aujourd hui ce soutien rwandais ne date pas d aujourd hui il y a eu plusieurs rapports meme des nations unies qui l ont montre depuis tres longtemps et nous parlons de trafic des minerais notamment le coltan l aikarman il y a des rapports qui le mentionnent
+-------------------------------------------
+
+Line ID: 7042782562
+WER Score: 17.39
+Transcript: c est pourquoi cette semaine le president felix tshisekedi il a ete remonte contre l union europeenne qui signe un accord d exportation de vente des mineraux avec le rwanda vous voyez donc c est comme si la communaute internationale souffre le chaud et le froid
+Reference:  c est pourquoi cette semaine le president felix tshisekedi il etait remonte contre l union europeenne qui signe un accord d exportation de ventes des minerais avec le rwanda vous voyez donc c est comme si la communaute internationale souffle l eau chaude et le froid
+-------------------------------------------
+
+Line ID: 7042712035
+WER Score: 4.55
+Transcript: personne ne doit etre surpris par cette decision de l agent mais quand meme ce qui s est passe a la television nationale en debut de semaine on a vu une image quand meme avec des militaires qui viennent lire ce decret du president qui dissout donc ce gouvernement apres quand meme une cacophonie une mesentente au sein de l equipe gouvernementale donc au sommet de l etat
+Reference:  personne ne doit etre surpris par cette decision de l agente mais quand meme ce qui s est passe a la television nationale en debut de semaine on a vu une image avec des militaires qui viennent lire ce decret du president qui dissout donc ce gouvernement apres quand meme une cacophonie une mesentente au sein de l equipe gouvernementale donc au sommet de l etat
+-------------------------------------------
+
+Line ID: 7042728592
+WER Score: 1.92
+Transcript: il y a eu des developpements de derniere minute qui peut etre auraient pousse le chef de l agent le general mamadi doumbouya a prendre cette decision mais ceux qui sont renseignes ceux qui ont des oreilles fines savent qu il y avait un remaniement qui s est prepare depuis quelques temps
+Reference:  il y a eu des developpements de derniere minute qui peut etre auraient pousse le chef de l agente le general mamadi doumbouya a prendre cette decision mais ceux qui sont renseignes ceux qui ont des oreilles fines savent qu il y avait un remaniement qui s est prepare depuis quelques temps
+-------------------------------------------
+
+Line ID: 7042737857
+WER Score: 9.80
+Transcript: mais ce qui a precipite les choses c est qu il y a eu des accords entre le premier ministre et son ministre de la justice doctor bernard gomou donc l opm et charles wright le ministre de la justice qui est tres influent au sein de cette equipe gouvernementale
+Reference:  mais ce qui a precipite les choses ce qu il y a eu c est des accords entre le premier ministre et son ministre de la justice doctor bernard gomu donc l opm et charles wright le ministre de la justice qui est tres influent au sein de cette equipe gouvernementale
+-------------------------------------------
+
+Line ID: 7042788096
+WER Score: 5.45
+Transcript: et toutes les tentatives pour taire ce discours n ont pas porte fruit et finalement il y a eu des circulaires des decisions des arretes qui sont sortis qui ont fuite dans la presse donc l agent s est dit qu est ce qu il faut faire il faut decider il faut les renvoyer
+Reference:  et toutes les tentatives pour taire cette discorde n ont pas porte fruit et finalement il y a eu des circulaires des decisions des arretes qui sont sortis qui ont fuite dans la presse donc l agent elle s est dit qu est ce qu il faut faire il faut decider il faut les renvoyer
+-------------------------------------------
+
+Line ID: 7042763916
+WER Score: 1.72
+Transcript: mais il y avait ce cocktail implosif qui etait la ce cocktail c est quoi c est qu il y a un mecontentement social c est qu il y a une craigne un peu partout que ce soit du cote des acteurs de la societe civile qui denoncent des restrictions de la presse des restrictions de l internet
+Reference:  mais il y avait ce cocktail implosif qui etait la ce cocktail c est quoi c est qu il y a un mecontentement social c est qu il y a une crogne un peu partout que ce soit du cote des acteurs de la societe civile qui denoncent des restrictions de la presse des restrictions de l internet
+-------------------------------------------
+
+Line ID: 7042713257
+WER Score: 23.68
+Transcript: meme si nous apprenons que l internet a ete enfin libere on espere que ca va continuer c est la c est au lendemain quand meme des depots des navires de greve qui pourraient commencer demain ce lundi et puis il y a une penurie de carburant a conakry il y a des coupures intempestives d electricite de l estage il n y en a plus a finir donc il y a un mecontentement
+Reference:  meme si nous apprenons que l internet a ete enfin libere on espere que ca va continuer et c est la c est au lendemain quand meme d un depot d un navire de greve qui pourrait commencer donc demain ce lundi et puis il y a une penurie de carburant a conakry il y a des coupures intempestives de l electricite de lestage on n est plus en finir donc il y a un mecontentement
+-------------------------------------------
+
+Line ID: 7042760814
+WER Score: 12.66
+Transcript: et en guinee ce qu on craigne souvent notamment du cote du pouvoir politique c est le mouvement syndical et le mouvement syndical on va voir c est un test pour la gente parce que la gente a reussi depuis qu elle est la a etouffer toutes les manifestations toutes les contestations que les acteurs politiques les acteurs de la societe civile ont tentees c est vrai le prix est lourd
+Reference:  et en guinee ce qu on craint souvent notamment du cote du pouvoir politique c est le mouvement syndical et le mouvement syndical on va voir ca c est un test en fait c est un test pour la gente parce que la gente a reussi depuis qu elle est la a etouffer toutes les manifestations toutes les contestations que les acteurs politiques les acteurs de la societe civile ont tente c est vrai le prix il est lourd
+-------------------------------------------
+
+Line ID: 7042734193
+WER Score: 1.37
+Transcript: il y a eu des morts meme s il y a des enquetes qui sont ouvertes il y a une je pense qui a abouti il y a eu un proces mais les autres morts on ne dit rien donc la c est un test on verra si la gente parviendra a s entendre avec les syndicalistes on reviendra a dessus ou bien si cette creve va aller dans cette ambiance vraiment deletere
+Reference:  il y a eu des morts meme s il y a des enquetes qui sont ouvertes il y a une je pense qui a abouti il y a eu un proces mais les autres morts on ne dit rien donc la c est un test on verra si la gente parviendra a s entendre avec les syndicalistes on reviendra a dessus ou bien si cette greve va aller dans cette ambiance vraiment deletere
+-------------------------------------------
+
+Line ID: 7042715893
+WER Score: 0.00
+Transcript: oui ce n est pas facile mais connaissant lula ce personnage ce n est pas aussi etonnant il assume ce qu il dit meme si on l a rappele il a dit quand meme dans un contexte qu il faut regarder parce qu il a tenu ici en afrique et l afrique de facon generale nous le savons l afrique c est un soutien traditionnel de la palestine pourquoi parce que les deux peuples ont une histoire commune
+Reference:  oui ce n est pas facile mais connaissant lula ce personnage ce n est pas aussi etonnant il assume ce qu il dit meme si on l a rappele il a dit quand meme dans un contexte qu il faut regarder parce qu il a tenu ici en afrique et l afrique de facon generale nous le savons l afrique c est un soutien traditionnel de la palestine pourquoi parce que les deux peuples ont une histoire commune
+-------------------------------------------
+
+Line ID: 7042782874
+WER Score: 4.00
+Transcript: histoire commune dans la mesure ou ce que les palestiniens sont en train de subir c est une colonization et c est ce qui s est passe en afrique ce sont des choses que nous parlons c est vrai aujourd hui il n y a pas beaucoup d etats qui prennent position ici en afrique contre cette guerre meme si la population elle dans sa majorite elle est contre ce que l israel est en train de faire
+Reference:  histoire commune dans la mesure ou ce que les palestiniens sont en train de subir c est une colonization ce qui s est passe en afrique ce sont des choses que nous parlons c est vrai aujourd hui il n y a pas beaucoup d etats qui prennent position ici en afrique contre cette guerre meme si la population elle dans sa majorite elle est contre ce que l israel est en train de faire
+-------------------------------------------
+
+Line ID: 7042749577
+WER Score: 0.00
+Transcript: exactement et cela s explique par plusieurs facteurs c est vrai l israel a tente ces derniers temps avec plusieurs actions diplomatiques pour imposer son influence et sa presence en afrique a travers l union africaine ou l israel a obtenu une place d observateur qui a ete vite retiree suite a une pression notamment de l afrique du sud mais aussi de l algerie
+Reference:  exactement et cela s explique par plusieurs facteurs c est vrai l israel a tente ces derniers temps avec plusieurs actions diplomatiques pour imposer son influence et sa presence en afrique a travers l union africaine ou l israel a obtenu une place d observateur qui a ete vite retiree suite a une pression notamment de l afrique du sud mais aussi de l algerie
+-------------------------------------------
+
+Line ID: 7042727258
+WER Score: 6.25
+Transcript: nous savons que nos dirigeants travaillent avec les societes israeliennes on a parle de ce logiciel pecasus des logiciels d ecoute des opposants des actes de la societe civile influents il y a d autres accords militaires donc c est tout ce qui fait que les etats africains ont du mal a s assumer dans cette situation mais sinon l afrique du sud
+Reference:  nous savons que nos dirigeants travaillent avec les societes israeliennes on a parle de ces logiciels pecasus des logiciels d ecoute des opposants des acteurs de la societe civile influents il y a d autres accords militaires donc c est tout ce qui fait que les etats africains ont du mal a s assumer dans cette situation mais sinon l afrique du sud .
+-------------------------------------------
+
+Line ID: 7042782873
+WER Score: 9.38
+Transcript: le chemin n a pas ete long parce que ces differentes gentes qui sont la a namoury sont arrivees peut etre que c est un peu recent par exemple au burkina au mali c est un peu plus vieux au niger il vient d arriver ca fera bientot 6 mois mais tout est alle tres vite la question c est pourquoi ils le font
+Reference:  le chemin n a pas ete long parce que ces differentes jeunes qui sont la a namouri elles sont arrivees peut etre c est un peu recent par exemple au burkina au mali c est un peu plus vieux au niger ils viennent d arriver ca fera bientot 6 mois mais tout est alle tres vite la question c est pourquoi ils le font
+-------------------------------------------
+
+Line ID: 7042711327
+WER Score: 0.00
+Transcript: ils le font parce que leur objectif d abord il faut conserver le pouvoir et pour se maintenir au pouvoir c est qu il faut controler l information les idees qu ils ont vendues au peuple l espoir qui a ete vehicule par ces differents militaires
+Reference:  ils le font parce que leur objectif d abord il faut conserver le pouvoir et pour se maintenir au pouvoir c est qu il faut controler l information les idees qu ils ont vendues au peuple l espoir qui a ete vehicule par ces differents militaires
+-------------------------------------------
+
+Line ID: 7042792654
+WER Score: 0.00
+Transcript: ils voient pratiquement sur le terrain le resultat il ne vient pas comme ce resultat n est pas la donc il faut continuer quand meme a dire au peuple que ca va tout va bien il faut occuper les reseaux sociaux alors qu est ce qu il faut faire
+Reference:  ils voient pratiquement sur le terrain le resultat il ne vient pas comme ce resultat n est pas la donc il faut continuer quand meme a dire au peuple que ca va tout va bien il faut occuper les reseaux sociaux alors qu est ce qu il faut faire
+-------------------------------------------
+
+Line ID: 7042789410
+WER Score: 15.79
+Transcript: c est qu il faut se debarrasser de tout journaliste independant c est au dela meme des journalistes de tout acteur de la societe civile de toute personne qui a une idee contraire de celle de ses differentes gentes donc c est ce qui s est produit c est ce qui est en train aujourd hui de continuer
+Reference:  c est qu il faut se debarrasser de tous les journalistes independants c est au dela meme des journalistes de tout acteur de la societe civile de toute personne qui a une idee contraire de celle de ces differentes genes donc c est ce qui s est produit c est ce qui entraine aujourd hui de continuer
+-------------------------------------------
+
+Line ID: 7042712298
+WER Score: 2.38
+Transcript: grosso modo lorsque vous regardez la carte de l afrique de l ouest et du sahel on ne peut pas dire aujourd hui qu en tandem parce que sur cette question la aussi bien les jeunes que les groupes terroristes sont a peu pres d accord sur la meme chose c est a dire qu il faut que les choses se passent en vase clos qu il n y ait pas de temoins et que ce soit eux qui puissent etre les seuls a parler
+Reference:  grosso modo lorsque vous regardez la carte de l afrique de l ouest et du sahel on ne peut pas dire aujourd hui qu en tandem parce que sur cette question la aussi bien les jeunes que les groupes terroristes sont a peu pres d accord sur la meme chose c est a dire il faut que les choses se passent en vase clos qu il n y ait pas de temoins et que ca soit eux qui puissent etre les seuls a parler
+-------------------------------------------
+
+Line ID: 7042730730
+WER Score: 26.00
+Transcript: ca interesse n oubliez pas dans ces differents pays l info centrale ce qui occupe la actualite c est quoi c est la securite ce sont ces violences djihadistes aujourd hui le senegal partage par exemple une grande frontiere avec l omali
+Reference:  ca interesse n oubliez pas dans ces differents pays l info au central ce qui occupe l actualite c est quoi c est la securite ce sont ces violences jihadistes aujourd hui le senegal est entoure par des . le senegal partage par exemple une grande frontiere avec le mali
+-------------------------------------------
+
+Line ID: 7042756568
+WER Score: 5.66
+Transcript: et le mali l insecurite la situation elle se degrade du jour au lendemain donc ca preoccupe le senegalais maintenant la question c est est ce que nous arrivons a avoir des informations sur ce qui se passe dans ce pays c est la ou il y a un veritable probleme aujourd hui
+Reference:  et le mali l insecurite la situation elle se decrade de jour au lendemain donc ca preoccupe le senegalais mais la question c est est ce que nous arrivons a avoir des informations sur ce qui se passe dans ce pays c est la ou il y a un veritable probleme aujourd hui
+-------------------------------------------
+
+Line ID: 7042739311
+WER Score: 9.68
+Transcript: ce qu il faut mentir a mon avis il ne faut pas concevoir ce qu il faut mentir ce qu il faut reprendre vous savez le journaliste n a pas de camp je le dis souvent le journaliste n a pas de bon et de mauvais camp le journaliste part chez tout le monde le journaliste constate et relate des faits
+Reference:  ce qu il faut mentir a mon avis il ne faut pas concevoir la ce qu il faut mentir ce qu il faut reprendre vous savez le journaliste n a pas de camps je le dis souvent le journaliste n a pas de bons et de mauvais camps le journaliste parle chez tout le monde le journaliste constate il relate des faits
+-------------------------------------------
+
+Line ID: 7042767372
+WER Score: 7.78
+Transcript: nous sommes obliges de recouper les informations que nous donnons mais la ce que ces gentes veulent c est de nous obliger a relater une seule version et le plus souvent le danger c est parce que cette version elle est aussi biaisee depuis deux mois maintenant meme sur les differentes attaques que les forces de defense et de securite ont en train de subir il n y a pratiquement aucune communication officielle il n y a pratiquement pas de communique c est un flou total
+Reference:  nous sommes obliges de recouper les informations que nous donnons mais la ce que ces gens la veulent c est de nous obliger a relater une seule version et le plus souvent le danger c est parce que cette version elle est aussi biaisee depuis deux mois maintenant meme sur les differentes attaques que les forces de defense et de securite que ces gens sont en train de subir il n y a pratiquement aucune communication officielle il n y a pratiquement pas de communiques c est un flou total
+-------------------------------------------
+
+Line ID: 7042795315
+WER Score: 0.00
+Transcript: c est l omerta ils ne veulent pas qu on en parle je le disais au depart ils ne veulent pas qu on en parle parce qu on avait dit que les forces armees de ces differents etats que les forces armees progressent la lutte contre le djihadisme la lutte contre tout ce qui est violence est en train de progresser ceux qui entravaient cette lutte sont partis ca y est tout va revenir
+Reference:  c est l omerta ils ne veulent pas qu on en parle je le disais au depart ils ne veulent pas qu on en parle parce qu on avait dit que les forces armees de ces differents etats que les forces armees progressent la lutte contre le djihadisme la lutte contre tout ce qui est violence est en train de progresser ceux qui entravaient cette lutte sont partis ca y est tout va revenir
+-------------------------------------------
+
+Line ID: 7042754057
+WER Score: 0.00
+Transcript: il y a certains qui n arrivent pratiquement plus a avoir de repas par jour pratiquement un parfois meme rien il n y a absolument rien n oublions pas qu il y a des zones aujourd hui au burkina pour les ravitailler il faut qu il y ait des convois militaires et ces convois militaires parfois prennent des semaines et des semaines avant d y arriver
+Reference:  il y a certains qui n arrivent pratiquement plus a avoir de repas par jour pratiquement un parfois meme rien il n y a absolument rien n oublions pas qu il y a des zones aujourd hui au burkina pour les ravitailler il faut qu il y ait des convois militaires et ces convois militaires parfois prennent des semaines et des semaines avant d y arriver
+-------------------------------------------
+
+Line ID: 7042730624
+WER Score: 2.04
+Transcript: et on a vu lors du dernier sommet l israel n etait pas la meme s il y a des sources qui parlent de diplomates qui rodaient autour qui tentaient d influencer certains et c est normal mais c est le premier ministre palestinien qui a pris la parole
+Reference:  et on a vu lors du dernier sommet l israel n etait pas la meme s il y a des sources qui parlent de diplomates qui rodaient autour qui tentent d influencer certains et c est normal mais c est le premier ministre palestinien qui a pris la parole
+-------------------------------------------
+
+Line ID: 7042747615
+WER Score: 7.69
+Transcript: les chefs d etat africains ne peuvent pas prendre clairement position dans la mesure ou ils traitent leur securite avec l israel n oublions pas quand meme que l israel c est une puissance notamment securitaire
+Reference:  les etats africains les chefs d etat africains ne peuvent pas prendre clairement position dans la mesure ou ils traitent leur securite avec l israel n oublions pas quand meme que l israel c est une puissance notamment securitaire
+-------------------------------------------
+
+Line ID: 7042741446
+WER Score: 24.24
+Transcript: avant de repondre a cette question je voudrais un peu repondre a ce que disait le doyen newton ces mesures qui sont prises par ces chintes c est un defaveur des citoyens
+Reference:  avant de repondre a cette question je souhaiterais un peu rebondir sur ce que disait dohem newton ces mesures en fait qui sont prises par ces gens c est un defaveur des citoyens
+-------------------------------------------
+
+Line ID: 7042738127
+WER Score: 2.78
+Transcript: nous parlons beaucoup plus d insecurite dans ce pays mais derriere l insecurite il y a autre chose c est qu il y a cette pauvrete qui est en train de grandir aujourd hui avec les blocus qui sont installes que ce soit au mali que ce soit au burkina nous avons des milliers des centaines des milliers voire des 1000000s de personnes qui n arrivent plus a manger a leur faim
+Reference:  nous parlons beaucoup plus d insecurite dans ces pays mais derriere l insecurite il y a autre chose c est qu il y a cette pauvrete qui est en train de grandir aujourd hui avec les blocus qui sont installes que ce soit au mali que ce soit au burkina nous avons des milliers des centaines des milliers voire des 1000000s de personnes qui n arrivent plus a manger a leur fin
+-------------------------------------------
+
+Line ID: 5581332275
+WER Score: 8.33
+Transcript: mon rapport avec l ecriture peut etre que c est parce que j etudiais en meme temps donc quand on parle d etudes on parle aussi d ecriture donc peut etre que c est ce qui m a facilite la tache j ai commence a ecrire leurs paroles ensuite naturellement j ai commence a ecrire mes propres textes quoi
+Reference:  oui mon rapport avec l ecriture peut etre que c est parce que j ai etudie en meme temps donc quand on parle d etudes on parle aussi d ecriture donc peut etre c est ce qui m a facilite la tache j ai commence a reecrire leurs paroles ensuite naturellement j ai commence a ecrire mes propres textes quoi
+-------------------------------------------
+
+Line ID: 5581311103
+WER Score: 0.00
+Transcript: oui au fil du temps j ai eu a ecrire beaucoup de choses peut etre le debut on ecrivait juste pour ecrire il n y avait pas de on ne respectait pas les normes il y avait beaucoup de manquements mais au fil du temps on grandit on gagne de la maturite donc on soigne les ecritures quoi
+Reference:  oui au fil du temps j ai eu a ecrire beaucoup de choses peut etre le debut on ecrivait juste pour ecrire il n y avait pas de on ne respectait pas les normes il y avait beaucoup de manquements mais au fil du temps on grandit on gagne de la maturite donc on soigne les ecritures quoi
+-------------------------------------------
+
+Line ID: 5581362365
+WER Score: 11.48
+Transcript: oui oui comme on dit l ecriture pour moi c est ce qu on appelle le gymnastique intellectuel parce qu a chaque fois que tu te reveilles tu penses a quelque chose tu ecris au fil du temps comme on dit ce qui se concoit bien c est clairement ce que le mot pour le dire arrive aisement a
+Reference:  oui oui comme on dit l ecriture pour moi c est ce qu on appelle le gymnastique intellectuel parce qu a chaque fois que tu te reveilles tu penses a quelque chose tu ecris au full du temps comme on dit ce qui se concoit bien c est dans ce que clairement il est le mieux pour le dire arrive aisement
+-------------------------------------------
+
+Line ID: 5581364538
+WER Score: 19.35
+Transcript: si tu as envie d ecrire une chanson ou un morceau qui parle de politique de sport ou de lutte les idees viennent naturellement si tu te reveilles la nuit avant de dormir tu ecris un vers demain aussi tu vas suivre le vers que tu as ecrit tu auras une autre inspiration pour continuer
+Reference:  t as envie d ecrire une chanson ou bien un morceau qui parle de politique ou de sport ou de lutte les idees viennent naturellement et puis par exemple si tu te reveilles ou bien la nuit avant de dormir tu ecris un verre demain aussi tu vas suivre le verre que tu as ecrit tu auras une autre inspiration pour continuer
+-------------------------------------------
+
+Line ID: 5581386158
+WER Score: 9.23
+Transcript: avec l arrivee de rapodjo ca a change beaucoup de choses par rapport a comment je concevais le hip hop comment les gens concevaient les artistes parce que quand j ecoutais le dari c etait juste de la musique fun faire danser les gens mais avec rapodjo j ai eu une autre mentalite par rapport au rap par rapport a la musique
+Reference:  mais avec l arrivee de rapodio ca a change beaucoup de choses par rapport a comment je concevais le hip hop comment les gens concevaient les artistes parce que quand j ecoutais le rap c etait juste de la musique fun tu vois faire danser les gens mais avec rapodio j ai eu une autre mentalite par rapport au rap par rapport a la musique
+-------------------------------------------
+
+Line ID: 5581371724
+WER Score: 46.48
+Transcript: on est la bas on a grandi la bas donc auparavant on entendait les autres quartiers dans les hip hop bikini charo et medina gejoa et camberin on entendait pas d arifo du coup des melomanes qui qui qui qui rodait autour quoi il etait de la musique a l aide d un des concerts ils se sont reunis ils ont dit mais pourquoi pas d aller fort il ya des talents il ya des gens qui savent rappeler
+Reference:  oui on est nes la bas on a grandi la bas donc auparavant on entendait les autres quartiers dans le hip hop pekin thiaroye medina gejoai camberene on n entendait pas dalifort du coup des melomanes qui rodaient autour qui ecoutaient de la musique dans des concerts ils se sont reunis ils ont dit mais pourquoi a dalifort il y a des talents il y a des gens qui savent rapper
+-------------------------------------------
+
+Line ID: 5581341014
+WER Score: 15.93
+Transcript: on a traine ensemble un an deux ans ensuite lui il a abandonne l hip hop il est dans la religion naturellement puis il nous a rejoints comme je disais foukenkou c est un groupe de defi un groupe de la banlieue qui draine une foule qui a son style particulier parce qu on ne peut pas parler de hip hop au senegal sans parler de foukenkou par rapport a ce que nous avons fait par rapport a ce que nous avons reussi parfois on parle de rapodjo on parle de bmj mais ce que nous on a fait aucun groupe au senegal ne l a fait
+Reference:  on a traine ensemble on a deux ans ensuite lui il a abandonne le hip hop il est dans la religion naturellement pidi nous a rejoint quoi comme je disais fuk n kuk c est un groupe de defis un groupe de la banlieue qui draine une foule qui a son style particulier parce qu on ne peut pas parler de hip hop au senegal sans parler de fuk n kuk par rapport a ce que nous avons fait par rapport a ce que nous avons reussi parfois on parle de rap audio on parle de bmg mais ce que nous on n a fait aucun groupe au senegal ne l a fait
+-------------------------------------------
+
+Line ID: 5581311890
+WER Score: 2.04
+Transcript: modici a part parce que lorsqu on a cree le groupe on a dit que pour qu on perce il faut qu on fasse des choses differentes il ne faut pas repeter la meme chose que les autres faisaient donc du coup on a cree notre propre ligne vestimentaire
+Reference:  modeci a part parce que lorsqu on a cree le groupe on a dit que pour qu on perce il faut qu on fasse des choses differentes il ne faut pas repeter la meme chose que les autres faisaient donc du coup on a cree notre propre ligne vestimentaire
+-------------------------------------------
+
+Line ID: 5581384452
+WER Score: 21.82
+Transcript: quand on definit l etre par l etre par exemple le fouk ca peut signifier freedom freedom ca veut dire liberte parce que tout le monde a besoin d etre libre pour vaquer a ses occupations si on n etait pas libre on ne serait pas la le u c est unity comme je te l avais dit tantot
+Reference:  mais quand on definit lettre par lettre par exemple le fuk ca peut signifier freedom ca veut dire liberte parce que tout le monde a besoin d etre libre pour vacquer a ses occupations si on n etait pas libre on ne serait pas la le u c est unity comme j ai dit tantot
+-------------------------------------------
+
+Line ID: 5581366872
+WER Score: 23.91
+Transcript: le dernier cas ca veut dire knock out knock out ca veut dire chaos donc quand la personne est armee de sagesse de connaissances donc il est pret a tout c est a dire il est pret a affronter n importe quel obstacle c est ce qui symbolize le chaos
+Reference:  le dernier k ca veut dire knock out knock out ca veut dire ko quand la personne est armee de sa geste de connaissance donc il est pret a tout il est pret a affronter n importe quel obstacle c est ce qui symbolize le ko
+-------------------------------------------
+
+Line ID: 5581313752
+WER Score: 7.46
+Transcript: il y a aussi le terre donc on est enclave du coup pour sortir c est tout a fait un probleme comme je l ai dit tantot c est un groupe de defis donc tous ces mots qui gangrenent notre communaute on etait la pour les defendre au debut c etait de faire tout pour que dalifor fasse partie de la carte du hip hop
+Reference:  il y a aussi le terre donc on est enclave du coup pour sortir c est tout a fait un probleme quoi comme je l ai dit tantot c est un groupe de defi donc tous ces mots qui gangrent notre communaute on etait la pour les defendre quoi au debut c etait de faire tout pour que dalifort fasse partie de la carte du hip hop
+-------------------------------------------
+
+Line ID: 5581388028
+WER Score: 9.38
+Transcript: du coup on a dit que chaque travail a une tenue donc pour nous le hip hop a une tenue ou bien le rap en quelque sorte a une tenue parce qu on ne peut pas s habiller comme un joueur de football et mettre des joggings ce n est pas possible parce que les joueurs ils mettent des joggings parce que c est des joueurs des sportifs
+Reference:  du coup on a dit que chaque travail a une tenue donc pour nous le hip hop a une tenue ou bien le rap en quelque sorte a une tenue parce qu on ne peut pas s habiller comme un joueur de football et mettre des joguines ce n est pas possible les joueurs mettent des joguines parce que c est des joueurs sportifs
+-------------------------------------------
+
+Line ID: 5581331825
+WER Score: 7.55
+Transcript: on mettait des bagagines on avait notre propre ligne vestimentaire notre propre cote notre propre langage parce que si vous allez en france on te parle de verlan si vous allez en jamaique on te parle de patois aux etats unis on te parle de slang nous on vous parle de calamambede
+Reference:  on mettait des baggy jeans on avait notre propre ligne vestimentaire notre propre code notre propre langage parce que si vous allez en france on te parle de verlan si vous allez en jamaique on te parle de patois aux etats unis on te parle de slang nous on vous parle de kalamombed
+-------------------------------------------
+
+Line ID: 5581351887
+WER Score: 4.17
+Transcript: si tu vas dans les autres quartiers aussi c est la meme chose mais la bas c est d aller fort et puis ce langage on ne l a pas cree pour nous seulement on l a cree pour que les rappeurs ou les artistes se l approprient parce que comme je le disais tantot chaque pays a ses realites nous on a nos realites donc pourquoi pas valoriser ce qu on a ici
+Reference:  si tu vas dans les autres quartiers aussi c est la meme chose mais la bas c est dalifort et puis ce langage on ne l a pas cree pour nous seulement on l a cree pour que les rappeurs ou les artistes se l approprient parce que comme je le disais tantot chaque pays a ses realites nous on a nos realites donc pourquoi pas valoriser ce qu on a ici
+-------------------------------------------
+
+Line ID: 5581360992
+WER Score: 11.11
+Transcript: nous on n avait pas l habitude d ecouter moi perso et les autres on n avait pas l habitude d ecouter le rap des autres continents en quelque sorte rarement quoi peut etre si on rend visite a un ami il met des sons americains on ecoute mais quand on est entre nous on n ecoute que le rap djolof
+Reference:  oui nous on n avait pas l habitude d ecouter bon moi percois les autres on n avait pas l habitude d ecouter le rap des autres continents en quelque sorte rarement quoi peut etre si on rend visite a un ami il met des sons americains on ecoute mais quand on est entre nous on n ecoutait que le rap de jolof
+-------------------------------------------
+
+Line ID: 5581347838
+WER Score: 15.28
+Transcript: on fait des freestyles et puis c est tout mais on a eu a faire des compilations avant la sortie de l album on a fait partie d une compilation qui s appelait boulson produit par maestro music sega un produit qui etait a grand yoffe on a eu aussi a faire a participer a une compilation qui s appelait comment dirais je encore c est le groupe n existe plus chronique de zaz qui avait produit ca
+Reference:  on fait des freestyles et puis c est tout quoi mais on a eu a faire des compilations avant la sortie de l album on a fait partie d une compilation qui s appelait bullson produit par maestro music sega produit a grand yof on a eu aussi a participer a une compilation qui s appelait comment dirais je encore le groupe n existe plus chronique de jazz qui avait produit ca
+-------------------------------------------
+
+Line ID: 5581354079
+WER Score: 12.12
+Transcript: oui on peut dire que c etait voulu c etait pas voulu c etait voulu dans la mesure ou pour nous pour sortir un album il faut ce qu on appelle pendant avant et apres quoi il fallait ratisser beaucoup de choses avant de sortir l album c est pourquoi on a eu a faire beaucoup de sons
+Reference:  oui on peut dire que c etait voulu c etait pas voulu c etait voulu dans la mesure ou pour nous pour sortir un album il faut ce qu on appelle ce qu on appelle pendant avant et apres quoi il fallait ratisser il fallait ratisser beaucoup de choses avant de sortir l album quoi c est pourquoi on a eu a faire beaucoup de sons
+-------------------------------------------
+
+Line ID: 5581317924
+WER Score: 4.55
+Transcript: donc on a cru et on les a meme pas entendus parce que nous on a toujours cru en ce que nous faisons donc on est reste comme tu l as dit 12 ans c est pas 13 ans dans l un des grands sans sortir l album l autre aspect c etait voulu l autre aspect aussi c etait on a toujours eu des differences par rapport a ce que nous avons envie de faire et on est mal compris par rapport a ce que les gens nous proposent
+Reference:  donc on a cru et on les a meme pas entendus parce que nous on a toujours cru en ce que nous faisons donc on est reste comme tu l as dit 12 ans c est pas 13 ans dans l underground sans sortir l album l autre aspect c etait voulu l autre aspect aussi c etait on a toujours eu des differends par rapport a ce que nous avons envie de faire et on est mal compris par rapport a ce que les gens nous proposent
+-------------------------------------------
+
+Line ID: 5581388412
+WER Score: 7.50
+Transcript: donc on a eu des differends apres ca a capote ensuite nous sommes alles voir amodou fale matador afri culture finalement on a sorti l album la bas avec le label qui s appelle king booking c est pourquoi ca a pris trop de temps d ailleurs les gens qui critiquent disaient que l album que foukenko a sorti c est un album qui devait sortir il y a 10 ans donc moi c est un truc bon
+Reference:  donc on a eu des differends apres ca a capote ensuite nous sommes alles voir amo dufale matador afri culture finalement on a sorti l album la bas avec le label qui s appelle king booking c est pourquoi ca a pris trop de temps d ailleurs les gens qui critiquent disaient que l album que fuk n kuk a sorti c etait un album qui devait sortir il y a 10 ans donc moi c est un truc bon
+-------------------------------------------
+
+Line ID: 5581352440
+WER Score: 2.50
+Transcript: on rappe ce qu on ecrit c est a dire moi je peux avoir une idee par rapport a un theme je viens je propose au gars je dis les gars j ai envie qu on ecrive sur la politique par exemple ou bien sur la paix sur les enfants et chacun d accord chacun dit que c est bien apres on rentre chacun ecrit ses 16 mesures bien 12 mesures apres on se rend a la salle de repetition
+Reference:  on rappe ce qu on ecrit c est a dire moi je peux avoir une idee par rapport a un theme je viens je propose aux gars je dis les gars j ai envie qu on ecrive sur la politique par exemple ou bien sur la paix sur les enfants et chacun d accord chacun dit que c est bien apres on rentre chacun ecrit ses 16 mesures bien 12 mesures apres on se rencontre a la salle de repetition
+-------------------------------------------
+
+Line ID: 5581399866
+WER Score: 16.47
+Transcript: oui je peux dire que ce morceau fait partie des morceaux que nous avons faits de collegue si ce n est pas ce morceau parce que tout le monde l ecoutait tout le monde l aimait musicalement c etait vraiment cool notre beatmaker avait commence a faire le beat ensuite c est fahd freddy qui a continue il a eu a faire quelque chose par rapport a l intro on a fait le morceau avec un gars qui s appelle crazy cool qui habite chez nous
+Reference:  oui je peux dire que ce morceau fait partie des morceaux qui nous ont fait decoller si ce n est pas ce morceau parce que tout le monde l ecoutait tout le monde l aimait musicalement c etait vraiment cool parce que notre beat maker avait commence a faire le beat ensuite c est farid qui a continue il a fait quelque chose par rapport a l intro on a fait le morceau avec un gars qui s appelle crazy cool qui habite chez nous
+-------------------------------------------
+
+Line ID: 5581398026
+WER Score: 6.67
+Transcript: tout ce que le banlieusard gagne c est a la sueur de son front donc on a dit def ndom generation c est la generation victorieuse on est parti de rien on ne connaissait pas notre quartier on s est decarcasse pour que le quartier fasse partie de la carte du hip hop donc on va aussi se decarcasser pour que le groupe soit entendu au senegal en afrique et partout dans le monde
+Reference:  tout ce que le banlieusard gagne c est a l assure de son flont donc on a dit def n am generation c est la generation victorieuse on est parti de rien on ne connaissait pas notre quartier on s est decarcasse pour que le quartier fasse partie de la carte du hip hop donc on va aussi se decarcasser pour que le groupe soit entendu au senegal en afrique et partout dans le monde
+-------------------------------------------
+
+Line ID: 5581356986
+WER Score: 4.62
+Transcript: et ca vraiment on l a reussi parce qu apres la sortie de l album on a eu a faire des tournees on est alles en belgique on a fait la bas trois semaines on a fait beaucoup d emissions on a fait beaucoup de scenes et c etait vraiment cool quoi c est grace a cet album qu on a eu a faire ca
+Reference:  et ca vraiment on l a reussi parce que apres la sortie de l album on a eu a faire des tournees on est alle en belgique on a fait la bas 3 semaines on a fait beaucoup d emissions on a fait beaucoup de scenes et c etait vraiment cool quoi c est grace a cet album qu on a eu a faire ca
+-------------------------------------------
+
+Line ID: 5581328842
+WER Score: 15.91
+Transcript: oui il y avait des senegalais mais la plupart des gens qui etaient dans le public c etait des belges parce que c est une structure qui nous a amenes la bas la structure s appelle les arts urbains les arts urbains c est une structure qui travaille avec l africulture urbaine donc du coup il y avait un de leurs membres qui etait venu ici en vacances je crois il nous a trouve en train d enregistrer notre premier album a pekin
+Reference:  oui il y avait des senegalais mais la plupart des gens qui etaient dans le public c etait des belges quoi des belges parce que c est d un institut qui nous a amene la bas l institut qui s appelle les arts urbains les arts urbains c est une institut qui travaille avec afrique culture urbaine donc du coup il y avait un de leurs membres qui etait venu ici en vacances je crois il nous a trouve en train d enregistrer notre premier album a piquin
+-------------------------------------------
+
+Line ID: 5581357536
+WER Score: 13.98
+Transcript: que ce soit cote educatif que ce soit cote culture que ce soit cote politique donc du coup les sons on les base uniquement sur l aspect engagement social on sait que la vie est chere mais il faut se decarcasser pour acheter un sac de riz il faut se decarcasser pour payer l eau l electricite on ne peut pas croiser les bras et mettre tout sur le dos de l etat parce que l etat ne peut pas tout faire meme dieu ne peut pas tout faire
+Reference:  que ca soit a cote educatif que ca soit a cote culture que ca soit a cote politique quoi donc du coup laissons en les baser uniquement sur l aspect engagement social quoi on sait que la vie est chere mais il faut se decarcasser pour assurer un sac de riz il faut se decarcasser pour payer l eau l electricite on ne peut pas croiser les bras et mettre tout sur le dos de l etat parce que l etat ne peut pas tout faire meme dieu ne peut pas tout faire
+-------------------------------------------
+
+Line ID: 5581350665
+WER Score: 41.18
+Transcript: lorsque j etais au college le groupe d aradis etait un groupe que j ecoutais au fur et a mesure que j ecoutais du rap j ai abandonne la danse et je suis entre dans le hip hop
+Reference:  lorsque j etais au college le groupe daara j c etait un groupe que j ecoutais parce qu auparavant j etais danseur mais au fil du temps au fur et a mesure d ecouter du rap finalement j ai abandonne la danse et suis entre naturellement dans le hip hop quoi
+-------------------------------------------
+
+Line ID: 5581344226
+WER Score: 43.59
+Transcript: mais j ecoutais daradji auparavant pbs daradji pbs auparavant ensuite il y a pifras et rapodjo mais auparavant quand j etais au college c etait daradji c est un groupe qui m a inspire beaucoup
+Reference:  mais j ecoutais daara j auparavant pbs daara j pbs auparavant en soudia puis france et rapodio mais auparavant quand j etais au college c etait daara j quoi parce que c est un groupe qui m inspirait beaucoup
+-------------------------------------------
+
+Line ID: 5581396596
+WER Score: 5.88
+Transcript: et on n arrive pas a entendre le nom du quartier c est quoi le probleme donc il va falloir qu on cree une connection on va choisir des mc qui ont vraiment le talent qui sont engages par rapport au quartier par rapport au hip hop pour former une connection
+Reference:  et on n arrive pas a entendre le nom du quartier c est quoi le probleme donc il a fallu qu on cree une connection on va choisir des mcs qui ont vraiment le talent qui sont engages par rapport au quartier par rapport au hip hop pour former une connection
+-------------------------------------------
+
+Line ID: 5581397531
+WER Score: 17.02
+Transcript: c est dans ce contexte qu on a cree foukenkoop en 2003 on m a copte moi j ai rappe en solo kap aussi il rappait en solo il y avait un autre membre qui s appelait lamine barre lui c etait le mentor de pidi
+Reference:  c est dans ce contexte qu on a cree fuk n kuk en 2003 on m a copte moi je rappais en solo cap aussi il rappait en solo il y avait un autre membre qui s appelait lamine barra lui c etait le mentor de pidi
+-------------------------------------------
+
+Line ID: 5581349283
+WER Score: 17.14
+Transcript: on devait sortir notre album avec le groupe daradji ca a traine on a arrete ensuite on est alle dans un label qui s appelle comment dirais je encore qui est base a gejoy birikots
+Reference:  on devait sortir notre album avec le groupe daara j ca a traine on a arrete ensuite on est alle dans un label qui s appelle comment dire encore qui est base a guediawaye birikot
+-------------------------------------------
+
+Line ID: 5581376277
+WER Score: 11.67
+Transcript: on a commence a enregistrer mais apres on a eu des differences avec le producteur on a quitte nous sommes alles a djegiray des gens vraiment sympas que je salue au passage et puis je profite de l occasion pour presenter mes condoleances a toute la team djegiray avec le deces de bamba qui nous a vraiment soutenus
+Reference:  on a commence a un restreint mais apres on a eu des differends avec le producteur on a quitte nous sommes alles a jegiraye des gens vraiment sympas que je salue au passage et puis je profite de l occasion pour dire presenter mes condoleances a toute la team jegiraye avec le deces de bamba qui nous a vraiment soutenu
+-------------------------------------------
+
+Line ID: 5581336870
+WER Score: 19.44
+Transcript: oui on travaille toujours sur l engagement social conscientiser les jeunes leur dire que c est vraiment difficile mais il faut toujours se decarcasser pour joindre les deux bouts
+Reference:  oui on travaille toujours sur l engagement social conscientiser les jeunes leur dire que c est vraiment difficile mais il faut toujours etre en debrouillard il faut toujours se decarcasser pour joindre les deux bouts quoi
+-------------------------------------------
+
+Line ID: 5581363212
+WER Score: 55.32
+Transcript: c est bien vrai que c est pas c est pas c est pas facile il faut il faut il faut il faut se decarcasser pour jouer les deux bouts quoi c est difficile a la conjoncture et a la promiscuite nos mamans sont fatiguees nos soeurs sont fatiguees donc il faut pas etre il faut etre oisif quand
+Reference:  c est bien vrai que ce n est pas facile mais il faut se decarcasser pour jouer les deux bouts c est difficile il y a la conjoncture il y a la promiscuite nos moments sont fatigues nos seuls sont fatigues donc il faut pas etre oisif
+-------------------------------------------
+
+Final WER Score: 8.82

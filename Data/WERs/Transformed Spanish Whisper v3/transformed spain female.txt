@@ -1,0 +1,1436 @@
+2.272727272727273
+line_id 5037749256
+transcript norm:  encantada de estar aqui y te quiero agradecer publicamente que me hayas considerado porque se el nivel de la gente a la que traes y para mi como yo espero estar un minimo a la altura de tu audiencia y de tu espiritu critico
+ref norm:         encantada de estar aqui y te quiero agradecer publicamente que me hayas considerado porque se el nivel de la gente a la que traes y para mi vamos yo espero estar un minimo a la altura de tu audiencia y de tu espiritu critico
+
+ ------------------------------------------- 
+
+10.416666666666668
+line_id 9166311106
+transcript norm:  la definicion de la hormona simplemente es una sustancia quimica que se segrega en una zona de nuestro cuerpo en una glandula y permite que el resto de celulas del cuerpo se comuniquen entre ellas es el lenguaje que tienen los tecidos los tecidos hablan entre si
+ref norm:         la definicion de la hormona es simplemente una sustancia quimica que se segrega en una zona de nuestro cuerpo en una glandula y permite que el resto de celulas del cuerpo se comuniquen entre ellas ese es el lenguaje que tienen los tejidos los tejidos hablan entre si
+
+ ------------------------------------------- 
+
+0.0
+line_id 9166394949
+transcript norm:  entonces el hecho de que tu no las notes no se oigan no quiere decir que no esten cada segundo de tu vida como un engranaje de un reloj haciendo el efecto clave sin hormonas no se vive
+ref norm:         entonces el hecho de que tu no las notes no se oigan no quiere decir que no esten cada segundo de tu vida como un engranaje de un reloj haciendo el efecto clave sin hormonas no se vive
+
+ ------------------------------------------- 
+
+0.0
+line_id 9166344672
+transcript norm:  por lo tanto cualquier alteracion de una hormona tanto por exceso como por defecto afecta a tu calidad de vida y si no te produce una enfermedad te separa de lo que es la homeostasis lo que es la normalidad y por tanto te separa de una adecuada calidad de vida
+ref norm:         por lo tanto cualquier alteracion de una hormona tanto por exceso como por defecto afecta a tu calidad de vida y si no te produce una enfermedad te separa de lo que es la homeostasis lo que es la normalidad y por tanto te separa de una adecuada calidad de vida
+
+ ------------------------------------------- 
+
+0.0
+line_id 9166354449
+transcript norm:  y sobre todo lo mas importante es que cuando tu entiendes como funcionan las hormonas y por lo que te he dicho antes que hablan entre si te das cuenta que cuando una se afecta el resto en mayor 0 menor medida van a verse afectadas entonces al final es como una cascada
+ref norm:         y sobre todo lo mas importante es que cuando tu entiendes como funcionan las hormonas y por lo que te he dicho antes que hablan entre si te das cuenta que cuando una se afecta el resto en mayor 0 menor medida van a verse afectadas entonces al final es como una cascada
+
+ ------------------------------------------- 
+
+7.894736842105263
+line_id 9166366716
+transcript norm:  no te empiezas a encontrar mal porque te funciona 0 porque produces menos testosterona de lo habitual y no solo vas a tener las manifestaciones de una falta de testosterona sino que probablemente tu insulina tampoco te funcione bien
+ref norm:         tu te empiezas a encontrar mal porque te funciona 0 porque produces menos testosterona del habitual y no solo vas a tener las manifestaciones de una falta de testosterona sino que probablemente tu insulina tampoco te funcione bien
+
+ ------------------------------------------- 
+
+6.976744186046512
+line_id 9166345382
+transcript norm:  entonces igual vas al gimnasio pero ya no solo no produces suficiente masa muscular sino por ejemplo quieres almacenar mas grasa no entiendes por que luego a la misma vez tu funcion tiroidea se debilita entonces te empiezas a encontrar mas cansado
+ref norm:         entonces igual vas al gimnasio pero ya no solo no produces suficiente masa muscular sino por ejemplo tiendes a almacenar mas grasa no entiendes por que luego a la misma vez tu funcion tiroidia se debilita entonces te empiezas a encontrar mas cansado
+
+ ------------------------------------------- 
+
+6.8181818181818175
+line_id 9166336162
+transcript norm:  por lo tanto al mejorar una hormona y el efecto contrario al empeorar una se afecta realmente todo el organismo de ahi a que yo creo que deberia ser mucho mas conocido el papel de las hormonas y no solo las tiroides todas todas son importantes
+ref norm:         por lo tanto al mejorar una hormona y el efecto contrario al empeorar una se afecta realmente todo el organismo debe que yo creo que deberia ser mucho mas conocido el papel de las hormonas y no solo las tiroides todas todas son importantes
+
+ ------------------------------------------- 
+
+8.620689655172415
+line_id 9166336383
+transcript norm:  pero en hombre y en las mujeres en ti igual te importa mas la testosterona pero yo creo que a la hora de podcast hablaremos de los estrogenos y diras ostras es que como hombre tambien necesito tener estrogenos entonces creo que la pregunta es por que no se conocen mas y que no se afecta por las hormonas
+ref norm:         pero no hombre y las mujeres en ti igual te importa mas la testosterona pero yo creo que a lo largo del podcast hablaremos de los estrogenos y diras ostras es que como hombre tambien necesito tener estrogenos entonces creo que la pregunta es por que no se conocen mas y que no se afecta por las hormonas
+
+ ------------------------------------------- 
+
+4.0
+line_id 9166368927
+transcript norm:  lo cambio de hecho en la edad de la transicion en la adolescencia hay lo que se llama una poda neuronal donde nosotros tenemos muchisimas neuronas cuando somos ninos pequenos y cuando tenemos en torno a 70 8 anos pero luego nuestro cerebro tiene que hacerse mucho mas eficiente
+ref norm:         te lo cambia de hecho en la edad de la transicion en la adolescencia hay lo que se llama una poda neuronal donde nosotros tenemos muchisimas neuronas cuando somos ninos pequenos y cuando tenemos en torno a 70 8 anos pero luego nuestro cerebro tiene que hacerse mucho mas eficiente
+
+ ------------------------------------------- 
+
+11.904761904761903
+line_id 9166375730
+transcript norm:  no merece la pena tener 18 neuronas para mover una taza si con una puesta de la misma funcion entonces tu cuerpo tiene que ahorrar energia porque el cuerpo es un ahorrador de energia por eso tambien entendemos la obesidad
+ref norm:         es decir no merece la pena tener 18 neuronas para mover una taza si con una puedes hacer la misma funcion entonces tu cuerpo tiene que ahorrar energia porque el cuerpo es un ahorrador de energia por eso tambien tendemos la obesidad
+
+ ------------------------------------------- 
+
+21.34831460674157
+line_id 9166398692
+transcript norm:  ese aumento progresivo que muchas veces se da a picos de lo que produce la adolescencia es lo que lleva a que entre otras cosas de repente tengas una impulsividad que tu no tenias un interes diferente que importe un poco la tribu de tus padres y des mas valor por ejemplo a tus amigos que de repente te apetezca ves a una tia y ya no la ves de una manera igual
+ref norm:         entonces en esa poda de neuronas influye muchisimo tanto los estrogenos como la testosterona ese aumento progresivo que muchas veces se da a picos y es lo que produce la adolescencia es lo que lleva a que entre otras cosas de repente tengas una impulsividad que tu no tenias un interes diferente te importe un poco la atribu de tus padres y des mas valor por ejemplo a tus amigos que de repente te apetezca oye ves a una tia y ya no la ves de una manera igual
+
+ ------------------------------------------- 
+
+15.686274509803921
+line_id 9166332826
+transcript norm:  va ahi y le dice a tus nubes a ver no os preocupeis yo os desinhibo haced todo lo que querais ya que en la adolescencia hay comportamientos que son a veces incluso patinques de animales porque realmente estamos totalmente desinhibidos entonces la adolescencia claro que es un problema hormonal
+ref norm:         va ahi y le dice a tus neugras no os preocupeis yo os desinhibo a hacer todo lo que querais ya que en la adolescencia hay comportamientos que son a veces incluso parecen que sean de animales porque realmente estamos totalmente desinhibidos entonces la adolescencia claro que es un problema hormonal
+
+ ------------------------------------------- 
+
+5.970149253731343
+line_id 9166318619
+transcript norm:  claro que es porque tu cuerpo se esta adaptando a unos niveles de hormonas que hace seis meses no tenia y que probablemente en dos anos tampoco tenga porque hay un ascenso brutal para que todo se rebalance y a la poda neuronal tu te empieces a desarrollar como individuo para ejercer tu papel en la sociedad que es para lo que estamos codificados al final tambien .
+ref norm:         claro que es porque tu cuerpo se esta adaptando a unos niveles de hormonas que hace seis meses no tenia y que probablemente en dos anos tampoco tenga porque hay un ascensor brutal para que todo se reorganice y haya la poda neuronal tu te empieces a desarrollar como individuo para ejercer tu papel en la sociedad que es para lo que estamos codificados al final tambien
+
+ ------------------------------------------- 
+
+15.873015873015872
+line_id 9166317172
+transcript norm:  que van a reproducir mas y una vez que todo el cerebro se ha reorganizado las hormonas esos picos que tu has tenido durante 40 5 anos se empiezan a estabilizar y ya ese impulso toda esa actitud tipica de los adolescentes se mejora porque fundamentalmente el estrogeno en la testosterona disminuye y pasa a valores normales ni tan bajos como antes ni tan altos
+ref norm:         claro reproducirnos y una vez que todo tu cerebro se ha reorganizado las hormonas esos picos que tu has tenido durante cuatro 0 cinco anos se empiezan a estabilizar y ya ese impulso toda esa actitud tipica de los adolescentes se mejora porque fundamentalmente el estrogeno y la testosterona disminuye y pasa a valores normales ni tan bajos como antes ni tan altos
+
+ ------------------------------------------- 
+
+1.8867924528301887
+line_id 9166366058
+transcript norm:  y esas funciones son claves para que la celula funcione es decir la testosterona va al pelo y por ejemplo hace que el foliculo piloso sea mas pequeno para evitar un exceso de consumo de nutrientes a nivel de la cabeza que podria en un pasado condicionar la cantidad de nutrientes que hubiera
+ref norm:         y esas funciones son claves para que la celula funcione es decir la testosterona va al pelo y por ejemplo hace que el foliculo pilloso sea mas pequeno para evitar un exceso de consumo de nutrientes a nivel de la cabeza que podria en un pasado condicionar la cantidad de nutrientes que hubiera
+
+ ------------------------------------------- 
+
+9.090909090909092
+line_id 5037792470
+transcript norm:  claro en el musculo induce que el producto de masa muscular es decir la testosterona contiene informacion 0 sea las hormonas contienen informacion que cuando van a cada una de las celulas la liberan
+ref norm:         claro en el musculo induce que te produzcas masa muscular es decir la testosterona contiene informacion 0 sea las hormonas contienen informacion que cuando van a cada una de las celulas la liberan
+
+ ------------------------------------------- 
+
+0.0
+line_id 9166363842
+transcript norm:  entonces el cortisol es una hormona que si tu la tienes baja lo que se denomina insuficiencia adrenal un hipocortisolismo te mueres 0 sea te mueres en un periodo de menos de un dia no puedes vivir sin cortisol
+ref norm:         entonces el cortisol es una hormona que si tu la tienes baja lo que se denomina insuficiencia adrenal un hipocortisolismo te mueres 0 sea te mueres en un periodo de menos de un dia no puedes vivir sin cortisol
+
+ ------------------------------------------- 
+
+8.108108108108109
+line_id 9166344463
+transcript norm:  de hecho es una condicion potencialmente mortal en cambio que tu tengas una funcion triodea baja puedes vivir con menos calidad de vida pero puedes aguantar muchisima gente que no sabe que tiene hipotiroidismo ya aguanta
+ref norm:         de hecho es una condicion potencialmente mortal en cambio que tu tengas una funcion tiroidea baja puedes vivir con menos calidad de vida pero puedes aguantar hay muchisima gente que no sabe que tiene hipotiroidismo y aguanta
+
+ ------------------------------------------- 
+
+9.30232558139535
+line_id 9166343578
+transcript norm:  entonces hay hormonas que sin ellas es que literalmente no vives entonces esta honrado de esa magnitud lo que pasa es que como no se conoce parece que no existe porque no se habla y entonces la gente no le esta la importancia
+ref norm:         entonces hay hormonas que sin ellas es que literalmente no vives entonces estamos hablando de esa magnitud lo que pasa es que como no se conoce parece que no existe porque no se habla y entonces la gente no les da la importancia
+
+ ------------------------------------------- 
+
+4.545454545454546
+line_id 9166318855
+transcript norm:  que no hace como se interrelaciona la fisiologia hormonal como funciona el cuerpo humano lamentablemente jordi en ninguna espejeria medica se domina
+ref norm:         que no hace como se interrelaciona la fisiologia hormonal como funciona el cuerpo humano lamentablemente jordi en ninguna especialidad medica se domina
+
+ ------------------------------------------- 
+
+1.9607843137254901
+line_id 9166391546
+transcript norm:  yo creo que al final parte de que las personas que no son medicos tampoco entiendan muy bien el tema de la salud y no sepan como prevenir la enfermedad es porque nosotros tampoco le estamos dando toda la informacion yo te la doy sesgada yo te doy la consecuencia
+ref norm:         yo creo que al final parte de que las personas que no son medicos tampoco entiendan muy bien el tema de la salud y no sepan como prevenir la enfermedad es porque nosotros tampoco le estamos dando toda la informacion jordi yo te la doy sesgada yo te doy la consecuencia
+
+ ------------------------------------------- 
+
+12.5
+line_id 2575490419
+transcript norm:  pero no te digo mira yorli a ti te ha pasado esto porque hay tal hormona que funciona asi hay tal hormona que funciona asi y cuando funciona asi asi te pasa esto porque si yo te explicara como funciona tu cuerpo gracias a las hormonas tu entenderias que eso que te hace asi por que te pasa aunque tu no te puedas tratar ve al menos un poco irritado
+ref norm:         pero no te digo mira jordi a ti te ha pasado esto porque hay tal hormona que funciona asi hay tal hormona que funciona asi y cuando funciona asi asi te pasa esto porque si yo te explicara como funciona tu cuerpo gracias a esas hormonas tu entenderias que es lo que te pasa y por que te pasa aunque tu no te puedas tratar pero al menos un poco ir orientado
+
+ ------------------------------------------- 
+
+24.242424242424242
+line_id 2575473695
+transcript norm:  el hipotiroidismo lo controlamos con una analitica malitmo pues contaros y sabes me encuentro fatal estoy super cansado me cae muchisimo el pelo estoy engordando y yo te doy el farmaco que es una hormona que es la levotiroxina y te controlo con los analisis entonces tu vienes al mes y te digo ay yo le he usado ahi estana perfecta y tu me cuentas
+ref norm:         el hipotiroidismo lo controlamos con una analitica y tu me puedes contar ostras isabel me encuentro fatal estoy super cansado se me cae muchisimo el pelo estoy engordando y yo te doy el farmaco que es una hormona que es la levotiroxina y te controlo con los analisis entonces tu vienes al mes y digo ay jordi tus analisis estan ya perfectos y tu me cuentas
+
+ ------------------------------------------- 
+
+10.0
+line_id 9166358297
+transcript norm:  no no isabel es que no me sigo encontrando mal es que sigo aumentando de peso sigo teniendo anemia mental y digo no no jordi esto no puede ser porque tus analisis estan bien y entonces me da igual lo que me cuentes si tus analisis estan bien perfecto
+ref norm:         no no isabel es que yo me sigo encontrando mal es que sigo aumentando de peso sigo teniendo una inundabilidad mental y digo no no jordi esto no puede ser porque tus analisis estan bien y entonces me da igual lo que me cuentes si tu analisis esta bien perfecto
+
+ ------------------------------------------- 
+
+12.698412698412698
+line_id 5037749739
+transcript norm:  pero en cambio con otra hormona que es el cortisol yo tu tienes una disminucion del cortisol te doy un farmaco para sustituir que es como si fuera el cortisol natural y yo ahi no te vienen los analisis ahi solo me fio de lo que tu me cuentes y si a ver estoy mas cansada ah si yo no te preocupes te subo el cortisol
+ref norm:         pero en cambio con otra hormona que es el cortisol tu tienes una disminucion del cortisol te doy un farmaco para sustituir que es como si fuera el cortisol natural y yo ahi no te miro en los analisis ahi solo me fio de lo que tu me cuentes isabel estoy mas cansada ah si jordi no te preocupes te subo el cortisol
+
+ ------------------------------------------- 
+
+12.32876712328767
+line_id 9166356477
+transcript norm:  si el paciente me esta contando que se encuentra francamente mal por que me tengo que fiar de lo que me dice un analisis en un momento que tiene fallos que los analisis no son infalibles y en cambio con otra hormona me da igual lo que digan a la licilla y es lo que me cuentan son cosas que por eso te digo que yo creo que no se terminan de entender
+ref norm:         si el paciente me esta contando que se encuentra francamente mal porque me tengo que fiar de lo que me dice un analisis en un momento que tiene fallos que los analisis no son infalibles y en cambio con otra hormona me da igual lo que diga el analisis y ahi es lo que me cuenta entonces son cosas que por eso te digo que yo creo que no se terminan de entender
+
+ ------------------------------------------- 
+
+15.151515151515152
+line_id 2575496764
+transcript norm:  yo creo que si en contra del escucha al paciente jorge yo creo que ademas la respuesta la tienes en el nombre tu cuando haces una historia clinica los analistas son pruebas complementarias
+ref norm:         yo creo que si en contra de escuchar al paciente jordi yo creo que mas la respuesta la tienes en el nombre tu cuando haces una historia clinica los analisis son pruebas complementarias
+
+ ------------------------------------------- 
+
+14.925373134328357
+line_id 9166343565
+transcript norm:  no es la historia la historia el motivo de consulta es lo que jordi me cuenta a mi de lo que yo veo cuando hablo con el el analisis oye es estupendo y no sere yo la que te diga que yo utilizo los analisis a diario pero no puede ser el ece central de este tratamiento mio como medico por mi especialidad ni ninguna otra eso un apoyo .
+ref norm:         no es la historia la historia el motivo de consulta es lo que jordi me cuenta a mi y lo que yo veo cuando hablo con el el analisis es estupendo y no sere yo la que te diga que utilizo los analisis a diario pero no puede ser el eje central del tratamiento mio como medico pero ni mi especialidad ni ninguna otra es un apoyo
+
+ ------------------------------------------- 
+
+6.976744186046512
+line_id 2575428052
+transcript norm:  pero yo no puedo pasar por alto lo que tu me estas contando 0 lo que yo veo pues creo que lamentablemente vivimos en una sociedad donde por rapidez 0 hemos perdido el foco de lo mas importante que es lo que te cuenta la persona
+ref norm:         pero yo no puedo pasar por alto lo que tu me estas contando lo que yo veo creo que lamentablemente vivimos en una sociedad donde por rapidez hemos perdido el foco de lo mas importante que es lo que te cuenta la persona
+
+ ------------------------------------------- 
+
+13.846153846153847
+line_id 2575414205
+transcript norm:  es que un analisis solo si lo piensas como se hace yo si es tu te vas a las 8 de la manana y te mido un minuto 0 sea un segundo lo que pasa en tu sangre en ese microsegundo y ademas eso esta condicionado a lo que has hecho antes y esa muestrecita no es va a un laboratorio cuanto tiempo pasas en el laboratorio
+ref norm:         es que un analisis solo si lo piensas como se hace jordi es que tu te vas a las 8 de la manana y te mido un minuto 0 sea un segundo lo que pasa en tu sangre en ese microsegundo y ademas eso esta acondicionado a lo que has hecho antes y esa muestrecita va a un laboratorio cuanto tiempo ha pasado ese laboratorio
+
+ ------------------------------------------- 
+
+0.0
+line_id 5037771856
+transcript norm:  porque si pasa mucho tiempo la muestra se pierde pierde calidad las hormonas pueden verse afectadas puede haber coagulacion luego que metodos analiticos utilizan
+ref norm:         porque si pasa mucho tiempo la muestra se pierde pierde calidad las hormonas pueden verse afectadas puede haber coagulacion luego que metodos analiticos utilizan
+
+ ------------------------------------------- 
+
+31.428571428571427
+line_id 9166338366
+transcript norm:  porque yo digo tiene nada que ver utilizar lo que se hace en los estudios pinicos que mola un monton la cromatografia liquida el espectro fotometrico y mas es que tiene una sensibilidad y una especificidad altisima
+ref norm:         porque yo no tengo nada que ver utilizar lo que se hacen los estudios clinicos que mola un monton la cromatografia liquida al respecto fotometida de masas que tiene una sensibilidad y una especificidad altisima
+
+ ------------------------------------------- 
+
+7.142857142857142
+line_id 9166380218
+transcript norm:  esto que quiere decir que reproduce con mucha fiabilidad lo que ocurre en tu cuerpo de lo que lamentablemente por costos se hace en los hospitales que son helixas inmunonsayos que estan bien para algunas cosas pero para otras son marcadores muy malos
+ref norm:         esto que quiere decir que reproduce con mucha fiabilidad lo que ocurre en tu cuerpo de lo que lamentablemente por costos se hacen los hospitales que son elisas inmunonsayos que estan bien para algunas cosas pero para otras son marcadores muy malos
+
+ ------------------------------------------- 
+
+7.142857142857142
+line_id 5037723157
+transcript norm:  no tengo obesidad he estado tomando corticoides porque me he puesto enfermo y tengo diabetes
+ref norm:         no tengo obesidad he estado tomando corticoides porque me he puesto enfermo tengo diabetes
+
+ ------------------------------------------- 
+
+15.0
+line_id 9166398468
+transcript norm:  todo eso influye en la manera en la que medimos la testosterona entonces yo falsamente te puedo decir ostras yo tengo una testosterona brutal esa falta de libido esa dificultad para la remosion escolar no puede ser por la testosterona
+ref norm:         todo eso influye en la manera en la que medimos la testosterona entonces yo falsamente te puedo decir ostras jordi tienes la testosterona brutal esa falta de libido esa dificultad para ganar mas muscular no puede ser por la testosterona
+
+ ------------------------------------------- 
+
+4.761904761904762
+line_id 9166310867
+transcript norm:  el problema de los diputados jordi no es la cantidad sino que con pequenas dosis pueden ejercer efectos ya notables de hecho fue super curioso porque varios eurodiputados se mostraron un poco voluntarios para ver si eso era realmente tan importante
+ref norm:         y el problema de los disruptores jordi no es la cantidad sino que con pequenas dosis pueden ejercer efectos ya notables de hecho fue super curioso porque varios eurodiputados se mostraron un poco voluntarios para ver si eso era realmente tan importante
+
+ ------------------------------------------- 
+
+12.5
+line_id 9166344261
+transcript norm:  de los disruptores se hicieron analisis de sangre a 10 creo que recuerdo y tenian todos niveles brutales de disruptores humanos que se han relacionado con infertilidad con canceres de tiroides con canceres de mama porque al final canceres de prostata que son todos enfermeros hormonodependientes
+ref norm:         lo de los disruptores se hicieron analisis de sangre a diez creo que recuerdo y tenian todos por niveles brutales de disruptores hormonales que se han relacionado con infertilidad con canceres de tiroides con canceres de mama porque al final canceres de prostata que son todas enfermedades hormonodependientes
+
+ ------------------------------------------- 
+
+6.349206349206349
+line_id 9166372559
+transcript norm:  exacto es un peaje que tenemos que cobrar por estar en el sitio en el que estamos lo que pasa es que no nos habiamos dado cuenta de la repercusion que tenia hasta que nos hemos empezado a dar cuenta que habian por ejemplo desde los anos 70 hasta ahora la concentracion del esperma ha disminuido un 524% en los hombres sana
+ref norm:         exacto es un peaje que tenemos que cobrar por estar en el sitio en el que estamos lo que pasa es que no nos habiamos dado cuenta de la repercusion que tenia hasta que nos hemos empezado a dar cuenta que habia por ejemplo desde los anos 70 hasta ahora la concentracion del esperma ha disminuido un 52 4% en los hombres sanos
+
+ ------------------------------------------- 
+
+5.660377358490567
+line_id 5037789138
+transcript norm:  si no podemos evitarlos al maximo al menos reducirlos entonces es un poco el arrasonamiento de hecho lo del plastico ya no es tanto por la contaminacion sino probablemente porque cuando tu tomas una comida en un tupper de plastico tu no sabes la cantidad de microplasticos con poder disruptor que te estas comiendo
+ref norm:         si no podemos evitarlos al maximo al menos reducirlos entonces es un poco el razonamiento de hecho lo del plastico ya no es tanto por la contaminacion sino probablemente porque cuando tomas una comida en un taper de plastico tu no sabes la cantidad de microplasticos con poder disruptor que te estas comiendo
+
+ ------------------------------------------- 
+
+14.754098360655737
+line_id 9166397738
+transcript norm:  esa no es la reflexion de la ficcion es conocerlo para que con esa informacion al final temamos menos y elijamos mejor entonces igual cuando tienes que comprar un tupper un recipiente 0 una sarten porque la tengas que renovar en vez de ir por la sarten antiadherente mega ultra top te vas por la de acero inoxidable
+ref norm:         esa no es la reflexion la reflexion es conocerlo para que con esa informacion al final te amamos menos y elijamos mejor y entonces igual cuando te tienes que comprar un tap en un recipiente 0 una sarten porque la tengas que renovar en vez de ir por la sarten antiadherente mega ultra top te vas por la de hacer inoxidable
+
+ ------------------------------------------- 
+
+0.0
+line_id 9166368661
+transcript norm:  solo por eso es inevitable que tu tengas tendencia a unas enfermedades y unas peculiaridades y unas habilidades que yo no tengo y viceversa yo tambien tengo mas estrogeno que tu pero tu tambien tienes entonces hay diferencias y la testosterona para hombres y para mujeres es una hormona clave
+ref norm:         solo por eso es inevitable que tu tengas tendencia a unas enfermedades y unas peculiaridades y unas habilidades que yo no tengo y viceversa yo tambien tengo mas estrogeno que tu pero tu tambien tienes entonces hay diferencias y la testosterona para hombres y para mujeres es una hormona clave
+
+ ------------------------------------------- 
+
+13.636363636363635
+line_id 9166361837
+transcript norm:  lo que pasa es que se asocia mucho a mazao de gimnasio que se mete que se revienta el higado verdad
+ref norm:         lo que pasa es que se asocia mucho a mazado de gimnasio que se mete que se revienta el higado no no
+
+ ------------------------------------------- 
+
+2.73972602739726
+line_id 9166369843
+transcript norm:  es que eso es cuando vamos en exceso pero es que la testosterona es necesaria y por tanto es tanto problema que nebla alta porque te has inyectado porque generalmente las causas de testosterona alta en hombres son porque se inyectan como que la tengas baja entonces no hay que normalizar ni estar pasado de dosis ni tampoco no la testosterona no no no me hago mayor me bajo un monton me encuentro mal
+ref norm:         es que eso es cuando vamos en exceso pero es que la testosterona es necesaria y por tanto es tanto problema tenerla alta porque te has inyectado porque generalmente las causas de testosterona alta en hombres son porque se inyectan como que la tengas baja entonces no hay que normalizar ni estar pasado de dosis ni tampoco no la testosterona no no no me hago mayor me bajo un monton me encuentro mal
+
+ ------------------------------------------- 
+
+0.0
+line_id 9166324028
+transcript norm:  la dihidrotestosterona que es como una testosterona mas activa mas potente y luego los estrogenos porque los estrogenos se producen a partir de la testosterona y son claves para varias funciones que tienen los hombres fundamentales
+ref norm:         la dihidrotestosterona que es como una testosterona mas activa mas potente y luego los estrogenos porque los estrogenos se producen a partir de la testosterona y son claves para varias funciones que tienen los hombres fundamentales
+
+ ------------------------------------------- 
+
+2.0408163265306123
+line_id 9166387454
+transcript norm:  luego esa testosterona sale a la sangre y en la sangre en los musculos la propia testosterona induce que se produzcan proteinas que aumenta la masa muscular pero luego por ejemplo va al cabello se convierte en esa dihidrotestosterona y permite que el cabello crezca pero tambien sea finito
+ref norm:         luego esa testosterona sale a la sangre y en la sangre en los musculos la propia testosterona induce que se produzcan proteinas que aumenten la masa muscular pero luego por ejemplo va al cabello se convierte en esa dihidrotestosterona y permite que el cabello crezca pero tambien sea finito
+
+ ------------------------------------------- 
+
+8.0
+line_id 9166321250
+transcript norm:  por ejemplo en la piel permite que secreteis grasa y por eso tengais la piel los hombres no solo mas gruesa sino tambien mas gordita realmente los hombres tienen menos arrugas que las mujeres y cuando os quemais con el sol no teneis tantas manchas en la cara como las mujeres
+ref norm:         por ejemplo en la piel permite que secreteis grasa y por eso tengais la piel los hombres no solo mas grasa sino tambien mas gordita generalmente los hombres teneis menos arrugas que las mujeres cuando os quemais con el sol no teneis tantas manchas en la cara como las mujeres
+
+ ------------------------------------------- 
+
+13.793103448275861
+line_id 9166318425
+transcript norm:  realmente una mujer que no se haya intervino no se haya inyectado nada generalmente envejecemos peor que los hombres porque perdemos mucha densidad hidratacion y calidad de piel basicamente porque nuestros niveles tanto de estrogenos como de testosterona bajan y la testosterona es lo que hace que estes mas lustroso en la piel asi como un poco suena
+ref norm:         realmente una mujer que no nos haya intervenido nos haya inyectado nada generalmente envejecemos peor que los hombres porque perdemos mucha densidad hidratacion y calidad de piel basicamente porque nuestros niveles tanto de estrogenos como de testosterona bajan y la testosterona es lo que hace que estes con mas lustroso la piel asi como un poco en general
+
+ ------------------------------------------- 
+
+10.416666666666668
+line_id 9166345604
+transcript norm:  todo aquello que suprima cualquiera de las tres hormonas en un hombre la testosterona porque te inyectes tu la dihidrotestosterona porque te tomes un farmaco para el pelo 0 los estrogenos porque te tomes a un bloqueador de estrogenos para afectar a tu libido mas 0 menos
+ref norm:         todo aquello que suprima cualquiera de las tres hormonas en un hombre la testosterona porque te inyectes tu la hidrotestosterona porque te tomas un farmaco para el pelo 0 los estrogenos porque te tomas a un bloqueador de estrogenos va a afectar a tu libido mas 0 menos
+
+ ------------------------------------------- 
+
+8.571428571428571
+line_id 9166335646
+transcript norm:  tanto mas cuando mayor sea la magnitud de la circunstancia que te disminuya una de las tres hormonas pero la testosterona como tal no es solo las hormonas sino que son tres testosterona dihidrotestosterona y estrogeno
+ref norm:         tanto mas cuanto mayor sea la magnitud de la circunstancia que te disminuya una de las tres hormonas pero la testosterona como tal no es solo hormona sino que son tres testosterona dihidrotestosterona y estrogeno
+
+ ------------------------------------------- 
+
+15.254237288135593
+line_id 9166327924
+transcript norm:  entiendelo y una vez que lo entiendas decide tu como quieres hacer las cosas sabes pero es que en esta soquea yo creo que ya es tan canchino como hay que hilar y decir que es que al final muchas veces a mi yo ahora se me ira mejor explicarte esto que te estoy explicando a ti
+ref norm:         entiendelo y una vez que lo entiendas decide tu como quieres hacer las cosas sabes pero es que en esta sociedad yo creo que ya es tan cansino el como hay que hilar y decir que es que al final muchas veces a mi jordi se me quitan las manos de explicarte esto que te estoy explicando a ti
+
+ ------------------------------------------- 
+
+20.37037037037037
+line_id 5037796308
+transcript norm:  pero por ejemplo si que se pueden exacerbar funciones que de normal hacer a testosterona por ejemplo en la piel he dicho que produce grasa creo que iba un exceso de testosterona 0 una produccion de exceso 0 sea la clave aqui y creo que todo el mundo entiende es el exceso
+ref norm:         pero por ejemplo si que se pueden exacerbar funciones que de normal hace la testosterona por ejemplo en la piel te he dicho que produce grasa que es lo que lleva un exceso de testosterona una produccion de exceso 0 sea la clave aqui que quiero que todo el mundo entienda es el exceso
+
+ ------------------------------------------- 
+
+1.36986301369863
+line_id 9166355078
+transcript norm:  0 sea no es la hormona en si sino el exceso 0 el defecto un exceso de grasa basicamente lo que hace es que obstruye los foliculos por donde sale la grasa en los foliculos pilosos en todo el cuelo cabelludo y hace que tengas acne especialmente en zonas muy dependientes de testosterona como puede ser la zona de la espalda y los hombros que son zonas donde hay muchisimos receptores de testosterona
+ref norm:         0 sea no es la hormona en si sino el exceso 0 el defecto un exceso de grasa basicamente lo que hace es que obstruye los foliculos por donde sale la grasa en los foliculos pilosos en todo el cuero cabelludo y hace que tengas acne especialmente en zonas muy dependientes de testosterona como puede ser la zona de la espalda y los hombros que son zonas donde hay muchisimos receptores de testosterona
+
+ ------------------------------------------- 
+
+13.157894736842104
+line_id 9166359153
+transcript norm:  tu tienes muchisima testosterona exogena externa ese exceso de testosterona llega al cuero cabelludo y en el cuero cabelludo en la puertecita hay una enzima que se llama la 5 alfa reductosa que la activa a la dihidrotestosterona
+ref norm:         tu tienes muchisima testosterona exogena externa ese exceso de testosterona llega al cuero cabelludo en el cuero cabelludo en la puertecita hay una enzima que se llama la 5 alpha reductasa que la activa a la de hidrotestosterona
+
+ ------------------------------------------- 
+
+0.0
+line_id 5037720327
+transcript norm:  y como hay mucha eso en el foliculo piloso es un estimulo demasiado grande y no solo hace que el pelo no tenga el ciclo de crecimiento normal sino que poco a poco vaya afinandose de normal
+ref norm:         y como hay mucha eso en el foliculo piloso es un estimulo demasiado grande y no solo hace que el pelo no tenga el ciclo de crecimiento normal sino que poco a poco vaya afinandose de normal
+
+ ------------------------------------------- 
+
+10.714285714285714
+line_id 9166322726
+transcript norm:  no porque la clave esta en cuantos receptores hay y de que tipo son y en la cabeza especialmente en el cuello cabelludo hay muchos receptores para la activacion de esa testosterona la testosterona que ejerce esa funcion en el resto de pelos son solo mas funciones anabolicas no son funciones de regulacion de lo grosor del pelo
+ref norm:         no porque la clave esta en cuantos receptores hay y de que tipo son y en la cabeza especialmente en el cuero cabelludo hay muchos receptores para la activacion de esa testosterona en hidrotestosterona que ejerce esa funcion el resto de pelos son solo mas funciones anabolicas no son funciones de regulacion del grosor del pelo
+
+ ------------------------------------------- 
+
+25.64102564102564
+line_id 9166310739
+transcript norm:  y el musculo claro tienes un monton mas tu cuentas con que de normal tu vas a hacer deporte y tu puedes que lo sabes bien por mucho que hagas deporte y te la metes bien hay un limite que te puedes ganar en masa muscular
+ref norm:         y el musculo tienes un monton mas tu cuentas con que de normal tu vas a hacer deporte tu lo sabes bien por mucho que hagas deporte y tal hay un limite que tu puedes ganar a masa muscular
+
+ ------------------------------------------- 
+
+14.583333333333334
+line_id 9166356629
+transcript norm:  y es algo ilimitado por lo mucho que tu te puedes ganar al ano de musculo real por testosterona normal limpio 40 5 kilos como muchisimo de musculo una persona que se inyecta exacerba eso a lo extremo es decir lleva el cuerpo a limites que no son normales
+ref norm:         y es algo limitado por mucho que tu puedes ganar al ano de musculo real por testosterona normal limpio cuatro 0 cinco kilos como muchisimo de musculo una persona que se inyecta exacerba eso a lo extremo es decir lleva al cuerpo a limites que no son normales
+
+ ------------------------------------------- 
+
+7.317073170731707
+line_id 9166339391
+transcript norm:  es que la cavidad se va haciendo con menos espacio porque el musculo va rellenando el hueco y se hacen corazones que no son normales las articulaciones jordi luego todos estan en silla de ruedas 0 tienen problemas articulados por que
+ref norm:         es que la cavida se va haciendo con menos espacio porque el musculo va rellenando el hueco y se hacen corazones que no son normales las articulaciones jordi luego todos estan en silla de ruedas 0 tienen pruebas articulares por que
+
+ ------------------------------------------- 
+
+34.21052631578947
+line_id 9166366420
+transcript norm:  porque al final puestas en un musculo muy grande para tu articulacion pero eso te he explicado que no crece mas entonces tu estas sosteniendo en una visa gracias a la articulacion de la rodilla un musculo y tu cuerpo no esta disenado
+ref norm:         porque al final tu estas teniendo un musculo muy grande para tu articulacion que no crece mas tu estas sosteniendo en una bisagra que es la articulacion de la rodilla un musculo que tu cuerpo no esta disenado
+
+ ------------------------------------------- 
+
+23.076923076923077
+line_id 5037780355
+transcript norm:  tu te vas a cualquier foro de protocolo de testosterona y siempre recomiendan un farmacopo para proteger los rinones por que porque cascas 0 sea al final la testosterona se tiene que metabolizar ese exceso de proteinas ese exceso de anabolismo y eso pasa todo por los rinones es lo que hay un monton de problemas renales
+ref norm:         tu te vas a cualquier foro de protocolo de texto personal y siempre recomiendan un farmaco para proteger los rinones porque al final la testosterona se tiene que metabolizar ese exceso de proteinas ese exceso de anabolismo y eso pasa todo por los rinones entonces luego tiene un monton de problemas renales
+
+ ------------------------------------------- 
+
+14.814814814814813
+line_id 9166364896
+transcript norm:  eso no se ve no te lo cuentan no lo ves tu en el video que te hace youtube metal cafe una rutina de biceps
+ref norm:         y eso no se ve no te lo cuentan no lo ves tu en el video que te hace youtube mientras que hace una rutina de biceps
+
+ ------------------------------------------- 
+
+0.0
+line_id 2575452753
+transcript norm:  hombre se metaboliza todas las hormonas todos los farmacos se metabolizan en el higado si tu sobrecargas el sistema al final tu higado tiene una capacidad limitada
+ref norm:         hombre se metaboliza todas las hormonas todos los farmacos se metabolizan en el higado si tu sobrecargas el sistema al final tu higado tiene una capacidad limitada
+
+ ------------------------------------------- 
+
+0.0
+line_id 2575489059
+transcript norm:  y no solo tiene que metabolizar la testosterona tiene que metabolizar el resto de cosas si tu sobrecargas a una capacidad limitada al final por x y z se va a afectar tanto como se metaboliza el resto hasta el propio higado
+ref norm:         y no solo tiene que metabolizar la testosterona tiene que metabolizar el resto de cosas si tu sobrecargas a una capacidad limitada al final por x y z se va a afectar tanto como se metaboliza el resto hasta el propio higado
+
+ ------------------------------------------- 
+
+2.272727272727273
+line_id 5037778321
+transcript norm:  porque al final en exceso la testosterona en un lugar como el higado produce sustancias secundarias inflamatorias que tambien va danando el tejido funcional hepatico entonces luego tambien tiene muchos problemas hepaticos colesterol fibrosis hepatica problemas a la hora de manejar la insulina etcetera
+ref norm:         porque al final en exceso la testosterona en un lugar como el higado produce sustancias secundarias inflamatorias que tambien va danando el tejido funcional hepatico entonces luego tambien tiene muchos problemas hepaticos colesterol fibrosis hepatica problemas a la hora de manejar la insulina etc
+
+ ------------------------------------------- 
+
+2.272727272727273
+line_id 9166365449
+transcript norm:  porque al final en exceso la testosterona en un lugar como el higado produce sustancias secundarias inflamatorias que tambien va danando el tejido funcional hepatico entonces luego tambien tiene muchos problemas hepaticos colesterol fibrosis hepatica problemas a la hora de manejar la insulina etc
+ref norm:         porque al final en exceso la testosterona en un lugar como el higado produce sustancias secundarias inflamatorias que tambien va danando el tejido funcional hepatico entonces luego tambien tiene muchos problemas hepaticos colesterol fibrosis hepatica problemas a la hora de manejar la insulina etcetera
+
+ ------------------------------------------- 
+
+13.953488372093023
+line_id 9166367587
+transcript norm:  porque a mi me han salido bien los analisis que me ha hecho mi preparador si ahora pero estara tu preparador dentro de siete anos cuanto hay mas que irrujentes porque te haya pasado x es que eso luego no se ve
+ref norm:         porque a mi me han salido bien los analisis que me ha hecho mi preparador si ahora pero estara tu preparador dentro de siete anos cuando tengas que ir a urgencias porque te haya pasado x es que eso luego no se ve
+
+ ------------------------------------------- 
+
+17.94871794871795
+line_id 9166327736
+transcript norm:  uso al cuerpo le perturba un exceso de hormonas 0 un defecto y luego es que la testosterona lamentablemente esta tan mal entendida parece que solo haga cosas en el musculo que pierde su monton de perspectiva
+ref norm:         pues al cuerpo le perturba un exceso de hormonas 0 un defecto y lo que pasa es que la testosterona lamentablemente esta tan mal entendida parece que solo haga cosas en el musculo que pierdes un monton de perspectivas
+
+ ------------------------------------------- 
+
+11.76470588235294
+line_id 9166341543
+transcript norm:  pero realmente nacho esta mucho peor y no solo metabolicamente sino libido estado de animo calidad de piel capacidad de responder al entrenamiento de fuerza mucho peor que tu y zorka si estais normales
+ref norm:         pero probablemente nacho este mucho peor y no solo metabolicamente sino libido estado de animo calidad de piel capacidad de responder al entrenamiento de fuerza mucho peor que tu y los dos estais normales
+
+ ------------------------------------------- 
+
+8.333333333333332
+line_id 9166331824
+transcript norm:  volviendo un poco a tu pregunta al final mujeres que se toman testosterona 0 nos reingrieta mejor dicho 0 algun analogo basicamente lo que hace es coger los niveles y elevarlos a la maxima potencia
+ref norm:         volviendo un poco a tu pregunta al final mujeres que se toman testosterona 0 se la inyectan mejor dicho 0 algun analogo basicamente lo que hace es coger los niveles y elevarlos a la maxima potencia
+
+ ------------------------------------------- 
+
+1.5873015873015872
+line_id 9166385935
+transcript norm:  como las mujeres tambien tenemos receptores para testosterona en todo el cuerpo igual que los hombres si yo de normal tengo cinco huecos de parking y yo como mujer solo puedo llenar dos pero yo me inyecto mas y tengo tres coches mas te lleno todo el parking por lo tanto tengo el potencial de tener los mismos efectos que cualquier hombre
+ref norm:         y como las mujeres tambien tenemos receptores para testosterona en todo el cuerpo igual que los hombres si yo de normal tengo cinco huecos de parking y yo como mujer solo puedo llenar dos pero yo me inyecto mas y tengo tres coches mas te lleno todo el parking por lo tanto tengo el potencial de tener los mismos efectos que cualquier hombre
+
+ ------------------------------------------- 
+
+14.814814814814813
+line_id 9166310908
+transcript norm:  luego notais que teneis mas barriga os notais mas fofos 0 sea mas focitos luego ademas por ejemplo tendeis a tener mas problemas de azucar de tension arterial tambien osteoporosis
+ref norm:         luego notais que teneis mas barriga os notais mas fofos mas fofitos ademas por ejemplo tendeis a tener mas problemas de azucar de tension arterial tambien osteoporosis
+
+ ------------------------------------------- 
+
+12.962962962962962
+line_id 9166364010
+transcript norm:  por que porque si no tienes testosterona no tienes suficiente para convertirla en estrogeno y el estrogeno se necesita para mantenerlo hueso entonces tambien te inviertes a tener osteoporosis te ves peor te ves como si fuera tu version mucho mas reducida pero encima con estado de animo bajo depresion problemas de azucar
+ref norm:         por que porque si tu no tienes testosterona no tienes suficiente para convertirla en estrogeno y el estrogeno es necesaria para mantener el hueso entonces tambien tiendes a tener osteoporosis te ves peor te ves como si fuera tu version mucho mas reducida pero encima con estado de animo bajo depresion problemas de azucar
+
+ ------------------------------------------- 
+
+17.857142857142858
+line_id 9166375756
+transcript norm:  pero cuando termine la carrera y estuve filmando pues mira en lo que nos toman todas las cosas dije yo si en las mujeres muchas veces se prescribe la terapia hormonal sustitutiva en la menopausia precisamente por sintomas porque la terapia hormonal sustitutiva no sera porque tu tengas los estrogenos bajos que es normal
+ref norm:         pero cuando termine la carrera y estuve diciendo pues al final en el que no estudiaba todas las cosas dije tio si en las mujeres muchas veces se prescribe la terapia hormonal sustitutiva en la menopausia precisamente por sintomas porque la terapia hormonal sustitutiva no se da porque tu tengas los esterogenos bajos que es normal
+
+ ------------------------------------------- 
+
+8.47457627118644
+line_id 9166378814
+transcript norm:  es porque tu me cuentas a mi como paciente que tienes sofocos que tienes irritabilidad que tienes depresion que tienes incluso riesgo de diabetes riesgo de prediabetes que tienes incluso riesgo de osteoporosis sin tener osteoporosis solo con que yo te haga una prueba y te digo ostras tienes riesgo y ya te prescribo la terapia hormonal sustitutiva
+ref norm:         es porque tu me cuentes a mi como paciente que tienes sofocos que tienes irritabilidad que tienes depresion que tienes incluso riesgo de diabetes un riesgo de prediabetes tambien que tienes incluso riesgo de osteoporosis sin tener osteoporosis solo con que yo te haga una prueba y te digo ostras tienes riesgo ya te escribo la terapia hormonal sustitutiva
+
+ ------------------------------------------- 
+
+3.508771929824561
+line_id 9166371797
+transcript norm:  pero un hombre no un hombre tiene depresion te cuenta que tiene baja libido te cuenta que encima esta engordando que le sube la tension y lo primero que le dices es si pierde peso pero usted y yo a usted no le puede inyectar nada porque no tiene criterios 0 porque no sea por eso
+ref norm:         pero un hombre no un hombre tiene depresion te cuenta que tiene baja libido te cuenta que encima esta engordando que le sube la tension y lo primero que le dices es si pierde peso pero usted y yo a usted no le puede inyectar nada porque no tiene criterios 0 porque no se da por eso
+
+ ------------------------------------------- 
+
+30.76923076923077
+line_id 2575447706
+transcript norm:  yo te reemplazo lo que te falta no te suplen exceso lo que hace la centrohormona una cosa es la trt y otra cosa es la terapia mi terapia es inyectar tu hormona extra fuerte
+ref norm:         yo te reemplazo lo que te falta no te suplo en exceso lo que hace la gendronoma una cosa es la trt y otra cosa es la terapia que no es ni terapia es inyectarte hormonas extra como .
+
+ ------------------------------------------- 
+
+13.333333333333334
+line_id 2575494111
+transcript norm:  porque es que insisto es que de 300 a 900 hay un mundo jordi y yo no te voy a dar a ti para que te pongas en 900 pero si estas en 350 me cuentas 0 si no y te puedo poner un poco de geltada dos dias y meterte en 400 y estas mucho mejor porque no .
+ref norm:         porque es que insisto es que de 300 a 900 hay un mundo jordi y yo no te voy a dar a ti para que te pongas en 900 pero si estas en 350 me cuentas tus sintomas y te puedo poner un poco de gel cada dos dias y meterte en 400 y estas mucho mejor por que no
+
+ ------------------------------------------- 
+
+2.127659574468085
+line_id 9166390150
+transcript norm:  pero volvemos a lo otro jordi yo a ti porque te estoy dando trt porque eres estoy en general eh eres una persona de 50 anos que no quieres tener hijos porque ya has tenido etc y lo que quieres es mejorar tu calidad de vida la fertilidad
+ref norm:         pero volvemos a lo otro jordi yo a ti porque te estoy dando trt porque eres estoy en general eres una persona de 50 anos que no quieres tener hijos porque ya has tenido etc y lo que quieres es mejorar tu calidad de vida la fertilidad
+
+ ------------------------------------------- 
+
+2.083333333333333
+line_id 9166350511
+transcript norm:  pero ahora gracias a dios vivimos 90 vamos a estar 40 anos de regalado porque tu cuerpo no esta preparado todavia no ha evolucionado tanto para que tus ejes hormonales sigan produciendo el mismo de hecho empezamos a envejecer hormonalmente y biologicamente a partir de los 30 anos
+ref norm:         pero ahora gracias a dios vivimos 90 vamos a estar 40 anos de regalado porque tu cuerpo no esta preparado todavia no ha evolucionado tanto para que tus ejes hormonales sigan produciendo lo mismo de hecho empezamos a envejecer hormonalmente y biologicamente a partir de los 30 anos
+
+ ------------------------------------------- 
+
+19.78021978021978
+line_id 9166399428
+transcript norm:  lo que te iba a decir es que no todo el mundo pero si me cuentas sin todas de presion 0 es que estas bulido te vas gordito que empiezas a tener mas tension arterial que ademas te cuesta recordar cosas y yo te digo que la testosterona tiene un nivel medio bajo porque es mucho mas 0 esta mucho mejor socialmente aceptado darte un antidepresivo darte inyectarte un farmaco para adelgazar que darte un gel me da igual que sea gel que sea una inyeccion intramuscular de testosterona
+ref norm:         lo que te iba a decir es que no todo el mundo pero si me cuentas sintomas de presion que estas volviendote mas gordito que empiezas a tener mas tension arterial que ademas te cuesta recordar cosas . y yo te veo que la tension arterial tienes en limite medio y bajo porque es mucho mas . 0 esta mucho mejor socialmente aceptado darte un antidepresivo darte . inyectarte un farmaco para adelgazar que darte un gel . me da igual que sea gel que sea una inyeccion intramuscular de testosterona
+
+ ------------------------------------------- 
+
+14.285714285714285
+line_id 9166348679
+transcript norm:  el unico problema de esto y que pasa habitualmente es que si tu luego tienes relaciones conmigo 0 has dejado una ventana de tiempo considerable pues al menos unas ocho horas 0 tu me la puedes pegar a mi y me puedes empezar a salir de pelo me .
+ref norm:         el unico problema de esto y que pasa habitualmente es que si tu luego tienes relaciones conmigo 0 has dejado una ventana de tiempo considerable pues al menos unas ocho horas 0 tu me la puedes pegar a mi entonces a mi me puede empezar a salir pelo acne
+
+ ------------------------------------------- 
+
+0.0
+line_id 9166367175
+transcript norm:  si por la frecuencia porque esto te lo pones casi todos los dias el gel pero por ejemplo las inyecciones las intramusculares suelen ser cada dos semanas
+ref norm:         si por la frecuencia porque esto te lo pones casi todos los dias el gel pero por ejemplo las inyecciones las intramusculares suelen ser cada dos semanas
+
+ ------------------------------------------- 
+
+9.615384615384617
+line_id 9166316882
+transcript norm:  la gente habla con una normalidad de un tema que es tan complicado como las formulas que ya te digo que jordi yo a dia de hoy tal vez me das cuenta que se menos hay un monton de cosas que yo no se yo estoy estudiando llevo muchisimos anos estudiando
+ref norm:         la gente habla con una normalidad de un tema que es tan complicado como las hormonas que yo te digo que jordi yo a dia de hoy cada vez me mas cuenta que se menos hay un monton de cosas que yo no se y yo estoy estudiando llevo muchisimos anos estudiando
+
+ ------------------------------------------- 
+
+7.142857142857142
+line_id 9166390652
+transcript norm:  pero vas con una normalizacion que a mi me da panico esa gente que con 20 anos se toma cosas como va a estar en 40 anos entonces si que creo jordi que hay un exceso y se esta perdiendo un poco el bosque por ver el arbol tu lo que quieres es .
+ref norm:         pero mas con una normalizacion que a mi me da panico esa gente que con 20 anos se toma cosas como va a estar en 40 anos entonces si que creo jordi que hay un exceso y se esta perdiendo un poco el bosque por ver el arbol tu lo que quieres es me da igual
+
+ ------------------------------------------- 
+
+17.80821917808219
+line_id 9166362268
+transcript norm:  da un paso atras primero esto parece muy obvio jordi pero gestionate un poco tambien emocionalmente como tu valoras a ti mismo ven yo ve llorado de casa gestionate tambien un poco emocionalmente como te puedes ver y que tu eres mucho mas que un cuerpo esto parece super banal y yo no soy la primera todo el mundo nos fijamos en el cuerpo de una persona y yo soy la primera que lo estoy diciendo pero .
+ref norm:         da un paso atras primero esto parece muy obvio jordi pero gestionate un poco tambien emocionalmente como te valoras a ti mismo ve llorado de casa 0 sea gestionate tambien un poco emocionalmente como te puedes ver y que tu eres mucho mas que un cuerpo esto parece super banal y yo no sere la primera todos nos fijamos en el cuerpo de una persona y yo soy la primera que va diciendo
+
+ ------------------------------------------- 
+
+8.333333333333332
+line_id 9166314802
+transcript norm:  no puedes mostrar toda 0 poner todos tus huevos tu alia en tu fisico y luego ademas que el fisico se puede optimizar tu lo sabes bien jordi con minimo de jerquillo fisico basico y alimentacion y mas aun con 20 anos que tienes una escala de mejora tan exponencialmente buena no vayas por ese camino porque entonces pierdes tanto dinero
+ref norm:         no puedes mostrar 0 poner todos tus huevos tu valia en tu fisico y luego ademas que el fisico se puede optimizar tu lo sabes bien jordi con un minimo de ejercicio fisico basico y alimentacion y mas aun con 20 anos que tienes una escala de mejora tan exponencialmente buena no vayas por ese camino porque entonces pierdes tanto
+
+ ------------------------------------------- 
+
+1.8518518518518516
+line_id 9166361622
+transcript norm:  esto es algo muy psicologico pero por el simple hecho de que este prohibido que no sea bueno esa barrera psicologica le impide cruzarla entonces cuando tu empiezas a hablar normalizar en voz de es que es mucho mejor que si lo haces informado indirectamente al hablarlo de manera normal parece que estas normalizando tambien
+ref norm:         esto es algo muy psicologico pero por el hecho de que este prohibido que no sea bueno esa barrera psicologica le impide cruzarla entonces cuando tu empiezas a hablar normalizar en voz de es que es mucho mejor que si lo haces informado indirectamente al hablarlo de manera normal parece que estas normalizando tambien
+
+ ------------------------------------------- 
+
+9.433962264150944
+line_id 5037780731
+transcript norm:  claro por que porque el evento trigger 0 sea el evento desencadenante de un cancer que es jordi es que una celula pierde su ciclo normal de dimision y eliminacion se sale y se multiplica sin control si tu das a una celula extra de hormona y crecimiento ese ciclo va a ir mas rapido continuamente
+ref norm:         claro porque el evento trigger 0 sea el evento desencadenante de un cancer que es jordi es que una celula pierde su ciclo normal de division y eliminacion se sale y se multiplica sin control si tu das a una celula extra de hormona de crecimiento ese ciclo va a ir mas rapido
+
+ ------------------------------------------- 
+
+5.88235294117647
+line_id 2575499588
+transcript norm:  ya hablamos de cancer de prostata hablamos de cancer de colon de cancer de pulmon que los hombres es la causa mas frecuente que teneis vosotros hablamos de canceres de corazon de hepaticos cerebrales de todos problemas de respiracion porque al final crece todo tambien crece todas las areas respiratorias
+ref norm:         ya hablamos de cancer de prostate ya hablamos de cancer de colon de cancer de pulmon que los hombres es la causa mas frecuente que teneis vosotros hablamos de canceres de corazon de hepaticos cerebrales de todos problemas de respiracion porque al final crece todo tambien crece todas las vias respiratorias
+
+ ------------------------------------------- 
+
+33.33333333333333
+line_id 9166365307
+transcript norm:  porque es mas mona que hay que tener muchisimo cuidado y respeto 0 sea a mi de verdad hay que decir que si el toque esta bien que no se ponga nada se sale crecimiento no por dios
+ref norm:         porque es una hormona que hay que tener muchisimo cuidado y respeto 0 sea a mi de verdad jordi que si le tengo que decir a alguien que no se ponga nada es esa de crecimiento no por dios
+
+ ------------------------------------------- 
+
+2.2222222222222223
+line_id 9166386168
+transcript norm:  es mas las personas con diabetes tipo one los principales sintomas que nos cuentan cuando demutan es que han perdido 10 15 20 kilos todo de masa muscular porque la insulina te hace crecer grasa pero muchisimo musculo entonces que es lo que hacen ellos
+ref norm:         es mas las personas con diabetes tipo one los principales sintomas que nos cuentan cuando debutan es que han perdido 10 15 20 kilos todo de masa muscular porque la insulina te hace crecer grasa pero muchisimo musculo entonces que es lo que hacen ellos
+
+ ------------------------------------------- 
+
+8.88888888888889
+line_id 9166322556
+transcript norm:  la insulina y la insulina tambien tiene un problema que luego se hacen diabeticos luego potencialmente como te pasas con la insulina te puedes hacer una hipoglucemia y entrar en un coma que tampoco es ningun agroma es que con una inyeccion de insulina te puedes morir
+ref norm:         la insulina y la insulina tambien tiene un problema que luego se hacen diabeticos luego potencialmente como te pasas con la insulina te puedes hacer una hipoglucemia y entrar en un coma que tampoco es ninguna broma con una inyeccion de insulina te puedes morir
+
+ ------------------------------------------- 
+
+14.285714285714285
+line_id 9166348859
+transcript norm:  por ejemplo yo te digo justamente ves para esto me sirve explicarte por que es necesario que todos entiemen lo que son las hormonas yo te he dicho que la testosterona de normal la que tu procesas en tus testiculos en unas partes se convierte a la dihidrotestosterona en otras estogenos porque .
+ref norm:         por ejemplo justamente para esto me sirve explicarte por que es necesario que todos entiendan lo que son las hormonas yo te he dicho que la testosterona de normal la que tu procesas en tus testiculos en unas partes se convierte a la dihidrotestosterona en otras estogenos por que
+
+ ------------------------------------------- 
+
+4.081632653061225
+line_id 5037782074
+transcript norm:  porque en unas partes hay una enzima que se llama 5 alfa reductasa y en otras hay una aromatasa estos farmacos que no producen por ejemplo calvicie por que lo hacen porque estan disenados molecularmente para que no se puedan ni convertir en la dihidrotestosterona ni tampoco en estrogenos
+ref norm:         porque en unas partes hay una enzima que se llama 5 alpha reductasa y en otras hay una aromatasa estos farmacos que no producen por ejemplo calvicie por que lo hacen porque estan disenados molecularmente para que no se pueda ni convertir en la dihidrotestosterona ni tampoco en estrogenos
+
+ ------------------------------------------- 
+
+21.21212121212121
+line_id 5037725101
+transcript norm:  te puede elevar mucho en los globulos rojos al norte de un trombo porque la testosterona de hecho resumiras entre otras cosas aparte porque no teneis la menstruacion pero teneis mejores niveles de hemoglobina por la testosterona
+ref norm:         te puede elevar mucho los globulos rojos hacendote un trombo porque la testosterona de hecho entre otras cosas aparte porque no te entra menstruacion pero teneis mejores niveles de hemoglobina por la testosterona
+
+ ------------------------------------------- 
+
+11.538461538461538
+line_id 9166310862
+transcript norm:  de hecho la gente que tiene terapias hormonales de testosterona pues por ejemplo un hombre trans hay que controlarle mucho la testosterona para la que le estamos dando para que no produzca un trombo y produzca pues un ictus 0 un infarto nos deca el pelo si pero tienes otros efectos
+ref norm:         de hecho la gente que tiene terapias hormonales de testosterona pues por ejemplo un hombre trans hay que controlarle mucho la testosterona para la que le estamos dando para que no produzca un trombo y produzca un hitus 0 un infarto no se te cae el pelo si pero tienes otros efectos
+
+ ------------------------------------------- 
+
+0.0
+line_id 9166386078
+transcript norm:  aparentemente lo venden como mejor y mas guay porque es oral y encima no te produce lo otro
+ref norm:         aparentemente lo venden como mejor y mas guay porque es oral y encima no te produce lo otro
+
+ ------------------------------------------- 
+
+6.451612903225806
+line_id 9166330955
+transcript norm:  si dejas de tomarlo y te cuidas es decir no tomas alcohol etc si que es verdad que se puede recuperar practicamente por completo si no llegas muy tarde
+ref norm:         si dejas si dejas de tomarlo y te cuidas es decir no tomas alcohol etc si que es verdad que se puede recuperar practicamente por completo si no llegas muy tarde
+
+ ------------------------------------------- 
+
+19.35483870967742
+line_id 9166332703
+transcript norm:  significa que la comunicacion entre tu cerebro y tus testiculos se ha roto es decir hay una comunicacion muy estrecha y ordinaria entre tu testiculo tu hipofisis y tu petalo mismo
+ref norm:         que significa pues que la comunicacion entre tu cerebro y tus testiculos se ha roto es decir hay una comunicacion muy estrecha jordi entre tu testiculo tu hipofisis y tu hipotalamo
+
+ ------------------------------------------- 
+
+5.454545454545454
+line_id 9166393309
+transcript norm:  no produces no produces a la misma vez tu cerebro puede depender del compuesto puede 0 incluso estimularse por que porque por ejemplo esos samps que te he dicho que no se convierten en estrogeno como no se convierte en estrogeno tu tienes testosterona porque te lo estas tomando pero tu cerebro no lo detecta
+ref norm:         no produces no produces a la misma vez tu cerebro puede depende del compuesto puede 0 incluso estimularse por que porque por ejemplo esos arms que te he dicho que no se convierte en estrogeno como no se convierte en estrogeno tu tienes testosterona porque te lo estas tomando pero tu cerebro no lo detecta
+
+ ------------------------------------------- 
+
+11.904761904761903
+line_id 9166328839
+transcript norm:  produces mucha senal bueno pero llega al testiculo y esta bloqueado no hace nada desde el testiculo poco a poco se va atrofiando por que porque no tiene motivo para producir testosterona las celulas se van muriendo y se hace cada vez mas pequenito
+ref norm:         produces mucha senal pero que llega al testiculo y esta bloqueado no hace nada entonces el testiculo poco a poco se va atrofiando porque no tiene motivo para producir testosterona las celulas se van muriendo y se hace cada vez mas pequenito
+
+ ------------------------------------------- 
+
+12.307692307692308
+line_id 9166343998
+transcript norm:  si tu en cambio te inyectas testosterona igual le llega mucha a tu cerebro entonces tu cerebro diria es una salvajada voy a bloquear toda la produccion eso hace que tu fsh y tu lh no lleguen a los testiculos no produzcas tu ni siquiera la misma entonces algo que no se usa en el cuerpo que pasa es atrofia
+ref norm:         si tu en cambio te inyectas testosterona igual le llega mucha a tu cerebro entonces tu cerebro dice 0 sea si tenemos una salvajada voy a bloquear toda la produccion entonces eso hace que tu fsh y tu lh no lleguen a los testiculos no produzcas tu ni siquiera la misma entonces algo que no se usa en el cuerpo es que pasa a atrofia
+
+ ------------------------------------------- 
+
+0.0
+line_id 9166397058
+transcript norm:  luego tambien hay causas autoinmunes que son muy poco conocidas muy poco valoradas como por ejemplo la alopecia areata que basicamente lo que pasa es que se pierde el cabello y ademas en zonas como parcheadas
+ref norm:         luego tambien hay causas autoinmunes que son muy poco conocidas muy poco valoradas como por ejemplo la alopecia areata que basicamente lo que pasa es que se pierde el cabello y ademas en zonas como parcheadas
+
+ ------------------------------------------- 
+
+12.5
+line_id 9166367849
+transcript norm:  no suele ser tanto de androgenetica suele ser mas pues autoinmune de postparto de disminucion de la funcion triadea porque tambien una baja funcion triadea se asocia a una perdida del cabello 0 sea no todo es por los androgenos hay otras causas
+ref norm:         no suele ser tanto de androgenetica suele ser mas autoinmune de postparto de disminucion de la funcion tiroides porque tambien una baja funcion tiroides se asocia a una perdida del cabello no todo es por los androgenos hay otras causas
+
+ ------------------------------------------- 
+
+7.8431372549019605
+line_id 9166347350
+transcript norm:  pero como sabemos que esa es la causa es decir que yo tengo mas actividad de la enzima 5 alfa reductasa pipo one y fundamentalmente la tipo 2 que es la que esta en el pelo y me activa mas la testosterona adhidrotestosterona que es el razonamiento que hacemos los medicos
+ref norm:         pero como sabemos que esa es la causa es decir que yo tengo mas actividad de la encima 5 alpha reductasa tipo one y fundamentalmente la tipo 2 que es la que esta en el pelo y me activa mas la testosterona adhd que es el razonamiento que hacemos los medicos
+
+ ------------------------------------------- 
+
+11.363636363636363
+line_id 9166356343
+transcript norm:  ya que no sabemos realmente por que tenemos mas actividad de esa enzima tenemos mas conversion mientras que no lo sabemos vamos a detectar la causa vamos a inactivar esa enzima para que no produzca dht y no se produzca la caida del cabellon
+ref norm:         ya que no sabemos realmente por que tenemos mas actividad de esa encima tenemos mas conversion mientras que no lo sabemos vamos a tratar la causa vamos a inactivar esa encima para que no produzca adhd y no se produzca la caida del cabello
+
+ ------------------------------------------- 
+
+20.833333333333336
+line_id 2575493722
+transcript norm:  desconoces a la federez entonces creo que lo que ha pasado es que estos ultimos anos con la pandemia y con bueno mucha gente estando mas en casa y teniendo que hacer cosas diferentes pues al tener una gran variedad de opciones de cosas que hacer han vuelto a lo que conocen un poquito 0 sea creo que eso que todo el mundo sepa lo que es creo que son unas gran razones
+ref norm:         entonces conoces el ajedrez y entonces creo que lo que ha pasado es que estos ultimos anos con la pandemia y con mucha gente estando mas en casa y teniendo que hacer cosas diferentes pues al tener una gran variedad de opciones de cosas que hacer han vuelto algo que conocen un poquito creo que eso que todo el mundo sepa lo que es creo que es una de las grandes razones
+
+ ------------------------------------------- 
+
+6.0
+line_id 2575417641
+transcript norm:  pero lo que me he dado cuenta con los videos de ajedrez que creo que es algo muy importante es que muchos videos de ajedrez que solo son de ajedrez no tienen nada de exito porque si es demasiado sobre el ajedrez es muy dificil para alguien que no juega entenderlo
+ref norm:         pero lo que me he dado cuenta con los videos ajedrez que creo que es algo muy importante es que muchos videos ajedrez que solo son de ajedrez no tienen nada de exito porque si es demasiado sobre el ajedrez es muy dificil para alguien que no juega a entenderlo
+
+ ------------------------------------------- 
+
+5.263157894736842
+line_id 2575447408
+transcript norm:  0 sea cuando yo juego contra alguien que es completamente diferente a quien soy yo creo que a gente le fascina poder ver que puedes conocer a una persona nueva y en medio de hacer eso es con un tablero de la federa es casi como un podcast parece que no pero es casi como un podcast
+ref norm:         0 sea cuando yo juego contra alguien que es completamente diferente a quien soy yo creo que a gente le fascina poder ver que puedes conocer a una persona nueva y el medio de hacer eso es con un tablero de ajedrez y es casi como un podcast parece que no pero es casi como un podcast
+
+ ------------------------------------------- 
+
+2.1739130434782608
+line_id 2575492821
+transcript norm:  es que gente ve que estas haciendo esto estas moviendo estas piezas y estas creando esta partida pero a la vez estas teniendo una conversacion con una persona con la que nunca tendrias una conversacion si no y creo que a mucha gente le fascina eso
+ref norm:         es que gente ve que estas haciendo esto estas moviendo estas piezas y estas creando esta partida pero a la vez estas haciendo una conversacion con una persona con la que nunca tendrias una conversacion si no y creo que a mucha gente le fascina eso
+
+ ------------------------------------------- 
+
+22.22222222222222
+line_id 2575496322
+transcript norm:  y a la vez estan viendo una partida que no entienden y eso sazlifonfoco esta en el dolor en plan que chulo que esta pasando aqui
+ref norm:         y a la vez estan viendo una partida que no entienden y eso 0 sea flipa un poco dicen en plan que chulo que esta pasando aqui
+
+ ------------------------------------------- 
+
+3.4482758620689653
+line_id 2575469113
+transcript norm:  pero no solo eso tambien creo que una partida de ajedrez es casi como una historia en si misma cada partida es diferente una partida nunca se va a jugar de la completa misma forma entonces creo que ver y seguir una partida que no se va a ver nunca mas hay algo fascinante en eso tambien
+ref norm:         pero no solo eso tambien creo que una partida de ajedrez es casi como una historia en si misma cada partido es diferente una partida nunca se va a jugar de la completa entre misma forma entonces creo que ver y seguir una partida que no se va a ver nunca mas hay algo fascinante en eso tambien
+
+ ------------------------------------------- 
+
+2.857142857142857
+line_id 2575449437
+transcript norm:  es muy psicologico es muy humano toda la experiencia y creo tambien cuando gente ve la barra esta el ordenador diciendo esta posicion es mejor para las blancas ah ahora se ha equivocado inmediatamente puedes ver ah ana se ha equivocado aqui 0 el oponente de ana se ha equivocado entonces es muy facil seguir partidas aunque no sepas lo que esta pasando y eso es muy importante creo
+ref norm:         es muy psicologico es muy humana toda la experiencia y creo tambien cuando gente ve la barra esta el ordenador diciendo esta posicion es mejor para las blancas ah y ahora se ha equivocado inmediatamente puedes ver ah ana se ha equivocado aqui 0 el oponente de ana se ha equivocado entonces es muy facil seguir partidas aunque no sepas lo que esta pasando y eso es muy importante creo
+
+ ------------------------------------------- 
+
+4.6875
+line_id 2575448757
+transcript norm:  pues tienes que hacer dos cosas primero tienes que conseguir tres normas y que es basicamente que tienes que hacer un performance en un torneo de un cierto nivel entonces tienes que en un torneo ganar a cierta cantidad de grandes maestros y ellos tienen que estar en un cierto nivel y tal haces eso te dan un diploma y dicen enhorabuena a tu primera norma
+ref norm:         pues tienes que hacer dos cosas primero tienes que conseguir tres normas y que es basicamente que tienes que hacer un performance en un torneo de un cierto nivel entonces tienes que en un torneo ganar a cierta cantidad de grandes maestros y ellos tienen que tener un cierto nivel y tal haces eso te dan un diploma y dicen enhorabuena tu primera norma
+
+ ------------------------------------------- 
+
+12.5
+line_id 2575476985
+transcript norm:  es muy complicado 0 sea gran maestro es lo mejor que puede ser no pero aun asi hay muchos grandes maestros y no puedes ganar un dinerazo si hay mil 0 dos mil personas que son grandes maestros no cada persona puede ganar mucho dinero entonces todavia tienes que ser un address muy top para ganar mucho dinero pero incluso solo para ganar suficientemente dinero tienes que ser bastante top entonces como no hay muchas mujeres que juegan al alfe directo
+ref norm:         es muy complicado 0 sea gran maestro es lo mejor que puede ser no pero aun asi hay muchos grandes maestros y no puedes ganar un dinerazo . si hay 2 personas que son grandes maestros no cada persona puede ganar mucho dinero entonces todavia tienes que ser uno de los muy top para ganar mucho dinero pero incluso solo para ganar suficientemente dinero tienes que ser bastante top entonces como no hay muchas mujeres que juegan al ajedrez ..
+
+ ------------------------------------------- 
+
+4.918032786885246
+line_id 2575424299
+transcript norm:  mi madre fue la quinta mujer del mundo en conseguir el titulo de gran maestro entonces creo que para ella fue un poco mas facil ganar dinero porque tenia la historia de que ellas son las primeras mujeres del mundo en conseguir el titulo pero entonces no es solo ganar torneos sino que es tambien crear un nombre diferente
+ref norm:         mi madre fue la quinta mujer del mundo en conseguir el titulo de gran maestro entonces creo que para ella fue un poco mas facil ganar dinero porque tenia la historia de que ellas son las primeras mujeres del mundo en conseguir el titulo pero entonces no es solo ganar torneos sino que es tambien crear un nombre de quien eres
+
+ ------------------------------------------- 
+
+5.084745762711865
+line_id 2575472432
+transcript norm:  si 0 sea ganar un torneo es muy dificil pero incluso si lo haces no estamos hablando de mucho dinero dependiendo de lo que sea el torneo y si vas a ganar unos torneos top top donde a lo mejor si que hablamos de 10 €20 ya tienes que ser uno de los top 10 del mundo
+ref norm:         si 0 sea ganar un torneo es muy dificil pero incluso si lo haces no estamos hablando de mucho dinero dependiendo de lo que sea el torneo y si vas a ganar uno de los torneos top top donde a lo mejor si que hablamos de 10 €20 ya tienes que ser uno de los top 10 del mundo
+
+ ------------------------------------------- 
+
+4.651162790697675
+line_id 2575490753
+transcript norm:  entonces creo que me sentia un poco mal de que yo no era igual de buena como ellos eran entonces si sentia un poco de presion y creo que eso tambien hizo que habia mucho estres en torneos y entonces no los disfrutaba tanto
+ref norm:         entonces creo que me sentia un poco mal de que yo no era igual de bueno como ellos eran entonces si sentia un poco de presion y creo que eso tambien hizo que habia mucho estres en torneos entonces no los disfrutaba tanto
+
+ ------------------------------------------- 
+
+2.941176470588235
+line_id 2575442686
+transcript norm:  fue en el mismo sitio y me acuerdo cuando entre y vi a cientos y cientos de personas de todo el mundo porque claro en la olimpiada hay gente de todos los paises
+ref norm:         si fue en el mismo sitio y me acuerdo cuando entre y vi a cientos y cientos de personas de todo el mundo porque claro en la olimpiada hay gente de todos los paises
+
+ ------------------------------------------- 
+
+9.58904109589041
+line_id 2575427684
+transcript norm:  un monton de paises africanos un monton de paises asiaticos un monton de paises sudamericanos paises donde yo nunca he estado y poder jugar con tanta gente diferente y poder no se ver la pasion que tenia esa gente de razones me emociono mucho y dije esto es grande esto no es solo un juego pequenito que hago en casa esto le importa a mucha gente y no se me impacto mucho
+ref norm:         hay gente de un monton de paises africanos un monton de paises asiaticos un monton de paises sudamericanos paises donde yo nunca he estado y poder jugar con tanta gente diferente y poder ver la pasion que tenia esa gente en ajedrez me emociono mucho y dije esto es grande esto no es solo un juego pequenito que hago en casa esto le importa a mucha gente y no se me impacto mucho
+
+ ------------------------------------------- 
+
+0.0
+line_id 2575429906
+transcript norm:  es que depende si es en un torneo y es una partida que me importa mucho y he estado muy cerca de no perder entonces si que me duele me duele mucho sobre todo si es una partida importante porque es como en cualquier otro deporte que compites tienes un momento y ese momento puede hacer que 0 ganes 0 pierdas y si te equivocas y pierdes pues cambia la historia mucho que si hubieras ganado
+ref norm:         es que depende si es en un torneo y es una partida que me importa mucho y he estado muy cerca de no perder entonces si que me duele me duele mucho sobre todo si es una partida importante porque es como en cualquier otro deporte que compites tienes un momento y ese momento puede hacer que 0 ganes 0 pierdas y si te equivocas y pierdes pues cambia la historia mucho que si hubieras ganado
+
+ ------------------------------------------- 
+
+3.4482758620689653
+line_id 2575446965
+transcript norm:  de eso si que me impacta pero cuando estoy jugando por las calles 0 con amigos y tal no me lo tomo mas como un juego mas que una competicion
+ref norm:         eso si que me impacta pero cuando estoy jugando por las calles 0 con amigos y tal no me lo tomo mas como un juego mas que una competicion
+
+ ------------------------------------------- 
+
+5.263157894736842
+line_id 2575421924
+transcript norm:  pero si yo nunca en mi vida he hecho un video donde he cogido a una persona desconocida y le he dicho oye dime esto habla de esto lo que sea no yo hago mis directos viene una persona random y juego contra ellos y lo que me gusta es ensenar como de verdad es el momento especifico
+ref norm:         pero si yo nunca en mi vida he hecho un video donde he cogido a una persona desconocida y le he dicho oye dime esto habla de esto lo que sea no yo hago mis directos viene una persona random y juego contra ellos lo que me gusta es ensenar como de verdad es en el momento
+
+ ------------------------------------------- 
+
+0.0
+line_id 2575475083
+transcript norm:  no me gusta fabricar algo porque creo que se nota si esta fabricado y no me gusta mucho eso quiero ensenar como es
+ref norm:         no me gusta fabricar algo porque creo que se nota si esta fabricado y no me gusta mucho eso quiero ensenar como es
+
+ ------------------------------------------- 
+
+16.666666666666664
+line_id 2575474486
+transcript norm:  y creo que sobre todo mucha gente no les gusta perder en general en un deporte que sea de pensar porque mucha gente ve a fedrez como si es buena fedrez es muy inteligible no tiene que ser asi pero entonces creo que cuando gente pierde piensan que son menos inteligentes que la otra persona y eso a alguna gente le duele mucho
+ref norm:         pero claro y creo que sobre todo mucha gente no les gusta perder en general en un deporte que sea de pensar porque mucha gente ve ejedrez como . si eres bueno ejedrez eres muy inteligente si no tiene que ser asi pero entonces creo que cuando gente pierde piensan que son menos inteligentes que la otra persona y eso a alguna gente le duele mucho
+
+ ------------------------------------------- 
+
+7.5
+line_id 2575438869
+transcript norm:  pues lo que te estaba diciendo jugue la olimpiada con 14 y antes de eso no me habia tomado mucho la fe en serio pero despues de eso dije mira esto esta muy chulo yo quiero intentar ser la mejor
+ref norm:         pues lo que te estaba diciendo juegues la olimpiada con 14 y antes de eso no me habia tomado mucho el ajedrez en serio pero despues de eso dije mira esto esta muy chulo yo quiero intentar ser la mejor
+
+ ------------------------------------------- 
+
+5.555555555555555
+line_id 2575497336
+transcript norm:  lo que uno piensa cuando empieza a competir no entonces pense que vale lo voy a tomar en serio me voy a poner a practicar tengo mis padres tengo todo lo que pueda tener para poder hacerme una mejor jugadora entonces me lo tome mas en serio y si que me puse a estudiar mucho
+ref norm:         lo que uno piensa cuando empieza a competir no entonces pense que vale lo voy a tomar en serio me voy a poner a practicar tengo a mis padres tengo todo lo que pueda tener para poder hacerme una mejor jugadora entonces me lo tome mas en serio y me puse a estudiar mucho
+
+ ------------------------------------------- 
+
+7.6923076923076925
+line_id 2575469260
+transcript norm:  entonces lo que hacia era que iba al colegio y me llevaba a veces hasta un libro de ajedrez al colegio y estaba cuando acababa las matematicas 0 lo que sea en clase me ponia a leer un libro de ajedrez pues
+ref norm:         entonces lo que hacia era que iba al colegio y me llevaba a veces hasta un libro de ajedrez al colegio cuando acababa las matematicas 0 lo que sea en clase me ponia a leer un libro de ajedrez
+
+ ------------------------------------------- 
+
+24.561403508771928
+line_id 2575493651
+transcript norm:  pero es que me lo tomaba muy en serio y la unidad queria hacer 40 5 horas diarias y estaba estudiando mucho y me encantaba competir al viajar y competir era lo mejor del mundo y hubo un ano que jugue creo que 120 partidas lentas que imaginate si no partia lentas de 5 horas competi 120 partidas lentas
+ref norm:         pero es que me lo tomaba muy en serio queria hacer cuatro 0 cinco horas diarias y estaba estudiando mucho y me encantaba competir 0 sea viajar y competir era lo mejor del mundo hubo un ano que jugue creo que 120 partidas lentas que imaginate si en una partida de 5 horas competi en 120 partidas
+
+ ------------------------------------------- 
+
+9.090909090909092
+line_id 2575466226
+transcript norm:  claro tenia que tener un balance ahi pero si fue justo eso que queria mejorar queria ser la mejor entonces
+ref norm:         pero claro tenia que tener un balance ahi pero si fue justo eso que queria mejorar y queria ser la mejor entonces
+
+ ------------------------------------------- 
+
+14.000000000000002
+line_id 2575412822
+transcript norm:  claro jugue ese torneo en 2018 tenia 16 anos y creo que fue la primera 0 segunda partida creo que la segunda partida le gane a un maestro internacional que tenia ya dos normas de gran maestro hoy en dia yo es gran maestro que tenia los 1500
+ref norm:         entonces si le jugue ese torneo en 2018 tenia 16 anos y creo que fue la primera 0 la segunda partida creo que la segunda partida le gane a un maestro internacional que tenia ya dos normas de gran maestro hoy en dia ya es gran maestro que tenia 2.500
+
+ ------------------------------------------- 
+
+7.6923076923076925
+line_id 2575432478
+transcript norm:  y yo ahi con 26 anos ganando un no casi gran maestro en una partida lenta fue para mi 0 sea fue un momento muy importante para mi porque fue la primera vez que vi que vale puedo hacerlo
+ref norm:         y yo ahi con 16 anos ganando un casi gran maestro en una partida lenta fue para mi . 0 sea fue un momento muy importante para mi porque fue la primera vez que vi que vale puedo hacerlo
+
+ ------------------------------------------- 
+
+6.349206349206349
+line_id 2575436223
+transcript norm:  tambien puedo perder consciente mala pero tambien a veces puedo ganarle a alguien que sea muy bueno y eso me emociono mucho asi que creo que esa fue la primera partida que dije a lo mejor valgo para esto a lo mejor si entreno mucho si que puedo hacerme buena de verdad pero si fue entonces y en el 2018 jugue un monton
+ref norm:         tambien puedo perder con gente mala pero tambien a veces puedo ganarle a alguien que sea muy bueno y eso me emociono mucho asi que creo que esa fue la primera partida que dije a lo mejor valgo para eso a lo mejor si entreno mucho si que puedo hacerme buena de verdad pero si fue entonces y en 2018 jugue un monton
+
+ ------------------------------------------- 
+
+1.4084507042253522
+line_id 2575414212
+transcript norm:  entonces si ellos tienen un elo mucho mas alto que el tuyo es muy facil pensar yo deberia perder porque tiene este elo yo tengo este deberia perder y entonces ya entras pensandolo un poco mal creo creo que se juega a lo mejor cuando tu entras casi sin saber con quien estas jugando y simplemente juegas con ti mismo y con tu oponente 0 con el tablero con la posicion
+ref norm:         entonces si ellos tienen un elo mucho mas alto que el tuyo es muy facil pensar yo deberia perder porque tienen este elo yo tengo este deberia perder y entonces ya entras pensandolo un poco mal creo creo que se juega a lo mejor cuando tu entras casi sin saber con quien estas jugando y simplemente juegas con ti mismo y con tu oponente 0 con el tablero con la posicion
+
+ ------------------------------------------- 
+
+1.2987012987012987
+line_id 2575486661
+transcript norm:  y si creo que jugando contra un gran maestro es muy facil pensar que si tu piensas que ellos han cometido un error que empiezas a pensar no no pueden haber cometido un error seguro que me estoy perdiendo algo y te pones a pensar muchas cosas mucho tiempo pero asi que si da mucho miedo jugar contra un gran maestro pero yo creo que ultimamente lo que tienes que hacer es siempre y simplemente mejorar tu mismo
+ref norm:         y si creo que jugando contra un gran maestro es muy facil pensar que si tu piensas que ellos han cometido un error que empiezas a pensar no no pueden haber cometido un error seguro que me estoy perdiendo algo y te pones a pensar muchas cosas mucho tiempo pero asi que si da mucho miedo jugar contra un gran maestro pero yo creo que ultimamente lo que tienes que hacer es siempre simplemente mejorar tu mismo
+
+ ------------------------------------------- 
+
+0.0
+line_id 2575416539
+transcript norm:  no te puedes comparar con un gran maestro porque si te comparas con alguien que es mucho mejor que tu no vas a dar ese salto directamente tienes que ir paso a paso e intentar hacerte un poquito mejor en cada momento
+ref norm:         no te puedes comparar con un gran maestro porque si te comparas con alguien que es mucho mejor que tu no vas a dar ese salto directamente tienes que ir paso a paso e intentar hacerte un poquito mejor en cada momento
+
+ ------------------------------------------- 
+
+2.898550724637681
+line_id 2575472691
+transcript norm:  yo es que me encanta competir y me encanta jugar al ajedrez pero creo que me encanta mas ensenar el ajedrez y me encanta mas hacer lo que hago ahora y poder combinar yo jugar torneos y yo hacer mis videos y jugar con un monton de gente me gusta mas saber que estoy haciendo que mas gente sepa sobre el ajedrez que yo misma solo competir
+ref norm:         yo es que me encanta competir y me encanta jugar al ajedrez pero creo que me encanta mas ensenar el ajedrez y me encanta mas hacer lo que hago ahora y poder combinar yo a jugar torneos y yo a hacer mis videos y jugar con un monton de gente me gusta mas saber que estoy haciendo que mas gente sepa sobre el ajedrez que yo misma solo competir
+
+ ------------------------------------------- 
+
+6.557377049180328
+line_id 2575471540
+transcript norm:  era lo que hacia yo con mi tablerito pero no era algo que yo veia en youtube entonces yo sabia que me encantaba hacer youtube pero en la vida pensaba yo que podria hacerlo con a fedrez yo me acuerdo con 15 16 anos pensando me encantaria tener un canal de youtube pero no se me da bien nada
+ref norm:         era lo que hacia yo con mi tablerito pero no era algo que yo veia en youtube entonces yo sabia que me encantaba hacer youtube pero en la vida pensaba yo que podria hacerlo con ajedrez asi que yo me acuerdo con 15 16 anos pensando que me encantaria tener un canal de youtube pero no se me da bien nada
+
+ ------------------------------------------- 
+
+20.0
+line_id 2575488775
+transcript norm:  fue muy random lo que paso fue que en el ano 2019 me habian ido mal dos torneos despues de la europea y he hecho el torneo de mi vida pero luego me fueron mal dos torneos y di yo el ajedrez
+ref norm:         fue muy random lo que paso fue que en el ano 2019 me habian ido mal dos torneos despues del europeo habia hecho el torneo de mi vida pero luego me fueron mal dos torneos y digo el ajedrez ..
+
+ ------------------------------------------- 
+
+8.108108108108109
+line_id 2575418031
+transcript norm:  bueno pero me fue fatal y digo bueno una pausa entonces me preguntaron en un torneo en suecia si queria comentarlo y dije yo comentar ajedrez como voy a comentar ajedrez 0 sea cinco horas a hablar ajedrez torre c 8 torre c one alfil aqui digo imposible pero bueno hacerlo porque no lo habia hecho nunca y me gusta hacer cosas que no he hecho nunca por probarlo entonces dije que si
+ref norm:         bueno pero me fue fatal y digo bueno una pausa entonces me preguntaron en un torneo en suecia si queria comentarlo y dije yo comentar ajedrez como voy a comentar ajedrez 0 sea cinco horas hablar ajedrez torre c ocho torre c uno al fil . aqui digo imposible pero bueno hacerlo porque no lo habia hecho nunca y me gusta hacer cosas que no he hecho nunca por probarlo entonces dije que si
+
+ ------------------------------------------- 
+
+10.0
+line_id 2575489798
+transcript norm:  lo hice y cuando acabo me contactaron chess com y me dijeron ana el mundial femenino se hace pasado manana la que iba a comentar ya no puede comentar acabamos de ver que has comentado rimton y nos ha gustado quieres comentar el mundial pasado manana y en plan que es tu tema
+ref norm:         lo hice y cuando acabo me contactaron chess com y me dijeron ana el mundial femenino se hace pasado manana la que iba a comentar ya no puede comentar acabamos de ver que has comentado rilton y nos ha gustado quieres comentar el mundial pasado manana yo en plan que
+
+ ------------------------------------------- 
+
+6.0
+line_id 2575490668
+transcript norm:  digo cuantas veces en mi vida me van a preguntar si puedo comentar un mundial y era algo que yo sabia que lo tengo que hacer pero estaba en plan no no lo quiero hacer porque va a ser un rellazo tener que hacerlo por la manana y tal
+ref norm:         pero digo cuantas veces en mi vida me van a preguntar si puedo comentar el mundial y era algo que yo sabia que lo tengo que hacer pero estaba en plan no no lo quiero hacer porque va a ser un rollazo tener que hacerlo por la manana y tal
+
+ ------------------------------------------- 
+
+9.090909090909092
+line_id 2575439966
+transcript norm:  casi todos los dias le hice mi madre tambien entro algunos dias y luego despues de eso pues me empezaba a decir gente ana deberias abrirte un canal de twitch y yo no sabia lo que era twitch antes no tenia ni idea y digo bueno lo puedo hacer pero que voy a hacer en twitch 0 sea voy a jugar yo y voy a hablar sobre ajedrez que voy a hacer no sabia lo que hablar del tiempo 0 sea
+ref norm:         casi todos los dias lo hice mi madre tambien entro algunos dias y luego despues de eso me empezaba a decir gente ana deberias abrirte un canal de twitch y yo no sabia lo que era twitch antes no tenia ni idea y digo bueno lo puedo hacer pero que voy a hacer en twitch 0 sea voy a jugar yo y hablar sobre ajedrez que voy a hacer no sabia de lo que hablar del tiempo
+
+ ------------------------------------------- 
+
+8.928571428571429
+line_id 2575410586
+transcript norm:  es algo muy interesante y es lo que me di cuenta y botez fueron las primeras en hacerlo me acuerdo cuando la habian hecho y dije ay que chulo que guay yo tambien lo quiero hacer tambien igual la primera vez que lo hice me senti super rara hablando a la vez que estaba jugando a la fedret
+ref norm:         es algo muy interesante y es lo que me di cuenta y botez fueron las primeras en hacerlo me acuerdo cuando la habian hecho dije ay que chulo que guay yo tambien lo quiero hacer tambien igual la primera vez que lo hice me sentia super rara hablando a la vez que estaba jugando al ajedrez
+
+ ------------------------------------------- 
+
+5.555555555555555
+line_id 2575486543
+transcript norm:  porque no se habla en torneos estaba muy incomoda pero creo que si conocer a gente de verdad conocer a gente enfrente a un tablero y tener algo en comun y poder tener esa cosa en comun como la base de por que los conoces he tenido un monton de conversaciones super interesantes
+ref norm:         porque no se hable en torneos estaba muy incomoda pero creo que si conocer a gente de verdad conocer a gente en frente a un tablero y tener algo en comun y poder tener esa cosa en comun como la base de por que los conoces he tenido un monton de conversaciones super interesantes
+
+ ------------------------------------------- 
+
+6.666666666666667
+line_id 2575452820
+transcript norm:  con gente de que nunca hablaria asi no y que se puede hacer con una persona de cualquier parte del mundo 0 sea yo soy de suecia espanol 0 lo que sea pero puedo ir a estados unidos puedo ir a francia puedo ir a alemania podria ir a china podria ir a cualquier parte y el lenguaje 0 sea la lengua de la fluidez es universal da igual de donde sea puedo comunicar con cualquier persona
+ref norm:         con gente que nunca hablaria asi no y que se puede hacer con una persona de cualquier parte del mundo 0 sea yo soy de suecia espana 0 lo que sea pero puedo ir a estados unidos puedo ir a francia puedo ir a alemania podria ir a china podria ir a cualquier parte y el lenguaje 0 sea la lengua del ajedrez es universal da igual de donde sea puedo comunicar con cualquier persona
+
+ ------------------------------------------- 
+
+16.39344262295082
+line_id 2575427482
+transcript norm:  si yo creo que para mi como dije de pequena siempre queria que la federed no fuera solo algo que yo y mis amigos entendiamos 0 lo que sea yo queria que mis amigos tambien supieran lo que era la federed y me pone muy muy muy feliz ver a mas gente jugando a la federed y siendo parte de todo esto
+ref norm:         si yo creo que para mi como dije de pequena siempre queria que el ajedrez no fuera solo algo que yo y mi familia entendiamos 0 lo que sea yo queria que mis amigos tambien supieran lo que era el ajedrez y me ponen muy muy muy feliz ver a mas gente jugando al ajedrez y siendo parte de todo esto
+
+ ------------------------------------------- 
+
+4.838709677419355
+line_id 2575495273
+transcript norm:  entonces creo que si yo no siento que yo haciendome una jugadora mejor que aportaria tanto para otra gente que solo para mi misma 0 sea si soy la mejor jugadora del mundo si voy a aportar un monton de cosas esta muy chulo pero yo no creo que vaya a llegar a ser la mejor jugadora del mundo
+ref norm:         entonces creo que si yo no siento que yo haciendome una jugadora mejor que aportaria tanto para otra gente que solo para mi misma 0 sea si soy la mejor jugadora del mundo si voy a aportar que bueno que un monton de cosas esta muy chulo pero yo no creo que vaya a llegar a ser la mejor jugadora del mundo
+
+ ------------------------------------------- 
+
+13.114754098360656
+line_id 2575476789
+transcript norm:  las horas que tengo que tirar para eso el esfuerzo incluso si haces eso no es seguro que lo vayas a llegar a eso entonces para mi es mas importante creo poder aportar lo que se me da bien a mi a los demas y lo que de verdad me gusta es ya teneis videos ensenadles a hacer esto
+ref norm:         0 sea las horas que tengo que tirar para eso el esfuerzo incluso si haces eso no es seguro que lo vayas a llegar a eso entonces para mi es mas importante creo poder aportar lo que se me da bien a mi a los demas y lo que de verdad me gusta es hacer mis videos y ensenar el ajedrez
+
+ ------------------------------------------- 
+
+10.638297872340425
+line_id 2575469802
+transcript norm:  es solo un juego serio donde tienes que estar calladito tomando un cafe jugando cinco horas es un juego que puedes jugar en cualquier momento donde sea con quien sea porque es divertido porque te lo pasas bien y es lo que me gustaba
+ref norm:         no es solo un juego serio donde tienes que estar calladito tomando un cafe jugando 5 horas no es un juego que puedes jugar en cualquier momento donde sea con quien sea porque es divertido porque te lo pasas bien y es lo que me gusta mas
+
+ ------------------------------------------- 
+
+100.0
+line_id 2575455882
+transcript norm:  wow
+ref norm:         y estaba jugando en la mesa tres me parece que para mi era increible en ese momento y la gane y me acuerdo que esa partida no se si fue la mejor partida en ajedrez pero si que fue una partida donde constantemente sentia que estaba en control y que simplemente la habia ganado
+
+ ------------------------------------------- 
+
+5.0
+line_id 2575469065
+transcript norm:  partidas lentas no es habitual que de verdad pierdas porque se te ha caido la bandera porque ya se te ha acabado el reloj pero si es habitual cometer muchos errores cuando tienes poco tiempo porque es muy interesante .
+ref norm:         en partidas lentas no es habitual que de verdad pierdas porque se te ha caido la bandera porque ya se te ha acabado el reloj pero si es habitual cometer muchos errores cuando tienes poco tiempo porque es muy interesante
+
+ ------------------------------------------- 
+
+2.941176470588235
+line_id 2575441193
+transcript norm:  uno piensa que si tienes una hora y media en el reloj que vas a tener tiempo de un monton de cosas 0 sea es mucho tiempo pero el tiempo se va enseguida jugando 0 sea yo no se lo que pasa pero es como que el tiempo cuando estoy haciendo volver otra cosa va mas lento pero cuando estoy compitiendo 20 minutos se pasan como 3 minutos
+ref norm:         uno piensa que si tienes una hora y media en el reloj que vas a tener tiempo de un monton de cosas 0 sea es mucho tiempo pero el tiempo se va enseguida jugando 0 sea yo no se lo que pasa pero es como que el tiempo cuando estoy haciendo cualquier otra cosa va mas lento pero cuando estoy compitiendo 20 minutos se pasan como tres minutos
+
+ ------------------------------------------- 
+
+2.9850746268656714
+line_id 2575469658
+transcript norm:  aunque parecia que son partidas muy lentas no los jugadores no sienten que es una partida lenta por eso es facil acabar con poco tiempo y luego estar con 5 minutos en el reloj haciendo un monton de jugadas rapidas que luego a lo mejor te equivocas en ese momento y de esa forma puedes perder por tiempo pero no tecnicamente porque te hayas quedado con 0 minutos
+ref norm:         aunque parezca que son partidas muy lentas los jugadores no sienten que es una partida lenta por eso es facil acabar con poco tiempo y luego estar con 5 minutos en el reloj haciendo un monton de jugadas rapidas que luego a lo mejor te equivocas en ese momento y de esa forma puedes perder por tiempo pero no tecnicamente porque te hayas quedado con 0 minutos
+
+ ------------------------------------------- 
+
+6.382978723404255
+line_id 2575454796
+transcript norm:  si yo acabo una partida y me siento completamente agotada es algo y es muy raro porque mi cuerpo no esta agotado en si mis piernas mis brazos todo esta bien pero mi mente es como si hubiera corrido 30 kilometros pero sin notar el cuerpo es muy raro me
+ref norm:         si yo acabo una partida y me siento completamente agotada es algo muy raro porque mi cuerpo no esta agotado en si mis piernas mis brazos todo esta bien pero mi mente es como si hubiera corrido 30 kilometros pero sin notar el cuerpo es muy raro
+
+ ------------------------------------------- 
+
+7.142857142857142
+line_id 2575446809
+transcript norm:  me siento completamente agotada como que me duelen los ojos me duele la cabeza me quiero tomar estoy completamente sin poder pensar en nada si agota mucho y la tension que tienes durante la partida hay tanta adrenalina hay tantas emociones
+ref norm:         me siento completamente agotada como que me duelen los ojos me duelen la cabeza me quiero tumbar estoy completamente sin poder pensar en nada si agota mucho y la tension que tienes durante la partida . hay tanta adrenalina hay tantas emociones
+
+ ------------------------------------------- 
+
+7.792207792207792
+line_id 2575418126
+transcript norm:  una persona que no juega al azedrez suena raro pero si adrenalina porque puedes a lo mejor ganarle a esta persona que es buenisima y a lo mejor has visto una variante que crees que funciona y piensas que has encontrado la mejor jugada de tu vida haces la jugada y miras a tu oponente y tu oponente a lo mejor no ha visto esa jugada y dices a lo mejor gano entonces notas hay mucha adrenalina
+ref norm:         se dice una persona que no juega en ajedrez suena raro pero si adrenalina porque puedes a lo mejor ganarle a esta persona que es buenisima y a lo mejor has visto una variante que crees que funciona y piensas que has encontrado la mejor jugada de tu vida haces la jugada miras a tu oponente y tu oponente a lo mejor no ha visto esa jugada y dices a lo mejor gano entonces hay mucha adrenalina
+
+ ------------------------------------------- 
+
+8.108108108108109
+line_id 2575478966
+transcript norm:  pero creo que en general estar calculando tanto tiempo te abota mucho pero luego tambien las emociones que sientes durante esas cinco horas las dos cosas combinadas son lo que hacen que sea tan abotador el afez
+ref norm:         pero creo que en general estar calculando tanto tiempo te agota mucho pero luego tambien las emociones que sientes durante esas cinco horas las dos cosas combinadas son lo que hacen que sea tan agotador el ajedrez
+
+ ------------------------------------------- 
+
+10.95890410958904
+line_id 2575480381
+transcript norm:  bueno entre las partidas no se nota el agotamiento pero cuando acabas si que notas que has puesto tu cerebro has hecho una actividad muy mental que ha sido muy pesada asi que si por eso tambien ha habido muchos estudios que no se muy bien la verdad como son 0 no pero si que se han intentado hacer estudios donde se ve si gente gasta muchas calorias al jugar a la federez
+ref norm:         y durante la partida no se nota el agotamiento pero cuando acabas si que notas que has puesto tu cerebro has hecho una actividad muy mental que ha sido muy pesada asi que si por eso tambien ha habido muchos estudios que no se muy bien la verdad como son 0 no pero si que se han intentado hacer estudios para donde se ve si gente gasta muchas calorias al jugar al ajedrez
+
+ ------------------------------------------- 
+
+12.727272727272727
+line_id 2575472551
+transcript norm:  y si en muchos estudios se ha visto que si que hay gente y puede haber muchas cosas no que a lo mejor se come menos durante torneos que hay gente baja peso lo que sea pueden ser muchas cosas pero si se ha visto que de verdad es fisico lo que tu notas ahi es fisico no es solo mentale
+ref norm:         y si en muchos estudios se ha visto que si que puede haber muchas cosas que a lo mejor se come menos durante torneos gente baja peso lo que sea pueden ser muchas cosas pero si se ha visto que de verdad es fisico lo que tu notas ahi es fisico no es solo mental
+
+ ------------------------------------------- 
+
+11.538461538461538
+line_id 2575458518
+transcript norm:  yo creo que si que si tienes un buen fisico es mucho mas facil poderte una concentracion buena durante cinco horas creo que es mucho mas facil no agotarse igual de rapido y ha habido gente que si tienen problemas de salud que a veces incluso han tenido un ataque de corazon cuando han estado jugando al ajedrecho no pero solo por ensenar que de verdad que si que te afecta a mucha tension
+ref norm:         yo creo que si yo creo que si tienes un buen fisico es mucho mas facil poder tener una concentracion buena durante 5 horas creo que es mucho mas facil no agotarse igual de rapido y ha habido gente que si tienen problemas de salud que a veces incluso han tenido un ataque de corazon cuando han estado jugando al ajedrez no pero solo para ensenar que de verdad que si que te afecta mucho hay mucha tension
+
+ ------------------------------------------- 
+
+5.357142857142857
+line_id 2575430023
+transcript norm:  una parte de ajedrez se puede categorizar en tres categorias la apertura luego el medio juego y el final entonces la apertura es casi solo jugadas de memoria aprendes aperturas y las estudias y luego sabes que bueno yo hago este movimiento si el me hace este movimiento yo hago este ya esta
+ref norm:         una parte de ajedrez se puede categorizar en . bueno en tres categorias la apertura luego el medio juego y el final entonces la apertura es casi solo jugadas de memoria aprendes aperturas y las estudias y luego sabes que bueno yo hago este movimiento si el me hace este movimiento yo hago este ya esta
+
+ ------------------------------------------- 
+
+7.894736842105263
+line_id 2575427295
+transcript norm:  0 sea yo tengo un monton de aprender en eso y claro cuando ya llegas a cierto nivel ya puedes en cada posicion evaluar lo que va a ser la mejor jugada entonces ya si que es calcular mas 0 menos 50 10 jugadas porque ya tu puedes ver en cada posicion lo que es la mejor jugada ahi pero cuesta mucho evaluar todo el tiempo constantemente como es es casi como empezar con un modulo
+ref norm:         0 sea yo tengo un monton de aprender en eso y claro cuando ya llegas a cierto nivel ya puedes en cada posicion evaluar lo que va a ser la mejor jugada entonces ya si que es calcular mas 0 menos cinco 0 diez jugadas porque ya tu puedes ver en cada posicion lo que es la mejor jugada pero cuesta mucho evaluar todo el tiempo constantemente como es es casi como pensar como un modulo
+
+ ------------------------------------------- 
+
+7.4074074074074066
+line_id 2575490791
+transcript norm:  si para que los ojos no esten viendo la posicion que tienes ahora mismo porque entonces puede que de repente pienses que el caballo esta en un sitio donde no esta pero si lo tienes solo en tu cerebro es mas claro es mas facil seguir las variantes y seguir las lineas sabes
+ref norm:         si para que los ojos no esten viendo la posicion que tienes ahora mismo porque entonces puede que de repente pienses que el caballo esta en un sitio donde no esta pero se lo tira el sol en tu cerebro es mas claro es mas facil seguir las variantes y seguir las lineas sabes
+
+ ------------------------------------------- 
+
+3.8461538461538463
+line_id 2575410284
+transcript norm:  es una cosa que mucha gente piensa en musica tienen canciones dentro de la cabeza que de repente estan calculando y es como que eso me pasa a mi si tengo una cancion que estoy escuchando estoy como escuchando la cancion en mi cabeza a la vez que estoy jugando mi partido
+ref norm:         sabes una cosa que mucha gente piensa en musica tienen canciones dentro de la cabeza que de repente estan calculando y es como que eso me pasa a mi si tengo una cancion que estoy escuchando estoy como escuchando la cancion en mi cabeza a la vez que estoy jugando mi partida
+
+ ------------------------------------------- 
+
+11.428571428571429
+line_id 2575452754
+transcript norm:  que estoy aburrida en plan no quiero estar aqui estoy super aburrida no se que hacer que aburrida estoy nunca siento eso siempre tengo esa tension y esa emocion que te he dicho antes pero si hay momentos donde estoy un poco mas relajada donde es en plan vale me ponen de llasa he tomado 20 minutos y estoy muy contenta con mi posicion estoy un poquito mas relajada
+ref norm:         nunca estoy aburrida en plan no quiero estar aqui estoy super aburrida no se que hacer que aburrida estoy nunca siento eso siempre tengo esa tension y esa emocion que te he dicho antes pero si hay momentos donde estoy un poco mas relajada donde es en plan vale mi ponente ya se ha tomado veinte minutos y yo estoy muy contenta con mi posicion estoy un poquito mas relajada
+
+ ------------------------------------------- 
+
+4.166666666666666
+line_id 2575414161
+transcript norm:  voy a tomarme cinco minutos de pausa y en esos cinco minutos de pausa me voy a poner a pensar en lo que quiero
+ref norm:         voy a tomarme cinco minutos de pausa y en esos cinco minutos de pausa me voy a poner a pensar en lo que quiera
+
+ ------------------------------------------- 
+
+1.6666666666666667
+line_id 2575443440
+transcript norm:  no puedes pensar en cualquier otra cosa porque si empiezo a pensar en mi comida a la vez que estoy calculando una variante muy exacta de repente se me olvida que el rey puede tomar otro paso y ya cambia todo y ya pierdo la partida a lo mejor sabes entonces es muy importante estar muy concentrada en ese momento
+ref norm:         no puedes pensar en cualquier otra cosa porque si empiezo a pensar en mi comida a la vez que estoy calculando una variante muy exacta de repente se me olvida que el rey puede tomar otro paso y ya cambia todo y ya pierdo la partida a lo mejor sabes entonces es muy importante estar muy concentrado en ese momento
+
+ ------------------------------------------- 
+
+5.454545454545454
+line_id 2575493881
+transcript norm:  si se juega perfecto algunas posiciones estan ganadas otras en tablas lo que sea entonces si tu sabes como jugar perfecto y lo has aprendido y lo puedes estudiar y lo puedes casi tambien memorizar pues jugaras el final mucho mejor asi que no es nada de freestyle eso es casi como la apertura
+ref norm:         si si se juega perfecto algunas posiciones estan ganadas otras son tablas lo que sea entonces si tu sabes como jugar perfecto y lo has aprendido que lo puedes estudiar y lo puedes casi tambien memorizar pues jugaras el final mucho mejor asi que no es nada de freestyle eso es casi como la apertura
+
+ ------------------------------------------- 
+
+4.225352112676056
+line_id 2575454432
+transcript norm:  si me toca hacer una apertura de estocolmo pero las aperturas si son muy dificiles y estan constantemente se estan averiguando mas variantes en aperturas porque claro con el tiempo los modulos se hacen mejores gente estudia mas gente encuentra mas y con el tiempo de repente la apertura y la teoria cambia y hay que estar siempre a tope la teoria que yo aprendi hace cinco anos es muy vieja
+ref norm:         si me toca hacer una apertura de estocolmo pero las aperturas si son muy dificiles y estan constantemente . se estan averiguando mas variantes en aperturas porque claro con el tiempo los modulos hacen mejores gente estudia mas gente encuentra mas y con el tiempo de repente la apertura y la teoria cambian y hay que estar siempre a tope la teoria que yo aprendi hace cinco anos es muy vieja
+
+ ------------------------------------------- 
+
+5.769230769230769
+line_id 2575425793
+transcript norm:  pues creo que en los top top si que tienen 0 sea saben casi cada apertura porque tienen que ser muy diversos tienen que poder jugar cualquier cosa dependiendo de lo que juegue el oponente ellos tienen que poder no pueden ser tan estrictos que solo juegan una apertura y ya esta
+ref norm:         pues creo que los top top si que tienen 0 sea saben casi cada apertura porque tienen que ser muy diversos tienen que poder jugar cualquier cosa dependiendo de lo que juegue el oponente ellos tienen que poder . no pueden ser tan estrictos que solo jueguen una apertura y ya esta
+
+ ------------------------------------------- 
+
+3.225806451612903
+line_id 2575486242
+transcript norm:  pero luego si eres un poco no top top si eres bueno pero no estas al top top creo que si que es mucho mas facil empezar la apertura y luego aprenderla muy muy bien y luego de ahi aprender variantes diferentes y tal asi que yo creo que si mucha gente tiene aperturas que se sienten mas a gusto con ir
+ref norm:         pero luego si eres un poco no top top si eres bueno pero no estas al top top creo que si que es mucho mas facil empezar una apertura y luego aprenderla muy muy bien y luego de ahi aprender variantes diferentes y tal asi que yo creo que si mucha gente tiene aperturas que se sienten mas a gusto con ellas
+
+ ------------------------------------------- 
+
+9.25925925925926
+line_id 5037729056
+transcript norm:  nuestro cuerpo es sabio y podriamos decir que es un gran antioxidante 0 sea esta intentando todo el dia antioxidar mediante diferentes mecanismos no unicamente las moleculas de las que conocemos y hablamos mucho vatos antioxidantes generales sino muchisimos procesos a nivel celular que tienen como objetivo evitar el dano de estas celulas no
+ref norm:         nuestro cuerpo es sabio y podriamos decir que es un gran antioxidante esta intentando todo el dia antioxidar no mediante diferentes mecanismos no unicamente las moleculas de las que conocemos y hablamos mucho mas de antioxidantes generales sino muchisimos procesos a nivel celular que tienen como objetivo evitar el dano de estas celulas no
+
+ ------------------------------------------- 
+
+7.142857142857142
+line_id 5037794211
+transcript norm:  tenemos todo el rato policias dentro de nuestras celulas que van reparando reparando reparando todos nuestros tejidos no unicamente en la piel sino en practicamente todos nuestros organos no y que es lo que nos permite vivir sanos claro si nosotros vamos machacando machacando machacando el sistema es cuando ya un dia que no puede mas no
+ref norm:         tenemos todo el rato policias dentro de nuestras celulas que van reparando reparando reparando todos nuestros tejidos no unicamente en la piel sino en practicamente todos nuestros organos no que es lo que nos permiten vivir sanos claros si nosotros vamos machacando machacando machacando el sistema es cuando llega un dia que no puede mas no
+
+ ------------------------------------------- 
+
+2.272727272727273
+line_id 5037743709
+transcript norm:  no puede mas y es cuando aparece la consecuencia entonces tambien el cuidar nuestros policias internos que estan todo el rato intentando reparar todos esos danos a los que estamos expuestos dia tras dia tambien en nuestra piel tambien es nuestra responsabilidad intentar minimizarlos
+ref norm:         no puede mas y es cuando aparece la consecuencia entonces tambien el cuidar estos policias internos que estan todo el rato intentando reparar todos esos danos a los que estamos expuestos dia tras dia tambien en nuestra piel tambien es nuestra responsabilidad intentar minimizarlos
+
+ ------------------------------------------- 
+
+24.561403508771928
+line_id 5037764774
+transcript norm:  claro si nos vamos pasando como lo he dicho igual que ocurre con los antioxidantes si un momento que colapsa va para mas y aparece el cancer de piel y aparte tambien pues esta el estimulo lo he repetido desde pequenitos sobre todo cuando aparecen las quemaduras solares despues la piel ya no da para mas
+ref norm:         claro si nos vamos pasando con lo dicho igual que ocurre con los antioxidantes y a un momento que colapsa no da para mas y aparece el cancer de piel no y aparte tambien pues este estimulo repetido desde pequenitos sobre todo cuando aparecen las quemaduras solares que es cuando la piel ya no da para mas
+
+ ------------------------------------------- 
+
+8.045977011494253
+line_id 5037775410
+transcript norm:  dependiendo del fototipo que tenemos tenemos capacidad de formar mas 0 menos melanina con lo cual al final esto tambien tiene una base genetica tenemos que aprender a entender quien somos que genetica mas 0 menos tenemos que es lo que podemos mas 0 menos hacer hoy en dia conociendo el fototipo y teniendo en nuestra mano todos los filtros solares de los que disponemos hoy en dia y aun unicamente a nivel de cosmetica de proteccion solar sino ropa sombreros
+ref norm:         dependiendo del fototipo que tenemos tenemos capacidad de formar mas 0 menos melanina con lo cual al final esto tambien tiene una base genetica tenemos que aprender a entender quienes somos que genetica mas 0 menos tenemos que es lo que podemos mas 0 menos hacer no por lo tanto hoy en dia conociendo el fototipo y teniendo en nuestra mano pues todos los filtros solares de los que disponemos hoy en dia y aun unicamente a nivel de cosmetica de proteccion solar sino pues ropa sombreros
+
+ ------------------------------------------- 
+
+6.25
+line_id 5037787620
+transcript norm:  entonces bueno entender que es lo que hay a nivel externo entender que es lo que ocurre con nuestro cuerpo cuando lo estamos machacando lo que seria esas exposiciones solares digamos de manera desconsiderada que hacemos en verano vamos todo el ano cubiertos y de repente nos sacamos la ropa y nos tiramos ocho horas al sol esto dana muchisimo nuestra piel
+ref norm:         entonces bueno entender que es lo que hay a nivel externo entender que es lo que ocurre con nuestro cuerpo cuando lo estamos machacando que seria pues eso no esas exposiciones solares digamos de manera desconsiderada que hacemos en verano vamos todo el ano cubiertos y de repente nos sacamos la ropa y nos tiramos ocho horas al sol esto dana muchisimo nuestra piel
+
+ ------------------------------------------- 
+
+8.333333333333332
+line_id 5037735159
+transcript norm:  pues tiene muchas vias no y no unicamente el cortisol sino muchas otras hormonas no y transmisores que aumentan en momentos de estres tanto agudo como cronico no tambien tenemos la adrenalina bueno muchisimos mas transmisores no y hormonas que estan implicadas en el estres y que afectan a nuestra piel no
+ref norm:         pues tiene muchas vias y no unicamente el cortisol sino muchas otras hormonas no y transmisores que aumentan en momentos de estres tanto agudo como cronico tambien tenemos la adrenalina muchisimos mas transmisores y hormonas que estan implicadas en el estres y que afectan a nuestra piel no
+
+ ------------------------------------------- 
+
+10.344827586206897
+line_id 5037749297
+transcript norm:  por lo tanto cuando tratamos una patologia de la piel aparte de poner el tratamiento medico nosotros es importantisimo que los pacientes tambien a veces bajen un poquito el ritmo de vida y entiendan cual puede haber sido ese factor desencalinante que ha hecho empeorar nuestra patologia en este caso por ejemplo autoinmune cutanea
+ref norm:         por lo tanto cuando tratamos una patologia de la piel aparte de poner el tratamiento medico nosotros es importantisimo que los pacientes tambien pues a veces bajen un poquito el ritmo de vida y entiendan cual puede haber sido ese factor desencadenante que ha hecho empeorar esta patologia en este caso por ejemplo autoinmune no y autoinmune cutanea
+
+ ------------------------------------------- 
+
+10.256410256410255
+line_id 5037736544
+transcript norm:  el cortisol aumenta y los niveles de azucar en sangre tambien entonces hoy en dia tambien a nivel mas de envejecimiento sabemos que hay un proceso que se conoce como oligacion que seria un poco una caramelizacion de la piel por decirlo asi de alguna manera y que tambien contribuye al envejecimiento cutaneo porque acaba danando las fibras de colageno de elastina etc hay una caramelizacion de las proteinas a nivel de la piel
+ref norm:         el cortisol aumenta los niveles de azucar en sangre tambien no y entonces hoy en dia tambien a nivel ya mas de envejecimiento sabemos que hay un proceso que se conoce como glicacion que seria como un poco una caramelizacion de la piel por decirlo asi de alguna manera y que tambien contribuye al envejecimiento cutaneo porque acaba danando las fibras de colageno de lascina etc no hay una caramelizacion de las proteinas a nivel de la piel
+
+ ------------------------------------------- 
+
+5.970149253731343
+line_id 5037765055
+transcript norm:  pero cuando tenemos en lugar las curvas de cortisol necesarias y fisiologicas que suelen tener un pico a primera de la manana y tenemos una meseta de cortisol alta a lo largo de todo el dia al final todo esto tiene consecuencias luego tambien la interferencia que tiene en el descanso hemos hablado que dormir bien es fundamental para la calidad de la piel
+ref norm:         pero cuando tenemos en lugar de las curvas de cortisol necesarias y fisiologicas no que suelen tener un pico a primero de la manana y tenemos una meseta de cortisol alta a lo largo de todo el dia al final todo esto tiene consecuencias luego tambien la interferencia que tiene en el descanso no hemos hablado que dormir bien es fundamental para la calidad de la piel
+
+ ------------------------------------------- 
+
+4.225352112676056
+line_id 5037750211
+transcript norm:  y claro si tenemos los niveles de cortisol altisimos por la noche no se duerme nadie entonces bueno todo al final esta relacionado y con respecto a la aparicion de las canas porque siempre se ha dicho que si tienes muchos disgustos y mucho estres te salen mas canas pero yo no se si esto es una leyenda urbana 0 si tiene ciencia detras si hay evidencia detras de esto
+ref norm:         y claro si tenemos los niveles de cortisol altisimos por la noche no se duerme nadie no entonces todo al final esta esta relacionado y con respecto a la aparicion de las canas porque siempre se ha dicho que si tienes muchos disgustos y mucho estres te salen mas canas pero yo no se si esto es una leyenda urbana 0 si tiene ciencia detras si hay evidencia detras de esto
+
+ ------------------------------------------- 
+
+11.842105263157894
+line_id 5037768240
+transcript norm:  es decir que si se vio en un estudio a nivel animal de como el estres agudo al activar estos receptores del sistema nervioso simpatico si que ocasionaba un encanecimiento subito entre comillas a cabo de unos meses anos pero aceleraba el proceso con lo cual si el hecho de que veamos a personajes publicos que a veces suben al poder con un pelo mas 0 menos negro oscuro
+ref norm:         es decir que si se vio en un estudio a nivel de animal no de como el estres agudo al activar estos receptores del sistema nervioso simpatico si que ocasionaba un encanhecimiento subito subito entre comillas al cabo de pues unos meses anos pero aceleraba el proceso con lo cual si el hecho de que veamos a personajes publicos no que a veces pues suben al poder con un pelo mas 0 menos negro no oscuro
+
+ ------------------------------------------- 
+
+5.633802816901409
+line_id 5037777328
+transcript norm:  obviamente estamos a anos luz de poder saber que es lo que nos puede evitar el hecho de la aparicion de canas pero si que poco a poco podemos ir entendiendo que el sistema antioxidante del que hemos hablado al principio aunque tengamos una base genetica que eso si pues no es complicado de cambiar no lo podemos cambiar y tenemos que a veces aceptarlo tal y como es
+ref norm:         y obviamente estamos a anos luz de poder saber que es lo que nos puede evitar no el hecho de la aparicion de canas pero si que poco a poco podemos ir entendiendo que el sistema antioxidante no del que hemos hablado al principio aunque tengamos una base genetica que eso si pues no es complicado de cambiar no podemos cambiar y tenemos que a veces aceptarlo tal y como es
+
+ ------------------------------------------- 
+
+3.225806451612903
+line_id 5037731455
+transcript norm:  pero si que este sistema antioxidante nos va a poder a veces frenar ciertos aspectos y si sabemos por ejemplo que el estres agudo si que esta implicado parcialmente en el posible desarrollo 0 la aparicion de canas tambien podemos intentarlo controlar intentar evitar estos picos agudos de estres 0 estas cargas excesivas de trabajo a las cuales nos sometemos
+ref norm:         pero si que este sistema antioxidante nos va a poder a veces frenar pues ciertos aspectos y si sabemos por ejemplo no que el estres agudo si que esta implicado parcialmente en el posible desarrollo 0 la aparicion de canas tambien podemos intentarlo controlar intentar evitar estos picos agudos de estres 0 estas cargas excesivas de trabajo a las cuales nos sometemos
+
+ ------------------------------------------- 
+
+23.25581395348837
+line_id 9166367108
+transcript norm:  pues mira no me encabe mi misa esa pregunta pero pienso que es porque lamentablemente igual estoy hablando un poco piedras sobre mi propio tejado los medicos los entendemos poco porque sea poco en la carrera y en la especialidad en endocrinologia
+ref norm:         pues mira no nunca me habia dicho esa pregunta pero pienso que es porque lamentable y igual estirarme un poco piedras sobre mi propio tejado los medicos los entendemos poco porque se da poco en la carrera y en la especialidad en endocrinologia
+
+ ------------------------------------------- 
+
+5.128205128205128
+line_id 9166390892
+transcript norm:  vas ya mas a lo que se diria tiro hecho vas a cuando hay un problema con la hormona como tratar pero no vas un paso mas atras y dices vale que hace esta hormona en una persona normal
+ref norm:         vas ya mas a lo que se diria tiro de hecho vas a cuando hay un problema con la hormona como tratar pero no vas un paso mas atras y dices que hace esta hormona en una persona normal
+
+ ------------------------------------------- 
+
+4.761904761904762
+line_id 5037735279
+transcript norm:  y luego a nivel cutaneo uno de los mecanismos super interesantes y que no esta en otras partes de nuestro cuerpo seria la formacion de melanina la melanina aparte de darnos color a la piel tambien tiene un efecto antioxidante
+ref norm:         y luego a nivel cutaneo uno de los mecanismos super interesantes no y que no esta en otras partes de nuestro cuerpo seria la formacion de melanina no la melanina aparte de darnos color a la piel tambien tiene un efecto antioxidante
+
+ ------------------------------------------- 
+
+3.1746031746031744
+line_id 5037738986
+transcript norm:  pero sobre todo lo que nos va a hacer es intentar proteger nuestras celulas de la piel y sobre todo aquellas celulas que tienen nucleo del dano de la radiacion ultravioleta que es cancerigeno la melanina forma parte de nuestra piel ya a nivel constitutivo y con el sol ocurren dos cosas uno la que ya esta se oxida y se vuelve mas marroncita
+ref norm:         pero sobre todo lo que nos va a hacer es intentar proteger nuestras celulas de la piel sobre todo aquellas celulas que tienen nucleo del dano de la radiacion ultravioleta que es cancerigeno la melanina forma parte de nuestra piel ya a nivel constitutivo y con el sol ocurren dos cosas una la que ya esta se oxida y se vuelve mas marroncita
+
+ ------------------------------------------- 
+
+4.615384615384616
+line_id 5037791460
+transcript norm:  por eso cuando nos metemos en una cabina de radiacion ultravioleta salimos de color marron porque esa melanina no le ha dado tiempo a formarse se ha oxidado la que ya teniamos y luego hay otro proceso que es que se crea nueva melanina que seria una melanina que va apareciendo nueva progresivamente que no es en cuatro minutos que la vemos aparecer
+ref norm:         por eso cuando nos metemos en una cabina de radiacion ultravioleta salimos de color marron porque esa melanina no le ha dado tiempo a formarse se ha oxidado la que ya teniamos y luego hay otro proceso que es que se crea nueva melanina no que seria una melanina que va apareciendo nueva progresivamente que no es en cuatro minutos que la veamos aparecer no
+
+ ------------------------------------------- 
+
+6.779661016949152
+line_id 5037772356
+transcript norm:  y esta formacion de nueva melanina lo que busca es eso proteger hacer como una especie sombria de nuestros nucleos celulares para que no haya tanta radiacion y no haya tanta mutacion de nuestras celulas y por tanto prevenir el cancer de piel con lo cual ponernos morenos al final es activar un mecanismo de defensa de nuestro cuerpo
+ref norm:         y esta formacion de nueva melanina lo que busca es proteger hacer como una especie de sombrilla de nuestros nucleos celulares para que no llegue tanta radiacion y no haya tanta mutacion de nuestras celulas y por tanto prevenir el cancer de piel con lo cual ponernos morenos al final es activar un mecanismo de defensa de nuestro cuerpo
+
+ ------------------------------------------- 
+
+4.411764705882353
+line_id 5037719572
+transcript norm:  y hablando de estresores y de estres hay una hormona que es absolutamente necesaria para vivir eso creo que ya todos tenemos claro que es indiscutible pero que cuando esta en unos niveles excesivos en sangre se hablando del cortisol puede perjudicarnos a muchos niveles y tambien creo que puede perjudicar si no me corriges andrea la calidad de nuestra piel e incluso acelerar este envejecimiento no
+ref norm:         y hablando de estresores y de estres hay una hormona que es absolutamente necesaria para vivir eso creo que ya todos tenemos claro que eso es indiscutible pero que cuando esta en unos niveles excesivos en sangre estoy hablando del cortisol puede perjudicarnos a muchos niveles y tambien creo que puede perjudicar si no me corrijes andrea la calidad de nuestra piel e incluso acelerar este envejecimiento no
+
+ ------------------------------------------- 
+
+0.0
+line_id 5037772500
+transcript norm:  como afecta el cortisol el exceso de cortisol vamos a hablar con propiedad a nuestra piel
+ref norm:         como afecta el cortisol el exceso de cortisol vamos a hablar con propiedad a nuestra piel
+
+ ------------------------------------------- 
+
+10.869565217391305
+line_id 5037764996
+transcript norm:  por un lado ya empezando en el tema de la patologia cutanea hay muchisimas enfermedades autoinmunes que se manifiestan en la piel como por ejemplo la psoriasis la orificiareata las dermatitis diferentes tipos de eczemas etcetera que van a presentar brotes en epocas de estres
+ref norm:         por un lado ya empezando en el tema de la patologia cutanea hay muchisimos enfermedades autoinmunes que se manifiestan en la piel como por ejemplo la psoriasis la roteciareata las dermatitis diferentes tipos de excemas etc que van a presentar brotes en epocas de estres no
+
+ ------------------------------------------- 
+
+8.47457627118644
+line_id 5037772571
+transcript norm:  porque el cortisol lo que hace es que a veces nos vuelve un poco locos a nivel interno se ajusta nuestro sistema inmune y por un lado vamos a tener brotes de patologia a nivel cutaneo tambien esta detras de los brotes de acne en muchas ocasiones el estres esta detras de muchisimas patologias cutaneas
+ref norm:         porque pues el cortisol lo que hace es que a veces nos vuelve un poco locos a nivel interno de si ajusta nuestro sistema inmune y por un lado vamos a tener brotes de pues patologia a nivel cutaneo tambien esta detras de los brotes de acne en muchas ocasiones no el estres esta detras de muchisimas patologias cutaneas
+
+ ------------------------------------------- 
+
+7.6923076923076925
+line_id 5037788792
+transcript norm:  no a todo el mundo le van a desarrollar cualquiera sino que va a hacer que la que tienes tu un poquito geneticamente determinada vaya a dar la cara de hecho hoy mismo he visto a una paciente que ya tenia unas manchitas en la piel de vitiligo unas manchitas blancas
+ref norm:         no a todo el mundo le van a desarrollar pues cualquiera sino que va a hacer que la que tienes tu un poquito geneticamente determinada vaya a dar la cara de hecho pues hoy mismo he visto una paciente que ya tenia unas manchitas en la piel de vitigua unas manchitas blancas
+
+ ------------------------------------------- 
+
+18.181818181818183
+line_id 5037737894
+transcript norm:  es decir que ya sabiamos que teniamos esta genetica un poquito que predisponia a tener este tipo de patologia autoinmune y ante un estresor le ha aparecido una plaquita de lo que se haria aca tenemos una base genetica y el estres nos descontrola y hace que salga a la luz aquello que tenemos dentro nosotros
+ref norm:         es decir que ya sabiamos que teniamos esta genetica no un poquito que predisponia a tener este tipo de patologia autoinmune y ante un estresor pues le ha aparecido una plaquita de alopecia areata no tenemos una base genetica y el estres nos descontrola y hace que salga la luz pues aquello que tenemos dentro
+
+ ------------------------------------------- 
+
+15.555555555555555
+line_id 5037744540
+transcript norm:  porque entonces trabajaremos juntos y el resultado sera mejor y probablemente necesitaremos en muchas ocasiones menos tratamiento medico menos dosis de farmaco farmacos quiza menos potentes no para ti no trabajamos todos juntos no y aqui entra tambien el hecho de dormir bien no
+ref norm:         porque entonces trabajaremos juntos y el resultado sera mejor y probablemente necesitaremos en muchas ocasiones menos tratamiento medico menos dosis de farmaco 0 farmacos quiza menos potentes no porque al final trabajamos todo en conjunto y aqui entra tambien el hecho de dormir bien no
+
+ ------------------------------------------- 
+
+6.153846153846154
+line_id 5037790707
+transcript norm:  pacientes que tienen enfermedades autoinmunes cutaneas le digo hazme un ritmo como nino pequeno vete a dormir siempre a la misma hora por favor levantate siempre a la misma hora come intenta comer siempre a la misma hora no me despistes del cuerpo que a la que lo vuelves noco te brota la patologia en cuestion luego que mas hace el cortisol
+ref norm:         pacientes que tienen enfermedades autoinmunes cutaneas le digo hazme un ritmo como un nino pequeno vete a dormir siempre a la misma hora por favor levantate siempre a la misma hora come intenta comer siempre a la misma hora no me despistes del cuerpo que a la que lo vuelves loco te brota no pues la patologia en cuestion luego que mas hace el cortisol
+
+ ------------------------------------------- 
+
+5.555555555555555
+line_id 5037771871
+transcript norm:  y eso tambien esta cada vez mas asociado con el envejecimiento cutaneo luego el cortisol no deja de ser un poco como la cortisona no la necesitamos para vivir pero en exceso para ver un poquito que es lo que hace el cortisol a altas dosis a veces les hago la reflexion a los pacientes porque esto todo el mundo lo tiene mas claro no que es lo que te hace la cortisona dano vale
+ref norm:         y eso tambien esta cada vez mas asociado con el envejecimiento cutaneo luego el cortisol deja de ser un poco como la cortisona no lo necesitamos para vivir pero en exceso para ver un poquito que es lo que hace el cortisol a altas dosis a veces les hago la reflexion a los pacientes porque todo el mundo lo tiene mas claro que es lo que te hace la cortisona dano vale
+
+ ------------------------------------------- 
+
+1.9607843137254901
+line_id 5037798509
+transcript norm:  entonces bueno hace retencion de liquidos hace que podamos tener un poquito mas de retencion a nivel de grasa etcetera no un poquito yendo un poco mas alla el cortisol lo necesitamos no y de hecho secretarlo de manera natural es fundamental para poder llevar a cabo nuestro dia a dia
+ref norm:         entonces bueno hace retencion de liquidos hace que podamos tener un poquito mas de retencion a nivel de grasa etc no un poquito yendo un poco mas alla el cortisol lo necesitamos no y de hecho secretarlo de manera natural es fundamental para poder llevar a cabo nuestro dia a dia
+
+ ------------------------------------------- 
+
+7.2727272727272725
+line_id 5037765306
+transcript norm:  y al cabo de dos anos ves la foto y dices ostras pues si tiene una explicacion ahora ya cientifica detras no hay cosas en las que probablemente no se habia puesto tanta atencion hoy en dia si que van saliendo un poco a la luz los resultados de estos enigmas no
+ref norm:         y al cabo de dos anos ves la foto y dices ostras pues si tiene una explicacion ahora ya cientifica detras no hay cosas en las que probablemente pues no se habia puesto tanta atencion no y en dia si que van saliendo un poco pues a la luz los resultados de estos enigmas no
+
+ ------------------------------------------- 
+
+5.172413793103448
+line_id 5037782629
+transcript norm:  si es que realmente hay algo cientifico detras y en este caso si mira hay un articulo cientifico que lo han visto y creo que a partir de aqui ya hay bastante investigacion al respecto porque algo que piden los pacientes y todavia no tenemos ningun remedio es como puedo hacer para que no me salgan calas
+ref norm:         si es que realmente hay algo cientifico detras y en este caso si mira hay un articulo cientifico que lo han visto yo creo que a partir de aqui ya hay bastante investigacion al respecto porque hay algo que piden los pacientes y todavia no tenemos ningun remedio es como puedo hacer para que no me salgan canos
+
+ ------------------------------------------- 
+
+Final wer score:  9.266454065395557

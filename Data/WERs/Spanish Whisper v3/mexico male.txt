@@ -1,0 +1,1268 @@
+1.5151515151515151
+line_id 5113898072
+transcript norm:  y creo que eso me hizo despues de muchos anos volver a mi tierra para honrarla y para como devolverle un poquito esa gloria dentro de lo que yo pudiera ser desde que tengo memoria siempre hable del orgullo de que yo era de huamantla de hecho cuando estuve en la academia hablaba tanto de huamantla que me empezaron a dar como el apodo de huamantla
+ref norm:         y creo que eso me hizo despues de muchos anos volver a mi tierra para honrarla y para como devolverle un poquito esa gloria dentro de lo que yo pudiera hacer desde que tengo memoria siempre hable del orgullo de que yo era de huamantla de hecho cuando estuve en la academia hablaba tanto de huamantla que me empezaron a dar como el apodo de huamantla
+
+ ------------------------------------------- 
+
+12.5
+line_id 5113886520
+transcript norm:  y despues lo cambiaron y ya me decian guamas que de hecho es muy chistoso porque hoy mi editora 0 el catalogo de mi musica como compositor se llama guamas songs y guamas es de guamantla y songs de canciones obviamente entonces por esa manera en la que yo siempre hablaba de mi tierra no
+ref norm:         esta bien y despues lo cambiaron y me decian huamas que de hecho es muy chistoso porque hoy mi editora 0 el catalogo de mi musica como compositor se llama huama songs y huama es de huamantla y songs de canciones obviamente entonces por esa manera en la que yo siempre hablaba de mi tierra no
+
+ ------------------------------------------- 
+
+3.1746031746031744
+line_id 5113835390
+transcript norm:  y era como hasta curioso y les hacia mucha gracia a toda la gente que me iba conociendo porque siempre que podia yo hablaba un poco de mi tierra recuerdo aquella vez que estuve en la academia que cuando volvi a tlaxcala habia un letrero gigante que decia que habia como el logro del record historico de afluencia turistica en el estado de tlaxcala
+ref norm:         y era como hasta curioso y les hacia mucha gracia a toda la gente que me iba conociendo porque siempre que podia yo hablaba un poco de mi tierra recuerdo aquella vez que estuve en la academia que cuando volvi a tlaxcala habia un letrero gigante que decia que habia como el logro del record historico de afluencia turistica al estado de tlaxcala
+
+ ------------------------------------------- 
+
+2.4096385542168677
+line_id 5113853266
+transcript norm:  pues tu imaginate yo por cuatro meses en el programa no hice otra cosa que hablar de huamantla 0 de tlaxcala y entonces pues si empezo a llegar mucha gente que queria conocer ese lugar del que yo tanto hablaba luego fue pasando el tiempo en cuanto tuve otra vez la oportunidad de que tuviera pues digamos una audiencia que me escuchara cada vez mas grande pues empece a tratar de que lo que yo hacia tuviera algo siempre de mi tierra de entendimiento
+ref norm:         pues tu imaginate yo por cuatro meses en el programa no hice otra cosa que hablar de huamantla 0 de tlaxcala y entonces pues si empezo a llegar mucha gente que queria conocer ese lugar del que yo tanto hablaba luego fue pasando el tiempo en cuanto tuve otra vez la oportunidad de que tuviera pues digamos una audiencia que me escuchara cada vez mas grande pues empece a tratar de que lo que yo hacia tuviera algo siempre de mi tierra no
+
+ ------------------------------------------- 
+
+9.090909090909092
+line_id 5113815121
+transcript norm:  desde mi segundo disco que fue mexicano en mexicano trataba de que algunos musicos de mi tierra grabaran conmigo de que hay un instrumento que se llama salterio que se que no es de mexico como tal creo que tiene origen asiatico pero se construye en el pueblo de mi abuela que se llama alzayanca
+ref norm:         desde mi segundo disco que fue mexicano el mexicano trataba de que algunos musicos de mi tierra grabaran conmigo de que hay un instrumento que sea mas alterio que se que no es de mexico como tal creo que tiene origen asiatico pero se construye en el pueblo de mi abuela que se llama alsayanka
+
+ ------------------------------------------- 
+
+97.67441860465115
+line_id 5113897303
+transcript norm:  entonces .
+ref norm:         y entonces yo conoci al senor que era ya muy mayor y que construia y que a su nieto le habia ensenado a construir y a tocar entonces era el maestro de todos los pocos que no son tantos que tocan ese instrumento
+
+ ------------------------------------------- 
+
+0.0
+line_id 5113812428
+transcript norm:  trato todo el tiempo como de enaltecer lo que nosotros tenemos y que se que al menos es unico porque no lo he visto en otro lado no y de ahi poco a poco de nino tenia tambien un poco esta pues yo iba con un colegio de monjas entonces como que las monjas me inculcaban mucho mas aun la fe que yo de por si tenia por mi abuela que todo el tiempo nos ponia a rezar el rosario no
+ref norm:         trato todo el tiempo como de enaltecer lo que nosotros tenemos y que se que al menos es unico porque no lo he visto en otro lado no y de ahi poco a poco de nino tenia tambien un poco esta pues yo iba con un colegio de monjas entonces como que las monjas me inculcaban mucho mas aun la fe que yo de por si tenia por mi abuela que todo el tiempo nos ponia a rezar el rosario no
+
+ ------------------------------------------- 
+
+8.333333333333332
+line_id 5113816100
+transcript norm:  y que en las procesiones en semana santa 0 lo que te hablaba de navidad todo lo que tenia que ver con la fe pues mi abuela fue quien realmente nos inculco de manera muy fuerte pero yo tenia genuinamente tambien un interes por lo espiritual
+ref norm:         y que pues en las procesiones en semana santa 0 los que te hablaban de navidad todo lo que tenia que ver con la fe pues mi abuela fue quien realmente nos inculco de manera muy fuerte pero yo tenia genuinamente tambien pues un interes por lo espiritual
+
+ ------------------------------------------- 
+
+0.0
+line_id 5113848913
+transcript norm:  y entonces con las monjas mi manera de que pues no se si yo buscaba atencion 0 no se que era pero pues yo empezaba a cantar desde muy nino y realmente nadie me pelaba nadie me hacia caso entonces mi familia pues mi familia nadie se dedica a la musica y entonces las monjitas eran las unicas que les decia que yo cantaba y me hacian caso no
+ref norm:         y entonces con las monjas mi manera de que pues no se si yo buscaba atencion 0 no se que era pero pues yo empezaba a cantar desde muy nino y realmente nadie me pelaba nadie me hacia caso entonces mi familia pues mi familia nadie se dedica a la musica y entonces las monjitas eran las unicas que les decia que yo cantaba y me hacian caso no
+
+ ------------------------------------------- 
+
+2.941176470588235
+line_id 5113852814
+transcript norm:  creo que viene por lo mismo de que yo tenia ese interes como por las historias que tenian que ver con la religion tanto que entonces en uno de los barrios donde nosotros crecimos en huamantla que es el barrio san francisquito se llama asi porque la imagen es un san francisco pequenito que llego por ahi de los anos de 1500 en la fundacion de huamantla
+ref norm:         creo que viene por lo mismo de que yo tenia ese interes como por las historias de que tenian que ver con la religion tanto que entonces en uno de los barrios donde nosotros crecimos en huamantla que es el barrio san francisco se llama asi porque la imagen es un san francisco pequenito que llego por ahi de los anos de 1500 en la fundacion de huamantla
+
+ ------------------------------------------- 
+
+10.909090909090908
+line_id 5113830349
+transcript norm:  porque aparte se fue a contar la historia y entonces fue como el primer convento franciscano que se crea ahi en esa region en 1519 si no me equivoco 0 29 no recuerdo bien el ano pero es una muy pequena capilla franciscana que despues se convirtio en una capilla de un barrio
+ref norm:         porque aparte te puedo contar la historia sato y entonces este fue como el primer convento franciscano que se crea ahi en esa region en 1519 si no me equivoco 0 29 no me recuerdo bien el ano pero es una muy pequena capilla franciscana que despues se convirtio en una capilla de un barrio
+
+ ------------------------------------------- 
+
+3.614457831325301
+line_id 5113888649
+transcript norm:  ah si si quieres de todas maneras la vamos a tirar y entonces yo me la lleve y limpie todo y entonces segun yo de nino te estaba hablando que yo tendria tal vez 11 anos 0 10 y dije no ya soy un coleccionista de antiguedades y entonces tarde mucho hasta que realmente pude comprar mi primera antiguedad que fue un candelabro en el barrio de los zapos de puebla guamantla esta muy cerquita a puebla estamos a menos de una hora
+ref norm:         no si si quieres de todas manas la vamos a tirar y entonces yo me la lleve y limpie todo y entonces segun yo de nino te estaba hablando que yo tendria tal vez 11 anos 0 10 y dije no ya soy un coleccionista de antiguedades y entonces tarde mucho hasta que realmente pude comprar mi primera antiguedad que fue un candelabro en el barrio de los zapos de puebla huamantla esta muy cerquita a puebla estamos a menos de una hora
+
+ ------------------------------------------- 
+
+5.172413793103448
+line_id 5113859753
+transcript norm:  una pieza favorita pues fijate que probablemente sean las piezas que que mi abuela me regalo 0 sea las que sean favoritas de hecho una de las coronas que tenia que ya estaba muy maltratada apenas la acabo de mandar a restaurar y entonces me decia el restaurador oye pero es que este es muy dificil restaurar esto .
+ref norm:         uy una pieza favorita pues fijate que probablemente sean las piezas que mi abuela me regalo 0 sea las que sean favoritas de hecho una de las coronas que tenia que ya estaba muy maltratada apenas la acabo de mandar a restaurar y entonces me decia el restaurador oye pero es que este es muy dificil restaurar esto
+
+ ------------------------------------------- 
+
+3.3333333333333335
+line_id 5113849536
+transcript norm:  aparte es una corona que no tiene mayor valor este digo no me importa para mi tiene un valor especial y quiero que se restaure entonces ya la restauramos completa y a esa le tengo carino por ejemplo porque forma parte como de de ese de esa pedaceria antigua que se iba a ir a la basura y que yo lo guarde
+ref norm:         aparte es una corona que no tiene mayor valor este no me importa para mi tiene un valor especial y quiero que se restaure entonces ya la restauramos completa y a esa le tengo carino por ejemplo porque forma parte como de ese de esa pedaceria antigua que se iba a ir a la basura y que yo lo guarde
+
+ ------------------------------------------- 
+
+6.382978723404255
+line_id 5113878076
+transcript norm:  y ahora empece a coleccionar virgenes de ocotlan que es una advocacion que se da en la zona de la capital de tlaxcala cuenta la leyenda que se aparece por ahi de 15500 sea unos cuantos anos despues de la aparicion de la virgen de guadalupe
+ref norm:         y ahora empece a coleccionar virgenes de gotlan que es una una vocacion que se da en la zona de la capital de tlaxcala cuenta la leyenda que se aparece por ahi de 15500 sea unos cuantos anos despues de la aparicion de la virgen de guadalupe
+
+ ------------------------------------------- 
+
+5.555555555555555
+line_id 5113832675
+transcript norm:  y entonces yo hace un par de anos en zona maco que me encanta ir y me encanta ir a ver el arte pero especialmente me voy al salon del anticuario vi la imagen 0 sea un cuadro una pintura del siglo xviii y dije esta virgen es la virgen de ocotlan y entonces me dice el que estaba ahi en la galeria dice no es la virgen de guadalupe le digo no
+ref norm:         y entonces yo hace un par de anos en zona maco que me encanta ir y me encantaria ver el arte pero especialmente me voy al salon del anticuario vi la imagen 0 sea un cuadro una pintura del siglo xviii y dije esta virgen es la virgen de ocotlan y entonces me dice el que estaba ahi en la galeria y dice no es la virgen de guadalupe le digo no
+
+ ------------------------------------------- 
+
+3.3707865168539324
+line_id 5113887653
+transcript norm:  dice si porque esta con juan diego le digo si pero es que la virgen de gotland se le aparece a un juan diego tambien que no es el juan diego que conocemos es otro el se llama juan diego bernardino de xiloshostla que es un pueblo de ahi de tlaxcala y entonces lo que aqui tiene de especial bueno es que la virgen le dice que hay un pozo con agua donde que si el la toma la va a llevar con los enfermos y los va a sanar
+ref norm:         dice si porque esta con juan diego digo si pero es que la virgen de ocotlan se le aparece a un juan diego tambien que no es el juan diego que conocemos es otro el se llama juan diego bernardino de chiloshostla que es un pueblo de ahi de tlaxcala y entonces lo que aqui tiene de especial bueno es que la virgen le dice que hay un pozo con agua donde que si el la toma la va a llevar con los enfermos y los va a sanar
+
+ ------------------------------------------- 
+
+5.084745762711865
+line_id 5113871405
+transcript norm:  y entonces despues la aparicion completa dice la leyenda que se aparece en un ocote que esta incendiado que lo llegan y lo parten y aparece la imagen de la virgen que por eso es ocotlan porque estaba en un ocote no entonces bueno para no hacer el cuento largo yo tengo mucha devocion por la virgen maria en general no
+ref norm:         y entonces despues la aparicion completa dice la leyenda que se aparece en un ocote que esta incendiado que lo llegan y lo parten y aparece la imagen de la virgen que por eso ocotlan porque esta en un ocote entonces bueno para no hacer el cuento largo yo tengo mucha devocion por la virgen maria en general no
+
+ ------------------------------------------- 
+
+6.521739130434782
+line_id 5113854261
+transcript norm:  yo aunque soy catolico en el tiempo me he ido volviendo mas bien espiritual no conservo muchisimos valores de la religion pero pues como que tambien yo me he ido haciendo segun lo que he ido entendiendo de la religion no y me he ido mas hacia lo espiritual
+ref norm:         yo aunque soy catolico en el tiempo me he ido volviendo mas bien espiritual conservo muchisimos valores de la religion pero como que tambien yo me he ido haciendo segun lo que he ido entendiendo de la religion y me he ido mas hacia lo espiritual
+
+ ------------------------------------------- 
+
+2.2222222222222223
+line_id 5113860581
+transcript norm:  pero en cuestion de las virgenes mas alla de no es que adore la imagen sino que me entra mas bien la parte artistica la parte del arte de lo que significa el arte en la pintura en la realizacion porque ademas en lo que descubri este cuadro bueno lo compro se convierte en la primera que compre y digo que raro porque no es una virgen tan conocida no es una vocacion como la de san juan de los lagos 0 la virgen de guadalupe 0 tantas mas que existen
+ref norm:         pero en cuestion de las virgenes mas alla de no es que adore la imagen sino que me entra mas bien la parte artistica la parte del arte de lo que significa el arte en la pintura en la realizacion porque ademas en lo que descubri este cuadro bueno lo compro se convierte en la primera que compro y digo que raro porque no es una virgen tan conocida no es una vocacion como la de san juan de los lagos 0 la virgen guadalupe 0 tantas mas que existen
+
+ ------------------------------------------- 
+
+5.88235294117647
+line_id 5113880724
+transcript norm:  y dije ah bueno pues encontre otra y dije pues mira no debe haber demasiadas y efectivamente no hay demasiadas ahorita tengo 22 22 virgen 22 de todos los estilos desde el siglo xviii hasta el siglo xx y un par que ya me han regalado que las han pintado hace poco tambien si
+ref norm:         y dije bueno pues encontre otra y dije pues mira no debe haber demasiadas y efectivamente no hay demasiadas ahorita tengo 22 22 virgen 22 de todos los estilos desde el siglo xviii hasta el siglo xx y un par que me han regalado que las han pintado hace poco tambien
+
+ ------------------------------------------- 
+
+5.47945205479452
+line_id 5113846960
+transcript norm:  pero tengo de las del siglo xviii son pues las mas especiales algunas de muy buen pincel y otras mas de arte popular que eran como ex votos que son las laminas de cobre 0 de zinc que tambien tengo unas cuantas de esas pero entonces empece como a darle especial cabida a mi coleccion no solo a virgenes de gotland sino a cosas que tengan que ver con tlaxcala y con su historia dentro
+ref norm:         este pero tengo las del siglo xviii son las mas especiales algunas de muy buen pincel y otras mas de arte popular que eran como ex votos que son las laminas de cobre 0 de zinc que tambien tengo unas cuantas de esas pero entonces empece como a darle especial cabida a mi coleccion no solo a virgenes de gotland sino a cosas que tengan que ver con tlaxcala y con su historia
+
+ ------------------------------------------- 
+
+5.405405405405405
+line_id 5113840239
+transcript norm:  historicamente existe la compania de titeres de los rosete aranda por ejemplo que eran de la epoca del porfiriato y tienen su museo en huamantla y entonces tambien hace poco encontre una pequena coleccion de 10 que estaban los tenian muy maltratados entonces como que un poco me ha entrado ahora las ganas de rescatar todo lo que tenga que ver con la historia de tlaxcala y que anda por ahi regado en colecciones particulares
+ref norm:         historicamente existen la compania de titeres de los rosetearanda por ejemplo que eran de la epoca del porfiriato y tienen su museo en huamantla y entonces tambien hace poco encontre una pequena coleccion de diez que estaban los tenian muy maltratados entonces como que un poco me ha entrado ahora las ganas de rescatar todo lo que tenga que ver con la historia de tlaxcala y que anda por ahi regado en colecciones particulares
+
+ ------------------------------------------- 
+
+2.4390243902439024
+line_id 5113835413
+transcript norm:  y entonces pues ya cuando me inscribo mis companeros todo el mundo empezo a decir hoy hay que hablar con carlos porque nadie me habia escuchado cantar yo cante de nino muchas veces en el colegio con las monjitas el himno nacional y cuando se podia cualquier otra cancion que tenga que ver con la iglesia pero en la secundaria tu sabes ahi es donde entra el bullying maximo yo dije aqui ni de loco va a decir que canto no
+ref norm:         no y entonces pues ya cuando me inscribo mis companeros todo el mundo empezo a decir hoy hay que hablar con carlos porque nadie me habia escuchado cantar yo cante de nino muchas veces en el colegio con las monjitas el himno nacional y cuando se podia cualquier otra cancion que tenga que ver con la iglesia pero en la secundaria tu sabes ahi es donde entra el bullying maximo yo dije aqui ni de loco voy a decir que canto no
+
+ ------------------------------------------- 
+
+3.0303030303030303
+line_id 5113893412
+transcript norm:  aparte venia como el cambio de voz y todo y entonces mis companeros que venian pues algunos de la secundaria no tenian idea que yo era cantante 0 que cantaba y entonces como que entre ellos hay que hablar con el para que no se inscriba se van a burlar de el no va a entrar al concurso hay que protegerlo hay que hablar
+ref norm:         aparte venia como el cambio de voz y todo y entonces mis companeros que venian pues algunos de la secundaria no tenian idea que yo era cantante 0 que cantaba y entonces como que entre ellos hay que hablar con el para que no se inscriba se van a burlar de el no nos va a entrar al concurso exacto hay que protegerlo hay que hablar
+
+ ------------------------------------------- 
+
+7.228915662650602
+line_id 5113838816
+transcript norm:  y entonces me meti a la sala audiovisual a ensayar y entonces asomaron todos por la ventana pues esperando lo peor despues todos se voltearon a ver de oye si canta no y y la cancion elegida fue usted se me llevo la vida que era el tema principal de la telenovela de lo que es el amor y que pues la cantaba alexandre no alexandre viene es un eh venia de un grupo que se llama sopra contrariar de brasil que fue gigante eh
+ref norm:         y entonces me meti a la sala audiovisual a ensayar y entonces asomaron todos por la ventana pues esperando lo peor despues todos se volteran a ver de oye si canta no y la cancion elegida fue usted se me llevo la vida que era el tema principal de la telenovela de lo que es el amor y que pues la cantaba a alexandre no alexandre viene es un venia de un grupo que se llama sopra contraria de brasil que fue gigante
+
+ ------------------------------------------- 
+
+2.4691358024691357
+line_id 5113879209
+transcript norm:  y entonces esa cancion cuando llega a la academia que pues digamos yo habia ganado unos cuantos concursos alla en huamantla en tlaxcala y en puebla que decia bueno ahora donde voy 0 sea que mas voy a hacer porque nunca me he quedado como tranquilo y digo ah pues ya gane concursos y ya con esto me quedo sino que para mi ya tenia como una necesidad de ir a algo mas y alli ese algo mas en ese momento .
+ref norm:         y entonces esa cancion cuando llega a la academia que pues digamos yo habia ganado unos cuantos concursos alla en guamantl en tlaxcala y en puebla que decia bueno ahora donde voy 0 sea que mas voy a hacer porque nunca me he quedado como tranquilo y digo ah pues ya gane concursos y ya con esto me quedo sino que para mi ya tenia como una necesidad de ir a algo mas y alli ese algo mas en ese momento
+
+ ------------------------------------------- 
+
+9.230769230769232
+line_id 5113880936
+transcript norm:  estamos hablando del 2000 del 2003 porque la academia comienza en el 2002 que es la primera academia la segunda viene en 2003 la la tercera tendria que haber venido en 2003 tambien porque yo audicione llegue a la final con esa cancion y y ya en la final se dan cuenta que yo tengo 17 anos 0 sea para esto me me salta esa parte yo tenia 17 anos .
+ref norm:         estamos hablando del 2003 porque la academia comienza en el 2002 que es la primera academia la segunda viene en 2003 la tercera tendria que haber venido en 2003 tambien porque yo audicione llegue a la final con esa cancion y ya en la final se dan cuenta que yo tengo 17 anos 0 sea para esto me salta esa parte yo tenia 17 anos
+
+ ------------------------------------------- 
+
+4.081632653061225
+line_id 5113834185
+transcript norm:  tenias que tener 18 a fuerza porque pues esto era un reality y entonces resulta que se dan cuenta que tengo 17 anos y me dicen pues no no puedes seguir pasando a los 10 finalistas que ya se juntaban con finalistas de monterrey de guadalajara de estados unidos
+ref norm:         tenias que tener 18 a fuerza porque esto era un reality y y entonces resulta que se dan cuenta que tengo 17 anos y me dicen pues no no puedes seguir pasando a los 10 finalistas que ya se juntaban con finalistas de monterrey de guadalajara de estados unidos
+
+ ------------------------------------------- 
+
+7.6923076923076925
+line_id 5113822593
+transcript norm:  fue para mi otro logro mas 0 sea para mi era algo que tenia que presumir que yo habia llegado a los 40 mejores de 30 mil que en ese tiempo la academia realmente generaba miles y miles y miles de personas que ibamos a audicionar fue un fenomeno muy grande y cuando a mi me toco literalmente era de formarte a las seis de la manana y ya habia gente ya habia fila y te tocaba pasar hasta la tarde y al otro dia volvia a haber mas filas para para
+ref norm:         fue para mi otro logro mas 0 sea para mi era algo que tenia que presumir que yo habia llegado a los 40 mejores de 30 que en ese tiempo la academia realmente generaba miles y miles y miles de personas que ibamos a audicionar fue un fenomeno muy grande y cuando a mi me toco literalmente era deformarte a las 6 de la manana y ya habia gente ya habia fila y te tocaba pasar hasta la tarde y al otro dia volvi a ver mas filas para para .
+
+ ------------------------------------------- 
+
+7.6923076923076925
+line_id 5113885500
+transcript norm:  yo venia de huamantla tlaxcala 0 sea estamos hablando que en tlaxcala hasta ese momento no existia ningun artista famoso que pudiera decir oye si el lo logro yo tambien 0 sea un jose alfredo de guanajuato un pedro infante de huamuchil no habia 0 sea no teniamos una referencia definitiva
+ref norm:         yo venia de huamantla a tlaxcala 0 sea estamos hablando que en tlaxcala hasta ese momento no existia ningun artista famoso que pudiera decir oye si el lo logro yo tambien 0 sea un jose alfredo de guanajuato 0 un pedro infante de guamuchil no habia 0 sea no teniamos una referencia
+
+ ------------------------------------------- 
+
+4.285714285714286
+line_id 5113895637
+transcript norm:  de hecho mis referentes es muy curioso porque en huamantla hay dos personajes muy importantes uno de ellos fue ciclista que era el halcon de huamantla miguel arroyo rosales el llego a correr la tour de francia y entonces yo me acuerdo cuando era nino que el paso hicieron una carrera en mexico una vuelta y pasaron por ahi y le hacian toda la fiesta todos los honores y
+ref norm:         de hecho mis referentes es muy curioso porque en huamantla hay dos personajes muy importantes uno de ellos fue ciclista que era el halcon de huamantla miguel arroyo rosales el llego a correr la tour de francia y entonces pues yo me acuerdo cuando era nino que el paso hicieron una carrera en mexico una vuelta y pasaron por ahi y bueno le hacian toda la fiesta todos los honores
+
+ ------------------------------------------- 
+
+2.083333333333333
+line_id 5113890658
+transcript norm:  entonces para mi era como wow un dia yo espero que en la musica pueda ser algo importante y que venir a huamantla pues signifique todos estos festejos que hoy le hacen a miguel que miguel en paz descanse murio hace poco tuve oportunidad de conocerlo y de compartirle todas estas cosas que te estoy contando y que al final el fue como uno de mis ejemplos de que bueno si el lo pudo dentro del ciclismo pues a lo mejor yo lo puedo en la musica y luego esta el otro ejemplo beatriz paredes
+ref norm:         y entonces para mi era como wow un dia yo espero que en la musica pueda ser algo importante y que venir a huamantla pues signifique todos estos festejos que hoy le hacen a miguel que miguel en paz descanse murio hace poco tuve oportunidad de conocerlo y de compartirle todas estas cosas que te estoy contando y que al final el fue como uno de mis ejemplos de que bueno si el lo pudo dentro del ciclismo pues a lo mejor yo lo pudo en la musica y luego esta el otro ejemplo beatriz paredes
+
+ ------------------------------------------- 
+
+3.0303030303030303
+line_id 5113841523
+transcript norm:  beatriz paredes fue una de las si no la primera 0 una de las primeras mujeres en la politica mexicana que llegaron a tener grandes grandes cargos tuve oportunidad de conocerla tambien porque mi abuela en los tiempos en los que ella era gobernadora de tlaxcala mi abuela fue presidenta municipal de su pueblo y creo que fue companera de mi papa si no mal recuerdo beatriz
+ref norm:         beatriz paredes fue una de las si no la primera una de las primeras mujeres en la politica mexicana que llegaron a tener grandes grandes cargos tuve oportunidad de conocerla tambien porque mi abuela en los tiempos en las que ella era gobernadora de tlaxcala mi abuela fue presidenta municipal de su pueblo y creo que fue companera de mi papa si no mal recuerdo beatriz
+
+ ------------------------------------------- 
+
+6.097560975609756
+line_id 5113855508
+transcript norm:  entonces ella cuando estuvo en la misma escuela que yo que fue el colegio bachilleros que en ese tiempo tenia otro nombre pero era el concurso de oratoria y dijeron de aqui salio beatriz parez 0 sea ella primero concurso aqui en el concurso de oratoria gano luego gano el estatal luego gano el nacional y miren hoy donde esta no y entonces para mi era un dia cuando se haga este concurso de canto van a decir de aqui salio carlos rivera
+ref norm:         entonces ella cuando estuvo en la misma escuela que yo que fue el colegio de bachilleres que en ese tiempo tenia otro nombre pero era el concurso de oratoria y dijeron de aqui salio beatriz paredes ella primero concurso aqui en el concurso de oratoria gano luego gano el estatal luego gano el nacional y miren hoy donde esta no y entonces para mi era un dia cuando se haga este concurso de canto van a decir de aqui salio carlos rivera
+
+ ------------------------------------------- 
+
+3.9215686274509802
+line_id 5113835494
+transcript norm:  y entonces esos eran como mis alicientes pero te estoy hablando de cosas que no tienen nada que ver con la musica no y entonces mi familia misma era como por que 0 sea por que quieres cantar por que no mejor haces una licenciatura por que no mira mejor este
+ref norm:         y entonces esos eran como mis alicientes pero te estoy hablando de cosas que no tienen nada que ver con la musica no y entonces mi familia misma era como por que 0 sea por que quieres cantar por que no mejoras es una licenciatura por que no mira mejor este
+
+ ------------------------------------------- 
+
+9.523809523809524
+line_id 5113827201
+transcript norm:  si mi mama desde que me vio que cantaba que fue desde muy nino si llego a regalarme una grabadora con microfono porque me gustaba cantar 0 sea ella lo veia como un nino que le gusta jugar con eso pero yo creo que nunca es como cualquier mama que vea a un nino que le gusta jugar futbol y no por eso va a ser eso profesionalmente no necesariamente entonces lo mismo asi mi mama conmigo
+ref norm:         si mi mama desde que me vio que cantaba que fue desde muy nino si llego a regalarme una grabadora con microfono porque me gustaba cantar 0 sea ella lo veia como un nino que le gusta jugar con eso pero yo creo que nunca es como cualquier mama que vea a un nino que le gusta jugar futbol y no por eso va a ser de la pues va a ser eso profesionalmente no necesariamente entonces lo mismo ha sido mi mama conmigo
+
+ ------------------------------------------- 
+
+2.5
+line_id 5113842963
+transcript norm:  cuando ella se dio cuenta que desde nino yo nunca pare de decir que iba a ser cantante nunca incluso cuando en algun momento por una pequena temporada yo decia que iba a ser sacerdote pero fue muy curioso porque quienes me decian que yo tenia que ser sacerdote eran las monjitas ellas me decian que si a ti te gusta cantarle a dios y te gusta y te interesa todo lo que tiene que ver con lo religioso
+ref norm:         cuando ella se dio cuenta que desde nino yo nunca pare de decir que iba a ser cantante nunca incluso cuando en algun momento por una pequena temporada yo decia que iba a ser sacerdote pero fue muy curioso porque quienes me decian que yo tenia que ser sacerdote eran las monjitas ellos me decian es que si a ti te gusta cantarle a dios y te gusta y te interesa todo lo que tiene que ver con lo religioso
+
+ ------------------------------------------- 
+
+9.210526315789473
+line_id 5113844293
+transcript norm:  0 en este caso por ejemplo yo veia las imagenes y veia los cuadros pero tenia que ver yo creo que mucho mas con lo artistico en ese tiempo no de decir es que guau mira esa escultura mira esa pintura mira esto y dije no tu tienes que ser 0 sea dios te eligio para eso entonces para mi el hecho que me dijeran dios me eligio ah pues entonces yo creo que es lo que tengo que hacer
+ref norm:         0 en este caso por ejemplo yo veia las imagenes y veia los cuadros pero tenia que ver mucho mas con lo artistico en ese tiempo de decir es que wow mira esa escultura esa pintura mira esto y dije no tu tienes que ser sacerdote 0 sea dios te eligio para eso entonces para mi el hecho que me dijeran dios me eligio ah pues entonces yo creo que es lo que tengo que hacer
+
+ ------------------------------------------- 
+
+1.5625
+line_id 5113838923
+transcript norm:  pero desde muy chiquito yo tenia bastante conciencia en muchas cosas que de hecho cuando yo me voy a estoy un mes en una especie de propedeutico ya para quedarme en una escuela para padres mas bien de sacerdotes como que en el camino yo soy muy espiritual y no mucha gente lo entiende mas que los que tal vez llevan una vida espiritual
+ref norm:         pero desde muy chiquito yo tenia bastante conciencia en muchas cosas que de hecho cuando yo me voy a estoy un mes en una especie de propeutico ya para quedarme en una escuela para padres mas bien de sacerdotes como que en el camino yo soy muy espiritual y no mucha gente lo entiende mas que los que tal vez llevan una vida espiritual
+
+ ------------------------------------------- 
+
+15.555555555555555
+line_id 5113892891
+transcript norm:  tenia 12 anos y con 12 anos tuve esa conexion con dios de preguntarle si realmente eso era lo que queria y me acuerdo que hubo un concurso ahora dentro de los que estabamos alli que eramos bastantes ninos .
+ref norm:         tenia 12 anos y con 12 anos tuve esa como esa conexion con dios de preguntarle si realmente eso era lo que queria 0 sea si y me acuerdo que hubo un concurso dentro ahora dentro de los que estabamos alli que eramos bastantes ninos
+
+ ------------------------------------------- 
+
+0.0
+line_id 5113888540
+transcript norm:  y entonces me tocaba a mi hacer el solista de una cancion que ni me acuerdo como se llama es una cancion que la gente que conoce la musica catolica seguramente la conocera que dice llevame donde los hombres necesiten tus palabras necesiten tus ganas de vivir donde falte la esperanza donde falte la alegria simplemente por no saber de ti
+ref norm:         y entonces me tocaba a mi hacer el solista de una cancion que ni me acuerdo como se llama es una cancion que la gente que conoce la musica catolica seguramente la conocera que dice llevame donde los hombres necesiten tus palabras necesiten tus ganas de vivir donde falte la esperanza donde falte la alegria simplemente por no saber de ti
+
+ ------------------------------------------- 
+
+10.526315789473683
+line_id 5113885396
+transcript norm:  y entonces yo mientras cantaba esa cancion yo le hablaba con dios y le decia llevame donde tenga que ser yo ya sentia que no era ahi 0 sea que realmente yo no tenia vocacion yo tenia como desde nino la vocacion de cantar de ser cantante y de hacer otra cosa y
+ref norm:         y entonces yo mientras cantaba esa cancion yo tenia 0 sea yo le hablaba con dios y le decia llevame donde tenga que ser yo ya sentia que no era ahi 0 sea que realmente yo no tenia vocacion que yo tenia como desde nino la vocacion de cantar de ser cantante y de hacer otra cosa
+
+ ------------------------------------------- 
+
+1.0416666666666665
+line_id 5113876539
+transcript norm:  y entonces tal vez si nos vamos de una manera espiritual probablemente de ahi venga el que por eso no me rendia tan facilmente 0 sea por que me fui feliz de una audicion en la que no me quede pues porque para mi yo no veia el no me quede yo veia el oye pase miles y miles de personas y no se cuantos filtros para quedar en los mejores eso quiere decir que algo tengo no y yo solo pensaba en la siguiente vez que me tocaba audicionar porque entonces tal vez ahi si seria
+ref norm:         y entonces tal vez si nos vamos de una manera espiritual probablemente de ahi venga el que por eso no me rendia tan facilmente 0 sea por que me fui feliz de una audicion en la que no me quede pues porque para mi yo no veia el no me quede yo veia el oye pase miles y miles de personas y no se cuantos filtros para quedar en los mejores eso quiere decir que algo tengo y yo solo pensaba en la siguiente vez que me tocaba audicionar porque entonces tal vez ahi si seria
+
+ ------------------------------------------- 
+
+2.3529411764705883
+line_id 5113878712
+transcript norm:  entonces yo le llamo a mi papa le digo papa vamos a veracruz porque veracruz es el 11 de febrero nunca se me olvidan las fechas 11 de febrero y ciudad de mexico es 18 de febrero entonces si no me quedo en veracruz volvemos al de mexico 0 sea yo ya traia de que si me votaban en la final 0 en algun momento yo me iba a volver a formar 0 sea lo tenia como claro porque ademas hay mil circunstancias no
+ref norm:         y entonces yo le llamo a mi papa le digo papa vamos a veracruz porque veracruz es el 11 de febrero nunca se me venian las fechas 11 de febrero y ciudad de mexico es 18 de febrero entonces si no me quedo en veracruz volvemos al de mexico 0 sea yo ya traia de que si me votaban en la final 0 en algun momento yo me iba a volver a formar 0 sea lo tenia como claro porque ademas hay mil circunstancias no
+
+ ------------------------------------------- 
+
+0.0
+line_id 5113849318
+transcript norm:  no te eligen solo porque hay mil cosas en las que yo creo que se fijan para saber si te quieren 0 no te quieren si les sirves 0 no les sirves y mi papa si hijo yo te voy a llevar me llevo ocurrio ahi algo que el me dijo no tu descansa entonces me fue a llevar a un hotel para que yo descansara y el junto con mis hermanos se fueron a formar
+ref norm:         no te eligen solo porque hay mil cosas en las que yo creo que se fijan para saber si te quieren 0 no te quieren si les sirves 0 no les sirves y mi papa si hijo yo te voy a llevar me llevo ocurrio ahi algo que el me dijo no tu descansa entonces me fue a llevar a un hotel para que yo descansara y el junto con mis hermanos se fueron a formar
+
+ ------------------------------------------- 
+
+5.194805194805195
+line_id 5113882993
+transcript norm:  y unos primos que iban ahi un poco de relajo se fueron a echar cervezas antes y luego ya como a las cuatro de la manana se fueron a formar a las ocho y media en punto mi papa llego por mi y me dice ya esta listo si papa estoy listo perfecto entonces ellos ya me habian apartado el lugar digamoslo asi enfrente de nosotros habia muchisima gente mas que ya se habia formado
+ref norm:         y unos primos que iban ahi un poco de relajo se fueron a echar sus cervezas antes y luego ya como a las cuatro de la manana se fueron a formar a las ocho y media en punto mi papa llego por mi y me dice ya esta listo si papa estoy listo perfecto entonces ellos ya me habian apartado el lugar digamoslo asi en frente a nosotros habia muchisima gente mas que ya se habia formado
+
+ ------------------------------------------- 
+
+5.769230769230769
+line_id 5113812655
+transcript norm:  pase como a las 11 de la manana cante otra cancion que no fue usted se me llevo la vida por alexandre porque pensaba que cante como yo te ame de manzanero pensaba que esa cancion me hacia lucir mucho mas la voz 0 sea que podia dar con toda la potencia el
+ref norm:         pase como a las once de la manana cante otra cancion que no fue usted se me llevo la vida por alejandre porque pensaba que cante como yo te ame de manzanero pensaba que esa cancion me hacia lucir mucho mas la voz 0 sea que podia dar con toda la potencia
+
+ ------------------------------------------- 
+
+5.0
+line_id 5113896732
+transcript norm:   pero por que pero esto que hacemos nos vamos a guamantla nos regresamos ahorita y nada mas en algun momento tuve como algo que me dijo vuelvete a formar 0 sea porque en mi cabeza pasaba el decir esto no es una casualidad 0 sea yo no estoy audicionando otra vez cuando estoy a punto de cumplir 18 anos .
+ref norm:         pero por que pero esto que hacemos nos vamos a huamantla nos regresamos de ahorita y nada mas en algun momento tuve como algo que me dijo vuelvete a formar 0 sea porque en mi cabeza pasaba el decir esto no es una casualidad 0 sea yo no estoy audicionando otra vez cuando estoy a punto de cumplir 18 anos
+
+ ------------------------------------------- 
+
+8.108108108108109
+line_id 5113841200
+transcript norm:  0 sea yo no estoy aqui porque si y digo un error tuvo que haber no y entonces en mi cabeza el error era me equivoque de cancion no cante mi cancion de la suerte no 0 sea al final echar la culpa a lo que fuera pero dije bueno solo lo voy a saber si me vuelvo a formar y me vuelvo a formar y se puede no se papa me voy a volver a formar
+ref norm:         0 sea yo no estoy aqui porque si y digo un error tuvo que haber y entonces en mi cabeza el error era me equivoque de cancion no cante mi cancion de la suerte al final de echarle la culpa a lo que fuera pero dije bueno solo lo voy a saber si me vuelvo a formar y me vuelvo a formar y se puede no se papa me voy a volver a formar
+
+ ------------------------------------------- 
+
+4.054054054054054
+line_id 5113815056
+transcript norm:  entonces le damos la vuelta al teatro de la reforma de veracruz con un calor y a esas horas que ya te imaginaras y mi papa me dice vamos a desayunar algo y que se quede tu hermano formado no ahora me quiero formar yo desde el principio hasta el final yo no se si fueron siete horas mas de estar formado pero me forme pase y cante usted se me llevo la vida
+ref norm:         entonces le damos la vuelta al teatro de la reforma de veracruz con un calor y a esas horas que te imaginaras y mi papa me dice vamos a desayunar algo y que se quede tu hermano formado no ahora me quiero formar yo desde el principio hasta el final yo no se si fue un siete horas mas de estar formado pero me forme pase y cante usted se me llevo la vida
+
+ ------------------------------------------- 
+
+1.5625
+line_id 5113882592
+transcript norm:  y el oscar lopez que en paz descanse hace poco murio el curiosamente habia trabajado en carreras importantisimas de la industria especialmente en el rock en tu idioma y entonces el me vio y me dijo este por que estas tan nervioso y le digo es que yo ya habia pasado me volvi a formar le dije y estoy buscando una oportunidad le digo me
+ref norm:         y el oscar lopez que en paz descanse hace poco murio el curiosamente habia trabajado en carreras importantisimas de la industria especialmente en el rock en tu idioma y entonces el me vio y me dijo este por que estas tan nervioso y le digo es que yo ya habia pasado me volvi a formar le dije y estoy buscando una oportunidad le digo
+
+ ------------------------------------------- 
+
+11.11111111111111
+line_id 5445537581
+transcript norm:  bueno dejame decirte que el mejor poteador que conozco es mi hijo benjamin es si potea mejor que yo es una cosa barbara fijate curiosamente son de las cosas del golf que nos ensenan todos los demas bastones los puedes aprender a usar algunos son de truco como el juego corto
+ref norm:         bueno dejame decirte que el mejor poteador que conozco es mi hijo benjamin es el poteador mejor que yo es una cosa barbara y dijate curiosamente son de las cosas del golf que nos ensenan 0 sea todos los demas bastones los puedes aprender a usar algunos son de truco como el juego corto
+
+ ------------------------------------------- 
+
+6.122448979591836
+line_id 5445592436
+transcript norm:  otros son de un poco mas de tecnica otros requieren mucha fuerza si quieres hacer un tiro de 320 yardas pues necesitas estar bien fuerte no hay de otra pero el pot si tienes que estar consciente del terreno para donde esta la inclinacion para donde esta el pasto
+ref norm:         otros son de un poco mas de tecnica otros requieren mucha fuerza si quieres hacer un tiro de 320 yardas pues necesitas estar bien fuerte no hay de otro pero el pot tienes que estar consciente del terreno entonces para donde esta la inclinacion para donde esta el pasto
+
+ ------------------------------------------- 
+
+12.76595744680851
+line_id 5445550989
+transcript norm:  esta seco esta mojado que tan de subida esta que tan de bajada esta son muchas situaciones de las que tienes que estar pendiente para ser un buen pod y entonces por eso soy un buen pod yo me estoy fijando en todas las cosas al mismo tiempo
+ref norm:         esta seco esta mojado que tan de subida esta que tan de bajada esta son muchas situaciones de las que tienes que estar pendiente para hacer un buen pot y entonces por eso es un buen pot no estoy fijando en todas las cosas al mismo tiempo
+
+ ------------------------------------------- 
+
+5.172413793103448
+line_id 5445554569
+transcript norm:  si claro que si porque yo leo mucho no y parte de mi rutina es subrayar el libro y hacerle anotaciones y yo tengo un sistema donde pongo mis notas y yo las estudio entonces lo que estoy pensando lo estoy de alguna forma escribiendo y anotando y entonces se convierte en una programacion interior para mi propia mente
+ref norm:         si claro que si porque yo leo mucho y parte de mi rutina es subrayar el libro y hacerle anotaciones y lo tengo un sistema donde pongo mis notas y lo las estudio entonces lo que estoy pensando lo estoy de alguna forma escribiendo y anotando y entonces se convierte en una programacion interior para mi propia mente
+
+ ------------------------------------------- 
+
+14.634146341463413
+line_id 5445515729
+transcript norm:  mira a veces no tengo una cosa concreta porque digo la verdad ese no es un problema mio yo estoy integrado no 0 sea todo lo que lo que pienso lo que digo lo que hago como que fluye de un solo de un solo ser no
+ref norm:         mira a veces no tengo una cosa concreta porque digo la verdad ese no es un problema mio yo estoy integrado no 0 sea todo lo que pienso lo que digo lo que hago como que fluye de un solo ser
+
+ ------------------------------------------- 
+
+12.280701754385964
+line_id 5445535775
+transcript norm:  no traigo esta dualidad pero hay veces que estoy viendo las cosas y digo esto ya deberia de matarlo este negocio ya no salio hay que matarlo pero entonces por los sentimientos de la gente que esta ahi por el tiempo que le hemos metido vamos a darle otro poquito de chance y ya
+ref norm:         no traigo esta dualidad pero hay veces que estoy viendo las cosas y digo pichame esto ya deberia de matarlo este ya pues este negocio ya no salio hay que matarlo pero entonces este por los sentimientos de la gente que esta ahi por el tiempo que le hemos metido vamos a darle otro poquito de chance
+
+ ------------------------------------------- 
+
+8.108108108108109
+line_id 2677688874
+transcript norm:  y asi soy exigente con los demas y esa busqueda de la excelencia pues me ha resultado bien porque he ido conformando un equipo de ejecutivos muy capaces excelente y yo lo que hago es que los coordino entiendes
+ref norm:         y asi soy exigente con los demas y esa busqueda de la excelencia pues me ha resultado bien porque he ido conformando un equipo ejecutivo muy capaces excelente y yo lo que hago es que los coordino
+
+ ------------------------------------------- 
+
+12.698412698412698
+line_id 5445539921
+transcript norm:  tu haces esto tu haces esto tu haces esto y vale vamos y tengo una junta la grupo de letras la manejo con tres horas a la semana los lunes tengo 30 agentes ahi y a ver que esta pasando hagan esto hagan esto hagan esto se van la semana que entra ahora cuando hay problemas entre ellos entonces intervengo fuerte porque
+ref norm:         tu haces esto tu haces esto tu haces esto y vale vamos y tengo una junta grupo elektra la manejo con 3 horas a la semana a los lunes tengo 30 agentes ahi y a ver que esta pasando aqui hagan esto hagan esto hagan esto se van la semana que entra ahora cuando hay problemas entre ellos entonces intervengo fuerte por que
+
+ ------------------------------------------- 
+
+4.761904761904762
+line_id 5445541875
+transcript norm:  las primadonas los egos a veces las envidias son factores humanos y hay que agarrarlos como a los hijos a trapazos
+ref norm:         las primadonas los egos a veces las envidias son factores humanos y hay que agarrarlos como a los hijos a trapasos
+
+ ------------------------------------------- 
+
+18.64406779661017
+line_id 2677690329
+transcript norm:  por supuesto exigente es comprometerse con algo y entonces hacer todo lo posible por cumplir y eso es exigente ser exigente si quedamos en esto hay cuando tenemos una cita en las 11 bueno llegue a las 11.3 mal deberia haber llegado a las 11 pero como que no cumplir no no se presento como
+ref norm:         por supuesto exigente es comprometerse con algo y entonces hacer todo lo posible por cumplir y eso es exigente ser exigente pues oye quedamos en esto ah aguanta teniamos una cita a las 11 bueno pues te llegue a las 11 3 mal debia haber llegado a las 11 pero como que no cumplir no no se presento como
+
+ ------------------------------------------- 
+
+1.9607843137254901
+line_id 5445568634
+transcript norm:  mira fijate dice el dicho ese que nadie es indispensable y es cierto es cierto que nadie es indispensable pero tampoco se trata de quitar gente nada mas por crear problemas verdad 0 sea cada vez que hay una baja en un cuadro ejecutivo se generan muchos problemas no es deseable
+ref norm:         mira fijate dice el dicho ese que nadie es indispensable ya es cierto es cierto que nadie es indispensable pero tampoco se trata de quitar gente nada mas por crear problemas verdad 0 sea cada vez que hay una baja en un cuadro ejecutivo se generan muchos problemas no es deseable
+
+ ------------------------------------------- 
+
+7.8125
+line_id 5445584225
+transcript norm:  0 sea mucha integracion para desarrollar la confianza entre los personajes que ahi estan no y porque es una cosa bien interesante 0 sea como cada quien esta en su cosa no es que el de electra no se hable con el de azteca es que si se ven si se hablan pero pues de dia a dia como porque se iban a hablar no
+ref norm:         0 sea mucha integracion para desarrollar la confianza entre los personajes que ahi estan no y porque hace una cosa bien interesante 0 sea como cada quien esta en su cosa no es que el de elektra no se hable con el de azteca es que si se ven si se hablan pero de dia a dia por que se iban a hablar no
+
+ ------------------------------------------- 
+
+10.0
+line_id 5445536298
+transcript norm:  cada quien esta aqui uno haciendo aqui sus cosas otro haciendo alla sus cosas porque se iban a ver
+ref norm:         cada quien esta aqui uno haciendo aqui sus cosas otro haciendo alla sus cosas por que se iban a ver
+
+ ------------------------------------------- 
+
+7.8125
+line_id 2677691469
+transcript norm:  bueno primero a eso habria que preguntarselo a los ejecutivos porque obviamente desde mi punto de vista yo lo hago todo muy bien no si no ya se hubiera ido sabria que preguntarles no hay distintas personalidades pero el tema de la automotivacion es muy importante muy muy importante yo tengo la frase que digo todo progreso lo hacen los inconformes obviamente inconformes que actuan
+ref norm:         bueno primero eso habria que preguntarselo a los ejecutivos porque obviamente pues desde mi punto de vista yo lo hago todo muy bien si no ya se hubieran ido sabia que preguntarles no hay distintas personalidades pero el tema de la automotivacion es muy importante muy muy importante yo tengo la frase que digo todo progreso lo hacen los inconformes obviamente inconformes que actuan
+
+ ------------------------------------------- 
+
+2.4390243902439024
+line_id 2677628626
+transcript norm:  entonces una vez que se define eso yo lo que necesito es gente que ejecute 0 sea como se va a hacer quien lo va a hacer cuanto va a costar cuando va a quedar y para eso tengo ejecutivos no ejecutan
+ref norm:         entonces una vez que se define eso yo lo que necesito es gente que ejecute 0 sea como se va a hacer quien lo va a hacer cuanto va a costar cuando va a quedar y para eso tengo ejecutivos ejecutan
+
+ ------------------------------------------- 
+
+0.0
+line_id 2677699870
+transcript norm:  entonces esa division de tareas funciona bien cuando el ejecutivo entrega las cosas pues te digo el compromiso esa capacidad de comprometerte con una meta de comprometerte con un resultado un presupuesto no es mas que un plan de accion expresado en numeros
+ref norm:         entonces esa division de tareas funciona bien cuando el ejecutivo entrega las cosas pues te digo el compromiso esa capacidad de comprometerte con una meta de comprometerte con un resultado un presupuesto no es mas que un plan de accion expresado en numeros
+
+ ------------------------------------------- 
+
+3.571428571428571
+line_id 5445539028
+transcript norm:  entonces pues si le metemos tanto dinero a abrir una tienda bueno y me dijeron que la inversion se va a recuperar en dos 0 tres anos bueno pues quiero ver que suceda eso no es parte del plan no y si no sucede hay problemas que paso porque si se llevaron el dinero pero no dieron los resultados que 0 que van a hacer entonces como hay una frase ahi de un gringo muy bueno que se llama managers manage verdad
+ref norm:         entonces pues chau si le metemos tanto dinero a abrir una tienda bueno y me dijeron que la inversion se va a recuperar en dos 0 tres anos bueno pues quiero ver que sucede eso no es parte del plan no y si no sucede hay problemas 0 que paso porque si se llevaron el dinero pero no dieron los resultados que 0 que van a hacer entonces como hay una frase ahi de un gringo muy bueno que se llama managers manage verdad
+
+ ------------------------------------------- 
+
+0.0
+line_id 5445598851
+transcript norm:  entonces que significa que los ejecutivos se las tienen que ingeniar para entregar los resultados pues para eso estan
+ref norm:         entonces que significa que los ejecutivos se las tienen que ingeniar para entregar los resultados pues para eso estan
+
+ ------------------------------------------- 
+
+9.803921568627452
+line_id 5445517663
+transcript norm:  oye a mi que me importa si el senor se quiere vestir de mujer pues a mi que que se vista como quiera a mi no me importa ah no que me respete a mi mi proyecto de vida verdad yo no me tengo que vestir de mujer porque el si quiere vestirse de mujer
+ref norm:         oye a mi que me importa si el senor se quiere vestir de mujer pues a mi que que se vista como quiera a mi no me importa ah me respeta mi proyecto de vida verdad yo no me tengo que vestir de mujer porque el si quiere vestirse de mujer
+
+ ------------------------------------------- 
+
+4.25531914893617
+line_id 5445551437
+transcript norm:  por ejemplo lo importante que es la libertad para el ser humano no nada mas por el aspecto practico que da resultados sino por el aspecto etico y moral usted no le gustaria ser esclavo verdad 0 sea la esclavitud es algo muy feo no
+ref norm:         por ejemplo lo importante que es la libertad para el ser humano no nada mas por el aspecto practico que da resultados sino por el aspecto etico y moral que a usted no le gustaria ser esclavo verdad 0 sea la esclavitud es algo muy feo no
+
+ ------------------------------------------- 
+
+4.3478260869565215
+line_id 2677636619
+transcript norm:  ahora cual es el problema que la esclavitud moderna tiene otra forma pero sigue siendo esclavitud sabes lo que estoy hablando no
+ref norm:         ahora cual es el problema que la esclavitud moderna tiene otra otra forma pero sigue siendo esclavitud sabes lo que estoy hablando no
+
+ ------------------------------------------- 
+
+1.8518518518518516
+line_id 5445562057
+transcript norm:  es una persona que ha sido despojada del 100% del producto de su trabajo pero tu y yo nomas nos han despojado moderadamente y generosamente del 50% de nuestro trabajo entonces somos esclavos al 50% y eso no nos gusta ese tipo de principios y valores es lo que creo que se transmite
+ref norm:         es una persona que ha sido despojada del 100% del producto de su trabajo pero tu y yo nomas nos han despojado moderadamente y generosamente del 50% de nuestro trabajo entonces somos esclavos al 50% y eso no nos gusta es ese tipo de principios y valores es lo que creo que se transmite
+
+ ------------------------------------------- 
+
+7.4074074074074066
+line_id 2677665905
+transcript norm:  independientemente que despues lleguen otras generaciones con otros estilos y a todos les gusta mucho el negocio y son buenos entonces vamos por buen camino
+ref norm:         y independientemente que despues lleguen otras generaciones con otros estilos y a todos les les gusta mucho el negocio y son buenos entonces vamos por buen camino
+
+ ------------------------------------------- 
+
+12.244897959183673
+line_id 5445573658
+transcript norm:  me llamo la atencion como inversion porque cuando yo lo vi estaba en 200 y ya iba de uno a 200 dije no puta nunca visto no asi empece pero ya despues cuando el de vera le entendi me llamo la atencion es la .
+ref norm:         me llamo la atencion como inversion porque cuando yo lo vi estaba en 200 y ya iba de one a 200 y dije no puta nunca visto no asi empece pero ya despues cuando el de veras le entendi no pues este me llamo la atencion es la .
+
+ ------------------------------------------- 
+
+11.11111111111111
+line_id 5445537103
+transcript norm:  mira lo importante que es librarnos de los gobiernicolas librarnos de su injerencia en la moneda es lo mas importante bueno no lo mas importante pero de las cosas fundamentales que les da poder indebido a los gobiernicolas es el manejo que tiene sobre la moneda y el bitcoin se los quita no lo puede manipular
+ref norm:         mira lo importante que es librarnos de los gobiernicolas librarnos de su injerencia en la moneda puta es lo mas importante bueno no lo mas importante pero de lo de las cosas y fundamentales que les da poder indebido a los gobiernicolas es el manejo que tiene sobre la moneda y el bitcoin se los quita no puede mane no lo puede manipular
+
+ ------------------------------------------- 
+
+9.433962264150944
+line_id 5445578101
+transcript norm:  mi portafolio 0 sea como el portafolio de todos son activos activos de distintos tipos no entonces tienes unos activos en mexico y otros estan en el extranjero unos activos son inmobiliarios la casa por alla una propiedad por aca y lo principal que son acciones de empresas que he formado y que manejo es lo principal no
+ref norm:         mi portafolio como el portafolio de todos son activos de distintos tipos entonces tienes unos activos en mexico y otros estan en el extranjero unos activos son inmobiliarios la casa por alla una propiedad por aca y lo principal que son acciones de empresas que he formado y que manejo es lo principal
+
+ ------------------------------------------- 
+
+11.76470588235294
+line_id 5445528643
+transcript norm:  pero a traves del tiempo con los excesos de con los rendimientos de estas empresas vas haciendo un portafolio financiero que ese es diferente eso normalmente un empresario no maneja un portafolio financiero hasta que no vende su compania y luego se da cuenta que no sabe ni madres de manejar un portafolio financiero entonces
+ref norm:         pero a traves del tiempo con los excesos de rendimiento de estas empresas vas haciendo un portafolio financiero que eso es diferente normalmente un empresario no maneja un portafolio financiero hasta que no vende su compania y luego se da cuenta que no sabe ni madres de manejar un portafolio financiero
+
+ ------------------------------------------- 
+
+19.444444444444446
+line_id 5445544040
+transcript norm:  contrata a una a un helper como dice buffett para que le manejen su portafolio y ahi le meten el diente si yo si he manejado mi portafolio desde hace mucho tiempo y particularmente ahorita tengo 60% en bitcoin exposure 60%
+ref norm:         contrata a un helper como dice buffett para que le manejen su portafolio y le metan el diente yo si he manejado mi portafolio ya hace mucho tiempo y particularmente ahorita tengo 60% en bitcoin exposure
+
+ ------------------------------------------- 
+
+4.411764705882353
+line_id 5445568496
+transcript norm:  la casa es un gasto y asi hay que verlo ahora es un gasto necesario el dinero es para gastarse me entiendes 0 sea que caso tiene ser muy rico y no tener cosas bellas y una bonita casa y cosas bellas a tu alrededor pues no tiene ningun caso el dinero es un medio pero si lo ves como inversion la casa es una muy mala inversion
+ref norm:         la casa es un gasto asi hay que verlo 0 es un gasto necesario el dinero es para gastarse me entiendes 0 sea que caso tiene de ser muy rico y no tener cosas bellas y una bonita casa y cosas bellas a tu alrededor pues no tiene ningun caso el dinero es un medio pero si lo ves como inversion la casa es una muy mala inversion
+
+ ------------------------------------------- 
+
+9.090909090909092
+line_id 5445570555
+transcript norm:  fijate que en ese tema oso ahi veo como una confusion mira hay muchos jovenes muchos muchos jovenes que estan asi ilusionados con la tecnologia y piensan que la tecnologia los va a hacer ricos y que estar en la pantalla hacerle ahi .
+ref norm:         fijate que en ese tema 0 sea ahi veo como una confusion mira hay muchos jovenes muchos muchos jovenes que estan asi ilusionados con la tecnologia y piensan que la tecnologia los va a hacer ricos y que estar en la pantalla hacerle alli
+
+ ------------------------------------------- 
+
+3.1746031746031744
+line_id 5445558180
+transcript norm:  entonces mira justamente ayer tuvimos un evento muy interesante en la universidad de la libertad y fue el final del concurso de innovacion de grupo salinas le dijimos a la gente a ver que podemos hacer para mejorar nuestra operacion del dia a dia 0 que necesidades ven en los clientes en los empleados que no estamos atendiendo nos llegaron 800 propuestas
+ref norm:         entonces mira justamente ayer tuvimos un evento muy interesante en la universidad de la libertad y fue el final del concurso de innovacion de grupos salinas entonces le dijimos a la gente a ver que podemos hacer para mejorar nuestra operacion del dia a dia 0 que necesidades ven en los clientes en los empleados que no estamos atendiendo nos llegaron 800 propuestas
+
+ ------------------------------------------- 
+
+0.0
+line_id 5445529878
+transcript norm:  internas eso es innovacion y justo les dije ayer y me gusto mucho porque una mejora pedorra tambien es innovacion
+ref norm:         internas eso es innovacion y justo les dije ayer y me gusto mucho porque una mejora pedorra tambien es innovacion
+
+ ------------------------------------------- 
+
+0.0
+line_id 5445594301
+transcript norm:  por eso los viajes ilustran ir a las conferencias de la industria ver que hace el competidor copia todo eso tambien es valido y por eso en el circulo de libertad innovacion competencia prosperidad la competencia es tan importante
+ref norm:         por eso los viajes ilustran ir a las conferencias de la industria ver que hace el competidor copia todo eso tambien es valido y por eso en el circulo de libertad innovacion competencia prosperidad la competencia es tan importante
+
+ ------------------------------------------- 
+
+6.976744186046512
+line_id 5445598760
+transcript norm:  y es otra cosa que los desgraciados gobernicolas son especialistas en estorbar e impedir la competencia es super necesario que haya competencia entonces puedes innovar con mejora continua puedes innovar copiando cosas y finalmente puedes innovar inventando cosas que tambien se vale
+ref norm:         y es otra cosa que los desgraciados gobiernicolas son especialistas en estorbar e impedir la competencia es super necesario que haya competencia entonces puedes innovar con mejora continua puedes innovar copiando cosas y finalmente puedes innovar inventando cosas que tambien se valen tambien
+
+ ------------------------------------------- 
+
+0.0
+line_id 2677699097
+transcript norm:  por ejemplo donde hay enorme oportunidad en desarrollo de sistemas todo todo todo se va a sistematizar donde hay un excel se necesita un sistema y hay miles por todos lados revisar los procesos donde hay un papel se necesita un sistema yo creo que en el area de desarrollo de sistemas es donde mas oportunidad va a haber y ahi es donde entra la inteligencia artificial y todo eso
+ref norm:         por ejemplo donde hay enorme oportunidad en desarrollo de sistemas todo todo todo se va a sistematizar donde hay un excel se necesita un sistema y hay miles por todos lados revisar los procesos donde hay un papel se necesita un sistema yo creo que en el area de desarrollo de sistemas es donde mas oportunidad va a haber y ahi es donde entra la inteligencia artificial y todo eso
+
+ ------------------------------------------- 
+
+2.898550724637681
+line_id 5113816919
+transcript norm:  por ejemplo hay un negocio de television que es la televisa 0 tv azteca que es el negocio haces unas producciones las pones en tu canal concesionado el canal llega a muchas casas tienes mucha audiencia y luego consigues anunciantes que quieren esas audiencias y te pagan dinero y con el dinero que te pagan pagas las producciones es el negocio de la tele no bueno ha cambiado si
+ref norm:         por ejemplo hay un negocio de television que es la televisa 0 tele azteca que es el negocio haces unas producciones las pones en tu canal concesionado el canal llega a muchas casas tienes mucha audiencia y luego consigues anunciantes que quieren esas audiencias y te pagan dinero y con el dinero que te pagan pagan las producciones es el negocio de la tele no bueno ha cambiado si
+
+ ------------------------------------------- 
+
+9.523809523809524
+line_id 5445534634
+transcript norm:  si ha cambiado por que porque las audiencias han cambiado sus patrones de uso oye pero ya no ven la tele no claro que la ven es que la ven diferente muy diferente ahora a la vez estas viendo el movil y estas viendo la tele y aca esta el ipad y hay cinco gentes en el cuarto y cada quien esta en lo suyo pero ahi esta la tele como una tia loca hablando sin parar no entonces la penetracion y el impacto de la television abierta
+ref norm:         si ha cambiado por que porque las audiencias han cambiado sus patrones de uso oye pero ya no ven la tele no es que la ven diferente muy diferente ahora la ves si estas viendo el movil y estas viendo la tele y aca esta el ipad y hay cinco gente en el cuarto y cada quien esta en lo suyo pero ahi esta la tele como una tia loca hablando sin parar no entonces la penetracion y el impacto de la television abierta
+
+ ------------------------------------------- 
+
+0.0
+line_id 5445582858
+transcript norm:  en mexico sigue siendo altisima altisima y por eso tambien los anunciantes siguen gastando dinero ahi ahora que paso se desarrollaron otros canales los canales digitales ah pero que crees los canales digitales requieren contenido no
+ref norm:         en mexico sigue siendo altisima altisima y por eso tambien los anunciantes siguen gastando dinero ahi ahora que paso se desarrollaron otros canales los canales digitales ah pero que crees los canales digitales requieren contenido no
+
+ ------------------------------------------- 
+
+8.333333333333332
+line_id 5445536663
+transcript norm:  yo hago lo que hago no pero lo que paso fue un poco inesperado porque la verdad este que no hay cosas que salen y no sabes por que pero por mucho tiempo yo lleve tenia un programa de redes sociales que me lo llevaba un equipo y parte de las reglas del juego era no contestar nunca entonces .
+ref norm:         yo hago lo que hago pero lo que paso fue un poco inesperado porque la verdad este que no no hay cosas que salen y no sabes por que pero por mucho tiempo yo lleve el programa de redes sociales y que me lo llevaba un equipo y parte de las reglas del juego era no contestar nunca entonces .
+
+ ------------------------------------------- 
+
+8.771929824561402
+line_id 5445573851
+transcript norm:  pero si te ves todo el contenido sigue siendo un contenido serio y donde se hace un relajo son con las respuestas y este entonces crecio este personaje que es el tio richie entonces luego me quede pensando bueno pero ya que lo tengo que voy a hacer con el y entonces yo siempre he pensado .
+ref norm:         pero si te ves todo el contenido si es un contenido en serio y donde se hace un relajo son con las respuestas no entonces crecio este personaje que es el tio richie entonces luego me quede pensando bueno pero ya que lo tengo que voy a hacer con el y entonces yo siempre he pensado .
+
+ ------------------------------------------- 
+
+2.127659574468085
+line_id 5445551596
+transcript norm:  soy activista y ya no voy a quejar y voy a actuar y puse mi escuela y hoy tenemos 800 ninos en la escuela y mas la universidad digo en 800 entre kinder primaria secundaria preparatoria ya son 800 y no hemos tenido mas porque no hay espacio
+ref norm:         soy activista y ya no voy a quejar y voy a actuar y puse mi escuela y hoy tenemos 800 ninos en la escuela y mas la universidad digo 800 entre kinder primaria secundaria preparatoria ya son 800 y no hemos tenido mas porque no hay espacio
+
+ ------------------------------------------- 
+
+12.280701754385964
+line_id 5445545597
+transcript norm:  fui a anos a nab de broadcasting luego fui a anos a lo de telecomunicaciones luego fui a unos de mineria 0 sea he ido a muchos eventos en todos los eventos conozco gente luego fui a davos estuve un rato ahi para que me aburri lo sangrones que son estos y rateros y luego me cambie a ted
+ref norm:         luego fui anos a nab de broadcasting luego fui anos a lo de telecomunicaciones luego fui a unos de mineria 0 sea he ido a muchos eventos en todos los eventos conoces gente luego fui a davos estuve un rato ahi porque me aburri los sangrones que son estos y rateros y luego me cambie a ted
+
+ ------------------------------------------- 
+
+8.333333333333332
+line_id 5445597185
+transcript norm:  y luego fui a singularity y luego estuve con el xprize es una forma de desarrollar relaciones platicar con otra gente ver otras visiones es muy interesante la verdad pero como todo despues vas evolucionando ah pues el ypo tambien no entonces creo que eso ha sido una forma de conseguir nuevo conocimiento y nuevas relaciones muy util y que me ha salido muy bien en la vida y lo recomiendo mucho
+ref norm:         y luego fui a singularity y luego estuve con el x prize es una forma de desarrollar relaciones y platicar con otra gente ver otras visiones es muy interesante la verdad pero como todo despues vas evolucionando y el ypo tambien entonces creo que eso ha sido una forma de conseguir nuevo conocimiento y nuevas relaciones muy util y que me ha salido muy bien en la vida y lo recomiendo mucho
+
+ ------------------------------------------- 
+
+21.27659574468085
+line_id 5445524884
+transcript norm:  entonces si la desigualdad cada quien tiene que ver su situacion y unos son buenos para esto mira yo tengo dos gemelos cristobal y mariano nacieron misma hora son cuates no son siameses pero son cuates no son gemelos son cuates nacieron el mismo dia
+ref norm:         entonces si la desigualdad cada quien tiene que ver este su situacion y unos son buenos para estos mira yo tengo dos gemelos cristobal y mariano nacieron a la misma hora son cuates no son siameses pero son cuates no no son cuates ha sido lo mismo
+
+ ------------------------------------------- 
+
+10.909090909090908
+line_id 2677624275
+transcript norm:  entonces los habitos generan situaciones y esas situaciones son unas para bien y otras para mal y otras diferentes no ni bien ni mal simplemente diferentes entonces como podemos pensar que todos somos iguales es una cosa mas y pensar que haya igualdad de oportunidades es ridiculo claro que no hay igualdad de oportunidades
+ref norm:         los habitos generan situaciones y esas situaciones son unas para bien y otras para mal y otras diferentes no bien ni mal simplemente diferentes entonces como podemos pensar que todos somos iguales pues una cosa mas y como vamos a pensar que haya igualdad de oportunidades es ridiculo claro que no hay igualdad de oportunidades
+
+ ------------------------------------------- 
+
+0.0
+line_id 2677684845
+transcript norm:  albania fue muy combativo como lo fue georgia son dos de las buenas noticias que hemos visto en esta eurocopa pero espana supo solventar a cada rival al que se enfrento ya hablare un poco mas adelante de lo que fue italia pero aqui me quiero concentrar en espana contra alemania
+ref norm:         albania fue muy combativo como lo fue georgia son dos de las buenas noticias que hemos visto en esta eurocopa pero espana supo solventar a cada rival al que se enfrento ya hablare un poco mas adelante de lo que fue italia pero aqui me quiero concentrar en espana contra alemania
+
+ ------------------------------------------- 
+
+6.779661016949152
+line_id 5113858196
+transcript norm:  siento lo mismo que al inicio de esta eurocopa aun cuando subestime a espana no pensaba que rindiera a tan buen nivel porque mas alla que rodri si es un jugador fuera de serie el resto son demasiado jovenes no esperaba una eurocopa del impacto que ha tenido fabian ruiz si se que jamal es muy bueno
+ref norm:         siento lo mismo que al inicio de esta eurocopa aun cuando subestime a espana no pensaba que rindiera a tan buen nivel porque mas alla que rodri si es un jugador fuera de serie el resto son demasiado jovenes no no esperaba a una eurocopa el impacto que ha tenido fabian ruiz si se que yamal es muy bueno
+
+ ------------------------------------------- 
+
+3.125
+line_id 2677658074
+transcript norm:  no lo veia a los 16 anos siendo una de las grandes figuras de esta eurocopa aunque tenia sospechas de que lo podia hacer no veia a nico williams tampoco en el plan superestrella ni veia a morata como no lo he visto a pesar de que la gente en general estaba fascinada con morata despues de que le metio bola a croacia
+ref norm:         no lo veia a los 16 anos siendo una de las grandes figuras de esta eurocopa aunque tenia sospechas de que lo podia hacer no veia a nico williams tampoco en el plan super estrella ni veia a morata como no lo he visto a pesar de que la gente en general estaba fascinada con morata despues de que le metio bola a croacia
+
+ ------------------------------------------- 
+
+6.557377049180328
+line_id 5113876549
+transcript norm:  sigue sin tener el punch en el area espana y se ha defendido bien se ha defendido bien contrario a lo que yo pensaba porque no me parece que lenormand y laporte sean defensas de garantia pero cucurella me ha sorprendido en el atal izquierdo yo esperaba ver a grimaldo y crei que era uno de los puntos fuertes
+ref norm:         sigue sin tener el punch en el area espana y se ha defendido bien se ha defendido bien contrario a lo que yo pensaba porque no me parece que el le normand y laporte sean defensas de garantia pero cucurella me ha sorprendido en el lateral izquierdo yo esperaba ver a grimaldo y crei que era uno de los puntos fuertes
+
+ ------------------------------------------- 
+
+1.9607843137254901
+line_id 2677648409
+transcript norm:  de los pocos puntos fuertes que yo realmente le veia a espana era el que no esta jugando no alejandro grimaldo porque cucurella lo ha hecho muy bien sorprendentemente insisto el carvajal no se puede uno extranar que este bien unai simon casi no ha tenido problemas pero vamos a ver .
+ref norm:         de los pocos puntos fuertes que yo realmente le veia a espana era el que no esta jugando no alejandro grimaldo porque cucurella lo ha hecho muy bien sorprendentemente insisto el carvajal no se puede uno extranar que este bien unai simon casi no ha tenido problemas pero vamos a ver
+
+ ------------------------------------------- 
+
+0.0
+line_id 2677650502
+transcript norm:  croacia dejo que desear claramente anticipabamos que iba a ser dificil que otra vez dos anos despues croacia que todavia logro meterse a la final de la nations league y perderla en penales contra espana iba a ser muy dificil que rindiera a un nivel altisimo no lo hizo italia ni hablar ya hablare de italia y bueno albania y georgia mis respetos
+ref norm:         croacia dejo que desear claramente anticipabamos que iba a ser dificil que otra vez dos anos despues croacia que todavia logro meterse a la final de la nations league y perderla en penales contra espana iba a ser muy dificil que rindiera a un nivel altisimo no lo hizo italia ni hablar ya hablare de italia y bueno albania y georgia mis respetos
+
+ ------------------------------------------- 
+
+1.3513513513513513
+line_id 2677629425
+transcript norm:  no es tan facil el segundo tiempo que acaba solventandolo con tranquilidad en contra de hungria y el tercer partido contra suiza es muy complicado hemos visto crecer a suiza en esta euro y bueno ya hablare de suiza tambien pero no toca hablar todavia de suiza pero ahi si puso a alemania contra las cuerdas alemania pudo ser segundo lugar de grupo si no hubiera sido por ese gol de fulcruz del empate
+ref norm:         no es tan facil el segundo tiempo que acaba solventandolo con tranquilidad en contra de hungria y el tercer partido contra suiza es muy complicado hemos visto crecer a suiza en esta euro y bueno ya hablare de suiza tambien pero no toca hablar todavia de suiza pero ahi si puso a alemania contra las cuerdas alemania pudo ser segundo lugar de grupo si no hubiera sido por ese gol de fullkrug del empate
+
+ ------------------------------------------- 
+
+1.8518518518518516
+line_id 2677652296
+transcript norm:  y un segundo lugar de grupo lo que son las cosas le hubiera beneficiado a alemania porque habria caido del otro lado del otro lado de la llave y se hubiera encontrado ante rivales y un camino mucho mas despejado a la final del que se va a encontrar a partir de ahora
+ref norm:         y un segundo lugar de grupo lo que son las cosas le hubiera beneficiado a alemania porque habria caido del otro lado no del otro lado de la llave y se hubiera encontrado ante rivales y un camino mucho mas despejado a la final del que se va a encontrar a partir de ahora
+
+ ------------------------------------------- 
+
+0.0
+line_id 5113824410
+transcript norm:  pero se tienen que enfrentar en un contexto en el que pues si la llave como he comentado en otra ocasion ultimamente esta de moda que haya un camino dificil un camino facil y espana siendo primer lugar de grupo y alemania siendo tambien primer lugar de grupo les toco el camino complicado
+ref norm:         pero se tienen que enfrentar en un contexto en el que pues si la llave como he comentado en otra ocasion ultimamente esta de moda que haya un camino dificil un camino facil y espana siendo primer lugar de grupo y alemania siendo tambien primer lugar de grupo les toco el camino complicado
+
+ ------------------------------------------- 
+
+3.0
+line_id 2677672307
+transcript norm:  cuando se supone que el camino complicado te tendria que tocar si eres segundo 0 tercer de grupo pero no ha ocurrido como no suele ocurrir en la champions league donde ahi si los sorteos suelen determinar 0 al menos en los dos ultimos anos han determinado contextos muy similares un camino en el que tu ves a los candidatos a llegar a la final y entre todos te cuesta trabajo vislumbrar a uno porque al otro lado todos los que creias que iban a llegar a la final resulta que solamente va a ser uno de ellos
+ref norm:         cuando se supone que el camino complicado te tendria que tocar si eres segundo 0 tercer de grupo pero no ha ocurrido como no suele ocurrir en la champions league donde ahi si los sorteos suelen determinar 0 al menos en los dos ultimos anos han determinado contextos muy similares no un camino en el que tu ves a los candidatos a llegar a la final y entre todos te cuesta trabajo vislumbrar a uno porque el otro lado todos los que creias que iban a llegar a la final pues resulta que solamente va a ser uno de ellos
+
+ ------------------------------------------- 
+
+0.0
+line_id 2677655181
+transcript norm:  y bueno en este caso ni siquiera a la semifinal podra llegar alemania ni tampoco espana vamos a ver empieza la eurocopa para ambos porque alemania no se ha puesto a prueba todavia a pesar de que suiza si que fue un buen sinodal y lo hizo ver mal
+ref norm:         y bueno en este caso ni siquiera a la semifinal podra llegar alemania ni tampoco espana vamos a ver empieza la eurocopa para ambos porque alemania no se ha puesto a prueba todavia a pesar de que suiza si que fue un buen sinodal y lo hizo ver mal
+
+ ------------------------------------------- 
+
+3.571428571428571
+line_id 2677675245
+transcript norm:  y de espana pues ni hablar espana es un equipo muy joven muy muy joven y yo creo que en este contexto aunque hasta ahora no se ha notado tiene que llegar el momento en el que espana ya no le alcance que el viento sople en su contra y que no tenga respuesta optima espontanea
+ref norm:         y de espana pues ni hablar no espana es un equipo muy joven muy muy joven y yo creo que en este contexto aunque hasta ahora no se ha notado tiene que llegar el momento en el que espana ya no le alcance que el viento sople en su contra y que no tenga respuesta optima
+
+ ------------------------------------------- 
+
+1.36986301369863
+line_id 2677692774
+transcript norm:  francia y portugal han sido decepcionantes cada quien a su nivel en cuanto a la seleccion francesa es algo a lo que ya estamos acostumbrados y le salen las cuentas a deschamps y por que va a cambiar yo creo que por otro camino tambien seria exitoso y podria ser mucho mas amable y menos arriesgado incluso no la paradoja de que ser tan conservador es un riesgo innecesario cuando tienes tanto talento no
+ref norm:         francia y portugal han sido decepcionantes cada quien a su nivel en cuanto a la seleccion francesa es algo a lo que ya estamos acostumbrados y le salen las cuentas a deschamps y por que va a cambiar yo creo que por otro camino tambien seria exitoso y podria ser mucho mas amable y menos arriesgado incluso la paradoja de que ser tan conservador es un riesgo innecesario cuando tienes tanto talento no
+
+ ------------------------------------------- 
+
+6.521739130434782
+line_id 2677689258
+transcript norm:  y te pasa lo que le ocurrio a francia en el partido en el que le empata a polonia con un error de upamecano penal y y pierde el primer lugar de grupo y bueno se tiene que enfrentar con belgica belgica que murio de nada .
+ref norm:         y te pasa lo que le ocurrio a francia en el partido en el que le empata a polonia con un error de upamecano el penal y pierde el primer lugar de grupo y bueno se tiene que enfrentar con belgica belgica que murio de nada
+
+ ------------------------------------------- 
+
+0.0
+line_id 2677698749
+transcript norm:  es decir hay gente que dice que mexico murio de nada en la copa america no la definicion de morir de nada la tiene patentada la belgica de domenico tedesco no hizo nada en los 360 minutos
+ref norm:         es decir hay gente que dice que mexico murio de nada en la copa america no la definicion de morir de nada la tiene patentada la belgica de domenico tedesco no hizo nada en los 360 minutos
+
+ ------------------------------------------- 
+
+7.936507936507936
+line_id 5113865783
+transcript norm:  se limito a comparecer a preparar un contraataque que nunca pudo desarrollar 0 sea el contexto de contraataque ahi estaba pero nunca contraataco realmente a una francia muy bien defensivamente impecable lo de kounde lo de teo hernandez en los costados lo de salivar sobre todo en defensa incluso lo de upamecano que como he dicho es un muy buen defensa
+ref norm:         se limito a comparecer a preparar un contraataque que nunca pudo desarrollar 0 sea no el contexto de contraataque ahi estaba pero nunca contraataco realmente a una francia muy bien defensivamente no impecable lo de kounde lo de theo hernandez en los costados lo de saliba sobre todo en defensa incluso lo de upamecano que como he dicho es un muy buena defensa
+
+ ------------------------------------------- 
+
+27.659574468085108
+line_id 5113813501
+transcript norm:  el problema es que muchas veces aunque sean poquitas veces poquitas veces corrijo se esmera en aparentarlo pero esas poquitas veces cuando eres defensa central pues si es en los momentos cruciales se nota mucho no
+ref norm:         el problema es que muchas veces aunque sean poquitas veces poquitas veces corrijo se esmera en aparentarlo pero esas poquitas veces que hubieras defensa central pues si es en los momentos cruciales se nota mucho no pero bueno contra polonia pago perdio el primer lugar de grupo
+
+ ------------------------------------------- 
+
+3.278688524590164
+line_id 2677638541
+transcript norm:  pero esperemos por el bien de francia aquellos que quieran 0 les interese el bien de francia que upamecano ya haya cometido su ultimo grave error en la euro porque realmente hizo un buen partido como el resto del aparato defensivo en contra de una belgica horrorosa una belgica terrible una belgica que sabiamos que en defensa tenia lagunas muy importantes pero
+ref norm:         pero esperemos por el bien de francia aquellos que quieran 0 les interesa el bien de francia que upamecano ya haya cometido su ultimo grave error en la euro porque realmente hizo un buen partido como el resto del aparato defensivo en contra de una belgica horrorosa una belgica terrible una belgica que sabiamos que en defensa tenia lagunas muy importantes
+
+ ------------------------------------------- 
+
+0.0
+line_id 5113876377
+transcript norm:  metieron a openda en el ultimo partido toco como 10 pelotas nada mas bakayoko si que jugo el primer partido lo jugo mal y no volvimos a verlo en fin no me voy a perder demasiado en belgica estoy perdiendo el tiempo en una seleccion que no merece ni siquiera desengranar el desastre que fue
+ref norm:         metieron a openda en el ultimo partido toco como 10 pelotas nada mas bakayoko si que jugo el primer partido lo jugo mal y no volvimos a verlo en fin no me voy a perder demasiado en belgica estoy perdiendo el tiempo en una seleccion que no merece ni siquiera desengranar el desastre que fue
+
+ ------------------------------------------- 
+
+6.153846153846154
+line_id 2677649643
+transcript norm:  fue horrible en un grupo tan sencillo era para sacar el primer lugar de grupo y ni siquiera lo busco y luego se sorprendio de que le abuchearan todavia el cinico de su entrenador el estaba muy contento de haber logrado la clasificacion en un grupo tan descaradamente sencillo quedo en segundo lugar y se tuvo que encontrar contra francia pero bueno eso ya es historia
+ref norm:         fue horrible en un grupo tan sencillo era para sacar el primer lugar de grupo y ni siquiera lo busco y no se sorprendio de que le aguchearan todavia el cinico de su entrenador el estaba muy contento de haber logrado la clasificacion en un grupo tan descaradamente sencillo que en segundo lugar se tuvo que encontrar contra francia pero bueno eso ya es historia
+
+ ------------------------------------------- 
+
+5.172413793103448
+line_id 5113875552
+transcript norm:  habia realmente algo de nuestro origen que ella como que exaltaba todo el tiempo desde la comida el dia de muertos la navidad pero la navidad mexicana de las posadas ella hacia las nueve posadas 0 sea como que yo creci en un entorno que realmente celebraba demasiado todo lo que el ser mexicano conlleva
+ref norm:         habia realmente algo de nuestro origen que ella como que exaltaba todo el tiempo desde la comida el dia de muertos la navidad pero la navidad mexicana no de las posadas ella hacia las nueve posadas 0 sea como que yo creci en un entorno que realmente celebraba demasiado todo lo que lo que el ser mexicano conlleva
+
+ ------------------------------------------- 
+
+3.6363636363636362
+line_id 5113861593
+transcript norm:  pero especialmente lo que el ser de tlaxcala 0 en este caso bueno pues yo naci en huamantla significaba y que las tradiciones que teniamos eran unicas y que entonces entre mas creci entre mas conoci el mundo pues mucho mas orgullo me daba saber de donde venia y lo que teniamos nosotros
+ref norm:         pero especialmente lo que el ser de tlaxcala 0 en este caso bueno pues yo naci en huamantla significaba y que las tradiciones que teniamos eran unicas y que entonces entre mas creci y entre mas conoci el mundo pues mucho mas orgullo me daba a saber de donde venia y lo que teniamos nosotros
+
+ ------------------------------------------- 
+
+2.7027027027027026
+line_id 5113893856
+transcript norm:  entonces cuando yo hice un disco homenaje a mexico quise que se agregara el sonido del salterio con el maestro que ya tenia noventa y tantos anos en aquella epoca y su nieto vinieron a grabar conmigo
+ref norm:         entonces cuando yo hice un disco homenaje a mexico quise que se agregara el sonido del salterio con el maestro que ya tenia noventa y tantos anos en aquella epoca y su nieto vino a grabar conmigo
+
+ ------------------------------------------- 
+
+6.25
+line_id 5113891210
+transcript norm:  y entonces cada vez que he podido por ejemplo oia a su nieto que es maestro de salterios y constructor de salterios tambien bueno seria artesano mas bien lo empece a invitar a videoclips a grabaciones cuando cante en el teatro de la ciudad vino a tocar conmigo etcetera
+ref norm:         y entonces cada vez que he podido por ejemplo hoy ya su nieto que es maestro de salterios y constructor de salterios tambien bueno seria artesano mas bien lo empece a invitar a videoclips a grabaciones cuando cante en el teatro de la ciudad vino a tocar conmigo
+
+ ------------------------------------------- 
+
+0.0
+line_id 5113835210
+transcript norm:  y entonces bueno pues yo iba alli a como a hacer acolito pero pues ayudamos en todo mi hermano y yo en todo lo que se pudiera
+ref norm:         y entonces bueno pues yo iba alli a como a hacer acolito pero pues ayudamos en todo mi hermano y yo en todo lo que se pudiera
+
+ ------------------------------------------- 
+
+6.578947368421052
+line_id 5113831280
+transcript norm:  y entonces recuerdo que en algun momento habia como una cajita de cosas que iban a tirar que tenian que ver pues habia cosas antiguas habia pequenos candelabros habia coronas de virgenes que pues ya las iban a tirar porque ya se les habian caido los brillantitos 0 la cruz 0 lo que sea y me acuerdo que yo les dije que si le iban a tirar que por que no mejor me la quedaba yo dijeron no
+ref norm:         y entonces recuerdo que en algun momento habia como una cajita de cosas que iban a tirar que tenian que ver habia cosas antiguas habia pequenos candelabros habia coronas de virgenes que pues ya las iban a tirar porque ya se les habian caido los brillantitos 0 la cruz 0 lo que sea y me acuerdo que yo les dije que si le iban a tirar que porque no mejor me la quedaba yo dijen .
+
+ ------------------------------------------- 
+
+6.451612903225806
+line_id 5113826951
+transcript norm:  de ahi empece a coleccionar coronas de virgenes que hoy tengo bastantes de diferentes epocas que he hecho por eso como el logo es una corona pero es por eso
+ref norm:         de ahi empece a coleccionar coronas de virgenes que hoy tengo bastantes de diferentes epocas que he hecho por eso la como la logo es una corona pero es por eso
+
+ ------------------------------------------- 
+
+4.411764705882353
+line_id 5113866072
+transcript norm:  y entonces ya digamos un poco mas grande mi abuela antes de morir me heredo algunas piezas y tengo un nino dios que debe ser del siglo xviii que es muy especial porque tiene los brazos cruzados y entonces ahi en su pueblo hace mucho frio entonces siempre decia la gente que seguramente era porque tenia frio entonces esa es una de las piezas especiales que tengo
+ref norm:         y entonces ya digamos un poco mas grande mi abuela antes de morir pues me heredo algunas piezas y tengo un nino dios que debe ser del siglo 18 que es muy especial porque tiene los brazos cruzados y entonces ahi en su pueblo hace mucho frio entonces siempre decia la gente que seguramente era porque tenia frio entonces ese es una de las piezas especiales que tengo
+
+ ------------------------------------------- 
+
+3.9215686274509802
+line_id 5113843745
+transcript norm:  alejandro pires alejandro es un artista que yo descubri cuando iba en la preparatoria recien acaba de empezar y el tenia un tema en una telenovela justamente de tevasteca que se llamaba lo que es el amor y la cancion a mi me encantaba y yo apenas buscaba como oportunidades donde cantar
+ref norm:         alexandre pires es un artista que yo descubri cuando iba en la preparatoria recien acaba de empezar y el tenia un tema en una telenovela justamente de tevasteca que se llamaba lo que es el amor y la cancion a mi me encantaba y yo apenas buscaba como oportunidades donde cantar
+
+ ------------------------------------------- 
+
+7.142857142857142
+line_id 5113862898
+transcript norm:  y resulta que en el colegio de bachilleros donde yo estaba anuncian el concurso de canto de la escuela que si ganabas el del plantel te llevarian despues al interbachilleros que es el estatal y pues yo ahi vi mi gran oportunidad no
+ref norm:         y resulta que en el colegio de bachilleres donde yo estaba anuncian el concurso de canto de la escuela que si ganabas el del plantel te llevarian despues al interbachilleres que es el estatal y pues yo ahi vi mi gran oportunidad
+
+ ------------------------------------------- 
+
+3.8461538461538463
+line_id 5113833386
+transcript norm:  despues el se volvio solista e hizo este disco en espanol que fue un exito tremendo y esta cancion yo digo que es mi cancion de la suerte porque cante esa cancion en ese primer concurso gane el primer lugar me fui a la estatal no la quise cambiar gane el primer lugar
+ref norm:         despues el se volvio solista e hizo este disco en espanol que fue un exito tremendo y esta cancion yo digo que es mi cancion de la suerte porque cante esa cancion en ese primer concurso gane el primer lugar me fui al estatal no la quise cambiar gane el primer lugar
+
+ ------------------------------------------- 
+
+12.82051282051282
+line_id 5113821466
+transcript norm:  y de ahi cada concurso que yo tenia la cantaba 0 sea como bueno pues esto la aseguran y para que le muevo entonces la ganaba en uno en puebla otro mas alla en algun concurso de una feria eh
+ref norm:         y de ahi cada concurso que yo tenia la cantaba 0 sea como bueno pues esto la asegura ni pa que le muevo entonces el ganaba en uno en puebla otro mas alla en algun concurso de una feria
+
+ ------------------------------------------- 
+
+10.526315789473683
+line_id 5113877679
+transcript norm:  se esa si no te se decir 0 sea esta si es algo que no te podria decir ni que fue mi mama 0 mi papa 0 mi abuela 0 siento que eso por alguna razon eh .
+ref norm:         no se es asi no te se decir 0 sea esta si es algo que no te podria decir ni que fue mi mama 0 mi papa 0 mi abuela 0 siento que eso por alguna razon .
+
+ ------------------------------------------- 
+
+4.166666666666666
+line_id 5113833715
+transcript norm:  le he hecho caso mucho a mi intuicion siempre 0 sea como que siempre he sentido y he escuchado una voz interna que me dice tu dale 0 sea tu sigue y me acuerdo que sali feliz 0 sea fui feliz porque llegue a los 40 mejores de miles
+ref norm:         le echo caso mucho a mi intuicion siempre 0 sea como que siempre he sentido y he escuchado una voz interna que me dice tu dale 0 sea tu sigue y me acuerdo que sali feliz 0 sea fui feliz porque llegue a los 40 mejores de miles
+
+ ------------------------------------------- 
+
+21.951219512195124
+line_id 5113865119
+transcript norm:  entonces me acuerdo que les dije saben que ya me no me voy a quedar llame a mi papa no me quiero quedar este yo quiero hacer otra cosa y entonces pues de alguna manera hoy
+ref norm:         y entonces me acuerdo que les dije saben que ya no me voy a quedar llame a mi papa le voy a decir no me quiero quedar yo quiero hacer otra cosa no y entonces pues de alguna manera hoy .
+
+ ------------------------------------------- 
+
+3.508771929824561
+line_id 5113838838
+transcript norm:  por lo que veo que mi musica a veces provoca en las personas 0 porque las historias me llegan ahora mas que nunca por las redes sociales que te puede llegar alguien y te cuente esto hizo por mi tu musica quiero pensar que realmente si estoy haciendo lo que dios me mando a hacer
+ref norm:         por lo que veo que mi musica a veces provoca en las personas 0 porque las historias me llegan ahora mas que nunca por las redes sociales que te puede llegar alguien y te cuente esto hizo por mi tu musica quiero pensar que realmente si estoy haciendo pues lo que dios me mando a hacer no
+
+ ------------------------------------------- 
+
+7.5
+line_id 5113875968
+transcript norm:  pasaron porque esa academia que era la tercera nunca empezo por alguna razon se fue posponiendo y yo solo esperaba que empezara para verla para ver a los que participaron cuando yo fui a la misma audicion
+ref norm:         meses pasaron porque esa academia que era la tercera nunca empezo 0 sea por alguna razon se fue posponiendo y yo solo esperaba que empezara para verla para ver a los que participaron cuando yo fui a la misma audicion
+
+ ------------------------------------------- 
+
+13.333333333333334
+line_id 5113870324
+transcript norm:  y la realidad es que hasta diciembre yo te estaba hablando que fue en mayo esa audicion y hasta diciembre empezaron a anunciar que venia a la academia y me dije que mala onda que yo ya voy a cumplir 18 anos y y hasta apenas va a empezar .
+ref norm:         y la realidad es que hasta diciembre yo te estaba hablando que fue en mayo esa audicion y hasta diciembre empezaron a anunciar que venia la academia y dije que mala onda que yo iba a cumplir 18 anos y hasta apenas va a empezar
+
+ ------------------------------------------- 
+
+9.803921568627452
+line_id 5113875489
+transcript norm:  pues si lo hubieran hecho ahora si hubieran hecho esos castings ahora tal vez yo ahi hubiera entrado no al final yo no se si tenga que ver a ver con el poder de la atraccion yo no se si bueno yo creo que porque creo en dios estoy seguro que fue dios pero
+ref norm:         y pues si lo hubieran hecho ahora si hubieran hecho esos castings ahora tal vez yo ahi hubiera entrado al final yo no se si tenga que ver con el poder de la atraccion yo no se si bueno yo creo que porque creo en dios estoy seguro que fue dios
+
+ ------------------------------------------- 
+
+4.0
+line_id 5113849739
+transcript norm:  pero no se que paso resulta que te estoy hablando de diciembre enero febrero en febrero anuncian audiciones para la tercera generacion de la academia
+ref norm:         pero no se que paso resulta que te esta hablando de diciembre enero febrero en febrero anuncian audiciones para la tercera generacion de la academia
+
+ ------------------------------------------- 
+
+2.0408163265306123
+line_id 5113860018
+transcript norm:  y dije como que audiciones yo fui a esas audiciones yo llegue a la final ya hay finalistas ya tienen elegidos a quienes van a quedarse parece ser porque despues lo pregunte que muchas veces las audiciones sirven tambien de una manera de promocion de marketing de hoy
+ref norm:         y yo dije como que audiciones yo fui a esas audiciones yo llegue a la final ya hay finalistas ya tienen elegidos a quienes van a quedarse parece ser porque despues lo pregunte que muchas veces las audiciones sirven tambien de una manera de promocion de marketing de hoy
+
+ ------------------------------------------- 
+
+11.11111111111111
+line_id 5113868590
+transcript norm:  pues si ya las hicimos si ya tenemos algunos pero necesitamos volver a calentar de que ya viene la academia de vuelta entonces hicieron solo cuatro castings mas la vez anterior se habian sido como diez castings
+ref norm:         pues si ya las hicimos si ya tenemos algunos pero necesitamos volver a calentar de que ya viene la academia de vuelta entonces hicieron solo cuatro casting mas la vez anterior se habia decido como diez
+
+ ------------------------------------------- 
+
+0.0
+line_id 5113887709
+transcript norm:  es mas me acuerdo del pequeno salon donde pasabamos que vibraban las ventanas cuando yo como yo te ame por poco mucho tiempo que me quede por vivir y entonces solo tengo el recuerdo de que me quitan el sticker mi hoja la pasan a una pila de hojas mas y me dicen gracias
+ref norm:         es mas me acuerdo del pequeno salon donde pasabamos que vibraban las ventanas cuando yo como yo te ame por poco mucho tiempo que me quede por vivir y entonces solo tengo el recuerdo de que me quitan el sticker mi hoja la pasan a una pila de hojas mas y me dicen gracias
+
+ ------------------------------------------- 
+
+2.631578947368421
+line_id 5113851220
+transcript norm:  y habia nos pasaban de 10 en 10 y entonces los que seguian despues de mi se voltaron a ver y dijeron no paso y yo sali y mi papa me estaba esperando porque pues literal pase y sali
+ref norm:         y habia nos pasaban de 10 en 10 y entonces los que seguian despues de mi se voltaron a ver y dijeron no paso y yo sali y mi papa me estaba esperando porque literal pase y sali
+
+ ------------------------------------------- 
+
+3.4482758620689653
+line_id 5445552057
+transcript norm:  uy claro por supuesto ese tema de la programacion neurolinguistica es super importante mucha gente lo ha estudiado y ensenado y comentado desde nuestro cuate tony robbins para aca
+ref norm:         muy claro por supuesto ese tema de la programacion neurolinguistica es super importante mucha gente lo ha estudiado y ensenado y comentado desde nuestro cuate tony robbins para aca
+
+ ------------------------------------------- 
+
+6.122448979591836
+line_id 5445576664
+transcript norm:  pero antes de tony robbins fue lou tice que tambien fue asesor nuestro mucho tiempo y que importante es tangibilizar la meta 0 el deseo 0 lo que quieras tangibilizarlo definirlo bien y luego decirlo y escribirlo no nomas lo tengo en la cabeza no no no lo escribes
+ref norm:         pero antes de tony robbins fue lou tice que tambien fue asesor nuestro mucho tiempo y que importante es tangibilizar la meta el deseo 0 lo que quieras tangibilizarlo definirlo bien y luego decirlo y escribirlo no no mas lo tengo en la cabeza no no no lo escribes
+
+ ------------------------------------------- 
+
+2.2222222222222223
+line_id 5445510250
+transcript norm:  0 sea tu dices que la reputacion era asi que ahora cambio mira en el que diran hay que tener mucho cuidado porque la gente le encanta chismear y hablar y opinar pero nadie sabe lo que realmente pasa mas que los que estan aqui no
+ref norm:         0 sea tu dices que la reputacion era asi que ahora cambio mira en el que diran hay que tener mucho cuidado porque la gente le encanta chismear y hablar y opinar pero nadie sabe lo que realmente pasa mas que los que estan aqui
+
+ ------------------------------------------- 
+
+9.523809523809524
+line_id 5445545293
+transcript norm:  yo no te diria que no tenemos un cambio fundamental yo siempre he sido super exigente empezando conmigo mismo super exigente eh .
+ref norm:         yo no te diria que no tenemos un cambio fundamental yo siempre he sido super exigente empezando conmigo mismo super exigente
+
+ ------------------------------------------- 
+
+9.523809523809524
+line_id 5445563077
+transcript norm:  pues es que es muy importante fijate que cuando tu hablas con la gente siempre te dicen no pues yo quiero priorizar yo cual es mi futuro cual es mi plan de carrera en primer lugar yo no soy quien para hacer el plan de carrera de nadie cada quien tiene que pensar en su futuro y en su carrera
+ref norm:         pues es que es muy importante fijate que cuando tu hablas con la gente siempre te dicen no pues que yo quiero progresar cual es mi futuro cual es mi plan de carrera y digo mia en primer lugar yo no soy quien para hacer el plan de carrera de nadie cada quien tiene que pensar en su futuro y en su carrera
+
+ ------------------------------------------- 
+
+20.0
+line_id 5445582333
+transcript norm:  pero si piensas que yo te voy a dar una promocion cuando no hay nadie atras de ti para tomar tu asiento estas loco 0 sea es el primer requisito tu no puedes buscar oye fijate que ya me voy dejo aqui tirado el changarro .
+ref norm:         pero si piensas que yo te voy a dar una promocion cuando no hay nadie atras de ti para tomar tu asiento estas loco es la primer requisito guey oye fijate que ya me voy dejo aqui tirado el changarro
+
+ ------------------------------------------- 
+
+4.545454545454546
+line_id 5445554757
+transcript norm:  entonces esa es una accion de ultimo recurso y parte del tema de jalmolonga es que estemos todos en sintonia sobre que esta pasando en el mundo en el pais en nuestras empresas y desarrollar relaciones de confianza entre los que ahi asisten
+ref norm:         entonces esa es una accion de ultimo recurso no y parte del tema de halmolonga es que estemos todos en sintonia sobre que esta pasando en el mundo en el pais en nuestras empresas y desarrollar relaciones de confianza entre los que ahi asisten
+
+ ------------------------------------------- 
+
+4.878048780487805
+line_id 5445587718
+transcript norm:  porque la mitad del programa digamos de 10 a 3 son sesiones y ponencias y preguntas y respuestas y luego la otra mitad es una comida y jugamos golf y jugamos domino y jugamos poker y luego tenemos un evento artistico
+ref norm:         porque la mitad del programa digamos de 10 a 3 son sesiones y ponencias y preguntas y respuestas y luego la otra mitad es una comida y jugamos golf y jugamos domino y jugamos pocar y lo tenemos un evento artistico
+
+ ------------------------------------------- 
+
+7.142857142857142
+line_id 5445544563
+transcript norm:  entonces en el grupo las personas que son pausadonas letargicas baja energia ya estan en la puerta de salida tienes que llegar con un montonal de energia
+ref norm:         entonces en el grupo las personas que son pausadonas letargicas baja energia ya estan en la puerta de salida tienes que llegar con un monton al de energia
+
+ ------------------------------------------- 
+
+13.953488372093023
+line_id 5445520233
+transcript norm:  y sobre todo la gente que trata conmigo pues ya me conoce ya sabe como soy 0 sea no me pueden venir con pendejadas no porque me pasa malestar mucho cuando me quitan mi tiempo en estupideces que ellos debian haber resuelto no
+ref norm:         y sobre todo la gente que trata conmigo pues ya me conoce y ya sabe como soy 0 sea no me pueden venir con pendejadas porque me pasa a malestar mucho cuando me quita mi tiempo en estupideces que ellos deberian haber resuelto
+
+ ------------------------------------------- 
+
+3.0303030303030303
+line_id 5445523767
+transcript norm:  no lo que pasa es que mira son varias cosas obviamente rodearte de yes men que no aportan que no cuestionan que actuan con miedo pues eso no es conveniente en ninguna circunstancia no
+ref norm:         no lo que pasa es que mira son varias cosas obviamente rodearte de yes men que no aportan que no cuestionan que actuan con miedo eso no es conveniente en ninguna circunstancia no
+
+ ------------------------------------------- 
+
+2.857142857142857
+line_id 5445557740
+transcript norm:  pero lo que pasa es que la definicion de que se va a hacer que vamos a hacer y por que es algo que corresponde a la maxima autoridad de la empresa soy yo
+ref norm:         pero lo que pasa es que la definicion de que se va a hacer que que vamos a hacer y por que es algo que corresponde a la maxima autoridad de la empresa soy yo
+
+ ------------------------------------------- 
+
+2.127659574468085
+line_id 5445556392
+transcript norm:  bueno obviamente que si las personas son las que hacen la cultura si cambian las personas cambia la cultura pero por eso yo soy tan insistente en las ideas y siempre he dicho que las ideas cuentan mucho mucho mas de lo que la gente cree
+ref norm:         bueno obviamente que si las personas son las que hacen la cultura si cambian las personas pues cambia la cultura pero por eso yo soy tan insistente en las ideas y siempre he dicho que las ideas cuentan mucho mucho mas de lo que la gente cree
+
+ ------------------------------------------- 
+
+2.380952380952381
+line_id 5445581287
+transcript norm:  y una buena idea te puede llevar muy lejos y una mala idea te puede derrumbar y descarglar para siempre en tu vida entonces cuando hablo de ideas tambien por supuesto hablo de valores que es lo importante que es lo importante
+ref norm:         y una buena idea te puede llevar muy lejos y una mala idea te puede derrumbar y descarrilar para siempre en tu vida entonces cuando hablo de ideas tambien por supuesto hablo de valores que es lo importante que es lo importante
+
+ ------------------------------------------- 
+
+11.320754716981133
+line_id 5445551991
+transcript norm:  y entonces esa parte de la cultura es la que si se transmite muy bien a los hijos 0 al menos he tenido exito en eso porque mis tres hijos grandes tanto ninfau y benjamin pues la viven y la respiran los valores con los que comulgamos por ejemplo
+ref norm:         y entonces esa parte de la cultura es la que si se transmite muy bien a los hijos 0 al menos ya he tenido exito en eso no porque mis tres hijos grandes tanto ninfau 0 jamin pues la viven y la respiran no es los valores con los que comulgamos por ejemplo
+
+ ------------------------------------------- 
+
+4.166666666666666
+line_id 5445585406
+transcript norm:  no me gusta robar ni que me roben esta muy claro no que le hacemos a eso podemos cambiar eso seria una mala idea no robar y que no me roben por ejemplo oye el respeto a la vida al proyecto de vida del projimo como dice mi ley no
+ref norm:         no me gusta robar ni que me roben esta muy claro que le hacemos a eso podemos cambiar eso seria una mala idea no robar y que no me roben por ejemplo oye el respeto a la vida al proyecto de vida del projimo como dice mi ley
+
+ ------------------------------------------- 
+
+4.878048780487805
+line_id 5445556980
+transcript norm:  entonces la innovacion no tiene que ser inventar google 0 inventar facebook es nada mas hacer las cosas mejor que ayer y esa pequena mejora continua en tus procesos de diario se vuelve un efecto tremendo con los anos
+ref norm:         entonces la innovacion no tiene que ser inventar el google 0 inventar este facebook es nada mas hacer las cosas mejor que ayer y esa pequena mejora continua en tus procesos de diario se vuelve un efecto tremendo con los anos
+
+ ------------------------------------------- 
+
+0.0
+line_id 5445563671
+transcript norm:  te vuelves una maquina de creacion de valor entonces esa es la primera meditacion con respecto a la innovacion ahora la otra meditacion es se vale copiar
+ref norm:         te vuelves una maquina de creacion de valor entonces esa es la primera meditacion con respecto a la innovacion ahora la otra meditacion es se vale copiar
+
+ ------------------------------------------- 
+
+15.909090909090908
+line_id 5445569469
+transcript norm:  mira no creo que tenga que ver con los negocios yo creo que lo de branson esta muy exagerado lo conozco bien y hemos platicado muchas veces el es un marquetero puro no es un operador de negocios
+ref norm:         mira no creo que tenga que ver con los negocios yo creo que lo de branson esta muy exagerado lo conozco bien y hemos platicado muchas veces y el es un es un marketero puro no es un no es un operador de negocios
+
+ ------------------------------------------- 
+
+8.333333333333332
+line_id 5445543117
+transcript norm:  yo si yo soy fundador y operador y creador digamos de los negocios entonces en ese sentido yo no necesito una persona publica
+ref norm:         yo si yo soy fungador y operador si y creador digamos de los negocios entonces en ese sentido yo no necesito una persona publica
+
+ ------------------------------------------- 
+
+30.18867924528302
+line_id 5445583258
+transcript norm:  palo de perico todo cagado ahi en la red y me dije hasta que un dia dije no pues ya voy a cerrar mi red porque ya me aburri de ver tanto odio y entonces coincidio con que conoci a una persona y me dijo no lo que hay que hacer es contestar y hacer un engagement
+ref norm:         el palo emperico no todo cagado ahi en la red este ines hasta que un dia dije no pues ya voy a cerrar mis redes ya me aburri de ver tanto odio no y entonces coincidio con que conocia una persona que me dijo no lo que es contestar y hacer un engagement
+
+ ------------------------------------------- 
+
+25.0
+line_id 5445550044
+transcript norm:  no voy a poder pero entonces empezamos a trabajar juntos y agarro vida propia la cosa esta no a base de las contestaciones
+ref norm:         pero entonces empezamos a trabajar juntos y entonces agarro vida propia la cosa esta no a base de las contestaciones
+
+ ------------------------------------------- 
+
+13.88888888888889
+line_id 5445536963
+transcript norm:  porque el liderazgo importa importa mucho y no nada mas para las empresas sino para el pais tambien y tengo ahi mi frase estrella estamos como estamos porque somos como somos todo mundo especializa en .
+ref norm:         que el liderazgo importa e importa mucho y no nada mas para las empresas sino para el pais tambien y tengo ahi mi frase estrella estamos como estamos porque somos como somos todo el mundo especializa
+
+ ------------------------------------------- 
+
+25.0
+line_id 5445515968
+transcript norm:  rateros corruptos mentirosos feos no
+ref norm:         rateros corruptos mentirosos feos
+
+ ------------------------------------------- 
+
+2.3255813953488373
+line_id 5445514859
+transcript norm:  pero entonces quien es el vivo que se va a apuntar para cambiar las cosas politicas en mexico ah no ahi ya tomo se cae a la boca entonces yo si creo que es necesario y en eso estamos trabajando en la batalla cultural
+ref norm:         pero entonces quien es el vivo que se va a apuntar para cambiar las cosas politicas en mexico ah no ahi ya tomo se cae la boca entonces yo si creo que es necesario y en eso estamos trabajando en la batalla cultural
+
+ ------------------------------------------- 
+
+0.0
+line_id 5445548323
+transcript norm:  las cosas van a cambiar cuando las personas cambien su forma de pensar regresamos a la neurolinguistica si tu piensas diferente hablas diferente escribes diferente tu ya cambiaste y cuando tu cambias cambian las cosas a tu alrededor y a eso le estoy apostando yo al cambio cultural
+ref norm:         las cosas van a cambiar cuando las personas cambien su forma de pensar regresamos a la neurolinguistica si tu piensas diferente hablas diferente escribes diferente tu ya cambiaste y cuando tu cambias cambian las cosas a tu alrededor y a eso le estoy apostando yo al cambio cultural
+
+ ------------------------------------------- 
+
+3.125
+line_id 5445549763
+transcript norm:  es lo que pasa en una carcel no entonces creo que es muy malo para el espiritu humano ese tipo de educacion y ken robinson nos abrio los ojos a eso
+ref norm:         pues es lo que pasa en una carcel no entonces creo que es muy malo para el espiritu humano ese tipo de educacion y ken robinson nos abrio los ojos a eso
+
+ ------------------------------------------- 
+
+20.0
+line_id 5445526317
+transcript norm:  y cuando nacio ricardo mi hijo ahorita tiene 20 anos va a cumplir 21 pues lo metimos a un kinder montessori que se fue muy bien y luego empezamos a ver a donde lo mandamos a primaria no entonces vi las opciones y dije puto ala
+ref norm:         y cuando nacio ricardo mi hijo hace ahorita tiene 20 anos a cumplir 21 pues lo metimos a un kinder montessori que fue muy bien y luego empezamos a ver a donde lo mandamos a primaria entonces vi las opciones
+
+ ------------------------------------------- 
+
+3.571428571428571
+line_id 5445574880
+transcript norm:  mismo papas misma educacion misma casa mismo todo son completamente diferentes a uno le gusta la accion esta en los deportes es super gregario no lee ni madre
+ref norm:         mismo papa misma educacion misma casa mismo todo son completamente diferentes a uno le gusta la accion esta en los deportes es super gregario no lee ni madre
+
+ ------------------------------------------- 
+
+5.263157894736842
+line_id 5445594474
+transcript norm:  el otro es lecturoso analitico pensador abstracto mas solitario obviamente el caracter de las personas genera ciertos habitos
+ref norm:         el otro es lecturoso analitico pensador abstracto mas solitario obviamente el caracter de las personas entonces genera ciertos habitos
+
+ ------------------------------------------- 
+
+6.521739130434782
+line_id 2677644824
+transcript norm:  pero son selecciones que no deberian hacerle dano a espana y no le hicieron dano a espana entonces realmente la actuacion de espana empieza ahora en contra de alemania y la de alemania es exactamente lo mismo exactamente lo mismo contra escocia fue un espejismo
+ref norm:         pero son selecciones que que no deberian hacerle dano a espana y no le hicieron dano a espana entonces realmente la actuacion de espana empieza ahora en contra de alemania no y la alemania es exactamente lo mismo exactamente lo mismo contra escocia fue un espejismo
+
+ ------------------------------------------- 
+
+7.6923076923076925
+line_id 2677612980
+transcript norm:  la unica goleada de esta euro me estoy perdiendo de otra digamos que rumania le gana 3 0 a ucrania y tambien fue una sorprendente goleada pero de este nivel pues si nada mas el partido inaugural en el que escocia no comparece pierde un hombre muy pronto y para alemania es muy facil ganar
+ref norm:         la unica goleada de esta euro me estoy perdiendo de otra digamos que rumania le gano a ucrania y tambien fue una sorprendente goleada pero de este nivel pues si nada mas el partido inaugural en el que escocia no comparece pierde un hombre muy pronto y para alemania es muy facil
+
+ ------------------------------------------- 
+
+0.0
+line_id 2677685231
+transcript norm:  es verdad que en octavos de final tampoco se encontro a una amenaza como no lo fue dinamarca pero si que alemania de haber perdido ese partido y haber quedado en segundo lugar porque iba perdiendo contra suiza pues no se habria enfrentado tan pronto a espana
+ref norm:         es verdad que en octavos de final tampoco se encontro a una amenaza como no lo fue dinamarca pero si que alemania de haber perdido ese partido y haber quedado en segundo lugar porque iba perdiendo contra suiza pues no se habria enfrentado tan pronto a espana
+
+ ------------------------------------------- 
+
+1.8518518518518516
+line_id 2677638055
+transcript norm:  si iba a enfrentarse a espana iba a ser hasta la final y hubiera eludido tambien en semifinales hipoteticamente a portugal y a francia y a basicamente todos los candidatos que habia desde el principio a ser campeones a todos menos a inglaterra que ha sido un desastre como ya hablare mas adelante
+ref norm:         no si iba a enfrentarse a espana iba a ser hasta la final y hubiera eludido tambien en semifinales hipoteticamente a portugal y a francia y a basicamente todos los candidatos que habia desde el principio a ser campeones a todos menos a inglaterra que ha sido un desastre como ya hablare mas adelante
+
+ ------------------------------------------- 
+
+2.272727272727273
+line_id 2677688943
+transcript norm:  pero no puedo tardarme tanto en el analisis del primero de 8 duelos pero si es el mas interesante si es el partido que ilusiona si es la final adelantada pasa lo que ocurrio en la champions league lo que ha ocurrido varias veces
+ref norm:         pero no puedo tardarme tanto en el analisis del primero de ocho duelos pero si es el mas interesante si es el partido que ilusiona si es la final adelantada pasa lo que ocurrio en la champions league lo que ha ocurrido varias veces
+
+ ------------------------------------------- 
+
+1.9607843137254901
+line_id 2677651254
+transcript norm:  de hecho manchester city contra real madrid se enfrentan antes de la cuenta y si parece que es el mejor duelo que el equipo que salga avante va a ser el mejor preparado para ser campeon y que tanto espana como alemania serian favoritos claros ante cualquiera de los otros seis partidos
+ref norm:         de hecho manchester city contra real madrid se enfrentan antes de la cuenta y si parece que es el mejor duelo que el equipo que salga avante va a ser el mejor preparado para ser campeon y que tanto espana como alemania serian favoritos claros ante cualquiera de los otros seis
+
+ ------------------------------------------- 
+
+8.88888888888889
+line_id 2677689925
+transcript norm:  es un equipo y eso si lo dije antes del euro que va a llegar muy fuerte a la copa del mundo y ahora estoy todavia mas convencido quizas que ahora mismo espana tendria que ser el favorito para ganar el mundial de 2026
+ref norm:         es un equipo y eso si lo dije antes de la euro que va a llegar muy fuerte a la copa del mundo y ahora estoy todavia mas convencido no quizas que ahora mismo espana tendria que ser favorito para ganar el mundial de 2026
+
+ ------------------------------------------- 
+
+120.0
+line_id 2677665665
+transcript norm:  me estoy adelantando muchisimo pero si hablamos de la euro 2024 yo creo que va a ser alemania el que avance la otra semifinal es un duelo entre dos equipos que lucian junto a alemania e inglaterra como los grandes favoritos para mi y para la mayoria de la gente que dice que sabe de esto no y no ha sido tal
+ref norm:         es un equipo y eso si lo dije antes de la euro que va a llegar muy fuerte a la copa del mundo y ahora estoy todavia mas convencido no quizas que ahora mismo espana tendria que ser favorito para ganar el mundial de 2026
+
+ ------------------------------------------- 
+
+6.976744186046512
+line_id 2677633418
+transcript norm:  pero que no recibio muchos goles porque se dedico a eso a no explotar en el afan de esconder la carencia de calidad que tiene en la zona baja pues limito todas sus opciones en ataque y de kittlare 0 de kittlar
+ref norm:         pero que no recibio muchos goles porque se dedico a eso no a no explotar en el afan de esconder la carencia de calidad que tiene en la zona baja pues limito todas sus opciones en ataque y de ketelaere 0 de ketelaere
+
+ ------------------------------------------- 
+
+7.6923076923076925
+line_id 2677675594
+transcript norm:  el jugador de la atalanta charles de kittler no jugo absolutamente nada y vimos muy poquito a jugadores que podrian haber marcado diferencias desde antes
+ref norm:         no el jugador de la atalanta charles de ketelaere no jugo absolutamente nada y vimos muy poquito a jugadores que podrian haber marcado diferencias desde antes
+
+ ------------------------------------------- 
+
+Final wer score:  7.484527063504238

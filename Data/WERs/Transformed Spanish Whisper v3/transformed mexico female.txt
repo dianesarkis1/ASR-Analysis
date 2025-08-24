@@ -1,0 +1,1198 @@
+8.333333333333332
+line_id 8038687925
+transcript norm:  cuando me iba bien cuando me iba mal como que me decia no me tranquilo no pasa nada y llego un momento estaba yo en san francisco y en san francisco no jugue bien falle el corte estaba santiago en ese entonces mi novio conmigo y el viernes en la tarde recibo una llamada y ya carlos yo que onda carritos como estas ya se que fallaste el corte
+ref norm:         cuando me iba bien cuando me iba mal como que me decia no hombre tranquila no pasa nada y llego un momento estaba yo en san francisco y en san francisco no jugue bien falle el corte estaba a santiago en ese entonces mi novio conmigo y el viernes en la tarde recibo una llamada y era de carlos y yo que onda carritos como estas ya se que fallaste el corte
+
+ ------------------------------------------- 
+
+1.2345679012345678
+line_id 8038694956
+transcript norm:  no te preocupes te tengo un plan mucho mejor vente a la pelea del canelo ya te tengo los boletos a las vegas manana y vamos a tener una cena y vamos a estar aqui chovy va a estar aqui paola y vamos a tener una cena con los clinton entonces venga y yo como no no no carlos es de un minuto para otro y santiago de que por supuesto nos vamos entonces cambiamos los planes nos fuimos a las vegas
+ref norm:         no te preocupes te tengo un plan mucho mejor vente a la pelea del canelo ya te tengo los boletos a las vegas manana y vamos a tener una cena y vamos a estar aqui chovy va a estar aqui paola y vamos a tener una cena con los clinton entonces venga y yo como no no no carlos de un minuto para otro y santiago de que por supuesto nos vamos entonces cambiamos los planes nos fuimos a las vegas
+
+ ------------------------------------------- 
+
+11.666666666666666
+line_id 8038665217
+transcript norm:  y desde que llegamos bueno carlos con una ahora si con un corazon y unos brazos abiertos de que que bueno que estas aqui olvidate del golf es el fin de semana no pasa nada y entonces carlos nos dijo bueno tenemos una cita con los clinton en tal lugar no y estabamos choby paola y otro grupo de personas
+ref norm:         y desde que llegamos bueno carlos con una ahora si que con una en corazon y unos brazos abiertos de que que bueno que estas aqui olvidate del golf este fin de semana no pasa nada y entonces carlos nos dijo bueno tenemos una cita con los clinton en tal lugar no y estabamos chovy paola otro grupo de personas
+
+ ------------------------------------------- 
+
+16.363636363636363
+line_id 8038694120
+transcript norm:  santiago y yo entonces pues fuimos a shopping ahi para la ocasion y al final carlos nos pidio y siempre lo hace en muchas de sus cenas el cena antes cenada antes porque a muchos no les encantaba la comida fancy entonces de que sirve el caviar que sirve la carne no se que
+ref norm:         santiago y yo entonces pues fuimos de shopping ahi para para la ocasion y al final carlos nos pidio y siempre lo hace en muchos de sus cenas el cena antes cenaba antes porque muchas veces no le encantaba la comida fancy entonces de que si el caviar que si la carne no se que
+
+ ------------------------------------------- 
+
+17.391304347826086
+line_id 8038628461
+transcript norm:  entonces luego de que nos vamos por unos tacos aun nos vamos por unas hamburguesas antes y luego vamos a la comida y a la cena con los clinton entonces efectivamente nos vamos por nuestras hamburguesas con el delicioso y despues pues ya llegamos a la cena pero si fuimos de los ultimos en llegar porque mas atoramos en el shake shack
+ref norm:         no entonces el era de que nos vamos por unos tacos 0 nos vamos a unas hamburguesas antes y luego lo vamos a la comida y a la cena con los clinton entonces efectivamente nos fuimos por nuestras hamburguesas con el delicioso y despues pues ya llegamos a la a la cena pero si fuimos de los ultimos en llegar porque nos atoramos en el en el shake shack
+
+ ------------------------------------------- 
+
+10.126582278481013
+line_id 8038649443
+transcript norm:  yo creo que el poner a los demas enfrente de ti carlos siempre le gustaba mucho la farandula le encantaba el spotlight le encantaba el estar en la primera pagina pero nunca para el siempre como que intentaba poner a alguien mas enfrente de el y asi fue como llegue yo a shark tank 0 sea siempre fue con la oportunidad de con quien puedo beneficiar a quien puedo ayudar para que alguien mas brille no nada mas entonces
+ref norm:         yo creo que el poner a los demas en frente de ti carlos siempre le gustaba mucho la farandula le encantaba el spotlight le encantaba el esta en la primera pagina pero nunca para el siempre como que intentaba poner a alguien mas en frente de el y asi fue como llegue yo a shark tank siempre fue con la oportunidad de con quien puedo beneficiar a quien puedo ayudar para que alguien mas brille no nada mas el
+
+ ------------------------------------------- 
+
+6.666666666666667
+line_id 8038673791
+transcript norm:  creo que es algo una leccion muy valiosa y es algo que lorima tambien hacia entonces yo creo que eso es de lo mas bonito que me queda de carlos
+ref norm:         creo que es algo una leccion muy valiosa y es algo que lorena tambien hacia entonces yo creo que eso es de lo mas bonito que me quedo de carlos
+
+ ------------------------------------------- 
+
+14.754098360655737
+line_id 8038613683
+transcript norm:  pues mas que genero un cambio yo creo que genero un cambio interno donde el siempre veia como a ravi y no la golfista el veia mucho que yo me flagelaba yo solita me exigia yo solita me torturaba internamente porque queria mas y las cosas no salian entonces tenia que dar ese extra interno
+ref norm:         pues mas que genero un cambio yo creo que genero un cambio interno donde el siempre veia como a gaby y no la golfista como que me decia el veia mucho que yo me flagelaba me yo solita me exigia yo solita como que me torturaba internamente porque queria mas y las cosas no salian entonces tenia que dar ese extra
+
+ ------------------------------------------- 
+
+12.307692307692308
+line_id 5828720603
+transcript norm:  y carlos siempre me decia no no no ey mi chingona estas bien ey mi chingona vas a llegar chingona y ganaste te he ganado las mas grandes del mundo la numero uno la numero dos tranquila entonces como que ese reconocimiento propio siempre como que me lo aventaba poco a poco no como que me da una dosis una botita de self love
+ref norm:         y carlos siempre me decia no no no hey mi chingona estas bien hey mi chingona vas a llegar hey chingona ya ganaste les ganabas a las mas grandes del mundo la numero uno la numero dos tranquila entonces como que ese reconocimiento propio siempre como que me lo aventaba poco a poco no como que me da una dosis una gotita de self love
+
+ ------------------------------------------- 
+
+3.6363636363636362
+line_id 8038643274
+transcript norm:  es muy circunstancial si te puedo decir que es justamente lo que mas hoy por hoy trabajo ese dialogo interno y me empiezo a nutrir sobre todo por el equipo de trabajo que tengo alrededor yo tengo un equipo de trabajo bastante grande y hay veces que yo me quiero encargar de todo
+ref norm:         es muy circunstancial si te puedo decir que es justamente lo que mas hoy por hoy trabajo ese dialogo interno y me empiezo a nutrir de sobre todo por el equipo de trabajo que tengo alrededor no yo tengo un equipo de trabajo bastante grande y hay veces que yo me quiero encargar de todo
+
+ ------------------------------------------- 
+
+10.344827586206897
+line_id 8038668282
+transcript norm:  me quiero encargar de lo fisico de lo tecnico de lo mental del emocionar y justamente mi profesor me dijo usanos no y esa tecnica de mucha conciencia para poder darme cuenta que es lo que esta pasando en mi mente pues viene a traves de la meditacion que me ayuda muchisimo la meditacion trascendental
+ref norm:         me quiero encargar de lo fisico de lo tecnico de lo mental de lo emocional y justamente mi profesor me dijo usanos no y esa tecnica de de mucha conciencia para poder darme cuenta que es lo que esta pasando dentro de mi mente pues viene a traves de la meditacion que me ayuda muchisimo la meditacion trascendental
+
+ ------------------------------------------- 
+
+15.384615384615385
+line_id 8038669477
+transcript norm:  de un psicologo que tambien tengo es como mi psicologo espiritual de hace 10 anos que se llama steven yellin y el me dijo de esa universidad todavia y me dijo 20 minutos a la manana 20 minutos a la noche te sientas y nada mas tienes un mantra de hecho tienes que ir a como una certificacion tienes que ir a un curso para que te den tu mantra para que sea una .
+ref norm:         de un psicologo que tambien tengo es como mi psicologo espiritual de hace diez anos que se llama steven yellin y el me dijo estaba en la universidad todavia y me dijo veinte minutos en la manana veinte minutos en la noche te sientas y nada mas tienes tienes un mantra de hecho tienes que ir a como una certificacion no tienes que ir a un curso para que te den tu mantra para que es una esto
+
+ ------------------------------------------- 
+
+27.710843373493976
+line_id 8038643048
+transcript norm:  entonces ya de hecho fui con mi familia mi papa mis hermanos todos ellos se vienen conmigo a este show mi papa de que el rio zum zum zum no le encantaba pero total llegamos a este lugar de hecho fue en pedregal y nada estamos con una senora pues yo soy senora una casa con muchas veladoras y muchas luces y todo como que medio oscuro y un
+ref norm:         entonces ya de hecho fui con toda mi familia me llevo a mi papa a mis hermanos a todos y dije se vienen conmigo vamos a este show mi papa de que el rollo zoom zoom zoom no le encantaba pero total llegamos a este lugar de hecho fue en el pedregal y nada estamos con una senora pues ya sabeis ya es una senora una casa con pues muchas veladoras y muchas bluses y todo como que medio medio oscuro y .
+
+ ------------------------------------------- 
+
+10.526315789473683
+line_id 3026836465
+transcript norm:  no me importa serian anos yo tenia creo que 20 no como 10 20 anos entonces ya nos sentamos y lo hicimos y yo fui como que la que me quede con eso al principio no lo hacia tan regular y poco a poco me he pasado a cuenta de que si lo necesitaba mucho mas porque el nivel de exigencia el nivel de presion el nivel de tension que yo manejaba entre mas pasaba mi carrera era mas alto entonces necesitaba yo una manera de poder calmar mi mente de una manera suave
+ref norm:         no me importa se viene yo tenia creo que 20 20 no como 20 anos entonces ya nos sentamos y lo hicimos y yo fui como que en la que me quede con eso y al principio no lo hacia tan regular y poco a poco empece a dar cuenta de que si lo necesitaba mucho mas porque el nivel de exigencia el nivel de presion el nivel de tension que yo manejaba entre mas pasaba mi carrera era mas alto entonces necesitaba yo una manera de poder calmar mi mente de una manera suave
+
+ ------------------------------------------- 
+
+13.559322033898304
+line_id 8038621078
+transcript norm:  porque creo que a muchas veces nos hablamos de una manera como que nos estamos gritando mentalmente a un tono muy alto entonces cuando te empiezas a hablar eso es y tu cuando empiezas a tomar control de tono de lo que estas hablando y como te hablas empiezas a tomar el control de tu mente y como te hablas y ahi esta la clave
+ref norm:         porque creo que muchas veces nos hablamos de una manera como que no estamos gritando mentalmente un tono muy alto entonces cuando empiezas a hablar suavecito cuando empiezas a tomar control de tono de lo que estas hablando y como te hablas empiezas a tomar el control de tu mente y como te hablas y ahi esta la clave
+
+ ------------------------------------------- 
+
+5.88235294117647
+line_id 8038611548
+transcript norm:  es el tono y el como te lo dices no es realmente lo que te dices es el como te lo dices que realmente te impacta y te impregna la piel el espiritu tus creencias tu cuerpo no entonces el como te lo dices es mas importante que el que haces
+ref norm:         es el tono y el como te lo dices no es realmente lo que te dices es el como te lo dices que realmente te impacta y te impregna la piel el espiritu tus creencias tu cuerpo entonces el como te lo dices es mas importante que el que tu dices
+
+ ------------------------------------------- 
+
+8.333333333333332
+line_id 5828785897
+transcript norm:  a ver un momento de estres en el campo de golf estoy a dos golpes del lider en un domingo y me quedan tres hoyos no y vengo de hacer tres birdies 0 par parverm y ya se que estoy cerquita de la lider no entonces todos tus sentidos empiezan a tensar me pongo nerviosa y mi corazon se empieza a agitar
+ref norm:         a ver un momento de estres en el campo de golf estoy a dos golpes del lider en un domingo y me quedan tres hoyos y vengo de hacer tres birdies 0 par par birdie y ya se que estoy cerquita de la lider entonces todos tus sentidos empiezan a tensar me pongo nerviosa mi corazon se empieza a agitar
+
+ ------------------------------------------- 
+
+17.46031746031746
+line_id 3026887436
+transcript norm:  y de la nada fallo un tio porque fallo un bot a cuatro pies que es muy cerquita y no fallo y luego viene el juicio de fuck 0 sea acabo de darme oportunidad acabo de hacer buggy y ya me fui a dos ahora tres golpes atras de la lider entonces empiezo a enjuiciarme empiezo a ser ya esta mala amiga para gabi
+ref norm:         y de la nada fallo un tiro fai un pot a cuatro pies que es muy cerquita y lo fallo y luego viene el juicio de fuck 0 sea acabo de dar oportunidad acabo de hacer bogie y ya me fui no a dos ahora tres golpes atras de la lider entonces empiezo a enjuiciarme empiezo a hacer esta mala amiga para gaby
+
+ ------------------------------------------- 
+
+4.938271604938271
+line_id 8038682847
+transcript norm:  y ahi es donde empiezo como que a hablarme suave empiezo como que no tranquila estoy aqui contigo estas en tu mejor esfuerzo y empiezo a hablar mas suave mas suave mas suave para poder tomar el control de lo que yo me estoy diciendo entonces empiezo a caminar mas lento empiezo a respirar mas lento entonces que pasa la presion y los momentos de tension todo hace que el tiempo vaya mas rapido la presion hace que todo te quiera acelerar
+ref norm:         y ahi es donde empiezo a hablarme suave empiezo como que no tranquila estoy aqui contigo estas haciendo tu mejor esfuerzo y me empiezo a hablar mas suave mas suave mas suave para poder tomar el control de lo que yo me estoy diciendo entonces empiezo a caminar mas lento empiezo a respirar mas lento entonces que pasa la presion y los momentos de tension todo hace que el tiempo vaya mas rapido la presion hace que todo te quiera acelerar
+
+ ------------------------------------------- 
+
+17.77777777777778
+line_id 8038610996
+transcript norm:  asi que la cabeza empieza a ir muy muy rapido es que tienes que hacerlo con transito tienes que irte para atras irte mas lento y en el momento que yo empiezo a caminar mas lento mi cabeza follows mi mente follows
+ref norm:         hace que la cabeza empiece a empieza a ir muy muy rapido entonces que tienes que hacer de lo contrario tienes que irte para atras irte mas lento y en el momento que yo empiezo a caminar mas lento mi cabeza follows mi mente follows
+
+ ------------------------------------------- 
+
+0.0
+line_id 8038676715
+transcript norm:  si me sigue si mi cabeza va rapido mi cuerpo va rapido y ya no puedo controlar el palo de golf ni el impacto de la pelota entonces es justamente como darle instrucciones a tu cerebro como hacks de estoy bien tranquila a un pace en el que yo se que yo puedo controlar
+ref norm:         si me sigue si mi cabeza va rapido mi cuerpo va rapido y ya no puedo controlar el palo de golf ni el impacto de la pelota entonces es justamente como darle instrucciones a tu cerebro como hacks de estoy bien tranquila a un pace en el que yo se que yo puedo controlar
+
+ ------------------------------------------- 
+
+7.317073170731707
+line_id 8038692826
+transcript norm:  buena pregunta yo creo que me hablo de las dos maneras como que si hay veces que digo como que gaby tranquila estas bien y hay veces que digo estoy nerviosa and it is ok it is fine estaba platicando una vez con miguel ayon hace poquito tuvimos un turno de golf somos buenos amigos y estabamos ya en esta conversacion super deep en el campo de golf porque el es fanatico del golf y estabamos yo creo que en el 16
+ref norm:         buena pregunta yo creo que me hablo de las dos maneras como que si hay veces que digo como que gaby tranquila estas bien y hay veces que digo estoy nerviosa and it is ok it is fine estaba platicando una vez con miguel ayun hace poquito tuvimos un torneo de golf somos buenos amigos y estabamos ya en esta conversacion super deep en el campo de golf porque el es fanatico del golf y estabamos yo en el medio de 16
+
+ ------------------------------------------- 
+
+7.352941176470589
+line_id 3026826964
+transcript norm:  en vez de si estoy nerviosa lo acepto no pasa nada y lo empiezas a digerir y empieza a pasar y empieza a irse y empieza a perder el poder sobre ti pero cuando empezamos a tener esta friccion de no si no si esta el fuego interno crece crece crece y es imposible pararlo 0 sea ya llega un punto donde se para comienza y se acabo
+ref norm:         en vez de si estoy nerviosa lo acepto no pasa nada y lo empiezas a digerir y empieza a pasar y empieza a irse y empieza a perder el poder sobre ti pero cuando empezamos a tener esta friccion de no si no si este fuego interno crece crece crece y es imposible de pararlo 0 sea ya llega un punto donde se para cuando ya se acabo
+
+ ------------------------------------------- 
+
+3.896103896103896
+line_id 8038614487
+transcript norm:  y dices oye tuve la chance y tuve la oportunidad no entonces justamente yo creo que esa es como la clave el permitirte sentir pero no dejar que las emociones tomen el control del coche tu lo tienes pero va a pasar y para eso son como las pausas yo muchas veces como que me quedo parada en el green y me quedo viendo un ojito de un arbol sin nada cinco segundos y luego ya ok
+ref norm:         y dices oye tuve la chance tuve la oportunidad no entonces justamente yo creo que esa es como la clave el permitirte sentir pero no dejar que las emociones tomen el control del coche tu lo tienes pero va a pasar y para eso son como las pausas yo muchas veces como que me quedo parada en el green y me quedo viendo un una hojita de un arbol sin nada cinco segundos y luego ya ok
+
+ ------------------------------------------- 
+
+23.170731707317074
+line_id 8038651825
+transcript norm:  se empieza a disolver en vez de que empiece a tomar el control y me empiece a amarrar y no tengo que estar nerviosa tengo que respirar tengo que estar tranquila es una linea muy finita porque el permitir sentir puede ser clavar los nervios y tener el control del coche y de estrellas pero creo que esa practica es una disciplina mental muy canona y solo con la experiencia
+ref norm:         se empieza a disolver en vez de que empiece a tomar el control y me empiece a amarrar y no tengo esta nerviosa tengo que respirar tengo que estar tranquila no es como que es una linea muy finita porque puede ser el permitido sentir puede ser que agarran los nervios y te dan el control tengan el control del coche y te estrellas no pero creo que esa practica pues es una disciplina mental muy canona y solo con la experiencia
+
+ ------------------------------------------- 
+
+13.698630136986301
+line_id 8038689715
+transcript norm:  0 sea yo le pregunte 150 veces a lorena como lorena tu estuviste ahi arriba ganaste 27 veces que demonios hacias 0 sea a mi no vengas aunque la experiencia te lo va a dar a mi mes hoy por hoy gracias 0 sea y lorena muchas veces me lo decia como no es que la experimento tranquila la experiencia te lo va a dar y yo de que no
+ref norm:         0 sea yo le pregunte 150 veces a lorena como lorena tu estuviste alla arriba ganaste 27 veces que demonios hacias 0 sea a mi no me venganzon que la experiencia te lo va a dar a mi hoy por hoy que hacias 0 sea y lorena muchas veces me lo decia como no hombre es que la experiencia tu tranquila la experiencia te lo va a dar y yo de que no
+
+ ------------------------------------------- 
+
+0.0
+line_id 8038636054
+transcript norm:  y acabo de empezar a trabajar con otro psicologo que se llama eugenio y eugenio me ha ensenado muchisimo el como y yo no lo tenia tan claro justamente por eso necesitaba ayuda el como no y la meditacion trascendental pues sabia que era buena pero no sabia cual era como realmente la raiz de lo que 0 como me iba a ensenar 0 como me iba a ayudar 0 como .
+ref norm:         y acabo de empezar a trabajar con otro psicologo que se llama eugenio y eugenio me ha ensenado muchisimo el como y yo no lo tenia tan claro justamente por eso necesitaba ayuda el como no y la meditacion trascendental pues sabia que era buena pero no sabia cual era como realmente la raiz de lo que 0 como me iba a ensenar 0 como me iba a ayudar 0 como .
+
+ ------------------------------------------- 
+
+9.523809523809524
+line_id 8038624848
+transcript norm:  para poder dar la curva buena no entonces eugenia me ha ensenado muchisimo a usar la meditacion a medir la meditacion con una banda que se llama muse entonces con esta banda yo mido la meditacion los pajaritos los pajaritos y la lluvia y entonces entonces meditas con muse medito con muse entonces la meditacion tridental como que fue la introduccion a mi vida de la meditacion
+ref norm:         para poder dar la curva buena no entonces eugenio me ha ensenado muchisimo a usar la meditacion a medir la meditacion con una banda que se llama muse entonces con esta banda yo mido la meditacion los pajaritos los pajaritos y la lluvia y entonces medito con muse entonces la meditacion trascendental como que fue la introduccion a mi vida de la meditacion
+
+ ------------------------------------------- 
+
+20.27027027027027
+line_id 8038653858
+transcript norm:  a ver mi mas alta porque llevo no se que no llevo ni siquiera un mes mi mas alta es de 60% y tengo un amigo que se llama alvaro ortiz que tambien esta en el mismo rodio que yo y esta trabajando tambien con el y entonces el ya tuvo su maxima de 96 y me pica que me gane digo esta bien que llegue a 96 pero justamente asi no fue un deludo
+ref norm:         a ver mi mas alta porque llevo no se no llevo ni siquiera un mes mi mas alta he sido 60 60 por ciento y tengo un amigo que se llama alvaro ortiz que tambien esta en el mismo rollo que yo y esta trabajando tambien con el y entonces el ya tuvo su maxima de 96 y me pica que me gane digo que tengo que ganar 96 pero justamente asi no funciona
+
+ ------------------------------------------- 
+
+21.951219512195124
+line_id 8038639983
+transcript norm:  como me pongo el mio cierro los ojos y estoy sintiendo el cuerpo en vez de sentir la respiracion eso es un scanning estoy sintiendo los hombros los cuerdos el cuello hay cosas que son tan y cambia otra vez la respiracion y ese es el truco de la meditacion no podemos agarrar un security blanket para nada siempre hay algo somos diferentes estamos en proceso y en cambio constante
+ref norm:         como me pongo el muse cierro los ojos y estoy sintiendo el cuerpo en vez de sentir la respiracion estoy haciendo un scanning no estoy sintiendo los hombros los cuello el cuello 0 sea como que ya hay cosas que son tan y cambia 0 sea otro dia es la respiracion 0 sea y ese es el truco de la meditacion que no podemos agarrar un security blanket para nada siempre hay algo somos diferentes estamos en proceso y en cambio constante
+
+ ------------------------------------------- 
+
+11.688311688311687
+line_id 8038657788
+transcript norm:  esta bien esta bien 0 sea yo tambien ahorita estoy justamente es que alvarito ortiz un gran amigo que quiero muchisimo me metio en respiracion en el wim hof method entonces este alvaro lo pongo como ejemplo porque es lo que se es el unico que comparto este tipo de cosas tan profundas pero el llega a aguantar la respiracion en cuatro minutos yo en lo maximo he sido dos y ya me estoy muriendo no 0 sea me estoy desmayando
+ref norm:         esta bien esta bien yo tambien ahorita estoy justamente es que alvarito ortiz un gran amigo que quiero muchisimo me metio en respiracion en el windhoff method entonces este alvaro lo pongo como ejemplo porque es lo que se y es el unico que comparte este tipo de cosas tan profundas pero el llega a aguantar la respiracion cuatro minutos yo lo maximo ha sido dos y ya me estoy muriendo no 0 sea me estoy desmayando
+
+ ------------------------------------------- 
+
+8.16326530612245
+line_id 5828758578
+transcript norm:  entonces como que pare la parte del hielo y me meti mas a la parte de respiracion hoy por hoy nada mas hago respiracion hielo respiracion meditacion y si es que en algun momento pues como que tengo el tiempo 0 me doy el espacio pongo el aire
+ref norm:         entonces como que pare la parte del hielo y me meti mas a la parte de respiracion entonces hoy por hoy nada mas hago respiracion hielo perdon respiracion meditacion y si es que en algun momento pues como que tengo el tiempo 0 me doy el espacio pongo hielo
+
+ ------------------------------------------- 
+
+0.0
+line_id 8038649966
+transcript norm:  si si la veo sobre todo en el pot 0 sea cuando no duermo tan bien si de repente siento que mi sistema nervioso esta como que mas activo entonces ya no puedo conectar tan bien 0 sea ya es que el pot es una calma una paciencia que tienes que estar tranquilo para meter la pelota si no si no estas tranquilo el pot es muy mental y emocional si no estas tranquilo y no estas calmado no la vas a meter
+ref norm:         si si la veo sobre todo en el pot 0 sea cuando no duermo tan bien si de repente siento que mi sistema nervioso esta como que mas activo entonces ya no puedo conectar tan bien 0 sea ya es que el pot es una calma una paciencia que tienes que estar tranquilo para meter la pelota si no si no estas tranquilo el pot es muy mental y emocional si no estas tranquilo y no estas calmado no la vas a meter
+
+ ------------------------------------------- 
+
+4.9504950495049505
+line_id 8038628978
+transcript norm:  a ver mis dos horas antes de dormir depende por ejemplo si el dia siguiente voy a jugar temprano y tengo competencia a las 7 de la manana tengo que estar en el team numero uno me duermo 0 sea intento dejar el solar alrededor de las 8 entonces lo dejo empiezo a hacer mis meditaciones mis respiraciones y agarro un libro y un journal 0 sea mi journal y empiezo a escribir como que lo que siento en el cuerpo en la mente para poder como que entrar en este mindset el dia siguiente como que empezar a competir
+ref norm:         a ver mi dos horas antes de dormir depende por ejemplo si el dia siguiente voy a jugar temprano y tengo competencia a las siete de la manana tengo que estar en el tee numero uno me duermo 0 sea yo intento dejar el solar alrededor de las ocho entonces lo dejo empiezo a hacer mis meditaciones mis respiraciones y agarro un libro y un journal 0 sea mi journal y empiezo a escribir como que lo que siento en el cuerpo en la mente para poder como que entrar en este mindset el dia siguiente como que empezar a competir
+
+ ------------------------------------------- 
+
+25.0
+line_id 8038618216
+transcript norm:  por que porque hago todo a la perfeccion 0 sea el deseo es que yo estoy haciendo todo a la milimetrica potencia muy muy bien y me dicen pero eso no es equivalente a ganar tu puedes hacer todo perfecto y justamente puedes alejarte de lo sensado por que por que
+ref norm:         por que porque hago todo a la perfeccion 0 sea le decia horacio es que yo estoy haciendo todo a la milimetrica potencia muy muy bien y me deci pero eso no es equivalente a que vas a ganar tu puedes ser todo perfecto y justamente puedes alejarte del resultado por que
+
+ ------------------------------------------- 
+
+14.814814814814813
+line_id 8038674835
+transcript norm:  porque me estas persiguiendo tanto que no estas dejando que llegue a ti entonces afortunadamente como te dije al principio tengo a gente increible a mi alrededor impresionante que me puedo recargar que puedo decir tengo este problema mental tengo este problema tecnico este problema fisico el cuello lo que sea y ellos se encargan de ayudarme para poder poner todo en funcion y que el coche vaya a 300 kilometros por hora en marat
+ref norm:         porque lo estas persiguiendo tanto que no estas dejando que llega a ti entonces este afortunadamente como te lo dije al principio tengo a gente increible a mi alrededor impresionante que me puedo recargar que puedo decir tengo este problema ahorita mental tengo este problema tecnico este problema fisico el cuello lo que sea y ellos encargan de ayudarme para poder poner todo en funcion y que el coche vaya asi que a 300 km por hora en una recta no
+
+ ------------------------------------------- 
+
+6.349206349206349
+line_id 8038636689
+transcript norm:  entonces su teoria es la sangre corre dos veces por minuto en todo nuestro sistema si la sangre corre sucia va a haber problemas dos veces por minuto por mucho tiempo por anos meses va a haber problemas en una ulcera va a haber problemas en una arteria va a haber problemas de colesterol 0 sea hay muchas cosas no
+ref norm:         entonces su teoria es la sangre corre dos veces por minuto en todo nuestro sistema si la sangre si la sangre corre sucia va a haber problemas dos veces por minuto por mucho tiempo por anos meses va a haber problemas en una ulcera va a haber problemas en una arteria va a haber problemas de colesterol 0 sea de muchas cosas no
+
+ ------------------------------------------- 
+
+2.941176470588235
+line_id 8038652985
+transcript norm:  pero asi como nosotros cambiamos el aceite del coche una vez al ano hay que limpiar la sangre una vez al ano y hay que limpiarla a traves del higado entonces el tiene unas enzimas que es nada mas para limpiar el higado y te las tomas por un mes y tu sangre ya empieza a limpiarse y solita ya empieza como que a sacar lo que no necesita
+ref norm:         pero asi como nosotros cambiamos el aceite del coche una vez al ano hay que limpiar la sangre una vez al ano y hay que limpiarla a traves del higado entonces el tiene unas enzimas que es nada mas para limpiar el higado y te las tomas por un mes y tu sangre ya empieza a limpiarse y solita ya empieza como que a sacarlo que no necesita
+
+ ------------------------------------------- 
+
+7.2727272727272725
+line_id 8038653776
+transcript norm:  yo a el me recargo mucho en todo lo que es la suplementacion sobre todo porque el es una persona buena yo me gusta rodearme de personas buenas y el tiene un corazon enorme y es como que el ayudar es un propuesto mas grande que lo que tengo de regreso
+ref norm:         yo lo veo yo a el me recargo mucho en todo lo que es la suplementacion sobre todo porque el es una persona buena yo me gusta rodearme de personas buenas y el tiene un corazon enorme y es como que el ayudar es un propuesto mas grande que el lo que tengo de regreso
+
+ ------------------------------------------- 
+
+23.076923076923077
+line_id 8038660267
+transcript norm:  en la manana tomo colageno por el tema del ligamento que te digo tambien obviamente para el tema beauty pero bueno pues la celula las papillas lo que hacen pero tomo colageno un muslo islaminico que me mando el
+ref norm:         en la manana tomo colageno pues el tema del ligamento que te digo tambien obviamente para el tema beauty pero el pelazo y las pestillas las pastillas lo que hacen pero tomo colageno un multivitaminico que me mando el
+
+ ------------------------------------------- 
+
+17.073170731707318
+line_id 8038684940
+transcript norm:  tomo una cajita un botellito que se llama adrenal support que es para las hormonas tomo las enzimas a la manana omega 3 y todos los dias que la teina cuando estoy en el gimnasio entonces eso es como que lo base
+ref norm:         tomo una cajita bueno un botecito que se llama adrenal support que es para las hormonas tomo las enzimas en la manana omega 3 bueno todos los dias creatina cuando estoy en el gimnasio entonces eso es como que lo base
+
+ ------------------------------------------- 
+
+9.210526315789473
+line_id 8038646559
+transcript norm:  si no lo tomo nada mas se lo tomo mas pegado a las lineas pero eso es basicamente lo que tomo entonces como que a mi el tema del sueno es un tema que yo he tenido mucho problema en los ultimos anos entonces el me dice tenemos que regular las hormonas y para eso tenemos que pues los adrenos es super importante pero si basicamente es como que la base y si tengo algun tema y tal
+ref norm:         si no lo tomo mas lo tomo mas pegado en el gimnasio pero eso es basicamente lo que tomo entonces como que a mi el tema del sueno es un tema que yo he tenido mucho problema en los ultimos anos entonces el me dice tenemos que regular tus hormonas y para eso tenemos que pues los adrenos es super importante pero si basicamente es como que la base y si tengo algun tema de tal
+
+ ------------------------------------------- 
+
+10.294117647058822
+line_id 8038657441
+transcript norm:  pero en el tema hormonal de la mujer es impresionante y es muy importante sobre todo como atletas profesionales nuestro prio mensual perdemos mucho hierro entonces a fuerza mi dosis de hierro cuando tengo mi periodo y me siento como un dia normal perfecta no tienes una idea yo a todas las mujeres por favor tomen hierro porque realmente es un game changer 0 sea
+ref norm:         por ejemplo el tema hormonal de la mujer es impresionante y es muy importante sobre todo como gol como atletas profesionales nuestro periodo menstrual perdemos mucho hierro entonces a fuerza es mi dosis de hierro cuando tengo mi periodo y me siento como un dia normal perfecta no tienes una idea yo a todas las mujeres por favor tomen hierro porque realmente es un game changer 0 sea
+
+ ------------------------------------------- 
+
+15.384615384615385
+line_id 5828729926
+transcript norm:  te puedes estar pasando un momento muy dificil y he pensado mucho en hacer este video porque la gente creo que no tiene el tacto no tiene el entendimiento en lo que es un deportista olimpico 0 un deportista profesional y hay muchos factores que influyen en nuestra salud mental que es tan importante para poder desarrollar un buen performance
+ref norm:         0 sea puede estar pasando un momento muy dificil y he pensado mucho en hacer este video porque la gente creo que no tiene el tacto no tiene el entendimiento de lo que hay detras de un deportista olimpico 0 un deportista profesional y hay muchos factores que influyen en esta salud mental que es tan importante para poder desarrollar para tener un buen performance
+
+ ------------------------------------------- 
+
+8.571428571428571
+line_id 8038618637
+transcript norm:  entonces pues si la preocupacion de eso si llega he podido tambien formar y justamente esta semana leiste el clavoso yo no se si eres un brujo 0 no se que te pasa por ahi pero en mi journal esta semana escribi porque bueno en woodlands antes de los angeles me fui a cenar con una amiga que ella tambien es ella fue olimpica de long jumping salto .
+ref norm:         entonces pues si 0 sea la preocupacion de eso si llega he podido tambien formar y justamente esta semana leiste al clavoso yo no se si eres un brujo 0 no se que te pasa por ahi pero en mi journal esta semana escribi bueno en woodlands antes de los angeles me fui a cenar con una amiga que ella tambien es ella fue olimpica de long jumping de salto
+
+ ------------------------------------------- 
+
+8.450704225352112
+line_id 8038678976
+transcript norm:  entonces estaba llamando a su casa es una tipa se llama ivonne trevino y la amo la adoro y me dice es que neta te tienes que recordar todo el tiempo que tu ya no tienes que probarle nada a nadie 0 sea tu nombre ya le hiciste tu marca ya le hiciste ya ganaste tres veces en el tour nadie mas lo ha hecho mas que lorena y tu que mas que
+ref norm:         entonces estaba cenando en su casa es una tipa se maiva un trevino y la amo la adoro y me dice es que neta te tienes que recordar todo el tiempo que tu ya no tienes que probarle nada a nadie 0 sea tu nombre ya le hiciste tu marca ya le hiciste ya ganaste tres veces en el tour nadie mas lo hecho mas que lorena y tu que mas
+
+ ------------------------------------------- 
+
+8.571428571428571
+line_id 5828797872
+transcript norm:  como que darte la oportunidad de disfrutar como que yo se que no me quedan nueve anos en el tour no los quiero porque es una familia pero me decia como que darte la chance de que cuando voltees a tu carrera cuando tengas 50 60 anos y tengas esos tres anos y ya sabes que los jugue para gaby los jugue para divertirme
+ref norm:         como que darte la oportunidad de disfrutar como que yo se que no me quedan nueve anos en el tour no los quiero porque en un punto que es una familia pero me decia ya como que darte la chance de que cuando voltees a tu carrera cuando tengas 50 60 anos y tengas esos tres anos y ya sabes que los jugue para gaby los jugue para para divertirme
+
+ ------------------------------------------- 
+
+10.606060606060606
+line_id 8038670843
+transcript norm:  los jugue para mi y lo goce y no estaba frustrada con el resultado con el numero con el ranking con el esta parte competitiva de mi tiene esta afliccion porque quiere llegar a ser la mejor pero si viene desde un amor propio desde una aceptacion desde un entendimiento de como que afortunadamente no tengo que probarle nada a nadie
+ref norm:         los jugue para mi y lo voce y no estaba frustrada con el resultado con el numero con el ranking con el ya sabes esta parte competitiva de mi pues tiene esta friccion porque pues quiere llegar a ser la mejor pero pues si viene desde un amor propio desde una aceptacion desde un entendimiento de como que afortunadamente no tengo que probarle nada a nadie
+
+ ------------------------------------------- 
+
+3.0303030303030303
+line_id 8038690625
+transcript norm:  y es verdad porque no lo hice una vez lo he hecho tres veces y hoy por hoy lo digo con mucho orgullo porque me ha costado sangre sudor lagrimas estres momentos muy muy muy muy darks dentro de mi y hoy digo wow well done 0 sea si hoy saca mi carrera profesional estoy muy orgullosa de ella porque le he dado absolutamente todo
+ref norm:         y es verdad porque no lo hice una vez lo he hecho tres veces y hoy por hoy lo digo con mucho orgullo porque me ha costado sangre sudor lagrimas estres momentos muy muy muy muy darks dentro de mi y hoy digo wow well done 0 sea si hoy se acaba mi carrera profesional estoy muy orgullosa de ella porque le he dado absolutamente todo
+
+ ------------------------------------------- 
+
+1.5873015873015872
+line_id 5828756504
+transcript norm:  mira creo que es muy importante destacar que la empresa familiar tiene una importancia vital para mexico porque 85% de las empresas son empresas familiares no y estas generan el 90% del producto interno bruto que es un numero que te vuela no y creo que eso la importancia es que habla de los mexicanos habla de que los mexicanos somos emprendedores por naturaleza
+ref norm:         mira creo que es muy importante destacar que la empresa familiar tiene una importancia vital para mexico porque 85% de las empresas son empresas familiares y estas generan el 90% del producto interno bruto que es un numero que te vuela no y creo que eso la importancia es que habla de los mexicanos habla de que los mexicanos somos emprendedores por naturaleza
+
+ ------------------------------------------- 
+
+3.8461538461538463
+line_id 5828736809
+transcript norm:  y ahi tambien creo que lo que es muy padre pensar como mexicanos es que tenemos estas grandes empresas familiares que no solamente han sido exitosas en este pais sino que han sido tremendamente exitosas y compiten con grandes conglomerados globales no y lo hacen y lo hacen muy bien no entonces creo que la leccion de esto es que los mexicanos somos empresarios y que la empresa familiar en mexico de verdad ha triunfado
+ref norm:         y ahi tambien creo que lo que es muy padre pensar como mexicanos es que tenemos estas grandes empresas familiares que no solamente han sido exitosas en este pais sino que han sido tremendamente exitosas y compiten hoy con grandes conglomerados globales no y lo hacen y lo hacen muy bien no entonces creo que como que la leccion de esto es que los mexicanos somos empresarios y que la empresa familiar en mexico de verdad ha triunfado
+
+ ------------------------------------------- 
+
+6.666666666666667
+line_id 5828715281
+transcript norm:  0 sea la empresa familiar tiene varias complicaciones no tiene las complicaciones obviamente que tiene una empresa normal ah pues cual es mi plan estrategico y cual es el mismo modelo de negocios y quien es la mejor gente que voy a poner en los lugares para manejar mi empresa los recursos humanos los recursos tecnologicos y todo lo que ya sabemos de una empresa normal pero ademas tiene la complejidad de la familia
+ref norm:         0 sea la empresa familiar tiene varias complicaciones no tienen las complicaciones obviamente que tiene una empresa normal ah pues cual es mi plan estrategico y cual va a ser mi modelo de negocios y quien es la mejor gente que voy a poner en los lugares para manejar mi empresa los recursos humanos los recursos tecnologicos y todo lo que ya sabemos de una empresa normal pero ademas tiene la complejidad de la familia
+
+ ------------------------------------------- 
+
+3.488372093023256
+line_id 5828754026
+transcript norm:  y para eso creo que tenemos que entender que la empresa familiar tiene diferentes stages no tiene al fundador que a lo mejor es el accionista y tambien es el que lo opera pero luego tambien el fundador muere y llegan los hijos y a veces en ese relevo generacional pues hay unos que participan en la empresa y otros que no 0 todos participan 0 ninguno participa y luego ya viene la tercera generacion donde hasta los nietos estan metidos en eso
+ref norm:         y para eso creo que tenemos que entender que la empresa familiar tiene diferentes stages no tiene al fundador este que a lo mejor es el accionista y tambien es el que lo opera pero luego tambien el fundador muere y llegan los hijos y a veces en esa en ese relevo generacional pues hay unos que participan en la empresa y otros que no 0 todos participan 0 ninguno participa y luego ya viene la tercera generacion donde hasta los nietos estan metidos en eso
+
+ ------------------------------------------- 
+
+9.090909090909092
+line_id 5828732359
+transcript norm:  y la verdad es que muchas veces las familias se vuelven un circo de tres pistas no donde esta el tomador de leones esta el cirquero estan las piruetas y hay muchos problemas que se vuelven ya de los accionistas de la familia y eso complica muchisimo a la empresa familiar
+ref norm:         y la verdad es que muchas veces las familias se vuelven un circo de tres pistas no 0 donde esta el tomador de leones esta el cirquero esta el que dan las piruetas y hay muchos problemas que se vuelven ya de los accionistas de la familia y eso complica muchisimo a la empresa familiar
+
+ ------------------------------------------- 
+
+4.0
+line_id 5828783657
+transcript norm:  es que creo que la institucionalizacion 0 sea si hablamos de institucionalizacion creo que es una palabra como muy muy grande no muy gorda 0 sea suena muy impactante pero en realidad que es lo que estamos haciendo es crear un marco para tomar decisiones de una manera ordenada sistematica y que sean decisiones de calidad y creo que esa institucionalizacion es muy importante en todas las empresas no importa si son grandes 0 no en chiquitas
+ref norm:         es que creo que la institucionalizacion 0 sea si hablamos de institucionalizacion creo que es una palabra como muy muy grande muy gorda 0 sea suena muy impactante pero en realidad que es lo que estamos haciendo es crear un marco para tomar decisiones de una manera ordenada sistematica y que sean decisiones de calidad y creo que esa institucionalizacion es muy importante en todas las empresas no importa si son grandes 0 son chiquitas
+
+ ------------------------------------------- 
+
+5.88235294117647
+line_id 5828775562
+transcript norm:  obviamente si la empresa es grande requiere de una institucionalizacion que conlleva muchisimas cosas y si la empresa es chica hay que hacer vuelta manana la empresa porque si no la puedes audar pero la institucionalizacion es crear un marco para tomar decisiones de calidad esas decisiones de calidad creo que vienen en dos ambitos una en la empresa familiar una es la del gobierno corporativo que no vamos a hablar de eso hoy porque es un tema en si bastante largo y complejo
+ref norm:         obviamente si la empresa es grande requiere de una institucionalizacion que conlleva muchisimas cosas y si la empresa es chica hay que hacerlo al tamano de la empresa porque si no la puedes ahogar pero la institucionalizacion es crear un marco para tomar decisiones de calidad esas decisiones de calidad creo que vienen en dos ambitos una en la empresa familiar una es la del gobierno corporativo que no vamos a hablar de eso hoy porque es un tema en si bastante largo y complejo
+
+ ------------------------------------------- 
+
+1.8181818181818181
+line_id 5828766279
+transcript norm:  pero el gobierno corporativo realmente lo que crea son estructuras en donde se transparenta la informacion se transparentan las decisiones no se hacen decisiones de black box sino se transparentan las decisiones y se crea un consejo con una serie de comites a los que se les delega la autoridad y realmente funciona muy bien no
+ref norm:         pero el gobierno corporativo realmente lo que crea son estructuras en donde se transparenta la informacion se transparentan las decisiones no se hacen decisiones de black box sino se transparentan decisiones y se crea un consejo con una serie de comites a los que se les delega la autoridad y realmente funciona muy bien no
+
+ ------------------------------------------- 
+
+0.0
+line_id 5828733999
+transcript norm:  todas las empresas importantes en el mundo lo tienen pero eso tambien puede hacerse a un nivel de una empresa mediana 0 incluso de una empresa pequena y creo que la otra parte que antecede al gobierno corporativo y que muchas veces es obviada es la del gobierno familiar y creo que el gobierno familiar es sumamente importante por las siguientes razones
+ref norm:         todas las empresas importantes en el mundo lo tienen pero eso tambien puede hacerse a un nivel de una empresa mediana 0 incluso de una empresa pequena y creo que la otra parte que antecede al gobierno corporativo y que muchas veces es obviada es la del gobierno familiar y creo que el gobierno familiar es sumamente importante por las siguientes razones
+
+ ------------------------------------------- 
+
+6.153846153846154
+line_id 5828776785
+transcript norm:  porque si tienes vamos a decir una empresa de segunda 0 tercera generacion y tienes ya diferentes ramas familiares y en esas ramas familiares hay diferentes prioridades hay divergencias de opinion hay cosas que a lo mejor una rama de la familia quiere seguir reinvirtiendo las utilidades y quiere seguir creciendo la empresa y quiere seguir haciendola mas grande adquiriendo otras empresas
+ref norm:         porque si tienes vamos a decir una empresa de segunda 0 tercera generacion y tienes ya diferentes ramas familiares y en esas ramas familiares hay diferentes prioridades hay diferentes hay divergencias de opinion hay cosas que a lo mejor una rama de la familia quiere seguir reinvertiendo las las utilidades y quiere seguir creciendo la empresa y quiere seguir haciendola mas grande adquiriendo otras empresas
+
+ ------------------------------------------- 
+
+15.09433962264151
+line_id 5828733928
+transcript norm:  otra rama a lo mejor lo que quieres son dividendos porque lo que quieres es vivir bien y otra rama lo que quieres es vender y quieres vivir a capo ergo no entonces creo que es muy importante el gobierno femenino porque lo que se hace es que realmente se remonta uno a la historia
+ref norm:         otra rama a lo mejor lo que quiere son dividendos porque lo que quiere es vivir bien y otra rama lo que quiere es vender y quiere vivir a capulgo entonces creo que es muy importante el gobierno familiar porque lo que se hace es que realmente se remonta uno a la historia
+
+ ------------------------------------------- 
+
+10.416666666666668
+line_id 5828727391
+transcript norm:  como van a ser esos derechos de preferencia no los vamos a dar entre ramas familiares 0 no los vamos a dar todos pari passu vamos a darnos tax vamos a darnos dragalongs vamos a darnos piggyback rides los derechos de preferencia van a ser rofers 0 van a ser rofos
+ref norm:         como van a ser esos derechos de preferencia nos los vamos a dar entre ramas familiares 0 nos los vamos a dar todos pari passu vamos a darnos tax vamos a darnos dragalongs vamos a darnos piggyback rides los derechos de preferencia van a ser rofers 0 rofos
+
+ ------------------------------------------- 
+
+8.771929824561402
+line_id 5828786075
+transcript norm:  generalmente lo que hace es para ver 0 sea generalmente hay pocas familias que sean 0 sea como muy ordenadas super bien ademidas siempre hay divergencias hay divisiones hay divergencias de opinion hay muchas cosas entonces lo que generalmente se hace es que se convoca a la familia y se recapitula sobre la historia de los fundadores
+ref norm:         generalmente lo que haces para ver 0 sea generalmente hay pocas familias que sean 0 sea como muy ordenadas super bien avenidas siempre hay divergencias hay visiones hay divergencias de opinion y hay muchas cosas entonces lo que generalmente se hace es que se convoca a la familia y se recapitula sobre la historia de los fundadores
+
+ ------------------------------------------- 
+
+4.444444444444445
+line_id 5828723106
+transcript norm:  y entonces si vemos que la familia puede ponerse de acuerdo en cuanto a que es lo que nos cole en la esencia de nuestra familia cual es ese legado que dejaron nuestros fundadores del cual nosotros nos sentimos super orgullosos y queremos seguir yendo adelante
+ref norm:         y entonces si vemos que la familia puede ponerse de acuerdo en cuanto a que es lo que nos colen la esencia de nuestra familia cual es ese legado que dejaron nuestros fundadores del cual nosotros nos sentimos super orgullosos y queremos seguir yendo adelante
+
+ ------------------------------------------- 
+
+23.404255319148938
+line_id 5828759080
+transcript norm:  pero una familia diferente no 0 sea si tu ves el nacionalado de agassiz bushimbe es jorge y pablo liman es marcel telles es beto sicupira que son las familias brasilenas y luego esta tambien todas las familias belgas sigue siendo una empresa familiar
+ref norm:         de una familia diferente no 0 sea si tu ves el nacionarado de alhauter wurttemberg es jorge pablo liman no es marcel telles es betos y cupira que son las familias brasilenas y luego esta tambien pues todas las familias belgas este sigue siendo una empresa familiar
+
+ ------------------------------------------- 
+
+0.0
+line_id 5828742582
+transcript norm:  la verdad toda la familia nos queremos muchisimo y lo que queremos es que en el futuro cuando vengan decisiones de una persona cualquiera que esas sean si ellos deciden siempre seguir juntos y seguir adelante que esas decisiones las tomen ellos en lo personal pero que el proceso que se siga sea un proceso ordenado
+ref norm:         la verdad toda la familia nos queremos muchisimo y lo que queremos es que en el futuro cuando vengan decisiones de una persona cualquiera que esas sean si ellos deciden siempre seguir juntos y seguir adelante que esas decisiones las tomen ellos en lo personal pero que el proceso que se siga sea un proceso ordenado
+
+ ------------------------------------------- 
+
+8.98876404494382
+line_id 5828740866
+transcript norm:  entonces vamos a decirte uno de ellos quisiera ya no pertenece al grupo bueno hay un proceso ordenado en el que todos saben las reglas del juego y se sigue ese proceso y se le da libertad porque no queremos tener amarrados a nadie adoramos a todos y cada uno de ellos y queremos lo mejor para todos y cada uno de ellos pero queremos que sea de una manera ordenada para no autodestruirnos no que eso es lo que pasa muchas veces en las empleos familiares
+ref norm:         entonces vamos a decir que uno de ellos quisiera ya no pertenecer al grupo bueno hay un proceso ordenado en el que todos saben las reglas del juego y se sigue ese proceso y se le da libertad porque no queremos tener amarrados a nadie adoramos a todos y cada uno de ellos y queremos lo mejor para todos y cada uno de ellos pero queremos que sea de una manera ordenada para no autodestruirlos que eso es lo que pasa muchas veces en las en las empresas familiares
+
+ ------------------------------------------- 
+
+10.416666666666668
+line_id 5828723964
+transcript norm:  yo lo vivi dentro de mi propia familia varias veces y vi la autoestupcion grandisima que se genera en pleitos familiares no y es evitar esos pleitos familiares y dar la posibilidad de que la gente haga lo que quiera hacer pero de una manera muy ordenada
+ref norm:         yo lo vivi dentro de mi propia familia varias veces y vivi la autodestruccion grandisima que se genera en pleitos familiares y es evitar esos pleitos familiares y darle una dar la posibilidad de que la gente haga lo que quiera hacer pero de una manera muy ordenada
+
+ ------------------------------------------- 
+
+13.793103448275861
+line_id 5828782151
+transcript norm:  creo que de las lecciones que nosotros sacamos de la historia de mis abuelos es que la verdad es que hay rujena y que si es empresarial
+ref norm:         creo que de las lecciones que nosotros sacamos de la historia de mis abuelos es que pues la verdad es que hay un general ahi que si es empresarial
+
+ ------------------------------------------- 
+
+11.864406779661017
+line_id 5828789877
+transcript norm:  somos gente que tomo riesgos no y una vez que tomamos el riesgo y que emprendemos creo que lo que distinguio muchisimo a mi familia y a las familias con las que nosotros nos asociamos fue el trabajo incansable para construir que venia acompanado tambien del sacrificio porque mi grupo modelo por muchisimos muchisimos anos nunca decarto un dia grande
+ref norm:         somos gente que tomo riesgos y una vez que tomamos el riesgo y que emprendemos creo que lo que distinguio muchisimo a mi familia y a las familias con las que nosotros nos asociamos fue el trabajo incansable para construir que venia acompanado tambien de un sacrificio porque un grupo modelo por muchisimos muchisimos anos nunca recarto un dividendo
+
+ ------------------------------------------- 
+
+5.0
+line_id 5828740435
+transcript norm:  todo siempre se reinvirtio y se reinvirtio porque la verdad ahi la mision era crecer la mision en un principio era destruir 0 sea el pulque era la bebida nacional no el tequila mucha gente cree que el tequila era la bebida nacional y era el pulque y nosotros lo que queriamos es realmente tomar el lugar del pulque y lo que hicieron fue trabajar y trabajar y trabajar y trabajar y algo que parecia imposible se volvio una realidad no
+ref norm:         todo siempre se reinvirtio y se reinvirtio porque la verdad ahi la mision era crecer la mision en un principio era destruir 0 sea el pulque era la bebida nacional no el tequila mucha gente cree que el tequila era la bebida nacional y era el pulque y los otros lo que queriamos es realmente tomar el lugar del pulque y lo que hicieron fue trabajar y trabajar y trabajar y algo que parecia imposible se volvio una realidad no
+
+ ------------------------------------------- 
+
+6.349206349206349
+line_id 5828784515
+transcript norm:  entonces es tomar riesgo ser emprendedor trabajo incansable y disciplina porque se necesita eso para poder construir no y creo que la otra cosa que nos orgullece y que nos distingue mucho y que queremos que es como el trademark de nuestra reputacion es como una etica no solamente de trabajo sino tambien una etica moral dentro de los negocios
+ref norm:         este entonces es es tomar riesgo ser emprendedor trabajo incansable y disciplina porque se necesita eso para poder construir no y creo que la otra cosa que nos orgullese y que nos distingue mucho y que queremos que es como el trademark de nuestra reputacion es es como una etica no solamente de trabajo sino tambien una etica moral dentro de los negocios
+
+ ------------------------------------------- 
+
+1.4925373134328357
+line_id 5828771229
+transcript norm:  mira yo te puedo decir en lo personal que yo que he llevado los dedos de mi familia por muchos anos yo los tengo tatuados en el corazon 0 sea la verdad es que es parte de la cultura de mi familia es parte de lo que vivi de chica de lo que aprendi de lo que veo y vivi en el ejemplo todos los dias no
+ref norm:         mira yo te puedo decir en lo personal que yo que he llevado los negocios de mi familia por muchos anos yo los tengo tatuados en el corazon 0 sea la verdad es que es parte de la cultura de mi familia es parte de lo que vivi de chica de lo que aprendi de lo que veo y vivi en el ejemplo todos los dias no
+
+ ------------------------------------------- 
+
+0.0
+line_id 5828757077
+transcript norm:  entonces yo te puedo decir que si siguen absolutamente vivos y creo que lo que va pasando tambien es que en las generaciones cada generacion que pasa genera otro cachito de la historia y otro cachito de la historia de donde puedes sacar mas lecciones de donde puedes aprender cosas nuevas y entonces es un proceso vivo que se va renovando que se va generando que se va agrandando
+ref norm:         entonces yo te puedo decir que si siguen absolutamente vivos y creo que lo que va pasando tambien es que en las generaciones cada generacion que pasa genera otro cachito de la historia y otro cachito de la historia de donde puedes sacar mas lecciones de donde puedes aprender cosas nuevas y entonces es un proceso vivo que se va renovando que se va generando que se va agrandando
+
+ ------------------------------------------- 
+
+1.8518518518518516
+line_id 5828793206
+transcript norm:  no es un marketing 0 sea creo que esto de verdad es un ejercicio real y verdadero tienes que encontrar cual es el legado que realmente te dejaron los fundadores y cual es esa esencia porque eso es lo que va a acabar siendo el motor hacia adelante del crecimiento de la empresa
+ref norm:         no es un marketing 0 sea creo que esto de verdad es un ejercicio real y verdadero pero tienes que encontrar cual es el legado que realmente te dejaron los fundadores y cual es esa esencia porque eso es lo que va a acabar siendo el motor hacia adelante del crecimiento de la empresa
+
+ ------------------------------------------- 
+
+6.25
+line_id 5828749019
+transcript norm:  si tu no tienes una familia que esta de acuerdo y que todos quieren crecer la empresa seguir adelante con ella a veces hacer sacrificios para poder sacarla adelante porque eso esta en los papeles por grande que sea hay que hacer sacrificios para sacarla adelante y si no estas de comun acuerdo en eso trae z para el desastre trae z definitiva para el desastre
+ref norm:         si tu no tienes una familia que esta de acuerdo y que todos quieren crecer la empresa seguir adelante con ella a veces hacer sacrificios para poder sacarla adelante porque eso esta en los papeles por grande que sea hay que hacer sacrificios para sacarla adelante y si no estas de comun acuerdo en eso receta para el desastre receta definitiva para el desastre
+
+ ------------------------------------------- 
+
+14.285714285714285
+line_id 5828734029
+transcript norm:  que creas que como los valores de una familia son diferentes de los valores ya de la empresa en cierto modo pero no son disimiles 0 sea a lo mejor tu tienes a lo mejor a ser tus valores familiares pero a lo mejor esos valores familiares digamos son un poco mas soft menos economicos digamos son mas eticos si quieres decirles
+ref norm:         lo que creo es que como los valores de una familia son diferentes de los valores ya de la empresa en cierto modo pero no son disimiles 0 sea a lo mejor 0 sea tu tienes a lo mejor ciertos valores familiares pero a lo mejor esos valores familiares digamos son un poco mas soft menos economicos digamos son mas eticos quieres decirles
+
+ ------------------------------------------- 
+
+4.6875
+line_id 5828776094
+transcript norm:  y a la hora en que los trasladas a los valores de la empresa los vuelves un poco mas 0 sea tu no pondrias como un valor de la familia generacion de valor pero si quieres que tus empresas generen valor y luego defines valor porque el valor puede tener muchas acepciones no este no se cumplimiento de metas muchas cosas no si
+ref norm:         y a la hora en que los trasladas a los valores de la empresa los vuelves los vuelves un poco mas 0 sea tu no pondrias como un valor de la familia generacion de valor pero si quieres que tus empresas generen valor y luego defines valor porque el valor puede tener muchas acepciones no este no se cumplimiento de metas muchas cosas no
+
+ ------------------------------------------- 
+
+6.666666666666667
+line_id 5828783102
+transcript norm:  entonces creo que no pueden ser 0 sea no puedes decir sabes que a ver aqui honestidad integridad y cosas de ese tipo y despues dedicarte al narcotrafico
+ref norm:         entonces creo que no pueden ser 0 sea no puedes decir sabes que a ver aqui este honestidad integridad y cosas de ese tipo y despues pues dedicarte al narcotrafico
+
+ ------------------------------------------- 
+
+6.0606060606060606
+line_id 5828717321
+transcript norm:  si mira nosotros la verdad somos una familia que cree profundamente en dios y que la verdad es un motor muy importante de la familia pero ademas de eso creemos en el amor incondicional no solamente a dios sino a todos y a cada uno de los miembros de la familia y esa incondicionalidad te puedo decir que siempre esta ahi no
+ref norm:         si mira nosotros la verdad somos una familia que cree profundamente en dios y que la verdad 0 sea eso es un motor muy importante de la familia pero ademas de eso este creemos en el amor incondicional no solamente a dios sino a todos y a cada uno de los miembros de la familia y esa incondicionalidad te puedo decir que siempre esta ahi no
+
+ ------------------------------------------- 
+
+12.962962962962962
+line_id 5828769279
+transcript norm:  ahorita por ejemplo una de mis sobrinas tuvo un problema en espana y la familia corrio a todo el mundo a ayudar porque hay un amor incondicional hacia la familia tenemos como valor la unidad tenemos como valor la integridad tenemos como valor la palabra que tanto odias humildad y la otra nuestro que los mamones
+ref norm:         ahorita por ejemplo una de mis sobrinas tuvo un problema en espana y pues la familia corrio todo el mundo a ayudar porque hay un amor incondicional hacia la familia tenemos como valor la unidad tenemos como valor la integridad tenemos como valor la palabra que tanto odias humildad no nos chocan los mamones
+
+ ------------------------------------------- 
+
+96.22641509433963
+line_id 5828745092
+transcript norm:  no puedes nada mas subsistir no puedes nada mas navegar sin rumbo sino cada quien tiene que tener un proposito y ese proposito puede ser diferente para cada quien porque la verdad el asset mas importante de una familia son sus propios miembros
+ref norm:         ahorita por ejemplo una de mis sobrinas tuvo un problema en espana y la familia corrio todo el mundo a ayudar porque hay un amor incondicional hacia la familia tenemos como valor la unidad tenemos como valor la integridad tenemos como valor la palabra que tanto odias humildad no nos chocan los mamones
+
+ ------------------------------------------- 
+
+9.615384615384617
+line_id 5828739301
+transcript norm:  ahi tienes puedes tener el capital financiero y ese es un asset pero es capital humano es capital intelectual es capital emocional que existe dentro de la familia es algo que debe valorarse muchisimo y no nada mas eso tiene que cultivarse y tiene que crecerse y tiene que darse la causa no
+ref norm:         ahi tienes puedes tener el capital financiero y ese es un asset pero el capital humano el capital intelectual el capital emocional que existe dentro de la familia es algo que debe valorarse muchisimo y no nada mas eso tiene que cultivarse y tiene que crecerse y tiene que darsele causa no
+
+ ------------------------------------------- 
+
+0.0
+line_id 5828765829
+transcript norm:  que bueno que haya diferentes vocaciones que bueno que hay diferentes formas de ver la vida y el mundo y que bueno que como familia podemos enriquecer nuestro ambiente de negocios desde diferentes perspectivas y desde diferentes puntos de vista
+ref norm:         que bueno que haya diferentes vocaciones que bueno que hay diferentes formas de ver la vida y el mundo y que bueno que como familia podemos enriquecer nuestro ambiente de negocios desde diferentes perspectivas y desde diferentes puntos de vista
+
+ ------------------------------------------- 
+
+0.0
+line_id 5828763446
+transcript norm:  es generacion de valor es resultados nosotros la verdad es que buscamos ser una empresa que trae resultados que trae resultados positivos entonces esos son valores economicos que no pondrias en una familia pero no dejan de ser congruentes con los valores que tienes como familia ahi esta la honestidad ahi esta la integridad valores eticos
+ref norm:         es generacion de valor es resultados nosotros la verdad es que buscamos ser una empresa que trae resultados que trae resultados positivos entonces esos son valores economicos que no pondrias en una familia pero no dejan de ser congruentes con los valores que tienes como familia ahi esta la honestidad ahi esta la integridad valores eticos
+
+ ------------------------------------------- 
+
+9.803921568627452
+line_id 5828766034
+transcript norm:  caso por ejemplo fue el tema de la opositoria que estuvo en los medios todos ustedes lo conocen y claramente digo creo que fue muy muy claro que we stood 0 sea estuvimos parados detras de nuestros valores y hicimos lo correcto aunque hubiera sido mas facil tomara el camino incorrecto a el
+ref norm:         caso por ejemplo fue el tema de lopez doriga que estuvo en los medios todos ustedes lo conocen y claramente digo creo que fue muy muy claro que we stood 0 sea estuvimos parados detras de nuestros valores y hicimos lo correcto aunque hubiera sido mas facil tomar el camino incorrecto
+
+ ------------------------------------------- 
+
+13.114754098360656
+line_id 5828715774
+transcript norm:  pero estuvimos detras de nuestros valores y estuvimos ahi y fue un camino de espinase pero estuvimos detras de nuestros valores y lo cumplimos no y creo que ejemplos como ese digo ha habido algunos no muchos pero realmente creo que en ese sentido hemos sido congruentes reborenamos lo que hablamos y lo que hacemos
+ref norm:         pero estuvimos detras de nuestros valores y estuvimos ahi y fue un camino de espinas pero estuvimos detras de nuestros valores y lo cumplimos no y creo que ejemplos como ese digo ha habido algunos no muchos gracias a dios pero realmente creo que en ese sentido hemos sido congruentes ante lo que pensamos lo que hablamos y lo que hacemos
+
+ ------------------------------------------- 
+
+2.380952380952381
+line_id 3026874439
+transcript norm:  hola hola bienvenida bienvenido a un nuevo episodio de querido universo podcast yo soy erin cacerin tu host y como siempre beauty la mas feliz y agradecida de compartir contigo este capitulo que como ya sabemos son capitulos llenos de expansion magia
+ref norm:         hola hola bienvenida bienvenido a un nuevo episodio de querido universo podcast yo soy erin casarin tu host y como siempre beauty la mas feliz y agradecida de compartir contigo este capitulo que como ya sabemos son capitulos llenos de expansion magia
+
+ ------------------------------------------- 
+
+3.1746031746031744
+line_id 3026813813
+transcript norm:  hace algunas semanas atras te comparti que regrese a mi bello mexico a mi mexico lindo y querido lo digo y ahorita como que me cae el 20 de wey ya es pasado 0 sea ya lo viviste ya lo disfrutaste ya sucedio algo que habias anhelado tanto tiempo y durante tantos meses pues ya y estuvo ya lo lograste ya se manifesto
+ref norm:         hace algunas semanas atras te comparti que regrese a mi bello mexico a mi mexico lindo y querido lo digo y ahorita como que me cae el 20 de guey ya es pasado 0 sea ya lo viviste ya lo disfrutaste ya sucedio algo que habias anhelado tanto tiempo y durante tantos meses pues ya ya estuvo ya lo lograste ya se manifesto
+
+ ------------------------------------------- 
+
+5.172413793103448
+line_id 3026839183
+transcript norm:  y fue el reencuentro con mi madre con mi familia con mis amigos amigas fue maravilloso beauty fue hermoso regresar a mis raices y llevar al amor de mi vida a que conociera 0 sea a mi esposo a que conociera de donde vengo mi familia mi entorno mi pueblo tlalixcoyan veracruz fue algo indescriptible
+ref norm:         y fue el reencuentro con mi madre con mi familia con mis amigos con mis amigas fue maravilloso beauty fue hermoso regresar a mis raices y llevar al amor de mi vida a que conociera 0 sea a mi esposo a que conociera mi de donde vengo mi familia mi entorno mi pueblo tlalixcoyan veracruz fue algo indescriptible
+
+ ------------------------------------------- 
+
+4.651162790697675
+line_id 3026894408
+transcript norm:  todos fueron complices y estuvo maravilloso entonces el regresar a mi tierra fue una de las peticiones que desde principios de ano yo tenia en mi vision board y sabia que eso se iba a dar sabia que esa co creacion iba a llegar
+ref norm:         todos fueron complices y estuvo maravilloso entonces el regresar a mi tierra fue una de las peticiones que desde principios de ano yo tenia en mi vision board y sabia que eso se iba a dar sabia que esa cocreacion iba a llegar
+
+ ------------------------------------------- 
+
+0.0
+line_id 3026841935
+transcript norm:  esta manifestacion no estaba bajo mi control beauty y es que a ver que el control es una ilusion enorme porque en realidad solo tenemos control de nuestros pensamientos sentimientos emociones y palabras actos pero de ahi en fuera pues realmente estamos regidos por una fuerza universal que es el poder del universo la energia como tal
+ref norm:         esta manifestacion no estaba bajo mi control beauty y es que a ver que el control es una ilusion enorme porque en realidad solo tenemos control de nuestros pensamientos sentimientos emociones y palabras actos pero de ahi en fuera pues realmente estamos regidos por una fuerza universal que es el poder del universo la energia como tal
+
+ ------------------------------------------- 
+
+0.0
+line_id 3026885360
+transcript norm:  y cuando tu te enlazas cuando tu invitas al universo a que se convierta en tu socio de vida todos esos suenos esas peticiones llegan con gran facilidad gozo y gloria a tu vida y hoy justo en este capitulo te quiero compartir esta parte de como hacer al universo tu socio de vida
+ref norm:         y cuando tu te enlazas cuando tu invitas al universo a que se convierta en tu socio de vida todos esos suenos esas peticiones llegan con gran facilidad gozo y gloria a tu vida y hoy justo en este capitulo te quiero compartir esta parte de como hacer al universo tu socio de vida
+
+ ------------------------------------------- 
+
+0.0
+line_id 3026861262
+transcript norm:  si hay algo un punto medular que a mi me ha ayudado a manifestar no solo este reencuentro no solo mi green card sino muchas de las otras cosas que he manifestado estos ultimos meses ha sido eso beauty que yo desde lo mas profundo de mi corazon y en plena conciencia y presencia elegi invitar al universo a ser mi socio de vida
+ref norm:         si hay algo un punto medular que a mi me ha ayudado a manifestar no solo este reencuentro no solo mi green card sino muchas de las otras cosas que he manifestado estos ultimos meses ha sido eso beauty que yo desde lo mas profundo de mi corazon y en plena conciencia y presencia elegi invitar al universo a ser mi socio de vida
+
+ ------------------------------------------- 
+
+0.0
+line_id 3026861075
+transcript norm:  cuando tu lo invitas a que cree magia en los diferentes proyectos peticiones suenos metas que tienes cuando tu invitas al universo creeme que se forma una sociedad tal cual una sociedad en la que el te contribuye con toda su magia con todo su poder obviamente al ser una sociedad es de dos de dos personas
+ref norm:         cuando tu lo invitas a que cree magia en los diferentes proyectos peticiones suenos metas que tienes cuando tu invitas al universo creeme que se forma una sociedad tal cual una sociedad en la que el te contribuye con toda su magia con todo su poder obviamente al ser una sociedad es de dos de dos personas
+
+ ------------------------------------------- 
+
+0.0
+line_id 3026822449
+transcript norm:  entonces tu tienes que accionar y el te va a respaldar en cada uno de esos pasos que tu vas a ir dando en la construccion de la vida de tus suenos asi que por eso titule este capitulo el universo mi socio de vida
+ref norm:         entonces tu tienes que accionar y el te va a respaldar en cada uno de esos pasos que tu vas a ir dando en la construccion de la vida de tus suenos asi que por eso titule este capitulo el universo mi socio de vida
+
+ ------------------------------------------- 
+
+1.7241379310344827
+line_id 3026847513
+transcript norm:  y como puedes tu que me estas escuchando crear esa conexion con el universo en donde sea tu partner en donde sea tu compa mario en donde sea ese amigo ese socio que va a estar ahi siempre para cacharte en el vuelo para respaldarte para darte ese empujoncito que a veces requerimos para que las cosas sucedan
+ref norm:         y como puedes tu que me estas escuchando crear esta conexion con el universo en donde sea tu partner en donde sea tu compa mario en donde sea ese amigo ese socio que va a estar ahi siempre para cacharte en el vuelo para respaldarte para darte ese empujoncito que a veces requerimos para que las cosas sucedan
+
+ ------------------------------------------- 
+
+1.8181818181818181
+line_id 5828732271
+transcript norm:  entonces aqui te voy a compartir algunos tips para que a partir de ahora empieces a invitar al universo a esta sociedad que se llama vida para que cree magia en tu presente y te ayude a manifestar la vida de tus suenos primer tip que te voy a compartir debes de vivir con intencion tranquila
+ref norm:         entonces aqui te voy a compartir algunos tips para que a partir de ahora empieces a invitar al universo a esta sociedad que se llama vida para que cree magia en tu presente y te ayude a manifestar la vida de tus suenos primer tip que te voy a compartir debes de vivir con intencion
+
+ ------------------------------------------- 
+
+5.555555555555555
+line_id 3026826991
+transcript norm:  a que me refiero cuando hablo de vivir con intencion vivir en el tiempo presente olvidate del pasado el pasado ya fue creado no lo puedes sobreclear es algo que ya sucedio el futuro se crea en el presente entonces cuando tu vives en conciencia y con intencion te anclas al tiempo presente
+ref norm:         a que me refiero cuando hablo de vivir con intencion beauty vivir en el tiempo presente olvidate del pasado el pasado ya fue creado no lo puedes sobrecrear es algo que ya sucedio el futuro se cree en el presente entonces cuando tu vives en conciencia y con intencion te anclas al tiempo presente
+
+ ------------------------------------------- 
+
+3.389830508474576
+line_id 3026892232
+transcript norm:  te pongo el ejemplo de la green card cuando a mi me regresaron los papeles te acuerdas de ese episodio que les grabe hace algun tiempo en donde te comparti que me regresaron los papeles ya habiamos enviado toda la documentacion y al final faltaba un check que las evidencias y nos regresaron todo el bonche de papeles beauty
+ref norm:         te pongo el ejemplo de la green card cuando a mi me regresaron los papeles te acuerdas ese episodio que les grabe hace algun tiempo en donde te comparti que me regresaron los papeles ya habiamos enviado toda la documentacion y al final faltaba que un check que las evidencias y nos regresaron todo el bonche de papeles beauty
+
+ ------------------------------------------- 
+
+1.2987012987012987
+line_id 3026881755
+transcript norm:  y en ese momento yo tenia de dos 0 me iba al pasado y empezaba a echar culpas de es que porque el abogado no nos informo bien y es que el tuvo la culpa 0 vivia en el presente y decia a ver 0 voy a ser victima de las circunstancias 0 voy a ser la protagonista chingona que va a solucionar este tema elegi la segunda vivir en el presente vivir con intencion que hice
+ref norm:         y en ese momento yo tenia de dos 0 me iba al pasado y empezaba a echar culpas de es que porque el abogado no nos informo bien y es que el tuvo la culpa 0 vivi en el presente y decia a ver 0 voy a ser victima de las circunstancias 0 voy a ser la protagonista chingona que va a solucionar este tema elegi la segunda vivir en el presente vivir con intencion que hice
+
+ ------------------------------------------- 
+
+0.0
+line_id 3026862748
+transcript norm:  ok nos informamos como podiamos mejorar el envio de la documentacion en esta ocasion y antes de enviar el bonche de papeles sabes lo que hice los intencione los tome con mis manos acuerdate que tus manos son canales energeticos a traves de tus manos emites energia y recibes energia
+ref norm:         ok nos informamos como podiamos mejorar el envio de la documentacion en esta ocasion y antes de enviar el bonche de papeles sabes lo que hice los intencione los tome con mis manos acuerdate que tus manos son canales energeticos a traves de tus manos emites energia y recibes energia
+
+ ------------------------------------------- 
+
+5.128205128205128
+line_id 5828793734
+transcript norm:  entonces tome ese bonche de papeles todos los formularios las evidencias los checks que se tienen que enviar los tome entre mis manos y les puse la intencion tu me diras erenpro como es ponerle la intencion acuerdate que cuando nos vamos mucho hacia el como estamos pensando y analizando todo a traves del raciocinio humano a traves de la mente humana y en realidad en temas energeticos lo que menos hay que meter es la mentira
+ref norm:         entonces tome ese bonche de papeles todos los formularios las evidencias los checks que se tienen que enviar los tome entre mis manos y les puse la intencion tu me diras erin pero como es ponerle la intencion acuerdate que cuando nos vamos mucho hacia el como estamos pensando y analizando todo a traves del racocinio humano a traves de la mente humana y en realidad en temas energeticos lo que menos hay que meter es la mente
+
+ ------------------------------------------- 
+
+1.7857142857142856
+line_id 3026828502
+transcript norm:  entonces asi como intenciono mi vasito con agua de la misma forma intencione los documentos que enviamos a migracion y biori lo demas es historia lo demas ya te lo sabes tres meses y medio y me aprobaron el tramite me llego mi green card ya fui a visitar a mi familia todo salio muy bien
+ref norm:         entonces asi como intenciono mi vasito con agua de la misma forma intencione los documentos que enviamos a migracion y beauty lo demas es historia lo demas ya te lo sabes tres meses y medio y me aprobaron el tramite me llego mi green card ya fui a visitar a mi familia todo salio muy bien
+
+ ------------------------------------------- 
+
+0.0
+line_id 3026842157
+transcript norm:  todo salio mucho mejor de lo que yo esperaba porque estaba preparada para cualquier tipo de escenario sin embargo esto de soy la excepcion a la regla yo elegi ser la excepcion a la regla y yo elegi desde lo mas profundo de mi corazon decir sabes que voy a ser la excepcion a la regla y se que mi tramite va a demorar menos de lo que normalmente demora pero aqui el tema es la intencion que yo le puse
+ref norm:         todo salio mucho mejor de lo que yo esperaba porque estaba preparada para cualquier tipo de escenario sin embargo esto de soy la excepcion a la regla yo elegi ser la excepcion a la regla y yo elegi desde lo mas profundo de mi corazon decir sabes que voy a ser la excepcion a la regla y se que mi tramite va a demorar menos de lo que normalmente demora pero aqui el tema es la intencion que yo le puse
+
+ ------------------------------------------- 
+
+1.8867924528301887
+line_id 3026833673
+transcript norm:  la intencion que yo le puse a esa documentacion de que todo iba a fluir con gran facilidad gozo y gloria de que esa documentacion iba a llegar a las manos de un agente migratorio super buena onda relajado que le iba a dar el visto bueno muy rapido todo eso yo lo intencione
+ref norm:         la intencion que yo le puse esa documentacion de que todo iba a fluir con gran facilidad gozo y gloria de que esa documentacion iba a llegar a las manos de un agente migratorio super buena onda relajado que le iba a dar el visto bueno muy rapido todo eso yo lo intencione
+
+ ------------------------------------------- 
+
+0.0
+line_id 3026841400
+transcript norm:  entonces cuando eliges que el universo sea tu socio de vida debes de tener bien en clara tus intenciones en cada paso que vayas dando en la construccion de la vida de tus suenos te pongo otro ejemplo de intenciones te di el del vaso con agua te di el de mi documentacion para mi tramite de la residencia y otro ejemplo tangible que justo estoy viviendo en estos momentos es el deck de cartas
+ref norm:         entonces cuando eliges que el universo sea tu socio de vida debes de tener bien en clara tus intenciones en cada paso que vayas dando en la construccion de la vida de tus suenos te pongo otro ejemplo de intenciones te di el del vaso con agua te di el de mi documentacion para mi tramite de la residencia y otro ejemplo tangible que justo estoy viviendo en estos momentos es el deck de cartas
+
+ ------------------------------------------- 
+
+11.428571428571429
+line_id 8038615738
+transcript norm:  como te sabes esa historia fijate que carlos remer que yo lo considero el padrino de mi carrera profesional es una persona con un corazon enorme pero que tu mas corazon que cabeza que cuerpo .
+ref norm:         como te sabes esa historia fijate que carlos bremer que yo lo considero el padrino de mi carrera profesional es una persona con un corazon enorme creo que tuvo mas corazon que cabeza que cuerpo
+
+ ------------------------------------------- 
+
+9.836065573770492
+line_id 8038656334
+transcript norm:  entonces el siempre me incluia en todos sus planes me empezo a patrocinar en 2017 y a partir de ahi empezamos a tener una amistad mas que una relacion de patrocinador jugadora no y tuve una conexion muy bonita donde yo lo veia como un papa y un padre y no porque siempre estaba al pendiente de mi golf siempre me echaba porras .
+ref norm:         entonces el siempre me incluye en todos sus planes me empezo a patrocinar en 2017 y a partir de ahi empezamos a tener una amistad mas que una relacion de patrocinador jugadora no y tuve una conexion muy bonita donde yo lo vea como un papa y un padrino porque siempre estaba al pendiente de mi golf siempre me echaba porras
+
+ ------------------------------------------- 
+
+20.0
+line_id 8038629503
+transcript norm:  compartia mucho el escenario pero creo que la virtud de realmente poder ver y poner a lo demas enfrente de ti es valiosisima
+ref norm:         entonces comparte mucho el escenario pero creo que la virtud de realmente poder ver y poner a los demas en frente de ti es valiosisima
+
+ ------------------------------------------- 
+
+15.068493150684931
+line_id 8038615130
+transcript norm:  y nos ensena a mi muchisimo porque estamos sobre todo yo en el carrara que es un deporte de mucho yo yo yo de muchos mis tiempos mis practicas ya sabes y poder poner por ejemplo al staff de los torneos a los que yo voy a los cocineros a los groundkeepers a toda esa gente que esta detras de los torneos enfrente de mi
+ref norm:         y nos ensena a mi muchisimo porque estamos sobre todo yo en mi carrera que es un deporte de mucho pues de mucho yo yo yo de muchos mis tiempos mis practicas ya sabes y poder poner por ejemplo a los al staff de los torneos a los que yo voy a los a los cocineros a los groundkeepers a toda esa gente que esta detras de los torneos en frente de mi
+
+ ------------------------------------------- 
+
+8.823529411764707
+line_id 8038688153
+transcript norm:  y llega y me dice es que yo le empece a preguntar que hacias tu cuando estabas muy nervioso pues en un partido de mexico con la seleccion con toda la presion de que eres culpa de la jun de que tienes todo esto encima y me dijo sabes que cuando yo le di el click a mi carrera cuando le di la vuelta fue cuando me permiti sentirlo
+ref norm:         y llega y me dice es que yo le empece a preguntar que hacias tu cuando estabas muy nervioso pues en un partido de mexico con la seleccion con toda la presion de que es culpa del ayun de que tienes todo esto encima y me dijo sabes que cuando yo le di el clic a mi carrera cuando le di la vuelta fue cuando me permiti sentir
+
+ ------------------------------------------- 
+
+4.918032786885246
+line_id 8038659164
+transcript norm:  cuando realmente me doy chance de sentir lo que estoy sintiendo y no trato de bloquearlo me intento de negarlo me intento de ignorarlo porque cuando lo ignoras cuando lo niegas cuando no lo aceptas se hace mas fuerte y tiene mas poder y se empieza a revolucionar este dia de no estoy nerviosa estoy nerviosa no estoy nerviosa tranquila tranquila .
+ref norm:         cuando realmente me doy chance de sentir lo que estoy sintiendo y no trato de bloquearlo no intento de negarlo no intento de ignorarlo porque cuando lo ignoras cuando lo niegas cuando no lo aceptas se hace mas fuerte y tiene mas poder y se empieza a revolucionar este dia de no estoy nerviosa estoy nerviosa no estoy nerviosa tranquila tranquila
+
+ ------------------------------------------- 
+
+3.571428571428571
+line_id 8038668912
+transcript norm:  0 sea que hacias que te decias y yo creo que lorena es una persona tan natural como que si tu la conoces es una mujer tan echada para adelante de naturaleza es una mujer que una adversidad la va a tomar como un reto muy natural siempre con el lado positivo siempre con el lado optimista
+ref norm:         0 sea que hacias que te decias y yo creo que lorena es una persona tan natural como que si tu la conoces una mujer tan echada para adelante de naturaleza es una mujer que una adversidad lo va a tomar como un reto muy natural siempre con el lado positivo siempre con el lado optimista
+
+ ------------------------------------------- 
+
+2.7027027027027026
+line_id 8038667749
+transcript norm:  y yo no yo soy un poquito mas de como que lo siento me pega y luego le enfrento entonces lorena como que me decia y yo de que no dime como y yo luego ya entendi
+ref norm:         y yo no yo soy un poquito mas de como que lo siento me pega y luego lo enfrento entonces lorena como que me decia y yo de que no dime como y yo luego ya entendi
+
+ ------------------------------------------- 
+
+22.22222222222222
+line_id 8038612268
+transcript norm:  entonces eugenio es una persona es decir tu no seas un canari decimos que somos ardillas los dos 0 sea estamos todo el tiempo activos estamos volcando a ver que nuestro sistema nervioso esta muy activo
+ref norm:         entonces eugenio es una persona ayer tuve una sesion con el y decimos que somos ardillas los dos 0 sea estamos todo el tiempo activos estamos volteando a ver que nuestro sistema nervioso esta muy activo
+
+ ------------------------------------------- 
+
+4.918032786885246
+line_id 8038643070
+transcript norm:  entonces esta pendiente de todo y todo lo quiere hacer y todo lo quiere lograr y todo lo quiere solucionar entonces me se agujere como que este cerebro superactivo es muy importante es muy bueno pero hay que saber ponerle frenos hay que frenarlo hay que cuando tenga la curva cerrada hay que ponerle frenos buenos para que no te estrelles
+ref norm:         entonces esta pendiente de todo y todo lo quiere hacer y todo lo quiere lograr y todo lo quiere solucionar entonces me decia eugenio como que este cerebro superactivo es muy importante es muy bueno pero hay que saber ponerle frenos hay que frenarlo hay que como tenga la curva cerrada hay que ponerle frenos buenos para que no te estrelles
+
+ ------------------------------------------- 
+
+6.25
+line_id 8038693738
+transcript norm:  pero ya con eugenio estoy usando mas la parte un poco mas tecnica de como yo lo puedo llevar al campo de golf entonces con eugenio estamos en esa parte y esta muy padre muy interesante porque como dice horacio mi profesor el que no mide adivina
+ref norm:         pero ya con eugenio estoy haciendo mas la parte un poco mas tecnica de como yo ahora lo puedo llevar al campo de golf entonces con eugenio estamos haciendo esa parte y esta muy padre muy interesante porque como dice horacio mi profesor el que no mide adivina
+
+ ------------------------------------------- 
+
+3.125
+line_id 8038680762
+transcript norm:  entonces si no estamos midiendo el progreso si no estamos midiendo el avance si no estamos midiendo lo que tu cuerpo lo que tu mente esta haciendo como sabemos a donde vamos y que tenemos que cambiar para ir mas lejos entonces el gimno me esta ayudando como que a medir mis cosas a medir como duermo a medir como descanso a medir como medito
+ref norm:         entonces si no estamos midiendo el progreso si no estamos midiendo el avance si no estamos midiendo lo que tu cuerpo lo que tu mente esta haciendo como sabemos a donde vamos y que tenemos que cambiar para ir mas lejos entonces eugenio me esta ayudando como que a medir mis cosas a medir como duermo a medir como descanso a medir como medito
+
+ ------------------------------------------- 
+
+5.660377358490567
+line_id 8038614722
+transcript norm:  pero ese tipo de cosas que son justamente como hacer la conexion entre tu corazon y tu mente a traves de tecnicas de respiracion de hielo de meditacion entonces ese tipo de cosas es super importante y mas para nuestro deporte que llega a ser mucha presion sin tener que hacer mucho
+ref norm:         pero este tipo de cosas que son justamente como hacer la conexion entre tu corazon y tu mente a traves de tecnicas de respiracion de hielo de meditacion entonces este tipo de cosas es super importante y mas para nuestro deporte que llega a ser de mucha presion sin tener que hacer mucho
+
+ ------------------------------------------- 
+
+7.352941176470589
+line_id 8038632759
+transcript norm:  estas parado y de repente el corazon te esta latiendo muy fuerte y sin hacer nada me explico entonces tienes que tener una tecnica de respiracion un metodo de dialogo interno y de meditacion en si para poder calmarte pero esta bien que te quedes dormido porque yo tambien me he quedado dormido muchas veces y el mio lleva nueve horas ahi dando vueltas no
+ref norm:         0 sea estas parado y de repente el corazon te esta latiendo muy fuerte y sin hacer nada me explico entonces tienes que tener una tecnica de respiracion un metodo de dialogo interno y pues de meditacion en si para poder calmarte pero esta bien que te quedes dormido porque yo tambien me he quedado dormido muchas veces y el mius lleva nueve horas ahi dando vuelta no
+
+ ------------------------------------------- 
+
+11.11111111111111
+line_id 8038617753
+transcript norm:  cuando estoy en torna fijate que me ha cambiado un poco mi manera de hacer todo este tipo de recovery pero como estaba al principio en mi carrera profesional todos los dias me metia a llenar
+ref norm:         cuando estoy en torneo fijate que me ha cambiado un poco mi manera de hacer todo este tipo de recovery pero cuando estaba al principio en mi carrera profesional todos los dias me metia el hielo
+
+ ------------------------------------------- 
+
+7.4074074074074066
+line_id 8038641500
+transcript norm:  0 sea en la tina ponia 20 kilos de hielo mi mama y yo ibamos al oxxo 0 alla en estados unidos al super poniamos el hielo y me metia 10 minutos y todos los dias de lunes a domingo y era cuando no tenia yo el capital para poder tener a un fisioterapeuta
+ref norm:         0 sea hacia en latina ponia 20 kilos de hielo mi mama y yo ibamos al oxo 0 alla en estados unidos al super poniamos el hielo y me metia 10 minutos y todos los dias de lunes a domingo y era cuando no tenia yo el capital para poder tener a un fisioterapeuta
+
+ ------------------------------------------- 
+
+9.75609756097561
+line_id 8038676741
+transcript norm:  entonces era mi manera de recuperarme no y es que lo aprendi en la universidad en arkansas ahi fue donde dije pues a mi me forzaron pues ahora me forzo porque pues estoy en ligas mayores y tengo que elevarme no
+ref norm:         entonces esta era mi manera de recuperarme no y esto lo aprendi en la universidad en arkansas ahi fue donde dije pues a mi me forzaban pues ahora me forzo porque pues estoy en ligas mayores y tengo que elevarme no
+
+ ------------------------------------------- 
+
+29.82456140350877
+line_id 8038618313
+transcript norm:  entonces lo hacia lo hacia lo hacia y luego pues empece ya tenia pues ya podia tener los pochonadores y tenia justamente el igno para un fisioterapeuta que ya me pues a mi me dio mi pensar ya no me tengo que sacrificar me tengo que meter en mal hielo me ayuda a hacer estiramientos me ayuda como que flush las piernas la espalda todo todo
+ref norm:         entonces lo hacia lo hacia lo hacia y luego pues ya podia tener mas posicionadores y tenia justamente el dinero para pagar un fisioterapeuta que ya me pues a mi pensar ya no me tengo que sacrificar de meterme al hielo me ayuda a hacer estiramientos me ayuda como que flush las piernas la espalda todo todo
+
+ ------------------------------------------- 
+
+12.727272727272727
+line_id 8038632267
+transcript norm:  entonces el tambien pues era como que todo que medir todo para que ese minimo 0 sea marginal gain pueda aplicarlo porque pues puedo dar un extra entonces un poquito todos los dias y asi como muchos libros como el atomic habits que te dicen un poquito que lo que es neta es la diferencia
+ref norm:         entonces el tambien pues era como que tengo que medir todo para que ese minimo 0 sea marginal gain pueda aplicarlo porque pues puedo dar un extra entonces un poquito todos los dias y asi como muchos libros como el atomic habits que te dicen un poquito todos los dias netas y hacen la diferencia
+
+ ------------------------------------------- 
+
+9.75609756097561
+line_id 8038681464
+transcript norm:  entonces la meditacion las respiraciones la visualizacion el descanso y todos lo vamos como que midiendo y lo vamos viendo cada vez mejor pues en tres meses seis meses un ano va a dar fotos entonces si mido el sueno
+ref norm:         entonces la meditacion las respiraciones la visualizacion el descanso y todo si lo vamos como que midiendo y lo vamos haciendo cada vez mejor pues en tres meses seis meses un ano va a dar frutos entonces si mido el sueno
+
+ ------------------------------------------- 
+
+13.333333333333334
+line_id 8038641348
+transcript norm:  0 sea para poder conectar con gaby tienes que entender a gaby y tienes que entenderla que esta haciendo cambios tecnicos tienes que entenderla que esta haciendo cambios mentales cambios de habitos y todo eso no puedes esperar que venga para otra sala
+ref norm:         0 sea para poder conectar con gaby tienes que entender a gaby y tienes que entenderla que esta haciendo cambios tecnicos tienes que entenderla que esta haciendo cambios mentales cambios de habitos y todo eso no puede esperar que de un dia para otro salga
+
+ ------------------------------------------- 
+
+9.30232558139535
+line_id 8038612598
+transcript norm:  no pero mi intensidad mi fuego mi fierce pues eso quiere y eso dice ya entonces pues si al dia siguiente ese dia por ejemplo escribi como como gaby te entiendo tranquila estoy contigo estas haciendo un cambio y te vas a salir
+ref norm:         no pero mi intensidad mi fuego mi fears pues eso quiere y eso dice ya entonces pues si al dia siguiente pues ese dia por ejemplo escribi como gaby te entiendo tranquila estoy contigo estas haciendo un cambio y te va a salir
+
+ ------------------------------------------- 
+
+1.9230769230769231
+line_id 8038643446
+transcript norm:  como hemos pasado por muchos momentos muy fuertes muy duros y esta es una piedrita mas que te va a hacer llegar y tener un castillo mas bonito no 0 sea lo hice mucho will smith en su libro como que just focus on laying one brick at a time perfectly well
+ref norm:         como hemos pasado por muchos momentos muy fuertes muy duros y esta es una piedrita mas que te va a hacer llegar y tener un castillo mas bonito no 0 sea lo dice mucho will smith en su libro como que just focus on laying one brick at a time perfectly well
+
+ ------------------------------------------- 
+
+7.142857142857142
+line_id 8038636938
+transcript norm:  y eso es es pasito a pasito muchas veces el jueves ya queremos estar de lideres y el jueves empece en lugar 95 y acabe el domingo en lugar 8 octavo no entonces si es un pasito a pasito es paciencia es ser buena es ser tranquila es estar calmada es el darme mucho self love .
+ref norm:         y eso es es pasito a pasito muchas veces el jueves ya queremos estar de lideres y el jueves empece en lugar 95 y acabe el domingo en lugar 8 octavo no entonces si es un pasito a pasito es paciencia de ser buena de ser tranquila de estar calmada es el darme mucho self love
+
+ ------------------------------------------- 
+
+2.380952380952381
+line_id 8038643665
+transcript norm:  se llaman divine nature es de un cuate que esta en scottsdale arizona y el estudio medicina y estudio le encanto 0 sea como que la parte de todo lo que era la autonomia y todo lo que era la sangre
+ref norm:         se llaman divine nature es de un cuate que esta en scottsdale arizona y el estudio medicina y estudio le encanto 0 sea como que la parte de todo de lo que era la autonomia y todo lo que era la sangre
+
+ ------------------------------------------- 
+
+4.545454545454546
+line_id 8038699348
+transcript norm:  y a la mitad se salio de la carga porque dijo no estan envenenando y no estan metiendo en el mercado farmaceutico que solamente estan mintiendo y envenenando a la gente 0 sea esto esta mal entonces si se salio hizo su propio research
+ref norm:         y a la mitad se salio de la carrera porque dijo no estan envenenando y no estan metiendo en la mercado farmaceutico que solamente estan mintiendo y envenenando a la gente 0 sea esto esta mal entonces si se salio hizo su propio research
+
+ ------------------------------------------- 
+
+7.317073170731707
+line_id 8038635653
+transcript norm:  y este cuate basicamente tiene una teoria super interesante que dice el cuerpo hemos escuchado que se sana solo que se cura solo pero asi como el cuerpo mucha gente dice que eres lo que comes es una herida enorme
+ref norm:         y este cuate basicamente tiene una teoria super super interesante que dice el cuerpo hemos escuchado que se sana solo que se cura solo pero asi como el cuerpo mucha gente dice que eres lo que comes es un error enorme
+
+ ------------------------------------------- 
+
+6.122448979591836
+line_id 8038624433
+transcript norm:  eres lo que digieres entonces no todo el mundo puede digerir bien la proteina la grasa y el azucar entonces si tu no puedes digerir por mas que tu y yo comamos igual tu digieras una cosa mejor que yo pues yo voy a tener un problema mas de salud no
+ref norm:         eres lo que digieres entonces no todo el mundo puede digerir bien la proteina la grasa el azucar entonces tu no puedes digerir por mas que tu y yo comamos igual tu digieres una cosa mejor que yo pues yo voy a tener un problema mas de salud no
+
+ ------------------------------------------- 
+
+6.25
+line_id 8038657504
+transcript norm:  y basicamente todo lo que tienes natural es super organico es de semillas es de plantas y asi es como te ayuda a limpiarte 0 sea por ejemplo un caso donde jason day un golfito super famoso su mama tuvo un cancer enorme en la cabeza
+ref norm:         y basicamente el todo lo que tienes natural es super organico es de semillas es de plantas y asi es como te ayuda a limpiarte 0 sea por ejemplo hubo un caso donde jason day un golfista super famoso su mama tuvo un cancer enorme en la cabeza
+
+ ------------------------------------------- 
+
+0.0
+line_id 8038619158
+transcript norm:  y fueron al doctor y le dijeron tu mama tiene cuatro semanas de vida entonces jason desesperado va con este cuate que se llama randall grant va con el y le dice tranquilo ven conmigo vamos a darle estas enzimas
+ref norm:         y fueron al doctor y le dijeron tu mama tiene cuatro semanas de vida entonces jason desesperado va con este cuate que se llama randall grant va con el y le dice tranquilo ven conmigo vamos a darle estas enzimas
+
+ ------------------------------------------- 
+
+15.686274509803921
+line_id 8038678680
+transcript norm:  se hacia que tomar una vez cada hora por cuatro semanas y 11 a limpiarse de sangre despues de cuatro semanas cada hora la tenian que levantar en la noche para tomar la pastilla se levantaba por cuatro semanas llegaba al hospital le hicieron un mri y el cerebro limpia
+ref norm:         se las tiene que tomar una vez cada hora por cuatro semanas y vamos a limpiar su sangre despues de cuatro semanas cada hora la tienen que levantar en la noche para tomarse la pastilla se levantaba por cuatro semanas llegaba al hospital le hicieron un mri y el cerebro limpio
+
+ ------------------------------------------- 
+
+8.695652173913043
+line_id 8038644847
+transcript norm:  por mas que eso porque le pongo tantas ganas tanta energia tanto digo que tanto esto no vale la pena y si por supuesto que yo tengo etapas de poder temios de decepcionar a mi profesor a mi familia a mis patrocinadores a mexico
+ref norm:         por mas que eso porque le pongo tantas ganas tanta energia tanto y digo que tanta esto no vale la pena y si por supuesto que yo tengo etapas de poder de miedos de decepcionar a mi profesor a mi familia a mis patrocinadores a mexico
+
+ ------------------------------------------- 
+
+9.523809523809524
+line_id 8038628691
+transcript norm:  0 sea soy humana y al final estas en un spotlight donde tu trabajo esta a los ojos de todo el mundo 0 sea cada decision cada torneo y hay cosas que la gente no se ve que hay detras no
+ref norm:         0 sea sabes soy humana y al final pues estas en un spotlight donde tu trabajo esta a los ojos de todo el mundo 0 sea cada decision cada torneo y hay cosas que la gente no sabe que hay detras no
+
+ ------------------------------------------- 
+
+0.0
+line_id 5828717825
+transcript norm:  somos el quinto pais que tiene mas empresas familiares en el mundo el primero es estados unidos nosotros somos el quinto
+ref norm:         somos el quinto pais que tiene mas empresas familiares en el mundo el primero es estados unidos nosotros somos el quinto
+
+ ------------------------------------------- 
+
+5.084745762711865
+line_id 5828787179
+transcript norm:  entonces cuando pensamos en empresa familiar muchas veces pensamos en la pequena quizas en la mediana empresa pero no es eso tan cierto porque la realidad es que hay todo un abanico de empresas y esas empresas pueden ser desde la pequena miscelanea la panaderia tambien hay grandes empresas esta grupo bimbo grupo carso soriana femsa cemex no
+ref norm:         entonces cuando pensamos en empresa familiar muchas veces pensamos en la pequena quizas en la mediana empresa pero no es eso tan cierto porque la realidad es que hay todo un abanico de empresas y esas empresas pueden ser desde la pequena miscelanea la panaderia tambien tambien hay grandes empresas esa grupo bimbo grupo carso soriana femsa senex no
+
+ ------------------------------------------- 
+
+0.0
+line_id 5828797730
+transcript norm:  en que sentido en sentido por ejemplo de que a lo mejor ya en una segunda 0 tercera generacion hay algunos miembros de la familia que si estan operando y otros que no
+ref norm:         en que sentido en sentido por ejemplo de que a lo mejor ya en una segunda 0 tercera generacion hay algunos miembros de la familia que si estan operando y otros que no
+
+ ------------------------------------------- 
+
+6.666666666666667
+line_id 5828732735
+transcript norm:  y entonces a veces los derechos de todos los accionistas no se respetan de igual manera no se les da acceso a la informacion de una manera simetrica no hay equidad hay muchos problemas que pueden venir desde las envidias de chiquitue este me quito la paleta y ahora me las va a pagar todas juntas no
+ref norm:         y entonces a veces los derechos de todos los accionistas no se respetan de igual manera no se les da acceso a la informacion de una manera simetrica este no hay equidad no hay muchos problemas que pueden venir desde las envidias de chiquito de este me quito la paleta y ahora me las va a pagar todas juntas no
+
+ ------------------------------------------- 
+
+0.0
+line_id 5828730585
+transcript norm:  entonces hay muchas cosas realmente que juegan del lado del accionariado que complican muchisimo las operaciones de la empresa y creo que esa parte es la que se vuelve muy dificil 0 sea 65% de las empresas familiares mueren antes que el fundador 30% sobreviven la segunda generacion y solamente 10% sobreviven la tercera generacion
+ref norm:         entonces hay muchas cosas realmente que juegan del lado del accionariado que complican muchisimo las operaciones de la empresa y creo que esa parte es la que se vuelve muy dificil 0 sea 65% de las empresas familiares mueren antes que el fundador 30% sobreviven la segunda generacion y solamente 10% sobreviven la tercera generacion
+
+ ------------------------------------------- 
+
+15.789473684210526
+line_id 5828725742
+transcript norm:  entonces creo que la verdad ahi el problema grave es que ese ambito muchas veces familiar se vuelve muy complicado y tremendamente desordenado no y crear complejidades de operacion mayores a las que de por si ya tiene la empresa
+ref norm:         entonces creo que la verdad y el problema grave es que ese ambito mucho desfamiliar se vuelve muy complicado y tremendamente desordenado y crea complejidades de operacion mayores a las que de por si ya tiene la empresa
+
+ ------------------------------------------- 
+
+4.3478260869565215
+line_id 5828767681
+transcript norm:  el gobierno familiar basicamente consta de dos documentos basicos el primero de los documentos basicos es como se va a comportar una familia
+ref norm:         el gobierno familiar basicamente consta de dos documentos basicos el primero de los documentos basicos es como se va a comportar la familia
+
+ ------------------------------------------- 
+
+5.555555555555555
+line_id 5828719128
+transcript norm:  y el segundo documento es realmente un shareholder is agreement es un ponderato de accionistas en los cuales se ordena como se van a tratar los accionistas entre ellos entonces vamos a darnos derechos de preferencia diferentes
+ref norm:         y el segundo documento es realmente un shareholder is agreement es un contrato de accionistas en los cuales se ordena como se van a tratar los accionistas entre ellos entonces vamos a darnos derechos de preferencia
+
+ ------------------------------------------- 
+
+5.128205128205128
+line_id 5828765416
+transcript norm:  como queremos ordenar el accionariado porque yo siento que literalmente no puedes tener a la gente cautiva la gente tiene que estar ahi porque quiere estar en la empresa porque quiere crecer la empresa porque quiere hacer lo mejor posible
+ref norm:         como queremos ordenar el accionariado porque yo siento que literalmente no puedes tener a la gente cautiva la gente tiene que estar ahi porque quiere estar en la empresa porque quiere crecer la empresa porque quiere hacer la mejor
+
+ ------------------------------------------- 
+
+1.9230769230769231
+line_id 5828757970
+transcript norm:  pero habra gente que quiere buscar su propio destino que quiere buscar tus horizontes y a esa gente tambien tienes que facilitarles la manera de que puedan salir que es lo que hace ese gobierno familiar a nivel de accionista es ordenar la manera en que nos vamos a comportar como accionistas
+ref norm:         pero habra gente que quiere buscar su propio destino que quiere buscar sus horizontes y a esa gente tambien tienes que facilitarles la manera de que puedan salir que es lo que hace ese gobierno familiar a nivel de accionista es ordenar la manera en que nos vamos a comportar como accionistas
+
+ ------------------------------------------- 
+
+0.0
+line_id 5828753573
+transcript norm:  como llegaron como empezaron el negocio como fue creciendo ese negocio y sobre esa historia familiar lo que buscas realmente es encontrar que es esa esencia que volvio a la familia y al negocio exitoso
+ref norm:         como llegaron como empezaron el negocio como fue creciendo ese negocio y sobre esa historia familiar lo que buscas realmente es encontrar que es esa esencia que volvio a la familia y al negocio exitoso
+
+ ------------------------------------------- 
+
+9.090909090909092
+line_id 5828742071
+transcript norm:  que es esa esencia de nosotros que realmente nos distingue como familia y habra que petular sobre la historia encontramos tambien los valores que nosotros apreciamos y que realmente creemos que son muy nuestros
+ref norm:         que es esa esencia de nosotros que realmente nos distingue como familia y al recapitular sobre la historia encontramos tambien los valores que nosotros apreciamos y que realmente creemos que son muy nuestros
+
+ ------------------------------------------- 
+
+0.0
+line_id 5828760330
+transcript norm:  si estamos de comun acuerdo en cuales son nuestros valores basicos bueno entonces todos esos miembros de la familia que esten de acuerdo en eso y que les guste eso pueden seguir adelante trabajando para llevar adelante la empresa y crecer
+ref norm:         si estamos de comun acuerdo en cuales son nuestros valores basicos bueno entonces todos esos miembros de la familia que esten de acuerdo en eso y que les guste eso pueden seguir adelante trabajando para llevar adelante la empresa y crecer
+
+ ------------------------------------------- 
+
+5.263157894736842
+line_id 5828768465
+transcript norm:  puede haber el caso de que no toda la familia este de acuerdo que haya gente que no quiera hacerlo y entonces tambien tienes que trabajar en decir bueno todo este grupo sigue adelante con la empresa y este grupo tenemos que buscar alternativas de tener capital para sustituirlo 0 vamos a apalancar de empresa para sacarlos
+ref norm:         puede haber el caso de que no toda la familia este de acuerdo que haya gente que no quiera hacerlo y entonces tambien tienes que trabajar en decir bueno todo este grupo sigue adelante con la empresa y este grupo tenemos que buscar alternativas de traer capital para sustituirlo 0 vamos a palancar la empresa para sacarlos
+
+ ------------------------------------------- 
+
+0.0
+line_id 5828732764
+transcript norm:  hay muchas opciones de como pueden hacerse las cosas no pero siempre al final del dia lo que tenemos que ver es que somos familia que nos unen lazos familiares pero que tambien nos une ese orgullo por el legado de nuestros fundadores
+ref norm:         hay muchas opciones de como pueden hacerse las cosas no pero siempre al final del dia lo que tenemos que ver es que somos familia que nos unen lazos familiares pero que tambien nos une ese orgullo por el legado de nuestros fundadores
+
+ ------------------------------------------- 
+
+2.631578947368421
+line_id 5828724867
+transcript norm:  y que ese mismo legado es el que puede hacernos el que puede ser el motivante de toda una familia para querer continuar llevando ese legado adelante que nos orgullezca como familia y que aporte a nuestro pais
+ref norm:         y que ese mismo legado es el que puede hacernos el que puede ser el motivante de toda la familia para querer continuar llevando ese legado adelante que nos orgullezca como familia y que aporte a nuestro pais
+
+ ------------------------------------------- 
+
+8.108108108108109
+line_id 5828785147
+transcript norm:  la verdad es que siempre tuvimos un gobierno familiar muy natural porque obviamente nosotros somos tres mujeres mi mama una hermana y yo y entonces era bastante facil porque siempre tuvimos muy buena comunicacion
+ref norm:         la verdad es que siempre tuvimos un gobierno familiar muy natural porque obviamente nosotros somos tres mujeres mi mama una hermana y yo y entonces pues era la verdad bastante facil porque siempre tuvimos muy buena comunicacion
+
+ ------------------------------------------- 
+
+0.0
+line_id 5828712546
+transcript norm:  entonces pues cuando teniamos decisiones realmente importantes trascendentales pues yo agarraba el telefono les hablaba y les decia oye pues mira hay esto esto y esto que hacemos 0 nos juntabamos y lo decidiamos entre las tres no
+ref norm:         entonces pues cuando teniamos decisiones realmente importantes trascendentales pues yo agarraba el telefono les hablaba y les decia oye pues mira hay esto esto y esto que hacemos 0 nos juntabamos y lo decidiamos entre las tres no
+
+ ------------------------------------------- 
+
+2.7777777777777777
+line_id 5828769249
+transcript norm:  ahora la verdad es que decidimos hace algunos anos justo antes de la pandemia decidimos construir ya un esquema no solamente de gobierno corporativo mucho mas formal dentro de las empresas sino empezamos construyendo este gobierno familiar
+ref norm:         ahora la verdad es que decidimos hace algunos anos justo antes de la pandemia decidimos construir ya un esquema no solamente gobierno corporativo mucho mas formal dentro de las empresas sino empezamos construyendo este gobierno familiar
+
+ ------------------------------------------- 
+
+4.411764705882353
+line_id 5828776161
+transcript norm:  por que porque mi hermana pues tiene cinco hijos unos de ellos pues ya casados empiezan a tener nietos mis hijos tambien pues uno de ellos ya tiene tres ninos el otro esta por ahi no entonces pues ya una familia queriamos dos oye mi papa luego nosotras dos ahora ya son siete y esperemos que sean muchisimos mas y entonces que es lo que queremos no
+ref norm:         por que porque mi hermana pues tiene cinco hijos unos de ellos pues ya casados empiezan a tener nietos mis hijos tambien pues uno de ellos ya tiene tres ninos el otro esta por ahi no entonces pues ya una familia que eramos dos hoy mi papa luego nosotras dos ahora ya son siete y esperemos que sean muchisimos mas y entonces que es lo que queremos no
+
+ ------------------------------------------- 
+
+11.11111111111111
+line_id 5828785546
+transcript norm:  entonces muchas familias dicen ah no bueno pues este no sirvio para los negocios pero a lo mejor es un pate que sabe muchisimo de tecnologia 0 a lo mejor es un chavo que sabe muchisimo de mercado tecnico y de otras cosas y cada miembro de la familia puede contribuir siempre desde diferentes puntos de vestidas de diferentes lados a traer nuevos negocios
+ref norm:         entonces muchas familias dicen no bueno pues este no sirvio para los negocios pero a lo mejor es un cuate que sabe muchisimo de tecnologia 0 a lo mejor es un chavo que sabe muchisimo de mercado tecno de otras cosas y cada miembro de la familia puede contribuir siempre desde diferentes puntos de vista y desde diferentes lados a traer nuevos negocios
+
+ ------------------------------------------- 
+
+7.6923076923076925
+line_id 5828789880
+transcript norm:  a dar nuevas opiniones a dar consulta a rebotar diferentes puntos de vista porque la verdad eso va enriqueciendo a las familias es tener puntos de vista distintos es tener diversidad que no todos pensemos que todos somos financieros y todos hacemos lo mismo y aqui todos estudiamos contabilidad no
+ref norm:         a dar nuevas opiniones a dar consulta a tener a rebotar diferentes puntos de vista porque la verdad eso va enriqueciendo a las familias el tener puntos de vista distintos el tener diversidad que no todos pensemos que todos somos financieros y todos hacemos lo mismo y aqui todos estudiamos contabilidad no
+
+ ------------------------------------------- 
+
+6.896551724137931
+line_id 5828735059
+transcript norm:  los valores de la empresa estan mas encaminados a metas mas obviamente tienen esa parte de lealtad integridad honestidad pero tambien tienen por ejemplo generacion de valor
+ref norm:         0 sea los valores de la empresa estan mas encaminados a metas mas obviamente tienen esa parte de lealtad integridad honestidad pero tambien tienen por ejemplo generacion de valor
+
+ ------------------------------------------- 
+
+0.0
+line_id 5828790380
+transcript norm:  y el valor no solamente lo definimos como valor economico sino un valor a la sociedad un valor a los stakeholders que tenemos en la empresa
+ref norm:         y el valor no solamente lo definimos como valor economico sino un valor a la sociedad un valor a los stakeholders que tenemos en la empresa
+
+ ------------------------------------------- 
+
+7.017543859649122
+line_id 5828757255
+transcript norm:  depende de cual sea el reto al valor no hay veces que esos valores se ven se tropiezan no porque la verdad es que no existe la perfeccion no la vida es imperfecta y suceden cosas y entonces pues de repente pasa algo y tienes que ir verlo remediarlo y enderezar no y a lo mejor es una accion correctiva
+ref norm:         depende de cual sea el reto al valor no hay veces que esos valores se tropiezan no porque la verdad es que no existe la perfeccion no la vida es imperfecta y suceden cosas y entonces pues de repente pasa algo y tienes que ir verlo remediarlo y enderezarlo y a lo mejor es una accion correctiva
+
+ ------------------------------------------- 
+
+7.4074074074074066
+line_id 5828740077
+transcript norm:  a veces esos valores se ven seriamente tratados y cuando esos valores se ven seriamente tratados no puedes tener duda en que lo primero son tus valores
+ref norm:         a veces esos valores se ven seriamente retados y cuando esos valores se ven seriamente retados no puedes tener duda en que lo primero son tus valores
+
+ ------------------------------------------- 
+
+4.761904761904762
+line_id 3026888878
+transcript norm:  disfrute porque yo disfruto demasiado grabar esto para ti y nada gracias gracias por estar aqui hoy tenemos un super tema beauty
+ref norm:         disfrute porque yo disfruto demasiado grabar esto para ti y nada gracias por estar aqui hoy tenemos un super tema beauty
+
+ ------------------------------------------- 
+
+4.081632653061225
+line_id 3026848458
+transcript norm:  estos ultimos dias estas ultimas semanas mi vida ha estado ahora si ahora si con esta frase que nos encanta de mi vida llena de vida asi le he sentido estas ultimas semanas mi vida ha estado llena de vida llena de manifestaciones llena de co creaciones con el universo
+ref norm:         estos ultimos dias estas ultimas semanas mi vida ha estado ahora si ahora si con esta frase que nos encanta de mi vida llena de vida asi le he sentido estas ultimas semanas mi vida ha estado llena de vida llena de manifestaciones llena de cocreaciones con el universo
+
+ ------------------------------------------- 
+
+4.3478260869565215
+line_id 3026822898
+transcript norm:  me quedaria muy corta con palabras el decirte como me senti en este reencuentro llevaba un ano y meses sin ver a mi familia sin ver a mi mama sin abrazar a mi madre y ese abrazo al mico que nos dimos en el reencuentro fue hermoso
+ref norm:         me quedaria muy corta con palabras el decirte como me senti en este reencuentro llevaba un ano y meses sin ver a mi familia sin ver a mi mama sin abrazar a mi madre y ese abrazo almico que nos dimos en el reencuentro fue hermoso
+
+ ------------------------------------------- 
+
+2.4390243902439024
+line_id 3026854438
+transcript norm:  les agradezco enormemente a mis familiares porque sin ellos esa sorpresa mi mama no sabia biori no sabia le cai de sorpresa el 10 de mayo y todos mis primos primas mis tios tias me ayudaron a hacer esa sorpresa realidad
+ref norm:         les agradezco enormemente a mis familiares porque sin ellos esa sorpresa mi mama no sabia beauty no sabia le cai de sorpresa el 10 de mayo y todos mis primos primas mis tios tias me ayudaron a hacer esa sorpresa realidad
+
+ ------------------------------------------- 
+
+0.0
+line_id 3026823271
+transcript norm:  simplemente enviar la energia con toda la presencia posible enviar energia de alta vibracion alta frecuencia a eso que deseas intencionar por decir yo intenciono mi vasito con agua todas las noches
+ref norm:         simplemente enviar la energia con toda la presencia posible enviar energia de alta vibracion alta frecuencia a eso que deseas intencionar por decir yo intenciono mi vasito con agua todas las noches
+
+ ------------------------------------------- 
+
+0.0
+line_id 3026866460
+transcript norm:  si no sabes como intencionar el vasito con agua que es una forma de manifestar de elevar tu vibracion te voy a dejar un link aqui abajito en la descripcion de este capitulo en donde te enseno tengo un video en youtube en donde te enseno como intencionar el vaso con agua para manifestar tus suenos
+ref norm:         si no sabes como intencionar el vasito con agua que es una forma de manifestar de elevar tu vibracion te voy a dejar un link aqui abajito en la descripcion de este capitulo en donde te enseno tengo un video en youtube en donde te enseno como intencionar el vaso con agua para manifestar tus suenos
+
+ ------------------------------------------- 
+
+Final wer score:  7.8965405606905525

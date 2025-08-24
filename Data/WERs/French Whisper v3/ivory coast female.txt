@@ -1,0 +1,1210 @@
+WER Evaluation Results
+======================
+
+Line ID: 3469845992
+WER Score: 0.00
+Transcript: l attention necessaire pour transplanter afin que pas une seule racine ne soit trop serree ou mal placee les soins a donner aux jeunes plantes la taille et l arrosage la preservation contre la gelee pendant la nuit et le soleil
+Reference:  l attention necessaire pour transplanter afin que pas une seule racine ne soit trop serree ou mal placee les soins a donner aux jeunes plantes la taille et l arrosage la preservation contre la gelee pendant la nuit et le soleil
+-------------------------------------------
+
+Line ID: 3469859396
+WER Score: 0.00
+Transcript: pendant le jour la lutte contre les mauvaises herbes les maladies et les insectes nuisibles non seulement enseignent des lecons importantes concernant la formation du caractere mais font du travail lui meme un moyen de developpement
+Reference:  pendant le jour la lutte contre les mauvaises herbes les maladies et les insectes nuisibles non seulement enseignent des lecons importantes concernant la formation du caractere mais font du travail lui meme un moyen de developpement
+-------------------------------------------
+
+Line ID: 3469856060
+WER Score: 0.00
+Transcript: lorsque l on cultive l application la patience l attention et l obeissance aux lois naturelles on obtient une education d une tres haute importance
+Reference:  lorsque l on cultive l application la patience l attention et l obeissance aux lois naturelles on obtient une education d une tres haute importance
+-------------------------------------------
+
+Line ID: 3469893579
+WER Score: 0.00
+Transcript: le contact permanent avec le mystere de la vie et la beaute de la nature aussi bien que la tendresse necessaire pour prendre soin de ces objets merveilleux de la creation affermissent l intelligence et affinent le caractere dieu est pret a instruire et a enseigner
+Reference:  le contact permanent avec le mystere de la vie et la beaute de la nature aussi bien que la tendresse necessaire pour prendre soin de ces objets merveilleux de la creation affermissent l intelligence et affinent le caractere dieu est pret a instruire et a enseigner
+-------------------------------------------
+
+Line ID: 3469852299
+WER Score: 0.00
+Transcript: poursuivons le theme commence hier en cultivant le sol le travailleur attentif decouvrira les tresors auxquels il n avait jamais pense personne ne peut faire de l agriculture ou du jardinage avec succes sans se soumettre aux lois de la nature
+Reference:  poursuivons le theme commence hier en cultivant le sol le travailleur attentif decouvrira les tresors auxquels il n avait jamais pense personne ne peut faire de l agriculture ou du jardinage avec succes sans se soumettre aux lois de la nature
+-------------------------------------------
+
+Line ID: 3469896410
+WER Score: 2.38
+Transcript: il faut etudier les besoins speciaux de chaque variete de plantes suivant l espece il faut des terrains et des methodes de culture differents le succes ne s obtient que par la soumission aux lois qui gouvernent ces diverses especes de vegetaux
+Reference:  il faut etudier les besoins speciaux de chaque variete de plantes suivant l espece il faut des terrains et des methodes de culture differentes le succes ne s obtient que par la soumission aux lois qui gouvernent ces diverses especes de vegetaux
+-------------------------------------------
+
+Line ID: 3469849970
+WER Score: 1.82
+Transcript: l eternel avait lui meme donne a israel des directives pour cultiver le sol et contribuer a cette oeuvre de restauration ainsi grace aux prescriptions divines tout le pays etait destine a devenir une lecon de choses pour illustrer la verite spirituelle parce qu elle obeit a des lois physiques la terre produit ses richesses
+Reference:  l eternel avait lui meme donne a israel des directives pour cultiver le sol et contribuer a cette oeuvre de restauration ainsi grace aux prescriptions divines tout le pays etait destine a devenir une lecon de chose pour illustrer la verite spirituelle parce qu elle obeit a des lois physiques la terre produit ses richesses
+-------------------------------------------
+
+Line ID: 3469821982
+WER Score: 3.70
+Transcript: de meme c est en se soumettant a la loi morale qu israel pouvait refleter le caractere du tres haut des lecons spirituelles pour la vie quotidienne dieu nous a entoures des magnifiques spectacles de la nature pour susciter notre interet il veut que nous associons les gloires de sa nature et son caractere
+Reference:  de meme c est en se soumettant a la loi morale qu israel pouvait refleter le caractere du tres haut des lecons spirituelles pour la vie quotidienne dieu nous a entoure des magnifiques spectacles de la nature pour susciter notre interet il veut que nous associions les gloires de sa nature et son caractere
+-------------------------------------------
+
+Line ID: 3469868075
+WER Score: 4.26
+Transcript: si nous etudions soigneusement le livre de la nature nous y contemplerons avec les fruits l amour et la puissance infinie de dieu ici s acheve notre emission pour aujourd hui retrouvons nous demain pour la suite de ce sujet d ici la que dieu vous garde
+Reference:  si nos etudiants soigneusement le livre de la nature nous y contemplerons avec les fruits l amour et la puissance infinie de dieu ici s acheve notre emission pour aujourd hui retrouvons nous demain pour la suite de ce sujet d ici la que dieu vous garde
+-------------------------------------------
+
+Line ID: 7073228371
+WER Score: 6.38
+Transcript: alors que la aujourd hui je prends le temps de vraiment concevoir penser et dessiner pour ensuite materialiser faire materialiser en l occurrence parce que ce qu il faut savoir c est qu a ce jour en tout cas bise fait deux types de bijoux
+Reference:  alors que la aujourd hui je prends le temps de vraiment concevoir penser et dessiner pour ensuite materialiser faire materialiser en l occurrence parce que ce qu il faut savoir c est qu a ce jour en tout cas je fais biz fait deux types de bijoux
+-------------------------------------------
+
+Line ID: 7073275664
+WER Score: 10.00
+Transcript: les deux types de bijoux sont des bijoux principaux qui sont en bronze dore a leur fin qui sont concus par des personnes avec lesquelles je collabore des artisans
+Reference:  donc les deux types de bijoux sont des bijoux principaux qui sont en bronze dores a leur peint qui sont concus par des personnes avec lesquelles je collabore des artisans
+-------------------------------------------
+
+Line ID: 8814446129
+WER Score: 0.00
+Transcript: c est deja la premiere serie qu on fera avec une femme mais c est surtout sabine la fondatrice de vise accessories qui est une marque que j aime bien je trouvais ca important d aussi parler de personnes qui changent les choses mais surtout qui voient les choses differemment
+Reference:  c est deja la premiere serie qu on fera avec une femme mais c est surtout sabine la fondatrice de vise accessories qui est une marque que j aime bien je trouvais ca important d aussi parler de personnes qui changent les choses mais surtout qui voient les choses differemment
+-------------------------------------------
+
+Line ID: 8814440371
+WER Score: 0.00
+Transcript: d explorer l art toujours dans cette optique de vous montrer ce que c est que le made in cote d ivoire mais aussi de vous faire comprendre ce qu il y a derriere un business les teneurs aboutissants les peurs mais aussi le tout
+Reference:  d explorer l art toujours dans cette optique de vous montrer ce que c est que le made in cote d ivoire mais aussi de vous faire comprendre ce qu il y a derriere un business les teneurs aboutissants les peurs mais aussi le tout
+-------------------------------------------
+
+Line ID: 7073293684
+WER Score: 12.50
+Transcript: je suis sabine deja comme tu l as dit je suis la creatrice de bees depuis une bonne dizaine d annees deja bees parce que je m appelle sabine c est vrai mais que bees est mon surnom
+Reference:  d accord je suis sabine deja comme tu l as dit je suis la creatrice de beeze depuis une bonne dizaine d annees deja beeze parce que je m appelle sabine c est vrai mais que bee est mon surnom
+-------------------------------------------
+
+Line ID: 8814442439
+WER Score: 14.29
+Transcript: et d ou vient en fait biz accessories parce que tu nous dis que c est quand meme une histoire qui a commence il y a 10 ans comment est ce que l aventure a commence
+Reference:  et d ou vient beeze accessories parce que tu nous dis que c est quand meme une histoire qui a commence il y a dix ans comment est ce que l aventure elle a commence
+-------------------------------------------
+
+Line ID: 7073293414
+WER Score: 2.78
+Transcript: alors avant toute chose je voudrais faire cette petite precision c est que la marque en fait d abord la marque c est bees mais surtout l extension c est pas accessories mais c est accessoires
+Reference:  alors avant toute chose je voudrais faire cette petite precision c est que la marque en fait d abord la marque c est beeze mais surtout l extension c est pas accessories mais c est accessoires
+-------------------------------------------
+
+Line ID: 7073217369
+WER Score: 1.79
+Transcript: c est a dire que quand je commence viz il y a 11 ans d ailleurs c etait en 2011 donc il y a 11 ans c etait vraiment un moment c etait un tournant j etais en maitrise de droit a l epoque on avait encore la maitrise qui est l equivalent du m one
+Reference:  c est a dire que quand je commence beeze il y a 11 ans d ailleurs c etait en 2011 donc il y a 11 ans c etait vraiment un moment c etait un tournant j etais en maitrise de droit a l epoque on avait encore la maitrise qui est l equivalent du m one
+-------------------------------------------
+
+Line ID: 7073266985
+WER Score: 1.85
+Transcript: et je terminais en fait donc je sortais fraichement diplomee et a ce moment la je savais que j allais devoir tres bientot embrasser ma carriere professionnelle et j ai ressenti ce besoin la quand meme d explorer ma creativite parce que j ai toujours su que j etais quelqu un de creatif
+Reference:  et je terminais en fait donc je sortais fraichement diplomee et a ce moment la je savais que bon j allais devoir tres bientot embrasser ma carriere professionnelle et j ai ressenti ce besoin la quand meme d explorer ma creativite parce que j ai toujours su que j etais quelqu un de creatif
+-------------------------------------------
+
+Line ID: 7073256198
+WER Score: 0.00
+Transcript: et je savais que j etais capable de faire des choses de mes mains et vraiment a ce moment la je me suis dit c est le moment ou j aimais de lancer quelque chose et de voir en fait ce que ca peut donner donc c etait vraiment de l experimentation au depart
+Reference:  et je savais que j etais capable de faire des choses de mes mains et vraiment a ce moment la je me suis dit c est le moment ou j aimais de lancer quelque chose et de voir en fait ce que ca peut donner donc c etait vraiment de l experimentation au depart
+-------------------------------------------
+
+Line ID: 7073263883
+WER Score: 2.17
+Transcript: et de fil en aiguille j ai realize parce que bien sur oui tu experimentes mais apres tu experimentes c est pour des gens aussi que tu fais des choses donc apres tu fais des choses qui sont utiles ou en tout cas qui peuvent plaire a des gens donc il faut se demander en tout cas je me suis demande a ce moment la qu est ce qui est tendance qu est ce qui est interessant qu est ce que je peux faire que je sais faire et qui peut plaire
+Reference:  et de fil en aiguille j ai realize parce que bien sur oui je experimente mais apres tu experimentes c est pour des gens aussi que tu fais des choses donc apres tu fais des choses qui sont utiles ou en tout cas qui peuvent plaire a des gens donc il faut se demander en tout cas je me suis demande a ce moment la qu est ce qui est tendance qu est ce qui est interessant qu est ce que je peux faire que je sais faire et qui peut plaire
+-------------------------------------------
+
+Line ID: 7073294636
+WER Score: 2.04
+Transcript: et il faut dire que moi j ai appris a faire du crochet quand j avais 8 ans quand j etais a l ecole primaire et donc du coup je me suis dit c est ca que je sais faire en fait fondamentalement je savais faire que ca
+Reference:  et il faut dire que moi j ai appris a faire du crochet quand j avais 8 ans quand j etais a l ecole primaire et donc du coup je me suis dit bah c est ca que je sais faire en fait fondamentalement je savais faire que ca
+-------------------------------------------
+
+Line ID: 7073270573
+WER Score: 1.96
+Transcript: enfin pas que ca mais c etait vraiment ce que je savais vraiment bien faire et heureusement pour moi 2011 c etait l annee ou on avait un petit revival de tout ce qui est accessoires en crochet et tout ca donc je me suis dit why not en fait
+Reference:  enfin pas que ca mais c etait vraiment ce que je savais vraiment bien faire et heureusement pour moi 2011 c etait l annee ou on avait un petit revival de tout ce qui est accessoires en crochet et tout ca donc je me suis dit bah why not en fait
+-------------------------------------------
+
+Line ID: 7073220423
+WER Score: 7.69
+Transcript: parce que bon on en parlera peut etre plus tard c est vrai que le wax n est pas africain mais apres le wax a tout un bagage culturel en fait africain qui porte et donc il y a ca
+Reference:  parce que bon on en parlera peut etre plus tard c est vrai que le wax n est pas africain mais apres le wax a tout un bagage culturel africain qui porte et donc il y a de ca
+-------------------------------------------
+
+Line ID: 7073288907
+WER Score: 9.68
+Transcript: et puis tu as le fait aussi que toujours dans le meme temps c est un retour aussi a soi a l identite africaine on se questionne et c est le moment ou tout le monde revient au naturel moi c est en 2011 que j ai coupe mes cheveux que j ai fait mon big chop
+Reference:  et puis tu as le fait aussi que toujours dans le meme temps c est un retour aussi a soi en fait a l identite africaine on se questionne et c est le moment ou tout le monde revient au naturel et tout ca moi c est en 2011 que j ai coupe mes cheveux que j ai fait mon big shop
+-------------------------------------------
+
+Line ID: 7073296681
+WER Score: 7.46
+Transcript: il faut que j ai tout un style qui corresponde a cette nouvelle identite la que j essaye de creer donc l un mis dans l autre je me suis dit ok je vais creer une marque qui repond a mon besoin d avoir des accessoires originaux et qui parle aux filles aux femmes comme moi qui aujourd hui sont a cette phase la
+Reference:  il faut que j aie tout un style qui corresponde a cette nouvelle identite la que j essaye de creer donc l un mis dans l autre en fait je me suis dit ok je vais creer une marque qui repond a mon besoin justement d avoir des accessoires originaux et qui parlent aux filles aux femmes comme moi qui aujourd hui sont a cette phase la
+-------------------------------------------
+
+Line ID: 7073222558
+WER Score: 6.85
+Transcript: du coup pendant ce temps la il y a eu 10 annees enfin 11 annees qui sont passees quand meme il y a du y avoir beaucoup de choses beaucoup de changements structurels parce que bon moi j ai connu donc la version recente de biz pas la version 2011 mais je me demande du coup est ce que les formes elles etaient les memes avant ou est ce que ca a change genre
+Reference:  et du coup pendant ce temps la il y a eu 10 annees enfin 11 annees qui sont passees quand meme il y a deja eu beaucoup de choses beaucoup de changements structurels parce que bon moi j ai connu donc la version recente de biz pas la version 2011 mais je me demande du coup est ce que les formes etaient les memes avant ou est ce que ca a change genre
+-------------------------------------------
+
+Line ID: 7073276053
+WER Score: 1.43
+Transcript: franchement tout a change tout a change sauf les valeurs profondes les valeurs profondes la motivation la vision meme la vision a change mais vraiment les valeurs n ont jamais bouge c est a dire qu au debut quand je me lance principalement mes materiaux de choix c est du wax comme je le disais tout a l heure et tout ce qui me tombe sous la main en fait .
+Reference:  franchement tout a change tout a change sauf les valeurs profondes les valeurs profondes la motivation la vision meme la vision a change mais vraiment les valeurs n ont jamais bouge c est a dire qu au debut quand je me lance principalement mes materiaux de choix c est du wax comme je le disais tout a l heure et tout ce qui me tombe sous la main en fait
+-------------------------------------------
+
+Line ID: 7073270850
+WER Score: 3.85
+Transcript: donc c etait vraiment pas mal de melange de materiaux c est du wax melange a de la laine melange a du tissu uni melange a des chaines plein de choses pour quand meme creer des ensembles assez cool mais voila a l epoque je fais avec ce qui m est accessible tout simplement
+Reference:  donc c etait vraiment pas mal de melange de materiaux c est du wax melange a de la laine melange a du tissu uni melange a des chaines plein de choses pour quand meme creer des ensembles assez cool mais a l epoque je fais avec ce qui est accessible tout simplement
+-------------------------------------------
+
+Line ID: 7073260762
+WER Score: 0.00
+Transcript: parce que ce qu il faut retenir c est que j etais vraiment autodidacte je n ai pas necessairement suivi de formation donc il faut apprendre
+Reference:  parce que ce qu il faut retenir c est que j etais vraiment autodidacte je n ai pas necessairement suivi de formation donc il faut apprendre
+-------------------------------------------
+
+Line ID: 7073287567
+WER Score: 1.92
+Transcript: et entre temps tu fais avec les moyens de bord comme on dit donc c etait ca et ca a ete ca pendant ca a ete que ca pendant de 2011 jusqu a 2015 donc de 2011 a 2015 deja il faut reconnaitre que ce n etait pas forcement tres regulier
+Reference:  et entre temps tu fais avec les moyens de bord comme on dit donc c etait ca et ca a ete ca pendant ca a ete que ca pendant de 2011 jusqu a 2015 donc de 2011 a 2015 deja bon il faut reconnaitre que ce n etait pas forcement tres regulier
+-------------------------------------------
+
+Line ID: 7073215394
+WER Score: 9.43
+Transcript: j etais pas tres constante mais en tout cas j avais des petites des mini collections ca et la ou je sortais quelques produits j ai vraiment fait un peu tout j ai commence par des bandeau apres j ai fait des serre tetes des colliers des boucles d oreilles
+Reference:  je n etais pas tres constante mais en tout cas j avais des petites des mini collections ca et la ou je sortais quelques produits j ai vraiment fait un peu tout c etait j ai commence par des bandos apres j ai fait des serre tetes des colliers des boucles d oreilles
+-------------------------------------------
+
+Line ID: 7073223092
+WER Score: 5.13
+Transcript: j ai fait pas mal de choses comme je disais au tout debut c etait vraiment experimentation exploration et puis en 2000 deja a partir de 2013 2014 il y a deja dans la forme quelque chose qui change
+Reference:  j ai fait pas mal de choses comme je disais au debut c etait vraiment experimentation exploration et puis en 2000 deja a partir de 2013 2013 2014 il y a deja dans la forme quelque chose qui change
+-------------------------------------------
+
+Line ID: 7073227228
+WER Score: 14.29
+Transcript: je commence a m interesser a des materiaux qui sont plus fins je commence a integrer tout doucement des pierres semi precieuses des perles naturelles des choses comme ca et j essaie de faire un peu plus attention a mes materiaux la ou au tout debut j utilisais peut etre des choses en plastique je me dis que ca ne fait pas tres qualitatif
+Reference:  je commence a m interesser a des materiaux quand meme qui sont plus fins je commence a etudier integrer tout doucement des pierres semi precieuses des perles naturelles des choses comme ca et j essaye de faire un peu plus attention a mes materiaux je veux dire la ou au tout debut j utilisais peut etre des choses en plastique je me dis bon ca n est pas tres qualitatif
+-------------------------------------------
+
+Line ID: 7073246454
+WER Score: 2.56
+Transcript: donc je commence vraiment a me tourner vers des materiaux plus interessants et puis en 2015 je suis a nouveau a un tournant parce que c est alors a partir de 2013 2014 je suis dans la vie active
+Reference:  donc je commence vraiment a me tourner vers des materiaux plus interessants et puis en 2015 je suis a nouveau a un tournant parce que c est alors a partir de 2013 14 je suis dans la vie active
+-------------------------------------------
+
+Line ID: 7073258470
+WER Score: 0.00
+Transcript: donc je commence a travailler en tant que juriste et tout ca je travaille en cabinet je travaille en entreprise et en 2015 j ai mon contrat du moment qui se termine qui n est pas renouvele et la en fait je suis face a deux choix
+Reference:  donc je commence a travailler en tant que juriste et tout ca je travaille en cabinet je travaille en entreprise et en 2015 j ai mon contrat du moment qui se termine qui n est pas renouvele et la en fait je suis face a deux choix
+-------------------------------------------
+
+Line ID: 7073293533
+WER Score: 2.27
+Transcript: soit je postule tout de suite pour retrouver du boulot soit je reprends des cours et comme c etait en mars j avais encore la rentree en septembre j avais du temps donc je decide de donner une vraie chance a ma marque
+Reference:  soit je postule tout de suite pour retrouver du boulot soit je reprends des cours et comme c etait en mars donc j avais encore la rentree en septembre j avais du temps donc je decide de donner une vraie chance a ma marque
+-------------------------------------------
+
+Line ID: 7073273221
+WER Score: 20.59
+Transcript: j essaie de donner une vraie chance a ma marque et a ce moment la je commence a penser vraiment au brand en fait je me dis ok il faut je fais tout un business plan je decide de ok
+Reference:  j essaye de donner une vraie chance a ma marque et a ce moment la je commence a penser vraiment brand je me dis ok je fais tout un business plan je decide ok
+-------------------------------------------
+
+Line ID: 7073212864
+WER Score: 9.26
+Transcript: et puis j ai toujours reve d avoir des bijoux en metal en bronze tout ca donc je me suis dit ok il faut vraiment que je commence a faire des choses comme une vraie marque que n importe qui aimerait avoir que n importe qui pourrait porter que n importe qui bon ca se discute
+Reference:  depuis toujours j ai toujours reve d avoir des bijoux en metal en bronze tout ca donc je me dis ok il faut vraiment que je commence a faire des choses comme une vraie marque que n importe qui aimerait avoir que n importe qui pourrait porter n importe qui bon ca se discute
+-------------------------------------------
+
+Line ID: 7073267394
+WER Score: 4.17
+Transcript: donc de maniere tres evidente j ai commence a readapter le style de ce que je faisais et puis j ai ete surprise du carton que ca a fait et on va dire que depuis 2015 on a bise telle que toi coriette tu la connais aujourd hui
+Reference:  donc de maniere tres evidente j ai commence a readapter le style de ce que je faisais et puis j ai ete surprise du carton que ca a fait et on va dire que depuis 2015 on a biz tel que toi coriette tu la connais aujourd hui
+-------------------------------------------
+
+Line ID: 7073297154
+WER Score: 3.45
+Transcript: j ai essaye a partir de la de rester plus ou moins constante meme si l evolution reste toujours de mise c est a peu pres ca l histoire
+Reference:  j ai essaye a partir de la de rester plus ou moins constante meme si l evolution reste toujours de nice c est a peu pres ca l histoire
+-------------------------------------------
+
+Line ID: 8814479316
+WER Score: 10.17
+Transcript: non mais c est une belle histoire finalement c est l histoire d une personne qui commence a se connaitre et qui grandit c est ca en fait c est toi qui grandis et je pense que dans 5 ans vie changera encore en fait parce que ce sera donc une nouvelle sabine qui aura eu de nouvelles experiences et qui evoluera en fait
+Reference:  non mais c est une belle histoire finalement c est l histoire d une personne qui commence a se connaitre et qui grandit c est toi qui grandis et je pense que dans cinq ans vie changera encore en fait parce que ce sera donc une nouvelle sabine qui aura eu de nouvelles experiences et qui evoluera en fait
+-------------------------------------------
+
+Line ID: 7073265362
+WER Score: 0.00
+Transcript: exactement mais a ce niveau la ce que je voudrais ajouter c est que comme tu disais tout a l heure quand tu parlais de maturite l idee aussi en fait quelque part ce n est pas par exemple que si j ai vieilli entre griffes la marque vieillisse a son tour tu vois ce que je veux dire
+Reference:  exactement mais a ce niveau la ce que je voudrais ajouter c est que comme tu disais tout a l heure quand tu parlais de maturite l idee aussi en fait quelque part ce n est pas par exemple que si j ai vieilli entre griffes la marque vieillisse a son tour tu vois ce que je veux dire
+-------------------------------------------
+
+Line ID: 7073236711
+WER Score: 0.00
+Transcript: et pour moi ma marque est censee etre un lieu commun pour plusieurs types de femmes differentes mais qui se rejoignent dans le fait qu elles s identifient comme des femmes qui ont une personnalite affirmee tu vois
+Reference:  et pour moi ma marque est censee etre un lieu commun pour plusieurs types de femmes differentes mais qui se rejoignent dans le fait qu elles s identifient comme des femmes qui ont une personnalite affirmee tu vois
+-------------------------------------------
+
+Line ID: 7073239033
+WER Score: 8.06
+Transcript: une personnalite affirmee qui revendique leur originalite et qui veulent la porter et l exprimer donc c est vraiment un point d honneur qu on met a chaque fois qu on concoit chacun de nos bijoux que ca soit vraiment representatif meme la piece la plus simple en fait que ca soit representatif de ce desir la de se demarquer tu vois
+Reference:  une personnalite affirmee qui revendique leur originalite et qui veulent la porter et l exprimer donc c est vraiment un point d honneur en fait qu on met a chaque fois qu on soit chacun de nos bijoux que ca soit vraiment representatif meme la piece la plus simple en fait que ca soit representatif de ce desir la de se demarquer
+-------------------------------------------
+
+Line ID: 7073265935
+WER Score: 5.97
+Transcript: en effet et parlons justement de pieces meme si simples parce que pour moi au fait ce n est pas tant la complexite c est l originalite et pour moi j ai l impression justement que c est simple mais efficace donc comment est ce qu on a fait finalement pour arriver a ces formes il a du falloir de la formation tu en parlais tout a l heure
+Reference:  en effet et parlons justement de pieces meme simples parce que pour moi en fait c est pas tant la complexite c est l originalite et pour moi j ai l impression justement que c est simple mais efficace donc comment est ce qu on a fait finalement pour arriver a ces formes il a du falloir de la formation tu en parlais tout a l heure
+-------------------------------------------
+
+Line ID: 7073244944
+WER Score: 0.00
+Transcript: parce que moi je ne me suis pas formee du tout je suis vraiment allee a l ecole d internet mais ce que je veux dire c est qu a l epoque ou j etais dans les experimentations en question j etais beaucoup plus dans le comment dire dans les travaux pratiques quoi c est a dire que j essayais de creer de mes mains des formes et tout et faire en sorte que ca fonctionne et tout ca
+Reference:  parce que moi je ne me suis pas formee du tout je suis vraiment allee a l ecole d internet mais ce que je veux dire c est qu a l epoque ou j etais dans les experimentations en question j etais beaucoup plus dans le comment dire dans les travaux pratiques quoi c est a dire que j essayais de creer de mes mains des formes et tout et faire en sorte que ca fonctionne et tout ca
+-------------------------------------------
+
+Line ID: 7073286376
+WER Score: 3.64
+Transcript: j avais cette frustration la qui etait celle de ne pas pouvoir dessiner les modeles que je faisais parce que vraiment je tentais quoi je tentais c est a dire que j ai les materiaux et puis j essaye j ai une idee globale et j essaye de faire en sorte que ca fonctionne
+Reference:  mais j avais cette frustration la qui etait celle de ne pas pouvoir dessiner les modeles que je faisais parce que vraiment je tentais quoi je tentais c est a dire que j aie les materiaux et puis j essaye j ai une idee globale et j essaye de faire en sorte que ca fonctionne
+-------------------------------------------
+
+Line ID: 7073281344
+WER Score: 8.51
+Transcript: on va dire materialisees c est moi qui les concois d abord et ensuite elles sont produites par ces personnes la et il y a des colliers que je faisais au debut jusqu a en tout cas a partir de 2015 que j ai commence a faire
+Reference:  on va dire materialize c est moi qui les concoit d abord et ensuite ils sont produits par ces personnes la et il y a des colliers que je faisais au debut jusqu a en tout cas a partir de 2015 que j ai commence a faire
+-------------------------------------------
+
+Line ID: 7073262018
+WER Score: 1.89
+Transcript: jusqu a on va dire 2019 j ai arrete de les faire mais je suis censee recommencer a les vendre a partir de cette annee et les colliers c est moi meme qui les fait c est moi meme qui les dessine qui les concoit et qui les assemble qui les monte etc
+Reference:  jusqu a on va dire 2019 j ai arrete de les faire mais je suis censee recommencer a les vendre a partir de cette annee et les colliers c est moi meme qui les fais c est moi meme qui les dessine qui les concoit et qui les assemble qui les monte etc
+-------------------------------------------
+
+Line ID: 7073222461
+WER Score: 6.49
+Transcript: mais en dehors de ca chaque collection a son univers et j insiste beaucoup sur ca parce que c est totalement en phase avec ce qu on a dit tout a l heure qui est le fait que chaque collection raconte une histoire et partant de la tu as des collections qui sont beaucoup plus dans un qui ont ete dessinees ou decidees meme dans un mood beaucoup plus leger que d autres
+Reference:  mais en dehors de ca chaque collection a son univers et j insiste beaucoup sur ca parce que c est totalement en fait en face avec ce qu on a dit tout a l heure qui est le fait que chaque collection raconte une histoire et partant de la tu as des collections qui sont beaucoup plus dans un . alors qui ont ete dessinees ou decidees meme dans un mood beaucoup plus leger que d autres
+-------------------------------------------
+
+Line ID: 7073229245
+WER Score: 7.50
+Transcript: et ca se ressent dans les formes toujours j ai une collection par exemple que j adore c est pas tres objectif mais bon j ai une collection que j adore qui s appelle meraki qui est sortie en 2019
+Reference:  et ca se ressent dans les formes toujours j ai une collection par exemple que j adore ce n est pas tres objectif mais j ai une collection que j adore qui s appelle meraki qui est sortie en 2019
+-------------------------------------------
+
+Line ID: 7073296761
+WER Score: 6.25
+Transcript: et cette collection c etait vraiment inspire par tout ce qui est pas dire joie de vivre mais c etait vraiment quelque chose qui etait pense dans la positivite donc qui etait vraiment pense dans la positivite dans le bien etre dans vraiment la paix interieure et tout ca donc c est un ensemble de lignes tres fines tres epurees
+Reference:  et cette collection c etait vraiment inspire par tout ce qui est je ne vais pas dire joie de vivre mais c etait vraiment quelque chose qui etait pense dans la positivite donc qui etait vraiment pense dans la positivite dans le bien etre dans vraiment vraiment la paix interieure et tout ca donc c est un ensemble de lignes tres fines tres epurees
+-------------------------------------------
+
+Line ID: 7073213061
+WER Score: 3.33
+Transcript: et pour moi par exemple a ce moment la quand j ai fait mon processus de questionnement et tout je me suis demande qu est ce qui m apaisait en fait et c etait vraiment la nature donc du coup il etait primordial pour moi qu il y ait pas mal de formes dans cette collection la qui rappellent la nature
+Reference:  et pour moi par exemple a ce moment la quand j ai fait mon processus de questionnement et tout je me suis demande qu est ce qui m apaisait en fait c etait vraiment la nature donc du coup il etait primordial pour moi qu il y ait pas mal de formes dans cette collection la qui rappelle la nature
+-------------------------------------------
+
+Line ID: 4250259292
+WER Score: 0.00
+Transcript: il eut ete bien preferable pour ces familles de rester a la campagne ou les conditions favorisent le developpement des qualites physiques et mentales
+Reference:  il eut ete bien preferable pour ces familles de rester a la campagne ou les conditions favorisent le developpement des qualites physiques et mentales
+-------------------------------------------
+
+Line ID: 4250224294
+WER Score: 4.35
+Transcript: que l on apprenne aux jeunes a cultiver la terre ce qui leur procurera une fatigue saine et un sommeil pur et paisible par suite de l insouciance des parents les jeunes habitant nos villes tombent dans la corruption et souillent leur ame devant dieu
+Reference:  que l on apprenne aux jeunes a cultiver la terre ce qui leur procurera une fatigue saine et un sommeil pur et paisible par suite de l insouciance des parents les jeunes habitants de nos villes tombent dans la corruption et souillent leur ame devant dieu
+-------------------------------------------
+
+Line ID: 4250242625
+WER Score: 4.55
+Transcript: poursuivons le theme commence hier de nombreux parents quittent les campagnes pour s etablir dans les villes croyant y trouver des habitations plus confortables et plus conformes a leurs desirs mais par ce changement ils exposent leurs enfants a de nombreuses et dangereuses tentations
+Reference:  poursuivons le theme commence hier de nombreux parents quittent les campagnes pour s etablir dans les villes croyant y trouver des habitations plus confortables et plus conformes a leur desir mais par ce changement ils exposent leurs enfants a de nombreuses et dangereuses tentations
+-------------------------------------------
+
+Line ID: 4250243909
+WER Score: 0.00
+Transcript: les jeunes gens sont livres a l oisivete et de ce fait subissent les influences de la rue ils descendent ainsi un a un des echelons de la degradation perdant finalement tout interet pour ce qui est bon pur et sain
+Reference:  les jeunes gens sont livres a l oisivete et de ce fait subissent les influences de la rue ils descendent ainsi un a un des echelons de la degradation perdant finalement tout interet pour ce qui est bon pur et sain
+-------------------------------------------
+
+Line ID: 4250225102
+WER Score: 2.44
+Transcript: telle est la consequence inevitable de l oisivete les hospices et l echafaud illustrent la negligence des parents envers leurs enfants il vaut mieux sacrifier tout avantage terrestre plutot que de mettre en peril les precieuses ames confiees a vos soins
+Reference:  telle est la consequence inevitable de l oisivete les auspices et l echafaud illustrent la negligence des parents envers leurs enfants il vaut mieux sacrifier tout avantage terrestre plutot que de mettre en peril les precieuses ames confiees a vos soins
+-------------------------------------------
+
+Line ID: 4250286666
+WER Score: 1.79
+Transcript: vos enfants seront assaillis par les tentations et ils devraient etre eduques de maniere a pouvoir les affronter il est de votre devoir d eliminer toute influence de rompre toute habitude de briser tout lien qui vous empeche de vous consacrer librement ouvertement et de tout votre coeur vous et votre famille au service de dieu
+Reference:  vos enfants seront assailles par les tentations et ils devraient etre eduques de maniere a pouvoir les affronter il est de votre devoir d eliminer toute influence de rompre toute habitude de briser tout lien qui vous empeche de vous consacrer librement ouvertement et de tout votre coeur vous et votre famille au service de dieu
+-------------------------------------------
+
+Line ID: 4250285732
+WER Score: 0.00
+Transcript: ici s acheve notre emission pour aujourd hui retrouvons nous demain pour la suite de ce sujet d ici la que dieu vous garde
+Reference:  ici s acheve notre emission pour aujourd hui retrouvons nous demain pour la suite de ce sujet d ici la que dieu vous garde
+-------------------------------------------
+
+Line ID: 7275155087
+WER Score: 4.17
+Transcript: bonjour chers auditeurs de la radio mondiale adventiste merci de suivre votre emission sur la bible aujourd hui nous allons parler de la consecration
+Reference:  bonjour chers auditeurs de la radio mondiale adventist merci de suivre votre emission sur la bible aujourd hui nous allons parler de la consecration
+-------------------------------------------
+
+Line ID: 7275171956
+WER Score: 2.82
+Transcript: environ quarante jours apres sa naissance le christ fut apporte a jerusalem par joseph et marie qui devaient en offrant un sacrifice le presenter au seigneur ceci etait exige par la loi juive et le christ en tant que remplacant de l homme devait se conformer a la loi dans ses moindres details deja il avait ete soumis au rite de la circoncision comme gauge de son obeissance a la loi
+Reference:  environ 40 jours apres sa naissance le christ fut apporte a jerusalem par joseph et marie qui devait en offrant un sacrifice le presenter au seigneur ceci etait exige par la loi juive et le christ en tant que remplacant de l homme devait se conformer a la loi dans ses moindres details deja il avait ete soumis au rite de la circoncision comme gauge de son obeissance a la loi
+-------------------------------------------
+
+Line ID: 7275165931
+WER Score: 8.93
+Transcript: celle ci exigeait que la mere offrit un agneau de nom en holocauste et un pigeon ou une tourterelle en sacrifice pour le peche mais elle permettait aux parents trop pauvres pour apporter un agneau de n offrir qu une paire de tourterelles ou de deux pigeonneaux l un en holocauste l autre en sacrifice pour le peche
+Reference:  celle ci exigeait que la mere offrit un agneau de nom en holocauste et un pigeon ou une touteurelle en sacrifice pour le peche mais elle permettait aux parents trop pauvres pour apporter un agneau de n offrir qu une paire de touteurelles ou de deux pigeons en holocauste l autre en sacrifice pour le peche
+-------------------------------------------
+
+Line ID: 7275118752
+WER Score: 2.04
+Transcript: les animaux offerts au seigneur devaient etre sans defaut ils representaient le christ et l on voit par la que jesus lui meme etait exempt de difformite physique il etait l agneau sans defaut et sans tache au physique il etait sans defaut son corps etait robuste et sain
+Reference:  les animaux offerts au seigneur devaient etre sans defaut ils representaient le christ et l on voit par la que jesus lui meme etait exempt de deformite physique il etait l agneau sans defaut et sans tache au physique il etait sans defaut son corps etait robuste et sain
+-------------------------------------------
+
+Line ID: 7275133029
+WER Score: 0.00
+Transcript: pendant toute sa vie il se conforma aux lois de la nature au point de vue physique comme au point de vue spirituel il fut un exemple de ce que dieu voulait que toute l humanite atteigne en obeissant aux lois divines la coutume de consacrer les premiers nes remontait a une haute antiquite
+Reference:  pendant toute sa vie il se conforma aux lois de la nature au point de vue physique comme au point de vue spirituel il fut un exemple de ce que dieu voulait que toute l humanite atteigne en obeissant aux lois divines la coutume de consacrer les premiers nes remontait a une haute antiquite
+-------------------------------------------
+
+Line ID: 7275199979
+WER Score: 3.57
+Transcript: dieu avait promis de donner le premier ne du ciel pour sauver le pecheur chaque famille devait reconnaitre ce don par la consecration du premier ne voue aux sacerdotes en qualite de representant du christ parmi les hommes l ordre de consacrer les premiers nes fut renouvele lors de la delivrance d israel hors d egypte
+Reference:  dieu avait promis de donner le premier ne du ciel pour sauver le pecheur chaque famille devait reconnaitre ce don par la consecration du premier ne voue au sacerdoce en qualite de representant du christ parmi les hommes l ordre de consacrer les premiers nes fut renouvele lors de la delivrance d israel hors d egypte
+-------------------------------------------
+
+Line ID: 7275123463
+WER Score: 10.81
+Transcript: alors que les enfants d israel etaient encore asservis par les egyptiens le seigneur envoya moise aupres du pharaon roi d egypte pour lui dire ainsi parle l eternel israel est mon fils mon premier ne
+Reference:  alors que les enfants d israel etaient encore asservis par les egyptiens le seigneur envoya moise aupres du pharaon roi d egypte pour lui dire il s y parle eternel israel est mon fils mon premier ne
+-------------------------------------------
+
+Line ID: 7275169051
+WER Score: 3.03
+Transcript: je t avais dit laisse partir mon fils afin qu il soit a mon service et tu as refuse de le laisser partir eh bien je vais faire mourir ton fils premier ne
+Reference:  je t avais dit laisse partir mon fils afin qu il soit a mon service et tu as refuse de le laisser partir eh bien je vais faire mourir ton fils premier nez
+-------------------------------------------
+
+Line ID: 7275165592
+WER Score: 0.00
+Transcript: moise communiqua son message mais l orgueilleux roi repondit qui est l eternel pour que j obeisse a sa voix en laissant partir israel je ne connais pas l eternel et je ne laisserai point partir israel
+Reference:  moise communiqua son message mais l orgueilleux roi repondit qui est l eternel pour que j obeisse a sa voix en laissant partir israel je ne connais pas l eternel et je ne laisserai point partir israel
+-------------------------------------------
+
+Line ID: 7275159172
+WER Score: 1.67
+Transcript: le seigneur opera des signes et des prodiges en faveur de son peuple et frappa pharaon de terribles chatiments a la fin l ange destructeur fut charge d exterminer les premiers nes parmi les hommes et parmi le betail des egyptiens les israelites pour etre epargnes devaient asperger avec le sang d un agneau immole les poteaux de leurs portes
+Reference:  le seigneur opera des signes et des prodiges en faveur de son peuple et frappa pharaon de terribles chatiments a la fin l ange destructeur fut charge d exterminer les premiers nez parmi les hommes et parmi le betail des egyptiens les israelites pour etre epargnes devaient asperger avec le sang d un agneau immole les poteaux de leurs portes
+-------------------------------------------
+
+Line ID: 7275164893
+WER Score: 3.45
+Transcript: chaque maison recevait ainsi une marque pour que l ange accomplissant sa mission de mort puisse passer par dessus les maisons des israelites apres que le seigneur eut frappe l egypte il dit a moise tu me consacreras tout premier ne parmi les enfants d israel aussi bien celui des hommes que celui des animaux il m appartient
+Reference:  chaque maison recevait ainsi une marque pour que l ange accomplissant sa mission du mort puisse passer par dessus les maisons des israelites apres que le seigneur eut frappe l egypte il dit a moise tu me consacreras tout premier nez parmi les enfants d israel aussi bien celui des hommes que celui des animaux il m appartient
+-------------------------------------------
+
+Line ID: 7275135135
+WER Score: 5.63
+Transcript: le jour ou j ai frappe tous les premiers nes dans le pays d egypte j ai consacre a mon service tous les premiers nes en israel depuis les hommes jusqu aux animaux et ils seront donc a moi je suis l eternel lorsque le service du tabernacle eut ete etabli le seigneur choisit la tribu de levi pour officier dans le sanctuaire a la place des premiers nes de tout israel
+Reference:  le jour ou j ai frappe tous les premiers nes dans le pays d egypte j ai consacre a mon service tout premier nes en israel depuis les hommes jusqu aux animaux et ils seront donc a moi je suis l eternel lorsque le service du tabernacle eut ete etabli le seigneur choisit la tribu de levis pour officier dans le sanctuaire a la place des premiers nes de tout israel
+-------------------------------------------
+
+Line ID: 7275198463
+WER Score: 6.25
+Transcript: mais l on continua a considerer les premiers nes comme appartenant au seigneur et il fallait les racheter a prix d argent la presentation des premiers nes acquit ainsi une signification particuliere tout en servant de memorial pour rappeler comment dieu avait merveilleusement delivre les enfants d israel elle annoncait une plus grande delivrance devant etre accomplie par le fils unique de dieu
+Reference:  mais l on continua a considerer les premiers nez comme appartenant au seigneur et il fallait les racheter a prix d argent la presentation des premiers nez a acquis ainsi une signification particuliere tout en servant de memorial pour rappeler comment dieu avait merveilleusement delivre les enfants d israel elle annoncait une plus grande delivrance devant etre accomplie par le fils unique de dieu
+-------------------------------------------
+
+Line ID: 7275116913
+WER Score: 4.35
+Transcript: ainsi que le sang repondu sur les poteaux des portes a sauve les premiers nes d israel le sang du christ peut sauver le monde la presentation du christ revetait donc une profonde signification cependant le pretre ne vit pas ce qui etait derriere le voile
+Reference:  ainsi que le sang repandu sur les poteaux des portes a sauve les premiers nez d israel le sang du christ peut sauver le monde la presentation du christ revetait donc une profonde signification cependant le pretre ne vit pas ce qui etait derriere le voile
+-------------------------------------------
+
+Line ID: 7275144745
+WER Score: 2.94
+Transcript: il ne sut pas dechiffrer le mystere la presentation des enfants etait une chose ordinaire jour apres jour chaque fois qu un enfant etait presente au seigneur le pretre percevait le prix du rachat
+Reference:  il ne suit pas dechiffrer le mystere la presentation des enfants etait une chose ordinaire jour apres jour chaque fois qu un enfant etait presente au seigneur le pretre percevait le prix du rachat
+-------------------------------------------
+
+Line ID: 7275184908
+WER Score: 2.70
+Transcript: jour apres jour il accomplissait la serie des ceremonies requises sans beaucoup s occuper des parents ou de l enfant excepte dans les cas ou il s agissait des parents riches ou jouissant d une haute position
+Reference:  jour apres jour il accomplissait la serie des ceremonies requises sans beaucoup s occuper des parents ou de l enfant excepte dans les cas ou il s agissait des parents riches ou jouissants d une haute position
+-------------------------------------------
+
+Line ID: 7275141668
+WER Score: 8.51
+Transcript: joseph et marie etaient pauvres et quand ils se presenterent avec l enfant les pretres ne virent qu un homme et une femme vetus comme de simples galileens rien dans leur apparence n attirait l attention et ils n apportaient que l offrande des pauvres gens
+Reference:  joseph et marie etaient pauvres et quand ils se presentaient avec l enfant les pretes ne virent qu un homme et une femme vetus comme de simples galileens rien dans leur apparence n a tire l attention et ils n apportaient que l offrande des pauvres gens
+-------------------------------------------
+
+Line ID: 2737451354
+WER Score: 5.13
+Transcript: la vie citadine est anormale et artificielle la prete au gain le tourbillon des plaisirs et des jouissances la soif du luxe et l extravagance detournent la pensee du but que nous devons poursuivre et ouvrent la porte a des maux sans nombre qui exercent sur la jeunesse un attrait presque irresistible l une des tentations les plus subtiles et les plus dangereuses qui assaillent les enfants et la jeunesse des villes c est l amour des plaisirs
+Reference:  la vie citadine est anormale et artificielle la preter au gain le tourbillon des plaisirs et des jouissances la soif du luxe et l extravagance detournent la pensee du but que nous devons poursuivre et ouvrent la porte a des mots sans nom qui exerce sur la jeunesse un attrait presque irresistible l une des tentations les plus subtiles et les plus dangereuses qui assaillent les enfants et la jeunesse des villes c est l amour des plaisirs
+-------------------------------------------
+
+Line ID: 2737466302
+WER Score: 0.00
+Transcript: les jours de vacances les sports et les jeux dont le nombre va sans cesse croissant les detournent des humbles devoirs de l existence l argent qui aurait du etre epargne pour un meilleur usage est ainsi gaspille en amusement tenir compte de la sante
+Reference:  les jours de vacances les sports et les jeux dont le nombre va sans cesse croissant les detournent des humbles devoirs de l existence l argent qui aurait du etre epargne pour un meilleur usage est ainsi gaspille en amusement tenir compte de la sante
+-------------------------------------------
+
+Line ID: 2737457292
+WER Score: 8.33
+Transcript: les conditions physiques y sont souvent un danger pour la sante le contact toujours possible avec la maladie l air vicie l eau impure les aliments malsains les logements sombres insalubres et exigus sont quelques uns des maux nombreux qu on y rencontre il n est pas conforme au dessein de dieu que les hommes s entassent dans les villes
+Reference:  les conditions physiques y sont souvent un danger pour la sante le contact toujours possible avec la maladie l air vicie l eau impure les aliments malsains les logements sombres insalubres et exigues sont quelques uns des mots nombreux qu on y rencontre il n est pas conforme au destin de dieu que les hommes sont tasses dans les villes
+-------------------------------------------
+
+Line ID: 2737498628
+WER Score: 6.98
+Transcript: il placa nos premiers parents au milieu de scenes champetres dont il voudrait nous faire jouir encore aujourd hui plus nous nous rapprocherons du plan originel de dieu mieux nous obtiendrons la sante du corps et de l esprit les centers d iniquite
+Reference:  il placa nos premiers parents au milieu des saines champetres dont il voudra nous faire jouir encore aujourd hui plus nous nous rapprocherons du plan originel de dieu mieux nous obtiendrons la sante du corps et de l esprit les centers d iniquite
+-------------------------------------------
+
+Line ID: 2737484802
+WER Score: 0.00
+Transcript: les villes abondent en tentation nous devrions organizer notre oeuvre de maniere a eloigner le plus possible notre jeunesse des sources de contamination les enfants et tous les jeunes doivent etre proteges
+Reference:  les villes abondent en tentation nous devrions organizer notre oeuvre de maniere a eloigner le plus possible notre jeunesse des sources de contamination les enfants et tous les jeunes doivent etre proteges
+-------------------------------------------
+
+Line ID: 2737414812
+WER Score: 19.44
+Transcript: il devra etre tenu eloigne des centers d iniquite qui se trouvent dans nos villes agitation et confusion dieu ne desire pas que son peuple habite les villes ou regnent en permanence agitation et confusion
+Reference:  ils devraient etre tenus et eloignes des centers d iniquite qui se trouvent dans nos villes agitation et confusion dieu ne designe pas que son peuple habite les villes ou regne en permanence agitation et confusion
+-------------------------------------------
+
+Line ID: 2737434692
+WER Score: 5.45
+Transcript: destruction imminente leurs reproches ou de grandes villes seront aneantis et chacun doit etre averti de ce chatiment a venir 0 si seulement le peuple de dieu prenait conscience de l imminente destruction de milliers de villes aujourd hui presque entierement plongees dans l idolatrie sacrifiees aux interets mondains et a l amour du gain
+Reference:  destructions imminentes leurs reproches ou de grandes villes seront aneanties et chacun doit etre averti de ce chatiment a venir 0 si seulement le peuple de dieu prenait conscience de l imminente destruction de milliers de villes aujourd hui presque entierement plongees dans l idolatrie sacrifiees aux interets mondains et a l amour du gain
+-------------------------------------------
+
+Line ID: 2737431022
+WER Score: 1.75
+Transcript: les parents negligent souvent de placer leurs enfants sous de bonnes influences en choisissant un lieu d habitation ils pensent davantage a leurs interets d ici bas qu a l ambiance morale et sociale et les enfants ont des frequentations qui ne sont pas favorables au developpement de la piete et a la formation de caractere droit
+Reference:  les parents negligent souvent de placer leurs enfants sous de bonnes influences en choisissant un lieu d habitation ils pensent davantage a leurs interets d ici bas qu a l ambiance morale et sociale et les enfants ont des frequentations qui ne sont pas favorables au developpement de la piete et a la formation de caractere 3
+-------------------------------------------
+
+Line ID: 2737435393
+WER Score: 20.00
+Transcript: parents qui condamnaient les canadiens parce qu ils sacrifiaient leurs enfants a moloch qu en est il de vous vous faites de couteuses offrandes au dieu maman
+Reference:  parents qui condamnaient les canadiens parce qu ils sacrifiaient leurs enfants a moloche connait ils de vous vous faites de couteuses offrandes au dieu maman
+-------------------------------------------
+
+Line ID: 2737492354
+WER Score: 2.33
+Transcript: puis lorsque vos enfants qui ont grandi sans recevoir l amour necessaire et ont acquis un caractere desagreable manifestent une profonde impiete et une tendance a l infidelite vous accusez la foi que vous professez d avoir ete incapable de le sauver vous recrutez ce que vous avez seme les consequences de votre amour egoiste du monde et de votre manque d interet pour les bienfaits de la grace vous avez place vos familles en des lieux ou sevit la tentation et la presence de dieu
+Reference:  puis lorsque vos enfants qui ont grandi sont recevoir l amour necessaire et ont acquis un caractere desagreable manifestent une profonde impiete et une tendance a l infidelite vous accusez la foi que vous professez d avoir ete incapable de le sauver vous recoltez ce que vous avez seme les consequences de votre amour egoiste du monde et de votre manque d interet pour les bienfaits de la grace vous avez place vos familles en des lieux ou sevit la tentation et la presence de dieu
+-------------------------------------------
+
+Line ID: 2737448057
+WER Score: 5.56
+Transcript: votre gloire et votre defense vous l avez negligee aussi le seigneur n a t il pas opere de miracles pour arracher vos enfants a la tentation les villes n offrent pas de reels avantages
+Reference:  votre gloire et votre defense vous l avez negligee qu aussi le seigneur n a t il pas opere de miracle pour arracher vos enfants a la tentation les villes n offrent pas de reels avantages
+-------------------------------------------
+
+Line ID: 2737495853
+WER Score: 10.61
+Transcript: pas une famille suissant ne retirera un avantage physique mental et spirituel en habitant la ville les endroits retires les champs les collines et les bois favorisent le developpement de la foi de l esperance de l amour et du bonheur arrachez vos enfants au spectacle et au bruit de la ville au vacarme des tramways et des attelages et leurs facultes mentales s en trouveront ameliorees
+Reference:  pas une famille sucens ne retirera un avantage physique mental et spirituel en habitant la ville les endroits retires les champs les collines et les bois favorisent le developpement de la foi de l esperance de l amour et du bonheur arrachez vos enfants aux spectacles et aux bruits de la ville au vacarme des tramways et des attelages et leurs facultes mentales se trouveront ameliorees
+-------------------------------------------
+
+Line ID: 2737467565
+WER Score: 5.45
+Transcript: il sera beaucoup plus facile de faire penetrer dans leur coeur les verites de la parole du dieu conseil a ceux qui preferent quitter la campagne pour habiter en ville de nombreux parents quittent la campagne pour s etablir dans les villes croyant y trouver des habitations plus confortables et plus conformes a leur desir
+Reference:  il sera beaucoup plus facile de faire penetrer dans leur coeur les verites de la parole de dieu conseil a ceux qui preferent quitter la campagne pour habiter en ville de nombreux parents quittent la campagne pour s etablir dans les villes croyant y trouver des habitations plus confortables et plus conformes a leurs desirs
+-------------------------------------------
+
+Line ID: 2737411625
+WER Score: 1.82
+Transcript: mais par ce changement ils exposent leurs enfants a de nombreuses et dangereuses tentations les jeunes gens sont livres a l oisivite et de ce fait subissent les influences de la rue ils descendent ainsi un a un les echelons de la degradation perdant finalement tout interet pour ce qui est bon pur et sain
+Reference:  mais par ce changement ils exposent leurs enfants a de nombreuses et dangereuses tentations les jeunes gens sont livres a l oisivete et de ce fait subissent les influences de la rue ils descendent ainsi un a un les echelons de la degradation perdant finalement tout interet pour ce qui est bon pur et sain
+-------------------------------------------
+
+Line ID: 2737448484
+WER Score: 1.32
+Transcript: il vaut mieux sacrifier tout avantage des restes plutot que de mettre en peril les precieuses ames confiees a vos soins vos enfants seront assaillis par les tentations et ils devraient etre eduques de maniere a pouvoir les affronter il est de votre devoir d eliminer toute influence de rendre toute habitude de briser tout lien qui vous empeche de vous consacrer librement ouvertement et de tout coeur vous et votre famille au service de dieu
+Reference:  il vaut mieux sacrifier tout avantage des restes plutot que de mettre en peril les precieuses ames confiees a vos soins vos enfants seront assaillis par les tentations et ils devraient etre eduques de maniere a pouvoir les affronter il est de votre devoir d eliminer toute influence de rendre toute habitude de briser tout lien qui vous empeche de vous consacrer librement ouvertement et de tout coeur vous et votre famille au service du dieu
+-------------------------------------------
+
+Line ID: 2737486282
+WER Score: 2.94
+Transcript: au lieu d une ville surpeuplee cherchez plutot quelques endroits isoles ou vos enfants seront autant que possible a l abri de la tentation et la formez les et initiez les a une existence utile le prophete ezechiel enumere les causes qui ont amene la corruption de sodome et provoque sa destruction elle avait de l orgueil elle vivait dans l abondance et dans une insouciante securite
+Reference:  au lieu d une ville surpeuplee cherchez plutot quelques endroits isoles ou vos enfants seront autant que possible a l abri de la tentation et la formez les et initiez les a une existence utile le prophete ezechiel enumere les causes qui ont amene la corruption de ce don et provoque sa destruction elle avait de l orgueil elle vivait dans l abondance et dans une insouciante securite
+-------------------------------------------
+
+Line ID: 2737438992
+WER Score: 9.52
+Transcript: elle est ses filles et elle ne soutenait pas la main du malheureux de l indigent tous ceux qui veulent echapper au sort de sodome doivent s eloigner de la voie qui attira les jugements de dieu sur cette cite perverse quand lot se fixa a sodome il s etait fermement promis de proteger sa famille de l iniquite qui y regnait
+Reference:  elle est sa fille et elle ne soutenait pas l ame du malheureux de l indigent tous ceux qui veulent echapper au sort de sodome doivent s eloigner de la voie qui attira les jugements de dieu sur cette cite perverse quand l autre se fixa a sodome il s etait fermement promis de proteger sa famille de l iniquite qui y regnait
+-------------------------------------------
+
+Line ID: 2737464596
+WER Score: 5.00
+Transcript: si en quoi il echoua completement il ne sut meme pas se preserver personnellement des influences corruptrices qui l entouraient en outre les relations de ses enfants avec les habitants de sodome l entrainerent malgre lui a sympathizer avec eux
+Reference:  si en quoi il echoua completement il ne sut meme pas se preserver personnellement des influences corruptrices qui l entouraient en outre les relations de ses enfants avec les habitants de sodom l entraineraient malgre lui a sympathizer avec eux
+-------------------------------------------
+
+Line ID: 2737445889
+WER Score: 6.25
+Transcript: on en connait les resultats beaucoup de gens commettent une erreur semblable efforcez vous de choisir pour vous etablir un lieu qui soit aussi eloigne que possible de sodome et de gomorre
+Reference:  on en connait les resultats beaucoup de gens commettent une erreur semblable efforcez vous de choisir pour vous etablir un lieu qui soit aussi eloigne que possible de sodom et de gomor
+-------------------------------------------
+
+Line ID: 2737430587
+WER Score: 2.17
+Transcript: evitez d habiter les grandes villes si vous le pouvez fixez vous dans un endroit tranquille a la campagne meme si en agissant de la sorte vous vous mettez dans l impossibilite de faire fortune fixez vous a l endroit ou vous beneficierez des meilleures influences
+Reference:  evitez d habiter les grandes villes si vous le pouvez fixez vous dans un endroit tranquille a la campagne meme si en agissant de la sorte vous vous mettez dans l impossibilite de faire fortune fixez vous a l endroit ou vous beneficierez des meilleures effluences
+-------------------------------------------
+
+Line ID: 2737447965
+WER Score: 10.71
+Transcript: le seigneur me demande d avertir nos membres de ne pas accourir vers les villes afin d y trouver des logements pour leur famille je suis chargee de dire aux peres et aux meres ne renoncez pas a garder vos enfants avec vous dans vos propres maisons le moment est venu de quitter les villes
+Reference:  le seigneur me demande d invertir nos membres de ne pas accourir vers les villes afin d y trouver des logements pour leurs familles je suis chargee de dire aux peres et aux meres de ne pas renoncer a garder vos enfants avec vous dans vos propres maisons le moment est venu de quitter les villes
+-------------------------------------------
+
+Line ID: 2737455089
+WER Score: 3.17
+Transcript: mon message est le suivant eloignez vos familles des villes puisque dieu ouvre la voie le moment est venu pour les familles de quitter les villes les enfants devraient etre amenes a la campagne que les parents y cherchent un endroit confortable en fonction de leurs possibilites meme si l habitation est plutot petite elle devrait comporter un terrain susceptible d etre cultive
+Reference:  mon message est le suivant eloignez vos familles des villes puisque dieu ouvre la voie le moment est venu pour les familles de quitter les villes les enfants devraient etre amenes a la campagne que les parents y cherchent un endroit confortable en fonction de leurs possibilites meme si l habitation est plutot petite elles devraient comporter un terrain susceptible d etre cultive
+-------------------------------------------
+
+Line ID: 2737472855
+WER Score: 4.41
+Transcript: avant le chantiment qui doit frapper l humanite le seigneur appelle tous ceux qui sont de vrais hydraelites a se preparer a cet evenement aux parents il adresse cet avertissement rassemblez vos enfants dans vos maisons eloignez les de ceux qui foulent au pied le commandement de dieu de ceux qui enseignent et pratiquent le mal fiez les grandes villes aussi vite que possible dieu aidera son peuple
+Reference:  avant le chantiment qui doit frapper l humanite le seigneur appelle tous ceux qui sont de vrais israelites a se preparer a cet evenement aux parents il adresse cet avertissement rassemblez vos enfants dans vos maisons eloignez les de ceux qui foulent au pied les commandements de dieu de ceux qui enseignent et pratiquent le mal fiez les grandes villes aussi vite que possible dieu aidera son peuple
+-------------------------------------------
+
+Line ID: 2737455415
+WER Score: 1.47
+Transcript: les parents peuvent acquerir une petite maison a la campagne avec un terrain a cultiver ou un verger ce qui leur donnera des fruits et des legumes en remplacement d une alimentation carnee qui est tres nefaste a la circulation du sang la les enfants ne seront pas soumis aux influences corruptrices de la vie urbaine dieu aidera son peuple a trouver de telles habitations loin des villes
+Reference:  les parents peuvent acquerir une petite maison a la campagne avec un terrain a cultiver ou un verger ce qui leur donnera des fruits et des legumes en emplacement d une alimentation carnee qui est tres nefaste a la circulation du sang la les enfants ne seront pas soumis aux influences corruptrices de la vie urbaine dieu aidera son peuple a trouver de telles habitations loin des villes
+-------------------------------------------
+
+Line ID: 6881232304
+WER Score: 4.41
+Transcript: le theme du jour est des lois identiques gouvernent la nature et l humanite le grand maitre placait ses auditeurs en contact avec la nature afin qu ils puissent preter l oreille a la voix de la creation a mesure que leur coeur s attendrissait et que leur esprit s ouvrait a ses instructions il les aidait a interpreter l enseignement spirituel des choses que leurs yeux contemplaient
+Reference:  le theme du jour est des lois identiques gouvernent la nature et l humanite le grand maitre placait ces auditeurs en contact avec la nature afin qu ils puissent preter l oreille a la voie de la creation a mesure que leur coeur s attendrissait et que leur esprit s ouvrait a ces instructions il les aidait a interpreter l enseignement spirituel des choses que leurs yeux contemplaient
+-------------------------------------------
+
+Line ID: 6881260129
+WER Score: 0.00
+Transcript: cette lecon contenait un enseignement et un appel pour chacun ainsi loin d etre une simple routine depourvue de reflexion la tache que le maitre s imposait chaque jour etait illuminee et idealisee par le rappel constant des choses visibles et invisibles c est ainsi que nous devrions enseigner
+Reference:  cette lecon contenait un enseignement et un appel pour chacun ainsi loin d etre une simple routine depourvue de reflexion la tache que le maitre s imposait chaque jour etait illuminee et idealisee par le rappel constant des choses visibles et invisibles c est ainsi que nous devrions enseigner
+-------------------------------------------
+
+Line ID: 6881218073
+WER Score: 3.03
+Transcript: que les enfants apprennent a voir dans la nature l expression de l amour et de la sagesse de dieu que des liens soient etablis dans leurs pensees entre dieu et les oiseaux les fleurs et les arbres que toutes les choses visibles deviennent pour eux des interpretes des choses invisibles et tous les elements de la vie des moyens de s assimiler l enseignement divin
+Reference:  que les enfants apprennent a voir dans la nature l expression de l amour et de la sagesse de dieu que des liens soient etablis dans leur pensee entre dieu et les oiseaux les fleurs et les arbres que toutes les choses visibles deviennent pour eux des interpretes des choses invisibles et tous les elements de la vie des moyens de s assimiler l enseignement divin
+-------------------------------------------
+
+Line ID: 6881231104
+WER Score: 1.35
+Transcript: tandis qu ils apprendront a etudier les lecons que contiennent toutes les choses creees et les esperances de la vie montrez leur que les memes lois qui gouvernent les choses de la nature et les evenements de la vie doivent aussi nous diriger qu elles nous sont donnees pour notre bien et que l obeissance a ces lois peut seule nous procurer le succes et le veritable bonheur lecons pratiques enseignees par l agriculture
+Reference:  tandis qu ils apprendront a etudier les lecons que contiennent toutes les choses creees et les esperances de la vie montrez leur que les memes lois qui gouvernent les choses de la nature et les evenements de la vie doivent aussi nous diriger qu elles nous sont donnees pour notre bien et que l obeissance a ces lois peut seules nous procurer le succes et le veritable bonheur lecons pratiques enseignees par l agriculture
+-------------------------------------------
+
+Line ID: 6881217353
+WER Score: 6.45
+Transcript: parmi les lecons innombrables touchant les differents processus de croissance des plantes quelques unes des plus importantes sont enoncees dans la parabole du sauveur sur la semence elle s adresse aux jeunes comme aux plus ages la germination de la semence represente le debut de la vie spirituelle et le developpement de la plante est une figure de la formation du caractere
+Reference:  parmi les lecons innombrables touchant les differents processus de croissance des plantes quelques unes des plus importantes sont enoncees dans la parabole du sauveur sur la semance elles s adressent aux jeunes comme aux plus ages la germination de la semance represente le debut de la vie spirituelle et le developpement de la plante est une figure de la formation du caractere
+-------------------------------------------
+
+Line ID: 6881238759
+WER Score: 3.28
+Transcript: lorsque les parents et les educateurs cherchent a enseigner ces lecons ils devraient le faire d une maniere pratique que les enfants preparent eux memes le sol et y repandent la semence tandis qu ils travaillent les parents ou les maitres peuvent leur expliquer que le coeur est un jardin dans lequel de bonnes ou de mauvaises semences peuvent etre jetees
+Reference:  lorsque les parents et les educateurs cherchent a enseigner ces lecons ils devraient le faire d une maniere pratique que les enfants preparent eux memes le sol et y repondre la semance tandis qu ils travaillent les parents ou les maitres peuvent leur expliquer que le coeur est un jardin dans lequel de bonnes ou de mauvaises semences peuvent etre jetees
+-------------------------------------------
+
+Line ID: 6881244766
+WER Score: 8.47
+Transcript: chacun d eux devrait avoir son propre lopin de terre tandis qu une vouleuse apprenait a jardiner a preparer la terre pour y deposer la semence et que voulait montrer combien il est important d enlever toutes les mauvaises herbes attirait aussi leur attention sur la necessite de se debarrasser dans la vie des habitudes inavouables et funestes
+Reference:  chacun d eux devrait avoir son propre lopin de terre tandis qu une vouluse apprenait a jardiner a preparer la terre pour y deposer la semence et que vous leur montrez combien il est important d enlever toutes les mauvaises herbes attirant aussi leur attention sur la necessite de se debarrasser dans la vie des habitudes inavouables et funestes
+-------------------------------------------
+
+Line ID: 6881250231
+WER Score: 2.56
+Transcript: apprenez leur a reprimer leurs mauvaises habitudes comme ils luttent contre les mauvaises aides de leur jardin cet enseignement vous prendra du temps mais il en vaut grandement la peine l ambiance du foyer une illustration de nos croyances
+Reference:  apprenez leur a reprimer leurs mauvaises habitudes comme ils luttent contre les mauvaises herbes de leur jardin cet enseignement vous prendra du temps mais il en vaut grandement la peine l ambiance du foyer une illustration de nos croyances
+-------------------------------------------
+
+Line ID: 6881261284
+WER Score: 1.47
+Transcript: devant dieu les parents sont places dans l obligation de crier autour du foyer une ambiance qui corresponde a la verite qu ils professent ils peuvent ainsi donner un enseignement correct a leurs enfants et ceux ci seront etablis un rapport entre le foyer d ici bas et celui d en haut la famille doit autant que possible devenir un modele de celle qui existera dans le ciel
+Reference:  devant dieu les parents sont places dans l obligation de crier autour du foyer une ambiance qui corresponde a la verite qu ils prophetent ils peuvent ainsi donner un enseignement correct a leurs enfants et ceux ci seront etablis un rapport entre le foyer d ici bas et celui d en haut la famille doit autant que possible devenir un modele de celle qui existera dans le ciel
+-------------------------------------------
+
+Line ID: 6881241392
+WER Score: 10.67
+Transcript: ainsi les tendances a se complaire dans ce qui est vil s estomperont graduellement il faut faire comprendre aux enfants qu ici bas ils ne sont que des stagiaires et leur permettre grace a cette education de devenir des habitants des demeures que le christ est alle preparer pour ceux qui l aiment et qui gardent ses commandements c est pour leurs parents le devoir le plus sacre qu il est a remplir
+Reference:  ainsi les tendances a se complaire dans ce qui est ville s estomperont graduellement il faut faire comprendre aux enfants qu ici bas ils ne sont que des stagiaires et leur permettre grace a cette education de devenir des habitants d etre de mecs que le christ et aller preparer pour ceux qui l aiment et qui gardent ses commandements c est pour les parents le devoir le plus sacre qu il est a remplir
+-------------------------------------------
+
+Line ID: 6881255474
+WER Score: 9.30
+Transcript: elle nous rappelle le jardin d eden et nous oriente vers le pays beni dans lequel si nous sommes fideles nous entrerons bientot le seigneur me fait decouvrir les proprietes therapeutiques des fleurs et des arbres construire et meubler sa maison assurer l aeration l ensoleillement et une bonne irrigation dans la construction des edifices publics ou prives on devrait tout disposer de maniere que le soleil et l air y penetrent suffisamment les eglises et les salles d ecole sont souvent defectueuses a cet egard
+Reference:  elles nous rappellent le jarnet des daines et nous orientent vers le pays bene dans lequel si nous sommes fideles nous entrerons bientot le seigneur me fait decouvrir les proprietes therapeutiques des fleurs et des arbres construire et meubler sa maison assurer l aeration l ensoleillement et une bonne irrigation dans la construction des etifices publics ou prives on devrait tout disposer de maniere que le soleil et l air y penetrent suffisamment les eglises et les salles d ecole sont souvent defectueuses a cet egard
+-------------------------------------------
+
+Line ID: 6881275542
+WER Score: 0.00
+Transcript: le manque de ventilation explique l assoupissement et la somnolence qui detruisent l effet des meilleurs serments et rendent la tache des maitres penibles et ingrates autant que possible les maisons d habitation devraient etre construites sur les hauteurs sur un terrain bien irrigue et sec cette question est trop souvent consideree a la legere
+Reference:  le manque de ventilation explique l assoupissement et la somnolence qui detruisent l effet des meilleurs serments et rendent la tache des maitres penibles et ingrates autant que possible les maisons d habitation devraient etre construites sur les hauteurs sur un terrain bien irrigue et sec cette question est trop souvent consideree a la legere
+-------------------------------------------
+
+Line ID: 6881214163
+WER Score: 1.54
+Transcript: une mauvaise sante de graves maladies et beaucoup de deces sont le resultat de l humidite et de l air vicie qui regne dans les lieux en contrebas insuffisamment draines il est particulierement important de prevoir pour nos maisons une bonne aeration et un grand ensoleillement chaque piece devrait avoir une abondance d air pur et de lumiere mais tout particulierement la chambre a coucher
+Reference:  une mauvaise sante de graves maladies et beaucoup de deces sont le resultat de l humidite et de l air vicie qui regne dans les lieux en contrebas insuffisamment traines il est particulierement important de prevoir pour nos maisons une bonne aeration et un grand ensoleillement chaque piece devrait avoir une abondance d air pur et de lumiere mais tout particulierement la chambre a coucher
+-------------------------------------------
+
+Line ID: 6881270629
+WER Score: 4.55
+Transcript: mais des arbres et des arbustes touffus qui enveloppent en quelque sorte la maison rendent l endroit plutot malsain car ils empechent la libre circulation de l air et forment un ecran devant les rayons du soleil il en resulte une humidite qui penetre la maison en particulier pendant les saisons pluvieuses l influence des beautes naturelles sur la famille dieu aime ce qui est beau
+Reference:  mais des arbres et des arbustes touffus qui enveloppent en quelque sorte la maison rendent l endroit plutot malsain car ils empechent la libre circulation de l air et forment un ecran devant les rayons du soleil ils en resultent une humidite qui penete la maison en particulier pendant les saisons pluvieuses l influence des beautes naturelles sur la famille dieu aime ce qui est beau
+-------------------------------------------
+
+Line ID: 6881267707
+WER Score: 4.23
+Transcript: il a revetu de beaute la terre et les cieux et son oeil paternel prend plaisir a voir ses enfants se rejouir des choses qu il a creees il desire que nous entourions nos maisons des charmes de la nature presque tous ceux qui habitent a la campagne quels que pauvres qu ils soient pourraient avoir autour de leur maison une pelouse l ombre de quelques arbres le parfum de quelques fleurs
+Reference:  il a revetu de beaute la terre et les cieux et son oeil paternel prend plaisir a voir ses enfants se rejouir des choses qu il a criees il desire que nous entourions nos maisons des charmes de la nature presque tous ceux qui habitent a la campagne quelques pauvres qu ils soient pourraient avoir autour de leur maison une pelouse l ombre de quelques arbres le parfum de quelques fleurs
+-------------------------------------------
+
+Line ID: 6881290500
+WER Score: 1.30
+Transcript: cela leur procurerait bien plus de bonheur qu un luxe artificiel et introduirait dans leur vie de famille une influence adoucissante et ennoblissante entretenant en eux l amour de la nature attirant les membres de la famille plus pres les uns des autres et plus pres de dieu le mobilier de la maison doit etre simple nos habitudes artificielles nous privent de beaucoup de joie et de benediction elles nous empechent de vivre le plus utilement possible
+Reference:  cela leur procurerait bien plus de bonheur qu un luxe artificiel et introduirait dans leur vie de famille une influence adoucissante et ennoblissante entretenant en eux l amour de la nature attirant les membres de la famille plus pres les uns des autres et plus pres de dieu le mobilier de la maison doit etre simple nos habitudes artificielles nous privent de beaucoup de joie et de benediction et nous empechent de vivre le plus utilement possible
+-------------------------------------------
+
+Line ID: 6881223036
+WER Score: 4.23
+Transcript: un ameublement recherche et couteux n est pas seulement un gaspillage d argent mais il exige aussi des soucis multiples et cause des soucis constants meublez votre maison d objets simples durables et pas trop lourds qui puissent etre entretenus facilement et remplaces a peu de frais en exercant votre gout vous pourrez faire d un homme foyer une demeure agreable et attrayante si l amour et la joie y regnent
+Reference:  un ameublement recherche et couteux n est pas seulement un gaspillage d argent mais il exige aussi des souhaits multiples et cause des soucis constants meubler votre maison d objets simples durables et pas trop lourds qui puissent etre entretenus facilement et remplaces a peu de frais en exercant votre gout vous pourrez faire d un homme foyer une demeure agreable et attrayante si l amour et la joie y regne
+-------------------------------------------
+
+Line ID: 6881293845
+WER Score: 3.77
+Transcript: un etalage superflu ne saurait apporter le bonheur cependant plus l amenagement d une maison sera simple et ordonne plus grand sera le bien etre qu il procurera a ses occupants merci de nous avoir suivis ainsi s acheve notre emission sur la famille pour aujourd hui a bientot pour un autre theme
+Reference:  un etalage superflu ne saurait apporter le bonheur cependant plus l amenagement d une maison sera simple et ordonnee plus grand sera le bien net qu il procurera a ses occupants merci de nous avoir suivis ainsi s acheve notre emission sur la famille pour aujourd hui a bientot pour un autre theme
+-------------------------------------------
+
+Line ID: 6881235962
+WER Score: 3.57
+Transcript: le theme aujourd hui est les avantages de la campagne un lopin de terre et une maison confortable partout ou cela est possible le devoir des parents est de prevoir des habitations a la campagne pour leurs enfants les parents qui possedent un terrain et une demeure confortable sont des rois et des reines ne considerez pas comme un sacrifice de devoir quitter la ville et de vous etablir a la campagne en effet de riches benedictions y attendent ceux qui veulent les saisir
+Reference:  le theme aujourd hui est les avantages de la campagne un lopin de terre et une maison confortable partout ou cela est possible le devoir des parents et des prevoirs des habitations a la campagne pour leurs enfants les parents qui possedent un terrain et une demeure confortable sont des rois et des reines ne considerez pas comme un sacrifice de devoir quitter la ville et de vous etablir a la campagne en effet de riches benedictions y attendent ceux qui veulent les saisir
+-------------------------------------------
+
+Line ID: 6881260424
+WER Score: 1.47
+Transcript: la campagne offre la securite economique a plusieurs reprises le seigneur a fait savoir que son peuple doit eloigner ses familles des villes et les etablir a la campagne ou elles peuvent cultiver les produits dont elles ont besoin car a l avenir pouvoir acheter et vendre deviendra un serieux probleme des maintenant nous devons nous conformer aux instructions qui nous ont ete repetees maintes et maintes fois
+Reference:  la campagne offre la securite economique a plusieurs reprises le seigneur a fait savoir que son peuple doit eloigner ses familles des villes et les etablir a la campagne ou elles peuvent cultiver les produits dont elles ont besoin car a l avenir pouvoir acheter et vendre deviendra un serieux probleme des maintenant nous devons nous conformer aux instructions que nous ont ete repetees maintes et maintes fois
+-------------------------------------------
+
+Line ID: 6881231475
+WER Score: 0.00
+Transcript: sortez des villes pour vous etablir dans des regions rurales ou les maisons ne sont pas trop rapprochees les unes des autres et ou vous ne serez pas en contact etroit avec des ennemis conseil a un citadin ce serait une bonne chose pour vous d abandonner tous vos soucis et de vous retirer a la campagne ou les influences qui corrompent les facultes morales de la jeunesse ne s exercent pas de facon aussi intense
+Reference:  sortez des villes pour vous etablir dans des regions rurales ou les maisons ne sont pas trop rapprochees les unes des autres et ou vous ne serez pas en contact etroit avec des ennemis conseil a un citadin ce serait une bonne chose pour vous d abandonner tous vos soucis et de vous retirer a la campagne ou les influences qui corrompent les facultes morales de la jeunesse ne s exercent pas de facon aussi intense
+-------------------------------------------
+
+Line ID: 6881223460
+WER Score: 4.11
+Transcript: suivant l espece il faut des terrains et des methodes de culture differents le succes ne s obtient que par la soumission aux lois qui gouvernent ces diverses especes de vegetaux l attention necessaire pour transplanter afin que pas une seule racine ne soit trop serree ou mal placee les soins donnes aux jeunes plantes la taille et l arrosage la preservation contre la gelee pendant la nuit et le soleil pendant le jour
+Reference:  suivant l espece il faut des terrains et des methodes de culture differents le succes ne s obtient que par la soumission aux lois qui gouvernent ces diverses especes de vegetaux l attention necessaire pour transplanter afin que pas une seule racine ne soit trop serree ou mal placee laissons adonner aux jeunes plantes la taille et l arrosage la preservation contre la gelee pendant la nuit et le soleil pendant le jour
+-------------------------------------------
+
+Line ID: 6881247387
+WER Score: 1.75
+Transcript: de meme que le jardin doit etre prepare pour recevoir la semence naturelle de meme aussi le coeur doit l etre pour recevoir la semence de la verite personne ne s attend a moissonner sur un terrain en friche sans relache et avec perseverance il faut preparer le sol semer cultiver et prendre soin de la recolte
+Reference:  de meme que le jardin doit etre prepare pour recevoir la semance naturelle de meme aussi le coeur doit l etre pour recevoir la semence de la verite personne ne s attend a moissonner sur un terrain en friche sans relache et avec perseverance il faut preparer le sol semer cultiver et prendre soin de la recolte
+-------------------------------------------
+
+Line ID: 6881241629
+WER Score: 0.00
+Transcript: il doit en etre ainsi pour la semence spirituelle les mauvaises habitudes comparables aux mauvaises herbes autant que possible le foyer devrait se trouver loin de la ville dans un endroit ou les enfants disposeraient d un terrain a cultiver
+Reference:  il doit en etre ainsi pour la semence spirituelle les mauvaises habitudes comparables aux mauvaises herbes autant que possible le foyer devrait se trouver loin de la ville dans un endroit ou les enfants disposeraient d un terrain a cultiver
+-------------------------------------------
+
+Line ID: 6881262844
+WER Score: 1.59
+Transcript: parents cherchez a vous fixer a la campagne aussi longtemps que dieu me donnera la force de parler a notre communaute je ne cesserai d inviter les parents a quitter la ville et a se fixer a la campagne ou ils pourront acquerir un terrain pour le cultiver et recevoir du grand livre de la nature de lecons de purete et de simplicite
+Reference:  parents cherchez a vous fixer a la campagne aussi longtemps que dieu me donnera la force de parler a notre communaute je ne cesserai d inviter les parents a quitter la ville et a se fixer a la campagne ou ils pourront accueillir un terrain pour le cultiver et recevoir du grand livre de la nature de lecons de purete et de simplicite
+-------------------------------------------
+
+Line ID: 6881296704
+WER Score: 2.33
+Transcript: les tresors de la nature sont les silencieux temoins du seigneur qui nous donne pour nous enseigner des verites spirituelles il nous parle de l amour de dieu et nous dispense la sagesse du grand artiste et maitre j aime les belles fleurs
+Reference:  les tresors de la nature sont les silencieux temoins du seigneur qui nous donnent pour nous enseigner des verites spirituelles il nous parle de l amour de dieu et nous dispense la sagesse du grand artiste et maitre j aime les belles fleurs
+-------------------------------------------
+
+Line ID: 6881232327
+WER Score: 0.00
+Transcript: comme les autres il faudrait qu elle ait de l air et du soleil et soit equipee de moyens de chauffage pour chasser l humidite qui s accumule toujours dans une piece que l on n occupe pas habituellement quiconque dort dans une chambre sans soleil ou dans un lit qui n a pas ete parfaitement seche et aere expose sa sante et peut etre sa vie
+Reference:  comme les autres il faudrait qu elle ait de l air et du soleil et soit equipee de moyens de chauffage pour chasser l humidite qui s accumule toujours dans une piece que l on n occupe pas habituellement quiconque dort dans une chambre sans soleil ou dans un lit qui n a pas ete parfaitement seche et aere expose sa sante et peut etre sa vie
+-------------------------------------------
+
+Line ID: 6881282865
+WER Score: 3.12
+Transcript: il ne faut pas dormir dans une piece ou l air et le soleil n ont pas libre acces chaque jour dans la plupart des cas on pouvoira a des moyens de chauffage suffisants pour temperer ou assainir la chambre par les temps froids ou humides la chambre d amis devrait etre aussi bien soignee que celle que l on occupe tous les jours
+Reference:  il ne faut pas dormir dans une piece ou l air et le soleil n ont pas libre acces chaque jour dans la plupart des cas on pouvoira a des moyens de chauffage suffisants pour temperer ou assainir la chambre par les temps froid ou humide la chambre d amis devrait etre aussi bien soignee que celle que l on occupe tous les jours
+-------------------------------------------
+
+Line ID: 6881239293
+WER Score: 5.88
+Transcript: evitez les marecages si nous voulons que la sante et le bonheur regnent dans nos maisons placons celles ci au dessus des brouillards qui regnent dans les lieux en contrebas et donnons libre entree aux elements vivifiants du grand air supprimons les lourds rideaux ouvrons les fenetres et les volets
+Reference:  evitez les marecages si nous voulons que la sante et le bonheur regnent dans nos maisons placons celles ci au dessus des brouillards qui regnent dans les lieux en contre bas et donnant libre entree aux elements vivifiants du grand air supprimons les lourds rideaux ouvrons les fenetres et les volets
+-------------------------------------------
+
+Line ID: 6881220688
+WER Score: 3.70
+Transcript: ceux qui ont des personnes agees a soigner doivent se souvenir qu elles ont particulierement besoin de chambres chaudes et confortables la vigueur decline a mesure que les annees s ecoulent laissant moins de vitalite pour resister aux influences malsaines c est pourquoi il faut aux vieillards beaucoup de soleil et d air pur
+Reference:  ceux qui ont des personnes agees a soigner doivent se souvenir qu elles ont particulierement besoin de chambres chaudes et confortables la vigueur decline a mesure que les annees s ecoulent laissant moins de vitalite pour resister aux influences malsaines c est pourquoi il faut au vieillard beaucoup de soleil et d air pur
+-------------------------------------------
+
+Line ID: 6881233118
+WER Score: 8.47
+Transcript: nous ne laissons aucune vigne grimpante si belle soit elle faire de l ombre aux fenetres et ne telerons aucun arbre si pres de la maison qu il la prive de soleil celui ci peut faner les cantures et les tapis ternir les cadres et les tableaux mais il mettra le rose de la sante sur les joues des enfants
+Reference:  ne laissons aucune vigne grimpante si belle soit elle faire de l ombre aux fenetres et ne telerons aucun arbre si pres de la maison qu il a prive de soleil celui ci peut fanner les tentures et les tapis ternis les cadres et les tableaux mais il mettra le rose de la sante sur les joues des enfants
+-------------------------------------------
+
+Line ID: 6881250187
+WER Score: 2.13
+Transcript: la cour entourant la maison une cour agrementee de quelques arbres et de massifs d arbustes places a une distance convenable de la maison exercera une heureuse influence sur la famille un tel environnement si on sait bien l entretenir ne saurait etre prejudiciable a la sante
+Reference:  la cour entourant la maison une cour agrementee de quelques arbres ou de massifs d arbustes places a une distance convenable de la maison exercera une heureuse influence sur la famille un tel environnement si on sait bien l entretenir ne saurait etre prejudiciable a la sante
+-------------------------------------------
+
+Line ID: 6881256416
+WER Score: 2.90
+Transcript: il est certain qu a la campagne vous ne serez pas entierement a l abri des soucis et des problemes mais vous y eviterez un grand nombre de maux car vous fermerez la porte a une foule de tentations qui menacent de dominer l esprit de vos enfants ils ont besoin a la fois d occupation et de diversite la monotonie de leur foyer les rend insatisfaits et remuants
+Reference:  il est certain qu a la campagne vous ne serez pas entierement a l abri des soucis et des problemes mais vous y eviterez un grand nombre de mots quand vous fermerez la porte a une foule de tentations qui menacent de dominer l esprit de vos enfants ils ont besoin a la fois d occupation et de diversite la monotonie de leur foyer les rend insatisfaits et remuants
+-------------------------------------------
+
+Line ID: 6881277615
+WER Score: 0.00
+Transcript: ils ont pris l habitude de se meler aux voyous et ont subi ainsi les inconvenients d une education grossiere la vie a la campagne serait grandement benefique car une activite en plein air favoriserait leur sante a la fois physique et mentale ils devraient avoir un jardin a cultiver ce qui leur procurerait a la fois un divertissement agreable et une activite utile
+Reference:  ils ont pris l habitude de se meler aux voyous et ont subi ainsi les inconvenients d une education grossiere la vie a la campagne serait grandement benefique car une activite en plein air favoriserait leur sante a la fois physique et mentale ils devraient avoir un jardin a cultiver ce qui leur procurerait a la fois un divertissement agreable et une activite utile
+-------------------------------------------
+
+Line ID: 6881291803
+WER Score: 0.00
+Transcript: la culture des legumes et des fleurs developpe le gout et le jugement tout en donnant une connaissance plus etendue de la creation de dieu de sa beaute et de son utilite
+Reference:  la culture des legumes et des fleurs developpe le gout et le jugement tout en donnant une connaissance plus etendue de la creation de dieu de sa beaute et de son utilite
+-------------------------------------------
+
+Line ID: 6881248203
+WER Score: 5.66
+Transcript: orientes vers le createur et le maitre de toutes choses leur esprit s en trouvera afferme et ennoble de riches benedictions promises aux habitants de la campagne dans cette profondeur la terre tient en reserve de riches benedictions pour ceux qui ont le courage la volonte et la perseverance de recueillir ces tresors
+Reference:  orientes vers le createur et le maitre de toutes choses leur esprit s en trouvera affermes et ennobles de riches benedictions promises aux habitants de la campagne dans cette profondeur la terre tient en reserve de riches benedictions pour ceux qui ont le courage la volonte et la perseverance de recueillir ses tresors
+-------------------------------------------
+
+Line ID: 6881256282
+WER Score: 7.41
+Transcript: de nombreux fermiers n ont pas tire de leur terre des revenus normaux parce qu ils ont considere la culture comme un travail degradant ils ne se sont pas rendus compte qu il se trouve une benediction pour eux memes et pour leur famille un travail qui stimule l esprit et affine le caractere
+Reference:  de nombreux fermiers n ont pas tire de leur terre des revenus normaux parce qu ils ont considere la culture comme un travail degradant ils ne se sont pas rendus compte qu ils se trouvent une benediction pour eux memes et pour leurs familles un travail qui stimule l esprit et affine le caractere
+-------------------------------------------
+
+Line ID: 6881290603
+WER Score: 8.33
+Transcript: en cultivant le sol le travailleur attentif decouvrira des tresors auxquels il n avait jamais pense personne ne peut faire de l agriculture ou du jardinage avec succes sans se soumettre aux lois de la nature il faut etudier les besoins speciaux de chaque variete de plantes
+Reference:  en cultivant le sol le travailleur attentif decouvrira des tresors auxquels il n avait jamais pense personne ne peut faire de l agriculture ou du jardinage avec succes sans se soumettre aux lois de la nature il faut etudier les besoins speciaux des chars ou varietes de plantes
+-------------------------------------------
+
+Line ID: 1141796564
+WER Score: 3.45
+Transcript: bonjour chers auditeurs de la radio mondiale adventiste poursuivons le theme commence hier en cultivant le sol le travailleur attentif decouvrira les tresors auxquels il n avait jamais pense
+Reference:  bonjour chers auditeurs de la radio mondiale adventist poursuivons le theme commence hier en cultivant le sol le travailleur attentif decouvrira les tresors auxquels il n avait jamais pense
+-------------------------------------------
+
+Line ID: 1141774064
+WER Score: 0.00
+Transcript: personne ne peut faire de l agriculture ou du jardinage avec succes sans se soumettre aux lois de la nature il faut etudier les besoins speciaux de chaque variete de plantes suivant l espece il faut des terrains et des methodes de culture differentes
+Reference:  personne ne peut faire de l agriculture ou du jardinage avec succes sans se soumettre aux lois de la nature il faut etudier les besoins speciaux de chaque variete de plantes suivant l espece il faut des terrains et des methodes de culture differentes
+-------------------------------------------
+
+Line ID: 1141779560
+WER Score: 0.00
+Transcript: le succes ne s obtient que par la soumission aux lois qui gouvernent ces diverses especes de vegetaux l attention necessaire pour transplanter afin que pas une seule racine ne soit trop serree ou mal placee
+Reference:  le succes ne s obtient que par la soumission aux lois qui gouvernent ces diverses especes de vegetaux l attention necessaire pour transplanter afin que pas une seule racine ne soit trop serree ou mal placee
+-------------------------------------------
+
+Line ID: 6805986456
+WER Score: 0.00
+Transcript: le peuple dont dieu voulait faire la colonne et l appui de la verite avait fini par representer satan se conformant au desir de celui ci par sa conduite il presentait le caractere de dieu sous un faux jour et donnait l impression que dieu est un tyran les pretres eux memes qui officiaient dans le temple avaient perdu de vue la signification du service qu ils accomplissaient
+Reference:  le peuple dont dieu voulait faire la colonne et l appui de la verite avait fini par representer satan se conformant au desir de celui ci par sa conduite il presentait le caractere de dieu sous un faux jour et donnait l impression que dieu est un tyran les pretres eux memes qui officiaient dans le temple avaient perdu de vue la signification du service qu ils accomplissaient
+-------------------------------------------
+
+Line ID: 6805972073
+WER Score: 2.63
+Transcript: ils avaient cesse de voir au dela du symbole l objet signifie en offrant les sacrifices ils jouaient la comedie les ordonnances etablies par dieu furent transformees en moyens d aveugler les esprits et d endurcir leur coeur
+Reference:  ils avaient cesse de voir au dela du symbole l objet signifie en offrant les sacrifices ils jouaient la comedie les ordonnances etablies par dieu furent transformees en moyen d aveugler les esprits et d endurcir leur coeur
+-------------------------------------------
+
+Line ID: 6805942120
+WER Score: 0.00
+Transcript: dieu ne pouvait plus agir en faveur des hommes par leur intermediaire tout cela devait etre balaye la dubrie du peche avait atteint son comble
+Reference:  dieu ne pouvait plus agir en faveur des hommes par leur intermediaire tout cela devait etre balaye la dubrie du peche avait atteint son comble
+-------------------------------------------
+
+Line ID: 6805975291
+WER Score: 2.44
+Transcript: tous les moyens susceptibles de pervertir les ames humaines etaient a l oeuvre le fils de dieu en contemplant le monde ne voyait que souffrance et misere sa pitie fut emue car il vit avec quelle cruaute satan traitait ses victimes
+Reference:  tous les moyens susceptibles de pervetir les ames humaines etaient a l oeuvre le fils de dieu en contemplant le monde ne voyait que souffrance et misere sa pitie fut emue car il vit avec quelle cruaute satan traitait ses victimes
+-------------------------------------------
+
+Line ID: 6805961845
+WER Score: 0.00
+Transcript: il considera avec compassion ceux que l on corrompait assassinait et perdait le chef que les hommes s etaient donnes les enchainait a son char comme des captifs egare et trompe il s avancait en une triste procession vers une ruine eternelle vers une mort sans espoir de retour a la vie
+Reference:  il considera avec compassion ceux que l on corrompait assassinait et perdait le chef que les hommes s etaient donnes les enchainait a son char comme des captifs egare et trompe il s avancait en une triste procession vers une ruine eternelle vers une mort sans espoir de retour a la vie
+-------------------------------------------
+
+Line ID: 6805969234
+WER Score: 3.23
+Transcript: vers nuit que ne suivrait aucun matin des agents de satan s emparaient du corps humain ces corps destines a etre des habitations de dieu etaient envahis par des demons
+Reference:  vers une nuit que ne suivrait aucun matin des agents de satan s emparaient du corps humain ces corps destines a etre des habitations de dieu etaient envahis par des demons
+-------------------------------------------
+
+Line ID: 6805993005
+WER Score: 11.90
+Transcript: l essence les nerfs les facultes et les organes des hommes etaient employes par des puissances surnaturelles pour satisfaire les passions les plus vives des visages humains portaient l empreinte des demons ils refletaient les sentiments des legions du mal qui les possedait
+Reference:  les sens les nerfs les facultes les organes des hommes etaient employes par des puissances surnaturelles pour satisfaire les passions les plus viles des visages humains portaient l empreinte des demons ils refletaient les sentiments des legions du mal qui les possedaient
+-------------------------------------------
+
+Line ID: 6805983870
+WER Score: 12.50
+Transcript: voila ce qui s offrait au regard du redempteur du monde quel spectacle pourrait naitre infiniment pur le peche etait devenu une science
+Reference:  voila ce qui s offrait au regard du redempteur du monde quel spectacle pour un etre infiniment pur le peche etait devenu une science
+-------------------------------------------
+
+Line ID: 6805988918
+WER Score: 0.00
+Transcript: le vice etait consacre comme partie integrante de la religion la revolte avait jete des racines profondes dans les coeurs l hostilite de l homme contre le ciel etait devenue virulente
+Reference:  le vice etait consacre comme partie integrante de la religion la revolte avait jete des racines profondes dans les coeurs l hostilite de l homme contre le ciel etait devenue virulente
+-------------------------------------------
+
+Line ID: 6805984118
+WER Score: 0.00
+Transcript: il etait prouve aux yeux de l univers que l humanite ne pouvait se relever sans dieu un nouvel element de la vie de puissance devait etre communique par celui qui a cree le monde les habitants des mondes non dechus regardaient avec un interet intense pour voir si jehovah n allait pas se lever pour aneantir les habitants de la terre
+Reference:  il etait prouve aux yeux de l univers que l humanite ne pouvait se relever sans dieu un nouvel element de la vie de puissance devait etre communique par celui qui a cree le monde les habitants des mondes non dechus regardaient avec un interet intense pour voir si jehovah n allait pas se lever pour aneantir les habitants de la terre
+-------------------------------------------
+
+Line ID: 6805922350
+WER Score: 5.77
+Transcript: si dieu avait agi ainsi satan etait pret a realiser son deces tentant a s assurer l allegeance des etres celestes satan avait pretendu que les principes du gouvernement divin rendent tout pardon impossible si le monde avait ete detruit il y aurait vu une preuve de la veracite de ses affirmations
+Reference:  si dieu avait agi ainsi satan etait pret a realiser son dessein tentant a s assurer la legence des etres celestes satan avait pretendu que les principes du gouvernement divin rendent tout pardon impossible si le monde avait ete detruit il y aurait vu une preuve de la veracite de ses affirmations
+-------------------------------------------
+
+Line ID: 6805930482
+WER Score: 9.80
+Transcript: il osait accuser dieu et voulait propager sa revolte dans les mondes superieurs or voici qu au lieu de detruire le monde dieu envoya son fils pour le sauver bien que la corruption et le mepris de dieu fussent repandus partout dans cette province revoltee un moyen de salut fut trouve
+Reference:  il osait accuser dieu et voulait propager sa revolte dans le monde superieur or voici qu au lieu de detruire le monde dieu envoya son fils pour le sauver bien que la corruption et le mepris de dieu fut repondu partout dans cette province revoltee un moyen de salut fut trouve
+-------------------------------------------
+
+Line ID: 6805945373
+WER Score: 0.00
+Transcript: au moment critique ou satan paraissait sur le point de triompher le fils de dieu vint charge du message de la grace divine a chaque siecle a chaque heure l amour de dieu s etait manifeste envers la race dechue malgre la perversite des hommes les marques de la misericorde n avaient pas cesse d etre prodiguees
+Reference:  au moment critique ou satan paraissait sur le point de triompher le fils de dieu vint charge du message de la grace divine a chaque siecle a chaque heure l amour de dieu s etait manifeste envers la race dechue malgre la perversite des hommes les marques de la misericorde n avaient pas cesse d etre prodiguees
+-------------------------------------------
+
+Line ID: 6805949236
+WER Score: 5.80
+Transcript: et quand les temps furent accomplis la divinite se glorifia en inondant le monde d un flot de graces salutaires qui ne devaient jamais s arreter ni se retirer tant que le plan du salut ne serait pas accompli satan etait ravi pensant qu il avait reussi a avelir l image de dieu en l homme jesus vint alors pour etablir en l homme l image de son createur
+Reference:  et quand les temps furent accomplis la divinite se glorifia en inondant le monde d un flot de graces salutaires qui ne devait jamais s arreter ni se retirer tant que le plan du salut ne serait pas accompli satan etait ravi pensant qu il avait reussi a avilir l image de dieu en l homme jesus vait alors pour retablir en l homme l image de son createur
+-------------------------------------------
+
+Line ID: 6805938771
+WER Score: 8.00
+Transcript: lui seul peut reconstituer un caractere ruine par le peche il veut chasser les demons qui exercaient une domination sur les volontes il veut nous arracher a la poussiere et remodeler les caracteres deformes pour les rendre semblables aux divins modeles et leur communiquer la beaute de sa propre gloire
+Reference:  lui seul peut reconstituer un caractere ruine par le peche il vait chasser les demons qui exercaient une domination sur les volontes il vait nous arracher a la poussiere et remodeler les caracteres deformes pour les rendre semblables aux divin model et leur communiquer la beaute de sa propre gloire
+-------------------------------------------
+
+Line ID: 1481785076
+WER Score: 0.00
+Transcript: la mangouste et le crabe sont deux grands amis qui vivaient en parfaite harmonie pour renforcer leur amitie les deux amis decident de signer un pacte selon lequel aucun des deux ne devait faire de mal a l autre
+Reference:  la mangouste et le crabe sont deux grands amis qui vivaient en parfaite harmonie pour renforcer leur amitie les deux amis decident de signer un pacte selon lequel aucun des deux ne devait faire de mal a l autre
+-------------------------------------------
+
+Line ID: 1481777681
+WER Score: 5.13
+Transcript: ainsi la mangosque est un animal tres ruse n osait jamais tendre de piege a son ami le crabe et le crabe non plus avec ses pinces n avait jamais ose faire du mal a sa belle amie
+Reference:  ainsi la mangouste qui est un animal tres ruse n osait jamais tendre de piege a son ami le crabe et le crabe non plus avec ses pinces n avait jamais ose faire du mal a sa belle amie
+-------------------------------------------
+
+Line ID: 1481778841
+WER Score: 5.56
+Transcript: une fois le plomb mis en place la mangouste alla frapper a la porte de son ami le crabe l evitant a manger un bon plat qu elle avait pris le soin elle meme de cuisiner
+Reference:  une fois le plan mis en place la mangouste alla frapper a la porte de son ami le crabe l invitant a manger un bon plat qu elle avait pris le soin elle meme de cuisiner
+-------------------------------------------
+
+Line ID: 1481745744
+WER Score: 1.61
+Transcript: rusee la mangouste comme pour montrer l exemple plonge en premier la pate dans la marmite bouillante et ressort avec de gros morceaux de poisson le crabe suit son exemple et y plonge sa pince mais celle ci devient immediatement toute rouge sans devier de son projet la mangouste prend une deuxieme ration de poisson et incite le crabe a l imiter
+Reference:  rusee la mangouste comme pour montrer l exemple plonge en premier la patte dans la marmite bouillante et ressort avec de gros morceaux de poisson le crabe suit son exemple et y plonge sa pince mais celle ci devient immediatement toute rouge sans devier de son projet la mangouste prend une deuxieme ration de poisson et incite le crabe a l imiter
+-------------------------------------------
+
+Line ID: 1481741642
+WER Score: 7.32
+Transcript: le crabe naif plongea sa seconde pince dans le liquide brulant elle devait cramoisir a l egal de la premiere c est alors que la mangouste d un mouvement violent se jette sur la pince cuite du crabe et ram la croque
+Reference:  le crabe naif plongea sa seconde pince dans le liquide brulant elle devient cramoisie a l egal de la premiere c est alors que la mangouste d un mouvement violent se jette sur la pince cuite du crabe et la croque
+-------------------------------------------
+
+Line ID: 1481798831
+WER Score: 3.57
+Transcript: le crabe comprend enfin qu il est en danger il cherche a s enfuir mais la mangoste le rattrape le jette entierement dans la soupe et le devore
+Reference:  le crabe comprend enfin qu il est en danger il cherche a s enfuir mais la mangouste le rattrape le jette entierement dans la soupe et le devore
+-------------------------------------------
+
+Line ID: 1481760131
+WER Score: 0.00
+Transcript: c est depuis ce jour que le crabe est d une mefiance maladive lorsqu il est hors de son trou a peine sent il la presence d autrui qu il court rapidement se cacher il ne fait meme plus confiance a sa propre ombre
+Reference:  c est depuis ce jour que le crabe est d une mefiance maladive lorsqu il est hors de son trou a peine sent il la presence d autrui qu il court rapidement se cacher il ne fait meme plus confiance a sa propre ombre
+-------------------------------------------
+
+Line ID: 1637213714
+WER Score: 10.71
+Transcript: dans un village vivait ijap a la tortue et adja le chien ces deux amis etaient les seuls animaux qui cohabitaient avec les hommes les femmes et les enfants
+Reference:  dans un village vivaient ijapa la tortue et adja le chien ces deux amis etaient les seuls animaux qui cohabitaient avec les hommes les femmes et les enfants
+-------------------------------------------
+
+Line ID: 1637289064
+WER Score: 2.56
+Transcript: un jour alors qu ils se baladaient ils croiserent yahoua la femme la plus agee du village elle portait sur son dos un fagot de bois tres lourd et avait du mal a marcher adja le chien la salua
+Reference:  un jour alors qu ils se baladaient ils croiserent yawa la femme la plus agee du village elle portait sur son dos un fagot de bois tres lourd et avait du mal a marcher adja le chien la salua
+-------------------------------------------
+
+Line ID: 1637265285
+WER Score: 6.90
+Transcript: pris de pitie adja le chien proposa a son amie idjapa la tortue d aider la vieille dame a porter son fagot jusqu a chez elle idjapa lui repondit
+Reference:  pris de pitie adja le chien proposa a son amie ijapa la tortue d aider la vieille dame a porter son fagot jusqu a chez elle ijapa lui repondit
+-------------------------------------------
+
+Line ID: 1637268183
+WER Score: 4.76
+Transcript: tu m as bien regardee tu m imagines moi idiapa jolie comme je suis en train de porter sur mon dos un gros fagot pour raccompagner une vieille femme aussi lente je ne peux pas perdre mon temps je suis desolee
+Reference:  tu m as bien regardee tu m imagines moi ijapa jolie comme je suis en train de porter sur mon dos un gros fagot pour raccompagner une vieille femme aussi lente non je ne peux pas perdre mon temps je suis desolee
+-------------------------------------------
+
+Line ID: 1637218211
+WER Score: 14.81
+Transcript: et ijapalap tortue poursuivit sa route laissant derriere elle yahwa la vieille femme et son ami adja le chien a qui elle lanca en s eloignant
+Reference:  mais ijapa la tortue poursuivit sa route laissant derriere elle yawa la vieille femme et son ami adja le chien a qui elle lanca en s eloignant
+-------------------------------------------
+
+Line ID: 1637210720
+WER Score: 12.00
+Transcript: c est ainsi que adja le chien aida seule la vieille femme a porter son fagot la vieille dame fut touchee du comportement du chien
+Reference:  c est ainsi qu adja le chien aida seul la vielle femme a porter son fagot la vieille dame fut touchee du comportement du chien
+-------------------------------------------
+
+Line ID: 1637281842
+WER Score: 2.56
+Transcript: adja le chien s executa il opta pour le petit tambour qu il remit a yahoua elle aima le fait qu il ait choisi le plus petit tambour puis l encouragea a rester humble toute sa vie elle ajouta
+Reference:  adja le chien s executa il opta pour le petit tambour qu il remit a yawa elle aima le fait qu il ait choisi le plus petit tambour puis l encouragea a rester humble toute sa vie elle ajouta
+-------------------------------------------
+
+Line ID: 1637212089
+WER Score: 7.14
+Transcript: un jour arriva ou la nourriture vint a manquer alors que les provisions des villageois s etaient epuisees adja le chien lui ne manquait de rire il suivait scrupuleusement les indications de la vieille yahoua et mangeait chaque jour a sa fille
+Reference:  un jour arriva ou la nourriture vint a manquer alors que les provisions des villageois s etaient epuisees adja le chien lui ne manquait de rien il suivait scrupuleusement les indications de la vieille yawa et mangeait chaque jour a sa faim
+-------------------------------------------
+
+Line ID: 1637231591
+WER Score: 11.86
+Transcript: ijapalatortu et adja le chien ne se frequentaient plus jusqu au jour ou la rumeur se repandit dans le village que adja le chien avait recu un cadeau de la part d une vieille femme qui lui permettait de ne plus souffrir de la faim ijapalatortu decida d aller verifier l information par elle meme
+Reference:  ijapa la tortue et adja le chien ne se frequentaient plus jusqu au jour ou la rumeur se repandit dans le village qu adja le chien avait recu un cadeau de la part d une vieille femme qui lui permettait de ne plus souffrir de la faim ijapa la tortue decida d aller verifier l information par elle meme
+-------------------------------------------
+
+Line ID: 1637231990
+WER Score: 0.00
+Transcript: adja le chien qui etait bon expliqua a la tortue comment il avait recu ce present il tapa plusieurs fois sur le tambour et de la nourriture apparut en abondance tout en mangeant la tortue dit au chien
+Reference:  adja le chien qui etait bon expliqua a la tortue comment il avait recu ce present il tapa plusieurs fois sur le tambour et de la nourriture apparut en abondance tout en mangeant la tortue dit au chien
+-------------------------------------------
+
+Line ID: 1637240705
+WER Score: 1.75
+Transcript: ijapa la tortue decida alors de se rendre chez la vieille dame pour lui voler le grand tambour elle se croyait maligne oubliant que seule la vieille dame pouvait donner a chaque tambour son pouvoir magique une fois chez elle ijapa la tortue ferma ses portes ses fenetres aligna ses assiettes et commenca a battre le tambour
+Reference:  ijapa la tortue decida alors de se rendre chez la vieille dame pour lui voler le grand tambour elle se croyait maline oubliant que seule la vieille dame pouvait donner a chaque tambour son pouvoir magique une fois chez elle ijapa la tortue ferma ses portes ses fenetres aligna ses assiettes et commenca a battre le tambour
+-------------------------------------------
+
+Line ID: 1637247627
+WER Score: 0.00
+Transcript: malheureusement pour elle ce tambour ci renfermait un mauvais genie qui la frappa la frappa et la frappa encore elle appela a l aide mais personne ne vint a son secours
+Reference:  malheureusement pour elle ce tambour ci renfermait un mauvais genie qui la frappa la frappa et la frappa encore elle appela a l aide mais personne ne vint a son secours
+-------------------------------------------
+
+Line ID: 6604466366
+WER Score: 3.12
+Transcript: bonjour chers amis auditeurs de la radio mondiale adventiste nous nous retrouvons aujourd hui pour un nouveau theme il s agit de la sante et la bonne presentation de la mere
+Reference:  bonjour chevaux chers amis auditeurs de la radio mondiale adventiste nous nous retrouvons aujourd hui pour un nouveau theme il s agit de la sante et la bonne presentation de la mere
+-------------------------------------------
+
+Line ID: 6604440170
+WER Score: 8.70
+Transcript: ecoutons la sante de la mer doit etre soigneusement preservee les forces de la mer devraient etre menagees avec le plus grand soin
+Reference:  ecoutons la sante de la mere doit etre soigneusement preservee les forces de la mere devraient etre menagees avec le plus grand soin
+-------------------------------------------
+
+Line ID: 6604483836
+WER Score: 2.22
+Transcript: au lieu de la laisser s epuiser par un travail penible il faudra lui eviter le plus possible les soucis et la soulager de ses fardeaux son mari ignore souvent certaines des lois naturelles que le bien etre de la famille exigerait qu il connaisse
+Reference:  au lieu de la laisser s epuiser par un travail penible il faudrait lui eviter le plus possible les soucis et la soulager de ses fardeaux son mari ignore souvent certaines des lois naturelles que le bien etre de la famille exigerait qu il connaisse
+-------------------------------------------
+
+Line ID: 6604469608
+WER Score: 10.64
+Transcript: absorbe par la lutte pour la vie ou l appat du gain au prix de ses problemes et ses tracas il laisse reposer sur sa femme a une periode particulierement critique des charges qui depassent ses forces et sont cause pour elle de faiblesses et de maladies
+Reference:  absorbe par la lutte pour la vie ou la part du gain au prix de ses problemes et ses tracas il laisse reposer sur sa femme a une periode particulierement critique des charges qui depassent ses forces et son cause pour elle de faiblesse et de maladie
+-------------------------------------------
+
+Line ID: 6604439631
+WER Score: 0.00
+Transcript: dans son propre interet et celui de sa famille elle doit s epargner toute corvee inutile et usee de tous les moyens dont elle dispose pour preserver la vie la sante et la vigueur que dieu lui a donne car elle a besoin de toutes ses facultes pour mener a bien sa lourde tache
+Reference:  dans son propre interet et celui de sa famille elle doit s epargner toute corvee inutile et usee de tous les moyens dont elle dispose pour preserver la vie la sante et la vigueur que dieu lui a donne car elle a besoin de toutes ses facultes pour mener a bien sa lourde tache
+-------------------------------------------
+
+Line ID: 6604485260
+WER Score: 0.00
+Transcript: elle devrait passer une partie de son temps en plein air a faire des exercices afin de reprendre des forces pour s acquitter de ses taches domestiques joyeusement et consciencieusement tout en restant la lumiere et la benediction du foyer
+Reference:  elle devrait passer une partie de son temps en plein air a faire des exercices afin de reprendre des forces pour s acquitter de ses taches domestiques joyeusement et consciencieusement tout en restant la lumiere et la benediction du foyer
+-------------------------------------------
+
+Line ID: 6604416484
+WER Score: 5.13
+Transcript: les meres doivent etre les defenseurs de la reforme sanitaire la volonte divine a ete pleinement revelee a toutes les meres dieu veut qu elles soient par la parole et par l exemple les defenseurs de la reforme sanitaire
+Reference:  les maires doivent etre les defenseurs de la reforme sanitaire la volonte divine a ete pleinement revelee a toutes les maires dieu veut qu elles soient par la parole et par l exemple les defenseurs de la reforme sanitaire
+-------------------------------------------
+
+Line ID: 6604441077
+WER Score: 1.30
+Transcript: elles devraient s appuyer fermement sur les principes afin de ne violer en aucun cas les lois physiques que dieu a implantees en elles fideles aux principes en toute integrite les meres recevront du ciel la puissance morale et la grace qui leur permettront de faire briller leur lumiere sur le monde a la fois dans leur propre vie et dans la beaute du caractere de leurs enfants erzesee la maitrise de soi dans le domaine alimentaire
+Reference:  elles devraient s appuyer fermement sur les principes afin de ne violer en aucun cas les lois physiques que dieu a implantees en elles fideles aux principes en toute integrite les meres recevront du ciel la puissance morale et la grace qui leur permettront de faire briller leur lumiere sur le monde a la fois dans leur propre vie et dans la beaute du caractere de leurs enfants erzese la maitrise de soi dans le domaine alimentaire
+-------------------------------------------
+
+Line ID: 6604452401
+WER Score: 0.00
+Transcript: la mere a besoin de posseder la plus parfaite maitrise de soi afin d y parvenir elle devrait prendre toutes les precautions susceptibles de lui eviter le moindre dereglement d ordre physique ou mental sa vie devrait etre en accord avec les lois de dieu et de la sante
+Reference:  la mere a besoin de posseder la plus parfaite maitrise de soi afin d y parvenir elle devrait prendre toutes les precautions susceptibles de lui eviter le moindre dereglement d ordre physique ou mental sa vie devrait etre en accord avec les lois de dieu et de la sante
+-------------------------------------------
+
+Line ID: 6604499874
+WER Score: 5.41
+Transcript: puisque le regime alimentaire affecte sensiblement l esprit et le caractere elle devrait etre particulierement attentive a cet egard consommant des aliments nourrissants mais non excitants afin de garder des nerfs solides et une humeur egale
+Reference:  puisque le regime alimentaire a fait sensiblement l esprit et le caractere elle devrait etre particulierement attentive a cet egard consommant des aliments nourrissants mais non excitants afin de garder des nerfs solides et une humeur egale
+-------------------------------------------
+
+Line ID: 6604473314
+WER Score: 2.70
+Transcript: il lui sera plus facile de faire preuve de patience devant les differentes tendances de ses enfants et de gouverner ces derniers avec tendresse certes mais aussi avec fermete refletez la lumiere du soleil en toutes circonstances
+Reference:  il lui sera plus facile de faire preuve de patience devant les differentes tendances de ses enfants et de gouverner ces derniers avec tendresse certes mais aussi avec fermete refleter la lumiere du soleil en toutes circonstances
+-------------------------------------------
+
+Line ID: 6604463864
+WER Score: 2.33
+Transcript: la mere devrait et pourrait faire beaucoup pour dominer ses nerfs en periode de depression meme lorsqu elle est malade elle peut si elle s y exerce etre aimable et douce et supporter plus de bruit qu elle ne l aurait jamais cru
+Reference:  la mere devrait et pourrait faire beaucoup pour dominer ses nerfs en periode de depression meme lorsqu elle est malade elle peut si elle s y existe etre aimable et douce et supporter plus de bruit qu elle ne l aurait jamais cru
+-------------------------------------------
+
+Line ID: 6604465935
+WER Score: 2.17
+Transcript: elle ne devrait pas faire sentir a ses enfants ses faiblesses et assombrit leur esprit jeune et sensible par son etat depressif en leur donnant l impression que la maison est un tombeau et la chambre de leur mere l endroit le plus ennuyeux du monde
+Reference:  elle ne devrait pas faire sentir a ses enfants ses faiblesses et assombrir leur esprit jeune et sensible par son etat depressif en leur donnant l impression que la maison est un tombeau et la chambre de leur mere l endroit le plus ennuyeux du monde
+-------------------------------------------
+
+Line ID: 6604481589
+WER Score: 2.56
+Transcript: l esprit et les nerfs seront tonifies et fortifies par l exercice de la volonte la puissance de celle ci s averera dans bien des cas le meilleur calmant nerveux ne montrez pas a vos enfants un front soucieux
+Reference:  l esprit et les nerfs seront tonifies et fortifies par l exercice de la volonte la puissance de celle ci s averera dans bien des cas le meilleur calmant neveux ne montrez pas a vos enfants un front soucieux
+-------------------------------------------
+
+Line ID: 6604438117
+WER Score: 11.11
+Transcript: sa voix conserver l estime de son mari et de ses enfants pendant qu elle travaille nos soeurs ne devraient jamais porter des vetements qui les fassent ressembler a des epouvantails les voir vetues d habits saillants est bien plus agreable pour leur mari et leurs enfants que pour de simples visiteurs ou des etrangers
+Reference:  savoir conserver l estime de son mari et de ses enfants pendant qu elles travaillent nos soeurs ne devraient jamais porter des vetements qui les fassent ressembler a des eventails les voir vetues d habits saillants est bien plus agreable pour leur maris et leurs enfants que pour de simples visiteurs ou des etrangers
+-------------------------------------------
+
+Line ID: 6604415428
+WER Score: 4.26
+Transcript: certaines epouses et meres semblent s imaginer que leurs aspects n ont aucune importance lorsqu elles travaillent ou ne sont qu avec leur mari et leurs enfants alors qu elles mettent beaucoup de soin a s habiller avec gout pour recevoir des personnes qui ne leur sont rien
+Reference:  certaines epouses aimees semblent s imaginer que leurs aspects n ont aucune importance lorsqu elles travaillent ou ne sont qu avec leur mari et leurs enfants alors qu elles mettent beaucoup de soin a s habiller avec gout pour recevoir des personnes qui ne leur sont rien
+-------------------------------------------
+
+Line ID: 6604450668
+WER Score: 1.85
+Transcript: l estime et l amour du mari et des enfants ne doivent ils pas revetir une importance plus grande que la consideration d etrangers ou de simples amis aux yeux de chaque femme le bonheur de son mari et de ses enfants devrait etre plus sacre que celui de n importe qui d autre
+Reference:  l estime est l amour du mari et des enfants ne doivent ils pas revetir une importance plus grande que la consideration d etrangers ou de simples amis aux yeux de chaque femme le bonheur de son mari et de ses enfants devrait etre plus sacre que celui de n importe qui d autre
+-------------------------------------------
+
+Line ID: 6604429159
+WER Score: 7.69
+Transcript: portez des vetements qui vous vont bien cela renforcera le respect que vous portent vos enfants veillez a ce qu eux aussi soient vetus d une maniere saillante ne leur permettez pas de prendre des habitudes de laisser aller
+Reference:  porter des vetements qui vous vont bien cela renforcera le respect que vous portent vos enfants veillez a ce que eux aussi soient vetus d une maniere seayante ne leur permettez pas de prendre des habitudes de laisser aller
+-------------------------------------------
+
+Line ID: 6604443484
+WER Score: 4.26
+Transcript: ne pas etre esclave du quand dira t on trop souvent les meres manifestent une sensibilite maladive a l egard de ce que les autres risquent de penser de leurs habitudes de leurs vetements de leurs idees elles sont vraiment trop dependantes de l opinion d autrui
+Reference:  ne pas etre esclave du camp dira t on trop souvent les meres manifestent une sensibilite maladieve a l egard de ce que les autres risquent de penser de leurs habitudes de leurs vetements de leurs idees elles sont vraiment trop dependantes de l opinion d autrui
+-------------------------------------------
+
+Line ID: 6604455426
+WER Score: 3.12
+Transcript: n est il pas triste de voir le jugement et la conduite de certaines personnes omnibulees par la maniere dont les voisins peuvent la juger plutot que par leurs obligations envers dieu
+Reference:  n est il pas triste de voir le jugement et la conducte de certaines personnes omnibulees par la maniere dont les voisins peuvent la juger plutot que par leurs obligations envers dieu
+-------------------------------------------
+
+Line ID: 6604464634
+WER Score: 6.82
+Transcript: trop frequemment nous sacrifions la verite aux coutumes afin de ne pas tomber dans le ridicule une mere ne peut se permettre d etre esclave du camp dira t on car elle doit preparer ses enfants pour cette vie et pour la vie a venir
+Reference:  trop frequemment nous sacrifions la verite aux coutumes afin de ne pas tomber dans le ridicule une mere ne peut se permettre d etre esclave du camp du raton car elle doit preparer ses enfants pour cette vie et pour la vie a venir
+-------------------------------------------
+
+Line ID: 6604441982
+WER Score: 6.67
+Transcript: elles ne devraient non plus chercher a se faire remarquer par des toilettes extravagantes donner des lecons de proprete et de purete si les meres se laissent aller a porter des vetements sales a la maison elles apprennent a leurs enfants les memes habitudes de negligence
+Reference:  elles ne devraient non plus chercher a se faire remarquer par des toilettes extravagantes donner des lecons de propriete et de purete si les meres se laissent aller apporter des vetements sales a la maison elles apprennent a leurs enfants les memes habitudes de negligence
+-------------------------------------------
+
+Line ID: 6604467910
+WER Score: 8.00
+Transcript: beaucoup d entre elles pensent que n importe quel vetement est toujours assez bon pour etre porte a la maison futile sale et use
+Reference:  beaucoup d entre elles pensent que n importe quel vetement est toujours assez bon pour etre porte a la maison fut il sale et use
+-------------------------------------------
+
+Line ID: 6604462539
+WER Score: 0.00
+Transcript: de cette maniere elles se deprecient rapidement aux yeux de leur famille les enfants font la comparaison entre la tenue de leur mere et celle des autres qui s habillent proprement et leur respect pour elles s en trouve amoindri maman soyez aussi attrayante que possible non en vous habillant avec recherche mais en portant des vetements propres et saillants
+Reference:  de cette maniere elles se deprecient rapidement aux yeux de leur famille les enfants font la comparaison entre la tenue de leur mere et celle des autres qui s habillent proprement et leur respect pour elles s en trouve amoindri maman soyez aussi attrayante que possible non en vous habillant avec recherche mais en portant des vetements propres et saillants
+-------------------------------------------
+
+Line ID: 6604448869
+WER Score: 2.04
+Transcript: vous donnerez ainsi a vos enfants des lecons de proprete et de purete l amour et le respect de ces enfants devraient avoir la plus grande importance pour la mere tout en elle devrait refleter la nettete et l ordre et etre associe dans leur esprit a la purete
+Reference:  vous donnerez ainsi a vos enfants des lecons de proprete et de purete l amour et le respect de ces enfants devrait avoir la plus grande importance pour la mere tout en elle devrait refleter la nettete et l ordre et etre associe dans leur esprit a la purete
+-------------------------------------------
+
+Final WER Score: 4.29

@@ -1,0 +1,1168 @@
+WER Evaluation Results
+======================
+
+Line ID: 1942740128
+WER Score: 0.00
+Transcript: je ne comprends pas pourquoi il n y a pas plus de monde qui en parle l amour de soi les gars l amour de soi c est se choisir c est s autoriser pleinement a vivre tout dans sa vie a vivre ses reves a comprendre que la souffrance est inevitable
+Reference:  je ne comprends pas pourquoi il n y a pas plus de monde qui en parle l amour de soi les gars l amour de soi c est se choisir c est s autoriser pleinement a vivre tout dans sa vie a vivre ses reves a comprendre que la souffrance est inevitable
+-------------------------------------------
+
+Line ID: 1942775526
+WER Score: 3.77
+Transcript: a comprendre que la resilience elle va te permettre d aller de l avant a etre au plus pres de tes emotions a ecouter ce que ton corps te dit ce que tes emotions te disent a etre bienveillant envers toi meme pour pouvoir guerir de certaines choses et ne pas presser les choses
+Reference:  a comprendre que la resilience elle va te permettre d aller de l avant a etre plus pres de tes emotions a ecouter ce que ton corps te dit ce que tes emotions te disent a etre bienveillant vers toi meme pour pouvoir guerir de certaines choses et ne pas presser les choses
+-------------------------------------------
+
+Line ID: 1942739731
+WER Score: 6.33
+Transcript: je vous exprime ma gratitude parce que chaque semaine il y a de nouvelles personnes qui arrivent et qui se disent mais c est quoi mais toi d abord pourquoi j ecoute ce truc la je suis tombee dessus par hasard mais il n y a pas de hasard aujourd hui on vit dans une societe ou on pousse les gens a voir leurs differences moi j ai envie que vous puissiez comprendre a quel point on est semblables
+Reference:  je vous exprime ma gratitude parce que chaque semaine il y a de nouvelles personnes qui arrivent et qui se disent mais c est quoi aime toi d abord pourquoi j ecoute ce truc la je suis tombee dessus par hasard mais il n y a pas de hasard aujourd hui on vit dans une societe ou on pousse les gens a avoir leur difference moi j ai envie que vous puissiez comprendre a quel point on est semblable
+-------------------------------------------
+
+Line ID: 1942775338
+WER Score: 0.00
+Transcript: a quel point malgre la puissance qui reside en tout un chacun on vit des choses qui sont parfois compliquees et a travers ce podcast j ai vraiment envie de vous partager une philosophie de vie une philosophie de vie qui vous permet en fait d aborder les choses qui vont vous arriver d un oeil different
+Reference:  a quel point malgre la puissance qui reside en tout un chacun on vit des choses qui sont parfois compliquees et a travers ce podcast j ai vraiment envie de vous partager une philosophie de vie une philosophie de vie qui vous permet en fait d aborder les choses qui vont vous arriver d un oeil different
+-------------------------------------------
+
+Line ID: 1942726809
+WER Score: 4.55
+Transcript: c est simplement vos experiences qui font qui vous etes aujourd hui et quand tu apprends la resilience quand tu apprends a developper ta foi quand tu apprends a developper ta confiance ta foi aussi en toi en la vie aux choses qui arrivent a trouver des solutions a te relever constamment je t assure en fait que tous les reves que tu as tu vas pouvoir les realiser parce que tu t autorises parce que tu as compris en fait les regles du jeu
+Reference:  c est simplement vos experiences qui font que vous etes qui vous etes aujourd hui et quand tu apprends la resilience quand tu apprends a developper ta foi quand tu apprends a developper ta confiance ta foi aussi en toi en la vie aux choses qui arrivent a trouver des solutions a te relever constamment je t assure en fait que tous les reves que tu as tu vas pouvoir les realiser parce que tu t autorises parce que t as compris en fait les regles du jeu
+-------------------------------------------
+
+Line ID: 1942762298
+WER Score: 1.00
+Transcript: et en fait le theme aujourd hui que j ai decide d aborder avec vous c est le fait que dans la vie on essaie toujours de se dire qu il y aura un bon moment pour un bon moment pour trouver l amour un bon moment pour commencer ce projet un bon moment pour demenager un bon moment pour ci pour ca mais en fait au final dans la vie t es jamais pret t es jamais pret quand on t annonce une bonne nouvelle mais t es jamais pret non plus quand on t annonce une mauvaise nouvelle
+Reference:  et en fait le theme aujourd hui que j ai decide d aborder avec vous c est le fait que dans la vie on essaie toujours de se dire qu il y aura un bon moment pour un bon moment pour trouver l amour un bon moment pour commencer ce projet un bon moment pour demenager un bon moment pour si pour ca mais en fait au final dans la vie t es jamais pret t es jamais pret quand on t annonce une bonne nouvelle mais t es jamais pret non plus quand on t annonce une mauvaise nouvelle
+-------------------------------------------
+
+Line ID: 1942724438
+WER Score: 4.82
+Transcript: face a l amour trebucher sur l amour tomber amoureux face a la mort perdre quelqu un que t aimes ou face a la maladie ou face a des choses comme ca t es jamais pret on peut pas se preparer a ce genre de choses tant qu on l experimente pas tant qu on le vit pas et je pense que garder ca en tete c est deja se donner l opportunite finalement d essayer et d arreter de perdre son temps
+Reference:  face a l amour trebucher sur l amour tomber amoureux face a la mort perdre quelqu un que t aimes ou face a la maladie ou face a des choses comme ca t es jamais pret on peut pas se preparer a ce genre de choses tant qu on ne l experimente pas tant qu on ne le vit pas je pense que garder ca en tete c est deja se donner l opportunite d essayer et d arreter de perdre son temps
+-------------------------------------------
+
+Line ID: 1942721124
+WER Score: 3.90
+Transcript: parce qu au final quand tu regardes en arriere le temps il defile il defile il defile il defile et tu trouves des excuses des excuses des excuses et au final tu passes pas a l action tu fais rien t as envie de creer des choses incroyables t as envie d etre toi meme et meme ca tu t interdis de le faire meme ca c est meme pas autorise en fait dans tes regles a toi
+Reference:  parce qu au final quand tu regardes en arriere le temps il defile il defile il defile et tu trouves des excuses des excuses des excuses et au final tu ne passes pas a l action tu fais rien t as envie de creer des choses incroyables t as envie d etre toi meme et meme ca tu t interdis de le faire meme ca c est meme pas autorise en fait dans tes regles a toi
+-------------------------------------------
+
+Line ID: 1942767708
+WER Score: 3.95
+Transcript: et c est important de le garder en tete parce que les choses de la vie qui sont exterieures a nous on ne peut pas les controler elles viennent et c est meme pas qu elles s invitent a nous elles ne se proposent pas a nous non elles s imposent a nous il y a des choses de la vie qui sont exterieures a nous qui viennent s imposer dans notre vie on ne leur a rien demande
+Reference:  et c est important de le garder en tete parce que les choses de la vie qui sont exterieures a nous on peut pas les controler elles viennent et c est meme pas qu elles s invitent a nous elles se proposent pas a nous non elles s imposent a nous il y a des choses de la vie qui sont exterieures a nous qui viennent s imposer dans notre vie on leur a rien demande
+-------------------------------------------
+
+Line ID: 1942710760
+WER Score: 2.70
+Transcript: alors oui vous allez me dire dans un sens profond on a demande de grandir on a demande d evoluer mais on n a rien demande nous a la base on est bien on est dans notre vie dans notre petite vie on est dans notre zone de confort et on n a pas envie d etre embete on n a pas envie d etre secoue en fait par des choses qui n etaient pas prevues
+Reference:  alors oui vous allez me dire dans un sens profond on a demande de grandir on a demande d evoluer mais on n a rien demande nous a la base on est bien on est dans notre vie dans notre petite vie on est dans notre zone de confort et on n a pas envie d etre embete on n a pas envie d etre secoue par des choses qui n etaient pas prevues
+-------------------------------------------
+
+Line ID: 1942730317
+WER Score: 0.00
+Transcript: nous on veut tout controler on veut que tout soit comme on a decide que ca allait etre et si jamais ca sort un petit peu du plan qu on s etait imagine tout s ecroule moi c est ca que j ai envie de vous apprendre c est ca que j ai envie de vous partager dans mes podcasts dans mes programs etc c est que quand ces choses la arrivent comment tu arrives a te relever
+Reference:  nous on veut tout controler on veut que tout soit comme on a decide que ca allait etre et si jamais ca sort un petit peu du plan qu on s etait imagine tout s ecroule moi c est ca que j ai envie de vous apprendre c est ca que j ai envie de vous partager dans mes podcasts dans mes programs etc c est que quand ces choses la arrivent comment tu arrives a te relever
+-------------------------------------------
+
+Line ID: 1942726179
+WER Score: 3.92
+Transcript: alors attention il ne s agit pas d etre alerte sur tout ce qui nous arrive mais elle est bien la la cle c est que tu ne peux jamais etre vraiment pret il faut vraiment que tu te le mettes en tete tu ne seras jamais pret a rien
+Reference:  alors attention il ne s agit pas d etre alerte sur tout ce qui nous arrive mais elle est bien la la cle c est que tu ne peux jamais etre vraiment pret et il faut vraiment que tu te le mets en tete tu ne seras jamais pret a rien
+-------------------------------------------
+
+Line ID: 1942758515
+WER Score: 4.05
+Transcript: c est ton ego qui te fait croire que tu as les bonnes competences au bon moment ou pas c est tes peurs qui te font croire que t as pas les bonnes competences parce que je vais vous partager un truc personnel mais dans ma vie on m a jamais compris on ne m a jamais compris on n a jamais compris ma vie on ne m a jamais compris personnellement
+Reference:  c est ton ego qui te fait croire que tu as les bonnes competences au bon moment ou pas c est tes peurs qui te font croire que tu n as pas les bonnes competences parce que je vais vous partager un truc personnel mais dans ma vie on ne m a jamais compris on ne m a jamais compris on n a jamais compris ma vie on ne m a jamais compris personnellement
+-------------------------------------------
+
+Line ID: 1942712101
+WER Score: 1.56
+Transcript: apres avec l age j ai compris que je rencontrerais aussi des personnes qui allaient plus etre aptes a comprendre le fait que je puisse etre au potentiel etc donc c est vrai que je peux avoir une approche un peu differente une facon de reflechir un peu differente etc mais du coup je ne me suis jamais sentie vraiment a ma juste place
+Reference:  apres avec l age j ai compris que je rencontrerai aussi des personnes qui allaient plus etre aptes a comprendre le fait que je puisse etre au potentiel etc donc c est vrai que je peux avoir une approche un peu differente une facon de reflechir un peu differente etc mais du coup je ne me suis jamais sentie vraiment a ma juste place
+-------------------------------------------
+
+Line ID: 1942721203
+WER Score: 0.00
+Transcript: dans une societe ou on te pousse a trouver ta place vite et bien sans qu on te remarque moi je me suis toujours sentie au final vue observee et jugee d accord vous allez me dire ah oui mais ca depend certainement de ton education de tes traumas
+Reference:  dans une societe ou on te pousse a trouver ta place vite et bien sans qu on te remarque moi je me suis toujours sentie au final vue observee et jugee d accord vous allez me dire ah oui mais ca depend certainement de ton education de tes traumas
+-------------------------------------------
+
+Line ID: 1942723619
+WER Score: 2.99
+Transcript: c est a dire que meme mes amis encore parfois me demandent mais en fait tu fais quoi en ce moment etc parce que j aime experimenter parce que j aime vivre et j aime me creer des opportunites de decouvrir de nouvelles personnes de decouvrir de nouvelles choses je n aime pas rester a la meme place donc tout ce que j aime faire je le fais
+Reference:  c est a dire que mes amis encore parfois me demandent mais en fait je fais quoi en ce moment etc parce que j aime experimenter parce que j aime vivre et j aime me creer des opportunites de decouvrir de nouvelles personnes de decouvrir de nouvelles choses je n aime pas rester a la meme place donc tout ce que j aime faire je le fais
+-------------------------------------------
+
+Line ID: 1942798211
+WER Score: 0.00
+Transcript: tout ce que je veux faire je le fais meme si ca parait anormal aux yeux de certaines personnes meme si ca parait pas logique meme si ca parait etrange alors que je suis dans une situation a pourquoi me mettre dans une situation b etc pourquoi je vous dis ca
+Reference:  tout ce que je veux faire je le fais meme si ca parait anormal aux yeux de certaines personnes meme si ca parait pas logique meme si ca parait etrange alors que je suis dans une situation a pourquoi me mettre dans une situation b etc pourquoi je vous dis ca
+-------------------------------------------
+
+Line ID: 1942741802
+WER Score: 2.15
+Transcript: parce que tous les projets que j ai faits longtemps longtemps longtemps j ai hesite a les faire parce que je me suis pose toutes les questions que vous vous posez est ce que c est le bon moment est ce que je devrais le faire comme ca et en fait je me suis rendu compte que je me posais tellement de questions je perdais mon temps a me poser des questions et au final le temps y passait et je le perdais ce temps la et en fait je ne veux rien savoir
+Reference:  parce que tous les projets que j ai fait longtemps longtemps longtemps j ai hesite a les faire parce que je me suis pose toutes les questions que vous vous posez est ce que c est le bon moment est ce que je devrais le faire comme ca et en fait je me suis rendu compte que je me posais tellement de questions je perdais mon temps a me poser des questions et au final le temps y passait et je le perdais ce temps la et en fait je veux rien savoir
+-------------------------------------------
+
+Line ID: 1942766271
+WER Score: 2.38
+Transcript: je veux rien savoir la il n y a meme pas de discussion n essayez meme pas de negocier avec moi ce genre de choses vous perdez votre temps point final cherchez pas midi a 14 h vos excuses vos trucs machin .
+Reference:  je veux rien savoir la il n y a meme pas de discussion n essayez meme pas de negocier avec moi ce genre de choses vous perdez votre temps point final cherchez pas midi a 14 h vos excuses vos trucs machin
+-------------------------------------------
+
+Line ID: 1942736072
+WER Score: 0.00
+Transcript: vous perdez votre temps vous perdez votre temps a vous poser la question de ce que les gens vont penser de vous vous perdez votre temps a savoir si c est le bon moment pour vous vous perdez votre temps a vous demander si vous avez assez de competences ou si vous etes assez vous perdez votre temps point final
+Reference:  vous perdez votre temps vous perdez votre temps a vous poser la question de ce que les gens vont penser de vous vous perdez votre temps a savoir si c est le bon moment pour vous vous perdez votre temps a vous demander si vous avez assez de competences ou si vous etes assez vous perdez votre temps point final
+-------------------------------------------
+
+Line ID: 1942776088
+WER Score: 6.67
+Transcript: la discussion s arrete et moi si je n avais pas surpasse ca je serais exactement au meme point qu il y a un an et demi en fait et j ai finalement decide d ecouter l appel qu il y avait au fond de mon coeur
+Reference:  la discussion s arrete et moi si je n avais pas surpasse ca je serai exactement au meme point qu il y a un an et demi et j ai finalement decide d ecouter l appel qu il y avait au fond de mon coeur
+-------------------------------------------
+
+Line ID: 1942783884
+WER Score: 1.23
+Transcript: et je suis passee a l action j ai ouvert un podcast au debut les amis il y avait ma mere qui ecoutait ma tante qui ecoutait mes cousines et deux amis a moi et jamais je n aurais pense une seule seconde que ce podcast puisse un jour prendre autant d ampleur tout simplement parce que j ai fait les choses avec mon coeur on fait evidemment les choses avec une mission avec une envie avec un feu interieur
+Reference:  et je suis passee a l action j ai ouvert un podcast au debut les amis il y avait ma mere qui ecoutait ma tante qui ecoutait et mes cousines et deux amis a moi et jamais je n aurais pense une seule seconde que ce podcast puisse un jour prendre autant d ampleur tout simplement parce que j ai fait les choses avec mon coeur on fait evidemment les choses avec une mission avec une envie avec un feu interieur
+-------------------------------------------
+
+Line ID: 1942768263
+WER Score: 1.41
+Transcript: mais des que tu commences a trop mentaliser c est ton ego qui agit c est plus ton coeur l inspiration elle s en va les idees elles s en vont parce que t es plus alignee en fait parce que tu laisses parler le jugement des autres parce que tu laisses en fait une place a ce qui n a pas sa place et t es jamais pret au succes
+Reference:  mais des que tu commences a trop mentaliser c est ton ego qui agit c est plus ton coeur l inspiration elle s en va les idees elles s en vont parce que t es plus aligne en fait parce que tu laisses parler le jugement des autres parce que tu laisses en fait une place a ce qui n a pas sa place et t es jamais pret au succes
+-------------------------------------------
+
+Line ID: 1942738008
+WER Score: 1.79
+Transcript: t es jamais pret a l echec t es jamais pret a l amour t es jamais pret face a la mort t es jamais pret face a rien du tout arrete de te faire croire des choses qui sont completement fausses voila pourquoi il est important il est primordial de vivre sa vie a fond
+Reference:  t es jamais pret a l echec t es jamais pret a l amour t es jamais pret face a la mort t es jamais pret face a rien du tout arrete de te faire croire de choses qui sont completement fausses voila pourquoi il est important il est primordial de vivre sa vie a fond
+-------------------------------------------
+
+Line ID: 1942760417
+WER Score: 0.00
+Transcript: moi j ai pris cette decision pour moi de vivre ma vie a fond je m en fous que les gens me comprennent ou pas je m en fous mais completement que ma vie paraisse logique aux yeux de quelqu un ou pas je m en fous d avoir une entreprise deux entreprises trois entreprises en meme temps et quinze projets en meme temps si c est aligne avec ce que je veux je veux faire de ma vie un chef d oeuvre le chef d oeuvre de ma vie je veux creer tout ce que j ai envie de faire
+Reference:  moi j ai pris cette decision pour moi de vivre ma vie a fond je m en fous que les gens me comprennent ou pas je m en fous mais completement que ma vie paraisse logique aux yeux de quelqu un ou pas je m en fous d avoir une entreprise deux entreprises trois entreprises en meme temps et quinze projets en meme temps si c est aligne avec ce que je veux je veux faire de ma vie un chef d oeuvre le chef d oeuvre de ma vie je veux creer tout ce que j ai envie de faire
+-------------------------------------------
+
+Line ID: 1942731676
+WER Score: 7.06
+Transcript: plus jamais je veux m auto saboter plus jamais je veux me mettre des batons dans mes roues plus jamais et si tu es en train de reflechir depuis des semaines depuis des mois a ta valeur a si tu peux apporter des choses au monde a si tu es assez bien pour ci pour ca arrete ca veut dire que tu n as pas encore fait le taf d amour de toi meme il est temps vraiment mais vraiment que tu apprennes a t aimer
+Reference:  plus jamais je veux m auto saboter plus jamais je veux me mettre des batons dans mes roues plus jamais et si t es en train de reflechir depuis des semaines depuis des mois a ta valeur a si tu peux apporter des choses au monde a si t es assez bien pour si pour ca arrete ca veut dire que t as pas encore fait le taf d amour de toi meme il est temps vraiment mais vraiment que t apprennes a t aimer
+-------------------------------------------
+
+Line ID: 1942723233
+WER Score: 8.16
+Transcript: vraiment que tu apprennes a te reconnecter a toi meme parce que moi si je n avais pas fait ce travail la d accord d amour pour moi meme mais jamais de la vie j aurais ose me montrer sur les reseaux sociaux mais vous n imaginez meme pas
+Reference:  vraiment que t apprennes a te reconnecter a toi meme parce que moi si j avais pas fait ce travail la d accord d amour pour moi meme mais jamais de la vie j aurais ose me montrer sur les reseaux sociaux mais vous n y imaginez meme pas
+-------------------------------------------
+
+Line ID: 1942778382
+WER Score: 1.96
+Transcript: et c est un long chemin ca depend de ce que tu es en train de vivre etc et je pense que l amour pour toi meme c est quelque chose que tu dois alimenter comme une graine que tu viens arroser tu vois chaque jour chaque jour de ta vie
+Reference:  et c est un long chemin ca depend de ce que t es en train de vivre etc et je pense que l amour pour toi meme c est quelque chose que tu dois alimenter comme une graine que tu viens arroser tu vois chaque jour chaque jour de ta vie
+-------------------------------------------
+
+Line ID: 1942764158
+WER Score: 0.00
+Transcript: tu ne peux pas ne pas arroser la plante tu ne peux pas omettre de faire cette action la parce que c est important mais quand je parle d amour de soi quand j appelle ce podcast aime toi d abord et fais de toi ta priorite ca veut tout dire
+Reference:  tu ne peux pas ne pas arroser la plante tu ne peux pas omettre de faire cette action la parce que c est important mais quand je parle d amour de soi quand j appelle ce podcast aime toi d abord et fais de toi ta priorite ca veut tout dire
+-------------------------------------------
+
+Line ID: 1942737135
+WER Score: 1.18
+Transcript: ca veut dire que tu te choisis en tout temps et en toute heure a chaque moment de la journee voila et l amour pour soi c est s autoriser pleinement la vie c est s autoriser pleinement a experimenter tout ce que tu as envie d experimenter parce que c est toi qui vas creer ta vie j aimerais bien pouvoir vous dire qu il y a des gens exterieurs qui vont pouvoir venir vous sauver vous apporter les cles mais c est faux
+Reference:  ca veut dire que tu te choisis en tout temps et en toute heure a chaque moment de la journee voila et l amour pour soi c est s autoriser pleinement la vie c est s autoriser pleinement a experimenter tout ce que t as envie d experimenter parce que c est toi qui vas creer ta vie j aimerais bien pouvoir vous dire qu il y a des gens exterieurs qui vont pouvoir venir vous sauver vous apporter les cles mais c est faux
+-------------------------------------------
+
+Line ID: 1942727422
+WER Score: 2.04
+Transcript: je suis mon propre guide et vous etes votre propre guide apres oui vous allez tomber sur du contenu vous allez tomber sur des mentors vous allez tomber sur des personnes qui ont une philosophie de vie et vous allez vouloir vous l approprier parce qu elle vous inspire
+Reference:  je suis mon propre guide et vous etes votre propre guide apres oui vous allez tomber sur du contenu vous allez tomber sur des monteurs vous allez tomber sur des personnes qui ont une philosophie de vie et vous allez vouloir vous l approprier parce qu elle vous inspire
+-------------------------------------------
+
+Line ID: 1942754896
+WER Score: 1.10
+Transcript: parce qu elle vibre elle matche avec ce que vous avez dans votre coeur et c est la ou c est important de voir ca c est la ou c est important de s entourer des bonnes personnes de s entourer du bon podcast vous etes sur aime toi d abord podcast parce que vous matchez avec mon energie parce que vous comprenez ce que je dis parce que meme si vous n arrivez peut etre pas a l appliquer pour certaines personnes a l interieur de votre coeur ca bouge
+Reference:  parce qu elle vibre elle matche avec ce que vous avez dans votre coeur et c est la ou c est important de voir ca c est la ou c est important de s entourer des bonnes personnes de s entourer du bon podcast vous etes sur aimes toi d abord podcast parce que vous matchez avec mon energie parce que vous comprenez ce que je dis parce que meme si vous n arrivez peut etre pas a l appliquer pour certaines personnes a l interieur de votre coeur ca bouge
+-------------------------------------------
+
+Line ID: 1942712211
+WER Score: 2.63
+Transcript: mais on arrete de perdre son temps on arrete de se donner des excuses on arrete de se raconter des bobards la toute la journee a rester sur son canape et a esperer en visualisant que les choses elles arrivent alors que tu n arrives meme pas a passer a l action tout simplement parce que tu t aimes pas parce que tu te donnes pas d amour regardez a quel point c est logique
+Reference:  mais on arrete de perdre son temps on arrete de se donner des excuses on arrete de se raconter des beaux barres la toute la journee a rester sur son canape et a esperer en visualisant que les choses elles arrivent alors que tu n arrives meme pas a passer a l action tout simplement parce que tu t aimes pas parce que tu te donnes pas d amour regardez a quel point c est logique
+-------------------------------------------
+
+Line ID: 1942796873
+WER Score: 0.00
+Transcript: se donner le temps se donner etre patient avec soi meme se donner l opportunite d experimenter et d echouer et d apprendre les lecons et de grandir c est ca l amour de soi c est ca se choisir c est ca se permettre de ne plus perdre son temps en fait a se poser des questions qui te permettent en fait de remettre en question ton ego ta valeur etc non arrete de regarder dehors regarde dedans
+Reference:  se donner le temps se donner etre patient avec soi meme se donner l opportunite d experimenter et d echouer et d apprendre les lecons et de grandir c est ca l amour de soi c est ca se choisir c est ca se permettre de ne plus perdre son temps en fait a se poser des questions qui te permettent en fait de remettre en question ton ego ta valeur etc non arrete de regarder dehors regarde dedans
+-------------------------------------------
+
+Line ID: 1942746529
+WER Score: 7.41
+Transcript: et je ne dirais meme pas regarde c est soit present a toi meme soit absent du regard des autres et deviens present a toi arrete de croire qu un jour tu seras pret non tu n es jamais pret pour rien alors fonce saute vole eclate toi vis ta vie a fond en fait
+Reference:  et je ne dirai meme pas regarde c est soit present a toi meme sois absent du regard des autres et deviens present a toi arrete de croire qu un jour tu seras pret non t es jamais pret pour rien alors fonce saute vole eclate toi vis ta vie a fond en fait
+-------------------------------------------
+
+Line ID: 1942756259
+WER Score: 7.81
+Transcript: vis ta vie comme si c etait la derniere vie vis chaque journee comme si c etait la derniere journee pour pleinement vivre et des fois ce sera dur parce que des fois tu n auras pas envie des fois il y aura des choses que tu n arriveras pas a controler des fois ce sera complique et c est ok tranquille on respire tu vois
+Reference:  vis ta vie comme si c etait la derniere vie vis chaque journee comme si c etait la derniere journee pour pleinement vivre et des fois ce sera dur parce que des fois t auras pas envie des fois il y aura des choses que t arriveras pas a controler des fois ce sera complique et c est ok tranquille on espere tu vois
+-------------------------------------------
+
+Line ID: 5825740532
+WER Score: 0.00
+Transcript: selon une etude publiee par l ifop en 2024 et menee sur un echantillon de 1911 personnes la proportion des francaises et des francais ayant eu un rapport sexuel au cours des 12 derniers mois n a jamais ete aussi faible depuis 50 ans et les jeunes sont ceux qui sont le moins interesses par le sexe
+Reference:  selon une etude publiee par l ifop en 2024 et menee sur un echantillon de 1911 personnes la proportion des francaises et des francais ayant eu un rapport sexuel au cours des 12 derniers mois n a jamais ete aussi faible depuis 50 ans et les jeunes sont ceux qui sont le moins interesses par le sexe
+-------------------------------------------
+
+Line ID: 5825771271
+WER Score: 1.85
+Transcript: moi malgre cette etude ifop meme si je sais rationnellement que je ne suis pas la seule a avoir la flemme de faire l amour de temps en temps et que je peux exprimer mon amour autrement je ressens toujours de la culpabilite quand je n ai pas envie de faire l amour
+Reference:  moi malgre cette etude d ifop meme si je sais rationnellement que je ne suis pas la seule a avoir la flemme de faire l amour de temps en temps et que je peux exprimer mon amour autrement je ressens toujours de la culpabilite quand je n ai pas envie de faire l amour
+-------------------------------------------
+
+Line ID: 5825793640
+WER Score: 3.28
+Transcript: apres s etre fait couler un petit cafe on s installe confortablement sur son canape pres de la fenetre qui donne sur son jardin elle me parle du debut de sa relation avec son amour de jeunesse florent elle me raconte qu elle a longtemps souffert de la grosse difference de libido qu il y a toujours eu entre eux
+Reference:  apres s etre fait couler un petit cafe on s installe confortablement sur son canape pres de la fenetre qu il donne sur son jardin elle me parle du debut de sa relation avec son amour de jeunesse florent elle me raconte qu elle a longtemps souffert de la grosse difference de libido qu il y a toujours eu entre eux
+-------------------------------------------
+
+Line ID: 5825796049
+WER Score: 1.32
+Transcript: selon le larousse la libido est une traduction litterale du mot desir en latin donc dans la suite de l episode j utiliserai indifferemment les termes de desir sexuel et de libido laurie m explique que meme si tout se passe bien avec florent et qu elle a des papillons dans le ventre en le voyant elle sent bien que sur le plan sexuel ils ne sont pas du tout sur la meme longueur d onde
+Reference:  selon le larousse la libido est une traduction litterale du mot desir en latin donc dans la suite de l episode j utiliserai indifferemment les termes de desir sexuel et de libido laurie m explique que meme si tout se passe bien avec florent et qu elle a des papillons dans le ventre en le voyant elle sent bien que sur le plan sexuel ils ne sont pas du tout sur la meme longueur d onte
+-------------------------------------------
+
+Line ID: 5825785091
+WER Score: 3.08
+Transcript: ce qui me semble a moi etre un comportement sexuel normal en tant que femme blanche cis hetero n a rien a voir avec ce qui semblerait normal a une americaine qui a fait son coming out lesbien a la quarantaine apres avoir eleve ses deux enfants par exemple en d autres termes nous avons toutes et tous un heritage socio culturel et sexuel different
+Reference:  ce qui me semble a moi etre un comportement sexuel normal en tant que femme blanche si cetero n a rien a voir avec ce qui semblerait normal a une americaine qui a fait son coming out lesbien a la quarantaine apres avoir eleve ses deux enfants par exemple en d autres termes nous avons toutes et tous un heritage socio culturel et sexuel different
+-------------------------------------------
+
+Line ID: 5825712118
+WER Score: 0.00
+Transcript: on a integre des normes qui nous sont propres dont on a l impression a tort qu elles sont universelles c est la raison pour laquelle parfois comme laurie on n arrive pas a se comprendre avec son partenaire ce qui est la norme pour laurie ne l est surement pas pour florent et inversement
+Reference:  on a integre des normes qui nous sont propres dont on a l impression a tort qu elles sont universelles c est la raison pour laquelle parfois comme laurie on n arrive pas a se comprendre avec son partenaire ce qui est la norme pour laurie ne l est surement pas pour florent et inversement
+-------------------------------------------
+
+Line ID: 5825770722
+WER Score: 5.56
+Transcript: selon margot et roux on part trop souvent du principe qu on sait ce que veut l autre et comment il fonctionne souvenez vous on a toutes et tous un heritage socio culturel et sexuel different on a ete exposes a des representations differentes au cours de notre developpement et on a des histoires differentes
+Reference:  selon margaux terrou on part trop souvent du principe qu on sait ce que veut l autre et comment il fonctionne souvenez vous on a toutes et tous un heritage socio culturel et sexuel different on a ete exposes a des representations differentes au cours de notre developpement et on a des histoires differentes
+-------------------------------------------
+
+Line ID: 5825740757
+WER Score: 5.08
+Transcript: donc sans poser de questions a l autre c est tres difficile de savoir ce qu elle pense vraiment de telle ou telle pratique par exemple ces sex dates c est aussi l occasion de se poser mutuellement trois questions d abord le sexe est il un pilier central a ta vie ou pourrais tu t en passer
+Reference:  donc sans poser de questions a l autre c est tres difficile de savoir ce qu elle pense vraiment de telle ou telle pratique par exemple c est sex date c est aussi l occasion de se poser mutuellement trois questions d abord le sexe est il un pilier central a ta vie ou pourrais tu t en passer
+-------------------------------------------
+
+Line ID: 5825712867
+WER Score: 2.50
+Transcript: oser c est se sentir legitime pour la sociologue rebecca levy guilin la legitimite est la condition principale pour desirer car en se sentant legitime on se sent en droit de penser a la sexualite sans s en rendre coupable
+Reference:  oser c est se sentir legitime pour la sociologue rebecca levy guillain la legitimite est la condition principale pour desirer car en se sentant legitime on se sent en droit de penser a la sexualite sans s en rendre coupable
+-------------------------------------------
+
+Line ID: 5825723366
+WER Score: 3.12
+Transcript: et pour se sentir legitime il faut se forger un rapport au corps agreable celui d un corps plaisir et rappelez vous il n est jamais trop tard pour s en forger un rebecca levy guilin me raconte ce que ses enquetees qu elle appelle des femmes desirantes j adore ont mis en place pour se fabriquer un corps plaisir en tant qu adulte
+Reference:  et pour se sentir legitime il faut se forger un rapport au corps agreable celui d un corps plaisir et rappelez vous il n est jamais trop tard pour s en forger un rebecca levy guillain me raconte ce que ses enquetes qu elle appelle des femmes desirantes j adore ont mis en place pour se fabriquer un corps plaisir en tant qu adulte
+-------------------------------------------
+
+Line ID: 5825746923
+WER Score: 16.33
+Transcript: il y a une scene d amour qui me vend toujours du reve rose et jack courent a travers le paquebot descendent plusieurs escaliers en trombe ils se marrent ils trouvent refuge dans les sous sols du bateau et la ils tombent sur une voiture style 1910 avec de grandes roues en acier et des sieges en cuir ils y entrent pleins de desir et la main de rose vient taper contre la vitre de la voiture embuee par la chaleur de leur corps signe d un orgasme hyper intense j imagine avant de glisser la ciment argent
+Reference:  il y a une scene d amour qui me vend toujours du reve rose jack court a travers le paquebot descend de plusieurs escaliers en trompe il se marre il trouve refuge dans les sous sols du bateau et la il tombe sur une voiture style 910 avec de grandes roues en acier et des sieges en cuir ils y entrent plein de desir et la main de rose vient taper contre la vitre de la voiture embuee par la chaleur de leur corps signe d un orgasme hyper intense j imagine avant de glisser lassivement hors champ
+-------------------------------------------
+
+Line ID: 5825770422
+WER Score: 4.62
+Transcript: toute ma vie j ai voulu que ma vie sexuelle soit aussi torride et romantique que ca sauf que spoiler dans la vraie vie quand je couche avec un mec parfois je suis moche avec une moitie de pajama parfois je fais des pauses je bois de l eau mon rouge a levres degouline et je ressemble plus au joker dans batman qu a rose dans titanic
+Reference:  toute ma vie j ai voulu que ma vie sexuelle soit aussi torride et romantique que ca sauf que spoiler dans la vraie vie quand je couche avec un mec parfois je suis moche avec une moitie de pajama parfois je fais des pauses je bois de l eau mon rouge a levres degouline et je ressemble plus au joker dans batman caros dans titanic
+-------------------------------------------
+
+Line ID: 5825783216
+WER Score: 4.21
+Transcript: mon probleme c est que je me compare a ces scenes torrides que je peux voir dans les films et ca me fait un peu culpabiliser parce qu elles me rappellent non seulement que mes rapports a moi sont beaucoup moins glaives mais elles me donnent aussi l impression qu etre amoureux ou amoureuse de quelqu un c est etre necessairement hyper chaude 24 h sur 24 alors que moi parfois j ai meme pas envie de faire l amour meme quand je suis hyper amoureuse et apparemment je ne suis pas la seule
+Reference:  mon probleme c est que je me compare a ces scenes torrides que je peux voir dans les films et ca me fait un peu culpabiliser parce qu elles me rappellent non seulement que mes rapports a moi sont beaucoup moins glam mais elles me donnent aussi l impression qu etre amoureux ou amoureuse de quelqu un c est etre necessairement hyper chaud de 24 heures sur 24 alors que moi parfois j ai meme pas envie de faire l amour meme quand je suis hyper amoureuse et apparemment je ne suis pas la seule
+-------------------------------------------
+
+Line ID: 5825784173
+WER Score: 0.00
+Transcript: comme si ne pas vouloir faire l amour a un moment t c etait ne pas etre vraiment amoureuse de la personne que j aime et inversement quand c est moi qui ai envie et que l autre non je me sens rejetee je me dis que peut etre c est parce qu il y a quelque chose qui cloche chez moi et que je ne suis plus assez desirable a ses yeux
+Reference:  comme si ne pas vouloir faire l amour a un moment t c etait ne pas etre vraiment amoureuse de la personne que j aime et inversement quand c est moi qui ai envie et que l autre non je me sens rejetee je me dis que peut etre c est parce qu il y a quelque chose qui cloche chez moi et que je ne suis plus assez desirable a ses yeux
+-------------------------------------------
+
+Line ID: 5825715315
+WER Score: 1.28
+Transcript: j ai conscience que ce n est pas tres rationnel mais ca me fait quand meme souffrir il y a quelques mois suite a un appel a temoignages je rencontre laurie elle a 37 ans est en couple depuis 14 ans et contrairement aux statistiques de l etude ifop elle a tres souvent envie de faire l amour bien plus que son mec du coup pendant une bonne partie de sa relation ca l inquiete et elle culpabilise
+Reference:  j ai conscience que ce n est pas tres rationnel mais ca me fait quand meme souffrir il y a quelques mois suite a un appel a temoignage je rencontre laurie elle a 37 ans est en couple depuis 14 ans et contrairement aux statistiques de l etude ifop elle a tres souvent envie de faire l amour bien plus que son mec du coup pendant une bonne partie de sa relation ca l inquiete et elle culpabilise
+-------------------------------------------
+
+Line ID: 5825748996
+WER Score: 3.85
+Transcript: dans cet episode je vous propose un chemin pour vous liberer de cette culpabilite d etre trop ou pas assez au lit pour prendre votre pied quel que soit votre libido ou celle de votre partenaire et le tout sans mettre la pression a personne je suis barbara pucheux bienvenue dans emotions
+Reference:  dans cet episode je vous propose un chemin pour vous liberer de cette culpabilite d etre trop ou pas assez au lit pour prendre votre pied quel que soit votre libido ou celle de votre partenaire et le tout sans mettre la pression a personne je suis barbara pucheu bienvenue dans emotion
+-------------------------------------------
+
+Line ID: 5825751353
+WER Score: 0.00
+Transcript: comme carrie bracho dans sex and the city laurie comprend tres vite que la frustration qu elle ressent a cause de cet ecart de desir ne va pas se resoudre en habitant avec son prince charmant elle me parle du soir ou elle a tente une approche et ou pour la premiere fois elle a vraiment commence a se vexer
+Reference:  comme carrie bracho dans sex and the city laurie comprend tres vite que la frustration qu elle ressent a cause de cet ecart de desir ne va pas se resoudre en habitant avec son prince charmant elle me parle du soir ou elle a tente une approche et ou pour la premiere fois elle a vraiment commence a se vexer
+-------------------------------------------
+
+Line ID: 5825715625
+WER Score: 1.03
+Transcript: interroger l heritage socio culturel et sexuel d un groupe c est exactement le travail qu a mene la chercheuse feministe rebecca levy guilain dans la fabrique du privilege du desir un article qu elle a publie dans la revue francaise de sociologie en 2022 la sociologue a voulu comprendre d ou viennent vraiment les differences de desir au sein des couples comme le titre de son article m intrigue beaucoup je decide de la rejoindre a sciences po paris ou elle mene ses recherches pour qu elle m explique en quoi le desir est un privilege
+Reference:  interroger l heritage socio culturel et sexuel d un groupe c est exactement le travail qu a mene la chercheuse feministe rebecca levy guillain dans la fabrique du privilege du desir un article qu elle a publie dans la revue francaise de sociologie en 2022 la sociologue a voulu comprendre d ou viennent vraiment les differences de desir au sein des couples comme le titre de son article m intrigue beaucoup je decide de la rejoindre a sciences po paris ou elle mene ses recherches pour qu elle m explique en quoi le desir est un privilege
+-------------------------------------------
+
+Line ID: 5825756396
+WER Score: 2.30
+Transcript: selon la sociologue les hommes desirent davantage que les femmes parce qu on leur a davantage appris a reconnaitre les signes d excitation physique chez eux et ce qui m etonne le plus c est que ces signaux corporels on les integre des notre plus tendre enfance bien avant qu on ait des rapports sexuels rebecca levy guilin m explique que dans son enquete les petits garcons pratiquent en moyenne plus de sports de contact que les petites filles comme le judo le foot ou le rugby
+Reference:  selon la sociologue les hommes desirent davantage que les femmes parce qu on leur a davantage appris a reconnaitre les signes d excitation physique chez eux et ce qui m etonne le plus c est que ces signaux corporels on les integre des notre plus tendre enfance bien avant qu on ait des rapports sexuels rebecca levy guillain m explique que dans son enquete les petits garcons pratiquent en moyenne plus de sport de contact que les petites filles comme le judo le foot ou le rugby
+-------------------------------------------
+
+Line ID: 5825722269
+WER Score: 3.41
+Transcript: ils sont plus a meme de se forger ce qu elle appelle un corps plaisir quand ils seront grands parce qu ils se souviennent de ce que le sport a provoque chez eux la transpiration l euphorie l acceleration des battements de leur coeur ou encore le sentiment de s etre depasse a l age adulte les garcons reussissent donc mieux a identifier et a associer ces sensations a du plaisir tout simplement parce qu ils ont ete habitues a les ressentir depuis qu ils sont petits
+Reference:  resultat ils sont plus a meme de se forger ce qu elles appellent un corps plaisir quand ils seront grands parce qu ils se souviennent de ce que le sport a provoque chez eux la transpiration l euphorie l acceleration des battements de leur coeur ou encore le sentiment de s etre depasse a l age adulte les garcons reussissent donc mieux a identifier et a associer ces sensations a du plaisir tout simplement parce qu ils ont ete habitues a les ressentir depuis qu ils sont petits
+-------------------------------------------
+
+Line ID: 5825777914
+WER Score: 1.39
+Transcript: selon la sociologue les garcons se sentent aussi plus legitimes a s interesser a la sexualite que les filles rebecca levy guilin m explique qu ils en parlent plus souvent et plus crument entre amis parce qu ils consomment des produits culturels qui mettent en scene des personnages masculins qui ressentent du desir et qui l assument alors qu il existe beaucoup moins d oeuvres de fiction qui valorisent des femmes desirantes
+Reference:  selon la sociologue les garcons se sentent aussi plus legitimes a s interesser a la sexualite que les filles rebecca levy guillain m explique qu ils en parlent plus souvent et plus crument entre amis parce qu ils consomment des produits culturels qui mettent en scene des personnages masculins qui ressentent du desir et qui l assument alors qu il existe beaucoup moins d oeuvres de fiction qui valorisent des femmes desirantes
+-------------------------------------------
+
+Line ID: 5825735526
+WER Score: 4.44
+Transcript: quand bridget jones finit enfin par coucher avec son prince charmant c est hyper euphemise comme dit la sociologue le mec embrasse bridget sur le canape et ils roulent tous les deux sur le sol tout habilles alors qu une musique de marvin gaye tourne en fond puis cut fin de la scene les deux amants se reveillent le matin dans leur lit bridget jones a un soutien gorge qui cache sa poitrine et lui seulement un drap qui lui recouvre le torse l accent est mis sur l amour
+Reference:  quand bridget jones finit enfin par coucher avec son prince charmant c est hyper euphemise comme dit la sociologue le mec embrasse bridget sur le canape et il roule tous les deux sur le sol tout habille alors qu une musique de marvin gaye tourne en fond puis cut fin de la scene les deux amants se reveillent le matin dans leur lit bridget jones a un soutien gorge qui cache sa boitrine et lui seulement un drap qui lui recouvre le torse l accent est mis sur l amour
+-------------------------------------------
+
+Line ID: 5825751621
+WER Score: 0.00
+Transcript: ces recits la ce sont ceux d hommes desirants comme dans les films de james bond par exemple l agent 7 est un amant extraordinaire il est tellement seduisant qu aucune femme ne pourrait lui resister du coup il accumule les conquetes sans jamais vraiment tomber dans le piege de l amour
+Reference:  ces recits la ce sont ceux d hommes desirants comme dans les films de james bond par exemple l agent 7 est un amant extraordinaire il est tellement seduisant qu aucune femme ne pourrait lui resister du coup il accumule les conquetes sans jamais vraiment tomber dans le piege de l amour
+-------------------------------------------
+
+Line ID: 5825765819
+WER Score: 0.00
+Transcript: si par exemple vous dites a votre partenaire que pour vous le sexe est hyper important mais que vous apprenez que de son cote ca ne l est pas autant ca peut vous rassurer sur le fait que non seulement vous n etes pas la cause de sa faible libido en ce moment mais qu en plus le sexe est loin d etre le seul facteur de son bonheur ensuite selon toi quel est le probleme auquel nous faisons face aujourd hui dans notre sexualite et enfin sur quoi devons nous travailler selon toi
+Reference:  si par exemple vous dites a votre partenaire que pour vous le sexe est hyper important mais que vous apprenez que de son cote ca ne l est pas autant ca peut vous rassurer sur le fait que non seulement vous n etes pas la cause de sa faible libido en ce moment mais qu en plus le sexe est loin d etre le seul facteur de son bonheur ensuite selon toi quel est le probleme auquel nous faisons face aujourd hui dans notre sexualite et enfin sur quoi devons nous travailler selon toi
+-------------------------------------------
+
+Line ID: 5825723076
+WER Score: 7.87
+Transcript: pour margot et roux il est necessaire de poser ces questions a l autre mais aussi d y repondre soi meme au cours du sex date en pointant les differences entre les reponses de chacun on fait baisser le niveau de stress dans la piece car on a une idee bien plus precise de ce que pensent son ou sa partenaire de la frequence de vos rapports sexuels par exemple et un seul sex date ne suffit pas l important selon la sexologue c est de se poser ces questions regulierement
+Reference:  pour margaux terrou il est necessaire de poser ses questions a l autre mais aussi d y repondre soi meme au cours du sex date en pointant les differences entre les reponses de chacun on fait baisser le niveau de stress dans la piece car on a une idee bien plus precise de ce que pensons ou sa partenaire de la frequence de vos rapports sexuels par exemple et un seul sex date ne suffit pas l important selon la sexologue c est de se poser ses questions regulierement
+-------------------------------------------
+
+Line ID: 5825740075
+WER Score: 5.31
+Transcript: la personne que vous avez rencontree hier est surement bien differente de celle que vous datez aujourd hui et elle le sera encore plus dans un an cinq ans ou encore dix ans donc ce que l on veut vous dire avec margot therault c est que ce n est pas forcement vous le probleme peut etre qu entre le moment ou vous l avez rencontree et aujourd hui votre partenaire a vecu une periode tres stressante au boulot peut etre qu il ou elle a perdu un etre cher ou peut etre encore que d etre le ou la seule a aller chercher les enfants a l ecole l epuise au quotidien
+Reference:  la personne que vous avez rencontree hier est surement bien differente de celle que vous datez aujourd hui et elle le sera encore plus dans un an cinq ans ou encore dix ans donc ce que l on veut vous dire avec margaux terrou c est que ce n est pas forcement vous le probleme peut etre qu entre le moment ou vous l avez rencontre et aujourd hui votre partenaire a avec une periode tres stressante au boulot peut etre qu il ou elle a perdu un etre cher ou peut etre encore que d etre le ou la seule a aller chercher les enfants a l ecole les puisses au quotidien
+-------------------------------------------
+
+Line ID: 5825782669
+WER Score: 2.41
+Transcript: quand margot theroux dit qu il y a des choses qui ne nous appartiennent pas l idee c est vraiment de se dire que l on n est pas responsable du desir sexuel que l on ressent ou que l on ne ressent pas quand laurie comprend enfin grace a instagram que ni sa libido ni celle de florent ne lui appartiennent completement elle decide pour la premiere fois d en parler a son conjoint et cette fois ci plus sereinement sans reproche
+Reference:  quand margaux terrou dit qu il y a des choses qui ne nous appartiennent pas l idee c est vraiment de se dire que l on n est pas responsable du desir sexuel que l on ressent ou que l on ne ressent pas quand laurie comprend enfin grace a instagram que ni sa libido ni celle de florent ne lui appartiennent completement elle decide pour la premiere fois d en parler a son conjoint et cette fois ci plus sereinement sans reproche
+-------------------------------------------
+
+Line ID: 5825748781
+WER Score: 1.54
+Transcript: a l age adulte on se forge un corps plaisir en eveillant ses sensations corporelles comme si on s offrait enfin ces petites experiences sportives ludiques et exaltantes que l on n a pas forcement eues en etant enfant c est aussi s accorder du temps pour penser a la sexualite et developper son imaginaire erotique et c est exactement ce qu a fait laurie
+Reference:  a l age adulte on se forge un corps plaisir en eveillant ses sensations corporelles comme si on s offrait enfin ces petites experiences sportives ludiques et exaltantes que l on n a pas forcement eu en etant enfant c est aussi s accorder du temps pour penser a la sexualite et developper son imaginaire erotique et c est exactement ce qu a fait laurie
+-------------------------------------------
+
+Line ID: 5825733298
+WER Score: 0.00
+Transcript: je crois que laurie me rassure parce que je me dis qu un jour on a toutes et tous eu la meme petite voix qu elle en tete celle qui nous dit qu on a peut etre un probleme mais comme laurie on a aussi la capacite d apprendre a se connaitre physiquement et psychologiquement d apprendre a parler de sexualite avec son sa ou ses partenaires et d apprendre a se sentir enfin legitime de ressentir le desir que l on ressent
+Reference:  je crois que laurie me rassure parce que je me dis qu un jour on a toutes et tous eu la meme petite voix qu elle en tete celle qui nous dit qu on a peut etre un probleme mais comme laurie on a aussi la capacite d apprendre a se connaitre physiquement et psychologiquement d apprendre a parler de sexualite avec son sa ou ses partenaires et d apprendre a se sentir enfin legitime de ressentir le desir que l on ressent
+-------------------------------------------
+
+Line ID: 5825728154
+WER Score: 1.82
+Transcript: dans une video du media combini l autrice iris bray attrape un dvd qui traine sur une etagere d un videoclub titanic en disant en voila un bon exemple de female gaze je m attendais pas a ca pour rappel le film male gaze s oppose au male gaze un regard masculin qui sexualise les femmes au cinema et je me rends compte aujourd hui que dans titanic c est rose qui nous raconte son histoire c est elle qui demande a jack de la dessiner comme une de ses francaises c est aussi elle qui le prend dans ses bras apres qu ils aient fait l amour dans la voiture
+Reference:  dans une video du media combini l autrice iris bray attrape un dvd qui traine sur une etagere d un videoclub titanic en disant en voila un bon exemple de female gaze je m attendais pas a ca pour rappel le female gaze s oppose au male gaze un regard masculin qui sexualise les femmes au cinema et je me rends compte aujourd hui que dans titanic c est rose qui nous raconte son histoire c est elle qui demande a jack de la dessiner comme une de ses francaises c est aussi elle qui le prend dans ses bras apres qu ils aient fait l amour dans la voiture
+-------------------------------------------
+
+Line ID: 9045075876
+WER Score: 0.00
+Transcript: ils sont avocats enqueteurs magistrats proches des victimes des suspects ou des coupables nous les avons choisis pour qu ils se confient dans les voies du crime dans chaque episode de ce podcast nous donnons la parole a un temoin cle qui raconte une affaire de son point de vue
+Reference:  ils sont avocats enqueteurs magistrats proches des victimes des suspects ou des coupables nous les avons choisis pour qu ils se confient dans les voies du crime dans chaque episode de ce podcast nous donnons la parole a un temoin cle qui raconte une affaire de son point de vue
+-------------------------------------------
+
+Line ID: 9045047118
+WER Score: 8.33
+Transcript: je suis marisa fimei journaliste a rtl et dans cet episode j ai choisi de revenir sur le feminicide de melanie guion un feminicide commis dans le sillage d une ideologie violente et mortifere l ideologie masculiniste nous sommes dans la nuit du 28 au 29 janvier 2020 a equevilliers en seine et marne chez melanie guion jeune experte comptable
+Reference:  je suis marie zafimehy journaliste a rtl et dans cet episode j ai choisi de revenir sur le feminicide de melanie ghione un feminicide commis dans le sillage d une ideologie violente et mortifere l ideologie masculiniste nous sommes dans la nuit du 28 au 29 janvier 2020 a ekevillie en seine et marne chez melanie ghione jeune experte comptable
+-------------------------------------------
+
+Line ID: 9045027392
+WER Score: 5.41
+Transcript: elle dort avec son petit ami brian a l etage de son pavillon et heberge aussi sa soeur malorie chez elle soudain un homme surgit arme d un couteau de guerre malorie hurle il la menotte et la poignarde a trente reprises la jeune femme a le temps de crier au couple de s echapper que cet homme va tous les tuer car cette intrue la jeune femme sait tres bien qui il est
+Reference:  elle dort avec son petit ami brian a l etage de son pavillon et heberge aussi sa soeur mallory chez elle soudain un homme surgit arme d un couteau de guerre mallory hurle il la menotte et la poignarde a trente reprises la jeune femme a le temps de crier au couple de s echapper que cet homme va tous les tuer car cet intrus la jeune femme sait tres bien qui il est
+-------------------------------------------
+
+Line ID: 9045086667
+WER Score: 4.26
+Transcript: c est michael filetas l ex compagnon de sa soeur melanie cet ancien professeur de zumba est adepte des theses masculinistes une ideologie extremement misogyne et violente il publie des videos sur youtube dans lesquelles il donne des conseils en seduction impregnes de sexisme et de haine
+Reference:  c est mickael philetas l ex compagnon de sa soeur melanie cet ancien professeur de zumba est adepte des theses masculinistes une ideologie extremement misogyne et violente il publie des videos sur youtube dans lesquelles il donne des conseils en seduction impregnes de sexisme et de haine
+-------------------------------------------
+
+Line ID: 9045084887
+WER Score: 6.12
+Transcript: melanie l a quittee en 2019 et cette nuit la il la tue elle decede dans son garage achevee sur le sol en beton alors qu elle tentait de s echapper brian et malorie survivent miraculeusement a leurs blessures et parviennent a alerter les voisins puis les secours
+Reference:  melanie l a quittee en 2019 et cette nuit la il l a tue elle decede dans son garage achevee sur le sol en beton alors qu elle tentait de s echapper brian et malory survivent miraculeusement a leurs blessures et parviennent a alerter les voisins puis les secours
+-------------------------------------------
+
+Line ID: 9045086024
+WER Score: 3.92
+Transcript: par chance la fille de melanie etait absente cette nuit la michael filetas lui est arrete dans les heures qui suivent en 2023 il est condamne a 30 ans de prison avec 18 ans de surete la peine est proche du maximum mais il la conteste et decide de faire appel
+Reference:  par chance la fille de melanie etait absente cette nuit la mickael philetas lui est arrete dans les heures qui suivent en 2023 il est condamne a 30 ans de prison avec 18 ans de surete la peine est proche du maximum mais il la conteste et decide de faire appel
+-------------------------------------------
+
+Line ID: 9045056784
+WER Score: 6.25
+Transcript: la voix du crime de cet episode c est david sena c est lui qui a ete charge de representer le ministere public la societe au proces en appel dans ce premier episode sur l affaire michael filetas il revient sur le parcours effrayant de cet homme radicalize
+Reference:  la voix du crime de cet episode c est david senat c est lui qui a ete charge de representer le ministere public la societe au proces en appel dans ce premier episode sur l affaire mickael philetas il revient sur le parcours effrayant de cet homme radicalize
+-------------------------------------------
+
+Line ID: 9045036944
+WER Score: 2.82
+Transcript: d autant plus qu on va decouvrir pendant l enquete que michael filetta c est pas n importe qui il a une chaine de videos sur youtube et dans ses videos il donne des lecons de seduction c est ce qu il dit il donne des conseils a ses abonnes pour seduire les femmes en realite on va en parler il a un discours profondement masculiniste anti feministe misogyne et violent
+Reference:  d autant plus qu on va decouvrir pendant l enquete que mickael philetas c est pas n importe qui il a une chaine de videos sur youtube et dans ses videos il donne des lecons de seduction c est ce qu il dit il donne des conseils a ses abonnes pour seduire les femmes en realite on va en parler il a un discours profondement masculiniste anti feministe misogyne et violent
+-------------------------------------------
+
+Line ID: 9045081882
+WER Score: 3.28
+Transcript: a premiere vue on peut dire que les videos de michael filetta ce ne sont que des mots mais l enquete met en lumiere son passe d homme violent et notamment avec melanie on l a evoque un peu tout a l heure qu est ce qu on decouvre exactement en fouillant dans la vie de cet homme dans son passe
+Reference:  a premiere vue on peut dire que les videos de mickael philetas ce ne sont que des mots mais l enquete met en lumiere son passe d homme violent et notamment avec melanie on l a evoque un peu tout a l heure qu est ce qu on decouvre exactement en fouillant dans la vie de cet homme dans son passe
+-------------------------------------------
+
+Line ID: 9045012812
+WER Score: 8.51
+Transcript: on a parle du parcours de michael filetas de sa radicalisation de son emprise et de sa violence vis a vis de melanie guion david sena vous vous etes magistrat vous etes habitue a ce genre d affaires de violence conjugale en quoi celle ci est particuliere
+Reference:  on a parle du parcours de mickael philetas de sa radicalisation de son emprise et de sa violence vis a vis de melanie ghione david senat vous vous etes magistrat vous etes habitue a ce genre d affaires de violence conjugale en quoi celle ci est particuliere
+-------------------------------------------
+
+Line ID: 9045049861
+WER Score: 10.17
+Transcript: vous venez d ecouter le premier episode des voix du crime consacre au feminicide de melanie guion avec david sena magistrat dans le prochain episode il nous racontera le proces en appel de son meurtrier michael filetas en attendant vous pouvez retrouver cet episode et tous les precedents sur l application rtl rtl fr et toutes nos plateformes partenaires
+Reference:  vous venez d ecouter le premier episode des voix du crime consacre aux feminicides de melanie ghione avec david senat magistrat dans le prochain episode il nous racontera le proces en appel de son meurtrier mickael philetas en attendant vous pouvez retrouver cet episode et tous les precedents sur l application rtl rtl fr et toutes nos plateformes partenaires
+-------------------------------------------
+
+Line ID: 7938081711
+WER Score: 7.55
+Transcript: bonjour je suis clementine gallet et je vous accueille sur le premier podcast qui vous parle de maternite autrement vous entendrez ici des femmes qui vous transmettront leur histoire de mere sans filtre et grace a leur recit vous serez je l espere rassurees reconfortees et surtout deculpabilisees alors bienvenue dans le mere
+Reference:  bonjour je suis clementine galey et je vous accueille sur le premier podcast qui vous parle de maternite autrement vous entendrez ici des femmes qui vous transmettront leur histoire de mere sans filtre et grace a leurs recits vous serez je l espere rassurees reconfortees et surtout deculpabilisees alors bienvenue dans le merveilleux
+-------------------------------------------
+
+Line ID: 7938086643
+WER Score: 0.00
+Transcript: vous connaissiez saint exupery top gun et aviator please meet marianne elle est l une des rares femmes pilotes de ligne en france aux commandes d un boeing 777 veritable monstre volant qui parcourt le monde avec pres de 500 passagers a son bord
+Reference:  vous connaissiez saint exupery top gun et aviator please meet marianne elle est l une des rares femmes pilotes de ligne en france aux commandes d un boeing 777 veritable monstre volant qui parcourt le monde avec pres de 500 passagers a son bord
+-------------------------------------------
+
+Line ID: 7938099780
+WER Score: 0.00
+Transcript: toutes ces vies dont elle a la responsabilite ca pourrait sembler vertigineux sauf que pour marianne voler c est comme respirer alors une vie dans les airs sans attache et sans enfant elle aurait pu continuer tres longtemps
+Reference:  toutes ces vies dont elle a la responsabilite ca pourrait sembler vertigineux sauf que pour marianne voler c est comme respirer alors une vie dans les airs sans attache et sans enfant elle aurait pu continuer tres longtemps
+-------------------------------------------
+
+Line ID: 7938064877
+WER Score: 2.50
+Transcript: mais ca c etait avant son coup de foudre pour hubert qui va faire que sa vie va prendre une legere deviation appelee maternite bousculer ses certitudes de controle fric assumees et l obliger a accepter le vrai lacher prise
+Reference:  mais ca c etait avant son coup de foudre pour hubert qui va faire que sa vie va prendre une legere deviation appelee maternite bousculer ses certitudes de controle fric assume et l obliger a accepter le vrai lacher prise
+-------------------------------------------
+
+Line ID: 7938048636
+WER Score: 0.00
+Transcript: mais alors quand on s imaginait voler de ses propres ailes toute sa vie comment reussir a faire coexister sa nouvelle trajectoire de mer avec le rythme hors norme d une pilote de ligne sans risquer de perdre pied dans cet episode marianne vous racontera comment elle a su se frayer une place au sommet de l aviation francaise pour vivre a fond son metier passion
+Reference:  mais alors quand on s imaginait voler de ses propres ailes toute sa vie comment reussir a faire coexister sa nouvelle trajectoire de mer avec le rythme hors norme d une pilote de ligne sans risquer de perdre pied dans cet episode marianne vous racontera comment elle a su se frayer une place au sommet de l aviation francaise pour vivre a fond son metier passion
+-------------------------------------------
+
+Line ID: 7938051905
+WER Score: 0.00
+Transcript: et vous comprendrez que meme lorsqu on est surentraine a la gestion de crise et au scenario catastrophe il reste des choses qu on ne peut pas controler vous decouvrirez aussi que piloter et accoucher ce n est finalement pas si eloigne
+Reference:  et vous comprendrez que meme lorsqu on est surentraine a la gestion de crise et au scenario catastrophe il reste des choses qu on ne peut pas controler vous decouvrirez aussi que piloter et accoucher ce n est finalement pas si eloigne
+-------------------------------------------
+
+Line ID: 7938027133
+WER Score: 4.65
+Transcript: pour l un comme pour l autre il faut autant de crans que de sang froid pour gerer turbulences et montees d adrenaline surtout quand les accouchements sont physiologiquement tres intenses et qu un 2nd bebe a decide d arriver comme une fusee
+Reference:  pour l un comme pour l autre il faut autant de cran que de sang froid pour gerer turbulences et monter d adrenaline surtout quand les accouchements sont physiologiquement tres intenses et qu un 2nd bebe a decide d arriver comme une fusee
+-------------------------------------------
+
+Line ID: 5423025891
+WER Score: 17.07
+Transcript: alors les femmes pilotes c est trop rare il n y en a pas assez il n y en avait deja pas assez il y a 15 ans et en fait ca augmente assez peu ce qui est assez triste parce que c est un metier genial c est un metier completement unisexe c est dommage qu il n y ait pas plus de femmes moi j adorerais voler avec plus de nanas
+Reference:  alors les femmes pilotes c est trop rare il n y en a pas assez il n y en a pas assez surtout qu il n y en avait deja pas assez il y a 15 ans et en fait ca augmente assez peu c est assez triste parce que c est un metier genial c est un metier completement unisex et c est dommage qu il n y ait pas plus de femmes moi j adorerai voler avec plus de nanas
+-------------------------------------------
+
+Line ID: 5423070157
+WER Score: 8.70
+Transcript: quand moi je suis rentree air france en 2008 quand j ai commence a voler sur moyen courrier on etait 8% de femmes pilotes aujourd hui c est en 2008 aujourd hui on est en 2024 j ai regarde les chiffres hier 93%
+Reference:  quand moi je suis rentree a air france en 2008 quand j ai commence a voler sur moyen courrier on etait 8% de femmes pilotes aujourd hui donc ca c etait en 2008 aujourd hui on est en 2024 j ai regarde les chiffres hier 93%
+-------------------------------------------
+
+Line ID: 5423057643
+WER Score: 9.09
+Transcript: donc c est hyper triste parce qu on est quand meme dans des annees ou on se pourrait dire ca y est on s est rendu compte qu il y avait des femmes pilotes que ce n etait pas un probleme que tout le monde avait acces au concours et puis on aurait cree plein de vocations chez les petites filles et en fait pas du tout donc c est un peu dommage
+Reference:  donc c est hyper triste parce qu on est quand meme dans des annees ou on se pourrait dire bah ca y est en fait on s est rendu compte qu en fait il y avait des femmes pilotes que c etait pas un probleme que tout le monde avait acces au concours et puis on aurait cree plein de vocations chez les petites filles et en fait pas du tout donc c est un peu dommage
+-------------------------------------------
+
+Line ID: 5423014186
+WER Score: 1.72
+Transcript: tout a fait et puis j ai commence a faire du planner a 13 ans et puis piloter des petits avions apres en vrai je pilotais avec mon pere depuis longtemps mais a 14 ans j ai commence a prendre des cours a l aeroclub et a l epoque a 15 ans on pouvait commencer a voler seul
+Reference:  tout a fait et puis j ai commence a faire du planeur a 13 ans et puis piloter des petits avions apres en vrai je pilotais avec mon pere depuis longtemps mais a 14 ans j ai commence a prendre des cours a l aeroclub et a l epoque a 15 ans on pouvait commencer a voler seul
+-------------------------------------------
+
+Line ID: 5423051036
+WER Score: 1.92
+Transcript: ce qui etait hyper sympa c est qu on a tout de suite fait avec mes parents on prenait un avion et on voyageait en france on mettait deux tentes dans le coffre de l avion et en fait on se deplacait on faisait un peu un tour de france l ete ah
+Reference:  ce qui etait hyper sympa c est qu on a tout de suite fait avec mes parents on prenait un avion et on voyageait en france on mettait deux tentes dans le coffre de l avion et en fait on se deplacait on faisait un peu un tour de france l ete
+-------------------------------------------
+
+Line ID: 5423091356
+WER Score: 6.49
+Transcript: et puis apres quand j ai commence a piloter vraiment le cote cours d aeroclub moi j ai adore et c est pour ca qu en fait retrospectivement c est evident que ce metier c etait vraiment quelque chose qui collait pour moi j ai adore le cote preparation du vol rigueur checklist l approche assez professionnelle aussi du vol pas juste le fait de se deplacer de piloter mais aussi vraiment la preparation qui va avec
+Reference:  et puis apres quand j ai commence a piloter le cote court d aeroclub moi j ai adore et c est pour ca qu en fait retrospectivement c est evident que ce metier c etait vraiment quelque chose qui collait pour moi j ai adore le cote preparation du vol trigger check lease l approche assez professionnelle aussi du vol pas juste le fait de se deplacer de piloter mais aussi vraiment la preparation qui va avec
+-------------------------------------------
+
+Line ID: 5423084278
+WER Score: 1.89
+Transcript: j ai adore j ai eu un super instructeur aeroclub qui voulait etre lui meme pilote de ligne qui m a formee des le debut pour aborder les choses de maniere tres professionnelle et ca ca a vraiment ete un tournant parce que je me suis rendue compte que j adorais ca
+Reference:  j ai adore j ai eu un super instructeur a aeroclub qui voulait etre lui meme pilote de ligne qui m a formee des le debut pour aborder les choses de maniere tres professionnelle et ca ca a vraiment ete un tournant parce que je me suis rendue compte que j adorais ca
+-------------------------------------------
+
+Line ID: 5423039187
+WER Score: 13.24
+Transcript: ca a ete grace a un ami de mes parents qui etait pilote de ligne chez air france que j ai croise et qui m a dit mais marianne ce metier existe chez air france on recrute il existe meme une ecole ou on forme les pilotes air france un concours apres maths up maths p il faut que tu passes ce concours
+Reference:  eh ben ca a ete grace a un ami de mes parents qui etait pilote de ligne chez air france que j ai croise et qui m a dit mais marianne voila ce metier existe chez air france on recrute il existe meme une ecole ou on forme les pilotes air france c est un concours apres math sup math spe il faut que tu passes ce concours
+-------------------------------------------
+
+Line ID: 5423020881
+WER Score: 3.75
+Transcript: je sais comment il faut que je procede pour faire au mieux je sais que je ne peux pas enchainer une journee et un vol derriere la nuit donc il va falloir que je fasse une sieste donc a 13 h il faut que je sois dans mon lit que je sois apaisee que je n ai pas gere quelque chose de stressant avant et que j essaye de me mettre dans le noir pour tenter de dormir deux heures avant
+Reference:  je sais comment il faut que je procede pour faire au mieux je sais que je peux pas enchainer une journee et un vol derriere la nuit donc il va falloir que je fasse une sieste donc a 13 heures il faut que je sois dans mon lit que je sois apaisee que je n aie pas gere quelque chose de stressant avant et que j essaye de me mettre dans le noir pour tenter de dormir deux heures avant
+-------------------------------------------
+
+Line ID: 5423096074
+WER Score: 3.16
+Transcript: evidemment on n a jamais fait le tour du monde mais on avait bien baroude et puis on s est pose pendant le covid parce que meme si j ai vole on s est quand meme pose comme tout le monde beaucoup moins vole et on n est pas mort on s en est sorti en fait d etre la a la maison tous les deux parce qu on n arretait pas il y en a un qui partait l autre qui revenait et en fait on s est dit ca a provoque un petit changement oui
+Reference:  evidemment on n a jamais fait le tour du monde mais on avait bien baroude et puis on s est pose pendant le covid parce que meme si j ai vole on s est quand meme pose comme tout le monde beaucoup moins vole et on n est pas mort on s en est sorti en fait d etre la a la maison tous les deux parce qu on n arretait pas il y en a un qui partait le qui revenait et en fait on s est dit ca a provoque un petit changement
+-------------------------------------------
+
+Line ID: 7198947040
+WER Score: 3.19
+Transcript: bonjour tout le monde j espere que je vous retrouve en forme ce jeudi matin et aujourd hui l episode va faire suite a l episode de la semaine derniere donc si vous ne l avez pas ecoute je vous conseille de commencer par celui de la semaine derniere dans lequel j expliquais les cinq grands comportements bloquants les cinq phases en fait dans lesquelles on peut se retrouver potentiellement bloques donc une a plusieurs et qui nous posent difficulte pour pouvoir s assumer s affirmer en tant que femme parvenir a vraiment prendre sa place
+Reference:  bonjour tout le monde j espere que je vous retrouve en forme ce jeudi matin et aujourd hui l episode va faire suite a l episode de la semaine derniere donc si vous ne l avez pas ecoute je vous conseille de commencer par celui de la semaine derniere dans lequel j expliquais les cinq grands comportements bloquants les cinq phases dans lesquelles on peut se retrouver potentiellement bloques donc une a plusieurs et qui nous posent difficultes pour pouvoir s assumer s affirmer en tant que femme parvenir a vraiment prendre sa place
+-------------------------------------------
+
+Line ID: 7198997867
+WER Score: 1.94
+Transcript: et puis de voir que finalement on passe toutes par des etapes qui sont aussi similaires meme si ce n est pas dans le meme ordre et qu on n en est pas toutes au meme stade c est tres inspirant il y a eu enormement de temoignages aussi qui sont tres encourageants donc voila je suis vraiment contente que ca ait pu resonner et comme promis aujourd hui avec cet episode l idee c est que je puisse vraiment vous partager des cles alors avant toute chose des cles concretes pas a pas c est des choses qui prennent du temps reellement
+Reference:  et puis de voir que finalement on passe toutes par des etapes qui sont aussi similaires meme si ce n est pas dans le meme ordre et qu on n en est pas toutes au meme stade c est tres inspirant il y a eu enormement de temoignages aussi qui sont tres encourageants donc voila je suis vraiment vraiment contente que ca ait pu resonner et comme promis aujourd hui avec cet episode l idee c est que je puisse vraiment vous partager des cles alors avant toute chose des cles concretes pas a pas c est des choses qui prennent du temps
+-------------------------------------------
+
+Line ID: 7198952006
+WER Score: 5.49
+Transcript: ca ne tiendra pas en un seul episode de podcast mais aujourd hui je voudrais vous expliquer les trois grandes etapes par lesquelles je passe a chaque fois que je suis dans une de ces phases bloquantes qui m empechent de m affirmer qui font que je me suis aussi retrouvee a me suradapter il y a vraiment cette notion de suradaptation et qui sont finalement ces etapes ces phases je crois qu il faut traverser pour vraiment pouvoir assumer le soi authentique la femme libre
+Reference:  ca ne tiendra pas en un seul episode de podcast mais aujourd hui je voudrais vous expliquer en fait les trois grandes etapes par lesquelles moi je passe a chaque fois que je suis dans une de ces phases bloquantes qui m empechent de m affirmer qui font que je me suis aussi retrouvee a me suradapter il y a vraiment cette notion de suradaptation et qui sont finalement ces etapes ces phases je crois qu il faut traverser en fait pour vraiment pouvoir assumer le soi authentique la femme libre
+-------------------------------------------
+
+Line ID: 7198966547
+WER Score: 2.70
+Transcript: et quand je parle de rayonner a 360 degres c est vraiment sortir des cages un peu dans lesquelles on est enferme pour pouvoir enfin assumer un soi plus grand assumer toutes nos facettes et en fait nous deployer il y a vraiment cette notion aussi de deployer nos potentiels vous savez a quel point c est important pour moi d essayer de partager avec vous des choses qui permettent de deployer nos potentiels
+Reference:  et quand je parle de rayonner a 360 c est vraiment sortir des cages un peu dans lesquelles on est enferme pour pouvoir enfin assumer un soi plus grand assumer toutes nos facettes et en fait nous deployer et il y a vraiment cette notion aussi de deployer nos potentiels vous savez a quel point c est important pour moi d essayer de partager avec vous des choses qui permettent de deployer nos potentiels
+-------------------------------------------
+
+Line ID: 7198914501
+WER Score: 1.35
+Transcript: parce que je suis convaincue qu on a tous et toutes des potentiels a deployer et qu on a souvent du mal a mettre le doigt dessus et que meme quand on met le doigt dessus en fait on ne cesse de se diminuer de se minimiser parce que la societe et de maniere generale notre education et tous les systemes mis en place ne nous encouragent pas beaucoup a prendre confiance en nous
+Reference:  parce que je suis convaincue qu on a tous et toutes des potentiels a deployer et qu on a souvent du mal a mettre le doigt dessus et que meme quand on met le doigt dessus en fait on ne cesse de se diminuer de se minimiser parce que la societe et de maniere generale notre education et tous les systemes mis en place ne nous encourage pas beaucoup a prendre confiance en nous
+-------------------------------------------
+
+Line ID: 7198958121
+WER Score: 10.29
+Transcript: alors que je pense que si on deployait nos potentiels on serait plus epanoui plus vaste plus rayonnant radieuse immense et on arriverait aussi a mettre ses potentiels au service du collectif au service des gens et je crois qu on arriverait a changer le monde plus facilement voila c est peut etre un idealisme mais en tout cas c est quelque chose qui est tres important pour moi
+Reference:  alors que je pense que si on deployait nos potentiels on serait plus epanouis plus vastes plus rayonnants radieuses immenses et on arriverait aussi a mettre ces potentiels au service du collectif au service des gens et je crois qu on arriverait a changer le monde plus facilement c est peut etre un idealisme mais en tout cas c est quelque chose qui est tres important pour moi
+-------------------------------------------
+
+Line ID: 7198934942
+WER Score: 8.11
+Transcript: donc quand je parle de rayonner a 360 degres qu est ce que c est donc c est pas degres celsius temperature meme si c est tres tres chaud c est cette notion de rayonner de maniere completement spherique en fait voyez le rayonnement parce que c est un terme qui devient un peu galvaude le fait de rayonner on entend ca un peu partout c est hyper branche d effets perso vaporeux etc
+Reference:  donc quand je parle de rayonner a 360 qu est ce que c est donc c est pas degre celsius temperature meme si c est tres tres chaud c est cette notion de rayonner de maniere completement spherique en fait voyez ca voyez le rayonnement parce que c est un terme qui devient un peu galvaude le fait de rayonner on entend ca un peu partout c est hyper branche d espersos vaporeux etc
+-------------------------------------------
+
+Line ID: 7198919580
+WER Score: 0.00
+Transcript: moi la notion de rayonner ce que je mets derriere c est cette notion de comment est ce que je peux deployer completement la sphere que je suis et au lieu de passer d une toute petite boule d energie compacte a une sphere plus large plus vibrante plus radieuse c est comment est ce que tous les aspects de moi je vais les deployer les faire rayonner donc tous les aspects tout autour de moi en fait c est comment est ce que je vais faire le tour de tous mes contours quelque part et l etendre
+Reference:  moi la notion de rayonner ce que je mets derriere c est cette notion de comment est ce que je peux deployer completement la sphere que je suis et au lieu de passer d une toute petite boule d energie compacte a une sphere plus large plus vibrante plus radieuse c est comment est ce que tous les aspects de moi je vais les deployer les faire rayonner donc tous les aspects tout autour de moi en fait c est comment est ce que je vais faire le tour de tous mes contours quelque part et l etendre
+-------------------------------------------
+
+Line ID: 7198957359
+WER Score: 5.66
+Transcript: il y a cette notion aussi de deployer son aura son energie et en fait d emettre une radiation alors encore une fois c est des mots que j utilize mais je ne suis meme pas en train de parler forcement d esoterique ici c est emettre une radiation c est eradier en fait eradier dans notre vie eradier le monde de tous nos aspects en fait les beaux les moins beaux les authentiques les moins authentiques et comment est ce que je peux incarner en fait cette femme enfin epanouie radieuse immense qui en fait ne doute plus de sa presence et plus de sa valeur
+Reference:  il y a cette notion aussi de deployer son aura son energie et en fait d emettre une radiation alors encore une fois c est des mots que j utilize mais je suis meme pas en train de parler forcement des esoteriques ici c est emettre une radiation c est irradier en fait irradie dans notre vie irradie le monde de tous nos aspects en fait les beaux les moins beaux les authentiques les moins authentiques et comment est ce que je peux incarner en fait cette femme enfin epanouie radieuse immense qui en fait ne doute plus de sa presence et plus de sa valeur
+-------------------------------------------
+
+Line ID: 7198993074
+WER Score: 3.26
+Transcript: pour moi c est ca rayonner a 360 degres et quand on est en fait dans cette espece de rayonnement finalement a 360 degres dans cette quete de comment est ce que je peux enfin etre dans ma pleine presence c est en fait comment est ce que j embrasse pleinement mon essence comment est ce que je jouis de la vie parce qu il y a vraiment cette notion de jouissance d expansion d etre bien dans sa peau bien dans ses basques et de reconnecter a toutes les parts de soi
+Reference:  pour moi c est ca rayonner a 360 et quand on est en fait dans cette espece de rayonnement finalement a 360 dans cette quete de comment est ce que je peux enfin prendre etre dans ma pleine presence c est en fait comment est ce que j embrasse pleinement mon essence comment est ce que je jouis de la vie parce qu il y a vraiment cette notion de jouissance d expansion d etre bien dans sa peau bien dans ses basques et de reconnecter a toutes les parts de soi
+-------------------------------------------
+
+Line ID: 7198918314
+WER Score: 0.00
+Transcript: tout ca ca suppose forcement d arreter de tamiser notre lumiere comme je vous partageais dans le dernier episode tout ca sous pretexte de froisser quelqu un ca demande d arreter de marcher sur des oeufs aussi pour ne pas faire de bruit
+Reference:  tout ca ca suppose forcement d arreter de tamiser notre lumiere comme je vous partageais dans le dernier episode tout ca sous pretexte de froisser quelqu un ca demande d arreter de marcher sur des oeufs aussi pour ne pas faire de bruit
+-------------------------------------------
+
+Line ID: 7198976063
+WER Score: 4.44
+Transcript: ca demande d arreter de se justifier d exister ca demande d arreter de se consumer aussi a l interieur ca demande aussi de depasser nos peurs parce qu on brule d envie de certaines choses dans notre vie de se realiser de s epanouir on
+Reference:  ca demande d arreter de se justifier d exister ca demande d arreter de se consommer aussi a l interieur ca demande aussi de depasser nos peurs parce qu on brule d envie de certaines choses dans notre vie de se realiser de s epanouir
+-------------------------------------------
+
+Line ID: 7198969431
+WER Score: 3.90
+Transcript: je sais qu on a tous et toutes ce truc ou on brule a l interieur il y a une etincelle qu on a ferocement envie de suivre qu on ne suit pas parce qu on en a peur ou parfois meme qu on est deconnecte de cette etincelle on ne sait pas quelle est cette etincelle parce qu en fait on s est toujours suradapte comme j expliquais dans le dernier episode de podcast
+Reference:  je sais qu on a tous et tous ce truc ou on brule a l interieur il y a une etincelle en fait qu on a ferocement envie de suivre qu on ne suit pas parce qu on en a peur ou parfois meme qu on est deconnecte de cette etincelle on ne sait pas quelle est cette etincelle parce qu en fait on s est toujours suradapte comme j expliquais dans le dernier episode de podcast
+-------------------------------------------
+
+Line ID: 7198987192
+WER Score: 2.25
+Transcript: et donc ce rayonnement a 360 degres c est ce que je veux profondement essayer de vous transmettre pour moi ca passe par le fait de repondre a l appel que l on sent a l interieur de nous quand je vous dis moi je sens que j ai choisi de repondre a l appel en moi c est en fait j ai un appel visceral a me deployer vivre sous toutes mes coutures sous toutes mes formes vivre plus grand plus vaste deployer tous mes potentiels
+Reference:  et donc ce rayonnement a 360 degres c est ce que je veux profondement essayer de vous transmettre pour moi ca passe par le fait de repondre a l appel que l on sent a l interieur de nous quand je vous dis moi je sens que en fait j ai choisi de repondre a l appel en moi c est en fait j ai un appel visceral a me deployer vivre sous toutes mes coutures sous toutes mes formes vivre plus grand plus vaste deployer tous mes potentiels
+-------------------------------------------
+
+Line ID: 7198975222
+WER Score: 10.71
+Transcript: je ne vois pas d autre maniere de vivre en fait c est quasiment un non sujet et apres voila moi j ai aussi parmi mes aspirations d inspirer les femmes aussi qui le souhaitent en fait a irradier a rayonner sur le monde dans le monde et a mettre de nouveau ce rayonnement aussi au service des autres
+Reference:  je ne vois pas d autre maniere de vivre en fait c est quasiment un non sujet et apres voila moi j ai aussi parmi mes aspirations d inspirer les femmes qui le souhaitent a y radier a rayonner sur le monde dans le monde et a mettre de nouveau ce rayonnement au service des autres
+-------------------------------------------
+
+Line ID: 7198948182
+WER Score: 1.56
+Transcript: donc le rayonnement a 360 degres je voudrais vous partager des phrases que j ai ecrites et que j ai aussi transmises par mail via ma newsletter qui sont des phrases qui resument le travail de longue haleine que j ai pu faire ces dernieres annees je voudrais juste voir si ca resonne a l interieur de vous juste vous voyez ce que ca fait
+Reference:  donc le rayonnement a 360 je voudrais vous partager des phrases que j ai ecrites et que j ai aussi transmises par mail via ma newsletter qui sont des phrases qui resument le travail de longue haleine que j ai pu faire ces dernieres annees je voudrais juste voir si ca resonne a l interieur de vous juste vous voyez ce que ca fait
+-------------------------------------------
+
+Line ID: 7198950347
+WER Score: 9.84
+Transcript: vous pouvez meme les ecouter en fermant les yeux si vous en avez envie et juste peut etre voir si ca procure une seule petite emotion une seule petite chose ou rien du tout et si ca s y en a une d entre elles qui procure une petite chose une petite emotion un petit envie de respirer un petit pincement etc
+Reference:  vous pouvez meme les ecouter en fermant les yeux si vous en avez envie et juste peut etre voir si ca procure une seule petite emotion une seule petite chose ou rien du tout et si il y en a une d entre elles qui procure une petite chose une petite emotion une petite envie d inspirer un petit pincement etc
+-------------------------------------------
+
+Line ID: 7198913148
+WER Score: 1.59
+Transcript: je suis connectee a ma joie d enfant a mes desirs de femme a ma curiosite insatiable et a ma soif de vivre chaque instant pleinement je suis fidele a mes cascades d emotions a ma source debordante de creativite a mes flots tempetueux de desir a mon soleil ardent crepitant et lumineux j arrete de prendre en charge les insecurites des autres
+Reference:  je suis connecte a ma joie d enfant a mes desirs de femme a ma curiosite insatiable et a ma soif de vivre chaque instant pleinement je suis fidele a mes cascades d emotions a ma source debordante de creativite a mes flots tempetueux de desir a mon soleil ardent crepitant et lumineux j arrete de prendre en charge les insecurites des autres
+-------------------------------------------
+
+Line ID: 7198918444
+WER Score: 77.27
+Transcript: alors laissez peut etre juste un fusee voir s il y en a une d entre elles qui resonne
+Reference:  je prefere inviter les personnes qui le veulent a rayonner et je prefere semer des graines je n ai aucune raison de me priver de me restreindre de continuer a faire vivre mon ame dans deux meters carres au lieu de la deployer sur des milliers d hectares alors laissez peut etre juste infuser voir s il y en a une d entre elles qui resonnent
+-------------------------------------------
+
+Line ID: 7198986814
+WER Score: 1.30
+Transcript: si ca ne resonne pas ce n est pas un souci donc je voulais partager avec vous ces trois grandes etapes qu on va essayer d aller traverser justement pour arriver a cet espace dans lequel on se sent assez bien avec soi et on a assez confiance en nos potentiels et on a assez envie de bouffer la vie puisque c est lie vraiment au fait de vouloir bouffer la vie pour pouvoir rayonner pleinement
+Reference:  si ca ne resonne pas ce n est pas un souci donc je voulais partager avec vous voila ces trois grandes etapes qu on va essayer d aller traverser justement pour arriver a cet espace dans lequel on se sent assez bien avec soi et on a assez confiance en nos potentiels et on a assez envie de bouffer la vie puisque c est lie vraiment au fait de vouloir bouffer la vie pour pouvoir rayonner pleinement
+-------------------------------------------
+
+Line ID: 7198911169
+WER Score: 3.53
+Transcript: je vous ai deja dit plein de fois il y a cette notion de debroussailler la jungle au couteau a beurre la c est vraiment la premiere etape c est vraiment l etape sur laquelle on va essayer d aller gratter toute la poussiere toute la crasse et toutes les choses qui nous oppriment et qui continuent de nous garder dans un carcan dans une identite dans une peau qui est beaucoup trop petite pour nous donc ok ca parait super bateau
+Reference:  alors je vous ai deja dit plein de fois il y a cette notion de debroussailler la jungle au couteau a beurre la c est vraiment la premiere etape c est vraiment l etape sur laquelle on va essayer d aller gratter toute la poussiere toute la crasse et toutes les choses en fait qui nous oppriment et qui continuent de nous garder dans un carcan dans une identite dans une peau qui est beaucoup trop petite pour nous donc ok ca parait super bateau
+-------------------------------------------
+
+Line ID: 7198927288
+WER Score: 0.00
+Transcript: mais en fait on ne peut pas aller essayer d emaner un rayonnement d etre bien aligne bien authentique de se faire confiance d assumer toutes ses facettes etc si on ne passe pas par l etape dans laquelle on se rend compte qu en fait sur la tronche on a des tas d injonctions et qu en fait pour pouvoir rayonner oser ce rayonnement oser cette femme multifacette authentique etc il va falloir apprendre a desobeir a ces injonctions la
+Reference:  mais en fait on ne peut pas aller essayer d emaner un rayonnement d etre bien aligne bien authentique de se faire confiance d assumer toutes ses facettes etc si on ne passe pas par l etape dans laquelle on se rend compte qu en fait sur la tronche on a des tas d injonctions et qu en fait pour pouvoir rayonner oser ce rayonnement oser cette femme multifacette authentique etc il va falloir apprendre a desobeir a ces injonctions la
+-------------------------------------------
+
+Line ID: 7198952634
+WER Score: 3.26
+Transcript: et en fait le truc c est que la plupart du temps on essaye de nous expliquer l etape 2 et l etape 3 de oui travaille sur ca sur ta confiance en toi ton truc machin etc mais en fait on ne remet pas en contexte le fait que ca fait des millenaires qu on a sur les epaules sur la tronche des couvercles des plafonds de verre et des injonctions pas possibles qui font qu on continue a obeir de maniere completement inconsciente a ces injonctions la
+Reference:  et en fait le truc c est que la plupart du temps on essaye de nous expliquer l etape 2 et l etape 3 de en fait oui ben travaille sur ca sur ta confiance en toi ton truc machin etc mais en fait on ne remet pas en contexte le fait que ca fait des millenaires qu on a sur les epaules sur la tronche des couvercles des plafonds de verre et des injonctions pas possibles qui font qu on continue a obeir de maniere completement inconsciente a ces injonctions la
+-------------------------------------------
+
+Line ID: 7198963436
+WER Score: 3.39
+Transcript: on continue a se dire qu etre une femme qui a tout etre une femme qui est comme ceci qui est comme cela qui s assume qui prend sa place qui s affirme etc c est quelque chose qui n est pas forcement bien ou alors qu on ne peut pas le faire en etant connectee a notre feminite
+Reference:  on continue a se dire que etre une femme qui a tout etre une femme qui est comme ceci qui est comme cela qui s assume qui prend sa place qui s affirme etc c est quelque chose qui n est pas forcement bien ou alors qu on ne peut pas le faire en etant connecte a notre feminite
+-------------------------------------------
+
+Line ID: 7198992031
+WER Score: 13.43
+Transcript: il y a plein de croyances qui sont je trouve totalement fausses qui sont peut etre utiles mais qui sont totalement fausses et en fait il va falloir apprendre a desobeir a ces injonctions la et pour apprendre a desobeir a ces injonctions la il va falloir deja prendre conscience qu en fait on repond a des injonctions
+Reference:  enfin il y a plein en fait il y a plein du coup de croyances qui sont je trouve totalement fausses qui sont peut etre utiles mais qui sont totalement fausses et en fait il va falloir apprendre a desobeir a ces injonctions la et pour apprendre a desobeir a ces injonctions la il va falloir deja prendre conscience qu en fait on repond a des injonctions
+-------------------------------------------
+
+Line ID: 7198971054
+WER Score: 4.88
+Transcript: il va falloir prendre conscience qu en fait on a des peurs de la honte de la culpabilite qui font qu on reste encore dans cette femme qui se minimize qui se ternit qui se sent eteinte et qui n ose pas prendre sa place ou qui n arrive pas a prendre sa place et quand je parle de desobeir c est pas juste un petit truc mignonnet en mode waouh c est trop badass moi je suis quelqu un qui desobeit pas du tout
+Reference:  il va falloir prendre conscience qu en fait on a des peurs de la honte de la culpabilite qui font qu on reste encore dans cette femme qui se minimize qui se ternit qui se sent eteinte qui n ose pas prendre sa place ou qui n arrive pas a prendre sa place et quand je parle de desobeir c est pas juste un petit truc mignonnais en mode c est trop badass je suis quelqu un qui desobeit pas du tout
+-------------------------------------------
+
+Line ID: 7198917874
+WER Score: 0.00
+Transcript: en fait pas du tout quand je parle de desobeir c est desobeir avec son essence avec son etre avec son incarnation quelque part et ca vient vraiment des tripes c est reinventer sa maniere d etre une femme qui apparait au monde parce qu en fait on n a pas encore appris d autres modeles d etre une femme dans le monde
+Reference:  en fait pas du tout quand je parle de desobeir c est desobeir avec son essence avec son etre avec son incarnation quelque part et ca vient vraiment des tripes c est reinventer sa maniere d etre une femme qui apparait au monde parce qu en fait on n a pas encore appris d autres modeles d etre une femme dans le monde
+-------------------------------------------
+
+Line ID: 7198944087
+WER Score: 2.70
+Transcript: c est a dire qu aujourd hui on a quelques modeles feminins qui desobeissent aux injonctions qui se reinventent dans leur maniere de rayonner d apparaitre au monde avec leur choix de vie leur maniere d etre leur energie yin yang leur paradoxe etc mais on en a tres peu et beaucoup trop peu en realite c est vraiment pas la majeure partie des femmes qui sont nos modeles aujourd hui dans ce monde on
+Reference:  c est a dire qu aujourd hui on a quelques modeles feminins qui desobeissent aux injonctions qui se reinventent dans leur maniere de rayonner d apparaitre au monde avec leurs choix de vie leur maniere d etre leur energie yin yang leur paradoxe etc mais on en a tres peu et beaucoup trop peu en realite c est vraiment pas la majeure partie des femmes qui sont nos modeles aujourd hui dans ce monde
+-------------------------------------------
+
+Line ID: 7198942037
+WER Score: 1.08
+Transcript: et on s accroche a des citations a des femmes de l histoire a des simone de beauvoir frida kahlo etc mais en fait qu en est il d aujourd hui je sais que les choses elles changent mais dans notre entourage le plus proche tres souvent on a tres peu de modeles feminins de femmes qui assument totalement tout leur paradoxe leur cote multifacette leur cote multipotentiel qui s autorisent pleinement a prendre leur place a rayonner a etre super bien dans la peau a etre vous savez cette femme completement solaire etc
+Reference:  et on s accroche a des citations a des femmes de l histoire a des simone de beauvoir frida kahlo etc mais en fait qu en est il d aujourd hui je sais que les choses changent mais dans notre entourage le plus proche tres souvent on a tres peu de modeles feminins de femmes qui assument totalement tout leur paradoxe leur cote multifacette leur cote multipotentiel qui s autorisent pleinement a prendre leur place a rayonner a etre super bien dans la peau a etre vous savez cette femme completement solaire etc
+-------------------------------------------
+
+Line ID: 7198976206
+WER Score: 7.35
+Transcript: je ne sais pas vous mais je trouve qu on en a quand meme peu on en a mais on en a peu et ce n est pas la majorite alors que dans mon monde a moi j aimerais que ce soit la majorite des femmes parce que je crois que c est ce qu on merite et c est aussi une maniere de vivre notre vie pleinement
+Reference:  et ben je sais pas vous mais je trouve qu on en a quand meme peu on en a mais on en a peu et c est pas la majorite alors que dans mon monde a moi j aimerais que ce soit la majorite des femmes parce que je crois que c est ce qu on merite et c est aussi une maniere de vivre notre vie pleinement
+-------------------------------------------
+
+Line ID: 7198984738
+WER Score: 0.00
+Transcript: alors oui bien sur on est au xxie siecle c est vrai qu il y a beaucoup de changements les femmes surtout en europe reprennent peu a peu leur place dans la societe on reprend vraiment notre souverainete notre pouvoir notre corps notre intelligence
+Reference:  alors oui bien sur on est au xxie siecle c est vrai qu il y a beaucoup de changements les femmes surtout en europe reprennent peu a peu leur place dans la societe on reprend vraiment notre souverainete notre pouvoir notre corps notre intelligence
+-------------------------------------------
+
+Line ID: 7198920578
+WER Score: 7.89
+Transcript: il y a encore enormement de travail a faire c est sur mais je trouve quand meme que les choses changent et pourtant malgre toutes ces choses qui changent et parmi vous je sais qu il y en a enfin j ai vraiment vu les reactions suite au dernier episode il y en a plein qui sont encore dans ce truc de j ai beau avoir ces combats me sentir ok en pleine possession de mon intelligence de mon corps etc
+Reference:  il y a encore enormement de travail a faire c est sur mais je trouve quand meme que les choses changent et pourtant malgre toutes ces choses qui changent et parmi vous je sais que j ai vraiment vu les reactions suite au dernier episode il y en a plein qui sont encore dans ce truc de j ai beau avoir ces combats me sentir ok en pleine possession de mon intelligence de mon corps etc
+-------------------------------------------
+
+Line ID: 7198983542
+WER Score: 1.01
+Transcript: j arrive pas a incarner cette femme qui se fout la baie qui est dans son authenticite qui est radieuse qui rayonne je me sens encore eteinte j ai peur j ose pas ou je me sens comme une lionne en cage c est difficile etc et oui mais parce qu en fait on a encore plein d injonctions qui sont tres discretes malheureusement mais qui sont bien presentes autour du role de la femme de la place qu on peut occuper de comment est ce qu on doit se comporter de ce qu on peut dire ou pas
+Reference:  j arrive pas a incarner cette femme qui se fout la paix qui est dans son authenticite qui est radieuse qui rayonne je me sens encore eteinte j ai peur j ose pas ou je me sens comme une lionne en cage c est difficile etc et oui mais parce qu en fait on a encore plein d injonctions qui sont tres discretes malheureusement mais qui sont bien presentes autour du role de la femme de la place qu on peut occuper de comment est ce qu on doit se comporter de ce qu on peut dire ou pas
+-------------------------------------------
+
+Line ID: 7198944166
+WER Score: 7.89
+Transcript: parce qu en fait on en revient a ce truc une femme dans sa multipotentialite dans son multirayonnement son multifacette etc c est quelque chose qui derange profondement la majeure partie des gens pourquoi ca derange
+Reference:  parce qu en fait on en revient a ce truc une femme dans sa multipotentialite et dans son multi rayonnement son multifacette etc c est quelque chose qui derange profondement la majeure partie des gens pourquoi ca derange
+-------------------------------------------
+
+Line ID: 7198963251
+WER Score: 5.08
+Transcript: en fait ca fait miroir bon je ne vais pas vous apprendre l effet miroir je pense que si vous ecoutez mes podcasts depuis un moment vous savez tres bien de quoi je parle mais en fait ca fait miroir a la majeure partie des gens ca peut etre tres inconfortable mais ca peut etre inconfortable et inspirant
+Reference:  en fait ca fait miroir bon je vais pas vous apprendre l effet miroir je pense que si vous ecoutez mes podcasts depuis un moment vous savez tres bien de quoi je parle mais en fait ca fait miroir a la majeure partie des gens en fait ca peut etre tres inconfortable mais ca peut etre inconfortable et inspirant
+-------------------------------------------
+
+Line ID: 7198951183
+WER Score: 4.23
+Transcript: c est aussi ce que j ai envie de prener c est inconfortable d etre dans cette affirmation de soi et d etre dans le fait de je suis bien dans ma peau je suis solaire je rayonne je mets mon rayonnement en plus au service des autres etc ca peut etre inconfortable parce qu en fait ca renvoie constamment aux autres l image qu eux ont d eux memes
+Reference:  moi c est aussi ce que j ai envie de proner c est inconfortable d etre dans cette affirmation de soi et d etre dans le fait de je suis bien dans ma peau je suis solaire je rayonne je mets mon rayonnement en plus au service des autres etc ca peut etre inconfortable parce qu en fait ca renvoie constamment aux autres l image que eux ont d eux memes
+-------------------------------------------
+
+Line ID: 7198963775
+WER Score: 9.68
+Transcript: c est a dire qu a chaque fois que vous allez vous presenter face a quelqu un ou a un groupe ou a un public ces personnes la vont du coup etre confrontees a leur propre choix leur propre rayonnement leurs propres insecurites c est le principe et c est la meme chose pour vous en fait on agit tous en miroir
+Reference:  c est a dire que a chaque fois que vous allez vous presenter face a quelqu un ou a un groupe ou a un public ces personnes la vont du coup etre confrontees a leurs propres choix leurs propres rayonnements leurs propres insecurites c est le principe et c est la meme chose pour vous en fait on agit tous en miroir
+-------------------------------------------
+
+Line ID: 7198947993
+WER Score: 8.00
+Transcript: ce qui fait que nous en tant que femmes c est quelque chose qui en fait est douloureux d accepter d etre inconfortable donc on passe notre temps souvent a choisir d etre confortable donc en fait c est soit je m assume pleinement mais du coup je vais etre critiquee jalousee diminuee humiliee
+Reference:  ce qui fait que nous en tant que femmes c est quelque chose qui est douloureux d accepter d etre inconfortable donc on passe notre temps souvent a choisir d etre confortable donc en fait soit je m assume pleinement mais du coup je vais etre critiquee jalousee diminuee humiliee
+-------------------------------------------
+
+Line ID: 7198938972
+WER Score: 4.92
+Transcript: il y a beaucoup de trucs la a rejeter soit en fait je rayonne mais pas trop quand meme je reponds quand meme aux attentes du groupe donc je dois etre belle bien rayonnante etc sinon on me remet dans la gueule 0 mais dis donc t es pas maquillee 0 ben dis donc t as l air fatiguee
+Reference:  il y a beaucoup de trucs la a rejeter soit en fait je rayonne mais pas trop quand meme je reponds quand meme aux attentes du groupe donc c est je dois etre belle bien rayonnante etc sinon on me remet dans la gueule 0 mais dis donc t es pas maquillee 0 bah dis donc t as l air fatiguee
+-------------------------------------------
+
+Line ID: 7198966737
+WER Score: 7.14
+Transcript: ou est ma place dans ce monde et comment je fais donc cette premiere etape ca va passer par beaucoup de travail de l ombre ca va passer par comprendre ce que c est qu une femme solaire et une femme dans son rayonnement et ca va passer aussi par la reappropriation de son energie yang et je fais expres de ne pas utiliser masculine
+Reference:  ou est ma place dans ce monde et comment je fais donc la cette premiere etape en fait ca va passer par beaucoup de travail de l ombre ca va passer par comprendre en fait ce que c est qu une femme solaire et une femme dans son rayonnement et ca va passer aussi par la reappropriation de son energie yang et je fais expres de ne pas utiliser masculine
+-------------------------------------------
+
+Line ID: 7198957761
+WER Score: 1.25
+Transcript: parce qu en fait une chose aussi que je constate beaucoup dans notre monde actuel c est qu il y a beaucoup de femmes qui sont dans une energie yang mais c est une energie yang qui est tres dure en mode armure dans la protection dans la revendication etc de en fait je suis super independante j ai besoin de personne je me protege je suis invulnerable il y a presque ce cote j ai envie de dominer etc
+Reference:  parce qu en fait une chose aussi que je constate beaucoup dans notre monde actuel c est qu il y a beaucoup de femmes qui sont dans une energie yang mais c est une energie yang qui est tres dure en mode armure dans la protection dans la revendication etc de en fait je suis super independante j ai besoin de personnes je me protege je suis invulnerable il y a presque ce cote j ai envie de dominer etc
+-------------------------------------------
+
+Line ID: 7198928548
+WER Score: 9.24
+Transcript: je pense qu on a forcement besoin d energie comme ca pour faire bouger les choses ca c est sur mais je pense aussi que ce n est pas forcement toujours une source d epanouissement et je pense que si on se reapproprie a notre energie yang a savoir accepter de se mettre en lumiere et je ne suis pas en train de parler de reseaux sociaux c est cette energie de je suis vue je suis a l aise avec le fait d etre vue je prends ma place je porte ma voix je projette mon energie vers l exterieur je n ai pas tout le temps a me replier sur moi et je n ai pas tout le temps a etre discrete
+Reference:  je pense qu on a forcement besoin d energie comme ca pour faire bouger les choses ca c est sur mais je pense aussi que c est pas forcement toujours une source d epanouissement et je pense que si on se reappropriait notre energie yang a savoir accepter de se mettre en lumiere et je suis pas en train de parler de reseaux sociaux c est cette energie de je suis vu je suis a l aise avec le fait d etre vu je prends ma place je porte ma voix je projette mon energie vers l exterieur j ai pas tout le temps a me replier sur moi et j ai pas tout le temps a etre discrete
+-------------------------------------------
+
+Line ID: 7198978897
+WER Score: 4.00
+Transcript: et meme dans l intimite on peut vraiment briller aupres de nos proches et en fait j ai une direction je passe a l action je suis clairement dans ma mission ma direction je sais ce que je vaux j ai conscience de mes talents je les deploie
+Reference:  et meme ce meme dans l intimite on peut vraiment briller aupres de nos proches et en fait j ai une direction je passe a l action je suis clairement dans ma mission ma direction je sais ce que je vaux j ai conscience de mes talents je les deploie
+-------------------------------------------
+
+Line ID: 7198994991
+WER Score: 1.72
+Transcript: ca c est de l energie yang qui est hyper saine et qu on a aussi nous en tant que femmes et vraiment j ai aussi envie de reinviter cette notion dans la balance c est qu on peut etre une femme qui a enormement d energie yang et etre ultra feminine ca n a aucun rapport
+Reference:  et ca c est de l energie yang qui est hyper saine et qu on a aussi nous en tant que femmes et vraiment j ai aussi envie de reinviter cette notion dans la balance c est qu on peut etre une femme qui a enormement d energie yang et etre ultra feminine ca n a aucun rapport
+-------------------------------------------
+
+Line ID: 7198962819
+WER Score: 1.27
+Transcript: alors je ne dis pas la premiere en fait quand je dis la premiere c est plus dans le sens je me sens la premiere concernee voila c est plus dans ce sens la je me sens tres concernee j ai une tres tres forte energie yang je pense que vous le savez vous l entendez dans mes podcasts etc et pourtant je me sens feminine sensuelle connectee a ma feminite j ai une forte energie yin egalement
+Reference:  alors je ne dis pas la premiere en fait quand je dis la premiere c est plus dans le sens . je me sens la premiere concernee voila c est plus dans ce sens la je me sens tres concernee j ai une tres tres forte energie yang je pense que vous le savez vous l entendez dans mes podcasts etc et pourtant je me sens feminine sensuelle connectee a ma feminite j ai une forte energie yin egalement
+-------------------------------------------
+
+Line ID: 7198930065
+WER Score: 2.20
+Transcript: l un n empeche pas l autre en fait au contraire ca va ensemble et du coup c est tout ce travail a faire de comment est ce que je vais renouer avec tout ce qui me permet d assumer pleinement ma lumiere et mes talents comment est ce que je vais debroussailler comment est ce que je vais essayer de faire de virer les injonctions de faire un travail de longue qui me permette en fait de percer la croute voila le mot c est ca percer la croute
+Reference:  l un n empeche pas l autre en fait au contraire ca va ensemble et du coup c est tout ce travail a faire de comment est ce que je vais renouer avec tout ce qui me permet d assumer pleinement ma lumiere et mes talents comment est ce que je vais debroussailler comment est ce que je vais essayer de faire de virer les injonctions de faire un travail de l ombre qui me permette en fait de percer la croute voila le mot c est ca percer la croute
+-------------------------------------------
+
+Line ID: 7198953473
+WER Score: 4.92
+Transcript: je ne sais pas si c est quelque chose qui vous parle donc ca ca va passer par plein de choses ca va passer comme je vous disais par travail de l ombre ca va passer par tout le fait d accepter de desobeir aux injonctions ca va passer par le fait de se reapproprier son energie yang son cote luminosite etc
+Reference:  je sais pas si c est quelque chose qui vous parle donc ca ca va passer par plein de choses ca va passer comme je le disais par travail de l ombre ca va passer par tout le fait d accepter de desobeir aux injonctions ca va passer par le fait de se reapproprier son energie en son cote luminosite etc
+-------------------------------------------
+
+Line ID: 7198921297
+WER Score: 3.70
+Transcript: et puis ca va passer aussi par le fait d aller incarner ca dans le corps parce que parfois on comprend avec la tete mais on n arrive pas a incarner ca et le travail va devoir aussi passer par le corps en regulant votre systeme nerveux en ayant des pratiques des postures et des choses qui permettent de faire ca avec votre corps et pas avec votre tete comme ca il y a un aspect beaucoup plus somatique beaucoup moins intellectuel et beaucoup moins mental qui vous permet d incarner le truc vraiment directement dans le corps et de le vibrer tres fort
+Reference:  et puis ca va passer aussi par le fait d aller incarner ca dans le corps parce que parfois on comprend avec la tete mais on n arrive pas a incarner ca et le travail va devoir aussi passer par le corps en regulant votre systeme nerveux en ayant des pratiques des postures et des choses qui permettent en fait de faire ca avec votre corps et pas avec votre tete comme ca il y a un aspect beaucoup plus somatique beaucoup moins intellectuel et beaucoup moins mental qui vous permet en fait d incarner le truc vraiment directement dans le corps et de le vibrer tres fort
+-------------------------------------------
+
+Line ID: 7198939927
+WER Score: 4.00
+Transcript: la deuxieme etape ca va etre d aller cultiver notre energie donc pareil on ne peut pas etre a cette deuxieme etape la dans notre vie pour aller exprimer son rayonnement si on n a pas fait la premiere etape c est impossible c est comme si on vous disait vas y cultive ton energie mais en restant sous ta croute continue de repondre aux injonctions puis cultive ton energie c est impossible
+Reference:  la deuxieme etape ca va etre d aller cultiver notre energie donc pareil ca on ne peut pas etre a cette deuxieme etape la dans notre vie pour aller exprimer son rayonnement si on n a pas fait la premiere etape c est impossible c est comme si on vous disait vas y cultive ton energie mais en restant sous ta croute voila continuons de repondre aux injonctions puis cultive ton energie c est impossible
+-------------------------------------------
+
+Line ID: 7198920162
+WER Score: 0.00
+Transcript: donc c est pour ca que vraiment ces trois etapes il faut les suivre dans l ordre clairement cultiver son energie ca passe par le fait de se rendre compte de la valeur de notre energie et quand je parle de notre energie c est la valeur de qui je suis ma presence mon temps ce dans quoi je mets mon temps ce dans quoi je mets mon energie ou est ce que je depense mon energie qu est ce qui me ressource qu est ce qui me nourrit et ma souverainete
+Reference:  donc c est pour ca que vraiment ces trois etapes il faut les suivre dans l ordre clairement cultiver son energie ca passe par le fait de se rendre compte de la valeur de notre energie et quand je parle de notre energie c est la valeur de qui je suis ma presence mon temps ce dans quoi je mets mon temps ce dans quoi je mets mon energie ou est ce que je depense mon energie qu est ce qui me ressource qu est ce qui me nourrit et ma souverainete
+-------------------------------------------
+
+Line ID: 5688233633
+WER Score: 1.59
+Transcript: perso j ai toujours ete comme ca et c est pour ca que je tenais a en faire un episode et d ailleurs j ai ete surprise que ce soit un des themes pour lesquels vous avez le plus vote en story instagram parce que j aurais pas pense avoir autant d abonnes qui font egalement face a cette problematique dans la vie
+Reference:  erso j ai toujours ete comme ca et c est pour ca que je tenais a en faire un episode et d ailleurs j ai ete surprise que ce soit un des themes pour lesquels vous avez le plus vote en story instagram parce que j aurais pas pense avoir autant d abonnes qui font egalement face a cette problematique dans la vie
+-------------------------------------------
+
+Line ID: 5688226803
+WER Score: 0.00
+Transcript: mais bon comme on dit on a la communaute qui nous ressemble et je pense que c est assez vrai du coup pour vous parler de mon experience personnelle depuis petite on m a toujours rabache que j etais trop naive trop gentille que je me laissais trop faire et c etait le cas de toute maniere meme maintenant ce sont des choses un peu qu on ne dit plus mais qui me rattrapent parfois parce que meme dans ma vie d adulte j ai encore tendance a etre une people pleaser
+Reference:  mais bon comme on dit on a la communaute qui nous ressemble et je pense que c est assez vrai du coup pour vous parler de mon experience personnelle depuis petite on m a toujours rabache que j etais trop naive trop gentille que je me laissais trop faire et c etait le cas de toute maniere meme maintenant ce sont des choses un peu qu on ne dit plus mais qui me rattrapent parfois parce que meme dans ma vie d adulte j ai encore tendance a etre une people pleaser
+-------------------------------------------
+
+Line ID: 5688223810
+WER Score: 1.54
+Transcript: je parle de people pleaser parce que pour moi c est la meme chose quand on te dit que t es trop gentille c est parce que t as un comportement de people pleaser c est juste pas un terme qu on utilisait avant parce que c est un terme anglais a la base qui s est democratize petit a petit avec les reseaux sociaux
+Reference:  je parle de people pleaser parce que pour moi c est la meme chose quand on te dit que t es trop gentille c est parce que t as un comportement de people pleaser c est juste par un terme qu on utilisait avant parce que c est un terme anglais a la base qui s est democratize petit a petit avec les reseaux sociaux
+-------------------------------------------
+
+Line ID: 5688283103
+WER Score: 2.38
+Transcript: et pour ceux qui ne connaitraient pas forcement encore ce terme ca fait reference aux personnes qui ressentent un besoin profond de toujours devoir faire plaisir aux autres et qui ont du mal a se passer eux memes en priorite ils passent justement les autres avant eux tout le temps quasiment tout le temps en tout cas et au final c est souvent a ce comportement la qu on fait reference qu on dit tu te laisses trop faire t es trop gentil etc
+Reference:  et pour ceux qui ne connaitraient pas forcement encore ce terme ca fait reference aux personnes qui ressentent un besoin profond de toujours devoir faire plaisir aux autres et qui ont du mal a se passer eux memes en priorite ils passent justement les autres avant eux tout le temps quasiment tout le temps en tout cas et au final c est souvent a ce comportement la qu on fait reference quand on dit tu te laisses trop faire t es trop gentille etc
+-------------------------------------------
+
+Line ID: 5688245942
+WER Score: 7.81
+Transcript: mais deja en premier lieu concretement c est quoi etre trop gentille je me souviens que les premieres fois ou on m a dit ca et que je l ai ressenti comme quelque chose de pejoratif comme quelque chose de negatif d etre trop gentille ca m a un petit peu surprise parce qu etre gentille a la base je ne sais pas c est cense etre une qualite
+Reference:  mais deja en premier lieu concretement c est quoi etre trop gentille je me souviens que les premieres fois on m a dit ca et que je l ai ressenti comme quelque chose de pejoratif comme quelque chose de negatif d etre trop gentille ca m a un petit peu surprise parce qu etre gentille a la base c est cense etre une qualite
+-------------------------------------------
+
+Line ID: 5688232327
+WER Score: 0.00
+Transcript: et moi je pense que j en ai une totalement et avec du recul je trouve pas que ce soit negatif de l etre meme si je l ai vecu comme ca pendant une partie de ma vie parce que c est vrai que ca peut rendre certaines de nos relations compliquees parce que les personnes mal intentionnees peuvent en profiter malheureusement on peut aussi avoir tendance a plus facilement fermer les yeux sur les eventuels red flags qu ont les gens
+Reference:  et moi je pense que j en ai une totalement et avec du recul je trouve pas que ce soit negatif de l etre meme si je l ai vecu comme ca pendant une partie de ma vie parce que c est vrai que ca peut rendre certaines de nos relations compliquees parce que les personnes mal intentionnees peuvent en profiter malheureusement on peut aussi avoir tendance a plus facilement fermer les yeux sur les eventuels red flags qu ont les gens
+-------------------------------------------
+
+Line ID: 5688282778
+WER Score: 1.00
+Transcript: puisqu on est trop gentil on trouve des excuses aux autres on leur pardonne beaucoup de choses qu on ne devrait pas forcement parce que finalement on leur montre qu on accepte de se faire traiter de cette maniere ca peut aussi nous mettre dans des cercles vicieux d etre consideres comme trop gentils parce que tout laisser passer sans imposer clairement ses limites ca veut dire qu on passe le message aux autres qu on accepte de se faire traiter de cette maniere et ca leur donne l autorisation en quelque sorte de se comporter comme ca avec nous
+Reference:  puisqu on est trop gentille on trouve des excuses aux autres on leur pardonne beaucoup de choses qu on ne devrait pas forcement parce que finalement on leur montre qu on accepte de se faire traiter de cette maniere ca peut aussi nous mettre dans des cercles vicieux d etre consideres comme trop gentils parce que tout laisser passer sans imposer clairement ses limites ca veut dire qu on passe le message aux autres qu on accepte de se faire traiter de cette maniere et ca leur donne l autorisation en quelque sorte de se comporter comme ca avec nous
+-------------------------------------------
+
+Line ID: 5688254276
+WER Score: 0.00
+Transcript: ca devrait pas clairement mais malheureusement tout le monde n a pas aussi bon coeur que nous les personnes trop gentilles entre guillemets d ailleurs je me suis hyper longtemps sentie incomprise d etre comme ca je me disais que personne n etait comme moi et que la vie etait triste
+Reference:  ca devrait pas clairement mais malheureusement tout le monde n a pas aussi bon coeur que nous les personnes trop gentilles entre guillemets d ailleurs je me suis hyper longtemps sentie incomprise d etre comme ca je me disais que personne n etait comme moi et que la vie etait triste
+-------------------------------------------
+
+Line ID: 5688279417
+WER Score: 0.00
+Transcript: c est triste d avoir l impression d etre la seule a avoir ce comportement que personnellement je trouvais totalement normal et j avais l impression d etre entouree de personnes que je trouvais vraiment hyper mechants les uns avec les autres apres en vrai je parle au passe mais c est vrai que ce sont des sentiments que je ressens encore parfois a l heure actuelle
+Reference:  c est triste d avoir l impression d etre la seule a avoir ce comportement que personnellement je trouvais totalement normal et j avais l impression d etre entouree de personnes que je trouvais vraiment hyper mechants les uns avec les autres apres en vrai je parle au passe mais c est vrai que ce sont des sentiments que je ressens encore parfois a l heure actuelle
+-------------------------------------------
+
+Line ID: 5688262891
+WER Score: 1.28
+Transcript: et meme sans ca si vous ressentez que vous avez du mal a dire non a certaines personnes que ce soit des personnes proches de vous ou non que vous avez du mal aussi a mettre vos besoins personnels en priorite que vous avez du mal a fixer vos limites avec les autres que vous avez tendance a beaucoup vous excuser pour tout et pour rien vous etes dans la team des personnes trop gentilles les people pleasers
+Reference:  et meme sans ca si vous ressentez que vous avez du mal a dire non a certaines personnes que ce soit des personnes proches de vous ou non que vous avez du mal aussi a mettre vos besoins personnels en priorite que vous avez du mal a fixer vos limites avec les autres que vous avez tendance a beaucoup vous excuser pour tout et pour rien vous etes dans la team des personnes trop gentilles les people pleaser
+-------------------------------------------
+
+Line ID: 5688244184
+WER Score: 1.49
+Transcript: deja un truc que je tiens a vous dire a toutes les personnes concernees et que j aurais aussi dit a l ancienne moi d avant c est qu il faut absolument pas se sentir mal a propos de ca je pense que c est meme un cadeau de la vie d etre comme ca pour moi etre comme ca c est juste avoir un coeur pur humain
+Reference:  deja un truc que je tiens a vous dire a toutes les personnes concernees et que j aurais aussi dit a l ancienne moi d avant c est qu il faut absolument pas se sentir mal a propos de ca je pense que c est meme un cadeau de la vie d etre comme ca pour moi etre comme ca c est juste avoir un coeur pur
+-------------------------------------------
+
+Line ID: 5688276973
+WER Score: 0.96
+Transcript: et c est dommage qu on soit pas tous comme ca d ailleurs sur cette terre parce que je pense que le monde se porterait bien bien mieux et meme malgre le fait que ca puisse facilement nous attirer des personnes toxiques des personnes qui vont profiter de nous et le fait qu on accorde moins d importance a nous ecouter nous memes alors que c est quelque chose de totalement primordial dans la vie bah pour moi c est quand meme surtout positif d etre trop gentil et je vous dis ca alors qu avant je pensais pas du tout comme ca
+Reference:  et c est dommage qu on soit pas tous comme ca d ailleurs sur cette terre parce que je pense que le monde se porterait bien bien mieux et meme malgre le fait que ca puisse facilement nous attirer des personnes toxiques des personnes qui vont profiter de nous et le fait qu on accorde moins d importance a nous ecouter nous memes alors que c est quelque chose de totalement primordial dans la vie bah pour moi c est quand meme surtout positif d etre trop gentil et je vous dis ca alors qu avant je ne pensais pas du tout comme ca
+-------------------------------------------
+
+Line ID: 5688259718
+WER Score: 1.52
+Transcript: vraiment je m en voulais d etre comme ca je me trouvais faible vraiment j ai pardonne des choses dans ma vie a cause de ca c est honteux j ai pardonne a mon ex le fait qu il drague un tas de filles et que toutes les filles le savaient et qu au lycee tout le monde le savait j ai toujours toujours pardonne
+Reference:  vraiment je m en voulais d etre comme ca je me trouvais faible vraiment j ai pardonne des choses dans ma vie a cause de ca c est honteux j ai pardonne a mon ex le fait qu il drague un tas de filles et que toutes les filles le savaient et qu au lycee tout le monde le savait bah j ai toujours toujours pardonne
+-------------------------------------------
+
+Line ID: 5688242949
+WER Score: 8.91
+Transcript: a chaque fois qu on me faisait des crasses meme mes copines etc je partais donner tout le temps tout le temps d ailleurs ca m a valu aussi le fait d etre vraiment le bouc emissaire dans toutes les histoires de filles a chaque fois au college vous savez un peu quand il y a des embrouilles de gamines mais des embrouilles de groupe genre contre une personne parmi toutes mes copines c etait toujours moi que les filles harceleuses allaient voir en premier parce qu elles savaient tres bien que je ne savais pas me defendre que je n allais pas repliquer
+Reference:  a chaque fois qu on faisait des crasses meme mes copines etc je pardonnais tout le temps tout le temps d ailleurs ca m a valu aussi le fait d etre vraiment le book emissaire dans toutes les histoires de filles a chaque fois au college vous savez un peu quand il y a des embrouilles de gamine mais des embrouilles de groupe genre contre une personne bah parmi toutes mes copines c etait toujours moi que les filles harceleuses allaient voir en premier parce qu elles savaient tres bien que je savais pas me defendre que j allais pas repliquer
+-------------------------------------------
+
+Line ID: 5688274173
+WER Score: 0.00
+Transcript: j ai jamais insulte quelqu un face a face comme ca j ai jamais leve la main sur quelqu un donc j etais obligee en fait d avoir des copines qui me protegeaient entre guillemets parce que j arrivais pas a me defendre toute seule quand j etais petite d ailleurs heureusement que j ai jamais vecu de bagarre parce que j aurais direct perdu c est sur
+Reference:  j ai jamais insulte quelqu un face a face comme ca j ai jamais leve la main sur quelqu un donc j etais obligee en fait d avoir des copines qui me protegeaient entre guillemets parce que j arrivais pas a me defendre toute seule quand j etais petite d ailleurs heureusement que j ai jamais vecu de bagarre parce que j aurais direct perdu c est sur
+-------------------------------------------
+
+Line ID: 5688271048
+WER Score: 5.95
+Transcript: je pense aussi que si je n avais pas ete percue comme la fille trop gentille il y a de grandes grandes chances que je ne me sois pas faite harceler au lycee parce qu encore une fois tout le monde savait que je n ai rien peu importe ce qu on me fait subir donc forcement pour ces raisons la j ai deteste le fait d etre comme ca pendant vraiment longtemps mais au final c est surtout dur quand on est mal entoure je pense
+Reference:  je pense aussi que si j avais pas ete percue comme la fille trop gentille il y a de grandes grandes chances que je me sois pas faite harceler au lycee parce qu encore une fois tout le monde savait que je gerais rien peu importe ce qu on me fait subir donc forcement pour ces raisons la j ai deteste le fait d etre comme ca pendant vraiment longtemps mais au final c est surtout dur quand on est mal entoure je pense
+-------------------------------------------
+
+Line ID: 5688235954
+WER Score: 2.47
+Transcript: apres je dis ca mais evidemment c est pas si simple a faire mais on va en parler un petit peu plus tard dans le podcast mais dans tous les cas le fait d etre entouree de meilleures personnes dans le sens ou personnellement maintenant je suis entouree que de personnes bienveillantes qui font attention a mes besoins avec qui je me sens pas obligee de m ecraser tout le temps ca m a fait vraiment changer ma perspective des choses
+Reference:  apres je dis ca mais evidemment c est pas si simple a faire mais on va en parler un petit peu plus tard dans le podcast mais dans tous les cas le fait d etre entoure de meilleures personnes dans le sens ou personnellement maintenant je suis entoure que de personnes bienveillantes qui font attention a mes besoins avec qui je me sens pas obligee de m ecraser tout le temps ca m a fait vraiment changer ma perspective des choses
+-------------------------------------------
+
+Line ID: 5688224975
+WER Score: 1.25
+Transcript: le fait que j ai grandi forcement aussi le fait que j ai evolue aussi mais en tout cas la ou je voulais en venir des le debut c est que vraiment c est loin d etre un defaut d etre comme ca alors il faut faire evidemment doublement attention a qui on donne notre attention a qui on autorise d etre dans notre intimite parce qu on est oblige de se proteger seul quand on est comme ca
+Reference:  le fait que j ai grandi forcement aussi et le fait que j ai evolue aussi mais en tout cas la ou je voulais en venir des le debut c est que vraiment c est loin d etre un defaut d etre comme ca alors il faut faire evidemment doublement attention a qui on donne notre attention a qui on autorise d etre dans notre intimite parce qu on est oblige de se proteger seul quand on est comme ca
+-------------------------------------------
+
+Line ID: 5688242287
+WER Score: 0.00
+Transcript: et je vous expliquerai a la fin de l episode comment mieux s entourer quand on a tendance a etre trop gentil mais sinon je vous jure que c est quelque chose qui est surtout surtout positif en fait je me dis maintenant qu etre aussi gentil ca fait partie de moi depuis toujours ca fait partie de qui je suis et a aucun moment je veux effacer qui je suis donc je reste trop gentil et c est pas grave
+Reference:  et je vous expliquerai a la fin de l episode comment mieux s entourer quand on a tendance a etre trop gentil mais sinon je vous jure que c est quelque chose qui est surtout surtout positif en fait je me dis maintenant qu etre aussi gentil ca fait partie de moi depuis toujours ca fait partie de qui je suis et a aucun moment je veux effacer qui je suis donc je reste trop gentil et c est pas grave
+-------------------------------------------
+
+Line ID: 5688234937
+WER Score: 4.17
+Transcript: perso j ai decide de garder un bon coeur peu importe ce qu on me fait subir parce qu il y a d autres gens qui sont comme ca aussi dans la vie j ai pu en rencontrer et il merite aussi d avoir des gens comme ca et de pouvoir frequenter des gens comme ca vous imaginez si toutes les personnes gentilles qui vivent des choses elles deviennent toutes mechantes
+Reference:  perso j ai decide de garder un bon coeur peu importe ce qu on me fait subir parce qu il y a d autres gens qui sont comme ca aussi dans la vie j ai pu en rencontrer et ils meritent eux aussi d avoir des gens comme ca et de pouvoir frequenter des gens comme ca vous imaginez si toutes les personnes gentilles qui vivent des choses elles deviennent toutes mechantes
+-------------------------------------------
+
+Line ID: 5688279185
+WER Score: 4.05
+Transcript: mais ce serait pas possible et ce serait dommage perso je trouve ca courageux meme de rester gentil quand on nous a fait des crasses quand on a souffert et surtout de l assumer aux yeux des autres parce que c est quand meme considere comme de la vulnerabilite parfois il y en a beaucoup qui se donnent un air froid mechant tout ca pour se mettre une sorte de carapace
+Reference:  mais ce serait pas possible et ce serait dommage perso je trouve ca courageux meme de rester gentil quand on nous a fait des crasses quand on a souffert parce que et surtout de l assumer aux yeux des autres parce que c est quand meme considere comme de la vulnerabilite parfois il y en a beaucoup qui se donnent a un air froid mechant tout ca pour se mettre une sorte de carapace
+-------------------------------------------
+
+Line ID: 5688229220
+WER Score: 4.00
+Transcript: je sais pas si vous l avez vecu aussi je pense pas etre la seule mais est ce que vous avez deja eu l occasion de rencontrer quelqu un qui avait l air d etre mechant en apparence et en creusant finalement vous avez decouvert que c etait quelqu un d adorable et de meme sensible bah au final ces personnes la elles sont comme nous mais c est juste qu elles ont decide de se proteger de se mettre une carapace parce qu elles ont peur d avoir cette image vulnerable et fragile entre guillemets donc elles se protegent
+Reference:  je sais pas si vous l avez vecu aussi je pense pas etre la seule mais est ce que vous avez deja eu l occasion de rencontrer quelqu un qui avait l air d etre mechant en apparence et en creusant finalement vous avez decouvert que c etait quelqu un d adorable et d eux memes sensibles au final ces personnes la elles sont comme nous mais c est juste qu elles ont decide de se proteger de se mettre une carapace parce qu elles ont peur d avoir cette image vulnerable et fragile entre guillemets donc elles se protegent
+-------------------------------------------
+
+Line ID: 5688226959
+WER Score: 3.57
+Transcript: mais je pense que si tu fais ca malheureusement tu peux pas t assumer pleinement et donc te sentir vraiment 100% bien avec toi meme 100% authentique puisque c est se donner une fausse image de faire ca on peut pas etre pleinement heureux en montrant une identite qu on n est pas vraiment
+Reference:  mais je pense que si tu fais ca malheureusement tu ne peux pas t assumer pleinement et donc te sentir vraiment 100% bien avec toi meme 100% authentique puisque c est se donner une fausse image de faire ca on ne peut pas etre pleinement heureux en montrant une identite qu on n est pas vraiment
+-------------------------------------------
+
+Line ID: 5688279161
+WER Score: 1.96
+Transcript: en tout cas perso je trouve que vraiment les personnes qui restent trop gentillees et qui continuent de l assumer alors qu elles ont vecu des choses pas forcement faciles c est une des choses les plus belles et les plus pures qu on peut faire en tant qu humain ca veut dire qu on choisit le camp du bien le camp du positif et de l amour et tant mieux parce que c est le bon chemin je pense pour connaitre la serenite la paix le bonheur tel qu on le recherche toute notre vie et tous finalement dans cette vie
+Reference:  en tout cas perso je trouve que vraiment les personnes qui restent trop gentilees et qui continuent de l assumer alors qu elles ont vecu des choses pas forcement faciles c est une des choses les plus belles et les plus pures qu on peut faire en tant qu humain ca veut dire qu on choisit le camp du bien le camp du positif et de l amour et tant mieux parce que c est le bon chemin je pense pour connaitre la serenite la paix le bonheur telle qu on le recherche toute notre vie et tous finalement dans cette vie
+-------------------------------------------
+
+Line ID: 5688273032
+WER Score: 1.12
+Transcript: puisque quand on est comme ca c est qu on agit toujours de facon bienveillante dans tous les cas donc pourquoi se sentir mal quand on sait qu on est une bonne personne qui essaie toujours de repandre le bien autour de soi certes ca n empeche pas le fait qu on puisse tout de meme faire des erreurs parfois mais en general quand on est trop gentil on le reconnait et on n aura jamais a culpabiliser de quelque chose qu on a voulu faire avec le coeur
+Reference:  puisque quand on est comme ca c est qu on agit toujours de facon bienveillante dans tous les cas donc pourquoi se sentir mal quand on sait qu on est une bonne personne qui essaie toujours de repondre le bien autour de soi certes ca n empeche pas le fait qu on puisse tout de meme faire des erreurs parfois mais en general quand on est trop gentil on le reconnait et on n aura jamais a culpabiliser de quelque chose qu on a voulu faire avec le coeur
+-------------------------------------------
+
+Line ID: 5688284905
+WER Score: 1.67
+Transcript: sachez bien d ailleurs que les personnes qui vous font culpabiliser quand vous avez pense faire quelque chose de bien ce sont surtout des personnes mauvaises pour vous mais ca on va en reparler apres un petit peu plus tard dans le podcast en tant que personne trop gentille on peut aussi apporter du positif dans la vie des gens
+Reference:  sachez bien d ailleurs que les personnes qui vous font culpabiliser quand vous avez pense faire quelque chose de bien ce sont surtout des personnes mauvaises pour vous mais ca on va en parler apres un petit peu plus tard dans le podcast en tant que personne trop gentille on peut aussi apporter du positif dans la vie des gens
+-------------------------------------------
+
+Line ID: 5688227456
+WER Score: 0.89
+Transcript: c est genial de pouvoir provoquer aussi enfin quand je me dis que moi aussi je peux provoquer cette emotion chez quelqu un d autre quand on me rencontre bah je sais pas je trouve ca genial de pouvoir provoquer ca chez quelqu un et d etre en capacite de repandre de la gentillesse de l amour tout le temps quand on est trop gentil et qu on sait bien s entourer aussi on apprend la faculte de s attirer d autres personnes qui sont comme nous et ca nous donne l avantage de s attirer des personnes qui ont un coeur pur d avoir un entourage rempli de personnes au coeur pur
+Reference:  c est genial de pouvoir provoquer aussi quand je me dis que moi aussi je peux provoquer cette emotion chez quelqu un d autre quand on me rencontre bah je sais pas je trouve ca genial de pouvoir provoquer ca chez quelqu un et d etre en capacite de repandre de la gentillesse de l amour tout le temps quand on est trop gentil et qu on sait bien s entourer aussi on apprend la faculte de s attirer d autres personnes qui sont comme nous et ca nous donne l avantage de s attirer des personnes qui ont un coeur pur d avoir un entourage rempli de personnes au coeur pur
+-------------------------------------------
+
+Line ID: 5688282154
+WER Score: 0.00
+Transcript: moi franchement a l heure actuelle c est ce que je pense et je pense que je me suis attiree ca toute seule parce que je suis une personne comme ca a la base vraiment le truc que j aime par rapport a ca c est que par exemple j ai l impression en tout cas qu on fait assez vite confiance qu on se sent facilement en safe place avec moi et les gens ont tendance a facilement etre a l aise avec moi et je trouve que c est un gros gros atout dans la vie en vrai
+Reference:  moi franchement a l heure actuelle c est ce que je pense et je pense que je me suis attiree ca toute seule parce que je suis une personne comme ca a la base vraiment le truc que j aime par rapport a ca c est que par exemple j ai l impression en tout cas qu on fait assez vite confiance qu on se sent facilement en safe place avec moi et les gens ont tendance a facilement etre a l aise avec moi et je trouve que c est un gros gros atout dans la vie en vrai
+-------------------------------------------
+
+Line ID: 5688246313
+WER Score: 0.00
+Transcript: perso ca me donne du bonheur c est une source de bonheur facile a atteindre parce que en etant comme ca j adore aider les autres donc ca m arrive souvent d etre dans ce genre de situation et de pouvoir aider d autres personnes et ca nourrit des sentiments positifs en moi super facilement clairement c est quelque chose qui contribue a mon bonheur tous les jours et c est quelque chose qui est facilement accessible et qui fait juste du bien
+Reference:  perso ca me donne du bonheur c est une source de bonheur facile a atteindre parce que en etant comme ca j adore aider les autres donc ca m arrive souvent d etre dans ce genre de situation et de pouvoir aider d autres personnes et ca nourrit des sentiments positifs en moi super facilement clairement c est quelque chose qui contribue a mon bonheur tous les jours et c est quelque chose qui est facilement accessible et qui fait juste du bien
+-------------------------------------------
+
+Line ID: 5688211126
+WER Score: 2.99
+Transcript: donc je sais pas je trouve ca mega positif et puis en vrai desolee mais meme au dela de tout ca au moins on peut se dire qu on contribue meme a une petite echelle a ce que le monde soit meilleur tous les jours il y a deja assez de gens mechants pour qu on choisisse nous aussi d aller dans le camp des mechants
+Reference:  donc je ne sais pas je trouve ca mega positif et puis en vrai desole mais meme au dela de tout ca au moins on peut se dire qu on contribue meme a une petite echelle a ce que le monde soit meilleur tous les jours il y a deja assez de gens mechants pour qu on choisisse nous aussi d aller dans le camp des mechants
+-------------------------------------------
+
+Line ID: 5688295167
+WER Score: 0.00
+Transcript: et perso je suis vraiment fiere de ca et de choisir tous les jours de faire partie des energies positives qu il y a sur cette terre au final quand on regarde bien en fait les seules choses negatives qui arrivent quand on est trop gentil c est jamais a cause de nous memes mais toujours a cause des personnes mauvaises malsaines ou meme betes parfois tout le negatif qui ressort du fait d etre trop gentil il vient jamais de nous memes toujours des autres
+Reference:  et perso je suis vraiment fiere de ca et de choisir tous les jours de faire partie des energies positives qu il y a sur cette terre au final quand on regarde bien en fait les seules choses negatives qui arrivent quand on est trop gentil c est jamais a cause de nous memes mais toujours a cause des personnes mauvaises malsaines ou meme betes parfois tout le negatif qui ressort du fait d etre trop gentil il vient jamais de nous memes toujours des autres
+-------------------------------------------
+
+Line ID: 5688287027
+WER Score: 1.04
+Transcript: donc c est pour ca aussi qu on n a pas a se sentir mal nous alors que ce sont les comportements des autres le probleme dans le fait que nous soyons trop gentils donc pour repondre a une question qu on m a beaucoup posee par rapport a ce theme la parce que comme d habitude j ai mis ma petite foire aux questions dans ma story avant de faire le podcast et j y m y attendais mais on m a beaucoup demande comment on fait pour changer pour arreter d etre trop gentils
+Reference:  donc c est pour ca aussi qu on n a pas a se sentir mal nous alors que ce sont les comportements des autres le probleme dans le fait que nous soyons trop gentils donc pour repondre a une question qu on m a beaucoup posee par rapport a ce theme la parce que comme d habitude j ai mis ma petite foire aux questions dans ma story avant de faire le podcast et j y m y attendais mais on m a beaucoup demande comment on fait pour changer pour arreter d etre trop gentil
+-------------------------------------------
+
+Line ID: 5688246275
+WER Score: 0.00
+Transcript: je pense qu il ne faut pas changer votre nature de personne trop gentille mais ce qu il faut faire par contre c est apprendre a se proteger et pour apprendre a se proteger il faut apprendre a se mettre des limites apprendre a dire non quand vous en ressentez le besoin
+Reference:  je pense qu il ne faut pas changer votre nature de personne trop gentille mais ce qu il faut faire par contre c est apprendre a se proteger et pour apprendre a se proteger il faut apprendre a se mettre des limites apprendre a dire non quand vous en ressentez le besoin
+-------------------------------------------
+
+Line ID: 5688260243
+WER Score: 3.28
+Transcript: et ca vraiment comment on le fait et c est la que ca devient un petit peu plus complique parce que vous allez forcement devoir vous mettre dans des situations un peu inconfortables mais je vous jure qu a force de vous forcer ca va forcement devenir de plus en plus facile pour vous et on va commencer par le commencement
+Reference:  et ca vraiment comme on le fait et c est la que ca devient un petit peu plus complique parce que vous allez forcement devoir vous mettre dans des situations un peu inconfortables mais je vous jure que a force de vous forcer ca va forcement devenir de plus en plus facile pour vous et on va commencer par le commencement
+-------------------------------------------
+
+Line ID: 5688268974
+WER Score: 0.00
+Transcript: mais deja pour mieux savoir comment le faire c est important de comprendre d ou ca peut venir ce fait d etre trop gentil tout le temps deja comme d habitude en psychologie ca peut etre le fait qu on ait ete habitue en etant enfant a faire passer les besoins de nos parents avant les notres ca peut etre le fait aussi qu on ait besoin de la validation des autres sans arret
+Reference:  mais deja pour mieux savoir comment le faire c est important de comprendre d ou ca peut venir ce fait d etre trop gentil tout le temps deja comme d habitude en psychologie ca peut etre le fait qu on ait ete habitue en etant enfant a faire passer les besoins de nos parents avant les notres ca peut etre le fait aussi qu on ait besoin de la validation des autres sans arret
+-------------------------------------------
+
+Line ID: 5688220593
+WER Score: 0.00
+Transcript: dans ce cas la le fait de dire oui a tout c est une facon de se faire aimer par tout le monde et ca veut dire surtout qu on a besoin d apprendre a s aimer soi meme parce qu on base trop notre valeur sur l opinion des autres ca peut aussi etre le fait de vouloir eviter toute possibilite de conflit perso
+Reference:  dans ce cas la le fait de dire oui a tout c est une facon de se faire aimer par tout le monde et ca veut dire surtout qu on a besoin d apprendre a s aimer soi meme parce qu on base trop notre valeur sur l opinion des autres ca peut aussi etre le fait de vouloir eviter toute possibilite de conflit perso
+-------------------------------------------
+
+Line ID: 5688294672
+WER Score: 3.45
+Transcript: je suis un peu comme ca j ai une phobie des embruts donc il y a des choses que j ose pas forcement dire a cause de cette peur la sauf qu avec le temps en fait j ai compris que les seules personnes qui peuvent m en vouloir parce que je leur ai fait part de mes besoins qui comprennent pas que je puisse me passer moi avant eux quand je ressens le besoin ce sont des personnes nefastes pour moi et qui veulent pas forcement mon bien
+Reference:  je suis un peu comme ca j ai une phobie des embrus donc il y a des choses que j ose pas forcement dire a cause de cette peur la sauf qu avec le temps j ai compris que les seules personnes qui peuvent m en vouloir parce que je leur ai fait part de mes besoins qui comprennent pas que je puisse me passer moi avant eux quand je ressens le besoin ce sont des personnes nefastes pour moi et qui veulent pas forcement mon bien
+-------------------------------------------
+
+Line ID: 5688285357
+WER Score: 1.35
+Transcript: parce que je suis desolee mais si une personne t aime te respecte et veut ton bien elle va comprendre s il y a quelque chose que tu veux pas faire parce que ca te met dans une situation inconfortable vraiment en fait quand on est comme ca il faut a tout prix eviter les personnes narcissiques ce sont elles vraiment qui peuvent vous drainer toute votre energie et vous faire le plus de mal
+Reference:  parce que je suis desolee mais si une personne t aime te respecte et veut ton bien elle va comprendre s il y a quelque chose que tu veux pas faire parce que ca te met dans une situation inconfortable vraiment en fait quand on est comme ca faut a tout prix eviter les personnes narcissiques ce sont elles vraiment qui peuvent vous drainer toute votre energie et vous faire le plus de mal
+-------------------------------------------
+
+Line ID: 5688276583
+WER Score: 7.25
+Transcript: j ai vecu ca perso justement encore avec mon ancienne meilleure amie et ca tombe bien puisque ma psy m avait dit qu elle avait surement un background narcissique donc avec les annees je comprends mieux mais il fallait toujours que j aille dans son sens des que quelque chose lui deplaisait elle me rabaissait a chaque fois je me sentais mal a chaque fois je culpabilisais
+Reference:  j ai vecu ca perso justement encore avec mon ancienne meilleure amie et ca tombe bien puisque ma psy m avait dit qu elle avait surement un background narcissique donc avec les annees je comprends mieux mais il fallait toujours que j aille dans son sens des que quelque chose lui deplaissait elle m aura baisse a chaque fois je me sentais mal a chaque fois je le culpabilisais
+-------------------------------------------
+
+Line ID: 5688220316
+WER Score: 2.13
+Transcript: donc ces personnes la qui ont ces tendances narcissiques elles peuvent avoir tendance a etre facilement attirees par des personnes qu elles trouvent trop gentilles et qui sont vues comme trop gentilles par la societe parce qu elles savent que ces personnes qui sont trop gentilles elles vont les traiter comme elles aimeraient que tout le monde les traite et d ailleurs je ne sais pas si vous l avez vecu aussi mais ce genre de personnes elles ne se comportent pas comme ca avec tout le monde seulement avec les personnes trop gentilles comme nous
+Reference:  donc ces personnes la qui ont ces tendances narcissiques elles peuvent avoir tendance a etre facilement attirees par des personnes qu elles trouvent trop gentilles et qui sont vues comme trop gentilles par la societe parce qu elles savent que ces personnes qui sont trop gentilles elles vont les traiter comme elles aimeraient que tout le monde les traite et d ailleurs je sais pas si vous l avez vecu aussi mais ce genre de personnes elles se comportent pas comme ca avec tout le monde seulement avec les personnes trop gentilles comme nous
+-------------------------------------------
+
+Line ID: 5688213534
+WER Score: 3.08
+Transcript: et qu avec d autres personnes elles ne se comportent pas comme ca parce que vous vous etes trop gentilles et qu avec les autres ca ne passerait pas forcement ca c est un gros red flag deja et en plus c est marrant parce qu avec ces personnes la quand tu commences a vouloir t imposer quand tu commences a avoir des limites des besoins etc
+Reference:  et qu avec d autres personnes elles se comportent pas comme ca parce que vous vous etes trop gentilles et qu avec les autres ca passerait pas forcement ca c est un gros red flag deja et en plus c est marrant parce qu avec ces personnes la quand tu commences a vouloir t imposer quand tu commences a avoir des limites des besoins etc
+-------------------------------------------
+
+Line ID: 5688220664
+WER Score: 4.65
+Transcript: est ce que vous les mettez sur un piedestal tout le temps et que ca gonfle leur ego narcissique quoi vraiment je vous jure ces personnes la si vous etes trop gentils fuyez les comme la peste c est vraiment un gros red flag de juste vouloir exprimer tes besoins gentiment surtout respectueusement et de te faire rembarrer rabaisser tout ca parce que ca met plus la personne dans la situation avantageuse dans laquelle ca la mettait avant que tu decides toi de te passer en priorite
+Reference:  parce que vous les mettez sur un pedestal tout le temps et que ca gonfle leur ego narcissique quoi vraiment je vous jure ces personnes la si vous etes trop gentils fiez les comme la peste c est vraiment un gros red flag de juste vouloir exprimer tes besoins gentiment surtout respectueusement et de te faire rembarrer rabaisser tout ca parce que ca met plus la personne dans la situation avantageuse dans laquelle ca la mettait avant que tu decides toi de te passer en priorite
+-------------------------------------------
+
+Line ID: 5688290295
+WER Score: 1.28
+Transcript: en vrai je dis ca mais je sais que c est pas facile de sortir de ce genre de situation mais le jour ou tu vas avoir le declic a force de travailler sur toi meme je te jure que ca va se faire naturellement la personne en fait qui te traite comme ca a force que tu apprennes a t aimer elle va juste tout simplement te degouter et tu la voudras plus dans ta vie
+Reference:  en vrai je dis ca mais je sais que c est pas facile de sortir de ce genre de situation mais le jour ou tu vas avoir le declic a force de travailler sur toi meme je te jure que ca va se faire naturellement la personne en fait qui te traite comme ca a force que tu apprennes a t aimer elle va juste tout simplement te degouter et tu ne la voudras plus dans ta vie
+-------------------------------------------
+
+Line ID: 5688271704
+WER Score: 3.51
+Transcript: et vraiment tu vas reussir a t en separer vraiment naturellement je vous jure que quand on s estime et qu on s aime les personnes qui ne nous traitent pas vraiment comme on le merite elles nous degoutent tout simplement et le tri des bonnes personnes et des mauvaises personnes se fait naturellement en fait avec le temps
+Reference:  et vraiment tu vas reussir a t en separer vraiment naturellement je vous jure que quand on s estime et qu on s aime les personnes qui ne nous traitent pas vraiment comme on le merite elles nous degoutent tout simplement et le tri des bonnes personnes et des mauvaises personnes se fait naturellement avec le temps
+-------------------------------------------
+
+Line ID: 5688223884
+WER Score: 1.85
+Transcript: bon revenons en aux deux questions qu on m a le plus posees par rapport a ce theme la c est vraiment du coup comment apprendre a dire non et comment arreter d etre trop gentille c est bete mais je pense que vous allez vous reconnaitre peut etre un petit peu la dedans
+Reference:  bon revenons en aux deux questions qu on m a le plus posees par rapport a ce theme la c est vraiment du coup comment apprendre a dire non et comment arreter d etre trop gentil c est bete mais je pense que vous allez vous reconnaitre peut etre un petit peu la dedans
+-------------------------------------------
+
+Line ID: 5688212910
+WER Score: 3.85
+Transcript: mais perso meme dire non aux vendeurs dans la rue c est difficile pour moi par exemple donc ce ne sont pas des questions faciles auxquelles repondre meme pour moi et ce n est pas forcement facile non plus d apprendre a se mettre nos propres limites pour se faire respecter je trouve
+Reference:  mais perso meme dire non aux vendeurs dans la rue c est difficile pour moi par exemple donc ce ne sont pas des questions faciles auxquelles repondre meme pour moi et c est pas forcement facile non plus d apprendre a se mettre nos propres limites pour se faire respecter je trouve
+-------------------------------------------
+
+Line ID: 5688273759
+WER Score: 1.33
+Transcript: mais c est vrai qu il y a plein de choses qui ont fonctionne pour moi et j estime quand meme avoir bien avance dans mon cheminement de people pleaser je ne le suis presque plus on va dire mais en tout cas la premiere etape par laquelle je suis passee c est d abord de prendre conscience que d apprendre a ecouter mes limites et mes besoins c est avant tout prendre soin de moi
+Reference:  mais c est vrai qu il y a plein de choses qui ont fonctionne pour moi et j estime quand meme avoir bien avance dans mon cheminement de people pleaser je le suis presque plus on va dire mais en tout cas la premiere etape par laquelle je suis passee c est d abord de prendre conscience que d apprendre a ecouter mes limites et mes besoins c est avant tout prendre soin de moi
+-------------------------------------------
+
+Line ID: 5688244906
+WER Score: 0.00
+Transcript: c est pas forcement etre mechante c est pas etre egoiste c est juste normal de se passer en priorite en fait il y a une difference entre ecouter ses besoins et ne plus ecouter ceux des autres tu peux tres bien ecouter tes besoins personnels et tes limites sans forcement ne plus du tout penser aux besoins des personnes autour de toi
+Reference:  c est pas forcement etre mechante c est pas etre egoiste c est juste normal de se passer en priorite en fait il y a une difference entre ecouter ses besoins et ne plus ecouter ceux des autres tu peux tres bien ecouter tes besoins personnels et tes limites sans forcement ne plus du tout penser aux besoins des personnes autour de toi
+-------------------------------------------
+
+Line ID: 5688281518
+WER Score: 1.28
+Transcript: la ca deviendrait egoiste c est vrai si t ecoutes plus du tout les autres et ce que je veux dire par le fait d apprendre a s ecouter c est de ne pas se mettre dans des situations vraiment inconfortables pour d autres personnes par exemple si tu te sens tres fatiguee et stressee mais que tes amis elles insistent grave pour que vous sortiez en boite ce soir si tu le sens quand meme vas y
+Reference:  la ca deviendrait egoiste c est vrai si t ecoutes plus du tout les autres et ce que je veux dire par le fait d apprendre a s ecouter c est de ne pas se mettre dans des situations vraiment inconfortables pour d autres personnes par exemple si tu te sens tres fatiguee et stressee mais que tes amies elles insistent grave pour que vous sortiez en boite ce soir si tu le sens quand meme vas y
+-------------------------------------------
+
+Line ID: 5688284252
+WER Score: 0.00
+Transcript: mais si tu sens que tu dois te forcer juste pour leur faire plaisir et pour avoir leur validation et rien d autre priorise toi et prends soin de toi dans ces moments la vraiment ca peut paraitre bete pour ceux qui ne le vivent pas mais perso meme juste dire non a une part de gateau alors que j en ai juste pas envie je ne le faisais pas avant
+Reference:  mais si tu sens que tu dois te forcer juste pour leur faire plaisir et pour avoir leur validation et rien d autre priorise toi et prends soin de toi dans ces moments la vraiment ca peut paraitre bete pour ceux qui ne le vivent pas mais perso meme juste dire non a une part de gateau alors que j en ai juste pas envie je ne le faisais pas avant
+-------------------------------------------
+
+Final WER Score: 3.67

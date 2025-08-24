@@ -1,0 +1,1233 @@
+1.7241379310344827
+line_id 6977032515
+transcript norm:  journaliste entrepreneuse culturelle slameuse elle cree et dirige le premier center de danse urbaine au senegal a son retour apres des etudes a l ecole des medias de lucan fille unique elevee par une mere celibataire elle decide de faire des etudes de journalisme afin de denoncer les injustices qu elle voyait dans sa famille et son entourage
+ref norm:         journaliste entrepreneuse culturelle slameuse elle cree et dirige le premier center de danse urbaine au senegal a son retour apres des etudes a l ecole des medias de lucam fille unique elevee par une mere celibataire elle decide de faire des etudes de journalisme afin de denoncer les injustices qu elle voyait dans sa famille et son entourage
+
+ ------------------------------------------- 
+
+18.181818181818183
+line_id 6977041454
+transcript norm:  nous nous y devons cosmar damp coconer emission radio d abord podcast sur sud fm qui tous les jeudis et durant quatre saisons a traite de sujets d entrepreneuriat sans filtre et sans tabou
+ref norm:         nous lui devons cauchemar d entrepreneur emission radio d abord podcast sur sud fm qui tous les jeudis et durant quatre saisons a traite de sujets d entrepreneuriat sans filtre et sans tableau
+
+ ------------------------------------------- 
+
+12.5
+line_id 6977022256
+transcript norm:  70 episodes plus tard cosmardone copreneur tire sa reverence celle qui se definit comme et je la cite femme africaine millenieuse avec trop de passion ayant comme seul talent de vouloir etre utile a la societe a travers celle ci poursuivre l eternite en saisissant le present permettre a la grandeur du monde de realiser ses reves uniquement grace au travail acharne a la pleine conscience a la positivite et a la solidarite
+ref norm:         70 episodes plus tard cauchemar d entrepreneur tire sa reverence celle qui se definit comme et je la cite femme africaine millenials avec trop de passion ayant comme seul talent de vouloir etre utile a la societe a travers celle ci poursuivre l eternite en saisissant le present permettre a la grandeur du monde de realiser ses reves uniquement grace au travail acharne a la pleine conscience a la positivite et a la solidarite mariama toure bienvenue dans conversations feminines
+
+ ------------------------------------------- 
+
+3.9215686274509802
+line_id 6977025049
+transcript norm:  je suis aussi heureuse parce que c est important pour moi c est important pour moi de montrer ce respect la et cet egard la a chacune de mes invitees parce que vous le validez toutes et je pense que c est important qu on se dise des choses comme ca
+ref norm:         je suis aussi heureuse parce que c est important pour moi c est important pour moi de montrer ce respect la et cet egard la a chacune de mes invites parce que vous le valez toutes et je pense que c est important qu on se dise des choses comme ca
+
+ ------------------------------------------- 
+
+8.51063829787234
+line_id 2670113871
+transcript norm:  c est toujours en fait je pense a un emouvoir lorsque la personne prend le temps lorsqu une personne en face prend le temps de nous regarder pas juste de nous voir de nous regarder comprendre les differences les couches qu il peut y avoir a une personne
+ref norm:         c est toujours en fait je pense emouvant lorsque la personne prend le temps lorsqu une personne en face prend le temps de nous regarder pas juste de nous voir de nous regarder pour comprendre les differences les couches qu il peut y avoir a une personne
+
+ ------------------------------------------- 
+
+1.4492753623188406
+line_id 2670123666
+transcript norm:  petite anecdote meme en etant malade a partir du moment ou je ne peux pas blouser j ai l impression d etre en prison donc il me faut bouger mais c est aussi au dela de ca une capacite qui a ete apprise je ne sais pas mais a tres rapidement regarder autour de moi et a me dire mais il y a des gens qui sont comme moi
+ref norm:         petite anecdote meme en etant malade a partir du moment ou je ne peux pas bouger j ai l impression d etre en prison donc il me faut bouger mais c est aussi au dela de ca une capacite qui a ete apprise je ne sais pas mais a tres rapidement regarder autour de moi et a me dire mais il y a des gens qui sont comme moi
+
+ ------------------------------------------- 
+
+1.5625
+line_id 2670122514
+transcript norm:  il n y a pas d opportunite qu est ce que je fais est ce que je peux faire quelque chose et aussi j ai envie de dire facilite meme si le terme la peut etre pris legerement mais quand meme je vais dire que c est une aptitude donc pour moi c est facile puisque pour d autres personnes de me mettre en action
+ref norm:         il n y a pas d opportunite qu est ce que je fais est ce que je peux faire quelque chose et aussi j ai envie de dire facilite meme si le terme la peut etre pris legerement mais quand meme je vais dire c est une aptitude donc pour moi c est facile puisque pour d autres personnes de me mettre en action
+
+ ------------------------------------------- 
+
+6.097560975609756
+line_id 2670148191
+transcript norm:  et donc je danse pendant que je suis adolescente et j ai la chance de partir faire mes etudes a l etranger de danser dans des structures qui existent et je rentre au semegal j ai envie de continuer a danser je n ai jamais dit je veux devenir danseuse professionnelle je veux une journee de formation ce n etait pas possible a l epoque de dire je vais devenir danseuse a des parents qui sont en train de payer pour ton education
+ref norm:         et donc je danse pendant que je suis adolescente et j ai la chance de partir faire mes etudes a l etranger de danser dans des structures qui existent et je rentre au senegal j ai envie de continuer a danser je n ai jamais dit je veux devenir danseuse professionnelle je suis journaliste de formation ce n etait pas possible a l epoque de dire je veux devenir danseuse a des parents qui sont en train de payer pour ton education
+
+ ------------------------------------------- 
+
+5.357142857142857
+line_id 2670134129
+transcript norm:  et donc ca a toujours ete une passion mais en meme temps c etait important pour moi de pouvoir continuer a explorer mon etre donc quand je rentre je regarde a gauche je regarde a droite je dis bon on dirait que tu es un peu vieille tu ne vas pas aller te penser sous le poing
+ref norm:         et donc ca a toujours ete une passion mais en meme temps c etait important pour moi de pouvoir continuer a explorer mon etre donc quand je rentre je regarde a gauche je regarde a droite je dis bon on dirait que tu es un peu vieille tu ne vas pas aller danser sous le pont
+
+ ------------------------------------------- 
+
+7.4074074074074066
+line_id 2670112098
+transcript norm:  parce qu avant je dansais dans la rue je dansais avec la ou se commettaient les danseurs j allais tres rapidement quand je pouvais et donc comme ca je realize que dakar qui est une capitale vibrante qui est une capitale culturelle qui est connue pour sa musique qui est connue pour le cote fashion qui est connue pour juste on aime la culture mais on n a pas de salle de danse c est une enfant des annees 20 80
+ref norm:         parce qu avant je dansais dans la rue je dansais avec la ou je trouvais des danseurs j allais tres rapidement quand je pouvais et donc comme ca je realize que dakar qui est une capitale vibrante qui est une capitale culturelle qui est connue pour sa musique qui est connue pour le cote fashion qui est connue pour juste on aime la culture mais on n a pas de salle de danse je suis une enfant des annees fin 80
+
+ ------------------------------------------- 
+
+0.0
+line_id 2670180857
+transcript norm:  alors ce qu il faut savoir c est que deja ma decision de rentrer finalement elle n a pas ete trop controversee parce que je ne me suis jamais vue vivre dans un environnement autre qu un environnement africain
+ref norm:         alors ce qu il faut savoir c est que deja ma decision de rentrer finalement elle n a pas ete trop controversee parce que je ne me suis jamais vue vivre dans un environnement autre qu un environnement africain
+
+ ------------------------------------------- 
+
+23.076923076923077
+line_id 2670137189
+transcript norm:  la senegalaise l afrique je pourrais me lever aux andes et aller habiter au galen ou au bina ou encore en afrique de l est au kenya peu importe et ca je l ai toujours clairement annonce a mes parents
+ref norm:         pas senegalais africain je pourrais me lever aujourd hui a aller habiter au ghana ou au benin ou encore en afrique de l est au kenya peu importe et ca je l ai toujours clairement annonce a mes parents
+
+ ------------------------------------------- 
+
+3.389830508474576
+line_id 2670145384
+transcript norm:  je ne me vois pas habite dans un pays ou je ne vois pas mes freres noirs pour dire ca concretement et ca n a jamais vraiment ete debattu chez moi mon pere etait un grand panoplycaniste ma mere est quelqu un qui avait aussi choisi de rentrer apres ses etudes et donc ca n a pas ete debattu
+ref norm:         je ne me vois pas vivre dans un pays ou je ne vois pas mes freres noirs pour dire ca concretement et ca n a jamais vraiment ete debattu chez moi mon pere etait un grand panafricaniste ma mere est quelqu un qui avait aussi choisi de rentrer apres ses etudes et donc ca n a pas ete debattu
+
+ ------------------------------------------- 
+
+14.0625
+line_id 2670176214
+transcript norm:  cependant quand je suis rentree oui la question etait tu vas prendre un boulot mais j ai pris un boulot ah si si si je suis allee rejoindre une redaction j en ai rejoint une j en ai rejoint deux j ai pris des postes dans des magazines etc donc j ai fait du journalisme nous voila ca a un nombre d annees
+ref norm:         cependant quand je suis rentree oui la question a ete bon tu vas prendre un boulot mais j ai pris un boulot hein ah si si si je suis allee rejoindre une redaction j en ai rejoint une j en ai rejoint deux j ai pris des postes dans des magazines etc donc j ai fait du journalisme pendant un certain nombre d annees
+
+ ------------------------------------------- 
+
+5.0
+line_id 2670199526
+transcript norm:  la chance j ai envie de dire que j ai eue c est que simultanement j avais envie de creer les corps de danse et j ai demarre ma recherche en termes de possibilite de creer ca et je l ai cree a cote de l emploi que j avais c etait le seul moyen de rassurer les parents africains
+ref norm:         la chance j ai envie de dire que j ai eue c est que simultanement j avais envie de creer l ecole de danse et j ai demarre ma recherche en termes de possibilites de creer ca et je l ai cree a cote de l emploi que j avais c etait le seul moyen de rassurer les parents africains
+
+ ------------------------------------------- 
+
+17.0
+line_id 2670182798
+transcript norm:  c est vrai que c est beaucoup d argent mais ce n est pas de l argent perdu parce que ca participe a une education ca participe a qui je suis ca m inspire aussi a comment je gererai la carriere professionnelle etc ca contribue a qui je suis lorsque j ai trouve l endroit ou allait naitre le premier the dancehall ca faisait deja deux ans que j etais rentree je suis rentree en 2011 c etait en 2013 et ce n est pas une bonne idee de l annoncer dans pompadour
+ref norm:         c est vrai que c est beaucoup d argent mais ce n est pas de l argent perdu parce que ca participe a une education ca participe a qui je suis ca participe aussi a comment j ai gere the dancehall comment j ai gere ma carriere professionnelle etc ca contribue a qui je suis lorsque j ai trouve l endroit ou allait naitre le premier the dancehall ca faisait deja deux ans que j etais rentree donc je suis rentree en 2011 c etait en 2013 et c est pas une bonne idee de l annoncer dans ton podcast
+
+ ------------------------------------------- 
+
+26.76056338028169
+line_id 2670143777
+transcript norm:  la verite c est menti parce qu il fallait que je justifie d ou allaient venir les finances pour me mettre en place d un seul et a l epoque je disais a ma mere qu on avait prete l espace et que la parole de m avait prete l espace avait amenage l espace c est faux aujourd hui je vais l avouer dix ans plus tard
+ref norm:         la verite j ai menti parce qu il fallait que je justifie d ou allaient venir les finances pour mettre en place le dancehall et a l epoque j ai dit a ma mere qu on m avait prete l espace et que la personne qui m avait prete l espace avait amenage l espace c est faux aujourd hui je l avoue 10 ans plus tard c est pas grave
+
+ ------------------------------------------- 
+
+0.0
+line_id 2670144563
+transcript norm:  c est enormement d argent et donc a ce moment la j ai mis tout ce que j avais garde de cote pour pouvoir creer the dancehall mais en ne disant pas que j avais mis de l argent dedans donc c etait 0 risque pour la famille
+ref norm:         c est enormement d argent et donc a ce moment la j ai mis tout ce que j avais garde de cote pour pouvoir creer the dancehall mais en ne disant pas que j avais mis de l argent dedans donc c etait 0 risque pour la famille
+
+ ------------------------------------------- 
+
+0.8264462809917356
+line_id 6977084933
+transcript norm:  et c est une discussion qu on a tres souvent ou dans nos familles en realite on ne se pousse pas vers ca vers explorer d autres pistes qui ne soient pas explorer des sentiers etre hors sentier hors piste hors route ce n est pas forcement quelque chose qui est permis et je ne sais pas d ou vient je peux comprendre d ou vient cette peur on vit dans des pays assez compliques ou rien n est assure quand tu peux t assurer un revenu a la fin du mois autant le faire mais tu pars sur ca tu mets de l argent la bas tu n avoues pas que tu as mis de l argent et tu demarres
+ref norm:         et c est une discussion qu on a tres souvent ou dans nos familles en realite on ne te pousse pas vers ca vers explorer d autres pistes qui ne soient pas explorer des sentiers etre hors sentier hors piste hors route ce n est pas forcement quelque chose qui est permis et je ne sais pas d ou vient je peux comprendre d ou vient cette peur on vit dans des pays assez compliques ou rien n est assure quand tu peux t assurer un revenu a la fin du mois autant le faire mais tu pars sur ca tu mets de l argent la bas tu n avoues pas que tu as mis de l argent et tu demarres
+
+ ------------------------------------------- 
+
+12.658227848101266
+line_id 2670169713
+transcript norm:  parce qu a ce moment la je ne realize pas que the dancehall va etre une entreprise qui va prendre enormement de temps dans ma vie d energie de finances etc je ne realize pas en rien the dancehall moi je suis en train de suivre ma passion apres j ai choisi la forme d entreprise j aurais pu dire je fais un groupe ou une association mais je ne sais pas qui je suis
+ref norm:         parce que a ce moment la je ne realize pas que the dancehall va etre une entreprise qui va prendre enormement de temps dans ma vie d energie de finance etc je ne realize pas en creant the dancehall moi je suis en train de suivre ma passion apres j ai choisi la forme entreprise j aurais pu dire je fais un groupe je fais une association on fait un truc mais je ne sais pas qui je suis
+
+ ------------------------------------------- 
+
+18.181818181818183
+line_id 2670120988
+transcript norm:  oui je sais qu il y a d autres personnes qui ont envie de prendre des cours et donc je peux completer mes revenus avec ca et donc pendant les deux premieres annees donc de 2013 a 2015 litteralement je quitte chez moi il est 7 h parce qu apres ce qui est une redaction je rejoins une agence de l etat ou je suis sortie de com et ou j en joue a 8 h de la regle
+ref norm:         oui je sais qu il y a d autres personnes qui ont envie de prendre des cours et donc je peux completer mes revenus avec ca et donc pendant les deux premieres annees donc de 2013 a 2015 litteralement je quitte chez moi il est 7 h parce que apres je quitte une redaction et je rejoins une agence de l etat ou je suis chargee de com et donc a 8 h je dois etre la
+
+ ------------------------------------------- 
+
+22.641509433962266
+line_id 2670136637
+transcript norm:  on se quitte de loin a 7 h finit a 17 h et on s en va a the danse et j avais choisi a l epoque justement ce format ou on ne travaillait que les fins de journee parce qu il me fallait pouvoir finir le premier emploi pour enchainer sur le deuxieme
+ref norm:         donc je quitte le matin a 7 h je finis a 17 h et j enchaine a the dancehall et j avais choisi a l epoque justement ce format ou on ne travaillait que les fins de journee parce qu il me fallait pouvoir finir un premier emploi pour enchainer sur le deuxieme
+
+ ------------------------------------------- 
+
+13.157894736842104
+line_id 6977095219
+transcript norm:  je me suis mariee a 24 ans donc je suis tres mal placee pour pouvoir attirer quelqu un tu t es mariee trop tot mais je pense que quand meme tu etais dans une epoque sarniere ou tu as cousse les cases il va falloir qu on en parle en termes de place c est a dire que tu es rentree dans le moule tu as trouve le travail qu il fallait que tu trouves tu t es mariee parce que tu t es mariee et tu as lance ton entreprise en meme temps je pense qu a un moment il ne fallait qu un lache
+ref norm:         voila compare je me suis mariee a 24 ans donc je suis tres mal placee pour pouvoir dire a quelqu un que tu t es mariee trop tot mais je pense que quand meme tu etais dans une epoque charniere ou tu as couche les cases parce qu il va falloir qu on en parle en termes de place c est a dire tu es rentree dans le moule tu as trouve le travail qu il fallait que tu trouves tu t es mariee parce que j y vais essayer tu t es mariee et tu as lance ton entreprise en meme temps je pense qu a un moment il fallait qu un lache
+
+ ------------------------------------------- 
+
+1.2195121951219512
+line_id 6977070657
+transcript norm:  parce que dans ma tete on nous met plus ou moins dans un certain chemin on nous place dans des on va dire dans un couloir et nous devons avoir des checkpoints reguliers qu on doit coucher des jalons qu on doit respecter etc et du coup je suis partie de ce principe la en te parlant mais en vrai ce serait peut etre mieux de te poser la question est ce qu il y avait une place qui t etait destinee
+ref norm:         parce que dans ma tete on nous met plus ou moins dans un certain chemin on nous place dans des on va dire dans un couloir et nous devons avoir des checkpoints reguliers qu on doit cocher des jalons qu on doit respecter etc et du coup je suis partie de ce principe la en te parlant mais en vrai ce serait peut etre mieux de te poser la question est ce qu il y avait une place qui t etait destinee
+
+ ------------------------------------------- 
+
+2.666666666666667
+line_id 2670183897
+transcript norm:  parce qu il faut le dire moi je suis enfant unique du cote de ma mere qui est une mere celibataire mais qui aussi est une mere traditionnelle mais le fait d avoir ete celibataire toute sa vie ma mere ne s est jamais mariee et d avoir du me lever faire sa place faire son argent se battre dans une societe difficile ca a fait d elle aussi quelqu un qui permettait la difference
+ref norm:         parce qu il faut le dire moi je suis enfant unique du cote de ma mere qui est une mere celibataire mais qui aussi est une mere traditionnelle mais le fait d avoir ete celibataire toute sa vie ma mere ne s est jamais mariee et d avoir du m elever faire sa place faire son argent se battre dans une societe difficile ca a fait d elle aussi quelqu un qui permettait la difference
+
+ ------------------------------------------- 
+
+18.30985915492958
+line_id 2670115424
+transcript norm:  donc bien que je pense dans l ideal elle aurait voulu que son enfant ait un parcours plus ultra decemel ou moins atypique que le sien qu elle etait difficile mais en meme temps il est debat question pour elle de dire voila ce que tu dois etre forcement voila ce que tu dois faire forcement donc ou en tout cas il n est pas possible de le communiquer comme ca
+ref norm:         donc bien que je pense dans l ideal elle aurait voulu que son enfant peut etre ait un parcours plus traditionnel moins atypique que le sien qui a ete difficile mais en meme temps il n etait pas question pour elle de dire voila ce que tu dois etre forcement voila ce que tu dois faire forcement ou en tout cas il n etait pas possible de le communiquer comme ca
+
+ ------------------------------------------- 
+
+5.555555555555555
+line_id 2670169572
+transcript norm:  donc il y a plutot le poids de l absence mais la chance et ca c est une chance c est une benediction c est que mon pere lorsqu on a commence a avoir des rapports a distance les peu de temps qu on avait a passer ensemble etaient de tant de qualite et ou il m ouvrait les yeux sur la vie et ou il me liberait de toute chasse
+ref norm:         donc il y a plutot le poids de l absence mais la chance et ca c est une chance aussi c est une benediction c est que mon pere lorsqu on a commence a avoir des rapports a distance les peu de temps qu on avait a passer ensemble etaient des temps de qualite et ou il m ouvrait les yeux sur la vie et ou il me liberait de toute chaine
+
+ ------------------------------------------- 
+
+6.521739130434782
+line_id 2670198074
+transcript norm:  et ou il me disait tu as le droit de te definir tu as le droit de dire qui tu as envie d etre tu as le droit de ne pas accepter tu as le droit de combattre ce que tu estimais etre une injustice pour toi ou pour des autres par exemple c est ce que lui a toujours fait mon pere etait journaliste et je crois que ca ca a toujours ete dans le dans the back of my head a l arriere de ma tete toujours en fait
+ref norm:         et ou il me disait tu as le droit de te definir tu as le droit de dire qui tu as envie d etre tu as le droit de ne pas accepter tu as le droit de combattre ce que tu estimes etre une injustice pour toi ou pour les autres parce que c est ce que lui a toujours fait mon pere a ete journaliste et je crois que ca ca a toujours ete dans le dans the back of my head a l arriere de ma tete toujours en fait
+
+ ------------------------------------------- 
+
+9.574468085106384
+line_id 2670177615
+transcript norm:  et je les portais avec moi dans tous les soirs que j ai eu a faire parfois meme contre ma mere parce qu en realite je me disais mais pourquoi est ce qu il faut que je choisisse j ai le droit d etre plusieurs choses non et si toi ce qui te fait plaisir c est juste d etre sure que ma securite financiere est assuree que la raison qui a ete depensee pour mes etudes n a pas ete gaspillee ok i am going to do that so here voila le job
+ref norm:         et je l ai porte avec moi dans tous les choix que j ai eu a faire parfois meme contre ma mere parce qu en realite je me disais mais pourquoi est ce qu il faut que je choisisse j ai le droit d etre plusieurs choses et si toi ce qui te fait plaisir c est juste d etre sure que ma securite financiere est assuree que l argent qui a ete depense pour mes etudes n a pas ete gaspille ok i am going to do that so here voila le job
+
+ ------------------------------------------- 
+
+3.9473684210526314
+line_id 6977044597
+transcript norm:  c est ca aussi tout ce poids de l immigration dans notre cas ainsi de suite et par contre dans ce que tu dis ca m interpelle parce qu effectivement les compliments de mon pere la fierte de mon pere etc ont toujours ete beaucoup plus importants que ce que ma mere pouvait dire ou qu elle pouvait penser ou le chemin meme qu elle pouvait tracer pour qu on puisse y passer
+ref norm:         c est ca aussi tout ce poids de l immigration de l immigration dans notre cas ainsi de suite et par contre dans ce que tu dis ca m interpelle parce qu effectivement les compliments de mon pere la fierte de mon pere etc ont toujours ete beaucoup plus importants que ce que ma mere pouvait dire ou qu elle pouvait penser ou le chemin meme qu elle pouvait tracer pour qu on puisse y passer
+
+ ------------------------------------------- 
+
+8.045977011494253
+line_id 6977071860
+transcript norm:  c est arrive a l age adulte que j ai fait la reflexion et que je me suis reconciliee avec cette partie d elle et qu on a retrouve une relation plus apaisee parce que je me rends compte qu elle n avait pas le choix quand j ai compris cette notion la qu elle n avait pas le choix parce qu elle devait assumer deux roles en meme temps le porter et l obligation de fermenter je ne mettais qu a son niveau
+ref norm:         c est arrive a l age adulte que j ai fait la reflexion et que je me suis reconciliee avec cette partie d elle et qu on a retrouve une on va dire une relation plus apaisee parce que je me rends compte qu elle n avait pas le choix quand j ai compris cette notion la qu elle n avait pas le choix parce qu elle devait assumer deux roles en meme temps le porter et l obligation de fermenter n etait qu a son niveau
+
+ ------------------------------------------- 
+
+13.636363636363635
+line_id 6977072510
+transcript norm:  l obligation de l eus de ma reussite ne vous posez que sur ses epaules a elle parce que quelqu un qui vient une fois par an ou meme quelqu un que tu vois comme tu dis de temps en temps n a pas cette implication au quotidien ou tu dois gerer tous les revers de la situation et nous ils ont le bon role je ne leur en veux absolument pas
+ref norm:         l obligation de reussir ne reposait que sur ses epaules a elle parce que quelqu un qui vient une fois par an ou meme quelqu un que tu vois comme tu dis de temps en temps n a pas cette implication au quotidien ou tu dois gerer tous les revers de la situation et donc ils ont le bon role je leur en veux absolument pas
+
+ ------------------------------------------- 
+
+1.4705882352941175
+line_id 2670168003
+transcript norm:  aujourd hui je crois que j ai fait ce travail la et je suis beaucoup plus apaisee par rapport a toutes ces questions la mais moi ca m a permis en tout cas de voir ma mere d une autre maniere et d avoir de l indulgence par rapport a avoir du respect pour la femme qu elle est parce qu elle a du etre mere et pere
+ref norm:         aujourd hui je crois que j ai fait ce travail la et je suis beaucoup plus apaisee par rapport a toutes ces questions la mais moi ca m a permis en tout cas de revoir ma mere d une autre maniere et d avoir de l indulgence par rapport a avoir du respect pour la femme qu elle est parce qu elle a du etre mere et pere
+
+ ------------------------------------------- 
+
+8.98876404494382
+line_id 6977030521
+transcript norm:  ce que tu dis concernant la figure paternelle l education qu il faut un village un ecosysteme tu me ramenes a une conversation que j ai eue avec ta presque tourando marema touretia et justement ou elle parlait des trois figures de mere qu elle a eues elle a eu sa mere qui l a mise au monde mais dont elle n a jamais mange les petits plats par exemple parce que sa mere ne cuisinait pas forcement elle devait aller gagner sa vie
+ref norm:         beaucoup beaucoup beaucoup beaucoup ce que tu dis concernant la figure paternelle l education qu il faut un village un ecosysteme tu me ramenes a une conversation que j ai eue avec ta presque tourondeau mariama toure cham et justement ou elle parlait des trois figures de mere qu elle a eues elle a eu sa mere qui l a mise au monde mais dont elle n a jamais mange les petits plats par exemple parce que sa mere ne cuisinait pas forcement elle devait aller gagner sa vie
+
+ ------------------------------------------- 
+
+11.904761904761903
+line_id 6977060193
+transcript norm:  mais il y avait deux autres femmes l une etait sa tante l une etait la voisine qui tous les autres roles de mere ont ete portes par cette femme la donc elle a un poids a mere et du coup ce que ca a cree chez elle c est qu elle ne dissocie pas ses freres et soeurs uterins les freres et soeurs de ses deux autres meres des freres et soeurs qu elle a eues de ses deux autres meres et cette conversation a ete magnifique
+ref norm:         mais il y avait deux autres femmes l une etait sa tante l une etait la voisine qui tous les autres roles de mere ont ete portes par cette femme la donc elle a trois meres et du coup ce que ca cree chez elle c est qu elle ne dissocient pas ses freres et soeurs uterins des freres et soeurs de ses deux autres meres des freres et soeurs qu elle a eu de ses deux autres meres et cette conversation etait magnifique
+
+ ------------------------------------------- 
+
+9.58904109589041
+line_id 2670168833
+transcript norm:  alors je pense que le moment ou je m en suis rendue compte c etait a travers l entrepreneuriat mais je m en suis rendue compte en meme temps que des limites que ca representait parce que je me disais que ca aurait pu etre mais en fait je suis une femme je peux jouer de ceci je peux jouer de cela non ca a ete ah je suis une femme c est ca le probleme
+ref norm:         alors je pense que le moment ou je m en suis rendu compte c etait a travers l entrepreneuriat mais je m en suis rendu compte en meme temps que des limites que ca representait parce que ca aurait pu etre ah mais en fait je suis une femme je peux jouer de ceci je peux jouer de cela non ca a ete ah je suis une femme c est ca le probleme
+
+ ------------------------------------------- 
+
+20.634920634920633
+line_id 2670183748
+transcript norm:  et oui c est arrive parce qu au debut avec the dancehall jeune creative trop ambitieuse que je suis plein de proces de parcs creatifs de ceci de cela et donc vous allez taper aux portes des ministeres pour leur dire ecoutez vous n avez peut etre pas les idees je les ai vous avez l argent donnez moi ce que je vais faire
+ref norm:         et oui c est arrive parce qu au debut avec le danse hall jeunes creatives trop ambitieuses que je suis plein de projets de parc creatif de ceci de cela et donc j allais taper aux portes des ministeres pour leur dire ecoutez vous n avez peut etre pas les idees je les ai vous avez l argent donnez moi je vais faire
+
+ ------------------------------------------- 
+
+15.66265060240964
+line_id 2670152001
+transcript norm:  alors que pour toi c est un moment qui est important parce que tu l as prepare pendant des semaines voila ce que je vais dire il faut qu il se concentre sur le contenu et tu commences a faire attention a ok je ne l ai pas trop fait parce que sinon il va s en sortir sur autre chose mais il va avoir envie de me proposer des choses en echange et donc tu arrives un peu ferme physiquement
+ref norm:         alors que pour toi c est un moment qui est important parce que tu l as prepare pendant des semaines tu dis voila ce que je vais dire il faut qu il se concentre sur le contenu et tu commences a faire attention a ok je vais pas trop en faire parce que sinon il va se concentrer sur autre chose peut etre qu il va avoir envie de me proposer des choses en echange et donc tu arrives un peu ferme physiquement
+
+ ------------------------------------------- 
+
+16.470588235294116
+line_id 2670178302
+transcript norm:  oui je m en suis rendue compte ici au senegal en tant qu entrepreneur quand j essayais de frapper a ces parcas mais j ai tres vite abandonne cette idee de je vais me faire malgre tout et j ai choisi de contourner j ai dit tu sais quoi ok je vais faire assez d argent pour tout pour pouvoir faire tout ca et ne pas avoir besoin de dire j ai besoin de tout et c est depuis dix ans que je commence a travailler
+ref norm:         et oui je m en suis rendue compte ici au senegal en tant qu entrepreneur quand j ai essaye de frapper a ces portes la mais j ai tres vite abandonne cette idee de je vais le faire malgre tout et j ai choisi de contourner j ai dit tu sais quoi ok je vais faire assez d argent pour tout pouvoir faire toute seule et ne pas avoir besoin de dire j ai besoin de et c est depuis dix ans comment je travaille
+
+ ------------------------------------------- 
+
+4.615384615384616
+line_id 6977090399
+transcript norm:  tu vas voir quelqu un qui ne sait pas c est quoi une danse urbaine qui ne comprend pas comment on peut avoir un business model qui fonctionne par un lorassa qui n a jamais entendu parler d un center de danse urbaine qui ne sait pas qu on peut faire ca hors d une association ou d un gie ou d un machin
+ref norm:         tu vas voir quelqu un qui ne sait pas c est quoi une danse urbaine qui ne comprend pas comment on peut avoir un business model qui fonctionne par rapport a ca qui n a jamais entendu parler d un center de danse urbaine qui ne sait pas qu on peut faire ca hors d une association ou d un gie ou d un machin
+
+ ------------------------------------------- 
+
+16.483516483516482
+line_id 2670122426
+transcript norm:  et tu sais tu vas rigoler notre premier center on l a bien oue hein et puis on l a construit en 2015 deux ans apres que j ai demarre quand je me suis rendu compte que c etait plus possible deja d allier mes deux emplois j ai quit et je me suis dit je me mets a temps plein d ordre de dancer je remercie le ciel on faisait assez d argent pour que je puisse me permettre de dire ca et de dire ca j ai pris un salaire hein
+ref norm:         et tu sais tu vas rigoler notre premier center on l avait loue hein et puis on l a construit en 2015 deux ans apres que j ai demarre quand je me suis rendu compte que c etait plus possible deja d allier mes deux emplois j ai quitte et je me suis dit je me mets a temps plein dans des vins de sol je remercie l ocl on faisait assez d argent pour que je puisse me permettre de dire ca et de dire je vais prendre un salaire
+
+ ------------------------------------------- 
+
+8.080808080808081
+line_id 6977089145
+transcript norm:  c est exactement ca et je crois qu a partir du moment ou tu le compres ca sens le rapport que tu as par rapport a ce que tu es en train de faire je suis en train de faire exactement la meme chose c est a dire ok ca va couter ben ca va me couter ca va couter a toutes les personnes de mon entourage mais apres tu as un produit tu as quelque chose que tu peux presenter qui fonctionne qui vit sa vie qui continue a evoluer a partir de la pour pouvoir esperer grandir tranquillement
+ref norm:         c est exactement ca et je crois qu a partir du moment ou tu le comprends ca change le rapport que tu as par rapport a ce que tu es en train de faire je suis en train de faire exactement la meme chose c est de dire ok ca va couter ca va me couter ca va couter a toutes les personnes de mon entourage mais apres tu as un produit tu as quelque chose que tu peux presenter qui fonctionne qui vit sa vie qui continue a evoluer et a partir de la tu peux esperer grandir
+
+ ------------------------------------------- 
+
+7.766990291262135
+line_id 2670163468
+transcript norm:  et l autre chose et ca c est aussi la question de l age je pense qu il est important moi je recommande toujours aux gens si vous n avez pas un safety net si vous n avez pas suffit de me donner de l argent pour dire ok meme si je mets 2000000s 5000000s 10000000s dans ce truc et que je les perds je peux manger je peux boire je peux me soigner et soigner les personnes dont je suis responsable prends un boulot quitte a ne pas dormir a la nuit mais prends un boulot qui te baille pendant que tu commences a mettre en place
+ref norm:         et l autre chose et ca c est aussi la question de l age je pense qu il est important moi je recommande toujours aux gens si vous n avez pas un safety net si vous n avez pas suffisamment d argent pour dire ok meme si je mets 2000000s 5000000s 10000000s dans ce truc et que je les perds je peux manger je peux boire je peux me soigner et soigner les personnes dont je suis responsable prends un boulot quitte a ne pas dormir la nuit mais prends un boulot qui te paye pendant que tu commences a mettre en place
+
+ ------------------------------------------- 
+
+19.298245614035086
+line_id 2670141143
+transcript norm:  meme quand on n a pas de probleme entre guillemets parce qu on en a toujours mais je ne veux pas dire pas de difficultes incroyables un moment ce n est pas un deuil il y a quand meme des avantages a aller parler avec quelqu un qui arrive a mettre des mots sur nos mots
+ref norm:         meme quand on n a pas de probleme entre guillemets parce qu on en a toujours mais je veux dire pas de difficulte incroyable a un moment c est pas un deuil c est pas voila y a quand meme des avantages a aller parler avec quelqu un qui arrive a mettre des mots sur nos mots
+
+ ------------------------------------------- 
+
+7.368421052631578
+line_id 6977049155
+transcript norm:  et c est important pour moi de me rappeler tres souvent de faire preuve de gratitude de me rappeler des reconnaissances envers les gens parce qu il y a plein de gens autour de moi qui ne sont pas forcement les personnes les plus proches a la base mais qui ont ete les personnes qui ont de vrais piliers quand j ai decide de sortir des clous je n ai jamais ete dans les clous mais quand tu decides de sortir des clous il y a d autres gens encore qui viennent te renforcer
+ref norm:         et c est important pour moi de m en rappeler tres souvent de faire preuve de gratitude de me rappeler d etre reconnaissant envers les gens parce qu il y a plein de gens autour de moi qui ne sont pas forcement les personnes les plus proches a la base mais qui ont ete les personnes qui ont de vrais piliers quand j ai decide de sortir des clous j ai jamais ete dans les clous mais quand tu decides de sortir des clous il y a d autres gens encore qui viennent te renforcer
+
+ ------------------------------------------- 
+
+14.583333333333334
+line_id 2670119078
+transcript norm:  c est une cointre de verite et j aurais aime qu on me dise ca aussi quand j avais 20 ans pour que je le prepare mieux la deuxieme chose c est justement de l enlire avec ces mutations c est qu il faut choisir d etre flexible
+ref norm:         et c est une contre verite et j aurais aime qu on me dise ca aussi quand j avais 20 ans pour que je me prepare mieux la deuxieme chose c est justement toujours en lien avec ces mutations c est qu il faut choisir d etre flexible
+
+ ------------------------------------------- 
+
+15.517241379310345
+line_id 2670154159
+transcript norm:  la flexibilite est un choix en mon entrepreneuriat ce serait de dire voila mon plan mon business plan voila ma vision voila mon service voila mon produit on le met sur le marche et le marche dit non et on dit non non non c est ca mon produit et puis pendant 20 heures ca ne va pas couter
+ref norm:         la flexibilite est un choix en entrepreneuriat ce serait de dire voila mon plan mon business plan voila ma vision voila mon service voila mon produit on le met sur le marche le marche dit non et on dit non non non non c est ca mon produit et puis pendant 20 ans c est ca ton produit
+
+ ------------------------------------------- 
+
+7.0588235294117645
+line_id 2670138706
+transcript norm:  parce que justement le fait d accepter le changement d accepter nous permet d etre plus creatifs tout est ok donc ca veut dire qu il faut que j enrobe finalement cette bouteille d eau il faut que je fasse autre chose et je crois que c est le seul moyen de naviguer dans la vie sans prendre des coups trop durs d accepter d abord que la vie est faite de mutations et que nous fondamentalement nous devons muter avec et rapidement
+ref norm:         parce que justement le fait d accepter le changement deja de l accepter nous permet d etre plus creatifs de dire ok donc ca veut dire qu il faut que j enrobe finalement cette bouteille d eau il faut que je fasse autre chose et je crois que c est le seul moyen de naviguer dans la vie sans prendre des coups trop durs d accepter d abord que la vie est faite de mutation et que nous fondamentalement nous devons muter avec et rapidement
+
+ ------------------------------------------- 
+
+6.896551724137931
+line_id 2670187016
+transcript norm:  comment on en vient a ca je pense que ca commence par des passions une passion mais aussi une capacite a comprendre son environnement et a saisir des opportunites
+ref norm:         comment on en vient a ca je pense que ca commence par une passion une passion mais aussi une capacite a comprendre son environnement et a saisir des opportunites
+
+ ------------------------------------------- 
+
+0.0
+line_id 2670148322
+transcript norm:  moi je danse depuis que je suis petite c est un peu mon exutoire depuis que j ai 8 9 ans j ai realize que le mouvement me permettait d etre
+ref norm:         moi je danse depuis que je suis petite c est un peu mon exutoire depuis que j ai 8 9 ans j ai realize que le mouvement me permettait d etre
+
+ ------------------------------------------- 
+
+0.0
+line_id 2670143299
+transcript norm:  et donc oui ca a ete tres tres difficile pour moi deja de comprendre la place de la femme au senegal ensuite de la femme professionnelle parce que je rentrais dans le milieu professionnel
+ref norm:         et donc oui ca a ete tres tres difficile pour moi deja de comprendre la place de la femme au senegal ensuite de la femme professionnelle parce que je rentrais dans le milieu professionnel
+
+ ------------------------------------------- 
+
+9.836065573770492
+line_id 2670148343
+transcript norm:  on s est de la femme entrepreneur donc ca veut dire pas juste professionnelle je me leve le matin je vais au bureau mais co getter je defonce des portes je veux ca je demande des financements je tape aux portes et puis j ai pas peur en meme temps ca c etait incroyablement dur et puis oui j avais choisi de me marier
+ref norm:         ensuite de la femme entrepreneur donc ca veut dire pas juste professionnelle je me leve le matin je vais au bureau mais go getter je defonce des portes je veux ca je demande des financements je tape aux portes et puis j ai pas peur en fait ca c etait incroyablement dur et puis oui j avais choisi de me marier
+
+ ------------------------------------------- 
+
+9.523809523809524
+line_id 2670146139
+transcript norm:  quelle que soit la situation dans la vie ca va s arreter ca va changer il y aura une mutation la vie est faite de mutations que ce soit dans le domaine prive que ce soit dans le domaine professionnel peu importe
+ref norm:         quelle que soit la situation qu on vit ca va s arreter ca va changer il y aura une mutation la vie est faite des mutations que ce soit dans le domaine prive que ce soit dans le domaine professionnel peu importe
+
+ ------------------------------------------- 
+
+4.081632653061225
+line_id 2670184534
+transcript norm:  parce que je trouve que beaucoup trop de jeunes ont l impression que ce qu ils vivent est definitif et que 0 my god c est la fin du monde et donc si on ne tente pas la solution revolutionnaire tout de suite on est au bout du bois
+ref norm:         parce que je trouve que beaucoup trop de jeunes ont l impression que ce qu ils vivent est definitif et que 0 my god c est la fin du monde et donc si on ne trouve pas la solution revolutionnaire tout de suite on est au bout du cou
+
+ ------------------------------------------- 
+
+5.172413793103448
+line_id 8518368306
+transcript norm:  je suis une femme active passionnee et ambitieuse le stress et les longueurs sont le prix a payer pour atteindre mes objectifs qu ils soient personnels ou professionnels c est d ailleurs la raison pour laquelle je m investis coreen dans mon travail au point ou je neglige tres souvent mes besoins de repos et de detente
+ref norm:         je suis une femme active passionnee et ambitieuse le stress et les longues heures sont le prix a payer pour atteindre mes objectifs qu ils soient personnels ou professionnels c est d ailleurs la raison pour laquelle je m investis coreen dans mon travail au point ou je neglise tres souvent mes besoins de repos et de detente
+
+ ------------------------------------------- 
+
+12.280701754385964
+line_id 8518340344
+transcript norm:  j integre une entreprise qui evolue dans le domaine de l informatique programmation de sites seo etc comme chargee de projet web je dois presenter 10 sites internet aux clients tous les jours pour depecer le challenge il y a de l adrenaline ca me plait mais plus le temps passe plus le rythme devient evernant
+ref norm:         j integre une entreprise qui evolue dans le domaine de l informatique programmation de sites seo etc comme chargee de projets web je dois presenter dix sites internet aux clients tous les jours au debut c est challenge il y a de l adrenaline ca me plait mais plus le temps passe plus le rythme devient infernal
+
+ ------------------------------------------- 
+
+13.20754716981132
+line_id 8518337166
+transcript norm:  je fais partie d une equipe de 5 personnes qui travaillent le jour comme de nuit pour atteindre les objectifs et ce n est pas tous les jours evident parce qu on est en sous effectif les signes avant coureurs du bain en arroute sont la mais plonges dans mon quotidien je les ignore
+ref norm:         je fais partie d une equipe de cinq personnes qui travaillent de jour comme de nu pour atteindre les objectifs et ce n est pas tous les jours evident parce que on est en sous effectif les signes avant coureurs du burn out sont la mais plonges dans mon quotidien je les ignore
+
+ ------------------------------------------- 
+
+16.666666666666664
+line_id 8518366232
+transcript norm:  les nuits blanches a rependre aux emails les week ends sacrifies pour terminer des projets et surtout le sentiment constant d etre depasse par les exigences du travail sans devenir maintenant je ne realize meme pas que plus le temps passe plus je me perds peu a peu dans ce tropien infernal
+ref norm:         les nuits blanches a repondre aux e mails les week ends sacrifies pour terminer des projets et surtout le sentiment constamment d etre depasse par les exigences du travail sont devenus ma norme je ne realize meme pas que plus le temps passe plus je me perds peu a peu dans ce tourbillon infernal
+
+ ------------------------------------------- 
+
+4.081632653061225
+line_id 8518331655
+transcript norm:  fuyant un jour tout s effondre c est le trou noir je me retrouve incapable de me lever le matin submergee par une fatigue chronique et un sentiment d epuisement profond je n en peux juste plus je suis a bord meme les taches les plus simples semblent insurmontables
+ref norm:         puis un jour tout s effondre c est le trou noir je me retrouve incapable de me lever le matin submergee par une fatigue chronique et un sentiment d epuisement profond je n en peux juste plus je suis a bout meme les taches les plus simples semblent insurmontables
+
+ ------------------------------------------- 
+
+4.615384615384616
+line_id 8518384084
+transcript norm:  mon corps et mon esprit sont en train de me montrer que j ai atteint mes limites ca y est pourtant je me souviens qu une collegue internee il y a trois mois pour depression m avait alertee elle m avait meme demande de lever le pied mais je ne l ai pas ecoutee qu assistant dans mon quotidien aujourd hui elles sont la les consequences
+ref norm:         mon corps et mon esprit sont en train de me montrer que j ai atteint mes limites ca y est pourtant je me souviens qu une collegue internee il y a trois mois pour depressions m avait alertee elle m avait meme demande de lever le pied mais je ne l ai pas ecoutee persistant dans mon quotidien aujourd hui elles sont la les consequences
+
+ ------------------------------------------- 
+
+6.0
+line_id 8518311457
+transcript norm:  je revis j apprends a vivre a nouveau je prends le temps d analyser ma situation et une question tourne sans cesse dans ma tete quel est ce travail qui qui vaut la peine de sacrifier de sa sante mentale je vois un si je suis en train de quitter mon travail
+ref norm:         je revis j apprends a vivre a nouveau je prends le temps d analyser ma situation et une question tourne sans cesse dans ma tete quel est ce travail qui vaut la peine de sacrifier sa sante mentale je vois un psy je suis en train de quitter mon travail
+
+ ------------------------------------------- 
+
+4.081632653061225
+line_id 8518319261
+transcript norm:  guerir du burn out n est pas une bataille que l on gagne du jour au lendemain je fais mon voyage de decouverte de soi mais surtout j apprends a realigner mes priorites c est tres important j apprends a valoriser ma sante mentale et mon bien etre
+ref norm:         guerrer du burn out n est pas une bataille que l on gagne du jour au lendemain je fais mon voyage de decouverte de soi mais surtout j apprends a a realigner mes priorites c est tres important j apprends a valoriser ma sante mentale et mon bien etre
+
+ ------------------------------------------- 
+
+16.666666666666664
+line_id 8031466626
+transcript norm:  vous venez d entendre son temoignage anna qui nous raconte son histoire avec le burn out et nous accueillons pour cette thematique sandrine psychosociologue bonjour sandrine bonjour bonjour
+ref norm:         vous venez d entendre son temoignage anna qui nous raconte son histoire avec le burn out et nous accueillons pour cette thematique sandrine psycho sociologue bonjour sandrine comment tu vas
+
+ ------------------------------------------- 
+
+2.083333333333333
+line_id 8031456722
+transcript norm:  absolument exactement ca et tu as entendu le temoignage d anna le burn out beaucoup de personnes en souffrent et d habitude ils ne savent meme pas qu ils en souffrent en fait donc qu est ce que le burn out et quelles sont ses causes ses symptomes
+ref norm:         absolument exactement ca et tu as entendu le temoignage d anna le burn out beaucoup de personnes en souffrent et d habitude ils ne savent meme pas qu ils en souffrent en fait donc qu est ce que le burn out et quelles sont ses causes ses santos
+
+ ------------------------------------------- 
+
+7.8431372549019605
+line_id 8031444719
+transcript norm:  alors forcement il y a des signes a recouvrir du burn out donc comme dans toutes les pathologies mentales ca ne surgit pas d un coup regardons ces signes la a recouvrir qui montrent que cette personne la est arrivee au stade de ras le bol on va dire professionnel
+ref norm:         alors forcement il y a des signes a rencoureur du burn out donc comme dans toutes les pathologies mentales ca ne surgit pas d un coup quels sont ces signes la a rencoureur qui montrent que cette personne la est arrivee au stade de ras le bol on va dire professionnel
+
+ ------------------------------------------- 
+
+3.1746031746031744
+line_id 8031487003
+transcript norm:  parce qu on a parle de la vie professionnelle etc et tout et tu as brosse le sujet tout a l heure en disant que l environnement du travail peut impacter personnellement la personne mais meme dans ces relations interpersonnelles qui sont vraiment en dehors du travail comment le bonheur peut il impacter on va dire les relations interpersonnelles de la personne concernee
+ref norm:         parce qu on a parle de la vie professionnelle etc et tout et tu as brosse le sujet tout a l heure en disant que l environnement de travail peut impacter personnellement la personne mais meme dans ces relations interpersonnelles qui sont vraiment en dehors du travail comment le burnout peut il impacter on va dire les relations interpersonnelles de la personne concernee
+
+ ------------------------------------------- 
+
+4.25531914893617
+line_id 8031475300
+transcript norm:  on est dans un contexte comme tu l as si bien dit senegalo senegalais forcement la premiere solution qui nous vient a l esprit ce n est pas le psychologue donc dans ces cas la parce que comme tu l as dit anna vraiment c est une exception parmi mille il y a peu de personnes qui vont se dire tiens je ne vis pas bien je vais aller voir un psychologue peut etre qu elle a cette culture la ce n est pas la meme chose pour des milliers de senegalais
+ref norm:         on est dans un contexte comme tu l as si bien dit senegalos senegalais ou forcement la premiere solution qui nous vient a l esprit ce n est pas le psychologue donc dans ces cas la parce que comme tu l as dit anna vraiment c est une exception parmi mille il y a peu de personnes qui vont se dire tiens je ne vais pas bien je vais aller voir un psychologue peut etre qu elle elle a cette culture la ce n est pas la meme chose pour des milliers de senegalais
+
+ ------------------------------------------- 
+
+7.5
+line_id 8031457123
+transcript norm:  tout a l heure tu as parle d etre proche de la personne d etre vigilant ce n est pas evident nous on n a pas cette culture la de dire que telle personne a change maintenant elle est solitaire introvertie qu est ce qui s est passe on a tendance c est vrai de plus en plus a ne pas juger mais le jugement est toujours la comment vraiment faire prendre conscience de ca aux familles
+ref norm:         tout a l heure tu as parle d etre proche de la personne d etre vigilant et autres ce n est pas evident nous on n a pas cette culture la de dire non telle personne a change maintenant il est devenu solitaire introverti qu est ce qui s est passe on a tendance c est vrai de plus en plus a ne pas juger mais le jugement est toujours la comment vraiment faire prendre conscience de ca aux familles
+
+ ------------------------------------------- 
+
+18.181818181818183
+line_id 8031411856
+transcript norm:  absolument absolument je reviens a ce que tu as dit de l entreprise parce que comme tu l as dit c est une partie prenante mais vraiment importante on va dire dans la sante mentale le bien etre mental des employes quelle strategie peut mettre en place l entreprise pour aider son employe
+ref norm:         absolument absolument je reviens c est toi qui en a parle de l entreprise parce que comme tu l as dit c est une partie prenante mais vraiment importante on va dire dans la sante mentale le bien etre mental des employes quelles strategies elle peut mettre en place l entreprise pour aider son employe
+
+ ------------------------------------------- 
+
+5.714285714285714
+line_id 8031436847
+transcript norm:  et je dirais meme avant le burn out vraiment instaurer un environnement de travail sain pour que la personne puisse se sentir bien parce qu on est dans un monde capitaliste les gens recherchent objectifs chiffres d affaires etc jusqu a oublier qu il y a un etre humain qui travaille pour nous quelle strategie les entreprises peuvent mettre en place quelle methode pour aider leurs employes a aller mieux
+ref norm:         et je dirais meme avant le burn out vraiment instaurer un environnement de travail sain pour que la personne puisse se sentir bien parce qu on est dans un monde capitaliste les gens recherchent objectifs chiffres d affaires etc jusqu a oublier qu il y a un etre humain qui travaille pour nous quelles strategies les entreprises peuvent mettre en place quelles methodes pour aider leurs employes a aller mieux
+
+ ------------------------------------------- 
+
+12.698412698412698
+line_id 8031458386
+transcript norm:  c est a dire faire de l employe un ambassadeur limite meme de l entreprise et c est tres important je dirais meme que les entreprises jouent on va dire le role le plus important dans le burn out parce que tu l as dit tout a l heure l employe passe la plupart de sa journee on va dire a l entreprise le temps a la maison
+ref norm:         c est a dire faire de l employe un ambassadeur limite meme de l entreprise et c est tres important je dirais meme que les entreprises jouent le role le plus important dans le burn out parce que tu l as dit tout a l heure l employe passe la plupart de sa journee a l entreprise peu de temps a la maison
+
+ ------------------------------------------- 
+
+7.017543859649122
+line_id 8031421655
+transcript norm:  c est tres grave en fait c est tres grave et comme on a tendance a minimiser les petites choses je veux dire par exemple une petite deprime peut amener des problemes mentaux mais extraordinaires tu vois tu te dis non c est un vice etc alors que la personne a la base on pouvait l aider
+ref norm:         c est tres grave en fait c est tres grave et comme on a tendance a minimiser les petites choses je veux dire par exemple une petite deprime peut t amener des problemes mentaux mais extraordinaires tu vas te dire non c est un vice etc alors que la personne a la base on pouvait l aider
+
+ ------------------------------------------- 
+
+10.526315789473683
+line_id 2141368639
+transcript norm:  bonjour zubida fall c est deja un honneur et un plaisir d etre ici parmi vous de participer a ce rendez vous de la femme qui s appelle conversation feminine et c est un plaisir pour moi d etre ici effectivement en tant que mame en tant que lady mame et surtout en tant que femme surtout
+ref norm:         bonjour zoubida fall c est deja un honneur et un plaisir d etre ici parmi vous de participer a ce rendez vous de la femme qui s appelle conversations feminines et c est un plaisir pour moi d etre ici effectivement en tant que maah en tant que lady maah mais surtout en tant que femme surtout
+
+ ------------------------------------------- 
+
+1.6129032258064515
+line_id 2141362723
+transcript norm:  oui bon la scene pour moi elle est faite pour qu on puisse partager ce qu il y a de plus positif et ce qu il y a de plus pur de toi avec les autres parce qu etre sur scene c est un don de soi c est de pouvoir partager ton etre avec ceux qui sont en train de te regarder
+ref norm:         oui la scene pour moi elle est faite pour qu on puisse partager ce qu il y a de plus positif et ce qu il y a de plus pur de toi avec les autres parce qu etre sur scene c est un don de soi c est de pouvoir partager ton etre avec ceux qui sont en train de te regarder
+
+ ------------------------------------------- 
+
+2.564102564102564
+line_id 2141349164
+transcript norm:  pas seulement en train de t ecouter mais ceux qui sont en train de te regarder parce que celui qui vient en concert il vient avec ses soucis ses problemes et tout ca et il voudrait oublier ses problemes personnels
+ref norm:         pas seulement en train de t ecouter mais ceux qui sont en train de te regarder parce que celui qui vient en concert il vient avec ses soucis ses problemes et tout ca et il voudrait oublier ses problemes
+
+ ------------------------------------------- 
+
+4.477611940298507
+line_id 2141384549
+transcript norm:  et il faudra faire le maximum possible pour que tu puisses l emmener dans cette ambiance positive et dans cette ambiance qui est apaisante moi je tiens a ce que les personnes qui sont meme si ce n est pas seulement ma scene meme si je joue avec quelqu un d autre que moi je puisse participer au fait que cette personne est venue
+ref norm:         et il faudra faire le maximum possible pour que tu puisses l emmener dans cette ambiance positive et dans cette ambiance qui est apaisante et voila moi je tiens a ce que les personnes qui sont meme si ce n est pas seulement ma scene meme si je joue avec quelqu un d autre que moi je puisse participer au fait que cette personne elle est venue
+
+ ------------------------------------------- 
+
+8.0
+line_id 2141367693
+transcript norm:  bon comme tu l as explique moi j ai commence a faire de la musique en famille c est en famille que j ai appris a aimer la musique surtout en particulier avec mon pere parce que c etait lui le grand melomane de la maison
+ref norm:         bon comme tu l as explique moi j ai commence a faire de la musique en famille c est en famille que j ai appris a aimer la musique surtout en particulier avec mon pere parce que c est lui qui c etait lui le grand melomane de la maison
+
+ ------------------------------------------- 
+
+23.52941176470588
+line_id 2141393673
+transcript norm:  c est lui qui nous faisait consommer plein de styles de musique nous avons connu l hamballah mais nous n avons pas grandi avec l hamballah nous avons grandi avec les tracy chapman les die straits moi j ai commence a ecouter ubi foti a l age de 4 ans alors voila ca a fait de nous des personnes avec une vaste culture musicale
+ref norm:         c est lui qui nous faisait consommer plein de styles de musique nous nous n avons pas grandi nous avons connu le mbalakh mais nous n avons pas grandi avec le mbalakh nous avons grandi avec les tracy chapman les dire straits moi j ai commence a ecouter ub 40 a l age de quatre ans ca a fait de nous des personnes avec une vaste culture musicale
+
+ ------------------------------------------- 
+
+12.195121951219512
+line_id 2141316487
+transcript norm:  c est comme ca qu on a aime la musique on a aime l ecouter minutieusement ecouter minutieusement et l ajouter minutieusement et voila c est ca qui nous a mene a en faire un metier et a le faire serieusement
+ref norm:         c est comme ca qu on a d aime la musique on a aime l ecouter minutieusement ecouter minutieusement la jouer minutieusement et voila c est ca qui nous a amene a en faire un metier et a le faire serieusement
+
+ ------------------------------------------- 
+
+4.0
+line_id 2141339398
+transcript norm:  parce que moi rien qu en regardant la guitare j avais peur parce que je savais que c etait lourd que c etait physique comme instrument que ca demande c est moins rigolo de jouer a la basse par exemple que de jouer a la guitare tout ca
+ref norm:         parce que moi rien qu en regardant la guitare basse j avais peur parce que je savais que c etait lourd que c etait physique comme instrument que ca demande c est moins rigolo de jouer a la basse par exemple que de jouer a la guitare et tout ca
+
+ ------------------------------------------- 
+
+17.28395061728395
+line_id 2141315610
+transcript norm:  ou bien jouer du piano moi j etais plus attiree par le piano parce que c est plus melodique et tout et moi puisque j etais une grande romantique et tout ca j aimais tout ce qui etait melodique alors qu a la base c est plus dur c est plus comme ca j etais reticente mais il voit puisque mon pere c est un perseverant et moi voila comme on dit en wolofmoyou matarab
+ref norm:         ou bien de jouer du piano moi j etais plus attiree par le piano parce que voila c est plus melodique et tout et moi puisque j etais une grande romantique et tout ca j aimais tout ce qui etait melodique et alors qu a la basse c est plus dur c est plus comme ca moi j etais reticente mais bon puisque mon pere c est un perseverant il m a . voila comme on dit en wolof mayu madara
+
+ ------------------------------------------- 
+
+7.936507936507936
+line_id 2141341498
+transcript norm:  personnellement au debut elle etait reticente et tout ca parce qu elle voulait vraiment que je reussisse dans mes etudes et tout l autre elle etait beaucoup plus elle etait beaucoup plus truc emballee pour que ses enfants aient de la musique parce que ce sont ce que ses enfants aiment et tout mais ma mere elle etait beaucoup plus stricte et tout ca
+ref norm:         au debut elle etait reticente et tout ca parce qu elle voulait vraiment que je reussisse dans mes etudes et tout l autre elle etait beaucoup plus elle etait beaucoup plus truc emballee pour que ces enfants fassent de la musique parce que ce sont ceux que ces enfants aiment et tout mais ma mere elle etait beaucoup plus stricte et tout ca
+
+ ------------------------------------------- 
+
+6.741573033707865
+line_id 2141328613
+transcript norm:  oui il ne le disait pas de maniere gentille mais bon moi d habitude dans toutes les situations quand on ne me repond pas gentiment soit je me bagarre soit je te dis he laisse moi tranquille je me defends quoi voila ca c est naturel tu apprends a te defendre mais je ne me suis jamais morfondue sur mon sort je n ai jamais accepte de faire ca et meme en grandissant de plus en plus je l ai pris spirituellement je l ai accepte comme un cadeau
+ref norm:         oui ils ne le disaient pas de maniere gentille mais bon moi d habitude dans toutes les situations quand on ne me repond pas gentiment soit je me bagarre soit je te dis hey laisse moi tranquille je me defends voila ca c est naturel tu apprends a te defendre mais je ne me suis jamais morfondue sur mon sort je ne l ai jamais accepte de faire ca et meme en grandissant de plus en plus je l ai pris spirituellement je l ai accepte comme un cadeau
+
+ ------------------------------------------- 
+
+13.461538461538462
+line_id 2141391349
+transcript norm:  parce qu on connait apres en etudiant l albinisme en sachant que ca n existe pas seulement chez les adjumas que ca existe chez les plantes et chez les animaux je me suis dit ca c est une preuve dieu nous a voulu vraiment nous montrer sa grandeur et sa capacite a creer
+ref norm:         parce que apres en etudiant l albinisme en sachant que ca n existe pas seulement chez les etres humains mais que ca existe chez les plantes et chez les animaux je me suis dit ca c est une preuve dieu a voulu vraiment nous montrer sa grandeur et sa capacite a creer
+
+ ------------------------------------------- 
+
+10.81081081081081
+line_id 2141358657
+transcript norm:  moi je n ai pas reellement vecu ca parce que je suis dans une famille ou j etais acceptee par tout le monde meme les tantes eloignees les cousins eloignes je n avais pas de promesses
+ref norm:         bon moi je n ai pas reellement vecu ca parce que je suis dans une famille ou j etais acceptee par tout le monde meme les tantes eloignees les cousines eloignees je n avais pas de probleme
+
+ ------------------------------------------- 
+
+11.320754716981133
+line_id 2141393267
+transcript norm:  non non parce que bon moi je l ai dit c est surtout c est pas parce qu ils veulent attirer l argent c est pas parce qu ils etaient prets pour un cri cri le plus souvent mais c est parce que le plus souvent c est parce qu ils sont curieux
+ref norm:         non non parce que bon moi je l ai dit c est surtout c est pas parce qu ils veulent attirer la chance c est pas parce qu ils t apprennent pour un gris gris le plus souvent mais c est parce que le plus souvent c est parce qu ils sont curieux
+
+ ------------------------------------------- 
+
+10.714285714285714
+line_id 2141395365
+transcript norm:  il y a eu un scandale moi je n etais pas choquee parce que c est un peu je crois que c est vrai que j ai un peu reproche aussi aux personnes qui ont infiltre ce groupe d entree et de savoir ce qui se dit dans ce groupe d entree
+ref norm:         il y a eu un scandale moi je n etais pas choquee parce que c est un peu je crois que c est c est vrai que j ai un peu reproche aussi aux personnes qui ont infiltre ce groupe d hommes d entrer et de savoir ce qui se dit dans ce groupe d hommes
+
+ ------------------------------------------- 
+
+4.0
+line_id 2141391971
+transcript norm:  mais bon de la a ce qu il fasse des publications sur nous bon c est vrai que ca peut etonner plein de gens mais moi ca ne m etonne pas parce que moi je suis atteinte d albinisme alors je sais un peu ce qu ils pensent de nous
+ref norm:         mais bon de la a ce qu ils fassent des publications sur nous bon c est vrai que ca peut etonner plein de gens mais moi ca ne m etonne pas parce que moi je suis atteinte d albinisme alors je sais un peu ce qu ils pensent de nous
+
+ ------------------------------------------- 
+
+6.153846153846154
+line_id 2141314563
+transcript norm:  oui ca c est vrai ils ont plus acces a ca que nous parfois il y a un de mes amis qui m a dit il faut dire aux femmes que nous quand vous nous appelez dans la rue et qu on ne vous repond pas c est parce qu on ne vous voit pas ce n est pas parce que vous nous plaisez
+ref norm:         oui ca c est vrai ils ont plus acces a ca que nous parfois il y a un de mes amis qui m a dit il faut dire aux femmes que nous quand vous nous appelez dans la rue et qu on ne vous repond pas c est parce qu on ne vous voit pas c est pas parce que vous ne nous plaisez pas
+
+ ------------------------------------------- 
+
+8.0
+line_id 2141375572
+transcript norm:  mais a cote de ca en etant une personne travailleuse independante qui n aspire pas a etre une femme au foyer a 100% pas a etre une femme au foyer qui aspire a l etre mais aussi en ayant sa propre autonomie et sa propre independance
+ref norm:         mais a cote de ca en etant une personne travailleuse independante qui n aspire pas a etre une femme au foyer a 100% pas qui n aspire pas a etre une femme au foyer qui aspire a l etre mais aussi en ayant sa propre autonomie et sa propre independance
+
+ ------------------------------------------- 
+
+10.526315789473683
+line_id 2141394218
+transcript norm:  et j ai eu la chance aussi d avoir un pere qui a mis ca tres tot dans ma tete que je dois etre autonome et que je dois etre forte determinee et independante
+ref norm:         et j ai eu la chance aussi d avoir un pere qui a mis ca qui a mis ca tres tot dans ma tete que je dois etre autonome et que je dois etre forte determinee et independante
+
+ ------------------------------------------- 
+
+10.416666666666668
+line_id 2141375471
+transcript norm:  bon moi je me dis que c est une question d organization et aussi c est une question d entente avec le partenaire parce qu un partenaire aussi il faut savoir s entendre avec lui sur certains points je ne sais pas bon je ne sais pas si je peux donner un exemple
+ref norm:         bon moi je me dis que c est une question d organization et aussi c est une question d entente avec le partenaire parce qu un partenaire aussi il faut savoir s entendre avec lui sur certains points je ne sais pas si je peux donner un exemple
+
+ ------------------------------------------- 
+
+9.30232558139535
+line_id 2141361603
+transcript norm:  parce que moi je suis d avis qu en matiere de mariage il y a un aine et un cadet ca j en suis consciente parce que moi j ai respecte mon pere toute ma vie j ai respecte mes freres toute ma vie
+ref norm:         parce que moi je suis d avis qu en matiere de mariage j ai un nene et un cadet ca j en suis consciente parce que moi j ai respecte mon pere toute ma vie j ai respecte mes freres toute ma vie
+
+ ------------------------------------------- 
+
+5.454545454545454
+line_id 2141393852
+transcript norm:  alors il n y a pas de raison pour que je ne respecte pas mon mari et a cote de ca il faut aussi qu on se fasse les compromis qu il faut parce que je ne vais pas rester plantee dans la maison regle 365 jours sur 365 attendre un gars comme ca
+ref norm:         alors il n y a pas de raison pour que je ne respecte pas mon mari et a cote de ca il faut aussi qu on se fasse les compromis qu il faut parce que je ne vais pas aussi rester plantee dans la maison 365 jours sur 365 a attendre un gars comme ca
+
+ ------------------------------------------- 
+
+13.043478260869565
+line_id 2141321960
+transcript norm:  alors moi heureusement je n ai pas appris a etre une casse aux ailes moi j ai appris a etre une femme pas au nom de 100% mais qui gere quand meme certaines choses qui gere certaines choses de sa vie de ses besoins personnels et tout ca voila
+ref norm:         alors moi heureusement je n ai pas appris a etre une case sociale moi j ai appris a etre une femme pas autonome 100% mais qui gere quand meme certaines choses qui gere certaines choses de sa vie de ses besoins personnels et tout ca voila
+
+ ------------------------------------------- 
+
+17.647058823529413
+line_id 2141380712
+transcript norm:  c est sur que ca vit une vie un peu je suis tres spirituelle mais je me consacre un peu plus de temps j aimerais bien ca j aimerais bien avoir ce temps la quand meme
+ref norm:         c est surtout ca vivre une vie un peu je suis tres spirituelle mais lui consacrer un peu plus de temps j aimerais bien ca j aimerais bien avoir ce temps la quand meme
+
+ ------------------------------------------- 
+
+11.76470588235294
+line_id 2141359486
+transcript norm:  je dirais que j ai fait un peu de bruit quand meme je ne vais pas dire place place mais quand meme que j ai appris a gagner le respect de certaines personnes surtout des personnes les plus essentielles j ai deja precise que je joue tres souvent avec babama
+ref norm:         je dirais que bon j ai fait un peu de bruit quand meme je ne vais pas dire place place mais quand meme que j ai appris a gagner le respect de certaines personnes surtout des personnes les plus essentielles tu as precise que je joue tres souvent avec barbara mahle
+
+ ------------------------------------------- 
+
+2.127659574468085
+line_id 2141315323
+transcript norm:  je sais que c est une personne qui a beaucoup d affection pour moi qui m aime beaucoup mais je sais aussi que je beneficie qu il a du respect pour ce que je fais pour ce que je represente et qu il en est fier
+ref norm:         je sais que c est une personne qui a beaucoup d affection pour moi qui m aime beaucoup mais je sais aussi que je beneficie qu il a du respect pour ce que je fais et pour ce que je represente et qu il en est fier
+
+ ------------------------------------------- 
+
+2.380952380952381
+line_id 2141316215
+transcript norm:  j ai rencontre aussi des grands musiciens aussi comme youssou ndour et tout ca et je sais qu il y a aussi ce respect pour ce que je suis et ce que je represente meme si je ne suis pas youssou ndour
+ref norm:         j ai rencontre aussi de grands musiciens aussi comme youssou ndour et tout ca et je sais qu il y a aussi ce respect pour ce que je suis et ce que je represente meme si je ne suis pas youssou ndour
+
+ ------------------------------------------- 
+
+4.166666666666666
+line_id 2141390323
+transcript norm:  bon 20 ans moi je me dis 20 ans la ca aurait ete plus 20 ans ca aurait ete dur pour moi parce que comme j ai dit je viens de perdre ma mere alors la perte a l age de 20 ans ca aurait ete tres complique
+ref norm:         bon 20 ans moi je me dis 20 ans la ca aurait ete plus . 20 ans ca aurait ete dur pour moi parce que comme j ai dit je viens de perdre ma mere alors la a l age de 20 ans ca aurait ete tres complique
+
+ ------------------------------------------- 
+
+0.0
+line_id 2141369025
+transcript norm:  et c est le regret que j ai eu le plus c est ce que j ai le plus regrette parce que ce qu elle peut t apporter ce qu elle peut spirituellement t apporter ce qu elle peut t apporter personne d autre au monde ne peut t apporter et c est ca quoi
+ref norm:         et c est le regret que j ai eu le plus c est ce que j ai le plus regrette parce que ce qu elle peut t apporter ce qu elle peut spirituellement t apporter ce qu elle peut t apporter personne d autre au monde ne peut t apporter et c est ca quoi
+
+ ------------------------------------------- 
+
+18.181818181818183
+line_id 2141314585
+transcript norm:  moi quand tu m as parle de 20 ans et actuellement je suis directement a 20 par ce moment mais bon je crois que je l aurais pris aussi positivement que ce l etait je n ai pas regrette la vie que j ai eue a mes 20 ans parce qu a mes 20 ans je commencais deja a travailler a voyager a decouvrir le monde
+ref norm:         moi quand tu me parles de 20 ans et actuellement j ai directement pense a 20 ans sans maman mais bon je crois que je l aurais pris aussi positivement que je l etais je n ai pas regrette la vie que j ai eue a mes 20 ans parce que a mes 20 ans je commencais deja a travailler a voyager a decouvrir le monde
+
+ ------------------------------------------- 
+
+8.771929824561402
+line_id 2141391393
+transcript norm:  c est deja bien alors bon je n ai pas beaucoup trop a me plaindre et pour moi chaque chose vient a son temps alors bon si j ai decouvert des choses trop tard apres mes 20 ans seulement je ne me suis pas rendu compte parce que j ai quand meme assez vecu de choses
+ref norm:         c est deja bien alors bon je n ai pas beaucoup trop a me plaindre et pour moi chaque chose vient a son temps alors bon si j ai decouvert des choses trop tard apres mes 20 ans je ne m en suis meme pas rendu compte parce que j ai quand meme assez vecu des choses
+
+ ------------------------------------------- 
+
+2.2222222222222223
+line_id 2141314779
+transcript norm:  j ai grandi dans un environnement polygamme mon pere avait deux epouses une epouse avec laquelle il a eu cinq garcons et deux filles et une autre avec laquelle il a eu deux filles ca lui fait neuf enfants ca lui a fait neuf enfants
+ref norm:         j ai grandi dans un environnement polygame mon pere avait deux epouses une epouse avec laquelle il a eu cinq garcons et deux filles et une autre avec laquelle il a eu deux filles ca lui fait neuf enfants ca lui a fait neuf enfants
+
+ ------------------------------------------- 
+
+3.0303030303030303
+line_id 2141318586
+transcript norm:  moi je suis la fille ainee de la deuxieme epouse ok et bon je suis la seule de toute la famille la seule fille de toute la famille qui a fait de la musique
+ref norm:         moi je suis la fille ainee de la deuxieme epouse et bon je suis la seule de toute la famille la seule fille de toute la famille qui a fait de la musique
+
+ ------------------------------------------- 
+
+15.217391304347828
+line_id 1020496416
+transcript norm:  je suis une senegalaise tres fiere de l etre avec un parcours senegalais un parcours academique senegalais donc je suis un pur produit de l ecole senegalaise ecole publique senegalaise a travers le discipline du universite sharon tojok et ensuite enseignement superieur prive
+ref norm:         je suis une senegalaise tres fiere de l etre avec un parcours senegalais un parcours academique senegalais donc je suis un pur produit de l ecole senegalaise ecole publique senegalaise a travers le lycee blaise diagne l universite cheikh anta diop et ensuite enseignement superieur prive
+
+ ------------------------------------------- 
+
+19.148936170212767
+line_id 1020431739
+transcript norm:  je fais partie de la premiere promotion de l ism ou j ai fait mon bachelor en commerce international et aussi j ai prepare une maitrise en gestion des entreprises au cesac mais ca c etait un cours du soir par l aide a mon activite professionnelle
+ref norm:         je fais partie de la premiere promotion de l ism ou j ai fait mon bachelors en commerce international et aussi j ai eu a preparer une maitrise en gestion des entreprises au sesac mais ca c etait en cours du soir parallelement a mon activite professionnelle
+
+ ------------------------------------------- 
+
+2.272727272727273
+line_id 1020443070
+transcript norm:  dix ans apres avoir commence a travailler parce que je suis une personne curieuse et j aime toujours apprendre pour elargir mes horizons et puis pouvoir progresser dans la vie chaque jour j essaie d apprendre un peu plus et de le transmettre
+ref norm:         dix ans apres avoir commence a travailler parce que je suis une personne curieuse et j aime toujours apprendre pour elargir mes horizons et puis pour pouvoir progresser dans la vie chaque jour j essaie d apprendre un peu plus et de le transmettre
+
+ ------------------------------------------- 
+
+14.814814814814813
+line_id 1020439521
+transcript norm:  je vais me faire bouger les lignes ou je me trouve que ce soit dans la cite ou j habite ou que ce soit au bureau ou que ce soit dans le club d investissement ou j ai l honneur de diriger le week long investment cap de 2020 ou que ce soit dans le groupement des armateurs et industriels du secteur de la peche ou j ai ete vice presidente jusqu en 2001 et la je suis la tresoriere
+ref norm:         j aime faire bouger les lignes ou que je me trouve que ce soit dans la cite ou j habite ou que ce soit au bureau ou que ce soit dans le club d investissement que j ai l honneur de diriger le wic le moneyless one club depuis 2020 ou que ce soit dans le groupement des armateurs et industriels du secteur de la peche ou j ai ete vice presidente jusqu en 2020 et la je suis la tresoriere
+
+ ------------------------------------------- 
+
+0.0
+line_id 1020449916
+transcript norm:  j aime etre dans on va dire le mouvement associatif mais pas que j aime etre partout ou une action peut changer la donne
+ref norm:         j aime etre dans on va dire le mouvement associatif mais pas que j aime etre partout ou une action peut changer la donne
+
+ ------------------------------------------- 
+
+9.30232558139535
+line_id 1020475751
+transcript norm:  en fait dans ma definition je n ai pas dit que je suis tao je suis tao je suis l ainee de ma famille une famille qui j ai cinq soeurs et un petit frere donc une famille de filles en general et un seul garcon
+ref norm:         en fait dans ma definition je n ai pas dit que je suis tau je suis l ainee de ma famille une famille qui j ai cinq soeurs et un petit frere donc une famille de filles en general et un seul garcon
+
+ ------------------------------------------- 
+
+16.216216216216218
+line_id 1020493403
+transcript norm:  j ai ete eduquee avec de sens et responsabilite tres tot par un pere qui me disait toujours que dans la vie il faut toujours marcher la tete tres haute qu il voulait etre fier de ses filles
+ref norm:         j ai ete eduquee avec le sens des responsabilites tres tot par un pere qui me disait toujours que dans la vie il faut toujours marcher la tete tres haute qui voulait etre fiere de ses filles
+
+ ------------------------------------------- 
+
+2.631578947368421
+line_id 1020414561
+transcript norm:  et par ma mere qui etait on ne savait pas vraiment le role de notre maman avant d avoir moi mes enfants je pense que c est quelque chose que je n evaluais pas sa juste valeur
+ref norm:         et par ma mere qui etait on ne savait pas vraiment le role de notre maman avant d avoir moi mes enfants je pense que c est quelque chose que je n evaluais pas a sa juste valeur
+
+ ------------------------------------------- 
+
+19.047619047619047
+line_id 1020479406
+transcript norm:  ma mere c est quelqu un qui a ete deduit dans les choses de la vie la gestion de la maison la figure mais c etait vraiment l education de la maison qui a reussi mon pere il faisait beaucoup plus nos etudes
+ref norm:         ma mere c est quelqu un qui etait eduque dans les choses de la vie la gestion de la maison la rigueur mais c etait vraiment l education de la maison de la rigueur mon pere il suivait beaucoup plus nos etudes
+
+ ------------------------------------------- 
+
+15.942028985507244
+line_id 1020432845
+transcript norm:  c est lui qui m a amenee quand j etais plus jeune au cinema qui m a amenee a sorano voir les matinees creatives etc et voila qui etait plus proche de moi cote etudes mais ce qu on n evalue pas vraiment veritablement c est cet autre cote qui etait moins visible qu assurer ma mere sur la tenue la rigueur de savoir etre de savoir comportemental
+ref norm:         c est lui qui m emmenait quand j etais plus jeune au cinema qui m emmenait a sorano voir les matinees creatives etc et voila qui etait plus proche de moi cote a cote d etudes mais ce qu on n evaluait pas vraiment veritablement c est cet autre cote qui etait moins visible qu assurait ma mere sur la tenue la rigueur le savoir etre le savoir comportemental
+
+ ------------------------------------------- 
+
+11.11111111111111
+line_id 1020429816
+transcript norm:  et la j ai ete eduquee par mon pere qui me disait toujours que dans la vie il faut savoir marcher la tete haute et partout ou j etais j essayais de le faire et marcher la tete haute c est savoir le sens des choses
+ref norm:         et la j ai ete eduquee par mon pere qui me disait toujours il faut dans la vie il faut savoir marcher la tete haute et partout ou j etais j essayais de le faire et marcher la tete haute c est avoir le sens
+
+ ------------------------------------------- 
+
+11.11111111111111
+line_id 1020492916
+transcript norm:  c est quelque chose que je n avais pas delegue entre les mains de quelqu un d autre futile a un mari parce que le mari ce n est pas le fils de mes parents ce n est pas le frere de mes soeurs ce n est pas le taf c est moi
+ref norm:         et c est quelque chose que je n allais pas deleguer entre les mains de quelqu un d autre fut il un mari parce que le mari ce n est pas le fils de mes parents ce n est pas le frere de mes soeurs ce n est pas le tao c est moi
+
+ ------------------------------------------- 
+
+15.555555555555555
+line_id 1020496938
+transcript norm:  et je pense que ca m a donne des objectifs dans la vie ca m a donne une perseverance pour pouvoir reussir cette mission avec guillaume je parle comme une championne parce que ca c est justement ce que je l ai appris au women in dressmen club
+ref norm:         et je pense que ca m a donne des objectifs dans la vie ca m a donne une perseverance pour pouvoir reussir cette mission avec brio je parle comme une championne parce que ca je pense que je l ai appris au women embracement club
+
+ ------------------------------------------- 
+
+0.0
+line_id 1020481557
+transcript norm:  parce que j y cotoie des femmes formidables et au debut dans tout ce qui transparaissait dans les propos de personnes qu on y rencontre qui avaient eu d autres interactions on va dire c est que dans cette vie la nous les femmes on ne parle pas suffisamment a voix haute on ne s affirme pas alors que nous sommes des champions
+ref norm:         parce que j y cotoie des femmes formidables et au debut dans tout ce qui transparaissait dans les propos de personnes qu on y rencontre qui avaient eu d autres interactions on va dire c est que dans cette vie la nous les femmes on ne parle pas suffisamment a voix haute on ne s affirme pas alors que nous sommes des champions
+
+ ------------------------------------------- 
+
+25.423728813559322
+line_id 1020482802
+transcript norm:  larry goff ah larry goff et quand j ai ete on m a nominee comme presidente de wic je ne me suis pas proposee parce que je ne pensais pas etre capable d etre presidente de wic ce sont mes autres soeurs de wic qui m ont propose a 2020 j ai reflechi j ai reflechi
+ref norm:         la rigueur ah la rigueur et quand j etais on m a propose on m a nomine comme presidente du wic je ne me suis pas proposee parce que je ne pensais pas etre capable d etre presidente du wic ce sont mes autres soeurs du wic qui m ont proposee en 2020 j ai reflechi j ai reflechi
+
+ ------------------------------------------- 
+
+13.924050632911392
+line_id 1020443804
+transcript norm:  et la comme elle etait a la maison elle etait insuite etc donc les femmes se sont tournees vers nous en leur disant comme vous etes arrivees des premieres un petit age est ce que vous pouvez l aider ca donc elle l a fait au debut j etais une petite poignee mais apres la cite a continue de grandir et on a vu ma mere qui devenait vraiment l organe sans rale de la cite elle gerait de l argent
+ref norm:         et la comme elle etait a la maison elle etait insuite etc donc les femmes se sont tournees vers elle en lui disant comme vous etes arrivee des premieres vous etes agee est ce que vous pouvez l aider ca donc elle a fait au debut c est une petite poignee mais apres la cite a continue de grandir et on a vu ma mere qui devenait vraiment l organe central de la cite elle gerait de l argent
+
+ ------------------------------------------- 
+
+12.307692307692308
+line_id 1020411535
+transcript norm:  et au dela de l argent parfois le soir on voyait des femmes qui venaient en toute discretion poser des problemes et ma mere c est une tombe meme nous ses enfants elle ne parle que de ce qu elle nous conserve et ca je pense que c est une valeur qui est extremement importante c est une tombe vous voyez des femmes qui rentraient qui sortaient
+ref norm:         mais au dela de l argent parfois le soir on voyait des femmes qui venaient en toute discretion poser des problemes et ma mere c est une tombe meme nous ces enfants elle ne parle que ce qui nous concerne et ca je pense que c est une valeur qui est extremement importante c est une tombe on voyait des femmes qui rentraient qui sortaient
+
+ ------------------------------------------- 
+
+12.068965517241379
+line_id 1020471076
+transcript norm:  apres on lui a laisse son espace pour qu elle puisse recevoir ses femmes et chaque fois je me rappelle qu il y avait une reunion il etait courant de voir des femmes qui couraient pour un lieu a la reunion parce que chaque fois que j arrivais avec cinq minutes de retard il y avait une penalite a payer
+ref norm:         apres on lui a laisse son espace pour qu elle puisse recevoir ces femmes et chaque fois je me rappelle il y avait une reunion il etait courant de voir des femmes qui couraient pour arriver a la reunion parce que chaque fois que tu arrives avec cinq minutes de retard il y a une penalite a payer
+
+ ------------------------------------------- 
+
+6.382978723404255
+line_id 1020473284
+transcript norm:  et je pense qu apres une dizaine d annees elles avaient entre un gain placement etc une quinzaine de 1000000s qui etaient places a la banque et qui s etaient essaye de tourner et de financer les femmes et tout ca sous la responsabilite de ma mere
+ref norm:         et je pense qu apres une dizaine d annees elles avaient entre un gain un placement etc une quinzaine de 1000000s qui etaient places a la banque et qui s essayaient de tourner et de financer les femmes et tout ca sous la responsabilite de ma mere
+
+ ------------------------------------------- 
+
+22.727272727272727
+line_id 1020432005
+transcript norm:  elle avait de la tenue et de la retenue mais ma mere moi je suis presque exuperante je danse je jouis ma mere n est pas du tout comme ca elle est plus plutot claitre et surlente plus dure pres c est vraiment sur ses .
+ref norm:         elle avait de la tenue de la retenue mais ma mere moi je suis tres exuberante je danse je rige ma mere n est pas du tout comme ca elle est plutot tres tres sereine tres dure tres c est vraiment sur ses .
+
+ ------------------------------------------- 
+
+8.928571428571429
+line_id 1020490211
+transcript norm:  ma mere est secretaire d administration nous ne voulions pas sur l or mais nous n en avons que de rien et je n ai jamais vu comme s il y avait des histoires de femmes de personnes qui venaient a la maison pour demander qu on les paie ici ou qu on les paie la
+ref norm:         ma mere est secretaire d administration nous ne roulions pas sur l or mais nous n avons jamais manque de rien et je n ai jamais vu comme s il y avait des histoires de femmes de personnes qui venaient a la maison pour demander qu on les paie ici ou qu on les paie ca
+
+ ------------------------------------------- 
+
+13.333333333333334
+line_id 1020447883
+transcript norm:  jamais donc moi quand j etais a l universite a clodel dans ma chambre on avait une petite bourse de 18 0 francs mais une demi bourse mais il y avait des dames qui venaient qui vendaient chaque fois que les dames venaient dans la chambre pour presenter des articles sur mon livre je me tournais le dos et je n ecoutais meme pas ce qu ils se disaient parce qu on ne m avait pas eduquee comme ca on m avait eduquee a vivre avec les maires vous savez
+ref norm:         jamais donc moi quand j etais a l universite a claudel dans ma chambre on avait une petite bourse de 18000 francs mais une demi bourse mais il y avait des dames qui venaient qui vendaient chaque fois que les dames venaient dans la chambre pour presenter des articles je prenais mon livre je tournais le dos et je n ecoutais meme pas ce qu ils se disaient parce qu on ne m avait pas eduque comme ca on m avait eduque a vivre avec les moyens que j avais
+
+ ------------------------------------------- 
+
+31.746031746031743
+line_id 1020491099
+transcript norm:  et je crois que c est quelque chose cette sombriete je l ai toujours gardee et ca je le tiens de ma mere c est souvent des valeurs qui permettent de rester en fait et d etre bien bien dans sa tete bien dans ses valeurs bien dans la gestion de ses benis qu on ne gaspille pas on peut etre surtout que ce n est pas un gaspillage pas un largeur
+ref norm:         et je crois que c est quelque chose cette sobriete je l ai toujours gardee et ca je le tiens de ma mere ce sont des valeurs qui permettent de rester ancree et d etre bien bien dans sa tete bien dans ses valeurs bien dans la gestion de ses deniers parce qu on ne gaspille pas on ne gaspille pas son argent
+
+ ------------------------------------------- 
+
+1.8181818181818181
+line_id 1020419439
+transcript norm:  j ai vu un papa qui aimait ses filles qui aime ses filles qui a tout fait pour les faire grandir et je pense qu aujourd hui il le dit toujours tous mes amis qui se moquaient de moi aujourd hui me disent que j ai eu une chance d avoir des enfants comme vous
+ref norm:         j ai vu un papa qui aimait ses filles qui aime ses filles qui a tout fait pour les faire grandir et je pense qu aujourd hui il le dit toujours tous mes amis qui se moquent de moi aujourd hui me disent que j ai eu une chance d avoir des enfants comme vous
+
+ ------------------------------------------- 
+
+8.0
+line_id 1020430766
+transcript norm:  je pense que ca c est parce que quelque part moi meme mes soeurs et mon frere nous essayons de lui rendre tout cet investissement tout cet amour qu il a mis en nous mais moi meme a l ecole meme a l ecole moi j ai fait le lycee de l elysee de diane ensuite l universite je n ai pas senti de difference entre les hommes et les femmes je ne l ai pas senti
+ref norm:         je pense que ca c est parce que quelque part moi meme mes soeurs et mon frere nous essayons de lui rendre tout cet investissement tout cet amour qu il a mis en nous mais non moi meme a l ecole meme a l ecole moi j ai fait le lycee blaise diagne ensuite l universite je n ai pas senti de difference entre les hommes et les femmes je ne l ai pas senti
+
+ ------------------------------------------- 
+
+20.833333333333336
+line_id 1020430091
+transcript norm:  et souvent apres quand je commence a avoir ma vie professionnelle je suis dans le secteur des produits de la mer des exportations je voyageais beaucoup et quand vous voyez vous me posez toujours la question et est ce que vous les filles comment ca se passe au segal que tout s egale on a les memes chances que les hommes peut etre que ce n est pas totalement vrai
+ref norm:         et souvent apres quand je commencais a avoir ma vie professionnelle moi je suis dans le secteur des produits de la mer d exportation je voyagais beaucoup et qui en voyait il me posait toujours la question et est ce que vous les filles comment ca se passe au senegal je dis que tout senegal on a les memes chances que les hommes peut etre que ce n est pas totalement vrai
+
+ ------------------------------------------- 
+
+6.382978723404255
+line_id 1020419921
+transcript norm:  ca non mais si tu es serieuse dans ce que tu fais tu vas au boulot tu geres tu t occupes de toi tu t occupes de tes enfants mais personne ne trouvera a redire que tu organizes ta vie d une maniere ou d une autre
+ref norm:         ca non mais si tu es serieuse dans ce que tu fais tu vas au boulot tu viens tu t occupe de toi tu t occupe de tes enfants mais personne ne trouvera a redire que tu organizes ta vie d une maniere ou d une autre
+
+ ------------------------------------------- 
+
+1.4925373134328357
+line_id 1020474280
+transcript norm:  moi cette societe senegalaise ou on met tout sur le dos des femmes alors que maintenant les femmes ne sont plus a la maison elles travaillent elles travaillent beaucoup elles travaillent autant que les hommes elles ont une vie professionnelle elles ont des ambitions et apres il faudra modeler la vie de la famille autour de la carriere professionnelle et de la maman et du papa
+ref norm:         mais moi cette societe senegalaise ou on met tout sur le dos des femmes alors que maintenant les femmes ne sont plus a la maison elles travaillent elles travaillent beaucoup elles travaillent autant que les hommes elles ont une vie professionnelle elles ont des ambitions et apres il faudra modeler la vie de la famille autour de la carriere professionnelle et de la maman et du papa
+
+ ------------------------------------------- 
+
+5.263157894736842
+line_id 1020494407
+transcript norm:  donc on doit mettre les cartes sur table voir ce qui est dans l interet de la famille et avancer moi en tant que femme moi je dis ce qui m arrange moi je dis toujours ce qui m arrange
+ref norm:         donc on doit mettre les cartes sur table voir ce qui est dans l interet de la famille et avancer moi en tant que femme je dis ce qui m arrange je dis toujours ce qui m arrange
+
+ ------------------------------------------- 
+
+16.216216216216218
+line_id 1020430903
+transcript norm:  la maison doit etre un hafre de paix un hafre de bonheur mais pas une competition ou quelqu un qui doit subir la responsabilite de l autre ca je ne crois pas que ce soit agorique
+ref norm:         la maison doit etre un havre de paix un havre de bonheur mais pas un ring une competition ou quelqu un qui doit subir la responsabilite de l autre je ne crois pas que ce soit correct
+
+ ------------------------------------------- 
+
+12.0
+line_id 1020494448
+transcript norm:  moi je pense que la femme a un role central dans la famille tout comme l homme je ne suis pas dans l ecrivage c est l homme chef de famille pour la femme chef de famille mais meme si l homme est le chef de famille il a ses missions
+ref norm:         moi je pense que la femme a un role central dans la famille tout comme l homme je ne suis pas dans le clivage l homme de chef de famille ou la femme chef de famille mais meme si l homme est le chef de famille il a ses missions
+
+ ------------------------------------------- 
+
+37.5
+line_id 1020416075
+transcript norm:  la femme qui est la moitie du chef de famille a ses responsabilites mais on doit s entendre le role de chef de famille ce n est pas un role qui est invehable
+ref norm:         la femme qui est la moitie du chef de famille a ses responsabilites on doit s entendre l un et puis moi le role de chef de famille n est pas immuable
+
+ ------------------------------------------- 
+
+4.878048780487805
+line_id 1020484423
+transcript norm:  quand je suis nee il ecrivait deja il a toujours garde sa plume le ton libre de sa plume c est vrai qu en famille apres ses 70 ans on s est souvent reunis pour lui dire papa je vais arreter
+ref norm:         quand je suis nee il ecrivait deja il a toujours garde sa plume le ton libre de sa plume c est vrai qu en famille apres ses 70 ans on s est souvent reunis pour lui dire papa il faut arreter
+
+ ------------------------------------------- 
+
+13.114754098360656
+line_id 1020471101
+transcript norm:  vous avez dit ce que vous avez a dire etc il a dit je ne me vois pas a l aise bien contre tenue par mes ma famille restant tranquillement dans mon coin et profitant d une vie tranquille alors dans ce pays il y a des choses qui ne vont pas je l oublie comme ca parce que c est sa personnalite
+ref norm:         vous avez dit ce que vous avez a dire etc il a dit je ne me vois pas a l aise bien entretenue par ma famille restant tranquillement dans mon coin et profitant d une vie tranquille alors que dans ce pays il y a des choses qui ne vont pas je le lui conseille parce que c est sa personnalite
+
+ ------------------------------------------- 
+
+9.090909090909092
+line_id 1020435056
+transcript norm:  c est comme ca qu on fonctionne dans notre famille peut etre que c est une chance hein c est une chance mais c est pour ca que mon pere quand on n est pas d accord avec lui sur son implication dans la vie il dit moi j etais toujours d accord j ai respecte vos positions en tant que pef
+ref norm:         c est comme ca qu on fonctionne dans notre famille peut etre que c est une chance hein c est une chance et c est pour ca que mon pere quand on n est pas d accord avec lui sur son implication dans la vie il dit a tout le monde moi j etais toujours d accord j ai respecte vos positions en tant que pere
+
+ ------------------------------------------- 
+
+24.137931034482758
+line_id 1020493381
+transcript norm:  d avoir l essence des raisons ca avait ete de pouvoir avoir toutes les cartes en main et pour moi ces cartes en main c etait a travers un bon travail
+ref norm:         avoir le sens des responsabilites c est de pouvoir avoir toutes les cartes en main et pour moi ces cartes en main c etait a travers un bon travail
+
+ ------------------------------------------- 
+
+7.317073170731707
+line_id 1020431431
+transcript norm:  une bonne condition qui me permettait de continuer a veiller sur mon petit frere et mes petites soeurs mais aussi de veiller sur mes parents et pour moi je pense que ca a jalonne toute ma vie ce sens de responsabilite
+ref norm:         une bonne condition qui me permettait de continuer a veiller sur mes petits freres et mes petites soeurs mais aussi de veiller sur mes parents et pour moi je pense que ca a jalonne toute ma vie ce sens de responsabilite
+
+ ------------------------------------------- 
+
+12.121212121212121
+line_id 1020453195
+transcript norm:  donc quand on y a amenage il n y avait rien ensuite les familles ont commence a amenager et naturellement les femmes sont des memoires quand on ne se retrouvait pas etc
+ref norm:         donc quand on y a amenage il n y avait rien ensuite les familles ont commence a amenager et naturellement les femmes se sont dit mais pourquoi on ne se retrouvait pas etc
+
+ ------------------------------------------- 
+
+17.5
+line_id 1020454560
+transcript norm:  ma mere etait secretaire d administration elle a travaille a la commune de dakar pendant une vingtaine d annees apres en 1996 quand il y a eu la dissolution de la commune urbaine elle a pris un retraitement de l icp
+ref norm:         et ma mere etait secretaire d administration elle a travaille a la commune de dakar pendant une vingtaine d annees apres en 1996 quand il y a eu la dissolution de la communaute urbaine elle a pris une retraite anticipee
+
+ ------------------------------------------- 
+
+1.8181818181818181
+line_id 1020426691
+transcript norm:  mais surtout aussi beaucoup de generosite parce que quand j ai eu a etre maman je pense qu elle a eu la piece centrale dans ma vie parce qu elle n a pas hesite a venir a mes cotes pour pouvoir me supporter parce que la j etais directrice generale de deux entreprises en restructuration
+ref norm:         et surtout aussi beaucoup de generosite parce que quand j ai eu a etre maman je pense qu elle a eu la piece centrale dans ma vie parce qu elle n a pas hesite a venir a mes cotes pour pouvoir me supporter parce que la j etais directrice generale de deux entreprises en restructuration
+
+ ------------------------------------------- 
+
+11.627906976744185
+line_id 1020411209
+transcript norm:  et ma mere comprenant les enjeux n a pas hesite a venir a m elager chez moi pour s occuper de mes bebes pour que je puisse les prendre au travail apres trois semaines d arret donc elle l a fait avec tellement de generosite
+ref norm:         et ma mere comprenant les enjeux n a pas hesite a venir a menager chez moi pour s occuper de mes bebes pour que je puisse reprendre le travail apres trois semaines d arret donc elle l a fait avec tellement de generosite
+
+ ------------------------------------------- 
+
+5.405405405405405
+line_id 1020419904
+transcript norm:  elle ne dormait pas le soir c etait un engagement et puis a chaque fois que mes autres soeurs ou comme ma belle soeur aussi on a eu besoin d elle elle a ete la
+ref norm:         elle ne dormait pas le soir et c etait un engagement et puis a chaque fois que mes autres soeurs ou comme ma belle soeur aussi quand on a eu besoin d elle elle a ete la
+
+ ------------------------------------------- 
+
+8.0
+line_id 1020447961
+transcript norm:  quand on est malade pere et la beau etre a cote de nous le role de papa quand on est malade lui il est completement effondre c est ma mere qui tient comme un roc et qui rassure et qui reste a tes cotes et qui te couvre
+ref norm:         quand on est malade mon pere il a beau etre a cote de nous jouer le role de papa quand on est malade lui il est completement effondre c est ma mere qui tient comme un roc et qui rassure et qui reste a tes cotes et qui te couvre
+
+ ------------------------------------------- 
+
+10.256410256410255
+line_id 1020487860
+transcript norm:  je pense que je dis aussi a mes jeunes soeurs a mes amis je dis si vous voulez vous faire respecter vous ne pouvez pas tout deleguer ne pas avoir un nez ne pas vous respecter en fait
+ref norm:         moi ce que je dis aussi a mes jeunes soeurs a mes amis je dis si vous voulez vous faire respecter vous ne pouvez pas tout deleguer ne pas avoir un oeil et ne pas vous respecter en fait
+
+ ------------------------------------------- 
+
+0.0
+line_id 1020417656
+transcript norm:  parce que pour moi il y a certaines responsabilites meme si tu habites seul tu dois le faire tu ne peux pas passer tout ton temps a discuter au telephone ne pas t occuper de tes enfants et demander qu on te respecte
+ref norm:         parce que pour moi il y a certaines responsabilites meme si tu habites seul tu dois le faire tu ne peux pas passer tout ton temps a discuter au telephone ne pas t occuper de tes enfants et demander qu on te respecte
+
+ ------------------------------------------- 
+
+30.357142857142854
+line_id 5014046016
+transcript norm:  inan ca veut dire maman a un jour la et puis makozi j ai lu un livre de msz qui parle de lumumba et les periodes les plus difficiles ou lumumba etait limite personne a non grada il pouvait faire ses rencontres politiques que dans un bar qui etait tenu par une femme qui s appelle mama makozi
+ref norm:         ina ca veut dire maman en diola et puis makosi j ai lu un livre d aime cesaire qui parle de lumumba et les periodes les plus difficiles ou lumumba etait limite personnelle non gratte ils pouvaient faire ces rencontres politiques que dans un bar qui etait tenu par une femme qui s appelle maman makosi
+
+ ------------------------------------------- 
+
+18.367346938775512
+line_id 5014048835
+transcript norm:  je suis inna thiam et je suis une makozi inna makozi dans mon travail artistique je suis photographe videaste je suis tres tres interessee par tout ce qui est archives dans le hip hop comme je suis un pur element du hip hop et je suis aussi passionnee de sport notamment le basket
+ref norm:         je suis ina thiam et je signe ina makosi dans mon travail artistique je suis photographe videaste je suis tres interessee par tout ce qui est archive dans le hip hop je suis un pur element du hip hop et je suis aussi passionnee de sport notamment le basket
+
+ ------------------------------------------- 
+
+13.20754716981132
+line_id 5014050528
+transcript norm:  c est plutot au lycee au lycee limamoulaye je faisais partie de il y avait beaucoup de il y avait des danseurs qui repetaient la bas deja et il y avait des battles de danse qui etaient organizes par des collectifs a grejaouaille et la j etais tres danseuse en fait
+ref norm:         est plutot au lycee au lycee d imamoulai je faisais partie de en fait il y avait beaucoup de il y avait des danseurs qui repetaient la bas deja et il y avait des battles de danse qui etaient organizes par des collectifs a guediawaye et la j etais tres danse en fait
+
+ ------------------------------------------- 
+
+2.564102564102564
+line_id 5014027573
+transcript norm:  et c est la ou j ai vraiment commence a me sentir bien dans ce mouvement ou a m interesser un peu plus aux gens a ce qui se passe a qui est qui ouais c etait au lycee
+ref norm:         et c est la ou j ai vraiment commence a me sentir bien dans ce mouvement ou a m interesser un peu plus aux gens a ce qui se passe a qui est qui oui c etait au lycee
+
+ ------------------------------------------- 
+
+19.642857142857142
+line_id 5014010210
+transcript norm:  aller voir les artistes et demarcher ca c etait mon truc en meme temps ca me permettait de decouvrir de connaitre les artistes que je ne connaissais pas forcement mais aussi c est le concert quoi la partie que je kiffe le plus c est quand on participait a l organization c etait .
+ref norm:         aller voir les artistes et des marches ca c etait mon truc parce que en meme temps ca me permettait de decouvrir de connaitre les artistes que je ne connaissais pas forcement mais aussi c est le concert quoi c est la partie que je kiffe le plus donc participer a l organization c etait .
+
+ ------------------------------------------- 
+
+40.42553191489361
+line_id 5014010798
+transcript norm:  il savait moi mon pere il m a dit a un jour je sais que j ai essaye depuis le debut que tu etais differente ma grand mere elle a arrete elle s est mariee elle etait dans autre chose mais sinon chez moi il n y a pas les sportifs ou les artistes quoi
+ref norm:         il savait moi mon pere il m a dit un jour je sais que depuis le debut que tu etais differente ma grande soeur apres elle a arrete ses maries etaient dans autre chose mais sinon chez moi y a pas de sportif ou d artiste quoi
+
+ ------------------------------------------- 
+
+11.76470588235294
+line_id 5014078953
+transcript norm:  et quand j ai fait mes cours d audiovisuel et que je vais aller au festival d avignon pour un stage j ai appele mon pere pour lui dire papa on va a avignon il me dit quoi donc toi ce que tu fais la tu n as pas des blagues
+ref norm:         et quand j ai fait mes cours d audiovisuel et que je vais aller au festival d avignon pour un stage j ai appele mon pere pour lui dire papa on va a avignon et il m a dit quoi donc toi ce que tu fais la tu parles des blagues
+
+ ------------------------------------------- 
+
+6.451612903225806
+line_id 5014067460
+transcript norm:  et donc ce qui m interessait c etait la musique la production et quand je suis arrivee il y a eu un projet qui s appelle hip hop academy ou il y avait un center de documentation plus des formations en entrepreneuriat culturel audiovisuel graphisme et moi le center de doc s en parlait parce que j aimais beaucoup la lecture
+ref norm:         et donc moi ce qui m interessait c etait la musique la production et quand je suis arrivee il y a eu un projet qui s appelle hip hop academy ou il y avait un center de documentation plus des formations en imprenariat culturel audiovisuel graphisme et moi le center de doc ca me parlait parce que j aimais beaucoup la lecture
+
+ ------------------------------------------- 
+
+36.36363636363637
+line_id 5014034174
+transcript norm:  avant d arriver dans l afrique culturelle je jouais encore meme mes premieres annees en afrique culturelle je jouais encore au basse etienne dans les cours de devisier on a deux ans genre huit mois par annee 6 ou huit mois
+ref norm:         genre avant d arriver dans l africulture j ai joue encore meme mes premieres annees a l africulture j ai joue encore au basket donc oui dans les cours de juviziel on a deux vingt genre huit mois par annee 6 ou huit mois
+
+ ------------------------------------------- 
+
+16.129032258064516
+line_id 5014061759
+transcript norm:  parce que moi je venais tout de suite de ce monde la pour entrer dans le monde du hip hop je ne connaissais rien d autre que le basket donc naturellement j ai beaucoup facilite a filmer a photographier les gens du basket et oui c est comme ca que j ai vraiment allie les deux des le debut
+ref norm:         parce que c est le moi je venais tout de suite de ce monde la pour rentrer dans le monde du hip hop je connaissais rien d autre que le basket donc naturellement j avais beaucoup de facilite a filmer a photographier les gens du basket et oui c est comme ca que j ai vraiment allie l idee depuis le debut
+
+ ------------------------------------------- 
+
+19.736842105263158
+line_id 5014050912
+transcript norm:  tu ecoutes j etais seule quoi et pour moi c est pour ca quand on me dit oui en tant que photographe femme qu est ce que tu as vecu de difficile j ai dit non tu blagues les gars ils m ont ils m ont genre ils m ont beaucoup aidee tu vois et puis moi j etais je m etais beaucoup sur les reseaux sociaux tu vois les artistes ils aiment quand on les publie on a tous les sous dates deja
+ref norm:         du coup j etais seule quoi et pour moi c est pour ca quand on me dit oui en tant que photographe femme qu est ce que tu as vecu de difficile j ai dit non tu blagues les gars ils m ont genre ils m ont beaucoup aide tu vois et puis moi je mettais beaucoup sur les reseaux sociaux tu vois les artistes ils aiment quand on les publie quand on les photographie deja
+
+ ------------------------------------------- 
+
+12.0
+line_id 5014049494
+transcript norm:  et ca moi je profite de ca pour remercier les artistes et l hip hop parce que moi j ai eu genre je peux frapper a toutes les portes les gens ils m ouvrent la porte je peux appeler n importe qui juste parce que je fais de la photo quoi ils soutiennent et j ai appris parce que c est comme un travail technique c est comme tu conduis une voiture chaque jour tu l ameliores
+ref norm:         et ca moi je profite de ca pour remercier les artistes et le hip hop parce que moi j ai eu genre je peux frapper a toutes les portes les gens m ouvrent les portes je peux appeler n importe qui juste parce que je fais de la photo ils soutiennent et j ai appris parce que comme c est un travail technique c est comme tu conduis une voiture chaque jour tu la maitrises
+
+ ------------------------------------------- 
+
+4.9504950495049505
+line_id 5014028718
+transcript norm:  en fait le truc c est pas qu on n avait pas un resultat satisfaisant mais l artiste en fait son manager m a contacte pour me dire on va faire moi je vais tout de suite parce que moi quand tu me parles ou que j ecoute de la musique je vois des emails donc je te dis ah ok moi c est ca que je vois et le gars me dit ok on fait le shooting et je lui demande c est qui ton graphiste parce que moi il y a des gens je ne suis pas .
+ref norm:         non en fait le truc c est pas qu on n avait pas un resultat satisfaisant mais l artiste en fait son manager m a contacte pour me dire on veut faire moi j avais tout de suite parce que moi quand tu me parles ou que j ecoute de la musique je vois des images donc je te dis ah ok moi c est ca que je vois et le gars me dit ok on fait le shooting et je lui demande c est qui ton graphiste parce que moi il y a des gens je ne suis pas .
+
+ ------------------------------------------- 
+
+8.771929824561402
+line_id 5014048007
+transcript norm:  parce que j ai commence a rencontrer les touremanes de maurie je voyais le travail de fatou kande au dela de ce qu elle fait dans le hip hop et a cette periode j etais tres tres timide mais j avais aussi beaucoup de colere en moi et je voulais travailler sur autre chose
+ref norm:         parce que j ai commence a rencontrer les toure mande maurie je voyais le travail de fatou kande au dela de ce qu elle a fait dans le hip hop et a cette periode j etais tres tres timide mais j avais aussi beaucoup de colere en moi et je voulais je voulais travailler sur autre chose
+
+ ------------------------------------------- 
+
+4.3478260869565215
+line_id 5014063470
+transcript norm:  je voulais aussi tester c est quoi faire une serie photo c est quoi etre artiste photographe donc j ai participe a des residences ici des ateliers comme tres souvent et la j ai commence a faire des series photo a deposer des appels a candidatures
+ref norm:         je voulais aussi tester c est quoi faire une serie photo c est quoi etre artiste photographe donc j ai participe a des residences ici des ateliers comme tres souvent et la j ai commence a faire les series photos a deposer des appels a candidatures
+
+ ------------------------------------------- 
+
+5.47945205479452
+line_id 5014033700
+transcript norm:  parce que c est quelque chose que tu n avais pas preconise du tout et puis tu as enormement de gens autour de toi qui t aiment comme ca qui aiment aussi tout ce que tu fais des fois je me dis mais toi la tu exageres parce que moi naturellement je suis une personne j ai enormement de questions je me questionne tout le temps je questionne mon cerveau je questionne .
+ref norm:         parce que c est quelque chose que tu n avais pas preconise du tout et puis tu as enormement de gens autour de toi qui t aiment comme ca qui apprecient tout ce que tu fais des fois je me dis mais toi la tu exageres parce que moi naturellement je suis une personne j ai enormement de questions je me questionne tout le temps je questionne mon travail je questionne genre .
+
+ ------------------------------------------- 
+
+14.814814814814813
+line_id 5014093343
+transcript norm:  c est ca et puis tu vois les associations genre on disait que oui ca n allait pas marcher ils vont s engueuler pour de l argent et qu apres c est reste et que ca tu vois ca a fait c est ca des echouements avec unix a dakar genre youssoupha a dakar
+ref norm:         c est ca et puis tu vois les associations genre on disait que oui ca n allait pas marcher ils vont s engueuler pour de l argent et que apres c est reste et que ca tu vois ca a fait fete a deux ages quoi avec onyx a dakar genre yousufa a dakar
+
+ ------------------------------------------- 
+
+7.2727272727272725
+line_id 5014059624
+transcript norm:  oui l idee c est de regrouper les gens deja parce qu il y avait l ambassade d autriche qui avait deja fait un program l annee derniere pour le mois de mars et moi ils m avaient demande de leur donner des contacts de photographes femmes comme j ai mis celle que je connaissais
+ref norm:         oui l idee c est de regrouper les gens deja parce qu il y avait l ambassade d autriche qui avait deja fait un program l annee derniere pour le mois de mars et moi ils m avaient demande de leur donner des contacts de photographe femme donc j ai mis celles que je connaissais
+
+ ------------------------------------------- 
+
+8.16326530612245
+line_id 5014066288
+transcript norm:  il y avait des hommes dans la raison deux trois mais je dis comme on est majoritaire pour une fois creons un groupe et puis on se partage les appels a candidature les pistes quoi et c est la maintenant j ai rencontre une autre photographe franco senegalaise a seattle
+ref norm:         il y avait des hommes dans la residence deux trois mais je dis comme on est majoritaire pour une fois creons un groupe et puis on se partage les appels a candidature les pistes quoi et c est la maintenant j ai rencontre une autre photographe franco senegalais assietou
+
+ ------------------------------------------- 
+
+9.375
+line_id 5014041644
+transcript norm:  il y a un grand festival et l idee c etait de creer un pont mais base sur la formation on fait une formation de 6 7 mois a dakar et ensuite on fait une exposition a arles parce qu elle peut avoir un espace pour faire l expo et puis faire une formation aussi avec des jeunes de banlieue de arles
+ref norm:         il y a un grand festival et l idee c etait de creer un pont mais base sur la formation on fait une formation de 6 sept mois a dakar et ensuite on fait une exposition a arles parce qu elle elle a pas avoir un espace ou faire l expo et puis faire une formation aussi avec des jeunes de banlieue a arles
+
+ ------------------------------------------- 
+
+3.389830508474576
+line_id 5014029172
+transcript norm:  moi ma periode en fait il y a un moment ou il y avait fladerip qui venait de sortir un album popose qui venait de sortir un album puis qui encore parce que comme je vendais les albums a chaque fois qu un album sort j achete et j ecoute parce que comme ca je peux dire
+ref norm:         moi ma periode en fait il y a un moment ou il y avait fladerip qui venait de sortir un album popose qui venait de sortir un album puis qui encore parce que comme je vendais les albums donc a chaque fois qu un album sort j achete et j ecoute parce que comme ca je peux dire .
+
+ ------------------------------------------- 
+
+6.521739130434782
+line_id 5014014106
+transcript norm:  moi je trouve qu avec le digital les plus intelligents se sont formes ou ont cree une direction artistique dans leur coin parce que tu vois le digital ca rend fou je voulais donner un exemple et je me dis ina calme toi fais le meme
+ref norm:         moi je trouve qu avec le digital les plus intelligents se sont formes ou ont cree une direction artistique dans leur coin parce que tu vois le digital ca rend fou je voulais donner un exemple et je me dis ina calme toi on te filme
+
+ ------------------------------------------- 
+
+40.0
+line_id 3766814614
+transcript norm:  et on arrive presque au bout quel est l impact du poursuivant negatif sur la societe parce qu il s amuse d or a etre accepte par la societe lui pas mais par contre j ai l impression que ca influence quand meme vachement la societe avoir vraiment des jeunes aujourd hui parce que c est des jeunes qui ecoutent plus facilement c est plus accessible comme je disais tout a l heure
+ref norm:         et on arrive presque au bout quel est l impact du hip hop senegalais sur la societe senegalaise parce que ca a mis du temps a etre accepte c etait le hip hop mais par contre j ai l impression que ca a un flux ca influence quand meme vachement la societe notamment les jeunes aujourd hui mais peut etre parce que les jeunes aussi ecoutent plus facilement c est plus accessible comme vous le disiez tout a l heure
+
+ ------------------------------------------- 
+
+18.055555555555554
+line_id 3766833950
+transcript norm:  et la ou l on est par exemple c est tout raison mais si on parle de la politique et de differentes tu en as parle beaucoup des laftistes qui s expriment sur le plan politique il y en a qui ont fait passer des messages grace a des clips ouais grace a des sons il y a des sons qui ont ete faits expres pour arreter la situation politique qu il y a eu au senegal
+ref norm:         et la aujourd hui par exemple c est tout recent mais si on parle de la politique et des differentes on attendait beaucoup des artistes qui s expriment sur le plan politique il y en a qui ont fait passer des messages grace a des clips grace a des sons il y a des sons qui ont ete faits expres pour toute la situation politique qu il y a eu au senegal
+
+ ------------------------------------------- 
+
+24.390243902439025
+line_id 5014052422
+transcript norm:  mon frere je suis issu d une famille une grande famille mais il y en a deux je suis plus proche d eux genre ma grande soeur absa qui est decedee mais n a pas son ame et mon grand frere bakary
+ref norm:         j ai mon frere je suis issue d une grande famille mais il y en a deux je suis plus proche d eux genre ma grand soeur apsa qui est decedee maintenant paix a son ame et mon grand frere bakary
+
+ ------------------------------------------- 
+
+19.148936170212767
+line_id 5014087410
+transcript norm:  apsa etait dans la meme ecole que certains rappeurs a peking donc les pinal gang et puis un groupe de reggae et donc elle etait dans le hip hop et ma ch etait tres jeune mais je la vois elle ressemblait a une rappeuse hip hop
+ref norm:         apsa etait dans la meme ecole que certains rappeurs a pikine donc les pinal gang et puis un groupe de reggae et donc elle etait genre elle etait dans le hip hop et moi j etais tres jeune mais je la vois elle ressemblait a une rappeuse
+
+ ------------------------------------------- 
+
+Final wer score:  10.670820153910212

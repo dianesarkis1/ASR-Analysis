@@ -1,0 +1,1422 @@
+3.7735849056603774
+line_id 2166429513
+transcript norm:  apres votre expulsion du caucus du plq en 2022 ca fait un bon moment deja vous souhaitiez renouer a temps partiel avec votre profession mais vous avez demande un avis a la commissaire a l ethique et les regles qui vous ont ete exposees vous ont semble tellement strictes que vous y avez renonce
+ref norm:         apres votre expulsion du caucus du plq en 2022 ca fait bon moment deja vous souhaitiez renouer a temps partiel avec votre profession mais vous avez demande un avis a la commissaire a l ethique et les regles qui vous ont ete exposees vous ont semble tellement stric que vous y avez renonce
+
+ ------------------------------------------- 
+
+5.714285714285714
+line_id 2166459550
+transcript norm:  quelles etaient ces regles strictes la moi j ai vu la vie mais pour le benefice de nos auditeurs il y avait beaucoup de regles vous ne pouviez pas par exemple avoir des clients dans votre circonscription
+ref norm:         quelles etaient ces regles strictes j ai vu la vie mais pour le benefice de nos auditeurs il y avait beaucoup de regles vous ne pouviez pas par exemple avoir des clients dans votre circonscription
+
+ ------------------------------------------- 
+
+5.970149253731343
+line_id 2166497637
+transcript norm:  oui mais il y avait beaucoup d elements dans votre avis il ne faut pas que vous ayez l air de vous batir une clientele donc en parler publiquement c est mal aise il ne faut pas avoir non plus travaille en dehors des soirees il ne faut pas travailler les jours de semaine c est vraiment precis la aussi sur le moment ou vous devez rencontrer des clients
+ref norm:         oui mais il y avait beaucoup d elements dans votre avis il ne faut pas que vous ayez l air de vous batir une clientele donc en parler publiquement c est malaisant il ne faut pas avoir non plus travaille en dehors des soirees il ne faut pas travailler les jours de semaine c est vraiment precis aussi sur le moment ou vous devriez rencontrer des clients
+
+ ------------------------------------------- 
+
+10.526315789473683
+line_id 2166476060
+transcript norm:  puis aussi le materiel de l assemblee et senat il faut utiliser un autre ordinateur et un autre cellulaire
+ref norm:         puis aussi le materiel de l assemblee nationale donc il faut utiliser un autre ordinateur et un autre cellulaire
+
+ ------------------------------------------- 
+
+11.11111111111111
+line_id 2166453956
+transcript norm:  oui vous mettez en garde il y avait l interet personnel ne pouvait pas influencer votre independance de jugement dans l exorcisme de votre charge donc quand il est question aussi de droits de la famille a l assemblee nationale c est delicat
+ref norm:         oui mais vous mettez en garde la il y avait l interet personnel ne pouvez pas influencer votre independance de jugement dans l exercice de votre charge donc quand il est question aussi de droit de la famille a l assemblee nationale c est delicat
+
+ ------------------------------------------- 
+
+3.571428571428571
+line_id 2166440139
+transcript norm:  la on a finalement pu voir les avis qui avaient ete produits pour votre collegue elu de quebec solidaire guillaume cle scrivard puis moi quand je mets les deux avis a cote je trouve qu il a obtenu des permissions qui me semblent en contradiction avec ce que la commissaire a l ethique vous a mis comme carre de sable et c est ca votre carre de sable est beaucoup plus restreint il me semble est ce que c est une impression que vous partagez
+ref norm:         la on a finalement pu voir les avis qui avaient ete produits pour votre collegue elu de quebec solidaire guillaume cliche rivard moi quand je mets les deux avis a cote je trouve qu il a obtenu des permissions qui me semblent en contradiction avec ce que la commissaire a l ethique vous a mis comme carre de sable et c est ca votre carre de sable est beaucoup plus restreint il me semble est ce que c est une impression que vous partagez
+
+ ------------------------------------------- 
+
+5.0
+line_id 2166458797
+transcript norm:  il est l unique actionnaire donc a la fin de l annee il peut obtenir les revenus de tout ca et dire partout qu il est avocat specialiste en droits de l immigration alors qu il est critique en matiere d immigration donc vous vous pourriez si on applique ca a vous vous pourriez vous creer un cabinet je m imagine
+ref norm:         il est l unique actionnaire donc a la fin de l annee il peut obtenir les revenus de tout ca et dire partout qu il est avocat specialiste en droit de l immigration alors qu il est critique en matiere d immigration donc vous vous pourriez si on applique ca a vous vous pourriez vous creer un cabinet j imagine
+
+ ------------------------------------------- 
+
+9.375
+line_id 2166443882
+transcript norm:  puis il y a une autre collegue brigitte garceau elle qui est elue du parti liberal elle aussi fait du droit de la famille et elle n a pas eu d avis clair donc
+ref norm:         il y a une autre collegue brigitte garceau elle qui est elue du parti liberal elle aussi fait du droit de la famille et elle n a pas eu d avis clairs
+
+ ------------------------------------------- 
+
+11.363636363636363
+line_id 2166429562
+transcript norm:  bon je veux dire elle n a pas eu d avis ecrit donc je ne peux pas savoir exactement ou en tout cas le public ne peut pas savoir exactement quelle sorte de carre de sable elle a elle qu est ce que vous pensez de ca
+ref norm:         je veux dire elle n a pas eu d avis ecrit donc je peux pas savoir exactement ou en tout cas le public peut pas savoir exactement quelle sorte de carre de sable est la elle qu est ce que vous pensez de ca
+
+ ------------------------------------------- 
+
+5.263157894736842
+line_id 2166490398
+transcript norm:  donc il y a des distorsions dans les avis dans les situations vous allez vous demander comme une mise a jour pour pouvoir pratiquer vous avez vraiment venonce a pratiquer jusqu a la fin de votre mandat
+ref norm:         donc il y a des distorsions dans les avis dans les situations vous allez vous demander comme une mise a jour pour pouvoir pratiquer ou vous avez vraiment renonce a pratiquer jusqu a la fin de votre mandat
+
+ ------------------------------------------- 
+
+0.0
+line_id 2166471670
+transcript norm:  c est ca vous l avez dit vous travaillez tres fort comme depute d ou ma surprise moi de prendre conscience qu il y a des deputes qui ont quand meme une pratique professionnelle a temps partiel est ce que justement est ce que vous avez plus de temps libre qu on pense
+ref norm:         c est ca vous l avez dit vous travaillez tres fort comme depute d ou ma surprise moi de prendre conscience qu il y a des deputes qui ont quand meme une pratique professionnelle a temps partiel est ce que justement est ce que vous avez plus de temps libre qu on pense
+
+ ------------------------------------------- 
+
+29.09090909090909
+line_id 8720116056
+transcript norm:  on avait ete ensemble en gaspesie a chibugamo en abitibi j ecoutais nicolas et je me disais la personne que j aimerais entendre aujourd hui c est emilie zessantin elle qui a lance tout le debat il y a deux semaines quand elle a demissionne que la seine borne
+ref norm:         si on avait ete ensemble en gaspesie a chibougamau en abitibi ecoutez j ecoutais nicolas pis je me disais la personne que j aimerais entendre aujourd hui c est emilise lessard therrien c est elle qui a lance tout le debat il y a deux semaines quand elle est demissionnee qui a lance une bombe
+
+ ------------------------------------------- 
+
+36.25
+line_id 8720181503
+transcript norm:  dans ce debat c est parti precis en disant il y a un clic autour du chiffre il y a une facon de fonctionner que je ne precise pas il y a une place qui n est pas faite pour les fans une place tournee d idees aussi qui monte et la on a fait devier le debat en disant on peut comprendre que la classe automatique etait deja prepagnee qui etait deja prevue et on a dedie le debat devie vers ca
+ref norm:         a lance un debat assez precis en disant il y a une clique autour du chef il y a une facon de se fonctionner que je n apprecie pas il y a une place qui n est pas faite pour les femmes une place pour mes idees aussi qui manque et la on a fait devier le debat en disant ecoute on prend la declaration de saguenay qui etait deja preparee qui etait deja prevue et le debat delivre ca
+
+ ------------------------------------------- 
+
+14.583333333333334
+line_id 8720183755
+transcript norm:  je trouve qu il manque quelque chose de conclue la bas et il y a aussi dans ce groupe la solzhenitsyn qui est un tres proche ami de catherine dorion et plusieurs personnes plusieurs dessinateurs de la lettre qui sont justement un groupe autour de ca
+ref norm:         je trouve qu il manque quelque chose de concret la dedans et il y a aussi dans ce groupe la sol zenetti qui est un tres proche ami de catherine dorion et plusieurs personnes plusieurs dessinateurs de la lettre qui sont justement dans le groupe autour de sol
+
+ ------------------------------------------- 
+
+35.0
+line_id 8720153880
+transcript norm:  de bonnou nous conformait a ses exigences ou les caissierait si on revient a ce que nicolas disait en disant auparavant que betholda parlait de nationaliser l industrie forestiere les mines les banques on repartit toujours maintenant betholda dit non on va oeuvrer dans le systeme politique habituel qu il existe
+ref norm:         devons nous nous conformer a ces exigences ou les questionner si on revient a ce que nicolas disait en disant auparavant quebec solidaire parlait de nationaliser l industrie forestiere les mines aussi les banques si je me souviens bien ou en partie toujours bien maintenant quebec solidaire dit non on va oeuvrer dans le systeme politique habituel capitaliste qui existe
+
+ ------------------------------------------- 
+
+13.186813186813188
+line_id 2166497109
+transcript norm:  j y vais aussi du catherine de rion d ailleurs parce que catherine de rion c est pour ca aussi qu elle est quittee c est l aspect institution les regles institutionnelles qui la titillaient qui a fait qu elle est partie et jusqu a la sortie de son livre elle etait partie un peu on ne l entendait plus et depuis la sortie de son livre on dirait qu elle avait pris gout a l espace public elle veut se faire entendre et tous ces petits coups qu elle fait presentement
+ref norm:         j y vois aussi du catherine dorion derriere ca parce que catherine dorion c est pour ca aussi qu elle a quitte c est l aspect institution les regles institutionnelles qui la titillaient qui a fait qu elle est partie et jusqu a la sortie de son livre elle etait partie un peu on ne l entendait plus et depuis la sortie de son livre on dirait qu elle a repris gout a l espace public elle veut se faire entendre et tous ces petits coups qu elle fait presentement ..
+
+ ------------------------------------------- 
+
+14.754098360655737
+line_id 2166495818
+transcript norm:  elle considere que c est un excellent parlementaire quelqu un qui a ses avantages qui est pertinent pour le parti maintenant elle veut que gawial accepte qu il puisse y avoir au sein du parti des gens qui sont plus creatifs qui essaient de changer les choses autrement un peu comme emilie et kathleen dorion sont
+ref norm:         elle considere que c est un excellent parlementaire quelqu un qui a ses avantages qui est pertinent pour le parti mais elle elle veut que gabrielle accepte qu il puisse y avoir au sein du parti des gens qui sont plus creatifs qui sont plus justement qui essaient de changer les choses autrement un peu comme emilise et catherine dorion sont
+
+ ------------------------------------------- 
+
+16.129032258064516
+line_id 2166440108
+transcript norm:  parce que tu sais quand meme il a gagne son vote de confiance qu il a pris une date au dubois en meme temps et il a perdu je ne pense pas qu il appuyait emilie donc ca ce vote la il l a perdu au mois d aout donc c est difficile de savoir exactement de quel bord va pencher la salle le 25 mai a jonquiere
+ref norm:         parce que tu sais quand meme il a gagne son vote de confiance gabriel nadeau dubois en meme temps il a perdu je ne pense pas qu il appuyait emilise donc ca ce vote la il l a perdu au mois d aout donc c est difficile de savoir exactement de quelle bord va pencher la salle le 25 mai a jonquiere
+
+ ------------------------------------------- 
+
+29.268292682926827
+line_id 2166479109
+transcript norm:  emilie a gagne bon de justesse le coup au porte parole c est difficile de voir quel bord ca va prendre pierre fitzgibbon patrick belrose comment vous avez vecu ca dans les corridors son espece de valse hesitation sur son ablure
+ref norm:         emilie a gagne de justesse le coup porte parole donc c est difficile de voir quelle barre ca va prendre pierre fitz gibbon patrick bellerose comment avez vous avez vecu ca dans les corridors son espece de valsesitation sur son avenir
+
+ ------------------------------------------- 
+
+20.72072072072072
+line_id 8720194643
+transcript norm:  il n est pas du tout inquiet des questions qu on lui pose il s arrete chaque fois il est bon kyle trouve ca pertinent il est bon sur le fond quand il trouve ca un petit peu impertinent ben ecoute il joue avec nous et la donc c est lui meme qui a un peu lance un palais dans la mort on dit ca aux journalistes a faire parce que deux mandats c est assez de course au mois 12 on en revient apres on s en doutait deja on le savait la il y a des collegues qui ont demande est ce que vous engagez minimum a finir votre mandat
+ref norm:         il n est pas du tout inquiet des questions qu on lui pose il s arrete chaque fois il repond quand il trouve ca pertinent il repond sur le fond quand il trouve ca un petit peu impertinent ben ecoute il joue avec nous et la donc c est lui meme qui a un peu lance un papier dans la mort en disant au journal des affaires je pense que deux mandats c est assez grosso modo je m en vais apres on s en doutait deja on le savait et la il y a des collegues qui ont demande est ce que vous vous engagez minimum a finir votre mandat
+
+ ------------------------------------------- 
+
+22.22222222222222
+line_id 8720177632
+transcript norm:  la reponse etait je m engage a livrer ce que j ai promis a francois legault dont son proces de loi qui s envierait tres bientot souvent dans l informe energetique au quebec la filiere batterie il dit apres ca il partirait quand ce sera fini donc pas necessairement jusqu a la fin du mandat et la donc on lui parle un petit peu il n a pas trop envie d en parler il va tout seul en bleu
+ref norm:         et sa reponse etait je m engage a livrer ce que j ai promis a francois legault donc son projet de loi qui s en vient tres bientot sur la reforme energetique au quebec la filiere batterie il dit apres ca tu sais je partirai quand ce sera fini donc pas necessairement jusqu a la fin du mandat et la donc on lui parle un petit peu il n a pas trop envie d en parler il rentre au salon bleu
+
+ ------------------------------------------- 
+
+37.096774193548384
+line_id 8720110694
+transcript norm:  or le monde est precise il dit ah la tu pourrais faire un troisieme mordant si il n est pas tellement ne on comprend que ce n est pas necessairement vrai mais quand meme on voit qu il s amuse comme ca qu il joue avec nous et meme que le lendemain il veut sortir en disant ah la tu feras un troisieme mordant
+ref norm:         on lui demande des precises il dit ah mais tu je pourrais faire un troisieme mandat si j ai pas termine on comprend que c est pas necessairement vrai mais quand meme on voit qu il s amuse comme ca qu il joue avec nous et meme que le lendemain il ressortit en disant alors je vais le faire un troisieme mandat
+
+ ------------------------------------------- 
+
+36.45833333333333
+line_id 8720141365
+transcript norm:  les sondages sont mauvais ca cree un momentum comme on a deja vu au pq si tu es bien avec tes amis donc meme si patrick levin a raison de dire t as quelques demi seminces demi seminces tu l annonces maintenant meme pis c est tout tout politicien qui est un petit peu ratouilleux sait tres bien que tu le dis pas la race pis tu dis oui oui je vais t amener mon mandat pis si jamais tu l amenes pas ben tu l annonces pis tu t en vas
+ref norm:         les sondages sont mauvais ca cree un momentum comme on a deja vu au pq si tu te souviens bien il y a quelques annees donc meme si pierre fitzgibbon a raison de dire quand quelqu un demissionne demissionne puis il annonce le matin a meme puis c est tout tout politicien qui est un petit peu ratoureux c est tres bien que tu le dis pas d avance puis tu te dis oui oui je vais terminer mon mandat puis si jamais tu le termines pas bien tu l annonces puis tu t en vas
+
+ ------------------------------------------- 
+
+13.924050632911392
+line_id 2185425462
+transcript norm:  il peut l avoir un peu evolue encore mais il n y aura pas de nouveau contrat je pense que norvolt sera le point central de cette filiere batterie la apres ca il a aussi dit qu il ne faut pas juste miser la dessus il ne faut pas mettre tous nos oeufs dans le meme panier il est aussi sur le plan economique donc il est fier de ca mais le projet de loi il n est pas passe la
+ref norm:         il veut l avoir un peu evoluee encore mais il n y aura pas de nouveaux contrats je pense que northvolt sera le point central de cette filiere batterie la apres ca il a aussi dit qu il ne faut pas juste miser la dessus il ne faut pas mettre tous nos oeufs dans le meme panier aussi sur le plan economique donc il est fier de ca mais le projet de loi il n y a pas pense
+
+ ------------------------------------------- 
+
+24.561403508771928
+line_id 8720152084
+transcript norm:  je me suis fait une petite redaction parce qu il va partir 6 mois a peu pres quelques mois avant la fin du mandat histoire de dire avec qui il ne vous represente pas donc mets quelqu un d autre si tu veux pour que la personne puisse se faire valoir se faire voir
+ref norm:         je vais faire une petite prediction je pense qu il va partir 6 mois a peu pres quelques mois avant la fin du mandat histoire de dire ecoutez moi je ne le represente pas donc mets quelqu un d autre si tu veux pour que la personne ait le temps de se faire valoir se faire voir
+
+ ------------------------------------------- 
+
+24.65753424657534
+line_id 8720136270
+transcript norm:  il m expliquait ca et il me disait en fait ce qu on voulait faire c est un peu comme l application desjardins ou tu peux faire des transactions en ligne tu fais un petit casse herbe moi je me disais desjardins depuis le vrai temps depuis 15 ans je ne sais pas trop qu est ce qui fait que le grand quebec n est pas capable de lire des preuves comme ca
+ref norm:         et la il m expliquait ca et il disait en fait ce qu on voulait faire c est un peu comme l application desjardins ou tu peux faire tes transactions en ligne tu sais sur l application moi je me disais desjardins deja depuis 20 ans depuis 15 ans je sais pas trop qu est ce qui fait que le gouvernement du quebec n est pas capable de livrer des projets comme ca
+
+ ------------------------------------------- 
+
+6.896551724137931
+line_id 2185487370
+transcript norm:  parce que si on lisait mon texte c est que dans la partie d autorisation il y avait aussi les entreprises mais les entreprises ca va tellement bien avec clicksecure au sein du quebec que le gouvernement quand il s est vu que ca n allait pas tres bien avec sag a decide de mettre cette partie la de cote
+ref norm:         parce que si on lisait mon texte c est que dans la partie d autorisation il y avait aussi les entreprises mais les entreprises ca va tellement bien avec clicsequr revenu quebec que le gouvernement quand il s est vu que ca n allait pas tres bien avec sag a decide de mettre cette partie la de cote
+
+ ------------------------------------------- 
+
+30.952380952380953
+line_id 8720156961
+transcript norm:  oui albert marc drinville qui envisage finalement d interdire le telephone cellulaire dans l ecole complete on sait qu il l a fait pour les classes et ca m a apres le passage du gabon natal apres les pressions aussi pas assez tres longtemps drinville y reflechit je trouve que c est une excellente idee bon je ne suis pas certain aupres des paras ca va bien passer parce que les paras ont achete un cellulaire pour que la vapeur puisse s en servir nous
+ref norm:         oui a bernard drainville qui envisage finalement d interdire le telephone cellulaire dans l ecole au complet on sait qu ils l ont fait pour les classes recemment apres le passage de gabriel attal apres les pressions aussi de paul serpent ferrandon bernard drainville y reflechit je trouve que c est une excellente idee bon je ne suis pas certain aupres des parents si ca va bien passer parce que les parents ont achete un cellulaire pour que leur enfant puisse s en servir
+
+ ------------------------------------------- 
+
+19.696969696969695
+line_id 2185468734
+transcript norm:  martine biron tout ce qui a trait au bureau en israel est capable de dire s il pourrait y avoir des affaires quebecoises avec de l armement et son manque de courage diplomatique en ce qui a trait a ce qui se passe a rafa presentement ne l a pas ose il y a eu une pop up negative sur israel meme si les etats unis en font un parallele
+ref norm:         martine biron tout ce qui a trait au bureau en israel incapable de dire s il pourrait y avoir des affaires quebecoises avec de l armement et son manque de courage diplomatique en ce qui a trait a ce qui se passe a rafa presentement elle n a pas ose y aller de propos negatifs envers israel meme si les etats unis en font en parallele
+
+ ------------------------------------------- 
+
+6.0606060606060606
+line_id 2166440352
+transcript norm:  merci beaucoup moi je vous donne des pouces en haut pour ce beau segment merci infiniment a patrick bellevose du bureau parlementaire et nicolas lachance aussi deux correspondants de comment dire de grande qualite
+ref norm:         merci beaucoup moi je vous donne des pouces en haut pour ce beau segment merci infiniment patrick bellerose du bureau parlementaire et nicolas lachance aussi deux correspondants de comment dire de grande qualite
+
+ ------------------------------------------- 
+
+4.477611940298507
+line_id 2166468354
+transcript norm:  on va reparler de l insulte parlementaire de la semaine plein de marbre qui a ete prononcee a ottawa comme on le sait par le depute francis douin mais par les dimensions constitutionnelles de cet outrage bonjour c est evidemment patrick taillon qui est avec nous notre chroniqueur constitutionnel et accessoirement professeur de droit a l universite laval donc quelles sont les dimensions constitutionnelles de cet insulte
+ref norm:         on va reparler de l insulte parlementaire de la semaine plein de marde qui a ete prononcee a ottawa comme on le sait par le depute francis droin mais par les dimensions constitutionnelles de cet outrage bonjour c est evidemment patrick taillon qui est avec nous notre chroniqueur constitutionnel et accessoirement professeur de droit a l universite laval donc quelles sont les dimensions constitutionnelles de cette insulte
+
+ ------------------------------------------- 
+
+12.857142857142856
+line_id 4368186436
+transcript norm:  et on voit que ca derange ca bouscule l approche de l entite federale du gouvernement federal et notamment du parti liberal du canada aussi dans sa predaction epideremique du depute francis drouin c est sur que si on parle d une approche statistique etudier a l universite en anglais pour les grands nombres pas pour tout le monde mais pour les grands nombres ca favorise l assimilation
+ref norm:         et on voit que ca derange ca bouscule l approche de l entite federale du gouvernement federal et notamment du parti liberal du canada aussi dans cette reaction epidermique du depute francis drouin c est sur que si on prend une approche statistique la ben oui etudier a l universite en anglais sur les grands nombres pas pour tout le monde mais pour les grands nombres ca favorise l assimilation
+
+ ------------------------------------------- 
+
+12.280701754385964
+line_id 4368189876
+transcript norm:  formel et donc la jeunesse courlance canadienne les autorites federales rappellent toujours cette approche axee sur l egalite reelle on se fout de nous ce que ca veut dire mais il y a quand meme des enonces tres forts en lien avec ca notamment l idee qu il faut traiter les gens differemment pour atteindre un resultat egalitaire
+ref norm:         formelle et donc la jurisprudence canadienne les autorites federales rappellent toujours cette approche axee sur l egalite reelle on ne sait pas tout ce que ca veut dire mais il y a quand meme des enonces tres forts en lien avec ca notamment l idee qu il faut traiter les gens differemment pour atteindre un resultat egalitaire
+
+ ------------------------------------------- 
+
+8.771929824561402
+line_id 4368173050
+transcript norm:  et la enfin on a commence a faire du judo avec l approche canadienne en disant vous ne voulez pas nous parler d egalite reelle pour toutes les autres formes de discrimination quand on arrive aux relations entre les deux groupes de langue officielle la votre approche ne tient plus alors la le verre est dans la pomme
+ref norm:         et la enfin on a commence a faire du judo avec l approche canadienne en disant vous ne pouvez pas nous parler d egalite reelle pour toutes les autres formes de discrimination quand on arrive aux relations entre les deux groupes de langues officielles la votre approche tient plus alors la le vert est dans la pomme
+
+ ------------------------------------------- 
+
+16.666666666666664
+line_id 4368186939
+transcript norm:  en la nouvelle loi sur les langues officielles le federal a ete oblige d admettre que l egalite reelle c etait bon aussi pour le francais ca veut dire quoi ca il faut traiter les deux langues scenariquement pour atteindre un resultat egalitaire
+ref norm:         dans la nouvelle loi sur les langues officielles le federal a ete oblige d admettre que ben oui l egalite reelle c est peut etre bon aussi pour le francais ca veut dire quoi ca il faut traiter les deux langues officielles differemment pour atteindre un resultat egalitaire
+
+ ------------------------------------------- 
+
+14.084507042253522
+line_id 4368179409
+transcript norm:  c est comme quelqu un qui vient de faire le deuil de cette vieille approche qui consiste a dire non non au quebec si on fait les choses la parfaite symetrie entre symetrie au sens traitement identique de la minorite anglophone du quebec par rapport aux minorites franco hors quebec cela dit meme historiquement le traitement identique et symetrique ce n est pas vrai
+ref norm:         c est comme quelqu un qui est en train de faire le deuil de cette vieille approche qui consiste a dire non non au quebec la si on fait les choses pas exactes il faut la parfaite symetrie entre symetrie au sens traitement identique de la minorite anglophone du quebec par rapport aux minorites franco hors quebec cela dit meme historiquement le traitement identique et symetrique la c est pas vrai
+
+ ------------------------------------------- 
+
+9.523809523809524
+line_id 4368145807
+transcript norm:  c etait la position de rene levesque de constamment dire ecoutez moi je vous propose de reciprociter si vous offrez les memes avantages on va s ajuster mais bref il y a un discours la dessus qui est persistant
+ref norm:         et c etait la position de rene levesque de constamment dire ben ecoutez moi je vous propose de la reciprocite si vous offrez les memes avantages on va s ajuster mais bref il y a un discours la dessus qui est persistant
+
+ ------------------------------------------- 
+
+0.0
+line_id 4368160214
+transcript norm:  et donc cette approche systemique qui pose le federal elle consiste a dire il y a un ecart statistique donc on vient diagnostiquer une inegalite systemique
+ref norm:         et donc cette approche systemique qui pose le federal elle consiste a dire il y a un ecart statistique donc on vient diagnostiquer une inegalite systemique
+
+ ------------------------------------------- 
+
+15.384615384615385
+line_id 4368177845
+transcript norm:  deux exemples il y a un ecart statistique dans qui a des chaires de recherche au canada donc il y a une inegalite systemique on remet des cibles obligatoires et on arrive par exemple a une liste elavale avec des concours en biologie et en histoire ou pour acceder a une chaire de recherche il faut exclure les candidatures issues du groupe majoritaire historiquement aborde a gic
+ref norm:         deux exemples il y a un ecart statistique dans qui a des chaires de recherche du canada donc il y a une inegalite systemique on vous met des cibles obligatoires et on arrive par exemple a l universite laval avec des concours en biologie en histoire ou pour acceder a une chaire de recherche il faut exclure les candidatures issues du groupe majoritaire historiquement avantage
+
+ ------------------------------------------- 
+
+12.5
+line_id 4368111255
+transcript norm:  vous voyez comment l ecart statistique l outil diagnostique de la discrimination systemique ca va loin par exemple le gouvernement actuel en matiere de peine de prison a note des lois pour dire au fond si il y a un ecart statistique en defaveur des autochtones par exemple des personnes noires dans les prisons il faut essayer d eviter la prison pour ces gens la
+ref norm:         vous voyez comment l ecart statistique devient l outil diagnostique de la discrimination systemique et elle justifie et ca va loin par exemple le gouvernement actuel en matiere de peine de prison a adopte des lois pour dire au fond maintenant s il y a un ecart statistique en defaveur des autochtones ou par exemple des personnes noires dans les prisons il faut essayer d eviter la prison pour ces gens la
+
+ ------------------------------------------- 
+
+8.571428571428571
+line_id 4368199356
+transcript norm:  donc il faut des peines de prison differentes les ltvl donc des traitements differents pour atteindre l egalite statistique recherchee et qu est ce qu il fait frederic lacroix il fait la meme chose
+ref norm:         donc il faut des peines de prison differentes egalite reelle donc des traitements differents pour atteindre l egalite statistique recherchee et qu est ce qu il fait frederic lacroix ben il fait la meme chose
+
+ ------------------------------------------- 
+
+11.11111111111111
+line_id 4368132011
+transcript norm:  j arrive et dis moi je prends tous les financements de mcgill et je prends tous les financements de l universite de montreal qu est ce que je vois je vois un ecart statistique
+ref norm:         il arrive et il dit moi je prends tous les financements de mcgill et je prends tous les financements de l universite de montreal et qu est ce que je vois je vois un ecart statistique
+
+ ------------------------------------------- 
+
+7.317073170731707
+line_id 4368150608
+transcript norm:  et donc il ramene cette realite statistique qui place le federal face a ok effectivement est ce que toutes les formes de discrimination systemique seraient condamnables sauf la discrimination systemique ou statistique basee sur les rapports entre les deux langues de l ouest
+ref norm:         et donc il ramene cette realite statistique qui place le federal face a ok effectivement est ce que toutes les formes de discrimination systemique seraient condamnables sauf la discrimination systemique ou statistique basee sur les rapports entre les deux langues officielles
+
+ ------------------------------------------- 
+
+5.063291139240507
+line_id 4368185281
+transcript norm:  ah oui le canada fait des trucs agreables pour le francais mais au quebec il s agit de financer la presence de l anglais il s agit de renforcer la communaute anglophone c est ca la politique traditionnelle et donc on voit que le federal est un peu place sur la defensive parce que le quebec est en train de retrouver une partie des parlementaires au federal puis des forces au quebec sont en train de faire du judo
+ref norm:         ah oui le canada fait des trucs incroyables pour le francais mais au quebec il s agit de financer la presence de l anglais il s agit de renforcer la communaute anglophone c est ca la politique traditionnelle et donc on voit que le federal est un peu place sur la defensive parce que le quebec est en train . ou une partie des parlementaires au federal et des forces au quebec sont en train de faire du judo
+
+ ------------------------------------------- 
+
+5.555555555555555
+line_id 4368125116
+transcript norm:  en utilisant ces concepts d egalite reelle de discrimination systemique pour attirer l attention du federal sur le fait que si vous etes coherent avec il faut traiter les gens differemment pour arriver a un resultat semblable bien la vous ne pouvez plus traiter la minorite le cas de l anglais au quebec de la maniere dont vous le faites depuis des annees et donc ca va etre un dossier a suivre c est
+ref norm:         en utilisant ces concepts d egalite reelle de discrimination systemique pour attirer l attention du federal sur le fait que si vous etes coherents avec il faut traiter les gens differemment pour arriver a un resultat semblable ben la vous ne pouvez plus traiter la minorite le cas de l anglais au quebec de la maniere dont vous le faites depuis des annees et donc ca va etre un dossier a suivre
+
+ ------------------------------------------- 
+
+14.516129032258066
+line_id 4368123675
+transcript norm:  oui je ne suis pas tombe trop dans une revue des debats academiques sur ce sujet la mais ca fait un petit bout que la discussion existe l ouvrage d eric poirier fait une revue remarquable de tout ca puis au fond on a des gens qui disent par exemple comme frederic berard qui disent non non non il y a deja un traitement de difference ici
+ref norm:         oui sans tomber trop dans une revue des debats academiques sur ce sujet la mais ca fait un petit bout que la discussion existe l ouvrage d eric poirier fait une revue remarquable de tout ca et au fond on a des gens qui disent par exemple comme frederic berard qui disent non non non il y a deja un traitement differencier
+
+ ------------------------------------------- 
+
+35.8974358974359
+line_id 4368118837
+transcript norm:  comme s il anticipe que ca va etre un probleme puis tu te dis non c est des renfles on traite deja il a ignore il est dans son ouvrage il cherche le traitement du velo aussi il ne le trouve pas
+ref norm:         comme s il anticipe que ca va etre un probleme puis il dit non non c est deja le cas on traite deja eric poirier lui dans son ouvrage il cherche le traitement differencier il ne le trouve pas
+
+ ------------------------------------------- 
+
+18.181818181818183
+line_id 4368148898
+transcript norm:  et il ramene des pessimistes moi j en fais partie je pense qu il y a un traitement differencie il existe mais il est en faveur d un anglais au quebec
+ref norm:         et il y a meme des pessimistes moi j en fais partie je pense qu il y a un traitement differencier il existe mais il est en faveur de l anglais au quebec
+
+ ------------------------------------------- 
+
+6.896551724137931
+line_id 2166484157
+transcript norm:  deuxieme sujet tu as lu la decision de la juge mas qui avait jete la semaine passee l injonction qui demandait la levee du campement pro palestinien de mcgill
+ref norm:         deuxieme sujet tu as lu la decision de la juge mas qui a rejete la semaine passee l injonction qui demandait la levee du campement pro palestinien de mcgill
+
+ ------------------------------------------- 
+
+7.2727272727272725
+line_id 2166437287
+transcript norm:  donc elle avait fait une exception pour les itineraires donc on en avait beaucoup parle de cette decision la mais grosso modo il sort de ses motifs en tout cas un sentiment un double sentiment celui de l imprevisibilite du droit et celui aussi de l impuissance du droit le droit imprevisible pourquoi antoine
+ref norm:         donc elle avait fait une exception pour les itinerants donc on en avait beaucoup parle de cette decision la mais grosso modo il ressort de ces motifs en tout cas moi un sentiment un double sentiment celui de l imprevisibilite du droit et celui aussi de l impuissance du droit le droit imprevisible pourquoi antoine
+
+ ------------------------------------------- 
+
+14.545454545454545
+line_id 2166476040
+transcript norm:  parce que dans ce genre de dossier la on a toujours des decisions provisoires c est a dire en attendant de trancher le fond de l affaire mais quand on arrive au trancher le fond de l affaire la main n est pas finie on tranche avec des criteres qui ne sont pas les vecteurs
+ref norm:         parce que dans ce genre de dossier la on rend toujours des decisions provisoires c est a dire en attendant de trancher le fond de l affaire mais quand on arrive pour trancher le fond de l affaire la manif est finie et donc on tranche avec des criteres qui ne sont pas les vrais
+
+ ------------------------------------------- 
+
+4.545454545454546
+line_id 2166485846
+transcript norm:  donc la question est ce que j ai le droit de manifester sur un campus jour et nuit pendant des semaines au fond on ne se rend jamais a la bonne reponse on se rend seulement a des etapes preliminaires ou on dit ben la on va gerer on va monitorer la situation a mesure de criteres provisoires donc il y a cette dimension la
+ref norm:         donc a la question est ce que j ai le droit de manifester sur un campus jour et nuit pendant des semaines au fond on ne se rend jamais a la bonne reponse on se rend seulement a des etapes preliminaires ou on dit ben la on va gerer on va monitorer la situation en fonction de criteres provisoires donc il y a cette dimension la
+
+ ------------------------------------------- 
+
+0.0
+line_id 2166460897
+transcript norm:  deuxieme dimension qui rend le droit tres imprevisible c est qu on tranche de facon hyper contextuelle on s interesse a l aspect securite donc comment ca se passe bloque t on les acces
+ref norm:         deuxieme dimension qui rend le droit tres imprevisible c est qu on tranche de facon hyper contextuelle on s interesse a l aspect securite donc comment ca se passe bloque t on les acces
+
+ ------------------------------------------- 
+
+26.53061224489796
+line_id 2166420585
+transcript norm:  le type de lieu est ce que le lieu est prive ou accessible au public et moi je pense c est pas tres explicite dans les decisions sur antalmas mais ca finit par etre present la duree de la manifestation
+ref norm:         il y a t il de la violence le type de lieu est ce que le lieu est prive ou accessible au public et moi je pense c est pas tres explicite dans la decision de chantal masse mais ca finit par etre present la duree de la manifestation
+
+ ------------------------------------------- 
+
+7.5
+line_id 2166413836
+transcript norm:  il y a des choses qu on va tolerer dans la rue pour une manifestation intense qui dure quelques heures mais que la meme chose on ne la tolere pas pendant des mois non plus il y a donc la liberte d expression oui les messages on protege largement mais les lieux la forme la duree ca ca se discute mais quand on arrive pour en discuter on est au provisoire dans l urgence puis on se rend rarement au deposte naine
+ref norm:         il y a des choses qu on va tolerer dans la rue pour une manifestation intense qui dure quelques heures mais que la meme chose on ne la tolerera pas pendant des mois non plus et donc la liberte d expression oui les messages on protege largement mais les lieux la forme la duree ca ca se discute mais quand on arrive pour en discuter on est au provisoire dans l urgence puis on se rend rarement au debat final
+
+ ------------------------------------------- 
+
+38.18181818181819
+line_id 2166498188
+transcript norm:  je sais que la t en fais mais c est aussi une preuve de l impuissance du droit comme dans le dossier des camionneurs il y en a eu des injonctions a ottawa la mickey il a pas donne l injonction mais a ottawa il donnait les injonctions pis il se passe a rire
+ref norm:         je sais que le temps file mais c est aussi une preuve de l impuissance du droit comme dans le dossier des camionneurs il y a en eu des injonctions a ottawa la a mcgill ne l a pas donne les injonctions mais ottawa lui a donne les injonctions puis il ne se passait rien
+
+ ------------------------------------------- 
+
+1.8518518518518516
+line_id 2166468051
+transcript norm:  oui en effet puis chantal masse elle l ecrit dans son jugement il y a un magnifique paragraphe elle dit tout le monde est pour la vertu je la cite tout le monde est pour la vertu bien sur mais tout le monde ne voit pas de la meme facon comment elle doit s incarner
+ref norm:         oui en effet chantal masse elle l ecrit dans son jugement il y a un magnifique paragraphe elle dit tout le monde est pour la vertu je la cite tout le monde est pour la vertu bien sur mais tout le monde ne voit pas de la meme facon comment elle doit s incarner
+
+ ------------------------------------------- 
+
+6.0606060606060606
+line_id 2166499129
+transcript norm:  rendre une telle ordonnance donc l injonction dans le contexte qui nous occupe ici est presque une invitation a rendre une decision difficilement executoire et si stent avance des debats sur son respect
+ref norm:         rendre une telle ordonnance donc l injonction dans le contexte qui nous occupe ici est presque une invitation a rendre une decision difficilement executoire et suffisant d avance des debats sur son respect
+
+ ------------------------------------------- 
+
+13.333333333333334
+line_id 2166445048
+transcript norm:  oui le probleme avec le premier ministre c est que des fois il oublie que dans sa fonction un certain devoir de reserve a l endroit de la police quoi que je ne pense pas que m legault a appele la directrice de police pour lui ordonner
+ref norm:         oui le probleme avec le premier ministre c est que des fois il oublie dans sa fonction un certain devoir de reserve a l endroit de la police pourquoi je ne pense pas que m legault a appele le directeur de police pour lui ortonner
+
+ ------------------------------------------- 
+
+28.26086956521739
+line_id 2166429802
+transcript norm:  a fin de tour tard comme dans le dossier avec ottawa au bicamionnage a ottawa la police doit etre a venir puis a ottawa il y a eu la commission rouleau il y a meme eu une decision de la confederale pour blamer certains aspects
+ref norm:         mais a la fin tot ou tard comme dans le dossier avec ottawa ou des camionneurs a ottawa la police a intervenu puis a ottawa il y a eu la commission rouleau il y a meme eu une decision d accord federal pour blamer certains aspects
+
+ ------------------------------------------- 
+
+9.67741935483871
+line_id 2166446263
+transcript norm:  le jour ou justin trudeau a dit on pense a l action et le jour ou la police a deploye la strategie je pense que ca va etre la meme chose les mcgill sont dans une drole de situation ou ils vont devant le tribunal et ils disent on ne veut pas des jonctions mais on appelle quand meme la police
+ref norm:         c est le jour ou justin trudeau a dit on pense a l action et le jour ou la police a deploye la strategie je pense que ca va etre la meme chose mcgill est dans une drole de situation ou ils vont devant le tribunal et ils disent on ne veut pas d injonction mais on appelle quand meme la police
+
+ ------------------------------------------- 
+
+21.21212121212121
+line_id 2166438035
+transcript norm:  on peut dire que vous n avez pas de liberte d expression et il y a une impuissance des droits fondamentaux a etre clairs stables et a produire leurs effets
+ref norm:         ca ne voudrait pas non plus dire que vous n avez pas de liberte d expression il y a une impuissance des droits fondamentaux a etre clairs stables et a produire leurs effets
+
+ ------------------------------------------- 
+
+6.25
+line_id 2185450509
+transcript norm:  on ne parle plus de nationalization de la foret mais plutot d accompagner le secteur pour que les regions puissent en vivre clairement on a fait une grande tournee des regions on s est fait taper sur les doigts sur les doigts par les gens qui critiquent un peu l aspect
+ref norm:         on ne parle plus de nationalization de la foret mais plutot d accompagner le secteur pour que les regions puissent en vivre clairement on a fait une grande tournee des regions on s est fait taper sur les doigts par les gens qui critiquent un peu l aspect
+
+ ------------------------------------------- 
+
+14.893617021276595
+line_id 2185442938
+transcript norm:  on a l impression que quebec solidaire est contre nous qu ils ne comprennent pas nos realites qu on vit nous au dessous des miennes qu on vit de la foret donc c est le poumon economique des legions quebec solidaire semble vouloir conquerir ces legions la
+ref norm:         on a l impression que quebec solidaire est contre nous qu il ne comprenne pas nos realites qu on vit nous de ca des mines qu on vit de la foret donc c est le poumon economique des regions quebec solidaire semble vouloir conquerir ces regions la
+
+ ------------------------------------------- 
+
+9.433962264150944
+line_id 3554052209
+transcript norm:  au moment ou je vous parle on vient de souligner les dix ans du meurtre de veryville le blanc dans quelques jours le 15 novembre ca va faire 20 ans que louise chaput a ete assassinee au new hampshire c est des histoires qui nous accompagnent toujours dans l equipe et qui nous amenent
+ref norm:         au moment ou je vous parle on vient de souligner les 10 ans du meurtre de valerie leblanc dans quelques jours le 15 novembre ca va faire 20 ans que louise chaput a ete assassinee au new hampshire c est des histoires qui nous accompagnent toujours dans l equipe et qui nous hantent
+
+ ------------------------------------------- 
+
+2.857142857142857
+line_id 3554036242
+transcript norm:  quand la journaliste claudia larochelle m a parle de l histoire de catherine daviau un cas qui l obsede depuis dix ans j ai longtemps hesite a me lancer dans un projet de la sorte
+ref norm:         quand la journaliste claudia larochelle m a parle de l histoire de catherine daviau un cas qui l obsede depuis 10 ans j ai longtemps hesite a me lancer dans un projet de la sorte
+
+ ------------------------------------------- 
+
+3.225806451612903
+line_id 3554017325
+transcript norm:  je dois avouer que je me suis pose beaucoup de questions sur l ethique du true crime et sur ma position d homme qui finit toujours par documenter des meurtres sordides de femmes innocentes l equipe de transistor la boite qui fait la cv a donc decide de laisser la place a une equipe entierement feminine pour decortiquer le cas catherine daviau
+ref norm:         je dois avouer que je me suis pose beaucoup de questions sur l ethique du true crime et sur ma position d homme qui finit toujours par documenter des meurtres sordides de femmes innocentes l equipe de transhistory la boite qui fait la serie a donc decide de laisser la place a une equipe entierement feminine pour decortiquer le cas catherine daviau
+
+ ------------------------------------------- 
+
+9.523809523809524
+line_id 3554019933
+transcript norm:  pour accompagner claudio dans sa demarche on le jumelait a une realisatrice prometteuse maud petel legare je laisse donc maud et claudio vous guider dans leur quete pour faire la lumiere sur le cas et vous raconter l histoire de catherine daviau
+ref norm:         pour accompagner claudia dans sa demarche on le jumelait a une realisatrice prometteuse maude petel legare je laisse donc maude et claudia vous guider dans leur quete pour faire la lumiere sur le cas et vous raconter l histoire de catherine daviau
+
+ ------------------------------------------- 
+
+8.771929824561402
+line_id 7717773865
+transcript norm:  peut etre que le chanel du moine ca vous dit quelque chose notamment en raison du survenant le roman de germaine guevermont l histoire qu on va vous raconter va se passer dans le meme paysage que l action de ce roman la et vous allez voir tout ca va nous lancer dans plein de hasards et de trambuches
+ref norm:         peut etre que le chenal du moine ca vous dit quelque chose notamment en raison du survenant le roman de germaine guevrement l histoire qu on va vous raconter va se passer dans le meme paysage que l action de ce roman la et vous allez voir tout ca va nous lancer dans plein de hasards etranges
+
+ ------------------------------------------- 
+
+1.4084507042253522
+line_id 7717790455
+transcript norm:  ce qu on va vous raconter avec mes deux collegues du bureau d enquete jean louis fortin et eric thibault c est l une des plus importantes histoires de corruption policiere au quebec dix ans apres le debut de l histoire en septembre 2013 enfin on peut bien vous la raconter on va prendre connaissance de documents inedits pour la plupart et de temoignages qu on n a jamais diffuses encore
+ref norm:         e qu on va vous raconter avec mes deux collegues du bureau d enquete jean louis fortin et eric thibault c est l une des plus importantes histoires de corruption policiere au quebec dix ans apres le debut de l histoire en septembre 2013 enfin on peut bien vous la raconter on va prendre connaissance de documents inedits pour la plupart et de temoignages qu on n a jamais diffuses encore
+
+ ------------------------------------------- 
+
+7.317073170731707
+line_id 9093462220
+transcript norm:  a l epoque la couronne et la police n ont jamais vraiment voulu labouiller avec les journalistes sur ce qui etait reproche a benoit robert jean on nous disait qu il etait arrete le sujet etait trop sensible pour avoir des details
+ref norm:         a l epoque la couronne et la police n ont jamais vraiment voulu elaborer avec les journalistes sur ce qui etait reproche a benoit roberge on nous disait qu il etait arrete le sujet etait trop sensible pour avoir des details
+
+ ------------------------------------------- 
+
+5.88235294117647
+line_id 9093446868
+transcript norm:  mais bon au fil des annees avec l equipe du bureau d enquete on a pu mettre la main sur une sorte d information des documents de cours on a parle avec des temoins des sources tres tres confidentielles on a d autres gens qui nous parlent et qui s identifient
+ref norm:         mais bon au fil des annees avec l equipe du bureau d enquete on a pu mettre la main sur toutes sortes d informations des documents de cours on a parle avec des temoins des sources tres tres confidentielles on a d autres gens qui nous parlent et qui s identifient
+
+ ------------------------------------------- 
+
+0.0
+line_id 9093464720
+transcript norm:  on a pu consulter meme des lettres que benoit roberge avait ecrites donc une foule de renseignements qui permettent aujourd hui de raconter la vraie histoire
+ref norm:         on a pu consulter meme des lettres que benoit roberge avait ecrites donc une foule de renseignements qui permettent aujourd hui de raconter la vraie histoire
+
+ ------------------------------------------- 
+
+7.6923076923076925
+line_id 7717719369
+transcript norm:  on a pu avoir des interrogatoires de police des lapins d enquete et puis en plus je dirais meme surtout on a eu des copies des audios et de la video qui sont au center de toute la fin
+ref norm:         on a pu avoir des interrogatoires de police des rapports d enquete et puis en plus je dirais meme surtout on a eu des copies des audios et de la video qui sont au center de toute l affaire
+
+ ------------------------------------------- 
+
+11.11111111111111
+line_id 7717766197
+transcript norm:  ca a vraiment ete boule a partir de la saisie par la police d une video qui a ete enregistree dans un chalet de l ilet taupe et dans cette video la on peut voir le moteur qui parle a la camera et il va affirmer entre autres qu il existe 13 audios 13 conversations telephoniques hyper compromettantes enregistrees en secret par lui
+ref norm:         a a vraiment deboule a partir de la saisie par la police d une video qui a ete enregistree dans un chalet de l ilette au pe et dans cette video la on peut voir le motard qui parle a la camera et il va affirmer entre autres qu il existe 13 audios 13 conversations telephoniques hyper compromettantes enregistrees en secret par lui
+
+ ------------------------------------------- 
+
+4.0
+line_id 7717791105
+transcript norm:  et dans ces conversations la on l entend parler avec un certain policier faut vous dire une chose ca cree un scandale sans precedent
+ref norm:         et dans ces conversations la on l entend parler avec un certain policier faut vous dire une chose ca a cree un scandale sans precedent
+
+ ------------------------------------------- 
+
+3.0303030303030303
+line_id 7717732677
+transcript norm:  ca a ebranle la police ca a ebranle le systeme de justice et ca a ebranle aussi la confiance du public envers ces institutions la honnetement c est l histoire de gachis indescriptible
+ref norm:         ca a ebranle la police ca a ebranle le systeme de justice et ca a ebranle aussi la confiance du public envers ces institutions la honnetement c est l histoire de gachis indescriptibles
+
+ ------------------------------------------- 
+
+25.862068965517242
+line_id 6291455649
+transcript norm:  un detenu qui s enfuit d un etablissement securite minimum ca fait habituellement l objet d un communique de presse mais cette fois on parle de venise charlebois c est autre chose ou elle fidele de maurice monboucher au plus fort dragueur de moteur il faisait partie des nomades le groupe des littles des elton jules
+ref norm:         un detenu qui s enfuit d un etablissement a securite minimum ca fait habituellement l objet d un communique de presse mais cette fois on parle de rene charlebois c est autre chose oui fidele de maurice momboucher au plus fort de la guerre des moteurs il faisait partie des nomades de groupe d elite des hells angels
+
+ ------------------------------------------- 
+
+11.627906976744185
+line_id 6291416593
+transcript norm:  bene charles lebois c etait un des decideurs dans la guerre des motards c etait un des financiers de la guerre des motards c est meme quelqu un qui a complote ou autorise des meurtres et il en a meme commis un lui meme
+ref norm:         rene charlebois c etait un des decideurs dans la guerre des moteurs c etait un des financiers de la guerre des moteurs c est meme quelqu un qui a complote ou autorise des meurtres et il en a meme commis un lui meme
+
+ ------------------------------------------- 
+
+20.833333333333336
+line_id 6291415126
+transcript norm:  moi ca m avait flabbergaste cette histoire la je l eclaire en memoire encore ca avait plonge les deux chanteurs dans un barras
+ref norm:         moi ca m avait flabergaste cette histoire la je l ai claire en memoire encore ca avait plonge les deux chanteurs dans l embarras
+
+ ------------------------------------------- 
+
+4.411764705882353
+line_id 6291491280
+transcript norm:  alors juste apres son mariage en 2000 rene charlebois a ete arrete dans une vaste operation policiere qu on a appelee raitant 2008 debut 2004 il est condamne apres cette operation policiere la pour le meurtre d un agent source aussi pour trafic de stupefiants et gangstelisme et la en septembre 2013 au moment ou notre histoire commence il commencait a devenir encore plus connu du grand public
+ref norm:         alors juste apres son mariage en 2000 rene charlebois a ete arrete dans une vaste operation policiere qu on a appelee printemps 2001 debut 2004 il est condamne apres cette operation policiere la pour le meurtre d un agent source aussi pour trafic de stupefiants et gangsterisme et la en septembre 2013 au moment ou notre histoire commence il commencait a devenir encore plus connu du grand public
+
+ ------------------------------------------- 
+
+7.4074074074074066
+line_id 6291444690
+transcript norm:  jean nan ouvrait les bulletins de nouvelles pourquoi il venait de s evader de la montee saint francois c est une prison a securite minimale de laval
+ref norm:         son nom ouvrait les bulletins de nouvelles pourquoi il venait de s evader de la montee saint francois c est une prison a securite minimale de laval
+
+ ------------------------------------------- 
+
+4.918032786885246
+line_id 6144346264
+transcript norm:  c est un etablissement assez particulier parce qu il n y a pas de mur il n y a pas de cloture les portes ne sont pas barrees c est un endroit ou seulement les detenus en fin de centaine ceux qui vont etre relaches vont etre liberes bientot peuvent sejourner c est un peu un test qu on fait avec eux
+ref norm:         c est un etablissement assez particulier parce qu il n y a pas de mur il n y a pas de cloture les portes ne sont pas barrees c est un endroit ou seulement les detenus en fin de centaine ceux qui vont etre relaches liberes bientot peuvent sejourner c est un peu un test qu on fait avec eux hein
+
+ ------------------------------------------- 
+
+1.8518518518518516
+line_id 7717756002
+transcript norm:  a ce moment la en septembre 2013 les policiers et la police ne comprennent pas ce qui se passe on se perd en conjecture on essaie de comprendre les raisons qui poussent le hells angels a s evader apres avoir purge 12 ans de prison tout s enlignait dans la bonne direction pour lui
+ref norm:         a ce moment la en septembre 2013 les policiers et la police ne comprennent pas ce qui se passe on se perd en conjecture on essaie de comprendre des raisons qui poussent le hells angels a s evader apres avoir purge 12 ans de prison tout s enlignait dans la bonne direction pour lui
+
+ ------------------------------------------- 
+
+8.88888888888889
+line_id 7717716967
+transcript norm:  il allait beneficier d une permission de sortie le printemps qui suit et puis en pluie il etait admissible une semi liberte en maison de transition depuis 6 mois deja alors c est un peu etrange il ne l avait meme pas demande encore
+ref norm:         puis il allait beneficier d une permission de sortie le printemps qui suit et puis en plus il etait admissible a une semi liberte en maison de transition depuis 6 mois deja c est un peu etrange il ne l avait meme pas demande encore
+
+ ------------------------------------------- 
+
+0.0
+line_id 7717785116
+transcript norm:  ce qu on va vous raconter avec mes deux collegues du bureau d enquete jean louis fortin et eric thibault c est l une des plus importantes histoires de corruption policiere au quebec dix ans apres le debut de l histoire en septembre 2013 enfin on peut bien vous la raconter on va prendre connaissance de documents inedits pour la plupart et de temoignages qu on n a jamais diffuses encore
+ref norm:         ce qu on va vous raconter avec mes deux collegues du bureau d enquete jean louis fortin et eric thibault c est l une des plus importantes histoires de corruption policiere au quebec dix ans apres le debut de l histoire en septembre 2013 enfin on peut bien vous la raconter on va prendre connaissance de documents inedits pour la plupart et de temoignages qu on n a jamais diffuses encore
+
+ ------------------------------------------- 
+
+5.88235294117647
+line_id 7717718321
+transcript norm:  rene charlebois c est un des personnages les plus importants de l histoire des hells angels au quebec et il est connu quand on se la porte a son evasion sa fameuse evasion en 2013
+ref norm:         rene charlebois c est un des personnages les plus importants de l histoire des hells angels au quebec et il est connu quand on se rapporte a son evasion sa fameuse evasion en 2013
+
+ ------------------------------------------- 
+
+1.7857142857142856
+line_id 7717794918
+transcript norm:  il est encore meme si ca fait presque dix ans qu il est en prison a ce moment la il est encore dans l imaginaire des quebecois parce que tout le monde a entendu parler de son fameux mariage au debut des annees 2000 avec ginette renaud qui chantait jean pierre ferland qui etait invite
+ref norm:         il est encore dans meme si ca fait presque dix ans qu il est en prison a ce moment la il est encore dans l imaginaire des quebecois parce que tout le monde a entendu parler de son fameux mariage au debut des annees 2000 avec ginette renaud qui chantait jean pierre ferland qui etait invite
+
+ ------------------------------------------- 
+
+12.727272727272727
+line_id 7717766549
+transcript norm:  on va debuter avec une histoire que vous n avez jamais entendue en fait vous en avez entendu des petits bouts mais jamais l histoire au complet ca commence en septembre 2013 a l ile atropee c est une toute petite ile qui est connectee a une autre ile par un bel adiabat
+ref norm:         on va debuter avec une histoire que vous n avez jamais entendue en fait vous en avez entendu des petits bouts mais jamais l histoire au complet ca commence en septembre 2013 a l ilette au pe c est une tout petite ile qui est connectee a une autre ile par un pont en bois
+
+ ------------------------------------------- 
+
+2.631578947368421
+line_id 7717770345
+transcript norm:  on est pres du chenal du moine dans la region des iles de sorel en monteregie peut etre que le chenal du moine ca vous dit quelque chose notamment en raison du survenant le roman de germaine gueverement
+ref norm:         on est pres du chenal du moine dans la region des iles de sorel en monteregie peut etre que le chenal du moine ca vous dit quelque chose notamment en raison du survenant le roman de germaine guevrement
+
+ ------------------------------------------- 
+
+11.320754716981133
+line_id 7717724905
+transcript norm:  ca a vraiment ete boule a partir de la saisie par la police d une video qui a ete enregistree dans un chalet de l ilet tope et dans cette video la on peut voir le moteur qui parle a la camera et il va affirmer entre autres qu il existe 13 audios
+ref norm:         ca a vraiment deboule a partir de la saisie par la police d une video qui a ete enregistree dans un chalet de l ilette au pe et dans cette video la on peut voir le motard qui parle a la camera et il va affirmer entre autres qu il existe 13 audios
+
+ ------------------------------------------- 
+
+20.0
+line_id 7717758560
+transcript norm:  trainee de conversation telephonique hyper comprenantante enregistree en secret par lui et dans ces conversations la on l entend parler avec un certain policier faut vous dire une chose ca cree un scandale sans precedent
+ref norm:         13 conversations telephoniques hyper compromettantes enregistrees en secret par lui et dans ces conversations la on l entend parler avec un certain policier faut vous dire une chose ca a cree un scandale sans precedent
+
+ ------------------------------------------- 
+
+2.941176470588235
+line_id 7717783092
+transcript norm:  le plan de rene charlebois au depart c etait de quitter le pays mais a la derniere minute ce qu il avait planifie ca n a pas fonctionne les gens qui devaient l aider a organizer son voyage apres l evasion ne sont pas pointes bref il a du se cacher et c est la qu il aboutit dans une maison de location sur l ile atopine
+ref norm:         le plan de rene charlebois au depart c etait de quitter le pays mais a la derniere minute ce qu il avait planifie ca n a pas fonctionne les gens qui devaient l aider a organizer son voyage apres l evasion ne sont pas pointes bref il a du se cacher et c est la qu il aboutit dans une maison de location sur l ile a tope
+
+ ------------------------------------------- 
+
+10.256410256410255
+line_id 7717773096
+transcript norm:  moi j ai pu faire une entrevue avec patrick peloquin a l automne 2022 c etait pour l emission tele gia il nous a parle de comment les sauces se sont bassees apres l evasion en septembre 2013
+ref norm:         moi j ai pu faire une entrevue avec patrick peloquin a l automne 2022 c etait pour l emission de tele je il nous a parle de comment les choses se sont passees apres l evasion en septembre 2013
+
+ ------------------------------------------- 
+
+3.508771929824561
+line_id 7717737777
+transcript norm:  mais aussi pendant les derogatoires patrick peloquin leur rappelle qu ils lui ont saisi une cle usb qu il avait sur lui quand il s est fait arreter et que sur cette cle usb la il y a une video de presque deux heures tournee au chalet ou rene charlebois explique les crimes du policier benoit roberge
+ref norm:         mais aussi pendant l interrogatoire patrick peloquin leur rappelle qu ils lui ont saisi une cle usb qu il avait sur lui quand il s est fait arreter et que sur cette cle usb la il y a une video de presque deux heures tournee au chalet ou rene charlebois explique les crimes du policier benoit roberge
+
+ ------------------------------------------- 
+
+3.7037037037037033
+line_id 7717796042
+transcript norm:  la les agents qui etaient en train de l interroger auraient quitte la salle d interrogatoire et seraient alles visionner une partie de la video dans une autre piece quand j ai fait une entrevue avec patrick pelequin pour l emission gie je lui ai bien sur demande de me raconter cette scene la
+ref norm:         la les agents qui etaient en train de l interroger auraient quitte la salle d interrogatoire et seraient alles visionner une partie de la video dans une autre piece quand j ai fait une entrevue avec patrick peloquin pour l emission je je lui ai bien sur demande de me raconter cette scene la
+
+ ------------------------------------------- 
+
+18.181818181818183
+line_id 3491296945
+transcript norm:  bonne ecoute ce fut la derniere grande bataille de la guerre vindo chine une defaite humiliante pour l armee francaise mais une victoire pour les pays colonizes du monde entier ici maxime cointier au jour de l histoire la fournaise de thien bien phu
+ref norm:         bonne ecoute ce fut la derniere grande bataille de la guerre d indochine une defaite humiliente pour l armee francaise mais une victoire pour les pays colonizes du monde entier ici maxime coutier a aujourd hui l histoire la fournaise de dien bien phu
+
+ ------------------------------------------- 
+
+22.22222222222222
+line_id 3491240455
+transcript norm:  et pour votre jour ma liste jules rois auteur du livre la bataille de dien bien phu s etait au micro de pierre nadeau en avril 1966 12 ans plus tot le 13 mars 1954 la suedoisie dans ce qui va devenir plus tard l ultime bataille de la guerre d indochine 57 jours de combats acharnes une pluie d obus d une apalme et une defaite cinglante pour la puissance coloniale
+ref norm:         les propos du journaliste jules roy auteur du livre pour la bataille de dien bien phu c etait au micro de pierre nadeau en avril 1966 12 ans plus tot le 13 mars 1954 l assaut est donne dans ce qui va devenir plus tard l ultime bataille de la guerre d indochine 57 jours de combats acharnes une pluie d obus du napalme et une defaite cinglante pour la puissance coloniale
+
+ ------------------------------------------- 
+
+39.39393939393939
+line_id 3491285375
+transcript norm:  en tout pres de trois mille soldats francais vont mourir dans les cuvettes et pour les dix mille autres faits prisonniers les conditions de detention seront les bourg bentables a peine le tiers
+ref norm:         en tout pres de 3000 soldats francais vont mourir dans la cuvette mais pour les 10 0 autres faits prisonniers les conditions de detention seront epouvantables a peine le tiers vont revenir vivants
+
+ ------------------------------------------- 
+
+17.91044776119403
+line_id 3491255119
+transcript norm:  un extrait des actualites francaises dans les archives de l inda le 18 mars 1954 l issue de la bataille n etait pas encore scellee pour nous en parler mon invite christopher gauchoy les professeurs de relations internationales au departement d histoire de l uqam auteur egalement de livres qui apportent titre de road to dien bien phu history of the 1st war for vietnam
+ref norm:         un extrait des actualites francaises dans les archives de l inna le 18 mars 1954 l issue de la bataille n etait pas encore scellee pour nous en parler mon evite christopher goscha professeur de relations internationales au departement d histoire de l uqam auteur egalement d un livre qui a pour titre the road to dien bien phu a history of the 1st war for vietnam
+
+ ------------------------------------------- 
+
+7.8431372549019605
+line_id 3741373476
+transcript norm:  apres les francais vont se diriger vers l algerie une autre guerre pour un autre temps autre chose c est l independance du vietnam donc une guerre de presque 10 ans donc le vietnam de ho chi minh qu il avait declare independant en 1945 c est independant
+ref norm:         apres bon les francais vont se diriger vers l algerie une autre guerre pour un autre temps autre chose c est l independance du vietnam donc une guerre de presque 10 ans donc le vietnam de ho chi minh qu il avait declare independant en 45 eh ben c est independant
+
+ ------------------------------------------- 
+
+5.0
+line_id 3741375803
+transcript norm:  autre chose c est la victoire d un peuple colonize sous le colonisateur dans une bataille conventionnelle et donc ca c est quand meme la premiere fois au xxie siecle dans une guerre de decolonisation que ca se fait
+ref norm:         autre chose c est la victoire d un peuple colonize sous le colonisateur dans une bataille conventionnelle et donc ca c est quand meme la premiere fois au 20 e siecle dans une guerre de decolonisation que ca se fait
+
+ ------------------------------------------- 
+
+16.455696202531644
+line_id 3741364491
+transcript norm:  donc les americains crottent le vietnam le ho chi minh entre 1954 et 1975 mais aussi par les guerres de l algerie et la c est un peu la suite si vous voulez de ces guerres de deconisation pour la france indochine et tout de suite apres entre 1954 et 1962 c est les guerres d algerie qui dominent beaucoup la memoire en france et ca eclipse comme vous l avez dit la moindre guerre d indochine
+ref norm:         donc les americains croient entre le vietnam de ho chi minh entre 1954 et 1975 mais aussi par la guerre d algerie et la c est un peu la suite si vous voulez de ces guerres de decolonisation pour la france indochine et tout de suite apres entre 1954 et 1962 eh bien c est les guerres d algerie qui dominent beaucoup les memoires en france et ca eclipse comme vous l avez dit la premiere guerre d indochine
+
+ ------------------------------------------- 
+
+4.878048780487805
+line_id 3741393979
+transcript norm:  je pense qu il faut revenir au 19 e siecle 100 ans en arriere et c est a ce moment la que les francais colonisent par force l indochine l indochine c est donc le vietnam le laos le cambodge
+ref norm:         je pense qu il faut revenir au 19 e siecle 100 ans en arriere et c est a ce moment la que les francais colonisent par la force l indochine l indochine c est donc le vietnam le laos le comboge
+
+ ------------------------------------------- 
+
+7.017543859649122
+line_id 3741342673
+transcript norm:  l indochine c est un etat colonial que les francais ont regroupe dans cet etat colonial qu on appelle l indochine qui se situe au sud de la chine a l est de la thailande et puis un peu au nord de l indonesie pour situer le pays pour ceux qui nous ecoutent
+ref norm:         l indochine c est un etat colonial que les francais ont regroupe ces trois pays dans cet etat colonial qu on appelle l indochine qui se situe au sud de la chine a l est de la thailande et puis un peu au nord de l indonesie juste pour situer le pays pour ceux qui nous ecoutent
+
+ ------------------------------------------- 
+
+9.67741935483871
+line_id 3741331061
+transcript norm:  c est tres important c est un peu complique il est vrai que la france tombe comme on le sait bien en 1940 juin 1940 vichy arrive au pouvoir et la il y a quand meme une cooperation entre vichy avec l ax donc l ax c est les allemands mais ca va lire aussi avec les japonais
+ref norm:         c est tres important c est un peu complique il est vrai que la france tombe comme on le sait bien en 1940 juin 1940 vichy arrive au pouvoir et la il y a quand meme une cooperation entre vichy avec l ax donc l ax c est les allemands n est ce pas mais ca veut dire aussi avec les japonais
+
+ ------------------------------------------- 
+
+7.8125
+line_id 3741313700
+transcript norm:  donc il y a une cooperation en indochine entre les francais d un cote et les japonais de l autre donc les japonais occupent l indochine en 1940 touchant a la fin de la guerre les japonais voient que la france a ete liberee de gaulle veut recuperer l indochine donc les japonais reversent les francais en indochine en mars 1945
+ref norm:         donc il y a une cooperation en indochine entre les francais d un cote et les japonais de l autre donc les japonais occupent l indochine en 1940 tout change a la fin de la guerre les japonais ils voient que la france a ete liberee de gaulle il veut recuperer l indochine donc les japonais renversent les francais en indochine en mars 1945
+
+ ------------------------------------------- 
+
+10.0
+line_id 3741355840
+transcript norm:  bref la ca permet a ho chi minh qui attend un peu de prendre le pouvoir lorsque les japonais sont vaincus eux memes en aout 1945 d ou la naissance de ce nouveau vietnam ne de la seconde guerre mondiale le vietnam de ho chi minh la republique democratique du vietnam communiste en fait c est un peu une coalition de beaucoup de nationalistes communistes
+ref norm:         bref la ca permet a ho chi minh qui attend un peu de prendre le pouvoir lorsque les japonais sont vaincus eux memes en aout 1945 d ou la naissance de ce nouveau vietnam nee de la seconde guerre mondiale le vietnam de ho chi minh la republique democratique du vietnam tout a fait tout a fait en fait c est un peu une coalition de beaucoup de nationalistes communistes
+
+ ------------------------------------------- 
+
+10.869565217391305
+line_id 3741395972
+transcript norm:  en communisme mais il faut dire que ho chi minh il est communiste il est nationaliste mais c est un noyau communiste qui dirige la republique democratique du vietnam on l appelle aussi le viet minh donc on peut rediger un peu les deux termes
+ref norm:         non communistes mais il faut dire qu ho chi minh il est communiste il est nationaliste mais c est un noyau communiste qui dirige donc la republique democratique du vietnam on l appelle aussi le viet minh donc on peut utiliser un peu les deux termes
+
+ ------------------------------------------- 
+
+19.11764705882353
+line_id 3741324913
+transcript norm:  et la bon les francais veulent reconquerir le territoire donc s amorce la guerre d indochine c est comme s il y avait eu deux guerres d indochine la premiere qui s apparente a une guerilla et la deuxieme c est qu en 354 il y a une volonte de negociation mais on ne s attend pas du tout sur ce que devrait etre l indochine
+ref norm:         et la bon les francais veulent reconquerir le territoire donc s amorce la guerre d indochine c est comme s il y avait eu deux guerres d indochine la premiere qui s apparente un peu a une guerilla puis la deuxieme 53 54 ou la il y a une volonte de negocier mais on s entend pas en fait du tout sur ce que devrait etre l indochine
+
+ ------------------------------------------- 
+
+2.0
+line_id 3741364365
+transcript norm:  donc c est la question de la deconisation qu on voit ailleurs n est ce pas mais il est vrai que la guerre eclate en 1946 et cette guerre va durer jusqu en 1954 avec la bataille de dien bien phu mais cette guerre peut se diviser en deux parties
+ref norm:         donc c est la question de la decolonisation qu on voit ailleurs n est ce pas mais il est vrai que la guerre eclate en 1946 et cette guerre va durer jusqu en 1954 avec la bataille de dien bien phu mais cette guerre peut se diviser en deux parties
+
+ ------------------------------------------- 
+
+2.0
+line_id 3741353229
+transcript norm:  je dirais la premiere partie le vietnam de ho chi minh est isole tout seul si vous voulez en train de se battre contre quand meme le corps expeditionnaire francais qui est quand meme fort et donc ho chi minh va pratiquer la guerilla donc c est un peu .
+ref norm:         je dirais la premiere partie le vietnam de ho chi minh est isole tout seul si vous voulez en train de se battre contre quand meme le corps expeditionnaire francais qui est quand meme fort et donc ho chi minh va pratiquer la guerilla donc c est un peu iraquable
+
+ ------------------------------------------- 
+
+18.75
+line_id 3741382491
+transcript norm:  parce qu il y a mao zedong qui arrive au pouvoir en chine donc les communistes sont en pouvoir en chine et mao zedong connait hu jiming depuis des decennies et il va soutenir diplomatiquement et militairement hu jiming et ca ca change la donne ca permet donc a hu jiming de transformer son tigre si vous me permettez en heriforme
+ref norm:         parce qu il y a mao zedong qui arrive au pouvoir en chine donc les communistes sont en pouvoir en chine et mao zedong il connait ho chi minh depuis des decennies il va soutenir diplomatiquement et militairement ho chi minh et ca ca change la donne ca permet donc a ho chi minh de transformer son tigre si vous me permettez en elephant
+
+ ------------------------------------------- 
+
+6.779661016949152
+line_id 3741399677
+transcript norm:  et donc il a cree une armee qui n a pas d equivalent vraiment dans l histoire des guerres de decolonisation une armee moderne avec 7 divisions avec l artillerie eventuellement avec le contre defense les mitrailleuses toutes sortes de choses donc on est devant un peu comment dirais je un vietnam qui veut se battre comme un elephant
+ref norm:         et donc il va creer une armee qui n a pas d equivalent vraiment dans l histoire des guerres de decolonisation une armee moderne avec sept divisions avec l artillerie eventuellement avec la contre defense les mitrailleuses toutes sortes de choses donc on est devant un peu comment dirais je un vietnam qui veut se battre comme un elephant
+
+ ------------------------------------------- 
+
+15.625
+line_id 3491282382
+transcript norm:  moderne avec bon appuye par un puissant voisin quand meme en la chine communiste et bon il y a aussi le voisin sovietique plus loin mais en fait un sujet s est precede des actualites francaises on va l ecouter a ce sujet otimine mais precede donc d un reportage des actualites francaises dans les archives de l ina
+ref norm:         guerre moderne avec bon appuye par un puissant voisin quand meme en la chine communiste et bon il y a aussi le voisin sovietique plus loin mais on va ecouter a ce sujet c est precede des actualites francaises on va l ecouter a ce sujet ho chi minh mais precede donc d un reportage des actualites francaises dans les archives de l ina
+
+ ------------------------------------------- 
+
+8.0
+line_id 3491210651
+transcript norm:  en 1954 les combats font rage depuis quelques annees deja on se bat depuis 1946 et arrive la bataille de dien bien phu pourquoi dien bien phu pourquoi les francais s installent la bas dans le nord du vietnam sachant qu ils devront eventuellement engager le combat
+ref norm:         voila lui la en 1954 les combats font rage depuis quelques annees deja on se bat depuis 1946 il arrive la bataille de dien bien phu pourquoi dien bien phu pourquoi les francais s installent la bas dans le nord du vietnam sachant qu ils devront eventuellement engager le combat
+
+ ------------------------------------------- 
+
+7.575757575757576
+line_id 3741352939
+transcript norm:  en fait il s installe la bas parce que c est la ou les vietnamiens se dirigent autrement dit le general giamp qui dirige donc l armee vietnamienne il a compris qu il ne pouvait pas gagner dans le delta du fleuve rouge dans le nord donc il cherchait une bataille dans les collines dans les montagnes dans la jungle qui lui serait favorable n est ce pas
+ref norm:         en fait ils s installent la bas parce que c est la ou les vietnamiens se dirigent autrement dit le general giap qui dirige l armee vietnamienne a compris qu il ne pouvait pas gagner dans le delta du fleuve rouge dans le nord donc il cherchait une bataille dans les collines dans les montagnes dans la jungle qui lui serait favorable n est ce pas
+
+ ------------------------------------------- 
+
+12.82051282051282
+line_id 3741346877
+transcript norm:  et donc il envoie ses divisions vers le nord ouest vers la frontiere avec la laos pas le moins de la chine et c est la ou il a trouve en quelque sorte je simplifie un peu
+ref norm:         et donc il envoie ses divisions vers le nord ouest vers la frontiere avec la laos pas loin de la chine et c est la ou il a trouve en quelque sorte dien bien phu je simplifie un peu
+
+ ------------------------------------------- 
+
+4.444444444444445
+line_id 3741313452
+transcript norm:  mais les francais diriges par le general navarre qui est envoye en indochine ils acceptent la bataille loin dans la jungle dans le nord ouest et donc c est un peu ca les deux ils ont accepte de faire cette bataille dans le nord ouest
+ref norm:         mais les francais diriges par le general navarre qui est envoye en indochine il accepte la bataille loin dans la jungle dans le nord ouest et donc c est un peu ca les deux ils ont accepte de faire cette bataille dans le nord ouest
+
+ ------------------------------------------- 
+
+0.0
+line_id 3741349478
+transcript norm:  peut etre que vous me demandez pourquoi en 1953 1954 je pense que c est parce qu en 1953 staline en union sovietique decede quelques mois plus tard c est la fin de la guerre de coree
+ref norm:         peut etre que vous me demandez pourquoi en 1953 1954 je pense que c est parce qu en 1953 staline en union sovietique decede quelques mois plus tard c est la fin de la guerre de coree
+
+ ------------------------------------------- 
+
+3.125
+line_id 3741312218
+transcript norm:  et puis les francais comme les sovietiques les chinois les britanniques et d autres ils aimaient bien calmer le jeu si je peux le dire donc realiser une detente une mini detente
+ref norm:         et puis les francais comme les sovietiques les chinois les britanniques et d autres ils aimeraient bien calmer le jeu si je peux le dire donc realiser une detente une mini detente
+
+ ------------------------------------------- 
+
+6.666666666666667
+line_id 3741345377
+transcript norm:  c est la ou les francais navards s etaient trompes ils ne reposaient pas un qu ils avaient suffisamment d artillerie et deux ils etaient convaincus qu ils n etaient pas en mesure d amener ces pieces lourdes il faut le dire jusqu a dien bien phu ils ont sous estime l ennemi c est si simple que ca
+ref norm:         c est la ou les francais navarre ils s est trompes ils ne pensaient pas un qu ils avaient suffisamment d artillerie et deux ils etaient convaincus qu ils n etaient pas en mesure d amener ces pieces lourdes il faut le dire jusqu a dien bien phu ils ont sous estime l ennemi c est si simple que ca
+
+ ------------------------------------------- 
+
+3.076923076923077
+line_id 3741328845
+transcript norm:  et donc ils vont envoyer tres vite l artillerie et tout ce qu ils avaient munitions au viet minh afin qu ils puissent vraiment vaincre les francais a dien bien phu ils donnent aussi quand meme pas mal de camions donc quand meme il y avait des camions qui amenent de l artillerie sur place mais ils ne pouvaient pas amener ca jusqu a dans les collines
+ref norm:         et donc ils vont envoyer tres vite l artillerie tout ce qu ils avaient munitions au viet minh afin qu ils puissent vraiment vaincre les francais a dien bien phu ils donnent aussi quand meme pas mal de camions donc quand meme il y avait des camions qui amenent l artillerie sur place mais ils ne pouvaient pas amener ca jusqu a dans les collines
+
+ ------------------------------------------- 
+
+16.071428571428573
+line_id 3741381882
+transcript norm:  en hauteur exactement donc c est la ou il fallait mobiliser cette logistique humaine enorme au total on sait que les vietnamiens avaient mobilize 250 0 personnes hommes et femmes pour unir ces pieces munitions toutes sortes de choses afin que les soldats puissent se battre sans munitions dans un temps artillerique
+ref norm:         et c est en hauteur exactement donc c est la ou il fallait mobiliser cette logistique humaine enorme au total on sait que les vietnamiens ils avaient mobilize 250 0 personnes hommes et femmes pour amener ces pieces munitions toutes sortes de choses afin que les soldats puissent se battre sans munitions sans armes sans artillerie
+
+ ------------------------------------------- 
+
+16.666666666666664
+line_id 3741325738
+transcript norm:  une surprise totale puis tres tres vite en l espoir de quelques jours les francais se retrouvent coinces dans la cuvette le salut si salut il y a il devrait venir des airs de l aviation justement les vnm vont attaquer en trois vagues donc la premiere vague justement ils ouvrent le feu l artillerie contre l artillerie francaise dans la cuvette dans le forte heureuse serre
+ref norm:         surprise totale et tres tres vite en l espace de quelques jours les francais se retrouvent coinces dans la cuvette le salut si salut il y a il devra venir des airs de l aviation justement les ville des mais vont attaquer en trois vagues donc la premiere vague justement ils ouvrent le feu l artillerie contre l artillerie francaise dans la cuvette dans la forteresse
+
+ ------------------------------------------- 
+
+5.357142857142857
+line_id 3741384976
+transcript norm:  le but c etait quand meme de detruire l artillerie de l ennemi mais le but egalement c etait de couper la cuvette de l exterieur de detruire la piste aerienne afin que les avions ne puissent plus l interieur et la c etait quand meme reussi assez bien pendant cette premiere vague qu ils ont menee
+ref norm:         le but c etait quand meme de detruire l artillerie de l ennemi mais le but egalement c etait de couper le cuvette de l exterieur de detruire la piste aerienne afin que les avions ne puissent plus atterrir et la c etait quand meme reussi assez bien pendant cette premiere vague qu ils ont menee
+
+ ------------------------------------------- 
+
+10.256410256410255
+line_id 3741312312
+transcript norm:  deuxieme vague disons c est debut avril l idee c est quand meme de creuser les tranchees je pense que parfois on ne se rend pas compte que c est une guerre des tranchees un peu comme verdun
+ref norm:         deuxieme vague disons c est debut avril l idee c est quand meme de creuser des tranchees je pense que parfois on ne s en rend pas compte que c etait une guerre des tranchees un peu comme verdun
+
+ ------------------------------------------- 
+
+11.29032258064516
+line_id 3741364612
+transcript norm:  et les deux ils ont l artillerie quand les deux cotes ont l artillerie il faut creuser vite et c est ce qu ils ont fait donc la le douzieme vague c est assez interessant mais l idee c etait evidemment de detruire les postes qui defendait la forteresse et l idee c etait de les encercler et les souffoquer eventuellement
+ref norm:         et les deux ils ont l artillerie quand les deux cotes ont l artillerie il faut creuser vite et c est ce qu ils ont fait donc la la deuxieme vague c est assez interessant mais l idee c etait evidemment de detruire les postes qui defendaient le fortier orest et l idee c etait de les encercler et les suffoquer eventuellement
+
+ ------------------------------------------- 
+
+6.521739130434782
+line_id 3741337917
+transcript norm:  les americains il faut dire qu ils sont rentres dans cette guerre indirectement un peu comme les chinois en 1950 comme je disais tout a l heure donc ils soutenaient les francais indirectement contre les chinois dans l endiguement de la chine de l union sovietique n est ce pas la guerre de coree et tout reste la donc les americains ils donnaient quand meme une aide tres importante si bien qu ils payaient la facture c est debut 1954 c est 75% de la facture totale militaire que les americains payaient
+ref norm:         les americains il faut dire qu ils sont rentres dans cette guerre indirectement un peu comme les chinois en 1950 comme je le disais tout a l heure donc ils soutenaient les francais indirectement contre les chinois dans l endiguement de la chine de l union sovietique n est ce pas les guerres de coree et tout cela donc les americains ils donnaient quand meme une aide tres importante si bien qu ils payaient la facture c est debut 1954 c est 75 de la facture totale militaire que les americains payaient
+
+ ------------------------------------------- 
+
+9.210526315789473
+line_id 3491293696
+transcript norm:  alors les combats vont durer 57 jours resistance acharnee puis une extreme violence les recits sont a glace et le sang les soldats vont meme s affronter au corps a corps a la baionnette 7 mai 1954 c est la fin les francais sont vaincus il y a pres de 2500 soldats francais qui sont morts au combat et 10 0 qui sont frais de prisonniers et qui seront detenus dans des conditions absolument impouvantables
+ref norm:         les combats vont durer 57 jours resistance acharnee puis d une extreme violence les recits sont a glace et le sang les soldats vont meme s affronter au corps a corps a la baionnette mais le 7 mai 1954 c est la fin les francais sont vaincus il y a pres de 2500 soldats francais qui sont morts au combat et 10 0 qui seront frais prisonniers et qui seront detenus dans des conditions absolument epouvantables
+
+ ------------------------------------------- 
+
+4.0
+line_id 3741381903
+transcript norm:  tout a fait difficile on ne peut pas le nier et donc ils ont passe plusieurs mois jusqu au mois de septembre donc apres les ecoles de geneve sont saignees on parlera peut etre de ca tout a l heure mais la ils sont liberes au mois de septembre mais quand meme ils passent 5 6 mois dans des conditions terribles beaucoup de morts maladies toutes sortes de choses donc c est quand meme difficile
+ref norm:         tout a fait difficile on ne peut pas les nier et donc ils ont passe plusieurs mois jusqu au mois de septembre donc apres les accords de geneve sont signes on parlera peut etre de ca tout a l heure mais la ils sont liberes au mois de septembre mais quand meme ils passent 5 6 mois dans des conditions terribles beaucoup de morts maladies toutes sortes de choses donc c est quand meme difficile
+
+ ------------------------------------------- 
+
+20.37037037037037
+line_id 3491241757
+transcript norm:  ce qu il faut ressoucier on imagine le gouvernement francais a negocier parce que la bataille devient politique elle se transpose a geneve mais la les francais ne sont plus du tout en position de force ils doivent negocier la defaite a ce quoi repart vient cent ans a geneve a ce moment la
+ref norm:         ce qui force aussi on imagine le gouvernement francais a negocier parce que la bataille devient politique elle se transpose a geneve mais la les francais ne sont plus du tout en position de force ils doivent negocier la defaite alors sur quoi on parvient a s entendre a geneve a ce moment la
+
+ ------------------------------------------- 
+
+16.666666666666664
+line_id 3741351540
+transcript norm:  geneve c est ces grandes rencontres dont ils avaient parle depuis 1953 il y avait le probleme de berlin il y avait le probleme de coree finalement lorsque dien bien phu tombe le 7 mai les discussions sur l indochine souffrent le 8 mai
+ref norm:         geneve c est cette grande rencontre dont ils avaient parle depuis 1953 donc il y avait le probleme de berlin il y avait le probleme de coree finalement lorsque dien bien phu tombe donc le 7 mai les discussions sur l indochine s ouvrent donc le 8 mai
+
+ ------------------------------------------- 
+
+2.666666666666667
+line_id 3741362966
+transcript norm:  et la pendant 2 3 mois jusqu au mois de juillet il y a des discussions sur comment resoudre cette autre guerre chaude en asie a part la guerre de coree comment resoudre ce probleme la alors il faut dire que la plupart des intervenants la plupart des pays qui sont presents ils sont favorables a une negociation un peu a l image de ce qui a ete fait en coree un an plus tot
+ref norm:         et la pendant deux trois mois jusqu au mois de juillet il y a des discussions sur comment resoudre cette autre guerre chaude en asie a part la guerre de coree comment resoudre ce probleme la alors il faut dire que la plupart des intervenants la plupart des pays qui sont presents ils sont favorables a une negociation un peu a l image de ce qui a ete fait en coree un an plus tot
+
+ ------------------------------------------- 
+
+9.30232558139535
+line_id 3741395872
+transcript norm:  les americains ils attachent enormement d importance a l indochine dans nos politiques d endiguement mais ils ne sont pas prets a bloquer les negociations bref pour faire simple les americains ils acceptent un cessez le fou qui est signe le 21 juillet 1954
+ref norm:         les americains ils attachent enormement d importance a l indochine dans leur politique d endiguement mais ils ne sont pas prets a bloquer les negociations bref pour faire simple les americains acceptent un cessez le feu qui est signe le 21 juillet 1954
+
+ ------------------------------------------- 
+
+1.8867924528301887
+line_id 3741328757
+transcript norm:  mais ils n acceptent pas une declaration dans laquelle il a ete dit par les francais les britanniques les sovietiques les chinois aussi que dans deux ans en 1956 des elections auront lieu pour regler politiquement le probleme du vietnam donc en attendant ils ont divise le vietnam comme le coree en deux moities
+ref norm:         mais ils n acceptent pas une declaration dans laquelle il a ete dit par les francais les britanniques les sovietiques les chinois aussi que dans deux ans en 1956 des elections auront lieu pour regler politiquement le probleme du vietnam en attendant ils ont divise le vietnam comme le coree en deux moities
+
+ ------------------------------------------- 
+
+5.660377358490567
+line_id 3741352755
+transcript norm:  donc votre question elle est tout a fait legitime mais je pense qu il n etait pas en mesure de continuer a se battre dans le sud a ce moment la et ca explique aussi pourquoi routine a accepte de signer lui aussi les accords de geneve qui divisaient son pays
+ref norm:         donc votre question elle est tout a fait legitime mais je pense qu il n etait pas en mesure de continuer a se battre dans le sud a ce moment la et ca explique aussi pourquoi ho chi minh a accepte de signer lui aussi les accords de geneve qui divisaient son pays
+
+ ------------------------------------------- 
+
+13.333333333333334
+line_id 3741321354
+transcript norm:  moi je pense comme je vous le disais tout a l heure n oubliez pas que les americains ils etaient deja la indirectement donc directement en coree ils se battaient directement l armee americaine contre les chinois les nord coreens indirectement en indochine
+ref norm:         moi je pense donc comme je vous disais tout a l heure n oubliez pas que les americains ils etaient deja la indirectement donc directement en coree donc il se battait directement l armee americaine contre les chinois et les nord coreens indirectement en indochine
+
+ ------------------------------------------- 
+
+9.433962264150944
+line_id 3741393844
+transcript norm:  donc avec les francais etc mais apres 1954 en quelque sorte les americains ont remplace les francais par ce vietnam du sud qui etait dirige par un homme celebre ngo dinh diem et donc la il mise sur cet homme pour creer si vous voulez l equivalent d une coree du sud
+ref norm:         donc avec les francais etc mais apres 1954 en quelque sorte les americains ils ont remplace les francais par ce vietnam du sud qui etait dirige par un homme celebre ngo duong giem et donc la ils misent sur cet homme pour creer si vous voulez l equivalent d une coree du sud
+
+ ------------------------------------------- 
+
+12.903225806451612
+line_id 3741363494
+transcript norm:  justement les vdm vont attaquer en trois vagues donc la premiere vague justement ils ouvrent le feu l artillerie contre l artillerie francaise dans la cuvette dans le forteresse
+ref norm:         justement les ville des mais vont attaquer en trois vagues donc la premiere vague justement ils ouvrent le feu l artillerie contre l artillerie francaise dans la cuvette dans la forteresse
+
+ ------------------------------------------- 
+
+5.714285714285714
+line_id 1056547247
+transcript norm:  alors meme si on en veut danny contre le format actuel des series puis qu on dit qu il y a des equipes qui ne meriteraient pas de perdre et qui perdent les quatre premieres tetes de series ont passe ca inclut bien sur dans nos sujets de conversation l elimination des maple leafs de toronto contre les browns il sera question aussi des autres series qui ont retenu notre attention
+ref norm:         alors meme si on en veut dany contre le format actuel des series puis qu on dit qu il y a des equipes qui meriteraient pas de perdre et qui perdent les quatre premieres tetes de serie ont passe ca inclut bien sur dans nos sujets de conversation l elimination des maple leafs de toronto contre les bruins il sera question aussi des autres series qui ont retenu notre attention
+
+ ------------------------------------------- 
+
+5.555555555555555
+line_id 1056527620
+transcript norm:  on va jeter un oeil sur la deuxieme onde la serie toute canadienne qui passionne l ouest du pays entre les oilers d edmonton et les canucks de vancouver ca certainement que ca va attirer beaucoup l attention on va egalement jaser d une equipe qui a pris 7 matchs pour passer au deuxieme tour
+ref norm:         on va jeter un oeil sur la deuxieme ronde la serie toute canadienne qui passionne l ouest du pays entre les oilers d edmonton et les canucks de vancouver ca certainement ca va attirer beaucoup l attention on va egalement jaser d une equipe qui a pris sept matchs pour passer au deuxieme tour
+
+ ------------------------------------------- 
+
+17.543859649122805
+line_id 1056536434
+transcript norm:  les stars de darlous qui deviennent une histoire interessante apres cette premiere vente de serie alors danny a toronto encore une fois les partisans des leafs vont vivre la frustration de voir leur equipe preferee sortir au premier tour mais est ce qu il y a quelqu un qui pensait vraiment que les leafs avaient une equipe de qualite champion
+ref norm:         les stars de dallas qui deviennent une histoire interessante apres ces premieres rondes de series alors dany a toronto encore une fois les partisans des leafs vont vivre la frustration de voir leur equipe preferee sortir au premier tour mais est ce que quelqu un qui pensait vraiment que les leafs avaient une equipe de qualite champion
+
+ ------------------------------------------- 
+
+10.38961038961039
+line_id 8961863117
+transcript norm:  moi ecoute je voyais que les leafs cette annee avaient quand meme fait des choses interessantes je regardais c est une equipe qui etait beaucoup plus engagee defensivement qui jouait mieux en unite de 5 qui avait quand meme reussi a faire des choses interessantes durant la saison ce qui m a evidemment surpris c est que autant les blounts que les leafs n ont pas ete capables de maintenir leur niveau de production du valet serie
+ref norm:         ben moi ecoute je voyais que les leafs cette annee avaient quand meme fait des choses interessantes je regardais c etait une equipe qui etait beaucoup plus engagee defensivement qui jouait mieux en unite de cinq qui avait quand meme reussi a faire des choses interessantes durant la saison ce qui m a evidemment surpris c est que autant les bruins que les leafs ont pas ete capables de maintenir leur niveau de production durant les series
+
+ ------------------------------------------- 
+
+1.5384615384615385
+line_id 1056594749
+transcript norm:  et danny moi ce que j ai trouve tres interessant des maple leafs de toronto c est peut etre que les partisans de toronto ne veulent pas l entendre cette affaire la mais les trois derniers matchs de la serie se sont termines par des faibles marges un but d ecart seulement puis des matchs qui sont alles en prolongation pour l avant avant dernier
+ref norm:         et dany moi ce que j ai trouve tres interessant des maple leafs de toronto c est peut etre que les partisans de toronto ne veulent pas l entendre cette affaire la mais les trois derniers matchs de la serie se sont termines par des faibles marges un but d ecart seulement puis des matchs qui sont alles en prolongation pour l avant avant dernier
+
+ ------------------------------------------- 
+
+5.88235294117647
+line_id 1056536627
+transcript norm:  l avant dernier une victoire de 2 a one de toronto puis la derniere on le sait ca s est termine en prolongation sur un match de 3 buts moi ca la ca me demontre que toronto progresse mais je sais pas si c est assez pour calmer le feu qui anime les batissards de cette equipe la qui pensent qu a chaque annee que les series commencent ils ont une chance de gagner la coupe alors que c est pas vrai danny
+ref norm:         l avant dernier une victoire de 2 a one de toronto puis la derniere on le sait ca s est termine en prolongation sur un match de trois buts moi ca la ca me demontre que toronto progresse mais je ne sais pas si c est assez pour calmer le feu qui anime les partisans de cette equipe la qui pensent qu a chaque annee que les series commencent ils ont une chance de gagner a la coupe alors que c est pas vrai dany
+
+ ------------------------------------------- 
+
+21.27659574468085
+line_id 8961851383
+transcript norm:  c est bizarre nous autres si l equipe passe pas mais ils sont pas la je pense que lorsqu il y a le canadien qui va se retrouver dans les bonnes equipes de la ligue les gens vont avoir les memes attentes qu a toronto c est normal d etre
+ref norm:         c est pesant nous autres si l equipe passe pas mais ils sont pas la tu sais je pense que lorsque le canadien va se retrouver dans les bonnes equipes de la ligue les gens vont avoir les memes attentes qu a toronto c est normal la
+
+ ------------------------------------------- 
+
+12.5
+line_id 1056599322
+transcript norm:  sais tu ce qui a fait la difference pour les partisans du canadien c est qu en 93 la derniere coupe et en 2021 la derniere finale les deux fois il n y a pas personne qui avait predit que le canadien y avait jusqu a la finale puis certainement pas gagner la coupe en 93
+ref norm:         c est tu ce qui a fait la difference pour les partisans du canadien c est qu en 1993 la derniere coupe et en 2021 la derniere finale les deux fois il n y a pas personne qui avait predit que le canadien irait jusqu a la finale et certainement pas gagner la coupe en 1993
+
+ ------------------------------------------- 
+
+5.084745762711865
+line_id 1056522431
+transcript norm:  c est ca que les partisans du canadien ont de plus par rapport a ceux des maple leafs parce qu en 1986 c etait peut etre inattendu mais peut etre un peu moins inattendu la coupe de 1986 puis dans les annees 70 j en parle meme pas avant que la saison commence le canadien etait les grands favoris
+ref norm:         c est ca que les partisans du canadien ont de plus par rapport a ceux des maple leafs parce qu en 1986 c etait peut etre inattendu mais peut etre un peu moins inattendu la coupe de 1986 dans les annees 70 je n en parle meme pas avant que la saison commence le canadien etait les grands favoris
+
+ ------------------------------------------- 
+
+13.157894736842104
+line_id 1056579770
+transcript norm:  parce que le succes aujourd hui dans la ligue nationale se batit tandis qu a l epoque tu pouvais acheter le succes donc tu sais la situation avec le plafond salarie ca fait que c est tres different
+ref norm:         c est parce que le succes aujourd hui dans la ligue nationale se batit tandis qu a l epoque tu pouvais acheter le succes donc la situation avec le plafond salarial ca fait que c est tres different
+
+ ------------------------------------------- 
+
+24.074074074074073
+line_id 8961896857
+transcript norm:  non evidemment que c est toronto c est matthews qui demande un peu publiquement de garder l equipe intacte ou alors ce qu il dit j aimerais qu on ait une autre chance puis je suis contraint parce que probablement que dans son foire interieur il regarde l equipe qu ils ont sous la main
+ref norm:         donc evidemment que c est toronto tu sais mathieu qui demande un peu publiquement de garder l equipe intacte parce qu il dit qu il aimerait qu on ait une autre chance puis je le comprends parce que probablement que dans son fort interieur il regarde l equipe qu ils ont sous la main
+
+ ------------------------------------------- 
+
+11.666666666666666
+line_id 1056548165
+transcript norm:  voila danny il y a un gars qui m a decu encore une fois dans les series cette annee a toronto c est le meme gars qui a cause une certaine problematique quand le canadien est revenu de l arriere dans la serie contre l elysee en 2021 et c est mitch marner mitch marner c est un beau garcon
+ref norm:         moi dany il y a un gars qui m a decu encore une fois dans les series cette annee a toronto c est le meme gars qui a cause une certaine problematique quand le canadien est revenu de l arriere dans la serie contre les leafs en 2021 et c est mitchell marner mitchell marner c est un bon garcon
+
+ ------------------------------------------- 
+
+11.650485436893204
+line_id 1056580045
+transcript norm:  il refuse d y aller je ne sais pas s il y a comme quelque chose dans son cerveau qui dit il s approche la dans le septieme match je me souviens comme il faut il est a a peu pres une douzaine de pieds du gardien de but il a une chance pour un tir a beau porteur puis en plus il y a des gars pour voiler gaffe viens il donne la rondelle a edmondson qui a marque 6 buts en 21 ans en serie de fin de saison non je fais une caricature le 6 buts en 21 ans
+ref norm:         il refuse d y aller je ne sais pas s il y a comme quelque chose dans son cerveau qui dit il s approche la dans le 7 e match je me souviens la comme il le faut il est a peu pres une douzaine de pieds du gardien de but il a une chance pour un tir a bout portant puis en plus il y a des gars pour voiler le gardien il donne la rondelle a edmonton qui a marque 6 buts en 21 ans en serie de fin de saison donc je fais une caricature 6 buts en 21 ans
+
+ ------------------------------------------- 
+
+19.047619047619047
+line_id 1056518083
+transcript norm:  mais c est a peu pres ca ils refusent systematiquement d aller la puis je pense que dans les joueurs de tight chez les leafs c est celui qui leur pose le plus de problemes quand vient le tadisier
+ref norm:         mais c est a peu pres ca ils refusent systematiquement d aller la je pense que dans les joueurs de tete chez les leafs c est celui qui leur pose le plus de problemes quand il y a le temps des series
+
+ ------------------------------------------- 
+
+12.5
+line_id 8961828125
+transcript norm:  ecoute c est sur que cette annee pour lui les series ca peut etre extraordinaire vraiment tu regardes ses chiffres par rapport a ce qu il doit offrir mais je regarde l ensemble de l oeuvre puis tu te dis ils n ont pas produit un avantage numerique tant que ca
+ref norm:         ecoute c est sur que cette annee pour lui les series ca n a pas ete extraordinaire c est vraiment la tu regardes ses chiffres par rapport a ce qu il doit offrir mais je regarde l ensemble de l oeuvre puis tu te dis ils n ont pas produit un avantage numerique tant que ca
+
+ ------------------------------------------- 
+
+1.8867924528301887
+line_id 2744413756
+transcript norm:  non je ne crois pas c est quelque chose qu on fait soi meme la meilleure ecole je crois c est lire beaucoup et vivre beaucoup et le talent n est pas je crois le plus fondamental c est le desir comme on disait il y a beaucoup de gens avec du talent
+ref norm:         non je ne crois pas c est quelque chose qu on fait soi meme la meilleure ecole je crois c est lire beaucoup et vivre beaucoup et le talent n est pas je crois le plus fondamental c est le desir comme on disait il y a beaucoup de gens avec le talent
+
+ ------------------------------------------- 
+
+9.25925925925926
+line_id 2744426642
+transcript norm:  il faut de l experience je crois c est tres rare que quelqu un de 22 ans ecrive un bon roman ca arrive de temps en temps mais c est tres tres rare je crois que pour la plupart les bons romanciers developpent et vers l age de 35 45 ca c est quelque chose qui se declenche
+ref norm:         il faut de l experience je crois c est tres rare que quelqu un de 22 ans ecrire un bon roman ca arrive de temps en temps mais c est tres tres rare je crois que pour la plupart les bons romanciers developpent et vers l age de 35 45 quelque chose se declenche
+
+ ------------------------------------------- 
+
+4.0
+line_id 2744449552
+transcript norm:  oui c est bien possible par exemple la musique j aime beaucoup j aime je crois peut etre la musique plus que d autres arts mais je n ai pas de talent je ne suis pas doue je ne peux pas jouer le piano ni le violon je ne peux pas chanter
+ref norm:         oui c est bien possible par exemple la musique j aime beaucoup je crois peut etre la musique plus que d autres arts mais je n ai pas de talent je ne suis pas doue je ne peux pas jouer le piano ni le violon je ne peux pas chanter
+
+ ------------------------------------------- 
+
+8.51063829787234
+line_id 2744493690
+transcript norm:  absolument et pour moi une grande partie de l ecriture c est l oreille et j ai l impression si on le fait a une phrase et une sequence de phrases avec un certain rythme que ce rythme la donne aussi le sens que les mots ont
+ref norm:         absolument absolument et pour moi une grande partie de l ecriture c est l ore et j ai l impression si on le fait a une phrase et une sequence de phrase avec un certain rythme que ce rythme la donne aussi le sens que les mots
+
+ ------------------------------------------- 
+
+6.666666666666667
+line_id 2744454282
+transcript norm:  parce qu on lit avec son corps aussi c est une action physique meme si on est tranquille tout seul dans une piece c est physique et je crois que tout l art tout l effort de l eculture c est d achever ce rythme
+ref norm:         parce qu on lit avec son corps aussi c est une action physique meme si on est tranquille toute seule dans une piece c est physique et je crois que tout l art tout l effort de l ecriture c est d achever ce rythme
+
+ ------------------------------------------- 
+
+0.0
+line_id 2744419884
+transcript norm:  c est a dire que chaque mot a un sens ou plusieurs sens et ce mot donne des resonances des vibrations dans la conscience du lecteur ce qu on espere c est de faire avec un mot quelques idees
+ref norm:         c est a dire que chaque mot a un sens ou plusieurs sens et ce mot donne des resonances des vibrations dans la conscience du lecteur ce qu on espere c est de faire avec un mot quelques idees
+
+ ------------------------------------------- 
+
+7.142857142857142
+line_id 2744475580
+transcript norm:  que ca devient plus qu il y a sur la page alors ca c est l emploi des mots le vocabulaire pour ainsi dire la musique des paroles aussi donne un autre sens une autre experience qui est tres importante
+ref norm:         que ca devienne plus ce qu il y a sur la page alors ca c est l emploi des mots le vocabulaire pour ainsi dire mais la musique des paroles aussi donne un autre sens une autre experience qui est tres importante
+
+ ------------------------------------------- 
+
+5.769230769230769
+line_id 2744462512
+transcript norm:  quand j ecris il y a une phrase qui me vient de temps en temps quand ca va mal ou j ecris trop les paragraphes sont trop longs trop compliques c est toujours en anglais mais je me dis swift and mean c est a dire vite et maigre mince j imagine
+ref norm:         quand j ecris il y a une phrase qui me vient de temps en temps quand ca va mal ou j ecris trop des paragraphes sont trop longs trop compliques c est toujours en anglais mais je me dis swift and lean c est a dire vite et maigre immense j imagine
+
+ ------------------------------------------- 
+
+13.043478260869565
+line_id 2744496919
+transcript norm:  je parle d une prose et de la rapidite de l histoire si on laisse les trous ca donne une sorte d espace pour le lecteur d enfin et de creer l histoire pour lui meme si on donne tout c est un peu etouffant
+ref norm:         oui je parle de la prose et de la rapidite de l histoire si on laisse les trous ca donne une sorte d espace pour l acteur d entree et de creer l histoire pour lui meme si on donne tout c est un peu etouffant
+
+ ------------------------------------------- 
+
+0.0
+line_id 2744447861
+transcript norm:  j avais l impression depuis toujours que si on n a pas besoin d ecrire ca ne vaut pas le coup parce que le monde ne demande pas les livres on fait les livres a cause d une necessite interieure
+ref norm:         j avais l impression depuis toujours que si on n a pas besoin d ecrire ca ne vaut pas le coup parce que le monde ne demande pas les livres on fait les livres a cause d une necessite interieure
+
+ ------------------------------------------- 
+
+2.380952380952381
+line_id 2744485348
+transcript norm:  et on n ecrit pas pour l argent la gloire rien que pour l acte de s exprimer je crois si ce n est pas necessaire un acteur le sent tout de suite et ca ne donne aucun interet ou plaisir
+ref norm:         et on n ecrit pas pour l argent la gloire rien que pour l acte de s exprimer je crois que si ce n est pas necessaire un acteur le sent tout de suite et ca ne donne aucun interet ou plaisir
+
+ ------------------------------------------- 
+
+1.694915254237288
+line_id 4643225986
+transcript norm:  muni des plaies de lit a cause d un sejour de 96 heures a l hopital de saint jerome aux urgences et il etait tetraplegique donc paralyze et si vous laissez quelqu un qui est paralyze dans son lit sans le bouger il va developper des plaies de lit et on dit ca comme ca des plaies de lit
+ref norm:         meunier des plaies de lit a cause d un sejour de 96 heures a l hopital de saint jerome aux urgences et il etait tetraplegique donc paralyze et si vous laissez quelqu un qui est paralyze dans son lit sans le bouger il va developper des plaies de lit et on dit ca comme ca des plaies de lit
+
+ ------------------------------------------- 
+
+2.0
+line_id 4643259462
+transcript norm:  pensez pas que c est benin c est extremement grave c est dangereux pour la sante et ca a ete a ce point dangereux a ce point douloureux que m meunier a fini par demander l aide medicale a mourir sa conjointe sylvie brosseau est au bout du fil
+ref norm:         ne pensez pas que c est benin c est extremement grave c est dangereux pour la sante et ca a ete a ce point dangereux a ce point douloureux que m meunier a fini par demander l aide medicale a mourir sa conjointe sylvie brosseau est au bout du fil
+
+ ------------------------------------------- 
+
+5.172413793103448
+line_id 4643256063
+transcript norm:  c est pas quelque chose de tres esoterique pour les personnes dans sa condition parce qu evidemment comme il ne peut pas se retourner dans son lit d hopital il etait a risque de developper des plaies de lit c est ce qui est arrive et ca a fini par l amener aux portes de la mort pratique
+ref norm:         c est pas quelque chose de tres esoterique la pour les personnes dans sa condition parce qu evidemment comme il ne pouvait pas se retourner dans son lit d hopital il etait a risque de developper des plaies de lit c est ce qui est arrive et ca a fini par l amener aux portes de la mort
+
+ ------------------------------------------- 
+
+4.761904761904762
+line_id 4643247289
+transcript norm:  il y a aussi cette histoire qui etait dans les medias aujourd hui dans la presse notamment des nouvelles strategies developpees par les policiers pour faire comprendre aux victimes des violences conjugales que lorsqu il y a un acte d etranglement
+ref norm:         et il y a aussi cette histoire qui etait dans les medias aujourd hui dans la presse notamment des nouvelles strategies developpees par les policiers pour faire comprendre aux victimes de violences conjugales que lorsqu il y a un acte d etranglement
+
+ ------------------------------------------- 
+
+3.0303030303030303
+line_id 4643258226
+transcript norm:  lorsqu un conjoint violent vous prend par la gorge tente de vous etrangler on appelle ca un etranglement vos chances d etre victime d un feminicide prochainement deviennent soudainement beaucoup plus elevees
+ref norm:         lorsqu un conjoint violent vous prend par la gorge tente de vous etrangler on appelle ca un etranglement ben vos chances d etre victime d un feminicide prochainement deviennent soudainement beaucoup plus elevees
+
+ ------------------------------------------- 
+
+3.1746031746031744
+line_id 4643236981
+transcript norm:  donc c est un signe a ne pas negliger la police de montreal qui a diffuse des informations a ce sujet la aujourd hui et aujourd hui dans le journal le soleil sous la plume de judith demel on peut lire l histoire d audrey van houtte en decembre 2021 il a denonce son ex conjoint a la police pour des comportements violents
+ref norm:         donc c est un signe a ne pas negliger la police de montreal qui a diffuse des informations a ce sujet la aujourd hui et aujourd hui dans le journal de soleil sous la plume de judith demel on peut lire l histoire d audrey van houtte en decembre 2021 elle a denonce son ex conjoint a la police pour des comportements violents
+
+ ------------------------------------------- 
+
+9.090909090909092
+line_id 4643274156
+transcript norm:  sors comme possesseur conjoint de son ex conjoint a ete condamne on lui a oblige a porter ce fameux bracelet anti rapprochement c est un bracelet qui a ete encense a l epoque en 2021 par la ministre de la securite publique de l epoque genevieve guilbault
+ref norm:         son conjoint son ex conjoint a ete condamne on lui a oblige a porter ce fameux bracelet anti rapprochement c est un bracelet qui a ete encense a l epoque en 2021 par la ministre de la securite publique de l epoque genevieve guilbault
+
+ ------------------------------------------- 
+
+6.25
+line_id 4643274238
+transcript norm:  on le sait c est un fleau a montreal et aussi dans la region de montreal dans d autres regions du canada les vols de vehicules il y a certains vehicules qui sont aussi tres prises des voleurs par exemple toyota 4 runner les havecat etc
+ref norm:         on le sait c est un fleau a montreal et aussi dans la region de montreal dans d autres regions du canada les vols de vehicules il y a certains vehicules qui sont aussi tres prises des voleurs par exemple un toyota 4 runner les rav 4 etc
+
+ ------------------------------------------- 
+
+11.29032258064516
+line_id 4643275595
+transcript norm:  des vehicules tres types sont cibles par des voleurs de voitures et la il y a une restauratrice du camorrasca de la region de camorrasca qui s appelle perle morancy qui etait en visite a montreal et justement quand elle est arrivee avec son 4 runner noir 2023 elle s est dit hey pas envie de me faire voler mon vehicule
+ref norm:         des vehicules tres types sont cibles par des voleurs de voitures et la il y a une restauratrice de la region de kamouraska qui s appelle perle morency qui etait en visite a montreal et justement quand elle est arrivee avec son 4 runner noir 2023 elle s est dit hey je n ai pas envie de me faire voler mon vehicule
+
+ ------------------------------------------- 
+
+27.083333333333332
+line_id 4643233546
+transcript norm:  et la elle se dit ben pas au center ville je suis dans rosemont je suis plus safe je suis safe il ne me faudrait pas voler mon vehicule sauf que mal lui a appris elle se les fait voler on va ecouter perle morassi chez paul arcand ce matin
+ref norm:         et la elle se disait je ne suis pas au center ville je suis dans rosemont je suis safe je ne me ferais pas voler mon vehicule sauf que mal lui en prit elle se les fait voler on va ecouter perle morency chez paul arcan ce matin
+
+ ------------------------------------------- 
+
+11.76470588235294
+line_id 4643276249
+transcript norm:  il faut savoir que c est devenu viral chez les restaurateurs cette publication la madame morassi est bien connue donc beaucoup de restaurateurs a montreal ont partage ca les amis de ces restaurateurs la ont partage ca sur facebook et finalement il n y a qu un qu un qui a localize la camionnette
+ref norm:         il faut savoir que c est devenu viral chez les restaurateurs cette publication la mme morency est bien connue donc beaucoup de restaurateurs a montreal ont partage ca les amis de ces restaurateurs la ont partage ca sur facebook et finalement il y a quelqu un qui a localize la camionnette
+
+ ------------------------------------------- 
+
+8.955223880597014
+line_id 4643212293
+transcript norm:  et un de ses amis s est presente la et est tombe sur le voleur on va parler a ce duo d amis qui s appellent jacques et simon sur des noms d hombre les gars m ont demande de ne pas les identifier mais ils sont prets a raconter leur histoire et c est avec beaucoup de plaisir que je les accueille a ce micro
+ref norm:         et un de ses amis s est presente la et est tombe sur le voleur on va parler a ce duo d amis qui s appelle jacques et simon ce sont des noms d emprunts les gars m ont demande de ne pas les identifier mais ils sont prets a raconter leurs histoires et c est avec beaucoup de plaisir que je les accueille a ce micro
+
+ ------------------------------------------- 
+
+17.543859649122805
+line_id 4643293294
+transcript norm:  un vase de voiture qui est finalement elucide par deux citoyens facebook a mis une passe sur la palette de jacques et simon il y a fort a parier aussi que si le vehicule de perle morancy n avait pas ete si typique noir avec des barres oranges et jaunes des problemes que personne n aurait remarque
+ref norm:         un vol de voiture qui est finalement elucide par deux citoyens facebook a mis une passe sur la palette de jacques et simon il y a faire a paris aussi que si le vehicule de perle morency n avait pas ete si typique noir avec des barres orange et jaune probablement que personne ne l aurait remarque
+
+ ------------------------------------------- 
+
+4.651162790697675
+line_id 4643271526
+transcript norm:  je ne sais pas si l expression est trop forte mais ce qui est clair c est qu il y a une crise qui est en train de se derouler a quebec solidaire on le sait depuis qu emilie de santery a tuite ses fonctions de co porte parole il y a des clans qui sont en train de se former d une part des militants qui veulent que quebec solidaire reste quebec solidaire tant dans les prises de position que dans la vie du parti
+ref norm:         je ne sais pas si l expression est trop forte mais ce qui est clair c est qu il y a une crise qui est en train de se derouler a quebec solidaire on le sait depuis qu emilise lessard therrien a quitte ses fonctions de co porte parole il y a des clans qui sont en train de se former d une part des militants qui veulent que quebec solidaire reste quebec solidaire tant dans les prises de position que dans la vie du parti
+
+ ------------------------------------------- 
+
+16.176470588235293
+line_id 4643221092
+transcript norm:  et de l autre il y a gabriel nadeau dubois qui a ete critique par l ex depute catherine dorion nozolive qui a ete critique par emilie lesarterien dans sa lettre de demission qui est critique par des militants et militantes pas pour ses comportements mais disons plutot pour ce que mme lesarterien a appele une facon professionnelle entre guillemets de faire de la politique occidentale
+ref norm:         et de l autre il y a gabriel nadeau dubois qui a ete critique par l ex depute catherine dorion dans un livre qui a ete critique par emilise lessard therrien dans sa lettre de demission qui est critiquee par des militants militantes pas pour ses comportements mais disons plutot pour ce que mme lessard therrien a appele une facon professionnelle entre guillemets de faire de la politique
+
+ ------------------------------------------- 
+
+8.108108108108109
+line_id 4643265056
+transcript norm:  il y a un conseil national qui est a l horizon a la fin du mois c est sur que les discussions vont etre assez fortes bref on va faire le point avec quelqu un qui connait tres bien le parti de l interverant quelqu un que vous connaissez tres bien amir kadhi elle est un des cofondateurs de quebec solidaire elle a ete coporte parole du parti de 2006 a 2013 amir bonjour
+ref norm:         il y a un conseil national qui est a l horizon a la fin du mois c est sur que les discussions vont etre assez fortes bref on va faire le point avec quelqu un qui connait tres bien le parti de l interieur quelqu un que vous connaissez tres bien amir khadir est un des co fondateurs de quebec solidaire il a ete coporte parole du parti de 2006 a 2013 amir bonjour
+
+ ------------------------------------------- 
+
+20.0
+line_id 4643296643
+transcript norm:  americains de l exterieur moi je n ai pas d envie de ce parti la je ne milite en aucun parti mais il y a des militantes qui disent ah c est jamais tres tres precis les critiques c est souvent vague c est pas un parti qui fait de la place aux femmes c est pas un vrai parti feministe
+ref norm:         amir khadir de l exterieur moi je suis pas dans la vue de ce parti la je suis militant d aucun parti mais il y a des militantes qui disent ah c est et c est jamais tres tres precis les critiques c est souvent vague c est pas un parti qui fait de la place aux femmes c est pas un vrai parti feministe
+
+ ------------------------------------------- 
+
+8.695652173913043
+line_id 4643289212
+transcript norm:  de l exterieur ecoutez c est inscrit dans l adn du parti d avoir une cour par parole feminine il y a des femmes tres fortes manon masse francoise david qui ont milite qui ont ete cour par parole de ce parti la est ce que vous etes d accord avec le fait qu avec la critique de certaines militantes que le parti n est pas reellement feministe
+ref norm:         de l exterieur ecoutez c est inscrit dans l adn du parti d avoir une co porte parole feminine il y a des femmes tres fortes manon masse francoise david qui ont milite et qui ont ete co porte parole de ce parti la est ce que vous etes d accord avec le fait que avec la critique de certaines militantes que le parti n est pas reellement feministe
+
+ ------------------------------------------- 
+
+6.976744186046512
+line_id 4643282550
+transcript norm:  moi je me souviens quand vous etiez le seul depute solidaire et on peut passer ce qu on veut de vos prises de position mais vous arriviez a tirer l attention et a fonctionner dans l institution de facon assez spectaculaire quand meme
+ref norm:         moi je me souviens quand vous etiez le seul depute solidaire puis on peut penser ce qu on veut de vos prises de position mais vous arriviez a tirer l attention puis a fonctionner dans l institution de facon assez spectaculaire quand meme
+
+ ------------------------------------------- 
+
+5.063291139240507
+line_id 9909175359
+transcript norm:  hitler et son parti ont laisse l allemagne et l europe en ruine et ca a produit la defaite totale du regime nazi et de ses allies en 1945 pour mettre fin au conflit le plus meurtrier de l histoire qui coutera la vie a environ 75000000s de personnes dependamment des estimations au cours des annees on a retrouve des milliers de temoignages et de documents exposant toutes les horreurs des politiques des nazis et plus particulierement sur l holocauste
+ref norm:         hitler et son parti ont laisse l allemagne et l europe en ruines et ca prendra la defaite totale du regime nazi et de ses allies en 1945 pour mettre fin au conflit le plus meurtrier de l histoire qui ecoutera la vie a environ 75000000s de personnes dependamment des estimations au cours des annees on a retrouve des milliers de temoignages et de documents exposant toutes les horreurs des politiques des nazis et plus particulierement sur l holocauste
+
+ ------------------------------------------- 
+
+15.517241379310345
+line_id 9909152575
+transcript norm:  en gros l holocauste c est litteralement une entreprise d extermination systematique a grande echelle de ce qu inazi appelait les razas inferieures on parle des roms les gitans les synthes d europe les noirs les homosexuels les handicapes et aussi toute ennemie politique du regime ils seront tous pris pour cible par hitler et ses hommes
+ref norm:         en gros l holocauste c etait litteralement une entreprise d extermination systematique a grande echelle de ceux que les nazis appelaient les races inferieures on parle des roms les gitans les synthes d europe les noirs les homosexuels les handicapes et aussi tout ennemi politique du regime ils seront tous pris pour cible par hitler et ses hommes
+
+ ------------------------------------------- 
+
+11.864406779661017
+line_id 9909141946
+transcript norm:  mais c est le peuple juif qui demeurera la cible principale des persecutions et des assassinats massifs un systeme genocidaire compose de camps d extermination de camps de concentration de ghettos et d unites mobiles de massacre qui se chargeaient d executer les monstres ouirosites du regime tant le troisieme reich tombe en fin environ 6000000s de juifs auront ete assassines
+ref norm:         mais c est le peuple juif qui demeura la cible principale des persecutions et des assassinats massifs un systeme genocidaire compose de camps d extermination de camps de concentration de ghettos et d unites mobiles de massacre qui se chargeaient d executer les monstruosites du regime quand le troisieme rage tombe enfin environ 6000000s de juifs auront ete assassines
+
+ ------------------------------------------- 
+
+8.571428571428571
+line_id 9909161959
+transcript norm:  la vie d elie dawang comme celle de bien des gens au pays va brusquement changer a l ete 1940 alors qu il a 6 ans son pere faye wish possede une entreprise ou on fait venir des radios sa mere chaina s occupe du petit elie lorsqu un jour tout bascule l armee allemande marche sur la france et on occupe une bonne partie rapidement les persecutions envers les juifs commencent
+ref norm:         la vie d elie dawang comme celle de bien des gens au pays va brusquement changer a l ete 1940 alors qu il a 6 ans son pere faiwish possede une entreprise ou on fabrique des radios sa mere shaina s occupe du petit elie lorsqu un jour tout bascule l armee allemande marche sur la france et en occupe une bonne partie rapidement les persecutions envers les juifs commencent
+
+ ------------------------------------------- 
+
+11.904761904761903
+line_id 9909199626
+transcript norm:  a partir de leur arrestation les evenements s enchainent tres vite pour eddie son pere reussit in extremis a le faire sortir de prison pour ensuite confier une connaissance malheureusement farwich et shaina ses deux parents n ont pas la meme chance
+ref norm:         a partir de leur arrestation les evenements s enchainent tres vite pour elie son pere reussit inextremiste a le faire sortir de prison pour ensuite le confier une connaissance malheureusement fawish et shaina ses deux parents n ont pas la meme chance
+
+ ------------------------------------------- 
+
+18.64406779661017
+line_id 9909138788
+transcript norm:  ils sont deportes plus de temps apres dans des convois differents vers auschwitz le plus justement celebre des camps d extermination nazis le pere d elie fait partie du premier convoi de juifs francais en voyaskan des son entree il travaille a trier les effets personnels et les vetements qui sont profitees aux prisonniers a leur arrivee
+ref norm:         ils sont deportes peu de temps apres dans des convois differents vers auschwitz le plus tristement celebre des camps d extermination nazi le pere d elie fait partie du premier convoi juif francais envoye a ce camp la des son entree il travaille a trier les effets personnels et les vetements qui sont confisques aux prisonniers a leur arrivee
+
+ ------------------------------------------- 
+
+7.2727272727272725
+line_id 9909115751
+transcript norm:  il y a encore aujourd hui des gens pour remettre en question l holocauste quand de tels temoignages existent ben c est tout simplement incomprehensible parce que oui aujourd hui encore il y a des gens qui doutent de l existence du genocide et meme des camps de concentration c est ce qu on appelle le negationnisme
+ref norm:         qui est encore aujourd hui des gens pour remettre en question l holocauste quand de tels temoignages existent c est tout simplement incomprehensible parce que oui aujourd hui encore il y a des gens qui doutent de l existence du genocide et meme des camps de concentration c est ce qu on appelle le negationnisme
+
+ ------------------------------------------- 
+
+6.153846153846154
+line_id 9909181654
+transcript norm:  partout dans le monde il existe des institutions qui sont bediees meme au sujet c est le cas du musee de l holocauste de montreal qui s est donne comme mission de recolter des temoignages comme ceux d elie dawang pour sensibiliser les generations futures audrey dicope en est la directrice adjointe pour elle ca fait aucun doute on ne l expliquera jamais assez
+ref norm:         partout dans le monde il existe des institutions qui sont dediees meme au sujet c est le cas du musee de l holocauste de montreal qui s est donne comme mission de recolter des temoignages comme ceux d eli dawang pour sensibiliser les generations futures audrey bicop en est la directrice adjointe pour elle ca ne fait aucun doute on ne l expliquera jamais assez
+
+ ------------------------------------------- 
+
+13.698630136986301
+line_id 9909145595
+transcript norm:  c est un des derniers survivants de l holocauste qui raconte un moment aussi prenant de sa vie que sur les 1100 hommes a etre partis en mars 1942 son pere faisait partie des tres rares a revenir vivant du camp d auschwitz quand on entend ca on ne peut pas faire autrement que d etre emu lucide se rappelait de l importance de cette histoire avec un grand h
+ref norm:         quand c est un des derniers survivants de le locos qui raconte un moment aussi poignant de sa vie que sur les 1100 hommes a etre partis en mars 1942 son pere faisait partie des tres rares a revenir vivants du camp d ochvitz quand on entend ca on ne peut pas faire autrement que d etre emu et aussi de se rappeler de l importance de cette histoire avec un grand h
+
+ ------------------------------------------- 
+
+117.07317073170731
+line_id 9909157176
+transcript norm:  pourtant malgre les temoignages comme celui la il y a encore aujourd hui des milliers de personnes a travers le monde qui croient en des theories negationnistes qui pensent que les camps de concentration de l allemagne nazie n ont jamais existe ou bien qu adolf hitler ait toujours fait fun
+ref norm:         et on n ecrit pas pour l argent la gloire rien que pour l acte de s exprimer je crois que si c est pas necessaire un lecteur le sent tout de suite et ca ne donne aucun interet ou plaisir
+
+ ------------------------------------------- 
+
+13.333333333333334
+line_id 9909156643
+transcript norm:  cette voix vous dit surement quelque chose il s agit bien entendu d adolf hitler qui est aux commandes de l allemagne de 1933 a 1945 celui qu on appelait le fuhrer dirige le parti national socialiste ou les nazis en abrigeaient et avec ses disciples
+ref norm:         cette voix vous dit surement quelque chose il s agit bien entendu d adolphe hitler qui est aux commandes de l allemagne de 1933 a 1945 celui qu on appelait le fureur dirigeait le parti national socialiste ou nazi en abrege et avec ses disciples
+
+ ------------------------------------------- 
+
+15.0
+line_id 9909189629
+transcript norm:  il s en contre dime les pires atrocites de l histoire recente de l humanite l etat nazi du 3 e reich a mis a feu et a sang l europe en declenchant la seconde guerre mondiale de 1939 a 1945
+ref norm:         il a sans contredit mene les pires atrocites de l histoire recente de l humanite l etat nazi du troisieme reich a mis a feu et a sang l europe en declenchant la seconde guerre mondiale de 1939 a 1945
+
+ ------------------------------------------- 
+
+6.0
+line_id 9909119577
+transcript norm:  depuis ces annees sombres il y a des milliers de survivants qui ont pris la parole pour temoigner des etres steviques pour que l histoire ne se repete plus jamais c est le cas d elie dawang un survivant de la shoah qui a accepte de me raconter son histoire
+ref norm:         depuis ces annees sombres il y a des milliers de survivants qui ont pris la parole pour temoigner des atrocites vecues pour que l histoire ne se repete plus jamais c est le cas d eli dawang un survivant de la shoah qui a accepte de me raconter son histoire
+
+ ------------------------------------------- 
+
+13.20754716981132
+line_id 9909110078
+transcript norm:  est un monsieur de quatre vingt neuf ans tres sympathique et qui encore a son or venerable a le gout et l energie de raconter une fois de plus une partie de son histoire pour ne pas que l on oublie il est ne en a paris en france de parents juifs
+ref norm:         eli est un monsieur de 89 ans tres sympathique et qui encore a son age venerable a le gout et l energie de raconter une fois de plus une partie de son histoire pour ne pas que l on oublie il est ne en 1934 a paris en france de parents juifs lituaniens
+
+ ------------------------------------------- 
+
+12.727272727272727
+line_id 9909178768
+transcript norm:  a un moment donne feuillet et plusieurs autres detenus doivent etre envoyes d auschwitz a varsovie toujours a pologne mais l armee sovietique s approche du camp et ils sont contraints d aller vers l allemagne a thiers il s agit d une des funestes marches de la mort il y en aura plusieurs
+ref norm:         en le moment donne fawish et plusieurs autres detenus doivent etre envoyes d auschwitz a varsovie toujours en pologne mais l armee sovietique s approche du camp et ils sont contraints d aller vers l allemagne a pied il s agit d une des funestes marche de la mort et il y en aura plusieurs
+
+ ------------------------------------------- 
+
+17.857142857142858
+line_id 9909188719
+transcript norm:  fawish est l un des rares sous vivants de cette marche alors qu il y a des dizaines de milliers d autres prisonniers pvse de froid de faim ou d epuisement heureusement l armee americaine finit par arriver et liberer le camp de dachau en allemagne ou le pere d eli dawang se trouve a ce moment la
+ref norm:         fawish est l un des rares survivants de cette marche la alors que des dizaines de milliers d autres prisonniers perissent eux de froid de faim ou d epuisement heureusement l armee americaine finit par arriver et liberer le camp de dachau en allemagne ou le pere d eli daouin se trouve a ce moment la
+
+ ------------------------------------------- 
+
+0.0
+line_id 9909141223
+transcript norm:  dans le dictionnaire larousse le negationnisme se definit comme une doctrine niant la realite du genocide des juifs par les nazis notamment l existence des chambres a gaz ca c est une des expressions modernes de l antisemitisme de la haine des juifs
+ref norm:         dans le dictionnaire larousse le negationnisme se definit comme une doctrine niant la realite du genocide des juifs par les nazis notamment l existence des chambres a gaz ca c est une des expressions modernes de l antisemitisme de la haine des juifs
+
+ ------------------------------------------- 
+
+16.071428571428573
+line_id 9909159090
+transcript norm:  le gymnasium doit tomber l ideologie haineuse s est marginalisee mais c est jamais completement eteinte pourtant regulierement des films sont produits des livres sont publies qui racontent cette histoire qui a ete vecue par des 1000000s de personnes qui analysent sous toutes les coutures la catastrophe humaine qu est l holocauste
+ref norm:         le regime nazi a beau etre tombe l ideologie haineuse elle s est marginalisee mais s est jamais completement eteinte pourtant regulierement des films sont produits des livres sont publies qui racontent cette histoire qui a ete vecue par des 1000000s de personnes qui analysent sous toutes les coutures la catastrophe humaine qui est l holocauste
+
+ ------------------------------------------- 
+
+Final wer score:  11.523301083262176

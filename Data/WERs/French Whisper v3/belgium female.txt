@@ -1,0 +1,1120 @@
+WER Evaluation Results
+======================
+
+Line ID: 7457246003
+WER Score: 16.00
+Transcript: l assiette encore pleine son eternel il te faudrait une bonne guerre est elle l habituelle introduction a des apres midi entiers a l ecouter je pourrais passer des heures a vous la decrire dans les moindres details de sa coiffure toujours impeccable au bouton perle de son gilet bleu ciel
+Reference:  l assiette est encore pleine son eternelle il te faudrait une bonne guerre etait l habituelle introduction a des apres midi entiers a l ecouter je pourrais passer des heures a vous la decrire dans les moindres details des aquafures toujours impeccables au bouton perle de son gilet bleu ciel
+-------------------------------------------
+
+Line ID: 7457255411
+WER Score: 0.00
+Transcript: mais j aimerais vous laisser la liberte de l imaginer parce que marguerite etait ma grand mere mais elle aurait pu etre la votre aussi alors ici j ai choisi de vous partager un bout de son histoire et puis surtout sa voix
+Reference:  mais j aimerais vous laisser la liberte de l imaginer parce que marguerite etait ma grand mere mais elle aurait pu etre la votre aussi alors ici j ai choisi de vous partager un bout de son histoire et puis surtout sa voix
+-------------------------------------------
+
+Line ID: 7457234937
+WER Score: 2.00
+Transcript: j ai contacte toutes les associations d anciens combattants sur le territoire belge ainsi que les archives de l etat mais finalement je retrouve l archive video dans un terroir tres bien range chez mes parents ah oui constance c est moi je suis donc la petite fille de marguerite
+Reference:  j ai contacte toutes les associations d anciens combattants sur le territoire belge ainsi que les archives de l etat mais finalement je retrouve l archive video dans un tiroir tres bien range chez mes parents ah oui constance c est moi je suis donc la petite fille de marguerite
+-------------------------------------------
+
+Line ID: 7457281969
+WER Score: 94.37
+Transcript: tantot drole tantot grave
+Reference:  grace a cet enregistrement je decouvre les images de marguerite elle est la comme je l ai toujours connue franche directe mais toujours polie elle reste fidele a elle meme du haut de ses 85 ans il y a une certaine malice dans les yeux de marguerite bien droite la coiffure toujours impeccable elle rit de bon coeur et raconte son histoire comme une serie d anecdotes tantot drole tantot grave
+-------------------------------------------
+
+Line ID: 7457267504
+WER Score: 1.69
+Transcript: en plus de cet enregistrement j ai aussi retrouve trois valises avec des objets des bouts de tissu des photos des decorations des drapeaux belges plies en cinq et vraiment plein plein de papiers des attestations des documents officiels des telegrammes des cartes postales des lettres mais vraiment beaucoup de lettres certaines datent de 1943 d autres plus tard
+Reference:  en plus de cet enregistrement j ai aussi retrouve trois valises avec des objets des bouts de tissus des photos des decorations des drapeaux belges plies en cinq et vraiment plein plein de papiers des attestations des documents officiels des telegrammes des cartes postales des lettres mais vraiment beaucoup de lettres certaines datent de 1943 d autres plus tard
+-------------------------------------------
+
+Line ID: 7457297108
+WER Score: 3.28
+Transcript: la voix de marguerite comme fil conducteur et les valises de papier pour completer le reste je ne cherche rien en particulier puisque l histoire je la connais j ai grandi avec alors comme un grand puzzle je m essaye a rassembler toutes les pieces de l histoire de l histoire de ma famille et de mon histoire aussi en fait
+Reference:  la voix de marguerite comme file conducteur et les valises de papiers pour completer le reste je ne cherche rien en particulier puisque l histoire je la connais j ai grandi avec alors comme un grand puzzle je m essaye a rassembler toutes les pieces de l histoire de l histoire de ma famille et de mon histoire aussi en fait
+-------------------------------------------
+
+Line ID: 7457297030
+WER Score: 0.00
+Transcript: je retrouve une photo de marguerite portant une jolie robe avec une broche en forme d oiseau qui s envole les mains croisees dans le dos marguerite a 25 ans elle se tient sagement debout dans le jardin de la maison familiale a jolimont petite ville dans la province du hainaut en belgique
+Reference:  je retrouve une photo de marguerite portant une jolie robe avec une broche en forme d oiseau qui s envole les mains croisees dans le dos marguerite a 25 ans elle se tient sagement debout dans le jardin de la maison familiale a jolimont petite ville dans la province du hainaut en belgique
+-------------------------------------------
+
+Line ID: 7457295946
+WER Score: 2.13
+Transcript: se marier avec le pharmacien du coin c est un peu le recit attendu pour une jolie fille de la fin des annees 30 or du haut de son petit meter soixante et de ses vingt ans marguerite est contre toute attente tres independante pour son epoque
+Reference:  se marier avec le pharmacien du coin c est un peu le recit attendu pour une jolie fille de la fin des annees 30 or du haut de son petit meter soixante et de ses 20 ans marguerite est contre toute attente tres independante pour son epoque
+-------------------------------------------
+
+Line ID: 7457282653
+WER Score: 1.37
+Transcript: elle est modiste entrepreneuse et a la tete de plusieurs couturieres elle dirige une boutique et un atelier de fabrication de chapeaux alors ca m amuse un peu parce que donc non je vous le donne en mille le destin de marguerite ne s arretera donc pas a se marier avec le pharmacien du coin a cette epoque ce que marguerite aime plus que tout c est sa famille ses chapeaux et son magasin
+Reference:  elle est modiste entrepreneuse et a la tete de plusieurs couturieres elle dirige une boutique et un atelier de fabrication de chapeaux alors ca m amuse un peu parce que non je vous le donne en mille le destin de marguerite ne s arretera donc pas a se marier avec le pharmacien du coin a cette epoque ce que marguerite aime plus que tout c est sa famille ses chapeaux et son magasin
+-------------------------------------------
+
+Line ID: 7457291354
+WER Score: 5.26
+Transcript: et l heureuse elue s appelle joseph ne en 1914 a fay les manages il travaille avec son pere dans une corderie qui fabrique les cables pour des ascenseurs notamment pour les mines a charbon leur rencontre restera un mystere tout ce qu on sait c est qu ils se fiancent a la fin des annees 30
+Reference:  et l heureux elu s appelle joseph ne en 1914 a faille les manages il travaille avec son pere dans une corderie qui fabrique les cables pour des ascenseurs notamment pour les mines a charbon leur rencontre restera un mystere tout ce qu on sait c est qu ils se fiancent a la fin des annees 30
+-------------------------------------------
+
+Line ID: 7457265307
+WER Score: 4.00
+Transcript: meme si je connais l histoire grosso modo j ai fait des vraies trouvailles dans ces vieilles valises l une des belles surprises retrouvees un petit manuscrit titre souvenir d un resistant a l interieur tout est tape a la machine les paragraphes se succedent sans pause ca respire peu
+Reference:  meme si je connais l histoire grosso modo j ai fait des vraies trouvailles dans ces vieilles valises l une des belles surprises retrouvees un petit manuscrit titre souvenirs d un resistant a l interieur tout est tape a la machine les paragraphe se succedent sans pause ca respire peu
+-------------------------------------------
+
+Line ID: 7457266619
+WER Score: 3.51
+Transcript: sur la couverture je lis un petit mot ecrit a l encre rouge a mon ami jeunasse ok mais qui est ce jeunasse jamais entendu parler bon je verrai ca plus tard j embarque le cahier dans mon sac et j entame la lecture d une traite de ce qui deviendra l une de mes sources principales
+Reference:  sur la couverture je lis un petit mot ecrit a l encre rouge a mon ami jeunesse ok mais qui est ce jeunesse jamais entendu parler bon je verrai ca plus tard j embarque le cahier dans mon sac et j entame la lecture d une traite de ce qui deviendra l une de mes sources principales
+-------------------------------------------
+
+Line ID: 7457256743
+WER Score: 5.66
+Transcript: a la fin de ce manuscrit une dedicace avec la meme ecriture a l encre rouge a mon ami jonas en souvenir des heures exaltantes passees ensemble a notre profonde amitie ce manuscrit d une soixantaine de pages relate les souvenirs d un saboteur jean camarade de guerre de joseph ou jonas apparemment
+Reference:  a la fin de ce manuscrit une dedicace avec la meme ecriture a l encre rouge a mon ami jeunasse en souvenir des heures exaltantes passees ensemble a notre profond amitie ce manuscrit d une soixantaine de pages relate les souvenirs d un saboteur jean camarade de guerre de joseph ou jeunasse apparemment
+-------------------------------------------
+
+Line ID: 7457267436
+WER Score: 4.35
+Transcript: joseph celui que rien n arrete donc a son retour pas une minute a perdre joseph entre au service de la ligne de 101 france combattante du groupe la galice de failly les manages et de la legion belge qui deviendra plus tard l armee secrete .
+Reference:  joseph celui que rien n arrete donc a son retour pas une minute a perdre joseph entre au service de la ligne de 101 france combattante du groupe la galice de faille les manages et de la legion belge qui deviendra plus tard l armee secrete
+-------------------------------------------
+
+Line ID: 7457263003
+WER Score: 1.79
+Transcript: au debut de 1942 joseph forme le noyau de l armee belge des partisans du center il ne s appelle plus joseph mais repond dorenavant sous un nom de guerre jonas sous cette nouvelle identite et son role d artificier il distribue des journaux clandestins transporte des armes et des explosifs et effectue de nombreux sabotages
+Reference:  au debut de 1942 joseph forme le noyau de l armee belge des partisans du center il ne s appelle plus joseph mais repond dorenavant sous un nom de guerre jeunesse sous cette nouvelle identite et son role d artificier il distribue des journaux clandestins transporte des armes et des explosifs et effectue de nombreux sabotages
+-------------------------------------------
+
+Line ID: 7457230049
+WER Score: 4.65
+Transcript: et voila tout simplement on se sent meme bete d avoir pense a se poser la question nee dans une maison patriote jeune femme independante et en plus amoureuse d un joseph resistant endiable marguerite s engage aussi dans la resistance en 1942
+Reference:  et voila tout simplement on se sent meme bete d avoir pense a se poser la question ne dans une maison patriote jeune femme independante et en plus amoureuse d un joseph resistant endiablee marguerite s engage aussi dans la resistance en 1942
+-------------------------------------------
+
+Line ID: 7996193195
+WER Score: 2.04
+Transcript: a trois reprises veronique courgeot est donc enceinte a trois reprises elle accouche et a trois reprises elle tue seule toujours seule mais quand elle tue veronique n a pas l impression de tuer ses enfants non elle eteint des bouts de chair des bouts d elle meme finalement
+Reference:  a trois reprises veronique courjault est donc enceinte a trois reprises elle accouche et a trois reprises elle tue seule toujours seule mais quand elle tue veronique n a pas l impression de tuer ses enfants non elle eteint des bouts de chair des bouts d elle meme finalement
+-------------------------------------------
+
+Line ID: 7996134626
+WER Score: 1.16
+Transcript: elle sait qu elle est enceinte mais ce ne sont pas des accouchements qu elle vit elle a deux grands fils elle sait ce que c est que d accoucher dans sa tete dans son corps pour ces trois la c est different quand j ai decouvert cette affaire que je racontais la triste histoire de cette femme autour de moi personne ne semblait la connaitre et puis ensuite je disais mais si tu sais c est les bebes congeles et la les regards s eclairaient
+Reference:  elle sait qu elle est enceinte mais ce ne sont pas des accouchements qu elle vit elle a deux grands fils elle sait ce que c est que d accoucher dans sa tete dans son corps pour ces trois la c est different quand j ai decouvert cette affaire que je racontais la triste histoire de cette femme autour de moi personne ne semblait la connaitre et puis ensuite je disais mais si tu sais c est des bebes congeles et la les regards s eclairaient
+-------------------------------------------
+
+Line ID: 7996148064
+WER Score: 2.00
+Transcript: c est ca qu on a retenu de veronique qu elle avait conserve les corps de ses nouveaux nes dans le congelateur familial c est ca que les medias ont mis en avant et c est la que l histoire de veronique courgeot est devenue l affaire des bebes congeles
+Reference:  c est ca qu on a retenu de veronique qu elle avait conserve les corps de ses nouveaux nes dans le congelateur familial c est ca que les medias ont mis en avant et c est la que l histoire de veronique courjault est devenue l affaire des bebes congeles
+-------------------------------------------
+
+Line ID: 7996198093
+WER Score: 2.56
+Transcript: son proces parce qu il traite de l une des figures emblematiques des femmes criminelles a savoir des femmes infanticides mais aussi parce qu il expose les liens entre la criminalite des femmes et ce qui se passe dans leur corps dans leur ventre et bien ce proces incarne tous les enjeux que cette serie de podcast va explorer pour nous accompagner tout au long de ce recit julie ancien sociologue et ondine millot journaliste judiciaire et autrice
+Reference:  son proces parce qu il traite de l une des figures emblematiques des femmes criminelles a savoir des femmes infanticides mais aussi parce qu il expose les liens entre la criminalite des femmes et ce qui se passe dans leur corps dans leur ventre et bien ce proces incarne tous les enjeux que cette serie de podcasts va explorer pour nous accompagner tout au long de ce recit julie ancian sociologue et ondine millot journaliste judiciaire et autrice
+-------------------------------------------
+
+Line ID: 7996129092
+WER Score: 9.09
+Transcript: les tribunaux je les connais depuis toute petite mon pere etait avocat comme son pere avant lui alors c etait pas des grands avocats dans des grands cabinets c etait des petits avocats de province dans un coin perdu de haute savoie en france
+Reference:  les tribunaux je les connais depuis toute petite mon pere etait avocat comme son pere avant lui alors c etait pas des grands avocats dans des grands cabinets c etait des petits avocats de province sans un coin perdu d autres savoirs en france
+-------------------------------------------
+
+Line ID: 7996121872
+WER Score: 0.00
+Transcript: un collegue a moi me disait que la justice c etait un peu comme l arriere cuisine de la societe un endroit precaire pas tres beau pas tres propre et qui tente de regler tout le bourbier citoyen bien a l abri des regards les conflits judiciaires racontent les tensions les torsions les oppressions qui structurent nos societes
+Reference:  un collegue a moi me disait que la justice c etait un peu comme l arriere cuisine de la societe un endroit precaire pas tres beau pas tres propre et qui tente de regler tout le bourbier citoyen bien a l abri des regards les conflits judiciaires racontent les tensions les torsions les oppressions qui structurent nos societes
+-------------------------------------------
+
+Line ID: 7996135369
+WER Score: 5.08
+Transcript: c est pour tenter de repondre a ces questions que je me suis interessee a des proces criminels ou les femmes etaient coupables coupables ou du moins condamnees des affaires recentes ou pas des proces mediatiques ou non mais tous sont des faits divers devenus faits de societe huit episodes pour huit proces et huit femmes
+Reference:  ou la menace c est pour tenter de repondre a ces questions que je me suis interessee a des proces criminels ou les femmes etaient coupables coupables ou du moins condamnees des affaires recentes ou pas des proces mediatiques ou non mais tous sont des faits divers devenus faits de societe huit episodes pour huit proces et huit femmes
+-------------------------------------------
+
+Line ID: 7996182798
+WER Score: 3.23
+Transcript: et pour commencer debutons donc cette serie avec l histoire de veronique courgeot et de son crime l un des plus emblematiques les plus symboliques de la criminalite feminine l infanticide
+Reference:  et pour commencer debutons donc cette serie avec l histoire de veronique courjault et de son crime l un des plus emblematiques les plus symboliques de la criminalite feminine l infanticide
+-------------------------------------------
+
+Line ID: 7996133119
+WER Score: 3.77
+Transcript: pourtant le coeur de l affaire courgeot ca n est pas le crime atroce evidemment mais non c est la coupable parce qu elle ne se dedouane pas veronique courgeot parce qu elle essaie d expliquer et donc de comprendre ce qu elle a fait l origine et le sens de sa violence
+Reference:  pourtant le coeur de l affaire courjault ca n est pas le crime atroce evidemment mais non c est la coupable parce qu elle ne se dedouane pas veronique courjault parce qu elle essaie d expliquer et donc de comprendre ce qu elle a fait l origine et le sens de sa violence
+-------------------------------------------
+
+Line ID: 7996160199
+WER Score: 0.00
+Transcript: et parce que son histoire c est aussi celle d une solitude d un desespoir que personne ne voulait ni voir ni entendre et c est le proces qui donnerait a cette affaire une dimension intime et quasi historique un magistrat que j avais rencontre a nantes me disait souvent pour bien juger il faut comprendre
+Reference:  et parce que son histoire c est aussi celle d une solitude d un desespoir que personne ne voulait ni voir ni entendre et c est le proces qui donnerait a cette affaire une dimension intime et quasi historique un magistrat que j avais rencontre a nantes me disait souvent pour bien juger il faut comprendre
+-------------------------------------------
+
+Line ID: 7996163054
+WER Score: 7.84
+Transcript: pendant longtemps personne n a cherche a comprendre ces femmes a comprendre ce qui pouvait amener une jeune mere qui vient d accoucher a etrangler a etouffer a tuer son bebe ni le public ni les juges ni les jures qui d ailleurs ont longtemps ete composes uniquement d hommes
+Reference:  et bien pendant longtemps personne n a cherche a comprendre ses femmes comprendre ce qui pouvait amener une jeune mere qui vient d accoucher a etrangler a etouffer a tuer son bebe ni le public ni les juges ni les jures qui d ailleurs ont longtemps ete composes uniquement d hommes
+-------------------------------------------
+
+Line ID: 7996172676
+WER Score: 1.27
+Transcript: et c est au proces de veronique que pour la premiere fois en tout cas certainement d une facon aussi publique et mediatique eh bien pour la premiere fois on evoque les zones d ombre de la maternite qu on evoque la violence psychologique que cet evenement physique physiologique soi disant parfaitement naturel peut pourtant engendrer chez certaines femmes pour la premiere fois les mecanismes entourant le deni de grossesse sont evoques et analyzes devant une cour de justice
+Reference:  et c est au proces de veronique que pour la premiere fois en tout cas certainement d une facon aussi publique et mediatique et bien pour la premiere fois on evoque les zones d ombre de la maternite qu on evoque la violence psychologique que cet evenement physique physiologique soi disant parfaitement naturel peut pourtant engendrer chez certaines femmes pour la premiere fois les mecanismes entourant le deni de grossesse sont evoques et analyzes devant une cour de justice
+-------------------------------------------
+
+Line ID: 7996194058
+WER Score: 10.67
+Transcript: quand veronique courgeot entre dans la salle d audience de la cour d assises de tours elle doit repondre de ses crimes et semble terrifiee par ce qui l attend nous sommes le 9 juin 2009 elle est escortee jusqu a son box transparent par des gendarmes son mari jean louis et d autres membres de sa famille son pere robert sa mere monique s installent aussi aux premieres rangees de la salle tout devant
+Reference:  quand veronique courjault entre dans la salle d audience de la cour d assise de tours elle doit repondre de ses crimes et semble terrifiee par ce qu il attend nous sommes le 9 juin 2009 elle est escortee jusqu a son boxe transparent par des gendarmes son mari jean louis et d autres membres de sa famille son pere robert sa mere monique s installent aussi au premier ranget de la salle tout devant
+-------------------------------------------
+
+Line ID: 7996173674
+WER Score: 0.00
+Transcript: dans un tribunal les places au premier rang coutent tres cher privilege deconcerne dans la salle le public et les journalistes se pressent c est que tout le monde veut savoir pourquoi est ce qu elle a tue ses enfants et puis surtout dans le fond ce qui attise une curiosite un peu macabre pourquoi les a t elle gardes dans son congelateur et puis a quoi ca peut bien ressembler une mere qui tue ses bebes
+Reference:  dans un tribunal les places au premier rang coutent tres cher privilege deconcerne dans la salle le public et les journalistes se pressent c est que tout le monde veut savoir pourquoi est ce qu elle a tue ses enfants et puis surtout dans le fond ce qui attise une curiosite un peu macabre pourquoi les a t elle gardes dans son congelateur et puis a quoi ca peut bien ressembler une mere qui tue ses bebes
+-------------------------------------------
+
+Line ID: 7996124421
+WER Score: 5.71
+Transcript: en tout cas ca peut dire que quand elle s assoit dans son box veronique courgeot decoit son visage est mince et long elle a maigri depuis son arrestation elle a rassemble ses cheveux bruns fins en une queue de cheval elle porte un cardigan couleur beige une chemise gris clair des couleurs neutres un peu ternes ses yeux tombent un peu elle a l air triste et completement perdue
+Reference:  en tout cas ca peut dire que quand elle s assoit dans son boxe veronique courjault decoit son visage est mince et long elle a maigri depuis son arrestation elle a rassemble ses cheveux bruns fin en une queue de cheval elle porte un cardigan couleur beige une chemise gris claire des couleurs neutres un peu ternes ses yeux tombent un peu elle a l air triste et completement perdue
+-------------------------------------------
+
+Line ID: 7996139491
+WER Score: 4.08
+Transcript: elle fait toute petite la au milieu de cette salle trop grande pour elle comme elle fait plus petite que ses crimes trop grand pour elle aussi si vous n avez jamais ete dans une salle d audience il faut savoir qu elles se ressemblent toutes plus ou moins
+Reference:  elle fait toute petite la au milieu de cette salle trop grande pour elle comme elle fait plus petite que ses crimes trop grand pour elle aussi si vous n avez jamais ete dans une salle d audience il faut savoir qu elle se ressemble toutes plus ou moins
+-------------------------------------------
+
+Line ID: 7996186380
+WER Score: 0.00
+Transcript: dans la salle du tribunal de tours il y a des rangees de bancs a droite a gauche elles conduisent aux tables des avocats en face de vous sur le mur du fond il y a une grande peinture murale en forme de demi sphere qui surplombe l estrade sur laquelle vont s installer les juges et les jures
+Reference:  dans la salle du tribunal de tours il y a des rangees de bancs a droite a gauche elles conduisent aux tables des avocats en face de vous sur le mur du fond il y a une grande peinture murale en forme de demi sphere qui surplombe l estrade sur laquelle vont s installer les juges et les jures
+-------------------------------------------
+
+Line ID: 7996199661
+WER Score: 3.03
+Transcript: sur la droite entre l estrade et la table des avocats il y a un box le box des accuses comme on dit il est encadre de parois de verre avec veronique courgeot a l interieur en face du box des accuses il y a l avocat general dans l affaire courgeot il s appelle philippe varin il represente et defend les interets de la societe
+Reference:  sur la droite entre l estrade et la table des avocats il y a un box le box des accuses comme on dit il est encadre de parois de verre avec veronique courjault a l interieur en face du box des accuses il y a l avocat general dans l affaire courjault il s appelle philippe varin il represente et defend les interets de la societe
+-------------------------------------------
+
+Line ID: 7996140880
+WER Score: 1.43
+Transcript: c est lui qui demande la condamnation de l accuse a telle ou telle peine il requisitionne comme on dit dans le jargon mais oui si le vocabulaire judiciaire appartenait au langage courant ca impressionnerait moins il en va de meme pour les mots que pour l architecture des tribunaux il faut que ca intimide et voila donc la scene sur laquelle va se jouer la vie de veronique courgeot
+Reference:  c est lui qui demande la condamnation de l accuse a telle ou telle peine il requisitionne comme on dit dans le jargon mais oui si le vocabulaire judiciaire appartenait au langage courant ca impressionnerait moins il en va de meme pour les mots que pour l architecture des tribunaux il faut que ca intimide et voila donc la scene sur laquelle va se jouer la vie de veronique courjault
+-------------------------------------------
+
+Line ID: 7996168776
+WER Score: 2.78
+Transcript: son proces s annonce violent parce que sa personnalite est clivante parce que ses crimes sont abominables parce qu ils electrisent le pays depuis presque deux ans au debut de tout bon proces penal il y a des regles de procedure des rituels juridiques tres formels qui sont invariablement les memes quelques minutes passent la cloche sonne comme le protocole l exige tout le monde se leve et les juges et jures arrivent
+Reference:  son process annonce violent parce que sa personnalite est clivante parce que ses crimes sont abominables parce qu ils electrisent le pays depuis presque deux ans au debut de tout bon proces penal il y a des regles de procedure des rituels juridiques tres formels qui sont invariablement les memes quelques minutes passent la cloche sonne comme le protocole l exige tout le monde se leve et les juges et jures arrivent
+-------------------------------------------
+
+Line ID: 7996144067
+WER Score: 1.75
+Transcript: pour comprendre ce qui est arrive a veronique courgeot il faut revenir trois ans en arriere a l ete 2006 veronique 38 ans son mari jean louis 40 et leurs deux garcons de 10 et 11 ans vivent a seoul jean louis est un ingenieur dans une societe d equipement automobile et veronique est mere au foyer
+Reference:  pour comprendre ce qui est arrive a veronique courjault il faut revenir trois ans en arriere a l ete 2006 veronique 38 ans son mari jean louis 40 et leurs deux garcons de 10 et 11 ans vivent a seoul jean louis est un ingenieur dans une societe d equipement automobile et veronique est mere au foyer
+-------------------------------------------
+
+Line ID: 7996163620
+WER Score: 1.47
+Transcript: ca fait 4 ans qu ils sont expatries ca leur va bien ils ont une vie sociale remplie ils ont des amis ils font des activites mais par contre ils tiennent a rentrer tous les etes en france en touraine plus exactement ils sont tous les deux originaires de cette region et l ete 2006 ne fait pas exception toute la famille est en france pour les vacances
+Reference:  ca fait quatre ans qu ils sont expatries ca leur va bien ils ont une vie sociale remplie ils ont des amis ils font des activites mais par contre ils tiennent a rentrer tous les etes en france en touraine plus exactement ils sont tous les deux originaires de cette region et l ete 2006 ne fait pas exception toute la famille est en france pour les vacances
+-------------------------------------------
+
+Line ID: 7996124253
+WER Score: 8.06
+Transcript: mais des imperatifs professionnels de derniere minute obligent jean louis a retourner en coree c est l affaire de quelques jours il arrive aux alentours du 20 juillet et compte repartir le 26 et alors qu il finalize les preparatifs de son depart il recoit d un ami un colis de poissons plusieurs macros frais qu il decide de congeler dans la foulee
+Reference:  mais des imperatifs professionnels de derniere minute obligent jean louis a retourner en coree c est l affaire de quelques jours il arrive aux alentours du 20 juillet et contre partir le 26 et alors qu il finalize les preparatifs de son depart il recoit d un ami un colis de poisson plusieurs macros frais qui decide de congeler dans la foulee
+-------------------------------------------
+
+Line ID: 7996186531
+WER Score: 0.00
+Transcript: alors il se dirige vers l arriere cuisine de sa maison et il tente de trouver une place pour les poissons dans l un des tiroirs du congelateur les trois premiers sont pleins il en trouve un sac plastique situe dans le quatrieme tiroir du congelateur il lui faut quelques minutes pour realiser ce qu il est en train d observer pour realiser que ce sont bien deux petits corps qui sont coinces dans le tiroir
+Reference:  alors il se dirige vers l arriere cuisine de sa maison et il tente de trouver une place pour les poissons dans l un des tiroirs du congelateur les trois premiers sont pleins il en trouve un sac plastique situe dans le quatrieme tiroir du congelateur il lui faut quelques minutes pour realiser ce qu il est en train d observer pour realiser que ce sont bien deux petits corps qui sont coinces dans le tiroir
+-------------------------------------------
+
+Line ID: 7996126854
+WER Score: 2.70
+Transcript: panique il appelle immediatement la police de seoul a aucun moment jean louis courjeu n imagine que ses enfants puissent etre les siens quand la police coreenne lui demande l autorisation pour un prelevement adn il accepte sans hesiter il n a rien a cacher sa seule exigence pouvoir rejoindre sa famille en france le 26 juillet la coree le laisse quitter le territoire ne pouvant le retenir le temps que les analyzes aient lieu
+Reference:  panique il appelle immediatement la police de seoul a aucun moment jean louis courjault n imagine que ses enfants puissent etre les siens quand la police coreenne lui demande l autorisation pour un prelevement adn il accepte sans hesiter il a rien a cacher sa seule exigence pouvoir rejoindre sa famille en france le 26 juillet la coree le laisse quitter le territoire ne pouvant le retenir le temps que les analyzes aient lieu
+-------------------------------------------
+
+Line ID: 7996111062
+WER Score: 6.76
+Transcript: les resultats des tests adn tombent deux jours plus tard jean louis courgeot est bien le pere biologique des deux nouveau nes retrouves a seoul les enqueteurs coreens retournent chez les courgeot pour saisir des objets appartenant a veronique une brosse a cheveux une brosse a dents et la aussi les analyzes adn sont formelles non seulement les nourrissons etaient vivants a leur naissance mais veronique courgeot est bien la mere biologique des enfants
+Reference:  les resultats des tests adn tombent deux jours plus tard jean louis courjault est bien le pere biologique des deux nouveaux nes retrouves a seoul les enqueteurs coreens retournent chez les courjault pour saisir des objets appartenant a veronique une brosse a cheveux une brosse a dents et la aussi les analyzes adn sont formelles non seulement les nourrissants etaient vivants a leur naissance mais veronique courjault est bien la mere biologique des enfants
+-------------------------------------------
+
+Line ID: 7996176513
+WER Score: 5.45
+Transcript: le couple apprend par la presse les resultats de ses tests dans le clan courgeot c est la consternation alors que l avocat du couple exige des contre expertises en france cette fois veronique et jean louis sont contraints par la pression mediatique d organizer une conference de presse dans les bureaux de leur avocat
+Reference:  le couple apprend par la presse les resultats de ces tests dans le clan courjault c est la consternation alors que l avocate du couple exige des contre expertises en france cette fois veronique et jean louis sont contraints par la pression mediatique d organizer une conference de presse dans les bureaux de leur avocat
+-------------------------------------------
+
+Line ID: 7996199541
+WER Score: 2.30
+Transcript: vous imaginez un animal pris dans les phares d une voiture c est l effet que donne l image du couple devant les journalistes pour les courgeot cette conference de presse est un moyen de faire part de leur consternation ils ne sont pas les parents des bebes c est impensable c est impossible non seulement veronique a subi une hysterectomie en 2003 mais en plus personne personne n a vu veronique courgeot enceinte depuis la naissance de ses garcons il y a une dizaine d annees
+Reference:  vous imaginez un animal pris dans les phares d une voiture c est l effet que donne l image du couple devant les journalistes pour les courjault cette conference de presse est un moyen de faire part de leur consternation ils ne sont pas les parents des bebes c est impensable c est impossible non seulement veronique a subi une hysterectomie en 2003 mais en plus personne personne n a vu veronique courjault enceinte depuis la naissance de ses garcons il y a une dizaine d annees
+-------------------------------------------
+
+Line ID: 7996154756
+WER Score: 0.00
+Transcript: tous les temoignages le confirment mais alors comment expliquer les resultats des tests adn pour reprendre les mots d arthur conan doyle lorsque vous avez elimine l impossible ce qui reste si improbable soit il est necessairement la verite
+Reference:  tous les temoignages le confirment mais alors comment expliquer les resultats des tests adn pour reprendre les mots d arthur conan doyle lorsque vous avez elimine l impossible ce qui reste si improbable soit il est necessairement la verite
+-------------------------------------------
+
+Line ID: 7996116018
+WER Score: 6.00
+Transcript: quelques semaines plus tard le 10 octobre 2006 les resultats des tests genetiques pratiques par les scientifiques francais confirment que les epoux courgeot sont bien les parents biologiques des deux nourrissons le 12 octobre veronique courgeot cede elle abandonne elle s abandonne et elle avoue le meurtre de ses deux bebes
+Reference:  quelques semaines plus tard le 10 octobre 2006 les resultats des tests genetiques pratiques par les scientifiques francais confirment que les epoux courjault sont bien les parents biologiques des nourrissons le 12 octobre veronique courjault cede elle abandonne elle s abandonne et elle avoue le meurtre de ses deux bebes
+-------------------------------------------
+
+Line ID: 7996176145
+WER Score: 2.78
+Transcript: elle en confesse aussi un troisieme pour bien comprendre la violence des reactions publiques et mediatiques qui vont suivre ces confessions il faut revenir sur l origine du crime et sa nature d une absolue transgression
+Reference:  elle en confesse aussi un troisieme pour bien comprendre la violence des reactions publiques et mediatiques qui vont suivre ses confessions il faut revenir sur l origine du crime et sa nature d une absolue transgression
+-------------------------------------------
+
+Line ID: 7996164257
+WER Score: 1.49
+Transcript: infanticide c est un mot qui vient du latin ca veut dire tuer un enfant litteralement lorsqu il s agit d un nouveau ne on parle de neonaticide contrairement a ce qu on pourrait croire l infanticide n a pas toujours ete puni par la loi jusqu au moyen age il n est meme pas considere comme un crime c est une pratique qui est disons toleree
+Reference:  infanticide c est un mot qui vient du latin ca veut dire tuer un enfant litteralement lorsqu il s agit d un nouveau ne on parle de neonaticide contrairement a ce qu on pourrait croire l infanticide n a pas toujours ete punie par la loi jusqu au moyen age il n est meme pas considere comme un crime c est une pratique qui est disons toleree
+-------------------------------------------
+
+Line ID: 7996190005
+WER Score: 4.00
+Transcript: parce que la place de l enfant dans la famille et la societe n est pas du tout la meme qu aujourd hui et puis surtout parce qu elle permet une certaine regulation demographique c est pas tres heureux dit comme ca mais la periode etait prompte au pragmatisme
+Reference:  parce que la place de l enfant dans la famille et la societe n est pas du tout la meme qu aujourd hui et puis surtout parce qu elle permet une certaine regulation demographique ce n est pas tres heureux dit comme ca mais la periode etait prompte au pragmatisme
+-------------------------------------------
+
+Line ID: 7996198108
+WER Score: 3.33
+Transcript: au dela de constituer un crime de sang l infanticide est donc percu comme un peche absolu et cette perception a laisse d infimes d imperceptibles traces encore aujourd hui d une certaine facon on est plus susceptible d etre assassine le jour de sa naissance que tout autre jour de sa vie disait le psychiatre americain philip resnick
+Reference:  au dela de constituer un crime de sang l infanticide est donc percu comme un peche absolu et cette perception a laisse d infimes d imperceptibles traces encore aujourd hui d une certaine facon on n est plus susceptible d etre assassine le jour de sa naissance que tout autre jour de sa vie disait le psychiatre americain philippe resnick
+-------------------------------------------
+
+Line ID: 7996161268
+WER Score: 2.74
+Transcript: et jusqu au xixe siecle en europe l infanticide est encore relativement courant il represente environ 30% des crimes de sang c est a dire qu a cette epoque un peu moins d un meurtre sur trois concerne un enfant ce chiffre qui est terrifiant montre bien que la definition de ce qui fait crime est subjective que ca varie d une epoque a une autre d une societe a une autre
+Reference:  et jusqu au 19 e siecle en europe l infanticide est encore relativement courant il represente environ 30% des crimes de sang c est a dire qu a cette epoque un peu moins d un meurtre sur trois concerne un enfant ce chiffre qui est terrifiant montre bien que la definition de ce qui fait crime est subjective que ca varie d une epoque a une autre d une societe a une autre
+-------------------------------------------
+
+Line ID: 7996128286
+WER Score: 6.41
+Transcript: si on denombre moins d infanticides aujourd hui qu au xviiie ou au xixe siecle la rarefaction de ce type de meurtre a accentue et individualize la responsabilite de leurs auteurs il ne s agit plus d un phenomene de societe comme ca a pu etre le cas entre les annees 1800 et 1900 mais bien d individus deviants malefiques monstrueux d autant plus qu il s agit en termes de neonaticides presque toujours de femmes
+Reference:  si on denombre moins d infanticides aujourd hui qu au 18 e et au 19 e siecle la rarefaction de ce type de meurtre a accentue et individualize la responsabilite de leurs auteurs il ne s agit plus d un phenomene de societe comme ca a pu etre le cas entre les annees 1800 et 1900 mais bien d individus deviants malefiques monstrueux d autant plus qu il s agit en termes de neonaticides presque toujours de femmes
+-------------------------------------------
+
+Line ID: 7996168535
+WER Score: 0.00
+Transcript: alors meme que la delinquance des femmes est statistiquement beaucoup moins importante que celle des hommes l infanticide et particulierement le neonaticide semblent constituer uniquement des crimes de femmes
+Reference:  alors meme que la delinquance des femmes est statistiquement beaucoup moins importante que celle des hommes l infanticide et particulierement le neonaticide semblent constituer uniquement des crimes de femmes
+-------------------------------------------
+
+Line ID: 7996184384
+WER Score: 0.00
+Transcript: elle raconte qu elle a etouffe ses nouveaux nes immediatement apres leur naissance qu elle les a ensuite places dans son congelateur parce qu elle ne pouvait quand meme pas les mettre a la poubelle elle raconte aussi qu il ne s agissait pas de son premier meurtre qu elle l avait deja tue une premiere fois en france en 1999 le corps de ce bebe elle l avait fait bruler une nuit dans la cheminee de la maison
+Reference:  elle raconte qu elle a etouffe ses nouveaux nes immediatement apres leur naissance qu elle les a ensuite places dans son congelateur parce qu elle ne pouvait quand meme pas les mettre a la poubelle elle raconte aussi qu il ne s agissait pas de son premier meurtre qu elle l avait deja tue une premiere fois en france en 1999 le corps de ce bebe elle l avait fait bruler une nuit dans la cheminee de la maison
+-------------------------------------------
+
+Line ID: 7996155001
+WER Score: 8.89
+Transcript: elle raconte que personne n en a jamais rien su mais veronique courgeau raconte ses crimes plus qu elle ne les explique quand les enqueteurs lui demandent pourquoi ses reponses sont plus confuses sont moins sures elle dit je ne voulais plus d autres enfants
+Reference:  elle raconte que personne n en a jamais rien su mais veronique courjault raconte ces crimes plus qu a ne les expliquer quand les enqueteurs lui demandent pourquoi ses reponses sont plus confuses sont moins sures elle dit je ne voulais plus d autres enfants
+-------------------------------------------
+
+Line ID: 7996139599
+WER Score: 1.79
+Transcript: c est quelque chose qu on retrouve vraiment de maniere impressionnante les titres des journaux a propos de la plupart de ces affaires vont aller chercher aussi dans ce vocabulaire le crime du silence beaucoup d expressions autour de cette incapacite a parler a s exprimer a communiquer donc il y a plusieurs explications pour ca
+Reference:  c est quelque chose qu on retrouve vraiment de maniere impressionnante les titres des journaux a propos de la plupart de ces affaires vont aller chercher aussi dans ce vocabulaire le crime du silence beaucoup d expression autour de cette incapacite a parler a s exprimer a communiquer donc il y a plusieurs explications pour ca
+-------------------------------------------
+
+Line ID: 7996129553
+WER Score: 0.00
+Transcript: elle confirme qu une fois en 1999 son mari lui avait bien demande apres avoir remarque des rondeurs plus marquees que d habitude si elle n etait pas enceinte elle avait repondu que non peut etre qu il aurait pu insister mais il n avait jamais repose la question
+Reference:  elle confirme qu une fois en 1999 son mari lui avait bien demande apres avoir remarque des rondeurs plus marquees que d habitude si elle n etait pas enceinte elle avait repondu que non peut etre qu il aurait pu insister mais il n avait jamais repose la question
+-------------------------------------------
+
+Line ID: 7996199399
+WER Score: 3.66
+Transcript: les medias continuent de s interroger sur les secrets d un crime qui n en finit pas de bousculer la societe la repulsion de l opinion publique pour veronique courgeot provient autant de l absence de reponse d evidence dans la justification du crime donne par la coupable que par le miroir deformant et detestable que cette femme renvoie henri leclerc l un des avocats de veronique dira ce n est pas une femme monstrueuse c est une femme douloureuse
+Reference:  les medias continuent de s interroger sur les secrets d un crime qui n en finit pas de bousculer la societe la repulsion de l opinion publique pour veronique courjault provient autant de l absence de reponse d evidence dans la justification du crime donne par la coupable que par le miroir deformant et detestable que cette femme renvoie henri leclerc l un des avocats de veronique dira ce n est pas d une femme monstrueuse c est d une femme douloureuse
+-------------------------------------------
+
+Line ID: 7996116634
+WER Score: 0.00
+Transcript: c est l avant derniere d une fratrie de sept enfants qui a toujours fait en sorte de ne pas prendre trop de place de ne pas etre un probleme pour ses parents qui ont beaucoup a gerer entre les vignes dont ils s occupent et leurs familles tres nombreuses et puis dans cette famille on cause peu son pere le dit au tribunal il y a de l amour mais pas beaucoup de communication
+Reference:  c est l avant derniere d une fratrie de sept enfants qui a toujours fait en sorte de ne pas prendre trop de place de ne pas etre un probleme pour ses parents qui ont beaucoup a gerer entre les vignes dont ils s occupent et leurs familles tres nombreuses et puis dans cette famille on cause peu son pere le dit au tribunal il y a de l amour mais pas beaucoup de communication
+-------------------------------------------
+
+Line ID: 7996174135
+WER Score: 0.00
+Transcript: et parmi elles la question de la place des femmes est centrale on pense bien sur a celles qui sont victimes de crimes de delits mais qu en est il des inculpes des prevenus des accuses de celles bien plus rares qui sont non pas victimes mais coupables
+Reference:  et parmi elles la question de la place des femmes est centrale on pense bien sur a celles qui sont victimes de crimes de delits mais qu en est il des inculpes des prevenus des accuses de celles bien plus rares qui sont non pas victimes mais coupables
+-------------------------------------------
+
+Line ID: 7996179214
+WER Score: 3.12
+Transcript: parce que si la reconnaissance judiciaire encore timide des violences subies par les femmes temoigne d un mouvement de societe qu est ce que nous raconte la violence exercee par les femmes
+Reference:  parce que si la reconnaissance judiciaire encore timide des violences subies par les femmes temoignent d un mouvement de societe qu est ce que nous raconte la violence exercee par les femmes
+-------------------------------------------
+
+Line ID: 8035166094
+WER Score: 1.28
+Transcript: j aurais pu commencer cette sequence par il etait une fois une pomme qui un jour tomba sur la tete d un homme et paf l humanite fut dotee d une loi sur la gravitation universelle parce que c est un peu a ca qu on reduit newton et ses decouvertes aujourd hui alors je precise que cette histoire de pomme elle est serieusement remise en doute mais que l esprit fertile du scientifique lui est bien reel
+Reference:  j aurais pu commencer cette sequence par il etait une fois une pomme qui un jour tomba sur la tete d un homme et paf l humanite fut dotee d une loi sur la gravitation universelle parce que c est un peu a ca qu on reduit newton et ses decouvertes aujourd hui alors je precise que cette histoire de pommes elle est serieusement remise en doute mais que l esprit fertile du scientifique lui est bien reel
+-------------------------------------------
+
+Line ID: 8035153799
+WER Score: 0.00
+Transcript: isaac newton mathematicien physicien alchimiste astronome une personnalite complexe nous dit on a qui l on doit la celebre theorie de la gravitation universelle mais aussi d importants travaux qui influencent encore la science moderne comme le calcul infinitesimal la mecanique classique et toute une serie d inventions
+Reference:  isaac newton mathematicien physicien alchimiste astronome une personnalite complexe nous dit on a qui l on doit la celebre theorie de la gravitation universelle mais aussi d importants travaux qui influencent encore la science moderne comme le calcul infinitesimal la mecanique classique et toute une serie d inventions
+-------------------------------------------
+
+Line ID: 8035113697
+WER Score: 24.42
+Transcript: c est le numero one des mathematiciens et des physiciens du xviie siecle et que meme des fermat et des descartes en france ou encore un kepler en allemagne n arrivent pas a egaler en tout cas c est ce que pense jean doyen qui est professeur de mathematiques a l ulb avec qui j ai eu le plaisir d effeuiller la vie de ce genie scientifique
+Reference:  c est le numero un des mathematiciens et des physiciens du 17 e siecle et que meme des fermat et des descartes en france ou encore un kepler en allemagne n arrivent pas a egaler en tout cas c est ce que je non c est pas moi ce qu il pense c est jean doyen c est ce que pense jean doyen qui est professeur de mathematiques a l ulb avec qui j ai eu le plaisir d effeuiller la vie de ce genie scientifique
+-------------------------------------------
+
+Line ID: 8035161512
+WER Score: 1.19
+Transcript: oui on l a entendu il est ne premature et on peut dire aussi que les premieres annees de sa vie ne sont pas tres folichonnes son pere meurt un peu avant sa naissance sa mere l abandonne a ses grands parents alors qu il n avait que 12 ans pour epouser un pasteur du village voisin et elle ne revient que 9 ans plus tard et donc newton est eleve par ses grands parents dans la ferme familiale ou il entame sa scolarite
+Reference:  oui on l a entendu il est ne premature et on peut dire aussi que les premieres annees de sa vie ne sont pas tres folichonne son pere meurt un peu avant sa naissance sa mere l abandonne a ses grands parents alors qu il n avait que 12 ans pour epouser un pasteur du village voisin et elle ne revient que 9 ans plus tard et donc newton est eleve par ses grands parents dans la ferme familiale ou il entame sa scolarite
+-------------------------------------------
+
+Line ID: 8035181634
+WER Score: 4.00
+Transcript: il y a un nombre incalculable de chiffres sans rature et c est assez joli aussi visuellement surtout quand on ne comprend rien et sans machine pendant deux ans newton s est isole il est enferme dans un coin de sa ferme familiale il gribouille ses carnets alors que la peste sevit en angleterre et c est la qu il va developper jeter les premieres formules de sa theorie sur la gravitation universelle
+Reference:  il y a un nombre incalculable de chiffres sans rature et c est assez joli aussi visuellement surtout quand on ne comprend rien et sans machine voila donc pendant deux ans newton s est isole il est enferme dans un coin de sa ferme familiale il grebouille ses carnets alors que la peste sevit en angleterre et c est la qu il va developper jeter les premieres formules de sa theorie sur la gravitation universelle
+-------------------------------------------
+
+Line ID: 8035143813
+WER Score: 2.27
+Transcript: alors je vais me lancer mais je n ai aucun merite laurent parce que je ne fais que repeter deux corps quelconques s attirent en raison directe de leur masse et en raison inverse du carre de la distance de leur center de gravite
+Reference:  alors je vais me lancer mais je n ai aucun merite laurent parce que je ne fais que repeter de corps quelconques s attirent en raison directe de leur masse et en raison inverse du carre de la distance de leur center de gravite
+-------------------------------------------
+
+Line ID: 8035173904
+WER Score: 10.17
+Transcript: et bien quasiment tout s est passe au cours de ces fameuses deux annees dans cette ferme tout seul pendant que la peste noire sevissait en angleterre donc entre 1665 et 1667 qu a t il fait une fois l epidemie passee et bien il est retourne au trinity college pour poursuivre sa carriere de scientifique
+Reference:  eh bien quasiment tout s est passe au cours de ces fameuses deux annees dans cette ferme tout seul pendant que la peste noire s est vissee en angleterre donc entre 1665 et 1667 qu a t il fait une fois l epidemie passee eh bien il est retourne au trinity college pour poursuivre donc sa carriere de scientifique
+-------------------------------------------
+
+Line ID: 8035129326
+WER Score: 8.62
+Transcript: oui c est ce que m expliquait jean doyen d ailleurs la depouille de newton est localisee a l abbaye de westminster ou il est enterre aux cotes des rois d angleterre et donc si vous passez par la vous pourrez admirer l imposante sculpture qui honore vraiment le genie qu il etait
+Reference:  mais oui c est ce que nous enfin m expliquait jean doyen d ailleurs la depouille de newton est localisee a l abbaye de westminster ou il est enterre aux cotes des rois d angleterre et donc si vous passez par la et bien vous pourrez admirer l imposante sculpture qui honore vraiment le genie qu il etait
+-------------------------------------------
+
+Line ID: 8035198224
+WER Score: 1.16
+Transcript: voila alors un petit bout des reflexions et de l heritage colossal de newton qui etait donc un vrai genie mais c est vrai qu on n en a pas parle il etait aussi repute pour sa personnalite peu commode fragile parfois on lui prete un temperament fort egocentrique solitaire on l a dit qui refusait la critique et qui etait aussi en proie a la depression qui a eu quelques episodes de folie au cours de sa vie donc le revers de la medaille du genie
+Reference:  voila alors un petit bout des reflexions et de l heritage colossal de newton qui etait donc un vrai genie mais c est vrai qu on n a pas parle il etait aussi repute pour sa personnalite peu commode fragile parfois on lui prete un temperament fort egocentrique solitaire on l a dit qui refusait la critique et qui etait aussi en proie a la depression qui a eu quelques episodes de folie au cours de sa vie donc le revers de la medaille du genie
+-------------------------------------------
+
+Line ID: 5911635413
+WER Score: 1.79
+Transcript: donc c est une etude qui a ete faite en australie qui a porte sur 25 0 dossiers et qui montre comme vous l avez dit que la maltraitance infantile serait responsable de 40% des troubles mentaux a l age adulte on parle principalement de l anxiete de la depression et de l abus de substances
+Reference:  donc c est une etude qui a ete faite en australie qui a porte sur 25 0 dossiers et qui montre comme vous l avez dit que la maltraitance infantile serait responsable de 40% des troubles mentaux a l age adulte on parle principalement de l anxiete de la depression et de l abus de substance
+-------------------------------------------
+
+Line ID: 5911626697
+WER Score: 2.17
+Transcript: et donc quand on definit la maltraitance infantile dans cette etude en tout cas et c est interessant ca regroupe les abus physiques sexuels emotionnels mais aussi toute la dimension de la negligence emotionnelle ou physique qui est subie avant l age de 18 ans et qui est malheureusement souvent oubliee et en fait cette etude elle suggere que si on met en place une politique active de prevention dans l enfance on pourrait eviter rien qu en australie jusqu a 18000000 de cas de troubles mentaux a l age adulte
+Reference:  et donc quand on definit la maltraitance infantile dans cette etude en tout cas et c est interessant ca regroupe les abus physiques sexuels emotionnels mais aussi toute la dimension de la negligence emotionnelle ou physique qui est subie avant l age de 18 ans et qui est malheureusement souvent oubliee et en fait cette etude elle suggere que si on met en place une politique active de prevention dans l enfance on pourrait eviter rien qu en australie jusqu a 18000000 de cas de troubles mentaux a l age a vie
+-------------------------------------------
+
+Line ID: 5911675629
+WER Score: 0.00
+Transcript: et on parle de prevention primaire secondaire et tertiaire prevention primaire ca vise a empecher l apparition d un probleme ou d une maladie avant que ca survienne prevention secondaire on va essayer de detecter et d intervenir le plus tot possible des les premiers signes d un probleme afin de limiter son intensite et sa duree et puis la prevention tertiaire apres qu une maladie soit declaree et qu elle ait ete traitee on va voir comment est ce qu on va eviter sa rechute
+Reference:  et on parle de prevention primaire secondaire et tertiaire prevention primaire ca vise a empecher l apparition d un probleme ou d une maladie avant que ca survienne prevention secondaire on va essayer de detecter et d intervenir le plus tot possible des les premiers signes d un probleme afin de limiter son intensite et sa duree et puis la prevention tertiaire apres qu une maladie soit declaree et qu elle ait ete traitee on va voir comment est ce qu on va eviter sa rechute
+-------------------------------------------
+
+Line ID: 5911629895
+WER Score: 2.67
+Transcript: si on prend l exemple de pompiers qui vont dans une ecole une prevention primaire ce serait on vient faire des formations sensibiliser les eleves prevention secondaire on installe des detecteurs de fumee et prevention tertiaire quand il y a eu le feu curatif on vient eteindre l incendie quand meme et prevention tertiaire on aide a reconstruire et surtout a mettre des systemes en place plus performants pour que ca ne se reproduise pas
+Reference:  si on prend l exemple de pompiers qui vont dans une ecole une prevention primaire ce serait on vient faire des formations sensibiliser les eleves prevention secondaire on installe des detecteurs de fumee et prevention tertiaire quand il y a eu le feu curatif on vient eteindre l incendie quand meme prevention tertiaire on aide a reconstruire et a surtout a mettre des systemes en place plus performants pour que ca ne se reproduise pas
+-------------------------------------------
+
+Line ID: 5911664456
+WER Score: 5.26
+Transcript: prevention primaire tres classique on parle des campagnes de sensibilisation les programs educatifs pour les parents la promotion d environnement familier au sein mais on pourrait aussi parler de la mise en place de politiques qui vont viser a soutenir les familles et a prevenir les situations a risque c est d ailleurs ce que propose cette etude
+Reference:  prevention primaire tres classique on parle des campagnes de sensibilisation les programs educatifs pour les parents la promotion d environnement familiaux sains mais on pourrait aussi parler de la mise en place de politiques qui vont viser a soutenir les familles et a prevenir les situations a risque c est d ailleurs ce que propose cette etude
+-------------------------------------------
+
+Line ID: 5911647133
+WER Score: 12.66
+Transcript: elle parle par exemple de mettre en place des services de garde d enfants abordables on sait en belgique que c est un gros probleme le manque de place dans les creches en fait ce genre de situation c est le terreau pour des problematiques potentielles d abus et de maltraitance parce que les enfants sont debordes ils ne savent pas quoi faire ils ne savent pas aller travailler et donc ca peut ressurgir sur l enfant
+Reference:  elle parle par exemple de mettre en place des services de garde d enfants abordables on sait en belgique c est un grand probleme le manque de place dans les creches et bien en fait ce genre de situation c est le terreau pour des situations pour des problematiques potentielles d abus et de maltraitance parce que les enfants sont debordes ils savent pas quoi faire ils savent pas aller travailler et donc ca peut resurgir sur l enfant
+-------------------------------------------
+
+Line ID: 5911633295
+WER Score: 0.00
+Transcript: dans le meme ordre d idee on pourrait trouver utile d offrir des moments de repit pour les patients pour les parents mon petit lapsus pour les parents qui sont debordes et qui sont sans soutien parce qu ils n ont pas eux memes de grands parents
+Reference:  dans le meme ordre d idee on pourrait trouver utile d offrir des moments de repit pour les patients pour les parents mon petit lapsus pour les parents qui sont debordes et qui sont sans soutien parce qu ils n ont pas eux memes de grands parents
+-------------------------------------------
+
+Line ID: 5911680626
+WER Score: 5.17
+Transcript: alors la on peut le voir du cote toujours des parents comment est ce qu on peut ameliorer les methodes de depistage precoces aux premiers signes de maltraitante et aussi offrir des modalites d intervention rapide de nouveau ici en belgique c est pas gagne puisque tous les services d aide a la jeunesse sont assez debordes
+Reference:  alors la on peut le voir du cote toujours des parents comment est ce qu on peut ameliorer les methodes de depistage precoces aux premiers signes de maltraitante et aussi offrir des modalites d intervention rapides de nouveau ici en belgique ce n est pas gagne puisque tous les services d aide a la jeunesse sont assez debordes
+-------------------------------------------
+
+Line ID: 5911634255
+WER Score: 2.38
+Transcript: mais la on pourrait du coup se focaliser sur les enseignants sur les medecins de premiere ligne les medecins generalistes de famille les pms les centers psychomedico sociaux pour voir comment ils peuvent reperer les signes et puis surtout comment les signaler
+Reference:  mais la on pourrait du coup se focaliser sur les enseignants sur les medecins de premiere ligne les medecins generalistes de famille les pms les centers psychomedicaux sociaux pour voir comment ils peuvent reperer les signes et puis surtout comment les signaler
+-------------------------------------------
+
+Line ID: 5911685364
+WER Score: 0.00
+Transcript: mais on peut egalement parler de l enfant de voir comment est ce qu on peut l accompagner lui meme parce que c est vrai qu on se sent diminue impuissant et on veut plutot mettre ca a distance alors qu en fait et la mes patients adultes qui ont vecu ces situations dans l enfance temoignent de leur grande solitude et temoignent de comment rien qu un petit accompagnement d etre la d offrir un moment de repit de joie de tranquillite ca leur a apporte beaucoup donc d etre present a leur cote compte enormement
+Reference:  mais on peut egalement parler de l enfant de voir comment est ce qu on peut l accompagner lui meme parce que c est vrai qu on se sent diminue impuissant et on veut plutot mettre ca a distance alors qu en fait et la mes patients adultes qui ont vecu ces situations dans l enfance temoignent de leur grande solitude et temoignent de comment rien qu un petit accompagnement d etre la d offrir un moment de repit de joie de tranquillite ca leur a apporte beaucoup donc d etre present a leur cote compte enormement
+-------------------------------------------
+
+Line ID: 5911615826
+WER Score: 5.56
+Transcript: eh bien evidemment la reponse est dans la question peut etre les deux on a tout le soutien psychologique de reinsertion pour les victimes mais aussi et c est tres important des initiatives pour eviter la recurrence de la maltraitance dans le chef des auteurs parce qu il y a un moyen d agir et d intervenir pour essayer d eviter c est la prevention tertiaire que ca ne se reproduise dans l avenir
+Reference:  et bien evidemment la reponse est dans la question peut etre les deux on a tout le soutien psychologique de reinsertion pour les victimes mais aussi c est tres important des initiatives pour eviter la recurrence de la maltraitance dans le chef des auteurs parce qu il y a moyen d agir et d intervenir pour essayer d eviter c est la prevention tercere que ca ne se reproduise dans l avenir
+-------------------------------------------
+
+Line ID: 1516595362
+WER Score: 0.00
+Transcript: soudain la memoire me revient c est mon premier jour dans ma toute nouvelle fonction professor apres une longue et malheureuse experience dans une boite de consultance avec un patron laid et con j ai decide de changer de vie et je suis revenue a mes premiers amours l art
+Reference:  soudain la memoire me revient c est mon premier jour dans ma toute nouvelle fonction professor apres une longue et malheureuse experience dans une boite de consultance avec un patron laid et con j ai decide de changer de vie et je suis revenue a mes premiers amours l art
+-------------------------------------------
+
+Line ID: 1516585699
+WER Score: 1.94
+Transcript: j ai envoye mon cv dans quelques universites en tant que professeur d histoire de l art et a mon grand etonnement l une d entre elles m a tres vite recontactee et deux semaines plus tard mon contrat a ete signe une nouvelle vie commencait pour moi et pas que professionnelle d ailleurs apres 6 annees avec thomas un casanier de premiere qui passait son temps a jouer sur son ordi et qui commencait toutes ses phrases par oui mais vous les bonnes femmes j ai pris mes clics et mes claques un matin et je ne suis jamais revenue quel soulagement
+Reference:  j ai envoye mon cv dans quelques universites en tant que professeur d histoire de l art et a mon grand etonnement l une d entre elles m a tres vite recontacte et deux semaines plus tard mon contrat a ete signe une nouvelle vie commencait pour moi et pas que professionnelle d ailleurs apres 6 annees avec thomas un casanier de premiere qui passait son temps a jouer sur son ordi et qui commencait toutes ses phrases par oui mais vous les bonnes femmes j ai pris mes clics et mes claques un matin et je ne suis jamais revenu quel soulagement
+-------------------------------------------
+
+Line ID: 1516517904
+WER Score: 4.17
+Transcript: ce qui est cool avec ce nouveau job c est qu il se trouve dans la ville ou j ai fait mes etudes la ou j ai mes plus beaux souvenirs j ai vite retrouve plein d amis de l epoque et puis mes petites habitudes les restos les bars la vie nocturne evidemment j ai trouve un petit penthouse dans une super copropriete et j ai saute sur l occasion nouveau boulot nouvelle ville nouvel appart manque plus qu un nouveau mec mais dans mon nouvel environnement ce n est qu une question de temps
+Reference:  ce qui est cool avec ce nouveau job c est qu il se trouve dans la ville ou j ai fait mes etudes la ou j ai mes plus beaux souvenirs j ai vite retrouve plein d amis de l epoque et puis mes petites habitudes les restos les bars la vie nocturne evidemment j ai trouve un petit penthouse dans une super copropriete et j ai saute sur l occasion nouveau boulot nouvelle ville nouvelle appart manque plus qu a nouveaux mecs mais dans mon nouvel environnement ce n est qu une question de temps
+-------------------------------------------
+
+Line ID: 1516562214
+WER Score: 0.00
+Transcript: la je suis sur ma terrasse un cafe a la main et je fais mon matting c est le nom que j ai trouve quand je mate les mecs mon cafe du matin a la main j apercois au loin mon voisin samy du deuxieme qui part travailler sur sa moto il est chef dans un resto si j ai bien compris joli cul
+Reference:  la je suis sur ma terrasse un cafe a la main et je fais mon matting c est le nom que j ai trouve quand je mate les mecs mon cafe du matin a la main j apercois au loin mon voisin samy du deuxieme qui part travailler sur sa moto il est chef dans un resto si j ai bien compris joli cul
+-------------------------------------------
+
+Line ID: 1516526912
+WER Score: 0.00
+Transcript: c est celui que je croise le moins dans l immeuble peut etre qu il a une copine mes voisins dans l immeuble sont tous super sympas d ailleurs samedi prochain ils organisent un barbecue en mon honneur si c est pas chou ca il y a une petite cour commune au rez de chaussee avec une pergola recouverte de jasmin
+Reference:  c est celui que je croise le moins dans l immeuble peut etre qu il a une copine mes voisins dans l immeuble sont tous super sympas d ailleurs samedi prochain ils organisent un barbecue en mon honneur si c est pas chou ca il y a une petite cour commune au rez de chaussee avec une pergola recouverte de jasmin
+-------------------------------------------
+
+Line ID: 1516525648
+WER Score: 0.00
+Transcript: c est un mini ecrin de verdure j adore je crois que le coup de coeur que j ai eu pour ce lieu c est avant tout pour les gens et l ambiance qui y regne 7 h 5 deja faut que je me leve soudain je realize que je n ai aucune idee de ce qui m attend pour ce premier jour dans cette ecole et je sens le stress monter il faut que je me detende sinon ces jeunes vont trop me capter
+Reference:  c est un mini ecrin de verdure j adore je crois que le coup de coeur que j ai eu pour ce lieu c est avant tout pour les gens et l ambiance qui y regne 7 h 5 deja faut que je me leve soudain je realize que je n ai aucune idee de ce qui m attend pour ce premier jour dans cette ecole et je sens le stress monter il faut que je me detende sinon ces jeunes vont trop me capter
+-------------------------------------------
+
+Line ID: 1516559758
+WER Score: 6.56
+Transcript: il parait que les etudiants c est comme les fauves ils sentent quand on a peur et ils en profitent faut vraiment que j ai l air sure de moi sinon ils vont me transformer en charpille je connais la recette miracle pour affronter cette journee avec serenite allez chloe detends toi je me donne 15 minutes pas une de plus
+Reference:  il parait que les etudiants c est comme les fauves ils sentent quand on a peur ils en profitent il faut vraiment que j aie l air sur de moi sinon ils vont me transformer en charpille je connais la recette miracle pour affronter cette journee avec serenite allez chloe detends toi je me donne 15 minutes pas une de plus
+-------------------------------------------
+
+Line ID: 1516511849
+WER Score: 0.00
+Transcript: toujours sur ma terrasse je regarde a gauche puis a droite seul le ciel pour temoin raison pour laquelle cette terrasse m a plu je respire profondement pose mon pied droit sur la chaise face a moi j ecarte les jambes et me voila prete a me projeter dans mes fantasmes j hesite de quoi ai je envie aujourd hui de qui
+Reference:  toujours sur ma terrasse je regarde a gauche puis a droite seul le ciel pour temoin raison pour laquelle cette terrasse m a plu je respire profondement pose mon pied droit sur la chaise face a moi j ecarte les jambes et me voila prete a me projeter dans mes fantasmes j hesite de quoi ai je envie aujourd hui de qui
+-------------------------------------------
+
+Line ID: 1516512862
+WER Score: 4.62
+Transcript: juste un corps chaud des abdos magnifiquement dessines mes doigts tremblent l air frais du matin fait durcir la pointe de mes seins qu est ce que j aime cette sensation tout a coup un flash il n y a plus de penis conquerant mais je m imagine devant toute une classe de jeunes hommes excites le regard fievreux les corps mus par leurs hormones
+Reference:  juste un corps chaud des abdos magnifiquement dessines mes doigts tremblent l air frais du matin fait durcir la pointe de mes seins qu est ce que j aime cette sensation tout a coup un flash il n y a plus de penis conquerant mais je m imagine devant toute une classe de jeune homme excite le regard fievreux les corps mus par leurs hormones
+-------------------------------------------
+
+Line ID: 1516510393
+WER Score: 5.88
+Transcript: ca m excite terriblement je me vois coucher sur mon bureau completement nue les jambes ecartees encerclees mon intimite a leur merci leurs regards sont assoiffes dans leurs pantalons trop serres j apercois leurs membres durcis pret a exploser ca me rend dingue mon excitation ruisselle le long de mes cuisses
+Reference:  ca m excite terriblement je me vois coucher sur mon bureau completement nu les jambes ecartees encerclees mon intimite a leur merci leurs regards sont assoiffes dans leurs pantalons trop serres j apercois leurs membres durcir traites a exploser ca me rend dingue mon excitation ruisselle le long de mes cuisses
+-------------------------------------------
+
+Line ID: 1516515458
+WER Score: 2.35
+Transcript: tout en continuant a onduler mon corps une violente secousse me saisit je me tortille comme un petit ver de terre je sens la chaleur envahir le bas de mon ventre sous la pression de plus en plus forte de mes doigts je les tourne de plus en plus vite soudain je sens deux mains m attraper les chevilles pour ecarter mes jambes encore plus comme si je n etais pas assez ouverte a eux deux hommes plus timides decident de s occuper de mes seins
+Reference:  tout en continuant a onduler mon corps une violente secousse me saisit je me tortille comme un petit verre de terre je sens la chaleur envahir le bas de mon ventre sous la pression de plus en plus forte de mes doigts je les tourne de plus en plus vite soudain je sens deux mains m attraper les chevilles pour ecarter mes jambes encore plus comme si je n etais pas assez ouverte a eux deux hommes plus timides decident s occuper de mes seins
+-------------------------------------------
+
+Line ID: 1516548148
+WER Score: 0.00
+Transcript: l un me le caresse delicatement et l autre me pince le mamelon avec fermete ce qui fait echapper mon premier cri de plaisir c est la que je me cambre encore plus en balancant ma tete vers l arriere et que le plus courageux s avance vers moi d un geste decide enleve ma main glisse les siennes sous mes fesses ma grippe souleve mon bassin pour n en perdre aucune miette
+Reference:  l un me le caresse delicatement et l autre me pince le mamelon avec fermete ce qui fait echapper mon premier cri de plaisir c est la que je me cambre encore plus en balancant ma tete vers l arriere et que le plus courageux s avance vers moi d un geste decide enleve ma main glisse les siennes sous mes fesses ma grippe souleve mon bassin pour n en perdre aucune miette
+-------------------------------------------
+
+Line ID: 1516542846
+WER Score: 12.00
+Transcript: approche sa bouche charme nue se penche entre mes cuisses comme un chat qui s apprete a laper son lait planche son visage en matoison humide avale la premiere tournee de mon desir et m aspire son ardeur a se desaltere a meme la source comme si sa vie en dependait
+Reference:  approche sa bouche charnue se penche entre mes cuisses comme un chat qui s apprete a laper son lait plonge son visage en matoisons humides avale la premiere tournee de mon desir et m aspire son ardeur a se desaltere a meme la source comme si sa vie en detendait
+-------------------------------------------
+
+Line ID: 1516528939
+WER Score: 2.13
+Transcript: je suis completement prisonniere de leurs mains de sa bouche telle un vampire assoiffe mon corps frissonne ma cuisse droite se met a trembler mon corps s agite je ne maitrise plus rien mes chevilles enfin liberees j enroule mes jambes autour du cou de mon bienfaiteur
+Reference:  je suis completement prisonniere de leurs mains de sa bouche tel un vampire assoiffe mon corps frissonne ma cuisse droite se met a trembler mon corps s agite je ne maitrise plus rien mes chevilles enfin liberees j enroule mes jambes autour du cou de mon bienfaiteur
+-------------------------------------------
+
+Line ID: 1516579619
+WER Score: 5.56
+Transcript: j ouvre enfin les yeux le chant d un moineau me ramene a la realite je tourne la tete vers mon reveil 7 h 250 merde je vais etre en retard c est pas cool pour le premier jour je me leve en sursaut mon regard croise dans le miroir une tete aux cheveux hirsutes et au sourire un peu gene a part les cheveux le portrait me plait assez bien
+Reference:  j ouvre enfin les yeux le chant d un moineau me ramene a la realite je tourne la tete vers mon reveil 7 heures 250 merde je vais etre en retard ce n est pas cool pour le premier jour je me leve en sursaut mon regard croise dans le miroir une tete aux cheveux hirsute et au sourire un peu gene a part les cheveux le portrait me plait assez bien
+-------------------------------------------
+
+Line ID: 1516512205
+WER Score: 7.14
+Transcript: je saute sous ma douche caresse une derniere fois ma vulve encore enflee j en fais une robe me contemple une derniere fois devant le miroir sors un crayon avec lequel j attache mes cheveux ce serait ma petite touche artistique aujourd hui j arrive en courant dans le couloir de ma classe
+Reference:  je saute sous ma douche car c est une derniere fois ma vulve encore enflee j en fais une robe je me contemple une derniere fois devant le miroir sors un crayon avec lequel j attache mes cheveux ce serait ma petite touche artistique aujourd hui j arrive en courant dans le couloir de ma classe
+-------------------------------------------
+
+Line ID: 1516583085
+WER Score: 0.00
+Transcript: suante et essoufflee je m arrete devant la porte je respire profondement je ne peux m empecher de visualiser a nouveau ma petite evasion matinale je sens monter de la classe l odeur de la testosterone je jette un dernier coup d oeil a ma robe boutonnee un peu trop strictement defait un bouton pour liberer la naissance de mes seins
+Reference:  suante et essoufflee je m arrete devant la porte je respire profondement je ne peux m empecher de visualiser a nouveau ma petite evasion matinale je sens monter de la classe l odeur de la testosterone je jette un dernier coup d oeil a ma robe boutonnee un peu trop strictement defait un bouton pour liberer la naissance de mes seins
+-------------------------------------------
+
+Line ID: 1516581826
+WER Score: 0.00
+Transcript: 0 et puis pourquoi pas deux ma poitrine voluptueuse se sent tout a coup plus a l aise parfait je pousse la porte et j entre conquerante et face a un auditoire ebahi je ne peux m empecher de sourire devant une classe entierement composee de filles je repense a ma petite parenthese erotique mais qu est ce que je m etais imaginee avec tout ca j ai meme oublie de mettre une culotte
+Reference:  0 et puis pourquoi pas deux ma poitrine voluptueuse se sent tout a coup plus a l aise parfait je pousse la porte et j entre conquerante et face a un auditoire ebahi je ne peux m empecher de sourire devant une classe entierement composee de filles je repense a ma petite parenthese erotique mais qu est ce que je m etais imaginee avec tout ca j ai meme oublie de mettre une culotte
+-------------------------------------------
+
+Line ID: 5730887360
+WER Score: 2.22
+Transcript: je m appelle jade j ai 20 ans j ai commence l universite en septembre mais j ai vite arrete a cause du covid je suis venue ici pour parler un peu de melancolie dissociation de crise existentielle du passage a l age adulte
+Reference:  je m appelle jade j ai 20 ans j ai commence l universite en septembre mais j ai vite arrete a cause du covid et je suis venue ici pour parler un peu de melancolie dissociation de crise existentielle du passage a l age adulte
+-------------------------------------------
+
+Line ID: 5730846719
+WER Score: 4.55
+Transcript: j ai eu des symptomes depressifs comme la fatigue la tristesse permanente voire envie de mourir enfin un peu tout ca mais j ai pas eu vraiment un diagnostic de depression parce que j ai l impression que j etais plus dans une sorte d anxiete existentielle moi j etais comme une pile electrique qui avait peur de tout meme si j etais calme etc
+Reference:  j ai eu des symptomes depressifs comme la fatigue la tristesse permanente avoir envie de mourir enfin un peu tout ca mais je n ai pas eu vraiment un diagnostic de depression parce que j ai l impression que j etais plus dans une sorte d anxiete existentielle moi j etais comme une pile electrique qui avait peur de tout meme si j etais calme etc
+-------------------------------------------
+
+Line ID: 5730863925
+WER Score: 0.00
+Transcript: j en ai pas souffert du covid en lui meme mais plus ses consequences par exemple le fait que j ai commence l universite j etais super hypee j etais contente mais ca a directement ete du distanciel et pour moi c etait pas possible
+Reference:  j en ai pas souffert du covid en lui meme mais plus ses consequences par exemple le fait que j ai commence l universite j etais super hypee j etais contente mais ca a directement ete du distanciel et pour moi c etait pas possible
+-------------------------------------------
+
+Line ID: 5730845070
+WER Score: 12.96
+Transcript: en fait j ai commence a fumer vers avril 2020 donc oui plus ou moins debut de la pandemie j aimais bien fumer mais j etais pas accro je fumais de temps en temps avec mon meilleur ami ou mes potes que je vois de temps en temps
+Reference:  en fait j ai commence a fumer vers avril 2020 donc oui plus ou moins debut de la pandemie ca allait enfin j aimais bien fumer mais je n etais pas accro ou quoi je fumais de temps en temps avec mon meilleur ami ou mes potes que je vois de temps en temps
+-------------------------------------------
+
+Line ID: 5730831008
+WER Score: 4.00
+Transcript: mais vers la fin des grandes vacances je commencais a acheter beaucoup des que je voyais quelqu un je me disais il faudrait que j aille acheter et des fois quand j avais pas d argent ou que les gens me disaient j ai pas de beub j avais pas envie d y aller en meme temps c est ma faute mais je faisais rien a part voir des gens fumer voir des gens fumer et le truc c est le cannabis pour le cerveau c est pas ouf et c est la que les problemes ont commence
+Reference:  mais vers la fin des grandes vacances je commencais a acheter beaucoup des que je voyais quelqu un je me disais il faudrait que j aille acheter et des fois quand je n avais pas d argent ou que les gens me disaient j ai pas de beugles j avais pas envie d y aller en meme temps c est ma faute mais je faisais rien a part voir des gens fumer voir des gens fumer et le truc c est que le cannabis pour le cerveau c est pas ouf et c est la que les problemes ont commence
+-------------------------------------------
+
+Line ID: 5730841886
+WER Score: 7.07
+Transcript: en fait c etait un soir en fevrier ou j avais fume toute seule je le fais tres rarement j etais la bon je fuis un petit jour ma pote m en avait laisse un ensuite je sais pas je me dis juste ah tiens c etait une bonne journee j ai range ma chambre je regarde un truc j ai cuisine enfin je me disais j ai passe une bonne journee avec moi meme et juste ca je pense cette chose la j ai passe une bonne journee avec moi meme ca m a retournee
+Reference:  en fait c etait un soir en fevrier ou j avais fume toute seule je le faisais tres rarement enfin j etais la bombe je fumais un petit joint mais ma pote m en avait laisse un ensuite je sais pas je me dis juste ah tiens c etait une bonne journee j ai range ma chambre je regarde un truc j ai cuisine enfin je me disais j ai passe une bonne journee avec moi meme et juste ca je pense que cette chose la j ai passe une bonne journee avec moi meme ca m a retournee
+-------------------------------------------
+
+Line ID: 5730837172
+WER Score: 4.62
+Transcript: je partais dans un delire de mais on n est jamais tout seul ca arrive de philosopher quand on est defonce c est normal mais j avais l impression vraiment d une facon imagee a l interieur de voir comme mon cerveau et il y avait une petite partie a droite qui comme si c etait craque et qui etait devenue quelqu un d autre
+Reference:  je partais dans un delire de mais on n est jamais tout seul enfin ca arrive de philosopher quand on est defoncee c est normal mais j avais l impression vraiment d une facon imagee a l interieur de voir comme mon cerveau et il y avait une petite partie a droite qui comme c etait craque et qui etait devenue quelqu un d autre
+-------------------------------------------
+
+Line ID: 5730887176
+WER Score: 11.34
+Transcript: mais pourtant je sais que non c etait moi je regardais ma main je me disais mais c est pas ma main je savais que si je faisais ca c etait mon cerveau qui avait envoye les connections etc mais c est pas moi je commencais a parler toute seule dans ma tete et je me disais mais tais toi j entendais meme pas ma television parce que tellement j entendais des trucs t as l impression d etre piegee dans une cage qui est pas la tienne alors que c est ton corps
+Reference:  mais pourtant je sais que non c etait moi je regardais ma main je me disais mais c est pas ma main je savais que si je faisais ca c etait mon cerveau qui avait envoye les connections etc mais ce n est pas moi je commencais a parler tout seul dans ma tete et je me disais tais toi je n entendais meme pas a ma television parce que tellement j entendais des trucs j avais l impression d etre piegee dans une cage qui n est pas la tienne alors que c est ton corps
+-------------------------------------------
+
+Line ID: 5730869363
+WER Score: 12.31
+Transcript: c est petit a petit que j ai commence un peu a me deconnecter de la realite enfin je m en rendais pas compte c est que maintenant apres des mois je me rends compte que ca a pas debute a un moment precis mais que c etait deja la depuis quelque temps mais je m en rendais pas compte
+Reference:  c est petit a petit que j ai commence a un peu a me deconnecter de la realite enfin je ne m en rendais pas compte c est que maintenant apres des mois que je m en compte que ca n a pas debute a un moment precis mais que c etait deja la depuis quelques temps mais je ne m en rendais pas compte
+-------------------------------------------
+
+Line ID: 5730881930
+WER Score: 10.20
+Transcript: je sais pas tout etait pretexte a me faire philosopher sur tout et n importe quoi a me faire pleurer a me faire avoir peur je me levais le matin je me disais mais comment je vais mourir je me reveillais en pleine nuit je pensais a ca
+Reference:  je ne sais pas tout et des pretextes a me faire philosopher sur tout n importe quoi a me faire pleurer a me faire avoir peur je me levais le matin je me disais mais comment je vais mourir je me reveillais en pleine nuit je pensais a ca
+-------------------------------------------
+
+Line ID: 5730859383
+WER Score: 2.22
+Transcript: chaque fois que je voyais quelqu un dans la rue ca me rappelait qu il allait mourir que j allais mourir aussi je voyais des personnes agees je me disais mais c est horrible elle a surement des petits enfants elle va mourir dans deux mois ses petits enfants vont etre tristes ca parait idiot mais je voyais des chiens je me disais mais c est horrible ils ont l air tellement chouettes et un jour ils vont mourir je sais que ca a l air on ne comprend pas trop
+Reference:  chaque fois que je voyais quelqu un dans la rue ca me rappelait qu il allait mourir que j allais mourir aussi je voyais des personnes agees je me disais mais c est horrible elle a surement des petits enfants elle va mourir dans deux mois ces petits enfants vont etre tristes ca parait idiot mais je voyais des chiens je me disais mais c est horrible ils ont l air tellement chouettes et un jour ils vont mourir je sais que ca a l air on comprend pas trop
+-------------------------------------------
+
+Line ID: 5730891312
+WER Score: 5.95
+Transcript: j ai vu peu de personnes qui comprenaient ca en fait c est un peu des pensees intrusives comme ca qui venaient toute la journee mais sauf que c etait incontrolable et c etait toujours relie au fait que j allais mourir souvent je suis sur mon lit j entends mon coeur qui bat je le sens et j ai trouve une position confortable pour ne pas l entendre parce que ca me pese comment je peux etre en vie je vais disparaitre
+Reference:  j ai vu peu de personnes qui comprenaient ca mais en fait c est un peu des pensees intrusives comme ca qui venaient toute la journee sauf que c etait incontrolable et c etait toujours relie au fait que j allais mourir souvent je suis sur mon lit et j entends mon coeur qui bat je le sens et j ai trouve une position confortable pour pas l entendre parce que ca me pese comment je peux etre en vie je vais me disparaitre
+-------------------------------------------
+
+Line ID: 5730816909
+WER Score: 3.03
+Transcript: quand on pense a la mort des qu on se reveille le matin c est pas chouette et puis apres comme apres ca j etais dans une derealisation complete tout le temps
+Reference:  quand on pense a la mort des qu on se reveille le matin c est pas chouette et puis apres comme apres ca j etais oui dans une derealisation complete tout le temps
+-------------------------------------------
+
+Line ID: 5730877033
+WER Score: 2.56
+Transcript: lors d une derealisation on a un sentiment de detachement de son environnement tout devient plus etrange irreel on dirait qu on est dans un reve eveille et tout semble etrange au point de devenir un peu un cauchemar
+Reference:  lors d une derealisation on a un sentiment de detachement de son environnement tout devient plus etrange irreel on dirait qu on est dans un reve eveille et tout semble etrange au point de devenir un peu en cauchemar
+-------------------------------------------
+
+Line ID: 5730839327
+WER Score: 6.76
+Transcript: je pouvais reconnaitre les personnes qui etaient devant moi ce que j avais vecu avec et j avais comme l impression que c etait faux ou juste une illusion j avais peur de voir mes amis parce que je sentais que j etais en pilote automatique c est comme si tout ce que je disais etait bien reel sincere etc c est pas un role mais c est pas moi qui le dis
+Reference:  je pouvais reconnaitre les personnes qui etaient devant moi ce que j avais vecu avec j avais comme l impression que c etait faux ou juste une illusion j avais peur de voir mes amis parce que je sentais que j etais en pilote automatique c est comme si tout ce que je disais etait bien reel sincere etc ce n est pas un role mais ce n est pas moi qui le dis
+-------------------------------------------
+
+Line ID: 5730839020
+WER Score: 8.33
+Transcript: je me regarde parler je m entends parler mais c est comme s il y avait un flou entre moi qui regarde qui ecoute etc et moi qui parle je n invente pas ce que je dis mais ce n est pas moi qui le dis c est le corps qui s occupe de deblaterer des trucs
+Reference:  je me regarde parler je m entends parler mais c est comme s il y avait un flou oui entre moi qui constate qui regarde qui ecoute etc et moi qui parle je n invente pas ce que je dis mais ce n est pas moi qui le dis c est le corps qui s occupe d eblaterer des trucs
+-------------------------------------------
+
+Line ID: 5730853362
+WER Score: 0.00
+Transcript: je suis sur une chaise en tout petit au fond de ma tete et je suis spectatrice de ma vie de ce qui m entoure et en plus de tout ca ca a l air faux et on dirait que c est un reve
+Reference:  je suis sur une chaise en tout petit au fond de ma tete et je suis spectatrice de ma vie de ce qui m entoure et en plus de tout ca ca a l air faux et on dirait que c est un reve
+-------------------------------------------
+
+Line ID: 5730821048
+WER Score: 6.67
+Transcript: lorsque j ai commence a comprendre que j allais pas bien du tout que je pleurais toute la journee que j avais peur de tout que je faisais des crises ou je hurlais c etait horrible ma maman a pense a l hopital psychiatrique
+Reference:  lorsque j ai commence a comprendre que je n allais pas bien du tout que je pleurais toute la journee que j avais peur de tout de je faisais des crises ou je hurlais c etait horrible ma maman a pense a l hopital psychiatrique
+-------------------------------------------
+
+Line ID: 5730876934
+WER Score: 8.93
+Transcript: je pense que c est pas une mauvaise idee mais j avais pas envie de me retrouver avec des gens qui etaient aussi mal que moi mais donc elle m a propose d aller voir mon medecin traitant pour voir si je pouvais avoir des medicaments j ai eu un antidepresseur et un anxiolytique
+Reference:  je pense que ce n est pas une mauvaise idee mais je n avais pas envie de me retenir avec des gens qui etaient aussi mal que moi mais donc elle m a propose d aller voir mon medecin traitant pour voir si je pouvais avoir des medicaments j ai eu un antidepresseur et un anxiolytique
+-------------------------------------------
+
+Line ID: 5730881636
+WER Score: 8.06
+Transcript: je sais que ca fait un peu peur dit comme ca on a beaucoup d a priori sur les medicaments je pense que c est quand meme mieux d en avoir que de ne pas du tout mais moi je suis confiante avec ceux que j ai puisque j ai quand meme des petites doses et ca m a quand meme rapidement calmee
+Reference:  alors je sais que ca fait un peu peur dit comme ca on a beaucoup d a priori sur les medicaments je pense que c est quand meme mieux d en avoir que pas du tout mais moi je suis confiante avec ce que j ai puisque j ai quand meme des petites doses et ca m a quand meme rapidement calme
+-------------------------------------------
+
+Line ID: 5730899618
+WER Score: 9.86
+Transcript: mais le mal etre est toujours la et c est ca je trouve qui est le plus dur c est pas de me dire que pendant plusieurs semaines j etais fatiguee ou que je pleurais un peu tout le temps c est plus que ca a modifie mon approche a la vie a la mort j ai un peu comme je ne peux pas retourner en arriere apres avoir vu ce que j ai vu
+Reference:  mais le mal etre est toujours la et c est ca je trouve qui est le plus dur ce n est pas de me dire que pendant plusieurs semaines j etais fatiguee ou que je pleurais un peu tout le temps c est plus que ca a modifie mon approche a la vie a la mort je ne peux pas retourner en arriere apres avoir vu ce que j ai vu
+-------------------------------------------
+
+Line ID: 5730890272
+WER Score: 7.27
+Transcript: j ai eu un element declencheur donc la crise sanitaire mon addiction les debuts de l anxiete de la dissociation etc mais j ai pas eu de viol d agression d autres choses comme ca j ai eu des petits trucs dans mon enfance qui ont fait que voila je suis pas toujours joyeuse
+Reference:  j ai eu un element declencheur donc la crise sanitaire mon addiction les debuts de l anxiete de la dissociation etc mais je n ai pas eu de viol d agression d autres choses comme ca j ai eu des petits trucs dans mon enfance qui ont fait que je ne suis pas toujours joyeuse
+-------------------------------------------
+
+Line ID: 5730815266
+WER Score: 4.26
+Transcript: mais j ai rien eu de foncierement grave ce qu on pourrait imaginer comme grave mais je pense juste que c est le passage la transition que j ai faite j aurais pu en avoir une meilleure qui m aurait ete plus benefique que celle ci
+Reference:  mais je n ai rien eu de foncierement grave ce qu on pourrait imaginer comme grave mais je pense juste que c est le passage la transition que j ai faite j aurais pu en avoir une meilleure qui m aurait ete plus benefique que celle ci
+-------------------------------------------
+
+Line ID: 5730897776
+WER Score: 2.56
+Transcript: moi je suis sure que s il n y avait pas eu le corona j aurais juste fini ma reto je serais allee a l unif j aurais peut etre pas aime mais j aurais moins eu cette idee que rien n est possible et que je vais rien faire de ma vie ca a vraiment juste laisse le temps pour que je pense a plein de choses et que je pense peut etre un peu trop
+Reference:  moi je suis sure que s il n y avait pas eu le corona j aurais juste fini ma retau je serais allee a l unif j aurais peut etre pas aime mais j aurais au moins eu cette idee que rien n est possible et que je vais rien faire de ma vie ca a vraiment juste laisse le temps pour que je pense a plein de choses et que je pense peut etre un peu trop
+-------------------------------------------
+
+Line ID: 5730830548
+WER Score: 8.82
+Transcript: les reelles choses que j ai envie de faire c est de voyager ca parait niais et un peu basique mais je voudrais bien aller au japon surtout en asie j ai l impression que si je voyage que je vois de nouveaux paysages je vis reellement je ne sais pas c est un peu comme si c etait le contraire sortir de ma zone
+Reference:  les reelles choses que j ai envie de faire c est de voyager enfin ca parait niais et un peu basique mais je voudrais bien aller au japon surtout en asie j ai l impression qu en fait si je voyage que vraiment je vois de nouveaux paysages je vis reellement je sais pas c est un peu comme si c etait le contraire sortir de ma zone
+-------------------------------------------
+
+Line ID: 5730876564
+WER Score: 0.00
+Transcript: voir des nouvelles choses qui pourraient comme me choquer a l oeil je sais pas comment dire ca mais ca pourrait me sortir un peu de cette dissociation et me faire revenir au reel parce que je penserais meme plus a mourir etc je penserais a ce que je vois a l instant
+Reference:  voir des nouvelles choses qui pourraient comme me choquer a l oeil je sais pas comment dire ca mais ca pourrait me sortir un peu de cette dissociation et me faire revenir au reel parce que je penserais meme plus a mourir etc je penserais a ce que je vois a l instant
+-------------------------------------------
+
+Line ID: 5730824165
+WER Score: 7.78
+Transcript: une des choses qui fait que j ai pas trop envie de me suicider qui me raccroche un peu a la vie c est les reves que je fais pendant la nuit c etait pas cette nuit c est la nuit d avant j ai reve que je revoyais des eleves de ma 6 e primaire et a un moment il y en a qui se sont dit 0 venez on fait une soiree mais moi j aime pas du tout les soirees je deteste ca et du coup ils sont sortis
+Reference:  une des choses qui fait que j ai pas trop envie de me suicider qui me raccroche un peu a la vie c est les reves que je fais pendant la nuit c etait pas cette nuit c est la nuit d avant j ai reve que je renvoyais des eleves de ma sixieme primaire et en moment il y en a qui se sont dit 0 venez on fait une soiree mais moi j aime pas du tout les soirees je deteste ca et du coup ils ont sorti
+-------------------------------------------
+
+Line ID: 5730814677
+WER Score: 14.12
+Transcript: j ai une sorte de boule a disco chez moi un petit peu comme ca mais tres petite qui fait des lumieres un peu galaxies je ne sais pas si vous voyez c est tres connu et du coup ils avaient mis ca dans tes toilettes et du coup je me suis dit attendez je vais chercher mes appareils photos et du coup je suis partie prendre mes appareils photos et j ai pris plein de photos trop chouettes d eux il y avait de trop belles lumieres
+Reference:  j ai une sorte de boule a disco chez moi un petit peu comme ca mais tres petite qui fait des lumieres un peu galaxie je sais pas si vous voyez c est tres connu et du coup ils avaient mis ca dans tes toilettes et du coup je t ai attendu je cherchais mes appareils photo et du coup je suis partie prendre mes appareils photo et j ai pris plein de photos trop chouettes d oeil il y avait des trop belles lumieres
+-------------------------------------------
+
+Line ID: 5730825155
+WER Score: 6.76
+Transcript: j etais la 0 mais c est trop bien je vais avoir de trop belles photos et j ai pense c est sur la c est pas un reve parce que je regardais vraiment dans mon viseur je voyais ma cellule j etais la c est la bonne pellicule avec le bon appareil c est trop bien puis je me reveille je suis la non putain c etait faux alors que c etait trop bien
+Reference:  j etais la 0 mais c est trop bien j ai eu des trop belles photos et j ai pense c est sur la c est pas un reve parce que je regardais vraiment dans mon viseur je voyais ma cellule j etais la c est la bonne pellicule avec le bon appareil c est trop bien puis je me reveille je suis la non c etait faux alors que c etait trop bien
+-------------------------------------------
+
+Line ID: 5730831776
+WER Score: 2.56
+Transcript: la soiree dans mon reve j y ai participe j ai ete prendre des appareils photos j ai rigole alors qu en vrai si ca s etait vraiment passe j aurais ete la 0 mais je veux rentrer chez moi je suis pas sure non mais il y a lui puis j aurais eu ce truc de mais c est trop bizarre de les revoir tous c est trop etrange puis apres je commencais a dissocier toute seule
+Reference:  la soiree dans mon reve j y ai participe j ai ete prendre des appareils photo j ai rigole alors qu en vrai si ca s etait vraiment passe j aurais ete la 0 mais je veux rentrer chez moi je suis pas sure non mais il y a lui puis j aurais eu ce truc de mais c est trop bizarre de les revoir tous c est trop etrange puis apres je commence a dissocier toute seule
+-------------------------------------------
+
+Line ID: 5730882053
+WER Score: 5.41
+Transcript: c est faux c est des faux souvenirs mais une fois que j y ai cru vraiment en ce reve pour moi c est comme reellement arrive et les reves que je fais c est ca vivre
+Reference:  c est faux c est des faux souvenirs mais une fois que j y ai cru vraiment on se reve pour moi c est comme reellement arrive et les reves que je fais c est ca vivre
+-------------------------------------------
+
+Line ID: 5730849586
+WER Score: 10.89
+Transcript: avoir une maladie mentale ou autre trouble une depression de l anxiete meme juste passagere c est pas rester dans une piece toute blanche il y a des gens qui ont des troubles mentaux qui sortent qui rigolent il y en a qui sortent pas de leur lit on pourrait se dire mais quoi t es triste t as vu toutes les photos que tu mets sur instagram ou ce genre de choses ca veut rien dire t es anxieuse sociale mais t as vu comment tu t habilles je sais pas ca a rien a voir
+Reference:  une maladie mentale ou autre trouble une depression l anxiete meme juste passagere ce n est pas rester dans une piece toute blanche il y a des gens qui ont des troubles mentaux qui sortent qui rigolent il y en a qui ne sortent pas de leur lit on pourrait se dire mais quoi t es triste mais tu as vu toutes les photos que tu mets sur instagram ou ce genre de choses ca ne veut rien dire t es anxieuse sociale mais tu as vu comment tu t habilles je ne sais pas ca n a rien a voir
+-------------------------------------------
+
+Line ID: 5730887882
+WER Score: 17.39
+Transcript: je me voyais pas ecrire regarder le professor derriere son ecran c est ridicule je vais pas me voir on me dit bon c est pas grave prends une annee pour toi etc mais une annee pour soi en covid on peut pas faire grand chose
+Reference:  je ne me voyais pas ecrire regarder le professor derriere son ecran c est ridicule je ne sais pas vraiment on dit c est pas grave prends une annee pour toi etc mais une annee pour soi en covid on ne peut pas faire grand chose
+-------------------------------------------
+
+Line ID: 5730834565
+WER Score: 4.08
+Transcript: de base je dirais que je suis quelqu un de tres introvertie analytique et je suis fort dans mon monde dans ma tete en train de suranalyser tout ce qui m entoure le covid ca m a encore plus renfermee a l interieur mais d une mauvaise facon
+Reference:  de base je dirais que je suis quelqu un de tres introverti analytique et je suis fort dans mon monde enfin dans ma tete en train de suranalyser tout ce qui m entoure le covid ca m a encore plus renfermee a l interieur mais d une mauvaise facon
+-------------------------------------------
+
+Line ID: 1812595961
+WER Score: 11.11
+Transcript: quand j ai eu mes premieres hallucinations j avais plus peur d etre vue comme une folle que les hallucinations en elles memes j ai cherche a expliquer a mes amis ce que je vivais mais je n avais pas l impression d etre comprise
+Reference:  quand j ai eu mes premieres hallucinations j avais plus peur d etre vue comme une folle que les hallucinations en aient de meme j ai cherche a expliquer a mes amis ce que je vivais mais j avais pas l impression d etre comprise
+-------------------------------------------
+
+Line ID: 1812549139
+WER Score: 2.56
+Transcript: quand j etais en primaire j etais quelqu un de tres timide quelqu un de tres renferme j avais du mal a m exprimer et je pense que c est une des raisons pour lesquelles j ai ete harcelee
+Reference:  quand j etais en primaire j etais quelqu un de tres timide quelqu un de tres renferme j avais du mal a m exprimer et je pense que c est une des raisons pour laquelle j ai ete harcelee
+-------------------------------------------
+
+Line ID: 1812548677
+WER Score: 5.66
+Transcript: donc il y avait certaines personnes pas tout le monde mais certaines personnes de la classe 3 4 personnes qui ont commence a marceler et de la toute la classe s est mise a marceler le matin quand je me lavais pour aller a l ecole j avais toujours la boule au ventre
+Reference:  donc il y avait certaines personnes pas tout le monde mais certaines personnes de la classe trois quatre personnes qui ont commence a marceler et de la toute la classe s est mise a marceler le matin quand je me levais pour aller a l ecole j avais toujours la boule au ventre
+-------------------------------------------
+
+Line ID: 1812568957
+WER Score: 0.00
+Transcript: j etais tres tres angoissee je me demandais toujours comment la journee allait se passer est ce que j allais survivre ou est ce que j allais craquer a un moment donne j ai le souvenir en fait que j etais en classe avec d autres eleves d autres camarades de classe et j etais juste a cote d une fenetre qui etait ouverte et la une des eleves de ma classe m a dit mais la fenetre est ouverte
+Reference:  j etais tres tres angoissee je me demandais toujours comment la journee allait se passer est ce que j allais survivre ou est ce que j allais craquer a un moment donne j ai le souvenir en fait que j etais en classe avec d autres eleves d autres camarades de classe et j etais juste a cote d une fenetre qui etait ouverte et la une des eleves de ma classe m a dit mais la fenetre est ouverte
+-------------------------------------------
+
+Line ID: 1812543468
+WER Score: 0.00
+Transcript: qu est ce que tu attends pour te suicider de toute facon personne ne veut de toi tous les jours c etait les memes actions les memes insultes les memes formes de violence en fait
+Reference:  qu est ce que tu attends pour te suicider de toute facon personne ne veut de toi tous les jours c etait les memes actions les memes insultes les memes formes de violence en fait
+-------------------------------------------
+
+Line ID: 1812552771
+WER Score: 0.00
+Transcript: et ce camarade de classe me bloque la route et il me viole ce que je me rappelle durant le viol c est que j avais l impression d etre hors de mon corps que quelque chose en moi n etait plus la j ai ete completement detruite de l interieur on va dire
+Reference:  et ce camarade de classe me bloque la route et il me viole ce que je me rappelle durant le viol c est que j avais l impression d etre hors de mon corps que quelque chose en moi n etait plus la j ai ete completement detruite de l interieur on va dire
+-------------------------------------------
+
+Line ID: 1812551478
+WER Score: 0.00
+Transcript: j allais a l ecole je pleurais je pleurais meme a l ecole et je pleurais dans les transports en commun pour revenir chez moi c est des larmes qui ne s arretaient jamais
+Reference:  j allais a l ecole je pleurais je pleurais meme a l ecole et je pleurais dans les transports en commun pour revenir chez moi c est des larmes qui ne s arretaient jamais
+-------------------------------------------
+
+Line ID: 1812559370
+WER Score: 2.22
+Transcript: j etais dans ma chambre et je vois une centaine d aries sur le mur j en ai tout de suite parle au psychiatre de l hopital mais pour lui c etait juste un stress pour lui il fallait juste regler mon probleme d anxiete
+Reference:  j etais dans ma chambre et je vois une centaine d araignees sur le mur j en ai tout de suite parle au psychiatre de l hopital mais pour lui c etait juste un stress pour lui il fallait juste regler mon probleme d anxiete
+-------------------------------------------
+
+Line ID: 1812539998
+WER Score: 5.41
+Transcript: mais au fond de moi je pensais que c etait beaucoup plus grave qu un juste probleme d anxiete j entendais des voix des voix qui me disaient de me suicider ou de me faire du mal
+Reference:  mais au fond de moi je pensais que c etait beaucoup plus grave qu un juste un probleme d anxiete j entendais des voix des voix qui me disaient de me suicider de me faire du mal
+-------------------------------------------
+
+Line ID: 1812551180
+WER Score: 0.00
+Transcript: quand on m a diagnostique schizophrene je me suis deja sentie moins folle ca m a permis deja de me dire qu il y avait d autres personnes qui l etaient aussi et ca me permettait aussi de me dire que je pouvais peut etre en guerir ou du moins etre stabilisee
+Reference:  quand on m a diagnostique schizophrene je me suis deja sentie moins folle ca m a permis deja de me dire qu il y avait d autres personnes qui l etaient aussi et ca me permettait aussi de me dire que je pouvais peut etre en guerir ou du moins etre stabilisee
+-------------------------------------------
+
+Line ID: 1812595644
+WER Score: 2.22
+Transcript: le fait d etre en hopital psychiatrique ca m a beaucoup aidee parce que c est la premiere fois ou j ai ose parler de tout ce que j ai vecu et c est la premiere fois aussi que je me suis sentie aussi ecoutee
+Reference:  le fait d etre en hopital psychiatrique ca m a beaucoup aide parce que c est la premiere fois ou j ai ose parler de tout ce que j ai vecu et c est la premiere fois aussi que je me suis sentie aussi ecoutee
+-------------------------------------------
+
+Line ID: 1812522725
+WER Score: 3.39
+Transcript: c est un endroit ou on se sent en securite un endroit ou justement tout est fait pour qu un drame n arrive pas quand le psychiatre de l hopital a decide que ma sortie arrivait j etais pas du tout prete a sortir je redoutais en fait cette sortie parce que j avais peur de me reconfronter au monde exterieur
+Reference:  c est un endroit ou on se sent en securite un endroit ou justement tout est fait pour qu un drame n arrive pas quand le psychiatre de l hopital a decide que ma sortie arrivait j etais pas du tout prete a sortir je redoutais cette sortie parce que j avais peur de me reconfronter au monde exterieur
+-------------------------------------------
+
+Line ID: 1812547756
+WER Score: 1.18
+Transcript: en fait j ai des changements d humeur et c est quelque chose d assez violent parce que je passe d un etat depressif dont je me sens tres tres triste j ai une perte de motivation j ai plus envie de rien a un etat limite maniaque tres haut ou je me sens totalement bien j ai envie de sortir de chez moi j ai envie de faire plein de choses en meme temps j ai plein d idees qui fusent dans la tete .
+Reference:  en fait j ai des changements d humeur et c est quelque chose d assez violent parce que je passe d un etat depressif dont je me sens tres tres triste j ai une perte de motivation j ai plus envie de rien a un etat limite maniaque tres haut ou je me sens totalement bien j ai envie de sortir de chez moi j ai envie de faire plein de choses en meme temps j ai plein d idees qui fusent dans la tete
+-------------------------------------------
+
+Line ID: 1812575704
+WER Score: 0.00
+Transcript: pendant la therapie on est oblige de revenir sur des elements du passe c est quelque chose d assez difficile mais d essentiel pour pouvoir comprendre d ou vient ma souffrance comment faire pour que ce soit quelque chose de moins douloureux parce que ca ne s oublie pas non plus
+Reference:  pendant la therapie on est oblige de revenir sur des elements du passe c est quelque chose d assez difficile mais d essentiel pour pouvoir comprendre d ou vient ma souffrance comment faire pour que ce soit quelque chose de moins douloureux parce que ca ne s oublie pas non plus
+-------------------------------------------
+
+Line ID: 1812580061
+WER Score: 7.84
+Transcript: si je pouvais dire quelque chose a ma mere je lui aurais dit merci de ne jamais avoir abandonne pour moi c est un peu mon super heros parce que malgre qu elle ait subi des violences ca n a pas empeche de se battre pour mon frere se battre pour moi
+Reference:  si je pouvais dire quelque chose a ma mere j aurais dit merci de ne jamais avoir abandonne pour moi c est un peu mon super heros parce que malgre qu elle est subie des violences ca n a pas empeche de se battre pour mon frere se battre pour moi
+-------------------------------------------
+
+Line ID: 1812570290
+WER Score: 1.61
+Transcript: quand j etais en hopital psychiatrique je parlais de mes hallucinations a d autres patients qui n etaient pas forcement schizophrenes mais ca ne leur empechait pas de comprendre ce que je vivais ils m ont tellement soutenue donne tellement d amour que c est quelque chose que je ne pourrais jamais oublier et c est quelque chose qui continue aujourd hui
+Reference:  quand j etais au hopital psychiatrique je parlais de mes hallucinations a d autres patients qui n etaient pas forcement schizophrenes mais ca ne leur empechait pas de comprendre ce que je vivais ils m ont tellement soutenue donne tellement d amour que c est quelque chose que je ne pourrais jamais oublier et c est quelque chose qui continue aujourd hui
+-------------------------------------------
+
+Line ID: 1812577789
+WER Score: 0.00
+Transcript: j avais tendance a me renfermer et je vivais comme dans une espece de bulle ou tout etait noir et je me sentais tres seule
+Reference:  j avais tendance a me renfermer et je vivais comme dans une espece de bulle ou tout etait noir et je me sentais tres seule
+-------------------------------------------
+
+Line ID: 1812544554
+WER Score: 0.00
+Transcript: a cette epoque la j avais tout cache a ma mere parce que je ne voulais pas lui rajouter de problemes en plus en fait ma mere avait deja eu enormement de soucis avec mon pere dans le passe plus certains problemes qu elle avait au quotidien
+Reference:  a cette epoque la j avais tout cache a ma mere parce que je ne voulais pas lui rajouter de problemes en plus en fait ma mere avait deja eu enormement de soucis avec mon pere dans le passe plus certains problemes qu elle avait au quotidien
+-------------------------------------------
+
+Line ID: 1812516391
+WER Score: 7.14
+Transcript: quand j avais 11 ans j etais en 6 e primaire pour m aider a sortir de ma timidite je suivais des cours de theater a l ecole meme j aimais beaucoup ce cours de theater parce que j y etais pas harcelee
+Reference:  quand j avais onze ans j etais en sixieme primaire pour m aider a sortir de ma timidite je suivais des cours de theater a l ecole meme j aimais beaucoup ce cours de theater parce que j y etais pas harcelee
+-------------------------------------------
+
+Line ID: 1812582663
+WER Score: 0.00
+Transcript: j etais plutot ecoutee j avais quand meme un peu confiance en moi et un jour en sortant d un cours de theater je croise un camarade de classe
+Reference:  j etais plutot ecoutee j avais quand meme un peu confiance en moi et un jour en sortant d un cours de theater je croise un camarade de classe
+-------------------------------------------
+
+Line ID: 1812555828
+WER Score: 0.00
+Transcript: c est deux extremes et c est assez difficile a vivre au quotidien mon antidepresseur a tendance a me faire sentir vide d emotions
+Reference:  c est deux extremes et c est assez difficile a vivre au quotidien mon antidepresseur a tendance a me faire sentir vide d emotions
+-------------------------------------------
+
+Line ID: 1812565651
+WER Score: 3.23
+Transcript: j arrive plus a pleurer et le fait de ne plus pouvoir pleurer ca me donne l impression de ne pas etre libre l impression d etre emprisonnee dans mes emotions
+Reference:  j arrive plus a pleurer et le fait de ne plus pouvoir pleurer ca me donne l impression de ne pas etre libre l impression d etre emprisonne dans mes emotions
+-------------------------------------------
+
+Line ID: 1812515587
+WER Score: 0.00
+Transcript: un jour j etais dehors j arrive sur le haut d un pont je regarde le vide et je pensais a sauter
+Reference:  un jour j etais dehors j arrive sur le haut d un pont je regarde le vide et je pensais a sauter
+-------------------------------------------
+
+Line ID: 1812529702
+WER Score: 0.00
+Transcript: mais ce qui s est passe lorsque j etais la bas c est que j ai entendu la voix de ma mere or qu elle n etait pas la et pour moi c etait un signe j ai vu ca comme un signe un signe que je ne devais pas le faire
+Reference:  mais ce qui s est passe lorsque j etais la bas c est que j ai entendu la voix de ma mere or qu elle n etait pas la et pour moi c etait un signe j ai vu ca comme un signe un signe que je ne devais pas le faire
+-------------------------------------------
+
+Line ID: 9563192286
+WER Score: 1.52
+Transcript: je suis candice cotter foodista passionnee experte en miam savoureux abordable facile a cuisiner et joyeux a partager d episode en episode au fil des saisons je vous transmets plein d infos de trucs d astuces de recettes et de techniques pour manger mieux sans effort en vous reappropriant votre cuisine et en developpant votre confiance en vous et en vos casseroles vous venez avec moi
+Reference:  je suis candice kother foodista passionnee experte en miam savoureux abordable facile a cuisiner et joyeux a partager d episode en episode au fil des saisons je vous transmets plein d infos de trucs d astuces de recettes et de techniques pour manger mieux sans effort en vous reappropriant votre cuisine et en developpant votre confiance en vous et en vos casseroles vous venez avec moi
+-------------------------------------------
+
+Line ID: 9563149927
+WER Score: 1.20
+Transcript: ca peut etre completement un repas digne de ce nom quelques basiques sympathiques des recettes cles a reiterer que vous pouvez vraiment vous approprier pour avoir quelque chose qui correspond completement a votre gout basiques indispensables bien sur pain de mie pain blanc pain gris pain cereal ce que vous aimez un jambon de qualite c est une belle merveille quelques fromages du cheddar anglais un petit emental francais eventuellement si on aime ce genre de choses ca ce sont des incontournables
+Reference:  ca peut etre completement un repas digne de ce nom quelques basiques sympathiques des recettes cles a reiterer que vous pouvez vraiment vous approprier pour avoir quelque chose qui correspond completement a votre gout basiques indispensables bien sur pain de mie pain blanc pain gris pain cereal ce que vous aimez un jambon de qualite c est une belle merveille quelques fromages dont du cheddar anglais un petit emental francais eventuellement si on aime ce genre de choses ca ce sont des incontournables
+-------------------------------------------
+
+Line ID: 9563184721
+WER Score: 2.78
+Transcript: j ai faim je peux manger ca maintenant vous auriez l envie d aller vers un roti de porc a la place du jambon par exemple avec un petit pesto de tomate et des concombres dans votre croque monsieur vous allez avoir quelque chose qui est plus sympa sur le fromage vous avez envie d aller vers des petits oeufs durs eh bien vous pouvez aller vers feuilles d epinards bacon oeufs durs ciboulette par exemple quelque chose qui va donner un peu de kick a la ciboulette elle va donner le petit gout echalote qui vient rafraichir pourquoi pas vous avez un reste de poulet de la veille
+Reference:  j ai faim je peux manger ca maintenant vous auriez envie d aller vers un roti de porc a la place du jambon par exemple avec un petit pesto de tomates et des concombres dans votre croque monsieur vous allez avoir quelque chose qui est plus sympa sur le fromage vous avez envie d aller vers des petits oeufs durs eh bien vous pouvez aller vers feuilles d epinard bacon oeufs durs ciboulette par exemple quelque chose qui va donner un peu de kick a la ciboulette elle va donner le petit gout echalote qui vient rafraichir pourquoi pas vous avez un reste de poulet de la veille
+-------------------------------------------
+
+Line ID: 9563154774
+WER Score: 3.33
+Transcript: vous le hachez un petit peu de mayonnaise un petit peu de pommes rapees un petit peu de celeri vous mettez ca dans votre croque et vous faites chauffer et vous allez avoir quelque chose qui fonctionne super bien on peut jouer aussi le sucre sale avec le petit morceau d ananas style croque hawaii mais jouer sur quelque chose qui va etre un petit peu plus gourmand style rien que jambon fromage ananas peut etre remplace par jambon beurre de cacahuete petite ananas et eventuellement fromage frais
+Reference:  eh bien vous le hachez un petit peu de mayonnaise un petit peu de pommes rapees un petit peu de celeri vous mettez ca dans votre croque et vous faites chauffer et vous allez avoir quelque chose qui fonctionne super bien on peut jouer aussi le sucre sale avec le petit morceau d ananas style croque hawaii mais jouer sur quelque chose qui va etre un petit peu plus gourmand style rien que jambon fromage ananas peut etre remplace par jambon beurre de cacahuetes petite ananas et eventuellement fromage frais
+-------------------------------------------
+
+Line ID: 9563133342
+WER Score: 1.90
+Transcript: pour changer un peu la donne vous allez avoir quelque chose qui est plus moelleux et qui fonctionne super bien avec le pain grille s il est question de faire un croque monsieur repas vous pouvez completement utiliser la pate feuilletee pour faire un croque gaufre ca peut etre super chouette le mercredi midi par exemple si vous avez des enfants ou pour un plateau tele bien gourmand avec une belle salade un peu balsamiquee pour lui donner un peu de kick ca peut etre tres chouette une gaufre feuilletee c est deux rouleaux de pate feuilletee du commerce pour 5 6 gaufres par exemple
+Reference:  pour changer un peu la donne vous allez avoir quelque chose qui est plus moelleux et qui fonctionne super bien avec le pain grille s il est question de faire un croque monsieur repas vous pouvez completement utiliser la pate feuilletee pour faire un croque gaufre ca peut etre super chouette le mercredi midi par exemple si vous avez des enfants ou pour un plateau tele bien gourmand avec une belle salade un peu balsamique pour lui donner un peu de kick ca peut etre tres chouette une gaufre feuilletee c est deux rouleaux de pate feuilletee du commerce pour cinq 6 gaufres par exemple
+-------------------------------------------
+
+Line ID: 9563166285
+WER Score: 0.00
+Transcript: et en fait vous allez avoir une pate feuilletee qui va cuire minute dans le gaufrier qui va etre evidemment pressee dans le gaufrier donc qui ne va pas monter comme une feuilletee le ferait d habitude mais vous allez avoir une texture typique de la pate feuilletee qui s effrite et qui est si gourmande sur ce type de cuisson ca vous permet d avoir quelque chose qui change
+Reference:  et en fait vous allez avoir une pate feuilletee qui va cuire minute dans le gaufrier qui va etre evidemment pressee dans le gaufrier donc qui ne va pas monter comme une feuilletee le ferait d habitude mais vous allez avoir une texture typique de la pate feuilletee qui s effrite et qui est si gourmande sur ce type de cuisson ca vous permet d avoir quelque chose qui change
+-------------------------------------------
+
+Line ID: 9563185658
+WER Score: 12.33
+Transcript: pensez aux chevres frais pensez aux poivrons a l huile comme ingredients qui peuvent etre des ingredients interessants que vous avez dans votre placard pensez au pesto pensez a la pulpe de tomate si vous avez envie petit tube de pulpe de tomate pour donner une petite couche entre d autres ingredients pensez aux herbes fraiches qui vont fonctionner ciboulette coriandre persil plat aneth pensez au fromage interessant feta feta epinard noix chevre
+Reference:  pensez aux chevres frais pensez aux poivrons a l huile comme ingredients qui peuvent etre des ingredients interessants que vous avez dans votre placard pensez aux pesto pensez a la pulpe de tomates si vous avez envie petite tube de pulpe de tomates pour donner une petite couche entre d autres ingredients pensez aux herbes fraiches qui vont fonctionner ciboulette coriandre persi plat annette pensez aux fromages interessants feta feta epinard noix chevre
+-------------------------------------------
+
+Line ID: 9563125684
+WER Score: 1.43
+Transcript: ce sont des associations qui fonctionnent habituelles qui fonctionnent bien vous ne pouvez pas vous tromper avec ca allez vers des fromages qui sont un petit peu plus fun si vous aimez ca tout ce qui est roquefort un peu de poire un peu de noix par exemple vous allez avoir quelque chose qui fonctionne super bien et qui ne demande rien pensez aussi a des trucs style un croque polenta
+Reference:  ce sont des associations qui fonctionnent habituelles qui fonctionnent bien vous pouvez pas vous tromper avec ca allez vers des fromages qui sont un petit peu plus fun si vous aimez ca tout ce qui est roquefort un peu de poire un peu de noix par exemple vous allez avoir quelque chose qui fonctionne super bien et qui ne demande rien pensez aussi a des trucs style un croque polenta
+-------------------------------------------
+
+Line ID: 9563110078
+WER Score: 0.00
+Transcript: la polenta que vous allez trouver dans tous les supermarches super facile pour un croque croustillant bien moelleux vous prenez de la polenta vous la faites cuire dans un melange de lait et d eau ou rien que du lait donc vous faites bouillir votre lait vous mettez la polenta dedans c est cuit en quelques minutes vous la coulez sur un sulfurise sur votre plan de travail ou sur une plaque elle va refroidir
+Reference:  la polenta que vous allez trouver dans tous les supermarches super facile pour un croque croustillant bien moelleux vous prenez de la polenta vous la faites cuire dans un melange de lait et d eau ou rien que du lait donc vous faites bouillir votre lait vous mettez la polenta dedans c est cuit en quelques minutes vous la coulez sur un sulfurise sur votre plan de travail ou sur une plaque elle va refroidir
+-------------------------------------------
+
+Line ID: 9563128552
+WER Score: 6.45
+Transcript: quand elle refroidit elle fige coupez des carres de ca mettez un petit peu de jambon cru un peu de fromage et passez ca au grill du 4 ou eventuellement dans une machine a crocs sans trop serrer pour ne pas casser la polenta vous allez avoir quelque chose qui fonctionne tellement bien et vous pouvez accompagner ca par exemple d une petite salade avec des poivrons pour donner un peu de kick parce que la polenta est tendre vous avez besoin d avoir un petit peu de kick
+Reference:  quand elle refroidit elle fige eh bien coupez des carres de ca mettez un petit peu de jambon cru un peu de fromage et passez ca au gril du 4 ou eventuellement dans une machine a croque sans trop serrer pour ne pas casser la polenta vous allez avoir quelque chose qui fonctionne tellement bien et vous pouvez accompagner ca par exemple d une petite salade avec des poivrons pour donner un peu de kick parce que la polenta elle est tendre donc vous avez besoin d avoir un petit peu de kick
+-------------------------------------------
+
+Line ID: 9563145261
+WER Score: 3.03
+Transcript: un poivron cru dont on ne sait pas toujours forcement quoi faire un jaune un rouge un vert il est plus amer evitez le par contre un jaune un rouge que vous avez tranche finement et que vous mettez a cru avec une petite salade sympathique roquette qui va donner du piquant et un peu de balsamique et vous accompagnez avec ce poivron croquant crunch ce croque de polenta vous allez avoir un truc qui vous revisite completement le croque monsieur traditionnel et qui est si simple a faire et qui vous permet aussi de varier les nutriments
+Reference:  un poivron cru dont on ne sait pas toujours forcement quoi faire un jaune un rouge un vert il est plus amer evitez le mais par contre un jaune un rouge que vous avez tranche finement et que vous mettez a cru avec une petite salade sympathique roquette qui va donner du piquant et un peu de balsamique et vous accompagner avec ce poivron croquant crunch ce croque de polenta vous allez avoir un truc qui vous visite completement le croque monsieur traditionnel et qui est si simple a faire et qui vous permet aussi de varier les nutriments
+-------------------------------------------
+
+Line ID: 9563141067
+WER Score: 2.83
+Transcript: c est vraiment quelque chose qui rechauffe le coeur et c est tellement tellement simple mais dans l univers de la mousse au chocolat vous en avez plein c est a dire que vous avez le dessert a l ancienne je dirais qui est fait uniquement a la creme avec la cuillere que vous mettez dans le ramequin et la cuillere qui est a droite toute seule dessert relativement inconcevable aujourd hui parce que criteres de sante non respectes mais vous avez quelque chose qui fonctionne tres bien si vous aimez ca et puis vous avez des mousses au chocolat sur du chocolat fondu des blancs d oeufs
+Reference:  c est vraiment quelque chose qui rechauffe le coeur et c est tellement tellement simple mais dans l univers de la mousse au chocolat vous en avez plein c est a dire que vous avez le dessert a l ancienne je dirais qui est fait uniquement a la creme avec la cuillere que vous mettez dans le ramequin et la cuillere tient droite toute seule dessert relativement inconcevable aujourd hui parce que criteres de sante non respectes mais vous avez quelque chose qui fonctionne tres bien si vous aimez ca et puis vous avez des mousses au chocolat sur du chocolat fondu des blancs d oeufs
+-------------------------------------------
+
+Line ID: 9563169756
+WER Score: 8.57
+Transcript: l autre ajoute aussi les jaunes ca vous permet d avoir quelque chose qui est un petit peu plus dense rien que chocolat et blanc d oeuf ca vous permet d avoir quelque chose qui est dingue meme au niveau de l oreille vous avez deja l appetit qui s ouvre donc c est juste merveilleux quand il est question de faire juste chocolat et creme en gros c est une ganache
+Reference:  d autres ajoutent aussi les jaunes ca vous permet d avoir quelque chose qui est un petit peu plus dense rien que chocolat et blanc d oeuf ca vous permet d avoir quelque chose qui est dingue meme au niveau de l oreille vous avez deja l appetit qui souffre c est juste merveilleux quand il est question de faire juste chocolat et creme en gros c est une ganache
+-------------------------------------------
+
+Line ID: 9563193047
+WER Score: 2.11
+Transcript: c est une ganache qui est un peu plus fluide que pour de la truffe choco par exemple mais si on y reflechit deux secondes trente en gros c est juste un type de truffe au chocolat liquide donc il ne faut pas etre vite ecoeure mais c est quelque chose si vous aimez qui fonctionne evidemment tres bien si vous optez pour une mousse traditionnelle vous ne pouvez pas vous tromper en ayant cette equation en tete vous devez toujours avoir un oeuf par 40 grams de chocolat c est votre equation de base
+Reference:  c est une ganache qui est un peu plus fluide que pour de la truffe choco par exemple mais si on y reflechit 2 secondes 30 en gros c est juste un type de truffe au chocolat liquide donc il ne faut pas etre vite ecoeure mais c est quelque chose si vous aimez qui fonctionne evidemment tres bien si vous optez pour une mousse traditionnelle vous ne pouvez pas vous tromper en ayant cette equation en tete vous devez toujours avoir un oeuf par 40 grams de chocolat c est votre equation de base
+-------------------------------------------
+
+Line ID: 9563114643
+WER Score: 2.17
+Transcript: donc vous multipliez par le nombre de convives enfants grands enfants que vous avez a nourrir mais l idee c est qu un oeuf par 40 grams de chocolat donc par exemple 3 oeufs pour 120 grams de chocolat donc voila votre recette de base pour avoir une petite quantite de mousse qui fonctionne eh bien ca c est quelque chose qui est imbattable ca va vous faire une mousse legere et ca va vous faire une mousse gourmande a la fois faire fondre son chocolat au bain marie juste ou bete
+Reference:  donc vous multipliez par le nombre de convives enfants grands enfants que vous avez a nourrir mais l idee c est que un oeuf par 40 grams de chocolat donc par exemple 3 oeufs pour 120 grams de chocolat donc voila votre recette de base pour avoir une petite quantite de mousse qui fonctionne et bien ca c est quelque chose qui est imbattable ca va vous faire une mousse legere et ca va vous faire une mousse gourmande a la fois faire fondre son chocolat au bain marie juste ou bete
+-------------------------------------------
+
+Line ID: 9563175566
+WER Score: 6.82
+Transcript: et puis vous laissiez dire vous incorporez vos jaunes legerement battus a la fourchette vous montez vos blancs en neige eventuellement avec un petit peu de sucre si vous utilisez du chocolat tres noir mais genre 30 grams pas beaucoup et a partir de la vous incorporez vos blancs dans le melange chocolat jaune d oeuf ca c est votre base et vous etes sur d avoir quelque chose qui place 2 heures au refrigerateur va bien fonctionner puis vous avez des alternatives style mousse au chocolat blancs
+Reference:  et puis vous laisse dire vous incorporez vos jaunes legerement battues a la fourchette vous montez vos blancs en neige eventuellement avec un petit peu de sucre si vous utilisez du chocolat tres noir mais genre 30 grams pas beaucoup et a partir de la vous incorporez vos blancs dans le melange chocolat jaune d oeuf ca c est votre base et vous etes sur d avoir quelque chose qui placer deux euros au refrigerateur va bien fonctionner puis vous avez des alternatives style mousse au chocolat blanc
+-------------------------------------------
+
+Line ID: 9563192242
+WER Score: 4.49
+Transcript: la mousse au chocolat blanc elle se travaille differemment parce que le chocolat blanc c est du beurre de cacao et donc ca se dissocie facilement donc si vous melangez par exemple du chocolat blanc et de la creme entiere a part egale genre la ganache de tout a l heure vous allez avoir quelque chose qui ne fonctionne pas par contre si vous ajoutez a ca et du lait et des blancs en neige sans les jaunes sur du chocolat blanc vous allez avoir quelque chose qui fonctionne bien
+Reference:  la mousse au chocolat blanc elle se travaille differemment parce que le chocolat blanc c est du beurre de cacao et donc ca se dissoie facilement donc si vous melangez par exemple du chocolat blanc et de la creme entiere a part egale genre la ganache de tout a l heure vous allez avoir quelque chose qui fonctionne pas par contre si vous ajoutez a ca et du lait et des blancs en neige sans lait jaune sur du chocolat blanc vous allez avoir quelque chose qui fonctionne bien
+-------------------------------------------
+
+Line ID: 9563129507
+WER Score: 1.69
+Transcript: exemple vous prenez 200 g de chocolat blanc 200 ml de creme fraiche liquide prenez la bien froide elle monte plus ca vous fait une mousse plus aeree 30% de matiere grasse c est bien 40% c est mieux ca depend de ce que vous trouvez dans les supermarches ou dans les fermes mais la vraiment sentez vous bien d aller au plus gras pour que vous ayez quelque chose qui prenne bien et a partir de la vous ajoutez vos deux blancs d oeufs et deux petites cuilleres a soupe de lait quatre ingredients et ca va vous permettre d avoir une mousse au chocolat blanc qui est toujours un petit peu le graal de la mousse
+Reference:  exemple vous prenez 200 grams de chocolat blanc 200 milliliters de creme fraiche liquide prenez la bien froide elle monte plus ca vous fait une mousse plus aeree 30% de matiere grasse c est bien 40% c est mieux ca depend de ce que vous trouvez dans les supermarches ou dans les fermes mais la vraiment sentez vous bien d aller au plus gras pour que vous ayez quelque chose qui prenne bien et a partir de la vous ajoutez vos deux blancs d oeufs et deux petites cuilleres a soupe de lait quatre ingredients et ca va vous permettre d avoir une mousse au chocolat blanc qui est toujours un petit peu le graal de la mousse
+-------------------------------------------
+
+Line ID: 9563195725
+WER Score: 2.08
+Transcript: quand on aime le chocolat blanc generalement on a essaye plusieurs techniques et recettes de mousse au chocolat blanc et on a un resultat qui est ok mais pas assez savoureux ok mais legerement dissocie c est ok mais la couleur est un peu bof vous voyez ce que je veux dire et la vous allez avoir quelque chose qui fonctionne qui est vraiment onctueux et qui en meme temps reste leger alors qu on est sur du full fat et du chocolat blanc donc c est vraiment de la creme full fat et du chocolat blanc
+Reference:  quand on aime le chocolat blanc generalement on a essaye plusieurs techniques et recettes de mousse au chocolat blanc et on a un resultat qui est ok mais pas assez savoureux ok mais legerement dissocie c est ok mais la couleur est un peu bof vous voyez ce que je veux dire et la vous allez avoir quelque chose qui fonctionne qui est vraiment octueux et qui en meme temps reste leger alors qu on est sur du full fat et du chocolat blanc donc c est vraiment la creme full fat et du chocolat blanc
+-------------------------------------------
+
+Line ID: 9563113976
+WER Score: 2.30
+Transcript: donc c est vraiment quelque chose qui peut etre lourd mais vous allez voir que €2 au refrigerateur vous allez avoir evidemment une mousse naturellement plus grasse en bouche mais vous allez avoir une super mousse avec un petit coulis de fruits rouges par exemple de fruits frais de fruits vifs comme la grenade par exemple ca va fonctionner super bien si vous avez envie de ca c est vraiment extremement simple aussi d aller vers des versions de mousse au chocolat qui sont plus saines
+Reference:  donc c est vraiment quelque chose qui peut etre lourd mais vous allez voir que deux heures au refrigerateur vous allez avoir evidemment une mousse naturellement plus grasse en bouche mais vous allez avoir une super mousse avec un petit coulis de fruits rouges par exemple de fruits frais de fruits vifs comme la grenade par exemple ca va fonctionner super bien si vous avez envie de ca c est vraiment extremement simple aussi d aller vers des versions de mousse au chocolat qui sont plus saines
+-------------------------------------------
+
+Line ID: 9563135523
+WER Score: 2.38
+Transcript: vous avez probablement deja vu differentes versions de mousse plus saine parce que la mousse au chocolat c est juste une emulsion et ca peut fonctionner sur des ingredients qui sont naturellement moelleux donc sur de la banane de la puree d amande ca on a deja vu sur de l avocat vous obtenez une mousse qui en plus d etre vegan est super sympa et franchement regale sans culpabilite c est vraiment un truc qui n est pas la mousse au chocolat traditionnelle
+Reference:  vous avez probablement deja vu differentes versions de mousse plus saines parce que la mousse au chocolat c est juste une emulsion et ca peut fonctionner sur des ingredients qui sont naturellement moelleux donc sur de la banane de la puree d amandes ca on a deja vu sur de l avocat vous obtenez une mousse qui en plus d etre vegan est super sympa et franchement regale sans culpabilite c est vraiment un truc qui n est pas la mousse au chocolat traditionnelle
+-------------------------------------------
+
+Line ID: 9563189189
+WER Score: 0.00
+Transcript: on va gouter la banane derriere mais ca reste franchement completement agreable et ca vous permet d avoir juste avec un mix d ingredients au blender quelque chose qui va vraiment directement avoir une bonne emulsion une bonne consistance trois bananes un avocat par exemple deux cuilleres a soupe de puree d amandes blanches et le cacao pur non sucre fonctionne mieux dans ce type de mousse ce type de mousse que le chocolat fondu qui va detendre les ingredients et empecher l emulsion donc a choisir allez plutot vers ca
+Reference:  on va gouter la banane derriere mais ca reste franchement completement agreable et ca vous permet d avoir juste avec un mix d ingredients au blender quelque chose qui va vraiment directement avoir une bonne emulsion une bonne consistance trois bananes un avocat par exemple deux cuilleres a soupe de puree d amandes blanches et le cacao pur non sucre fonctionne mieux dans ce type de mousse ce type de mousse que le chocolat fondu qui va detendre les ingredients et empecher l emulsion donc a choisir allez plutot vers ca
+-------------------------------------------
+
+Line ID: 9563148793
+WER Score: 0.00
+Transcript: c est un bon truc ca vous permet d avoir une mousse qui va chaque fois bien tenir je mets deux cuilleres a soupe de cacao purement sucre vous voyez ce que je veux dire dans ce melange trois bananes deux cuilleres a soupe de puree d amandes blanches et vous allez avoir vraiment quelque chose qui fonctionne bien ce que vous pouvez faire aussi ce sont des mousses qui fonctionnent sur une base de yaourt
+Reference:  c est un bon truc ca vous permet d avoir une mousse qui va chaque fois bien tenir je mets deux cuilleres a soupe de cacao purement sucre vous voyez ce que je veux dire dans ce melange trois bananes deux cuilleres a soupe de puree d amandes blanches et vous allez avoir vraiment quelque chose qui fonctionne bien ce que vous pouvez faire aussi ce sont des mousses qui fonctionnent sur une base de yaourt
+-------------------------------------------
+
+Line ID: 9563137067
+WER Score: 1.20
+Transcript: vous allez avoir quelque chose genre yaourt grec qui est vraiment tres moelleux grace au yaourt grec et qui ne sera jamais trop sucre vous allez vers 90 grams 100 grams de chocolat noir une cuillere a soupe de cacao pur non sucre pour renforcer la saveur du chocolat vous pouvez eventuellement ajouter un petit peu d extrait de vanille si vous aimez voila on peut jouer et 50 grams de yaourt grec 2 blancs d oeufs un petit peu de sucre roussi
+Reference:  vous allez avoir quelque chose genre yaourt grec qui est vraiment tres moelleux grace au yaourt grec et qui ne sera jamais trop sucre vous allez vers 90 grams 100 grams de chocolat noir une cuillere a soupe de cacao pur non sucre pour renforcer la saveur du chocolat vous pouvez eventuellement ajouter un petit peu d extrait de vanille si vous aimez voila on peut jouer et 50 grams de yaourt grec deux blancs d oeufs un petit peu de sucre roussi
+-------------------------------------------
+
+Line ID: 9563186097
+WER Score: 1.77
+Transcript: vous avez envie de la rendre plus gourmande facultatif mais ca fonctionne et en fait vous faites fondre votre chocolat au bain marie vous melangez tout ce que vous avez ajoute qui pourrait donner du gout c est a dire l extrait de vanille vous le melangez dans le cacao a la limite vous voyez vous faites une sorte de pate de cacao et vous ajoutez a cette pate de cacao deux cuilleres a soupe d eau bouillante et cette pate la cacao melange au cafe extrait de vanille vous la mettez dans votre chocolat fondu et vous ajoutez votre yaourt grec avant de mettre vos deux blancs d oeufs montes en neige
+Reference:  vous avez envie de la rendre plus gourmande facultatif mais ca fonctionne et en fait vous faites fondre votre chocolat au bain marie vous melangez tout ce que vous avez ajoute qui pourrait donner du gout c est a dire l extrait de vanille vous le melangez dans le cacao a la limite vous voyez vous faites une sorte de pate de cacao et vous ajoutez a cette pate de cacao deux cuilleres a soupe d eau bouillante et cette pate la cacao melange au cafe extrait de vanille vous la mettez dans votre chocolat fondu et vous ajoutez votre yaourte grecque avant de mettre vos deux blancs d oeufs montes en neige
+-------------------------------------------
+
+Line ID: 9563115167
+WER Score: 3.85
+Transcript: si vous avez envie d avoir quelque chose de bien frais ca peut etre un petit fromage frais de la menthe hachee et un peu de mozzarella par exemple vous allez avoir vraiment quelque chose qui est moelleux fil de mozzarella et en meme temps cette menthe qui va venir rafraichir
+Reference:  si vous avez envie d avoir quelque chose de bien frais ca peut etre un petit fromage frais de la menthe hachee et un peu de mozza rape par exemple vous allez avoir vraiment quelque chose qui est moelleux fil de mozzarella et en meme temps cette menthe qui va venir rafraichir
+-------------------------------------------
+
+Line ID: 9563185392
+WER Score: 1.72
+Transcript: vous pouvez ajouter un petit peu de jambon la dessus ca peut fonctionner si vous aimez vous pouvez aller aussi vers des choses qui sont plus classiques style gouda cornichons et gredous vous voyez sur le jambon cru sur le jambon cuit dans un croque monsieur ca fonctionne super bien moutarde douce la dessus ca fonctionne super bien
+Reference:  vous pouvez ajouter un petit peu de jambon la dessus ca peut fonctionner si vous aimez vous pouvez aller aussi vers des choses qui sont plus classiques style gouda cornichons et gredou vous voyez sur le jambon cru sur le jambon cuit dans un croque monsieur ca fonctionne super bien moutarde douce la dessus ca fonctionne super bien
+-------------------------------------------
+
+Line ID: 9563133050
+WER Score: 5.00
+Transcript: des restes gourmands des ingredients faciles du placard ca peut etre du poulet cuit mozza curry une poignee de roquettes preparez vos ingredients laissez les pates feuilleter au refrigerateur jusqu au dernier moment et ensuite vous prenez vos pates feuilletees
+Reference:  des restes gourmands des ingredients faciles du placard ca peut etre du poulet cuit mozza curry une poignee de roquette preparez vos ingredients laissez les pates feuilletees au refrigerateur jusqu au dernier moment et ensuite vous prenez vos pates feuilletees
+-------------------------------------------
+
+Line ID: 9563118685
+WER Score: 2.50
+Transcript: vous tranchez par exemple vos boules de mozzarella reste de poulet par dessus eventuellement un petit peu de bacon cuit si vous avez ca a la maison un petit peu d oignon si vous aimez un petit peu d oignon que vous avez fait revenir a la poele avec un peu de sucre pour les carameliser on se fait plaisir vous allez avoir quelque chose qui est plus gourmand remettre une pate feuilletee par dessus et mettre dans le gaufrier
+Reference:  vous tranchez par exemple vos boules de mozzarella reste de poulet par dessus eventuellement un petit peu de bacon cuit si vous avez ca a la maison un petit peu d oignons si vous aimez un petit peu d oignons que vous avez fait revenir a la poele avec un peu de sucre pour les carameliser on se fait plaisir vous allez avoir quelque chose qui est plus gourmand remettre une pate feuilletee par dessus et mettre dans le gaufrier
+-------------------------------------------
+
+Final WER Score: 4.27

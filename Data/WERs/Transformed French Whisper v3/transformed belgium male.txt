@@ -1,0 +1,1240 @@
+6.666666666666667
+line_id 8500334923
+transcript norm:  bonjour a toutes et a tous et bienvenue au bresil si vous pensez que l aventure est dangereuse essayez la routine elle est mortelle dixit l auteur carioca poloquelo que ne contredira pas romain dumont jeune belge du bout du monde a porto alegre
+ref norm:         bonjour a toutes et a tous et bienvenue au bresil si vous pensez que l aventure est dangereuse essayez la routine elle est mortelle dixit l auteur carioca polo coelho que ne contredira pas romane dumont jeune belge du bout du monde a porto alegre
+
+ ------------------------------------------- 
+
+7.2727272727272725
+line_id 8500346780
+transcript norm:  et vous etes devenue coordinatrice et gestionnaire d un projet ecologique et social qui s appelle moutois c est un projet qui connecte la ville a la campagne a travers un reseau de distribution de paniers bio vous nous raconterez pourquoi et comment tout a l heure pour echanger avec vous beatrice camargo bonjour beatrice bonjour
+ref norm:         et vous etes devenue coordinatrice et gestionnaire d un projet ecologique et social qui s appelle mutoa c est un projet qui connecte la ville a la campagne a travers un reseau de distribution de paniers bio vous nous raconterez pourquoi et comment tout a l heure pour echanger avec vous beatriz camargo bonjour beatriz
+
+ ------------------------------------------- 
+
+3.3333333333333335
+line_id 8500353767
+transcript norm:  vous etes bresilienne journaliste chercheur en genre et migration vous etes originaire de sao paulo arrivee a bruxelles pour des etudes vous etes tombee sous le charme de la belgique
+ref norm:         vous etes bresilienne journaliste chercheur en genre et migration vous etes originaire de sao paulo arrive a bruxelles pour des etudes vous etes tombee sous le charme de la belgique
+
+ ------------------------------------------- 
+
+9.25925925925926
+line_id 8500396585
+transcript norm:  vous avez au haut du fil celle qui a 20 ans de moins que vous qui est dans une ville a des milliers de kilometers en dessous de sao paulo parce que le bresil c est 246 fois la belgique c est si grotesque vous etes deja alle dans cette region de votre pays natal
+ref norm:         vous avez au bout du fil celle qui a 20 ans de moins que vous qui est dans une ville a des milliers de kilometers en dessous de sao paulo parce que le bresil c est 286 fois la belgique c est gigantesque vous etes deja allee dans cette region de votre pays natal
+
+ ------------------------------------------- 
+
+18.6046511627907
+line_id 8500343446
+transcript norm:  romain m disons 22 ans au compteur arrive presque par hasard sur cette terre d accueil le bresil ou vous allez creer votre travail vous etes la coordinatrice du projet ecologique et social mutua alors est ce que vous pouvez nous presenter votre bebe romain m
+ref norm:         romane dumont 22 ans au compteur arrive presque par hasard sur cette terre d accueil le bresil ou vous avez cree votre travail vous etes la coordinatrice du projet ecologique et social mutua est ce que vous pouvez nous presenter votre bebe romane
+
+ ------------------------------------------- 
+
+5.0
+line_id 8500347105
+transcript norm:  pour qui c est parfois complique de trouver des debouches de vendre leurs produits vous faites une connection entre l offre et la demande c est tres tres souhaite on a mis des videos en ligne sur lapremiere bo et sur les reseaux sociaux des belges du bout du monde pour montrer votre travail un travail que vous saluez beatrice c est chouette d entendre des jeunes comme ca motives qui veulent apporter leur petite paire a l edifice
+ref norm:         pour qui c est parfois complique de trouver des debouches de vendre leurs produits donc vous faites une connection entre l offre et la demande c est tres tres chouette on a mis des videos en ligne sur lapremiere bo et sur les reseaux sociaux des belges du bout du monde pour montrer votre travail un travail que vous saluez beatriz c est chouette d entendre des jeunes comme ca motives qui veulent apporter leur petite pierre a l edifice
+
+ ------------------------------------------- 
+
+8.928571428571429
+line_id 8500359330
+transcript norm:  beatrice vous etes bardee de diplomes journalisme a l universite de sao paulo master en action humanitaire a l ucl un ex aussi marseille en france master en droit humain saint louis et docteur en genre et migration a l ulb c est une bourse de l union europeenne qui a change votre destin
+ref norm:         beatriz vous vous etes bardee de diplomes journalisme a l universite de sao paulo master en action humanitaire a l ucl a aix aussi marseille en france master en droit humain a saint louis et docteur en genre et migration a l ulb c est une bourse de l union europeenne qui a change votre destin
+
+ ------------------------------------------- 
+
+8.771929824561402
+line_id 8500390055
+transcript norm:  bruxelles babel sandon antouine nationalite peuple notre capitale c est tres different de sao paulo ou la ville est plus stratifiee on va parler d apartheid mais quand meme presque il y a des gens qui ne se rencontrent jamais a sao paulo alors qu ici a bruxelles il y a quand meme un grand brassage
+ref norm:         bruxelles babel 198 nationalites peuple notre capitale c est tres different de sao paulo ou la ville est plus stratifiee on ne va pas parler d apartheid mais quand meme presque il y a des gens qui ne se rencontrent jamais a sao paulo alors qu ici a bruxelles il y a quand meme un grand brassage
+
+ ------------------------------------------- 
+
+0.0
+line_id 8500336888
+transcript norm:  vous etes chercheur au cbai le center bruxellois d action interculturelle vous accompagnez des associations qui travaillent avec un public precarise souvent migrants il y a beaucoup de bresiliens parmi vos beneficiaires beaucoup de bresiliens qui vivent a bruxelles
+ref norm:         vous etes chercheur au cbai le center bruxellois d action interculturelle vous accompagnez des associations qui travaillent avec un public precarise souvent migrants il y a beaucoup de bresiliens parmi vos beneficiaires beaucoup de bresiliens qui vivent a bruxelles
+
+ ------------------------------------------- 
+
+16.666666666666664
+line_id 8500333409
+transcript norm:  je vous appelle que vous etes bresilienne journaliste chercheur specialize en genre et immigration et que de l autre cote de l atlantique nous sommes en ligne avec l artiste formatrice et paysanne romaine du coup du cote de porto alegre tres impressionnee par l ouverture et la sensibilite des bresiliennes et des bresiliens romains
+ref norm:         je rappelle que vous etes bresilienne journaliste chercheur specialize en genre et migration et que de l autre cote de l atlantique nous sommes en ligne avec l artiste formatrice et paysanne romane dumont du cote de porto allegre et tres impressionnee par l ouverture et la sensibilite des bresiliennes et des bresiliens romane
+
+ ------------------------------------------- 
+
+14.000000000000002
+line_id 8500348778
+transcript norm:  un brasso qui oriente les personnes migrantes par rapport aux droits de sejour a l education aux conflits par exemple avec un proprietaire ou un employeur maintenant vous travaillez au cbai vous representez aussi la plature nationale d organization antivaciste il reste du boulot a ce niveau la au medjik
+ref norm:         abrasso qui oriente les personnes migrantes par rapport aux droits de sejour a l education aux conflits par exemple avec un proprietaire ou un employeur maintenant vous travaillez au cbai et vous representez aussi la plateforme nationale d organization antiraciste il reste du boulot a ce niveau la en belgique
+
+ ------------------------------------------- 
+
+9.67741935483871
+line_id 8500322774
+transcript norm:  l occasion aussi de faire contrepoids contre les agro industries qui menacent le bresil ses habitants et les poumons verts de l amazonie on va marquer une toute petite pause de pub et puis on se retrouvera pour la suite de notre voyage au bresil avec nino ferrer linniker et novos bayanos pour enchanter ce trip de dimanche matin
+ref norm:         oui donc l occasion aussi de faire contrepoids contre les agro industries qui menacent le bresil ces habitants et les poumons verts de l amazonie on va marquer une toute petite pause de pub et puis on se retrouvera pour la suite de notre voyage au bresil avec nino ferrer linniker et novos baiano ceci pour enchanter ce trip du dimanche matin
+
+ ------------------------------------------- 
+
+7.59493670886076
+line_id 8500394882
+transcript norm:  nous sommes le dimanche 26 mai et c est aujourd hui que vous pourrez voir sur la une l echappee belge que nous venons de realiser avec les 8 laureats du ticket pour l europe apres leur periglination quatre coins du continent ces wiesn ont rallie a velo les deux principaux sieges du parlement europeen bruxelles et strasbourg une aventure haute en couleurs a voir juste apres le jt ce midi vers 13 h 40 sur la une
+ref norm:         nous sommes le dimanche 26 mai et c est aujourd hui que vous pourrez voir sur la une l echappe belge que nous venons de realiser avec les huit laureats du ticket pour l europe apres leur peregrination quatre coins du continent ces huit jeunes ont rallie a velo les deux principaux sieges du parlement europeen bruxelles et strasbourg une aventure haute en couleur a voir juste apres le jt ce midi vers 13 h 40 sur la une
+
+ ------------------------------------------- 
+
+8.771929824561402
+line_id 8500398411
+transcript norm:  ce matin en radio apres les huit semaines du ticket pour l europe les belges du bout du monde reprennent leur quartier lointain et ca fait du bien nous sommes au bresil avec beatrice canargo et romane dumont quels sont vos loisirs romane quand vous ne travaillez pas dans moutois votre association qu est ce que vous faites debout
+ref norm:         ce matin apres les huit semaines du ticket pour l europe les belges du bout du monde reprennent leur quartier lointain et ca fait du bien nous sommes au bresil avec beatriz camargo et romane dumont quels sont vos loisirs romane quand vous ne travaillez pas dans moutoa votre association qu est ce que vous faites debout
+
+ ------------------------------------------- 
+
+10.434782608695652
+line_id 8500339290
+transcript norm:  la musique c est pas seulement a la radio c est dans la rue c est partout au bresil alors il y a quelque chose de completement etonnant dans votre parcours et on ne l a pas encore dit c est que vous avez arrete l ecole a 16 ans c est dingue parce que la vous etes chef d entreprise et vous allez arreter l ecole a 16 ans tout ce que vos parents ont dit ils en ont un et comment ca s est organize racontez nous votre cursus entre cette fin d ecole et votre depart pour le bresil meme si vous ne saviez meme pas que vous partiez au bresil
+ref norm:         la musique c est pas seulement a la radio c est dans la rue c est partout au bresil alors il y a quelque chose de completement etonnant dans votre parcours et on ne l a pas encore dit c est que vous avez arrete l ecole a 16 ans c est dingue parce que la vous etes chef d entreprise mais vous avez arrete l ecole a 16 ans qu est ce que vos parents ont dit a ce moment la et comment ca s est organize racontez nous votre cursus entre cette fin d ecole et puis votre depart pour le bresil mais vous ne saviez meme pas que vous partiez au bresil
+
+ ------------------------------------------- 
+
+11.25
+line_id 6610993211
+transcript norm:  nous sommes dans la seconde moitie du xiie siecle dans le liber divinerum operum simplicis hominis c est a dire le livre des oeuvres divines d un homme simple l abbes hildegard de bingen ecrit tout ce que j ai ecrit lors de ma premiere vision tout le savoir que j ai acquis par la suite c est au mystere decu que je le dois je l ai percu en pleine conscience dans un parfait eveil de mon corps
+ref norm:         nous sommes dans la seconde moitie du xiie siecle dans le liber divinorum operum simplicis hominis c est a dire le livre des oeuvres divines d un homme simple la baisse hildegarde de bingen ecrit tout ce que j ai ecrit lors de mes premieres visions tout le savoir que j ai acquis par la suite c est au mystere des cieux que je le dois je l ai percu en pleine conscience dans un parfait eveil de mon corps
+
+ ------------------------------------------- 
+
+0.0
+line_id 6610981692
+transcript norm:  ma vision ce sont les yeux interieurs de mon esprit et les oreilles interieures qui me l ont transmise exclusivement j exposais ce que m offraient les secrets du ciel c est alors que je reentendis la voix qui du ciel m instruisait et elle disait ecris ce que je te dis
+ref norm:         ma vision ce sont les yeux interieurs de mon esprit et les oreilles interieures qui me l ont transmise exclusivement j exposais ce que m offraient les secrets du ciel c est alors que je reentendis la voix qui du ciel m instruisait et elle disait ecris ce que je te dis
+
+ ------------------------------------------- 
+
+9.25925925925926
+line_id 6610983244
+transcript norm:  huit siecles plus tard en 2012 le pape benoit xvi annonce la proclamation comme docteur de l eglise de la mystique allemande celle ci devient ainsi la quatrieme femme a endosser ce titre apres catherine de sienne therese d avila et therese d oligieux il beugarde sur une des grandes figures de son temps
+ref norm:         huit siecles plus tard en 2012 le pape benoit xvi annonce la proclamation comme docteur de l eglise de la mystique allemande celle ci devient ainsi la quatrieme femme a endosser ce titre apres catherine de sienne therese d avila et therese de lisieux hildegarde fut l une des grandes figures de son temps
+
+ ------------------------------------------- 
+
+2.127659574468085
+line_id 6610924750
+transcript norm:  elle etait tres renommee autrice d ouvrages precurseurs d idees a venir en matiere de physiologie par exemple grande connaisseuse de la pharmacopee elle utilisait tout ce que la nature pouvait lui offrir en matiere de remede poetesse compositrice on lui doit plus de 70 chants liturgiques
+ref norm:         elle etait tres renommee autrice d ouvrages precurseurs d idees a venir en matiere de physiologie par exemple grande connaisseuse de la pharmacopee elle utilisait tout ce que la nature pouvait lui offrir en matiere de remede poetesse compositrice on lui doit plus de septante chants liturgiques
+
+ ------------------------------------------- 
+
+4.545454545454546
+line_id 6610959421
+transcript norm:  elle est aussi la revelatrice ou la decouvreuse ou voire la creatrice d une langue artificielle la lingua ignota alors en quoi hildegard von bingen a t elle ete une pionniere sa legende est elle trop grande ou est elle bien ajustee voyons voir
+ref norm:         elle est aussi la revillatrice ou la decouvreuse ou voire la creatrice d une langue artificielle la lingua ignota alors en quoi hildegarde von bingen a t elle ete une pionniere sa legende est elle trop grande ou est elle bien ajustee voyons voir
+
+ ------------------------------------------- 
+
+8.450704225352112
+line_id 9507848902
+transcript norm:  et notamment l origine la naissance d hildegarde il y a eu differentes hypotheses a ce sujet on a alors tant cru qu elle etait issue d une famille de ministeriaux des ministeriales dit on en latin c est a dire des fonctionnaires du saint empire romain germanique qui au depart n etaient pas des hommes libres donc ce serait une espece de fille de la classe moyenne de la noblesse allemande
+ref norm:         et notamment l origine la naissance d hildegarde il y a eu differentes hypotheses a ce sujet on a longtemps cru qu elle etait issue d une famille de ministeriaux les ministerialeses dit on au latin c est a dire les fonctionnaires du saint empire romain germanique qui au depart n etaient pas des hommes libres donc ce serait une espece de fille de la classe moyenne de la noblesse allemande
+
+ ------------------------------------------- 
+
+6.578947368421052
+line_id 9507844023
+transcript norm:  mais des recherches beaucoup plus recentes montreraient au contraire qu elle serait issue d une famille de la trop haute noblesse germanique a l epoque ce qui expliquerait pas mal de choses notamment certaines protections dont elle a pu beneficier ce qui est a peu pres sur enfin ce qui est sur c est que tres tot on va l avouer la petite ile de garde adieu mais au fond c est pas exceptionnel a l epoque
+ref norm:         mais des recherches beaucoup plus recentes montreraient au contraire qu elle serait issue d une famille de la haute haute noblesse germanique a l epoque ce qui expliquerait pas mal de choses notamment certaines protections dont elle a pu beneficier ce qui est a peu pres sur enfin ce qui est sur c est que tres tot on va l avouer la petite hildegarde a dieu mais au fond c est pas exceptionnel a l epoque
+
+ ------------------------------------------- 
+
+6.024096385542169
+line_id 9507848525
+transcript norm:  alors elle est la dixieme enfant de cette famille quel que soit cette famille et c est en tant que dixieme enfant qu elle a ete donnee a non pas un couvent a l epoque mais plutot un ermitage qui etait tenu par une femme noble elle aussi jutta de spanheim ou de spanheim d ito parfois a quel age est ce que le garde a ete offerte oblata disait on en latin oblate a cet ermitage la aussi c est sujet a discussion
+ref norm:         alors elle est la dixieme enfant de cette famille quelle que soit cette famille et c est en tant que dixieme enfant qu elle a ete donnee a non pas un couvent a l epoque mais plutot un ermitage qui etait tenu par une femme noble elle aussi jutta de spanheim ou de spanheim dit on parfois a quel age est ce que hildegarde a ete offerte oblata disait on en latin oblate a cet ermitage la aussi c est sujet a discussion
+
+ ------------------------------------------- 
+
+16.0
+line_id 9507817479
+transcript norm:  alors c est une vie de recluse mais peu a peu on observe dans les temoignages de l epoque que cet ermitage confie a cette jupiter de sponheim se transforme progressivement en une espece d ecole conventuelle ou sont admises les filles de la noblesse
+ref norm:         alors c est une vie de recluse mais peu a peu on observe dans les temoignages de l epoque que cet ermitage confie a cette jutta d euspanaim ou d euspanaim eh bien se transforme progressivement en une espece d ecole conventuelle ou sont admises les filles de la noblesse
+
+ ------------------------------------------- 
+
+0.0
+line_id 9507828510
+transcript norm:  chose tout a fait etonnante puisque les filles a l epoque les jeunes femmes n etaient pas admises aux etudes universitaires je dois rappeler qu a l epoque au xiie siecle les premieres universites sont nees n est ce pas c est une invention de l occident medieval
+ref norm:         chose tout a fait etonnante puisque les filles a l epoque les jeunes femmes n etaient pas admises aux etudes universitaires je dois rappeler qu a l epoque au xiie siecle les premieres universites sont nees n est ce pas c est une invention de l occident medieval
+
+ ------------------------------------------- 
+
+18.75
+line_id 9507817820
+transcript norm:  mais la jeune fille n y etait pas admise alors comment a t il eu acces a ce savoir livresque parce qu elle a certainement eu acces a ca au soupcon on suspecte cette jeta de spahnheim d avoir eu acces a un certain nombre de manuscrits decrits
+ref norm:         mais les jeunes filles n y etaient pas admises alors comment a t il eu acces a ce savoir livresque parce qu elle a certainement eu acces a ca on soupconne on suspecte cette jutta de spanheim d avoir eu acces a un certain nombre de manuscrits decrits
+
+ ------------------------------------------- 
+
+13.157894736842104
+line_id 9507828807
+transcript norm:  tout ca pourquoi parce qu elle avait deja acquis une certaine notoriete et que donc ca faisait le succes du monastere a l epoque puisque cet ermitage se trouvait cette petite ecole se trouvait a proximite du monastere de dize bodenberghe
+ref norm:         tout ca pourquoi parce qu elle avait deja acquis une certaine notoriete et que donc ca faisait le succes du monastere a l epoque puisque cet ermitage cette petite ecole se trouvait a proximite du monastere du disibodenberg
+
+ ------------------------------------------- 
+
+11.688311688311687
+line_id 9507869610
+transcript norm:  oui il y a la une difference entre ces deux femmes certainement puisqu ile de garde n est pas elle une adepte de nounratik qu on qualifierait aujourd hui de sadomaso shnai n est ce pas meme si c etait pour le plus grand bien du corps soupissier et de l ame de la soupissier ce n est pas son truc a elle pas du tout elle c est quelqu un qui va je dirais magnifier la nature
+ref norm:         oui il y a la une difference entre ces deux femmes certainement puisqu hildegarde n est pas elle une adepte de son pratique qu on qualifierait aujourd hui de sado masochiste n est ce pas meme si c etait pour le plus grand bien du corps supplicie et de l ame de la suppliciee ce n est pas son truc a elle pas du tout elle c est quelqu un qui va je dirais magnifier la nature
+
+ ------------------------------------------- 
+
+12.244897959183673
+line_id 9507824652
+transcript norm:  et je pense qu hildegarde est plutot une tenante de cette partie la des choses donc beaucoup plus optimiste et beaucoup +positive vis a vis de la creation la creation est hors d emanation divine elle la positive et notamment elle va positiver la sexualite aupres en tout cas des noms
+ref norm:         et je pense qu hildegarde est plutot une tenante de cette partie la des choses donc beaucoup plus optimiste et beaucoup +positive vis a vis de la creation la creation etant demanation divine elle la positive et notamment elle va positiver la sexualite aupres en tout cas d helene
+
+ ------------------------------------------- 
+
+28.26086956521739
+line_id 9507877177
+transcript norm:  il faut savoir que l ermitage en question se trouvait a l immediate proximite d un monastere d amm le monastere de dizibonenberg et 30 ans apres avoir ete confie a jutta vers l age de 40 ans
+ref norm:         il faut savoir que l ermitage en question se trouvait a l immediate proximite d un monastere d hommes le monastere du disibodenberg et trente ans apres avoir ete confie a jutta vers l age de en tout cas quarante ans en tout cas quarante ans
+
+ ------------------------------------------- 
+
+6.521739130434782
+line_id 9507834331
+transcript norm:  hildegarde apres la mort de jutta va elle meme vouloir fonder son propre couvent et quitter le monastere de desir bronnenberg ce sera tres tres mal vecu par l abbe de l epoque qui dira avec une certaine violence cette femme est ignorante et elle sera dispersee
+ref norm:         hildegarde apres la mort de jutta va elle meme vouloir fonder son propre couvent et quitter le monastere de dizibaud oenberg ce sera tres mal vecu par l abbe de l epoque qui dira avec une certaine violence cette femme est ignorante et elle sera dispersee
+
+ ------------------------------------------- 
+
+0.0
+line_id 9507847929
+transcript norm:  et ca c est interessant parce qu il y a deux visions de la nature a l epoque c est a dire la nature materielle et physique y compris du corps au sein de l eglise chretienne a l epoque
+ref norm:         et ca c est interessant parce qu il y a deux visions de la nature a l epoque c est a dire la nature materielle et physique y compris du corps au sein de l eglise chretienne a l epoque
+
+ ------------------------------------------- 
+
+1.5625
+line_id 9507831808
+transcript norm:  d une part la nature est vue comme quelque chose de vicie qui porte la trace de la chute de l expulsion d adam et eve au depart du paradis terrestre n est ce pas mais d autre part il y a en opposition a cela la nature et le corps qui sont vus comme un speculum dei un miroir de la creation divine eternelle
+ref norm:         d une part la nature est vue comme quelque chose de vicie qui porte la trace de la chute de l expulsion d adam et eve au depart du paradis terrestre n est ce pas mais d autre part il y a en opposition a cela la nature et le corps qui sont vus comme un speculum dei un miroir de la creation divine
+
+ ------------------------------------------- 
+
+1.5384615384615385
+line_id 7494139787
+transcript norm:  son esprit aussi noir que ses toiles qui evoquent ses traumatismes vifs et profonds s eteint et dans les couloirs de son chateau seul le bruit des lames de parquet qui craquent brise un silence de plomb c est la mort qui arrive et qui doucement d un pas ferme mais lent s approche de la chambre de l artiste il n a pas peur
+ref norm:         son esprit aussi noir que ses toiles qui evoque ses traumatismes vifs et profonds s eteint et dans les couloirs de son chateau seul le bruit des lames de parquet qui craquent brise un silence de plomb c est la mort qui arrive et qui doucement d un pas ferme mais lent s approche de la chambre de l artiste il n a pas peur
+
+ ------------------------------------------- 
+
+0.0
+line_id 7494111010
+transcript norm:  dans ce meme lit sa femme est decedee il y a deja plusieurs annees la faucheuse que tout le monde craint lui l a deja apprivoisee materialisee aussi dans sa tete dans ses oeuvres depuis des annees elle dort deja tout pres de lui l accompagne sur les bords de cette riviere ou il se rend pour se ressourcer apres ses longues journees
+ref norm:         dans ce meme lit sa femme est decedee il y a deja plusieurs annees la faucheuse que tout le monde craint lui l a deja apprivoisee materialisee aussi dans sa tete dans ses oeuvres depuis des annees elle dort deja tout pres de lui l accompagne sur les bords de cette riviere ou il se rend pour se ressourcer apres ses longues journees
+
+ ------------------------------------------- 
+
+19.672131147540984
+line_id 7494127346
+transcript norm:  la mort est une invite permanente c est cubain et ce soir elliot cherchait lui pour la premiere fois de l histoire du monde la mort elle meme eprouve de la tristesse elle va conduire dans son royaume l un de ses plus vieux amis alors comme cela lui arrive de temps a autre elle veut le faire a l etouffeur
+ref norm:         la mort est une invitee permanente chez kubin et ce soir elle vient le chercher lui pour la premiere fois de l histoire du monde la mort elle meme eprouve de la tristesse elle va conduire dans son royaume l un de ses plus vieux amis alors comme cela lui arrive de temps a autre elle va le faire avec douceur
+
+ ------------------------------------------- 
+
+0.0
+line_id 7494129625
+transcript norm:  la mort il l appelle de ses voeux depuis presque toujours la nuit tombe sur l autriche nous sommes le jeudi 20 aout 1959 il est 23 h 14 et c est l heure h de mon histoire
+ref norm:         la mort il l appelle de ses voeux depuis presque toujours la nuit tombe sur l autriche nous sommes le jeudi 20 aout 1959 il est 23 h 14 et c est l heure h de mon histoire
+
+ ------------------------------------------- 
+
+14.285714285714285
+line_id 7494173781
+transcript norm:  cela fait deja quelques jours que l artiste sent que son heure est venue ses visions si presentes autrefois et qui puissantes l ont conduit dans de nombreux univers fantastiques se sont estampees le voila plonge dans un reel qu il repugne atteint d un terrible mal a la vessie qui semble bel et bien le conduire a bris d abattu l encaome
+ref norm:         cela fait deja quelques jours que l artiste sent que son or est venu ses visions si presentes autrefois et qui puissantes l ont conduit dans de nombreux univers fantastiques se sont estompees le voila plonge dans un reel qu il repugne atteint d un terrible mal a la vessie qui semble bel et bien le conduire abri d abattus dans le chaos
+
+ ------------------------------------------- 
+
+4.878048780487805
+line_id 7494139313
+transcript norm:  le peintre ne parvient plus a se lever le chateau des huilettes plus qu une maison a toujours ete son refuge sur le monde il eprouve constamment cette necessaire envie de s isoler ce besoin irrepressible de se preserver du dehors
+ref norm:         le peintre ne parvient plus a se lever le chateau de zuiglette plus qu une maison a toujours ete son refuge sur le monde il eprouve constamment cette necessaire envie de s isoler ce besoin irrepressible de se preserver du dehors
+
+ ------------------------------------------- 
+
+14.285714285714285
+line_id 7494128904
+transcript norm:  l exterieur provoque souffrance et traumatisme en lui depuis toujours alors non dans ses derniers jours d agonie il n y fure pas specialement pignon la fievre parfois lui a permis de s evader un peu de voyager encore dans son parc et au bord de cette eau qu il adore
+ref norm:         l exterieur provoque souffrance et traumatisme en lui depuis toujours alors non ces derniers jours d agonie ne lui furent pas specialement penibles la fievre parfois lui a permis de s evader un peu de voyager encore dans son parc et au bord de cette eau qu il adore
+
+ ------------------------------------------- 
+
+19.565217391304348
+line_id 7494145069
+transcript norm:  la puissance du courant les matins d hiver et la fraicheur qu elle degage les soirs d ete au fond ces privieres c est un peu la legolite sa vie le courant en est le moteur et la fragilite des vaguelettes elles symbolisent son esprit
+ref norm:         la puissance du courant les matins d hiver est la fraicheur qu elle degage les soirs d ete au fond cette riviere c est un peu l allegorie de sa vie le courant en est le moteur et la fragilite des vaglettes elle symbolize son esprit
+
+ ------------------------------------------- 
+
+1.7543859649122806
+line_id 7494188071
+transcript norm:  torture frappe de tous les maux mais emporte quoi qu il puisse faire par la toute puissance de sa destinee au fond cuba cet artiste hors du commun a reussi cet exploit d amadouer les soldats de la fausse chose ceux qu il appelait les cavaliers comprenez la maladie les accidents les guerres et meme le suicide
+ref norm:         torture frappe de tous les maux mais emporte quoi qu il puisse faire par la toute puissance de sa destinee au fond kubin cet artiste hors du commun a reussi cet exploit d amadouer les soldats de la fausse chose ceux qu il appelait les cavaliers comprenez la maladie les accidents les guerres et meme le suicide
+
+ ------------------------------------------- 
+
+10.44776119402985
+line_id 7494197446
+transcript norm:  ces quelques journees d introspection lui ont permis de comprendre ce qui a nourri durant des annees l expression artistique aussi mouvementee qu un ouragan non tant il n a pas reussi a maitriser cette tete en bouille cet esprit vagabond tel a un bordil grand chemin a la recherche d inspiration sans doute parce qu il n avait pas compris au fond ce qui l animait vraiment
+ref norm:         ces quelques journees d introspection lui ont permis de comprendre ce qui a nourri durant des annees une expression artistique aussi mouvementee qu un ouragan longtemps il n a pas reussi a maitriser cette tete en bouillie cet esprit vagabond tel un bandit de grand chemin a la recherche d inspiration sans doute parce qu il n avait pas compris au fond ce qui l animait vraiment
+
+ ------------------------------------------- 
+
+5.405405405405405
+line_id 7494168010
+transcript norm:  c est lorsqu il a fait l acquisition de ce lieu dans lequel il s apprete a mourir aujourd hui qu il a pleinement pris la mesure de ce qu il avait traverse de ce a quoi il avait survecu comme par miracle alors qu il s appretait a basculer dans une folie aussi invisible que tortionnaire c est ce barque et par dessus tout cette batisse a petits tours qui l ont sauve
+ref norm:         c est lorsqu il a fait l acquisition de ce lieu dans lequel il s apprete a mourir aujourd hui qu il a pleinement pris la mesure de ce qu il avait traverse de ce a quoi il avait survecu comme par miracle alors qu il s appretait a basculer dans une folie aussi invisible que torsionnaire c est ce parc et par dessus tout cette batisse a petits tours qui l en sauvait
+
+ ------------------------------------------- 
+
+4.166666666666666
+line_id 7494163625
+transcript norm:  il y a construit avec sa femme un veritable refuge une sorte de maison d accueil aussi pour les autres demons qui l habitent et qui n ont jamais quitte certaines des pieces du chateau sont restees fermees pour toujours personne n a jamais ose les ouvrir
+ref norm:         il y a construit avec sa femme un veritable refuge une sorte de maison d accueil aussi pour les autres demons qui l habitent et qui ne l ont jamais quitte certaines des pieces du chateau sont restees fermees pour toujours personne n a jamais ose les ouvrir
+
+ ------------------------------------------- 
+
+14.583333333333334
+line_id 7494144738
+transcript norm:  ses portes jugees maudites sauf sauf lui ce qu il s y passait restait secret uniquement exprime par un trait de crayon ou de pinceau sur une de ses toiles au cas de ses proches n a jamais pu assister a la realization de son art et de s y refuser
+ref norm:         ces portes jugees maudites sauf lui ce qu il s y passait restait secret uniquement exprime par un trait de crayon ou de pinceau sur une de ses toiles aucun de ses proches n a jamais pu assister a la realization de son art il s y refusait
+
+ ------------------------------------------- 
+
+0.0
+line_id 7494149361
+transcript norm:  pour la bonne raison qu il n etait jamais seul a tenir les instruments lui permettant de s exprimer la mort a travers lui ne cessait de faire passer des messages ce qui lui arrive ce soir au fond n est qu un juste retour des choses
+ref norm:         pour la bonne raison qu il n etait jamais seul a tenir les instruments lui permettant de s exprimer la mort a travers lui ne cessait de faire passer des messages ce qui lui arrive ce soir au fond n est qu un juste retour des choses
+
+ ------------------------------------------- 
+
+4.166666666666666
+line_id 7494193646
+transcript norm:  lorsqu on recoit de cette maniere lorsqu on devient malgre soi le catalyseur d expressions artistiques qui nous depassent il faut un jour donner en retour cubain longtemps avait espere que ce jour arrive enfin il allait pouvoir rejoindre ses proches ayant fait ce long voyage avant lui
+ref norm:         lorsqu on recoit de cette maniere lorsqu on devient malgre soi le catalyseur d expressions artistiques qui nous depassent il faut un jour donner un retour kubin longtemps avait espere que ce jour arrive enfin il allait pouvoir rejoindre ses proches ayant fait ce long voyage avant lui
+
+ ------------------------------------------- 
+
+14.925373134328357
+line_id 7494154809
+transcript norm:  elle n entrera dans la piece que lorsque son vieil ami l y autorisera seule dans cette immense maison dans laquelle n horizont plus que le bruit des horloges les duellistes de ce combat dans l issue ne fait plus aucun doute attendent l un et l autre que les derniers souffles de vie de l artiste s echappent par la fenetre qui donne sur son etat
+ref norm:         elle n entrera dans la piece que lorsque son vieil ami l y autorisera seul dans cette immense maison dans laquelle ne resonne plus que le bruit des horloges les duelistes de ce combat dont l issue ne fait plus aucun doute attendent l un et l autre que le dernier souffle de vie de l artiste s echappe par la fenetre qui donne sur son etang
+
+ ------------------------------------------- 
+
+2.4390243902439024
+line_id 7494132365
+transcript norm:  au bord de ce petit plan d eau qu il a souvent dessine des coassements de batraciens le ramenent a la realite comme des defibrillateurs de sa conscience le cri de ces animaux n empeche de partir attendre encore un peu
+ref norm:         au bord de ce petit plan d eau qu il a souvent dessine des coassements de batraciens le ramenent a la realite comme des defibrillateurs de sa conscience le cri de ces animaux l empeche de partir attendre encore un peu
+
+ ------------------------------------------- 
+
+2.4390243902439024
+line_id 7494176615
+transcript norm:  la lune n est pas encore totalement levee le peintre refuse de partir avant de l avoir vue rien qu une derniere fois un peu plus loin de sa chambre a quelques pas seulement son atelier derriere le mur s active
+ref norm:         la lune n est pas encore totalement levee le peintre refuse de partir avant de l avoir vu rien qu une derniere fois un peu plus loin de sa chambre a quelques pas seulement son atelier derriere le mur s active
+
+ ------------------------------------------- 
+
+17.857142857142858
+line_id 7494124266
+transcript norm:  pinceaux et crayons se reveillent et attendent eux aussi les etoiles l annee noire est le moment propice depuis toujours pour creer transformer transfigurer les visions d artistes ces visions ont commence apres son premier choc post traumatique le 17 samer alors qu il etait petit garcon et n ont jamais cesse depuis
+ref norm:         pinceaux et crayons se reveillent et attendent eux aussi les etoiles la nuit noire est le moment propice depuis toujours pour creer transformer transfigurer les visions de l artiste ses visions ont commence apres son premier choc post traumatique le deces de sa mere alors qu il etait petit garcon et n ont jamais cesse depuis
+
+ ------------------------------------------- 
+
+6.0
+line_id 7494120479
+transcript norm:  sa famille etait maudite comme pourchassee par le mauvais sort son pere a eu ensuite l idee plus que saugrenue d epouser la soeur de sa defunte femme et a subi rapidement un deuxieme deuil sa nouvelle epouse est morte en donnant la vie a la deuxieme soeur de cuba
+ref norm:         sa famille etait maudite comme pourchassee par le mauvais sort son pere a eu ensuite l idee plus que saugrenu d epouser la soeur de sa defaite femme et a subi rapidement un deuxieme deuil sa nouvelle epouse est morte en donnant la vie a la deuxieme soeur de kubin
+
+ ------------------------------------------- 
+
+3.278688524590164
+line_id 7494132520
+transcript norm:  c est a ce moment que le pere aimant qu il avait toujours connu s est laisse envahir par le monstre qu on appelle rancune et par le demon nomme anerctum tout a ete fini a compter de ce jour et le jeune artiste deja orphelin de sa mere a vu sa seule autre figure parentale etre detruite par le deuil
+ref norm:         c est a ce moment que le pere aimant qu il avait toujours connu s est laisse envahir par le monstre qu on appelle rankune et par le demon nomme amertume tout a ete fini a compter de ce jour et le jeune artiste deja orphelin de sa mere a vu sa seule autre figure parentale etre detruite par le deuil
+
+ ------------------------------------------- 
+
+7.894736842105263
+line_id 7494119724
+transcript norm:  traumatize et korchevitch mu par une incomprehension deroutante et devastatrice le petit garcon aux cheveux chatains avait une nuit comme celle ci rencontre la mort pour la toute premiere fois elle fut le premier sujet de ses visions
+ref norm:         traumatisee ecorchee vif mu par une incomprehension deroutante et devastatrice le petit garcon aux cheveux chatains avait une nuit comme celle ci rencontre la mort pour la toute premiere fois elle fut le premier sujet de ses visions
+
+ ------------------------------------------- 
+
+8.620689655172415
+line_id 7494165998
+transcript norm:  premiere et seule amie d une enfant sans portee dans le tourbillon de la souffrance tiens tiens la voila qui rentre maintenant d ailleurs tournee vers la fenetre ouverte le peintre s en sait pas dans son dos elle s approche elle s assoit sur une chaise a proximite du lit elle attend encore un peu avant de saisir
+ref norm:         premiere et seule amie d une enfance emportee dans le tourbillon de la souffrance tiens tiens la voila qui rentre maintenant d ailleurs tournee vers la fenetre ouverte le peintre s en s epain dans son dos elle s approche elle s assoit sur une chaise a proximite du lit elle attend encore un peu avant de saisir
+
+ ------------------------------------------- 
+
+2.857142857142857
+line_id 7494151176
+transcript norm:  la lune arrive au dessus des arbres de la foret toute proche derriere une nuee d oiseaux noirs dont on dirait des corbeaux elle se devoine enfin dans toute sa beaute et sa condeur sa lueur avec force comme pour retenir le peintre et l empecher de mourir eclaire la facade de la maison mais il est trop tard la faucheuse silencieusement cette fois s est relevee tout est termine
+ref norm:         la lune arrive au dessus des arbres de la foret toute proche derriere une nuee d oiseaux noirs dont on dirait des corbeaux elle se devoile enfin dans toute sa beaute et sa candeur sa lueur avec force comme pour retenir le peintre et l empecher de mourir eclaire la facade de la maison mais il est trop tard la faucheuse silencieusement cette fois s est relevee tout est termine
+
+ ------------------------------------------- 
+
+12.5
+line_id 7494153946
+transcript norm:  alfred cuba dans un dernier soubresaut de vie tend sa main vieillie par le poids des annees varussiennes les etoiles elles aussi viennent de faire leur apparition sur le devant de la scene la nuit est magnifique et la moelle ne peut retenir une larme qui coule sur sa joue elle pose doucement sa main sur l epaule de l artiste
+ref norm:         alfred kubin dans un dernier soubresaut de vie tant sa main vieillit par le poids des annees vers le ciel les etoiles elles aussi viennent de faire leur apparition sur le devant de la scene la nuit est magnifique et la mort elle ne peut retenir une larme qui coule sur sa joue elle pose doucement sa main sur l epaule de l artiste
+
+ ------------------------------------------- 
+
+6.557377049180328
+line_id 7494113975
+transcript norm:  son ame elle s est deja enfuie en direction de l etang la vie d alfred cuba que je vous propose aujourd hui de parcourir avec moi est au fond une allegorie de la souffrance comme moteur de travail son art aussi somber puisse t il etre n est pas seulement une representation litterale de ce que l artiste a pu vivre
+ref norm:         son ame elle s est deja enfuie en direction de l etang la vie d alfred kubin que je vous propose aujourd hui de parcourir avec moi est au fond une allegorie de la souffrance comme moteur de travail son art aussi somber puissent ils etre n est pas seulement une representation litterale de ce que l artiste a pu vivre
+
+ ------------------------------------------- 
+
+3.7735849056603774
+line_id 7494140313
+transcript norm:  il s agit meme de tout a fait autre chose la peinture et le dessin bien plus qu un metier nous auront permis de s echapper d un monde pour lequel il n etait pas program ce qui lui permit de nous leguer l un des plus beaux heritages artistiques du siecle dernier
+ref norm:         il s agit meme de tout a fait autre chose la peinture et le dessin bien plus qu un metier lui auront permis de s echapper d un monde pour lequel il n etait pas program ce qui lui permet de nous leguer l un des plus beaux heritages artistiques du siecle dernier
+
+ ------------------------------------------- 
+
+2.564102564102564
+line_id 7494150992
+transcript norm:  plongez avec moi dans les meandres de cet esprit torture pour comprendre ce qui peut animer nos plus grands artistes qui bien souvent sont nes de la souffrance et je vous previens il va falloir vous armer de courage
+ref norm:         plonge avec moi dans les meandres de cet esprit torture pour comprendre ce qui peut animer nos plus grands artistes qui bien souvent sont nes de la souffrance et je vous previens il va falloir vous armer de courage
+
+ ------------------------------------------- 
+
+8.333333333333332
+line_id 7494117656
+transcript norm:  non lui il vient se tuer mort de chagrin les yeux pleins de larmes et il s effondre sur la pierre tombale de sa mere sur laquelle se trouve une rose fanee dans l humidite de la matinee le jeune homme tache son portalon de costume manque de le dechirer en s agenouillant et peu importe gateau tout sera termine
+ref norm:         non non lui il vient se tuer mort de chagrin les yeux pleins de larmes il s effondre sur la pierre tombale de sa mere sur laquelle se trouve une rose fanee dans l humidite de la matinee le jeune homme tache son pantalon de costume manque de le dechirer en s agenouillant mais peu importe bientot tout sera termine
+
+ ------------------------------------------- 
+
+19.148936170212767
+line_id 7494173073
+transcript norm:  or il a pris sa decision mourir est la seule solution qui lui reste pour se debarrasser de cet effroyable etau qui lui presse le crane et ses pensees autour de lui des arbres en fleurs projettent leur ombre sur certaines pierres tombees a l usine terre recouvertes de mousse
+ref norm:         il a pris sa decision mourir est la seule solution qui lui reste pour se debarrasser de cet effroyable eto qui lui presse le crane et ses pensees autour de lui des arbres en fleurs projettent leurs ombres sur certaines pierres tombales du cimetiere recouvertes de mousse
+
+ ------------------------------------------- 
+
+6.493506493506493
+line_id 7494143881
+transcript norm:  et au milieu de cette scene qui au fond traduit le cycle de la vie au milieu des morts alfred cuba incapable de se concentrer sur la beaute des choses qui l entourent est obnubile par des sentiments d injustice et d anxiete il lui creuse l estomac son pistolet dans sa poche et presse par sa main qui se crispe sans cesse un peu plus il voudrait s en sortir mais plus rien n est rationnel
+ref norm:         t au milieu de cette scene qui au fond traduit le cycle de la vie au milieu des morts alfred kubin incapable de se concentrer sur la beaute des choses qui l entourent est omnubile par des sentiments d injustice et d anxiete qui lui creusent l estomac son pistolet dans sa poche et presse par sa main qui se crispe sans cesse un peu plus il voudrait s en sortir mais plus rien n est rationnel
+
+ ------------------------------------------- 
+
+5.357142857142857
+line_id 7494178064
+transcript norm:  ce n est pas a elle de decider qu en prendre les ames qui sont pretes a se sacrifier tout ce qu elle peut faire a son niveau c est attendre la decision de la destinee et quelque chose lui dit que ce n est pas aujourd hui que le jeune cuba se fera sauter la cervelle
+ref norm:         ce n est pas a elle de decider quand prendre les ames qui sont pretes a se sacrifier tout ce qu elle peut faire a son niveau c est attendre la decision de la destinee et quelque chose lui dit que ce n est pas aujourd hui que le jeune kubin se fera sauter la cervelle
+
+ ------------------------------------------- 
+
+3.75
+line_id 7494186381
+transcript norm:  mais il a raison alors que le jeune homme d un coup sec tire l arme de sa poche et se la colle sur la tempe le canon froid contre sa peau il appuie sur la gachette mais il ne mourra pas non l arme s est enrayee juste un cliquetis au milieu des tombes qui fait s envoler les oiseaux les plus proches et et rien d autre juste ses pleurs qui s estompent un peu plus chaque seconde
+ref norm:         elle a raison alors que le jeune homme d un coup sec tire l arme de sa poche et se la colle sur la tempe le canon froid contre sa peau il appuie sur la gachette mais il ne mourra pas non l arme s est enrayee juste un cliquetis au milieu des tombes qui fait s envoler les oiseaux les plus proches et . et rien d autre juste ses pleurs qui s estompent un peu plus chaque seconde
+
+ ------------------------------------------- 
+
+0.0
+line_id 7494137376
+transcript norm:  lorsqu il realize la portee de son geste comme victime d une decompensation le jeune homme regrette aussitot il se sent idiot si bete d avoir pu croire qu il etait en mesure de decider d en finir attire par un bruit derriere lui il se retourne subitement en rangeant precipitamment son pistolet dans sa lampe poche
+ref norm:         lorsqu il realize la portee de son geste comme victime d une decompensation le jeune homme regrette aussitot il se sent idiot si bete d avoir pu croire qu il etait en mesure de decider d en finir attire par un bruit derriere lui il se retourne subitement en rangeant precipitamment son pistolet dans sa lampe poche
+
+ ------------------------------------------- 
+
+10.81081081081081
+line_id 7494115987
+transcript norm:  la mort deja est repartie pour chercher une nouvelle victime alfred cuba lui la meche mal mise et les yeux remplis de larmes se leve passe ses doigts juveniles sur la pierre froide abritant la depouille de sa mele et quitte cet endroit pour lequel il a manque de perdre la vie c est toute l ambivalence de ce destin d instruction toujours tres proche du grand saut mais jamais totalement borde gouffre
+ref norm:         la mort deja est repartie pour chercher une nouvelle victime alfred kubin lui la meche mal mise et les yeux remplis de larmes se leve passe ses doigts juveniles sur la pierre froide abritant la depouille de sa mere et quitte cet endroit dans lequel il a manque de perdre la vie c est toute l ambivalence de ce destin construction toujours tres proche du grand saut mais jamais totalement au bord du gouffre
+
+ ------------------------------------------- 
+
+10.0
+line_id 7494132013
+transcript norm:  pourtant guide par ses idees noires son harry va se perfectionner au milieu de cette armee de sensations disparates et degatees violence rejet et deuil forment generalement des cocktails explosifs qu il ne vaut mieux pas avoir a manipuler
+ref norm:         pourtant guide par ses idees noires son art lui va se perfectionner au milieu de cette armee de sensations disparate et negative violence rejet et deuil forment generalement des cocktails explosifs qu il ne vaut mieux pas avoir a manipuler
+
+ ------------------------------------------- 
+
+6.349206349206349
+line_id 7494180613
+transcript norm:  la jeune femme meurt dans les bras de son mari lequel aveugle par le chagrin va de longues minutes deambuler dans les couloirs de la demeure familiale en portant la depouille de la defunte tout juste decedee voyant sa mere morte bleue et amegree le petit alfred vit la son premier traumatisme entoure des cris de son pere aneanti par une perte si soudaine
+ref norm:         la jeune femme meurt dans les bras de son mari lequel aveugle par le chagrin va de longues minutes deambuler dans les couloirs de la demeure familiale en portant la depouille de la defunte tout juste decedee voyant sa mere morte bleuie et amaigrie le petit alfred vila son premier traumatisme entoure des cris de son pere aneanti par une perte si soudaine
+
+ ------------------------------------------- 
+
+1.694915254237288
+line_id 7494185335
+transcript norm:  cela ne l empechera pas de se remarier moins d un an apres avec la soeur de son ex femme qui elle va mourir lors de son accouchement alfred qui comme son pere a peine a supporter le deces de sa mere devient a ce moment la le souffre douleur du patriarche de la famille brise par le chagrin
+ref norm:         cela ne l empechera pas de se remarier moins d un an apres avec la soeur de son ex femme qui elle va mourir lors de son accouchement alfred qui comme son pere a peine a supporter le deces de sa mere devient a ce moment la le souffre douleur du patriarche de la famille brise par le sanguin
+
+ ------------------------------------------- 
+
+7.792207792207792
+line_id 7494169595
+transcript norm:  ce dernier se renferme sur lui meme et n hesite pas a battre son petit garcon simplement parce qu il joue trop bruyamment ou que ses resultats scolaires ne sont pas juges assez bons rapidement son pere revient meme a se lasser de lui et decide de l envoyer a salzbourg en plein coeur de l autriche le petit garcon deja un cretin mente se retrouve seul dans cette grande ville qu a traversee mozart avant lui
+ref norm:         ce dernier se renferme sur lui meme et n hesite pas a battre son petit garcon simplement parce qu il joue trop bruyamment ou que ses resultats scolaires ne sont pas juges assez bons rapidement son pere en vient meme a se lasser de lui et decide de l envoyer a salzbourg en plein coeur de l autriche le petit garcon deja tres tourmente se retrouve seul dans cette grande ville qu a traverse mozart avant lui
+
+ ------------------------------------------- 
+
+13.333333333333334
+line_id 7494182439
+transcript norm:  le petit garcon deja pretourmente se retrouve seul dans cette grande ville qu a traverse mozart avant lui age de seulement 14 ans ses debuts a l ecole des arts appliques de la ville en font l une des plus belles revelations de sa promotion mais c est professeur d echantillons alfred est meme envoye seulement un an apres son arrivee
+ref norm:         le petit garcon deja tres tourmente se retrouve seul dans cette grande ville qu a traverse mozart avant lui age de seulement 14 ans ses debuts a l ecole des arts appliques de la ville en font l une des plus belles revelations de sa promotion mais ses professeurs dechanduites alfred est meme renvoye seulement un an apres son arrivee
+
+ ------------------------------------------- 
+
+8.19672131147541
+line_id 7494171819
+transcript norm:  il seche les cours fait preuve d insubordination ne rend pas a temps les travaux qui lui sont demandes en bref il perd pied et a coup de pied au face est renvoye a nouveau chez son pere entre temps l homme qui a refait sa vie s est remarie avec une femme qu il deteste avoir l adolescent dans ses pattes
+ref norm:         il seche les cours fait preuve d insubordination ne rend pas a temps les travaux qui lui sont demandes en bref il perd pied et a coups de pied aux fesses est renvoye a nouveau chez son pere entre temps l homme qui a refait sa vie s est remarie avec une femme qui deteste avoir l adolescent dans ses pattes
+
+ ------------------------------------------- 
+
+6.25
+line_id 7494167322
+transcript norm:  elle lui trouvera quand meme un contrat d apprentissage en photographie arc cuba apprecie tout particulierement mais cette fois encore c est rapidement la deception alfred decouvre les effets de l alcool il noie son chagrin l ecole a salzbourg fut pour lui une revelation quant a sa capacite a produire des oeuvres picturales d abord des dessins puis des peintures sur toit
+ref norm:         elle lui trouvera quand meme un contrat d apprentissage en photographie art que kubin apprecie tout particulierement mais cette fois encore c est rapidement la deception alfred decouvre les effets de l alcool il noie son chagrin l ecole a salzbourg fut pour lui une revelation quant a sa capacite a produire des oeuvres picturales d abord des dessins puis des peintures sur toile
+
+ ------------------------------------------- 
+
+5.0
+line_id 7494150388
+transcript norm:  durant son contraire apprentissage entre deux cuites et deux prises d absinthe qui lui grillent les neurones son art se transforme la mort s installe a ses cotes et lui montre le chemin il delure meme quand il est sobre et commence a dessiner des monstres des creatures fantastiques qu il croit voir lui meme dans sa petite chambre
+ref norm:         durant son contrat d apprentissage entre deux cuites et deux prises d absinthe qui lui grillent les neurones son art se transforme la mort s installe a ses cotes et lui montre le chemin il delire meme quand il est sobre et commence a dessiner des monstres des creatures fantastiques qu il croit voir lui meme dans sa petite chambre
+
+ ------------------------------------------- 
+
+6.122448979591836
+line_id 7494191128
+transcript norm:  ces courtes nuits de sommeil peuplees de cauchemars sont des sources d inspiration inepuisables pour ses dessins toujours plus nombreux il produit sans cesse percevant l unique possibilite de se sortir de ce cercle vicieux grace a ses moyens d expression artistique alfred florge parfois mais tient bon toujours
+ref norm:         ses courtes nuits de sommeil peuplees de cauchemars sont des sources d inspiration inepuisable pour ses dessins toujours plus nombreux il produit sans cesse percevant l unique possibilite de se sortir de ce cercle vicieux grace a ses moyens d expression artistique alfred flanche parfois mais tient bon toujours
+
+ ------------------------------------------- 
+
+10.869565217391305
+line_id 7494122041
+transcript norm:  et la faucheuse qui est devenue sa meilleure amie guide sa main elle lui permet d epancher sa colere sa frustration au bout de quelques mois il est renvoye a ses vieux laments car il est toujours saoul lorsqu il arrive le matin pour sa journee de travail
+ref norm:         et la faucheuse qui est devenue sa meilleure amie guide sa main elle lui permet d epancher sa colere sa frustration au bout de quelques mois il est renvoye assez violemment car il est toujours soud lorsqu il arrive le matin pour sa journee de travail
+
+ ------------------------------------------- 
+
+0.0
+line_id 7494114019
+transcript norm:  cette plaie n en sera qu une de plus a encaisser dans une frenesie presque mystique le jeune homme accumule l etoile perfectionne ses monstres et ses univers toujours plus nombreuses ses visions inquietent son entourage qui se demande si finalement le jeune alfred ne serait pas fou
+ref norm:         cette plaie n en sera qu une de plus a encaisser dans une frenesie presque mystique le jeune homme accumule l etoile perfectionne ses monstres et ses univers toujours plus nombreuses ses visions inquietent son entourage qui se demande si finalement le jeune alfred ne serait pas fou
+
+ ------------------------------------------- 
+
+2.380952380952381
+line_id 7494166038
+transcript norm:  il parait presque malsain fuit des gens qui pourtant l ont toujours soutenu et aime il s isole dans cette production delirante defaillante parfois et s enfonce toujours plus dans un cercle concentrique qui parait le conduire tout droit vers l asile
+ref norm:         il parait presque malsain fuit les gens qui pourtant l ont toujours soutenu et aime il s isole dans cette production delirante defaillante parfois et s enfonce toujours plus dans un cercle concentrique qui parait le conduire tout droit vers l asile
+
+ ------------------------------------------- 
+
+9.30232558139535
+line_id 7494154621
+transcript norm:  son plan pourtant est de s en sortir grace a l art de contourner la montagne de souffrance qui envahit son ame telle a un pieu enfonce dans la poitrine d un vampire grace aux bienfaits que lui apporte la peinture et le dessin
+ref norm:         son plan pourtant est de s en sortir grace a l art de contourner la montagne de souffrance qui envahit son ame tel un pieu enfonce dans la poitrine d un vampire grace au bienfait que lui apporte la peinture et le dessin
+
+ ------------------------------------------- 
+
+15.0
+line_id 7494175124
+transcript norm:  a coeur vaillant rien d impossible disait jacques coeur au milieu de la tempete lance a pleine vitesse sur l autoroute de la folie le jeune alfred cubain pourtant donna de cesse de se battre pour son sanctimonial
+ref norm:         a coeur vaillant rien d impossible disait jacques coeur au milieu de la tempete lance a pleine vitesse sur l autoroute de la folie le jeune alfred kubin pourtant n aura de cesse de se battre pour s en sortir
+
+ ------------------------------------------- 
+
+10.714285714285714
+line_id 7494125472
+transcript norm:  oui la tout est fini alfred cuban est mort dans son atelier pinceau et crayon ont arrete de bouger la derniere toile encore sur le chevalet restera inachevee
+ref norm:         oui la tout est fini alfred kubin est mort dans son atelier pinceaux et crayons ont arrete de bouger la derniere toile encore sur le chevalet restera inachevee
+
+ ------------------------------------------- 
+
+0.0
+line_id 7494139564
+transcript norm:  la nuit retombe sur le chateau du peintre et a contrario la lune par sa lumiere penetre avec force par toutes les fenetres l atmosphere du lieu change totalement a l instant meme du depart de son proprietaire
+ref norm:         la nuit retombe sur le chateau du peintre et a contrario la lune par sa lumiere penetre avec force par toutes les fenetres l atmosphere du lieu change totalement a l instant meme du depart de son proprietaire
+
+ ------------------------------------------- 
+
+10.416666666666668
+line_id 5616276240
+transcript norm:  l histoire que je vais vous raconter aujourd hui nous emmene dans la france de l empire du 2nd empire la france de napoleon iii nous sommes en 1858 voici presque 6 ans que le neveu de napoleon ier apres le pouvoir est retabli d empire
+ref norm:         l histoire que je vais vous raconter aujourd hui nous emmene dans la france de l empire du 2nd empire la france de napoleon iii nous sommes en 1858 voici presque 6 ans que le neveu de napoleon ier a pris le pouvoir et a retabli l empire
+
+ ------------------------------------------- 
+
+0.0
+line_id 5616237261
+transcript norm:  mais pas loin de la dans une rue perpendiculaire la rue de jerusalem c est une rue qui a disparu a la suite de l agrandissement du palais de justice paris est en train de changer de visage l empereur veut en faire une capitale digne de ce nom il veut de l ampleur de la grandeur et des rues dans lesquelles les fiacres puissent circuler sans peine des rues dans lesquelles on puisse aussi assurer l ordre sans peine
+ref norm:         mais pas loin de la dans une rue perpendiculaire la rue de jerusalem c est une rue qui a disparu a la suite de l agrandissement du palais de justice paris est en train de changer de visage l empereur veut en faire une capitale digne de ce nom il veut de l ampleur de la grandeur et des rues dans lesquelles les fiacres puissent circuler sans peine des rues dans lesquelles on puisse aussi assurer l ordre sans peine
+
+ ------------------------------------------- 
+
+0.0
+line_id 5616291147
+transcript norm:  la troupe doit pouvoir se deployer plus facilement et faire feu aux besoins l empereur a confie son projet au prefet de la seine haussmann et sous la direction d haussmann paris se transforme profondement
+ref norm:         la troupe doit pouvoir se deployer plus facilement et faire feu aux besoins l empereur a confie son projet au prefet de la seine haussmann et sous la direction d haussmann paris se transforme profondement
+
+ ------------------------------------------- 
+
+4.444444444444445
+line_id 5616277098
+transcript norm:  des rues disparaissent des avenues sourdes des boulevards les rues etroites et les ruelles sinueuses font place peu a peu surtout sur la rive droite de la seine a des avenues larges bien droites bordees d arbres oui paris semble entrer dans la modernite
+ref norm:         des rues disparaissent des avenues s ouvrent des boulevards les rues etroites et les ruelles sinueuses font place peu a peu surtout sur la rive droite de la seine a des avenues larges bien droites bordees d arbres oui paris semble entrer dans la modernite
+
+ ------------------------------------------- 
+
+1.7543859649122806
+line_id 5616213728
+transcript norm:  nous sommes rue de jerusalem et un homme vient de monter dans un fiacre cet homme c est le commissaire claude antoine claude monsieur claude comme on l appelle parfois claude c est le chef de la surete parisienne disons le premier policier de paris il a une cinquantaine d annees il est grand un peu vaute
+ref norm:         nous sommes rue de jerusalem et un homme vient de monter dans un fiacre cet homme c est le commissaire claude antoine claude monsieur claude comme on l appelle parfois claude c est le chef de la surete parisienne disons le premier policier de paris il a une cinquantaine d annees il est grand un peu voute
+
+ ------------------------------------------- 
+
+6.779661016949152
+line_id 5616289985
+transcript norm:  il a deja eu une vie bien remplie une vie de dossiers et d enquetes une vie a traquer le crime les crimes et les criminels il vit dans le soupcon le commissaire claude de maniere presque maladive sans doute voire obsessionnelle la vaudure s eloigne elle prend la direction de la rive gauche par le pont neuf
+ref norm:         il a deja eu une vie bien remplie une vie de dossier et d enquete une vie a traquer le crime les crimes et les criminels il vit dans le soupcon le commissaire claude oui de maniere presque maladive sans doute voire obsessionnelle la voiture s eloigne elle prend la direction de la rive gauche par le pont neuf
+
+ ------------------------------------------- 
+
+3.6363636363636362
+line_id 5616216430
+transcript norm:  le commissaire claude descend de voiture le passager du fiacre voisin fait de meme c est un jeune homme elegant mais vetu comme un provincial avec un par dessus comme on n en voit plus a paris un chapeau une sorte de chapeau de forme a large bord lui aussi il l a entendu
+ref norm:         le commissaire claude descend de voiture le passager du fiacre voisin en fait de meme c est un jeune homme eligant mais vetu comme un provincial avec un par dessus comme on n en voit plus a paris un chapeau une sorte de chapeau de forme a large bord lui aussi il l a entendu
+
+ ------------------------------------------- 
+
+4.761904761904762
+line_id 5616299098
+transcript norm:  sous sa voiture il decouvre un pauvre chien gris avec une prie a la cuisse le cocher l a tire sur le bord de la rue sans menagement claude sourcit un jeune homme s excuse d un geste comme pour dire attendez
+ref norm:         sous sa voiture il decouvre un pauvre chien gris avec une plaie a la cuisse le cocher l a tire sur le bord de la rue sans menagement claude sourcit le jeune homme s excuse d un geste comme pour dire attendez
+
+ ------------------------------------------- 
+
+10.16949152542373
+line_id 5616225873
+transcript norm:  il pond quelque chose dans le fiacre il ouvre une trousse et s agenouille aupres du chien il a les gestes rapides d un homme qui sait ce qu il fait sans un mot d emotion une impression etrange au vil commissaire claude il ne le quitte pas des yeux comme si son visage revelait quelque chose une froideur etrange
+ref norm:         il prend quelque chose dans le fiacre il ouvre une trousse et s agenouille aupres du chien il a les gestes rapides d un homme qui sait ce qu il fait sans la moindre emotion une impression etrange envahit le commissaire claude il ne le quitte pas des yeux comme si son visage revelait quelque chose une froideur etrange
+
+ ------------------------------------------- 
+
+4.166666666666666
+line_id 5616299035
+transcript norm:  le jeune homme vient de renverser une petite fiole dans un coton il l a presse contre la plaie quelques secondes peut etre plus il se redresse il a l air d hesiter est ce qu il a l air satisfait ou embarrasse il a plutot l air gene
+ref norm:         le jeune homme vient de renverser une petite fiole dans un coton il l a presse contre la plaie quelques secondes peut etre plus il se redresse il a l air desite est ce qu il a l air satisfait ou embarrasse il a plutot l air gene
+
+ ------------------------------------------- 
+
+27.906976744186046
+line_id 5616260082
+transcript norm:  le commissaire claude opine mais il y a cette sensation qui ne quitte pas et c est pense ken s en fout ils echangent quelques mots et le jeune provincial lui remet une carte de visite edmond couty docteur en medecine a
+ref norm:         le commissaire claude opine mais il y a cette sensation qui ne le quitte pas et cette pensee qu elle s enfroid ils echangent quelques mots et le jeune provincial lui remet une carte de visite aide moi en coutier docteur en medecine
+
+ ------------------------------------------- 
+
+3.571428571428571
+line_id 5616268377
+transcript norm:  claude repense au petit jeune homme du chiacre et il le peut s empecher de dire a sa femme eh bien voila un garcon qui conquiert le monde son epouse n a pas l air de comprendre elle lui demande ce qu il y aurait de mal pour un jeune medecin a vouloir se faire connaitre
+ref norm:         claude repense au petit jeune homme du fiacre et il ne peut s empecher de dire a sa femme eh bien voila un garcon qui conquiert le monde son epouse n a pas l air de comprendre elle lui demande ce qu il y aurait de mal pour un jeune medecin a vouloir se faire connaitre
+
+ ------------------------------------------- 
+
+0.0
+line_id 5616283938
+transcript norm:  je pourrais ajouter pour completer le commissaire claude un garcon qui conquiert le monde et est pret a tout pour y parvenir mais peut etre est il trop tot si vous le voulez bien cheminons jusqu en juin 1861
+ref norm:         je pourrais ajouter pour completer le commissaire claude un garcon qui conquiert le monde et est pret a tout pour y parvenir mais peut etre est il trop tot si vous le voulez bien cheminons jusqu en juin 1861
+
+ ------------------------------------------- 
+
+12.5
+line_id 5616215800
+transcript norm:  presque trois ans ont passe nous sommes rives droites bruits de grameaux le commissaire m claude est avec son epouse ils sont dans le jardin chez le prefet de police pas le prefet de la seine non pas le baron ossoin non chez le prefet de police enfin c est mme la prefete qui recoit comme il se doit et elle recoit du beau monde
+ref norm:         presque trois ans ont passe nous sommes rive droite couilles de grameau le commissaire monsieur claude est avec son epouse ils sont dans le jardin chez le prefet de police pas le prefet de la seine pas le baron haussmann non chez le prefet de police enfin c est madame la prefete qui recoit comme il se doit et elle recoit du beau monde
+
+ ------------------------------------------- 
+
+0.0
+line_id 5616259420
+transcript norm:  le maire de paris est la bien entendu il y a des deputes un ou deux magistrats des avocats bien sur et il y a au moins un medecin on dirait on dirait que ce n est plus tout a fait un jeune homme il porte la mustache il a les manieres qu il faut
+ref norm:         le maire de paris est la bien entendu il y a des deputes un ou deux magistrats des avocats bien sur et il y a au moins un medecin on dirait on dirait que ce n est plus tout a fait un jeune homme il porte la mustache il a les manieres qu il faut
+
+ ------------------------------------------- 
+
+15.789473684210526
+line_id 5616260233
+transcript norm:  il remet au maitre d hotel un haut de forme et une canne a poumons en argent a ses cotes se tiennent une jeune femme et une dame sans doute la mere de la jeune femme le commissaire la reconnait bien sur qu il la rigole on dirait que tout va bien il contient repare
+ref norm:         il remet au maitre d hotel un haut de forme et une canne a pommeaux en argent a ses cotes se tiennent une jeune femme et une dame sans doute la mere de la jeune femme le commissaire l a reconnu bien sur qu il l a reconnu on dirait que tout va bien il conquiert paris
+
+ ------------------------------------------- 
+
+8.19672131147541
+line_id 5616261853
+transcript norm:  il songe a ce que lui disait sa femme deux ans plus tot curie t il de man pour un jeune medecin a vouloir se faire connaitre et claude ne peut s empecher de le detailler il ne le quitte pas des yeux au point de le laisser paraitre et c est la prefete qu il interpelle en s abrefant
+ref norm:         il songe a ce que lui disait sa femme deux ans plus tot qu y aurait il de mal pour un jeune medecin a vouloir se faire connaitre et claude ne peut s empecher de le detailler il ne le quitte pas des yeux au point de le laisser paraitre et c est la prefete qu il interpelle en s approchant
+
+ ------------------------------------------- 
+
+8.571428571428571
+line_id 5616246552
+transcript norm:  eh bien mon cher commissaire laissez moi vous presenter le comte couty de la pomeraye ainsi que sa jeune fiancee mademoiselle dubezy et sa mere madame dubezy le comte couty de la pomeraye claude salut
+ref norm:         eh bien mon cher commissaire laissez moi vous presenter le comte couty de la pomeree ainsi que sa jeune fiancee mademoiselle dubezy et sa mere madame dubezy le comte couty de la pomeree claude salue
+
+ ------------------------------------------- 
+
+14.285714285714285
+line_id 5616295744
+transcript norm:  il s attit legerement comme ca se fait un petit mouvement presque imperceptible est ce que je n ai pas deja eu l honneur de vous rencontrer monsieur le comte le medecin semble chercher dans sa memoire n ai rien de vigile
+ref norm:         il s incline legerement comme ca se fait un petit mouvement presque imperceptible est ce que je n ai pas deja eu l honneur de vous rencontrer monsieur le comte le medecin semble chercher dans sa memoire mais rien ne lui vient
+
+ ------------------------------------------- 
+
+6.944444444444445
+line_id 5616239167
+transcript norm:  alors le commissaire croit pouvoir le lui rappeler en lui rappelant son ancienne position et ce qu il a reussi a en faire mais nous avons eu un petit accrochage nos fiacres enfin si je puis me permettre j avais pu admirer votre sang froid vous m aviez donne votre carte mais c etait il y a deux ou trois ans peut etre c etait dans une autre vie
+ref norm:         alors le commissaire croit pouvoir le lui rappeler en lui rappelant son ancienne position et ce qu il a reussi a en faire nous avons eu un petit accrochage nos fiacres enfin si je puis me permettre j avais pu admirer votre sang froid vous m aviez donne votre carte mais c etait il y a deux ou trois ans peut etre c etait dans une autre vie tout change si vite
+
+ ------------------------------------------- 
+
+9.090909090909092
+line_id 5616267122
+transcript norm:  le comte couty de la pomeraye la prefete en fait encore l eloge comme il se doit et en fait le premier medecin de paris bientot le premier medecin de paris est ce qu elle est un peu grise elle habite du champagne
+ref norm:         le comte couty de la pommeraie la prefete en fait encore l eloge comme il se doit elle en fait le premier medecin de paris bientot le premier medecin de paris est ce qu elle est un peu grise elle a bu du champagne
+
+ ------------------------------------------- 
+
+7.936507936507936
+line_id 5616258538
+transcript norm:  saviez vous que monsieur le camp de la pommeraye est homeopathe la prefete vante les bienfaits de l homeopathie elle n y comprend rien mais peu importe et puis elle part saluer d autres convives les deux hommes se font la conversation enfin ils essaient le commissaire est un taiseux il n aime pas parler pendant rien dire mais il est interesse
+ref norm:         savez vous que monsieur le comte de la pommerais est homeopathe la prefete vante les bienfaits de l homeopathie elle n y comprend rien mais peu importe et puis elle part saluer d autres convives les deux hommes se font la conversation enfin ils essaient le commissaire est un taiseux il n aime pas parler pour ne rien dire mais il est interesse
+
+ ------------------------------------------- 
+
+8.620689655172415
+line_id 5616291359
+transcript norm:  0 pas par la conversation non non il y a quelque chose il y a quelque chose d autre chez ce prote de la pommeree qui retient son attention il a la mefiance suivie au corps claude il l est guide que par le soupcon mais est ce qu il ne voit pas le mal partout notre commissaire
+ref norm:         0 pas par la conversation non non il y a quelque chose il y a quelque chose d autre chez ce couti de la pomeree qui retient son intention il a la mefiance chevillee au corps claude il n est guide que par le soupcon mais est ce qu il ne voit pas le mal partout notre commissaire
+
+ ------------------------------------------- 
+
+16.0
+line_id 5616233906
+transcript norm:  non parce qu a la fin c est exasperant elle est exasperee mme claude lorsqu il parvient encore a lui faire part de ses doutes sur son mariage mais enfin mon cher antoine vous croyez vraiment qu il epouse la petite dubegie pour son argent elle a peut etre un joli patrimoine mais n en fera tout de meme et puis c est un merveilleux grain et elle n a pas l air commode mme dubegie
+ref norm:         non parce qu a la fin c est exasperant elle est exasperee madame claude lorsqu il parvient encore a lui faire part de ses doutes sur son mariage mais enfin mon cher antoine vous croyez vraiment qu il epouse la petite dubezy pour son argent elle a peut etre un joli patrimoine mais enfin tout de meme et puis sa mere veille au grain et et elle n a pas l air commode madame dubezy
+
+ ------------------------------------------- 
+
+15.942028985507244
+line_id 5616237865
+transcript norm:  ils se recroisent le commissaire claude sa femme et les cotis de la pomme en haie tout le monde y trouve de bonne compagnie on le trouve tellement aimablement alors pourquoi claude ne parvient il pas a faire passer cette sensation etrange qu il ne l a pas quittee depuis ses premieres rencontres fortuites ce chien le medecin etait parvenu a mettre fin a ses jours avec tant de facilite
+ref norm:         ils se recroisent le commissaire claude sa femme et les coutilles de la pomeree tout le monde les trouve de bonne compagnie on le trouve tellement aimable edmond alors pourquoi claude ne parvient il pas a faire passer cette sensation etrange qu il ne l a pas quittee depuis cette premiere rencontre fortuite ce chien le medecin etait parvenu a mettre fin a ses jours avec tant de facilite
+
+ ------------------------------------------- 
+
+4.444444444444445
+line_id 5616234454
+transcript norm:  sans trahir la moindre emotion en fait il ne lui revient pas le docteur couty de la pomeraye et puis est ce qu il n a pas en plus une facon de vouloir se rapprocher de lui de le mettre a son tableau de chasse
+ref norm:         sans trahir la moindre emotion en fait il ne lui revient pas le docteur couti de la pomeree et puis est ce qu il n a pas en plus une facon de vouloir se rapprocher de lui de le mettre a son tableau de chasse
+
+ ------------------------------------------- 
+
+14.000000000000002
+line_id 5616265517
+transcript norm:  en tout cas on dirait est ce que cotis de la pomeree ne voudrait pas se lier avec le chef de la surete parisienne ah ca peut servir quelques mois sont passes nous voici en septembre 1861 les cotis de la pomeree se sont maries quelques semaines plus tot je dirais
+ref norm:         en tout cas on dirait est ce que couti de la pomeree ne voudrait pas se lier avec le chef de la surete parisienne ca peut servir non et quelques mois sont passes nous voici en septembre 1861 les coutis de la pomeree se sont maries quelques semaines plus tot
+
+ ------------------------------------------- 
+
+13.513513513513514
+line_id 5616273299
+transcript norm:  notre medecin edmond finit par lui demander un service mon cher commissaire enfin vous me permettez de vous appeler antoine je suppose mon cher antoine je crois savoir que la charge de medecin des prisons va bientot devenir vacante et je ne vous cache pas que je serai tres heureux d offrir mes services de contribuer a ma facon a l amelioration du sort de ces miserables
+ref norm:         notre medecin edmond finit par lui demander un service mon cher commissaire enfin vous me permettez de vous appeler antoine je suppose mon cher antoine je crois savoir que la charge de medecin des prisons va bientot devenir vacante je ne vous cache pas que je serais tres heureux d offrir mes services de contribuer a ma facon a l amelioration du sort de ces miserables couti de la paume revient de le solliciter
+
+ ------------------------------------------- 
+
+6.0
+line_id 5616293372
+transcript norm:  lui lui le chef de la surete pour obtenir la charge de medecin des prisons de paris une charge disant butile mais qui fait de vous surtout un homme en vue et bien vu dans les cercles mondains et les oeuvres de charite et voila que claude apprend la nouvelle
+ref norm:         lui lui le chef de la surete pour obtenir la charge de medecin des prisons de paris une charge disons utile mais qui fait de vous surtout un homme en vue et bien vu dans les cercles mondains et des oeuvres de charite et voila que claude apprend la nouvelle
+
+ ------------------------------------------- 
+
+11.842105263157894
+line_id 5616211286
+transcript norm:  quelques semaines plus tard nous sommes a la mi octobre 1861 la nouvelle c est sa femme qui la lui apporte en revenant chez eux en fin d apres midi et elle est dans une certaine agitation 0 mon dieu j ai croise que le tilde de la pomme raie a la societe saint thomas elle etait en grandeuil c est tellement subi elle etait en tres bonne sante apparemment mais le commissaire clot ne comprend pas mais qui
+ref norm:         quelques semaines plus tard nous sommes a la mi octobre 1861 la nouvelle c est sa femme qui la lui apporte en revenant chez eux en fin d apres midi et elle est dans une certaine agitation 0 mon dieu j ai croise clotilde de la pomeray a la societe saint thomas elle etait en grand deuil c est tellement subi elle etait en tres bonne sante apparemment le commissaire claude ne comprend pas mais qui
+
+ ------------------------------------------- 
+
+22.972972972972975
+line_id 5616297933
+transcript norm:  de qui parlez vous qui etait en tres bonne sante sa mere la mere du bezi la belle mere ted mose elle est decedee il y a dix ans de jour ma ted ils se sont maries au mois d aout et voila que la belle mere de la pommeur est tombee malade et meurt au debut du mois d octobre alors oui il y pense comment ne pas y penser
+ref norm:         de qui parlez vous qui etait en tres bonne sante mais sa mere la mere du baisy la belle mere d edmond elle est decedee il y a dix et deux jours m a t elle dit ils se sont maries au mois d aout et voila que la belle mere de la pommeraie tombe malade et meurt au debut du mois d octobre alors oui ils y pensent comment ne pas y penser
+
+ ------------------------------------------- 
+
+20.0
+line_id 5616272115
+transcript norm:  quand on est policier qu on voit combien les passions humaines poussent aux pires extremites mais bon dieu il faut qu il chasse cette pensee ah non si tous les ambitieux et les intrigants devaient tuer leur balmaire il sourit claude il se force un peu il faut qu il en sourit de sa manie de voir le mal partout toujours le mal partout
+ref norm:         quand on est policier et qu on voit combien les passions humaines poussent aux pires extremites mais bon dieu il faut qu ils chassent cette pensee alors si tous les ambitieux et les intrigants devaient tuer leur belle mere ils sourient claude ils se forcent un peu il faut qu ils en sourient de sa manie de voir le mal partout toujours le mal partout
+
+ ------------------------------------------- 
+
+12.857142857142856
+line_id 5616293380
+transcript norm:  et quelque chose me dit que ce jeune ambitieux serait pret a beaucoup pour servir ses dessins et tiens voila que sa belle mere decede brusquement le commissaire veille a ne plus parler de ses soupcons a sa femme donc tous les soirs il dine a deux brasselle a manger chauffee par le poele eclairee par les bougies son epouse le trouve tais eux elle le titille gentiment
+ref norm:         et quelque chose lui dit que ce jeune ambitieux serait pret a beaucoup pour servir ses desseins et tiens voila que sa belle mere decede brusquement le commissaire veille a ne plus parler de ses soupcons a sa femme comme tous les soirs il dine a deux dans la salle a manger chauffee par le poil eclairee par les bougies son epouse le trouve tes oeufs elle le titille gentiment
+
+ ------------------------------------------- 
+
+13.846153846153847
+line_id 5616254349
+transcript norm:  vous changez encore a notre conquerant ou vous avez trouve quelqu un d autre pour etancher votre soif a propos vous manquez a tous vos devoirs antoine ah non servez moi encore un peu de vin sa soif sa soif non sa faim de chuchepe sans doute les ressorts de l homme humain il a appris a les connaitre il est d en suppenser notre commissaire
+ref norm:         vous songez encore a notre conquerant ou vous avez trouve quelqu un d autre pour etancher votre soif a propos vous manquez a tous vos devoirs antoine allons servez moi encore un peu de vin sa soif sa soif non sa faim de suspect sans doute les ressorts de l ame humaine il a appris a les connaitre il est dans ses pensees notre commissaire
+
+ ------------------------------------------- 
+
+7.317073170731707
+line_id 5616229601
+transcript norm:  puisqu il ne peut pas s en empecher autant qu il assume non qu il en parle il aura fait son travail son devoir et peut etre qu il se sentira libere de quelque chose on parlait oui mais pas a sa femme le lendemain nous sommes a la morgue de paris sur l ile de la cite quai du marche neuf tout pres de la rue de jerusalem la morgue c est devenu une reaction un but de visite
+ref norm:         puisqu il ne peut pas s en empecher autant qu il l assume non qu il en parle il aura fait son travail son devoir et peut etre qu il se sentira libere de quelque chose en parler oui mais pas a sa femme le lendemain nous sommes a la morgue de paris sur l ile de la cite qu est du marche neuf tout pres de la rue de jerusalem la morgue c est devenu une attraction un but de visite
+
+ ------------------------------------------- 
+
+13.88888888888889
+line_id 5616287044
+transcript norm:  pour les parisiens mais pas seulement comme toujours il y a du mort des mats d eau le spectacle est etrange il est morbide il ne cesse d attirer derriere ces gants de vitre etendus sur la dalle comme on dit il y a les corps denoyes les repeches de la seine il y a ces corps qu on expose au public pour qu on puisse les reconnaitre le commissaire claude vient d arriver
+ref norm:         pour les parisiens mais pas seulement comme toujours il y a du monde des badaux le spectacle est etrange il est morbide il ne cesse d attirer derriere ces grandes vitres etendues sur la dalle comme on dit il y a les corps des noyes les repeches de la seine il y a ces corps qu on expose au public pour qu on puisse les reconnaitre le commissaire claude vient d arriver
+
+ ------------------------------------------- 
+
+16.27906976744186
+line_id 5616268893
+transcript norm:  un medecin en blouse blanche suit des inapateres votre blouse commissaire ce medecin c est un medecin legiste il ne se n est pas le premier venu il s appelle ambroise tardieu c est le doyen de la faculte de medecine de paris
+ref norm:         un medecin en blouse blanche lui designe la patere votre blouse commissaire ce medecin c est un medecin legiste et ce n est pas le premier venu il s appelle ambroise tardieu c est le doyen de la faculte de medecine de paris
+
+ ------------------------------------------- 
+
+3.7037037037037033
+line_id 5616274464
+transcript norm:  il enseigne la medecine legale et il a des centaines non il a des milliers d autopsies derriere lui d habitude il se voit le commissaire elu autour d un cadavre je veux dire pour un dossier avec une enquete mais aujourd hui le commissaire claude n est pas la pour une enquete
+ref norm:         il enseigne la medecine legale et il a des centaines non il a des milliers d autopsies derriere lui d habitude il se voit le commissaire et lui autour d un cadavre je veux dire pour un dossier avec une enquete mais aujourd hui le commissaire claude n est pas la pour une enquete
+
+ ------------------------------------------- 
+
+8.47457627118644
+line_id 5616261979
+transcript norm:  il a saisi son scalpel fait une incision en ongles du bas de l abdomen jusqu en haut de la poitrine il a la fessie tout haut pour repondre a votre question en des termes simples commissaire je vous dirais oui les signes d un empoisonnement peuvent parfaitement ressembler a ceux que donnent d autres affections aux symptomes d une maladie naturelle
+ref norm:         il a saisi son scalpel fait une incision longue du bas de l abdomen jusqu en haut de la poitrine il reflechit tout haut pour repondre a votre question en des termes simples commissaire je vous dirais oui les signes d un empoisonnement peuvent parfaitement ressembler a ceux que donnent d autres affections aux symptomes d une maladie naturelle
+
+ ------------------------------------------- 
+
+6.666666666666667
+line_id 5616290689
+transcript norm:  il a reflechi encore si j osais commissaire je me poserais une autre question mais c est sans doute votre domaine et pas le mien pour qu il y ait empoisonnement je veux dire empoisonnement volontaire il faudrait qu il y ait un mobile comme on dit non est ce qu il y a un mobile votre empoisonneur ou votre empoisonneuse
+ref norm:         il reflechit encore si j osais commissaire je me poserais une autre question mais c est sans doute votre domaine et pas le mien mais pour qu il y ait empoisonnement je veux dire empoisonnement volontaire il faudrait qu il y ait un mobile comme on dit non est ce qu il a un mobile votre empoisonneur ou votre empoisonneuse
+
+ ------------------------------------------- 
+
+5.88235294117647
+line_id 5616235197
+transcript norm:  ah mobile est ce que le docteur couty de la pomeray aurait eu une raison de tuer sa belle mere claude a envie de sourire voila qu il pense brusquement a sa propre belle mere feu sa belle mere disparue depuis plusieurs annees morte de sa belle mere comme on dit
+ref norm:         un mobile est ce que le doctor couty de la pomeree aurait eu une raison de tuer sa belle mere claude a envie de sourire voila qu il pense brusquement a sa propre belle mere feu sa belle mere disparue depuis plusieurs annees morte de sa belle mere comme on dit
+
+ ------------------------------------------- 
+
+14.285714285714285
+line_id 5616219818
+transcript norm:  le gommisere en se posant la question en la formulant se dit qu il s est donne un jet etrange et que cherche t il pourquoi faut il qu il perde son temps avec ca pourtant il y a ce soupcon nichu cette pensee qui ne quitte pas
+ref norm:         le commissaire en se posant la question en la formulant se dit qu il s adonne a un jeu etrange mais que cherche t il pourquoi faut il qu il perde son temps avec ca pourtant il y a ce soupcon diffus cette pensee qui ne le quitte pas
+
+ ------------------------------------------- 
+
+6.0606060606060606
+line_id 5616288826
+transcript norm:  il perd son temps avec ca et c est le procureur imperial qui va le lui rappeler il est convoque quelques jours plus tard nous sommes au palais de justice sur l ile de la cite dans le cabinet du procureur imperial savez vous qui j ai rencontre hier commissaire le procureur en laisse sa question en suspens bien sur qu il n en sait rien commissaire
+ref norm:         il perd son temps avec ca et c est le procureur imperial qui va le lui rappeler il est convoque quelques jours plus tard nous sommes au palais de justice sur l ile de la cite dans le cabinet du procureur imperial savez vous qui j ai rencontre hier commissaire le procureur laisse sa question suspend bien sur qu il n en sait rien le commissaire
+
+ ------------------------------------------- 
+
+10.843373493975903
+line_id 5616231445
+transcript norm:  c est sa maniere au procurat imperial de lui faire comprendre qui va diriger leur entretien le d auteur de mme dubezy de feu mme dubezy il m a parle de la petite entrevue que vous avez vu ensemble ca n etait qu un tout petit mot trois fois rien le commissaire et le notaire s etaient croises a la societe saint thomas claude avait demande au notaire enfin il etait parvenu a faire glisser la conversation sur les cotes de la pommail doucement
+ref norm:         c est sa maniere au procureur imperial de lui faire comprendre qui va diriger leur entretien le notaire de madame dubezy de feu madame dubezy il m a parle de la petite entrevue que vous avez eue ensemble ce n etait qu un tout petit mot trois fois rien le commissaire et le notaire s etaient croises a la societe saint thomas claude avait demande au notaire enfin il etait parvenu a faire glisser la conversation sur les coutilles de la pommerelle doucement
+
+ ------------------------------------------- 
+
+10.344827586206897
+line_id 5616247212
+transcript norm:  et il avait sans doute dit ou demande il ne sait plus il a fait un beau mariage couty de la pomeraye ou est ce qu il a fait un beau mariage couty de la pomeraye qu est ce qu il esperait que le notaire s etende sur l etat du patrimoine des couty sur celui de la belle mere peut etre oui vraiment le commissaire s est laissant porter par ses obsessions on dirait que plus rien ne peut le retenir mais jusqu ou il va aller
+ref norm:         et il avait sans doute dit ou demande il ne sait plus il a fait un beau mariage coutilles de la pommerelle ou est ce qu il a fait un beau mariage coutilles de la pommerelle qu est ce qu il esperait que le notaire s etende sur l etat du patrimoine des coutilles sur celui de la belle mere peut etre oui vraiment le commissaire se laisse emporter par ses obsessions on dirait que plus rien ne peut le retenir mais jusqu ou il va aller
+
+ ------------------------------------------- 
+
+10.869565217391305
+line_id 5616223225
+transcript norm:  il va deja trop loin et il le sait oui et le procureur imperial est en train de le lui raper et fermement vous dirigez la surete d accord mais evitez donc de porter vos soupcons n importe ou donne la pombray un homme dans sa position pour si peu c est un medecin tres en vue alors qu aurait il besoin de plus pour precipiter un heritage et si vous alliez remuer les bafous de paris plutot du cote des halles ou du cote de la rue mouffetard
+ref norm:         il va deja trop loin et il le sait et le procureur imperial est en train de le lui rappeler et fermement vous dirigez la surete d accord mais evitez donc de porter vos soupcons n importe ou de la pombray un homme dans sa position pour si peu ces affaires vont bien c est un medecin tres en vue alors qu aurait il besoin de plus pour precipiter un heritage et si vous allez remuer les baffons de paris plutot du cote des halles ou du cote de la rue mouftar
+
+ ------------------------------------------- 
+
+4.918032786885246
+line_id 5616233820
+transcript norm:  et puis le procureur hausse les epaules il change de ton on dirait qu il s inquiete pour lui alors commissaire vous etes fatigue cher ami vous savez que la mode est au bas on ne parle que de dieppe et de ses barres de mer en ce moment alors si vous allez vous opposer un petit peu avec votre dame
+ref norm:         et puis le procureur hausse les epaules il change de ton on dirait qu il s inquiete pour lui allons commissaire vous etes fatigue cher ami vous savez que la mode est au bain on ne parle que de dieppe et de ses barres de mer en ce moment alors si vous allez vous reposer un petit peu avec votre dame
+
+ ------------------------------------------- 
+
+2.631578947368421
+line_id 5616246423
+transcript norm:  c est un agent d une compagnie d assurance la compagnie du phenix l homme vient sans certitude il veut disons partager ses doutes ses doutes sur un sinistre comme on dit dans les compagnies d assurance un sinistre une dame qui avait pris une assurance sur la vie et qui vient de mourir enfin quelques jours plus tot 15 jours plus tot environ une assurance vie prise par une dame c est ca ah bon
+ref norm:         c est un agent d une compagnie d assurance la compagnie du phoenix l homme vient sans certitude il veut disons partager ses doutes ses doutes sur un sinistre comme on dit dans les compagnies d assurance un sinistre une dame qui avait pris une assurance sur la vie et qui vient de mourir enfin quelques jours plus tot quinze jours plus tot environ une assurance vie prise par une dame c est ca ah bon
+
+ ------------------------------------------- 
+
+11.267605633802818
+line_id 5616282159
+transcript norm:  et la dame meurt et il y a un capital a verser a un beneficiaire ou a plusieurs beneficiaires c est ca eh bien c est le bien service qu une compagnie comme la votre doit offrir non qu est ce que ca nous concerne nous alors alors quoi est ce qu il avait reussi a le contenir a le maitriser son porchant obsessionnel pour le soupcon
+ref norm:         et la dame meurt et il y a un capital a verser a un beneficiaire ou a plusieurs beneficiaires c est ca eh bien c est bien le service qu une compagnie comme la votre doit offrir non en quoi est ce que ca nous concerne nous alors alors quoi est ce que est ce qu il avait reussi a le contenir a le maitriser son penchant obsessionnel pour le soupcon
+
+ ------------------------------------------- 
+
+3.8834951456310676
+line_id 5616275199
+transcript norm:  mais cette dame etait tres bien portante commissaire le medecin de notre compagnie l a examinee et elle etait en tres bonne sante et elle est tombee malade brusquement alors qu est ce que vous voulez ce sont des choses qui arrivent n est ce pas le commissaire n a pas l air de les porter dans son coeur les compagnies d assurance et leurs agents il ne lui avait pas laisse le temps de finir m claude l homme qui vivait du soupcon qui respirait dans le soupcon ou est il il parvient a mieux maitriser sa nature le commissaire
+ref norm:         mais cette dame etait tres bien portante commissaire le medecin de notre compagnie l a examine et elle etait en tres bonne sante oui et elle est tombee malade brusquement alors qu est ce que vous voulez hein ce sont des choses qui arrivent n est ce pas le commissaire n a pas l air de les porter dans son coeur les compagnies d assurance et leurs agents il ne lui avait pas laisse le temps de finir monsieur claude l homme qui vivait du soupcon qui respirait dans le soupcon ou est il il parvient a mieux maitriser sa nature le commissaire
+
+ ------------------------------------------- 
+
+2.380952380952381
+line_id 2475468991
+transcript norm:  nous sommes le 26 novembre 1922 a luxor c est dans une vallee d egypte en plein desert a quelques centaines de kilometers du caire que commence notre recit cette vallee se situe a l ouest d une ile la ou le soleil disparait a l ouest de ce fleuve qui a inspire aux anciens egyptiens une mythologie riche une nouvelle facon de penser l au dela nous sommes dans la vallee des rois une vallee qui depuis des millenaires appartient au boireau
+ref norm:         nous sommes le 26 novembre 1922 a luxor c est dans une vallee d egypte en plein desert a quelques centaines de kilometers du caire que commence notre recit cette vallee se situe a l ouest d une ile la ou le soleil disparait a l ouest de ce fleuve qui a inspire aux anciens egyptiens une mythologie riche et une nouvelle facon de penser l au dela nous sommes dans la vallee des rois une vallee qui depuis des millenaires appartient au mort
+
+ ------------------------------------------- 
+
+9.803921568627452
+line_id 2475461258
+transcript norm:  sous le sable plus de soixante tombes des hypogees des rois prestiges des reines des princes et de houdinitaires sous le sable des demeures d eternite telle mine d or cette majestueuse necropole a ete pillee exploree eventree et nul ne peut douter qu il reste encore des tresors
+ref norm:         sous le sable plus de 60 tombes des hypogees des rois prestigieux des reines des princes et de hauts dignitaires sous le sable des demeures d eternite telle une mine d or cette majestueuse necropole a ete pillee exploree eventree et nul ne peut douter qu il reste encore des tresors
+
+ ------------------------------------------- 
+
+16.176470588235293
+line_id 2475432783
+transcript norm:  pourtant en ce jour du 26 novembre sous une chaleur accablante une chaleur qui ne laisse aucun repit aux hommes qui travaillent armes des ouvriers et des tentes pioche un homme a l air perdu s epoche le front avec son foulard il porte avec lui du materiel photographique qui l est peu desoriente il faut dire qu il est parti a la hate apres avoir aussi un tenegraal
+ref norm:         pourtant en ce jour du 26 novembre sous une chaleur accablante une chaleur qui ne laisse aucun repit aux hommes qui travaillent parmi les ouvriers les tantes les pioches un homme a l air perdu s eponge le front avec son foulard il porte avec lui du materiel photographique il est peu desoriente il faut dire qu il est parti a la hate apres avoir recu un telegramme
+
+ ------------------------------------------- 
+
+14.285714285714285
+line_id 2475415108
+transcript norm:  a sa lecture il n a pas hesite il a rassemble ses affaires en quelques minutes et sans reflechir au long periple qui l attendait s est precipite au port pour prendre le premier bateau comment l a t il pu refuser cette mention
+ref norm:         a sa lecture il n a pas hesite il a rassemble ses affaires en quelques minutes et sans reflechir au long periple qu il attendait s est precipite au port pour prendre le premier bateau comment aurait il pu refuser cette mission
+
+ ------------------------------------------- 
+
+11.428571428571429
+line_id 2475429584
+transcript norm:  il fait un tour sur lui meme et il regarde autour de lui cette vaste plaine le soleil brule et le sable pique les yeux il se dit alors que vu du ciel cet endroit doit ressembler a une immense fourmiliere et certains jours aussi a l enfer on voit trois silhouettes se dessinent dans la poussiere deux hommes et une femme marchent le va presser sans echanger une parole
+ref norm:         il fait un tour sur lui meme et regarde autour de lui cette vaste plaine le soleil brule et le sable lui pique les yeux il se dit alors que vu du ciel cet endroit doit ressembler a une immense formeliere et certains jouent aussi a l enfer au loin trois silhouettes se dessinent dans la poussiere deux hommes et une femme marchent le pas presse sans echanger une parole
+
+ ------------------------------------------- 
+
+5.88235294117647
+line_id 2475463914
+transcript norm:  chacun dans ses pensees celui qui marche le plus vite c est howard carter un explorateur anglais de quarante huit ans dans son pays c est un homme de son temps de la belle epoque
+ref norm:         chacun dans ses pensees celui qui marche le plus vite c est howard carter un explorateur anglais de 48 ans dans son pays c est un homme de son temps de la belle epoque
+
+ ------------------------------------------- 
+
+9.230769230769232
+line_id 2475453027
+transcript norm:  il est gant avec sa redingote son chapeau de forme sa montre a gousser et sa mustache bien soignee mais dans cette vallee sous le cagnard c est un autre homme qui n hesite pas a mouiller sa chemise et a creuser la terre comme un vulgaire chercheur d or sans depit depuis trente ans il a cherche fouille pioche creuse pour trouver des traces du passe
+ref norm:         elegant avec sa redingote son chapeau de forme sa montre a gousser et sa mustache bien soignee mais dans cette vallee sous le cagnard c est un autre homme qui n hesite pas a mouiller sa chemise et a creuse la terre comme un vulgaire chercheur d or sans repit depuis 30 ans il a cherche fouille pioche creuse pour trouver des traces du passe
+
+ ------------------------------------------- 
+
+2.0
+line_id 2475489860
+transcript norm:  on le dit caracteriel il a peu d amis il n est pas marie ce n est pas vraiment un intellectuel il n est pas egyptologue de formation mais pour mieux fouiller pour mieux se rapprocher de son reve il est pret a tout et il apprend l arabe
+ref norm:         0 on le dit caracteriel il a peu d amis il n est pas marie ce n est pas vraiment un intellectuel il n est pas egyptologue de formation mais pour mieux fouiller pour mieux se rapprocher de son reve il est pret a tout et il apprend l arabe
+
+ ------------------------------------------- 
+
+3.7037037037037033
+line_id 2475482659
+transcript norm:  comment en est il arrive a ce destin hors normes fils d un dessinateur animalier et paysagiste il a herite des talents de dessinateur de son pere tres jeune alors qu il etait de sante fragile et scolarise chez lui il a recopie a l aquarelle des fresques de tombes egyptiennes pour un egyptologue
+ref norm:         comment n est il arrive a ce destin hors norme fils d un dessinateur animalier et paysagiste il a herite des talents de dessinateur de son pere tres jeune alors qu il etait de sante fragile et scolarise chez lui il a recopie a l aquarelle des fresques de tombes egyptiennes pour un egyptologue
+
+ ------------------------------------------- 
+
+10.0
+line_id 2475431719
+transcript norm:  il a du mal a suivre le pas rapide de carter c est que grievement blesse dans un accident de voiture une vingtaine d annees auparavant il en a garde les sequelles il s est l heure de sa reeducation qu il s est passionne pour la photographie et l archeologie
+ref norm:         il a du mal a suivre le pas rapide de carter c est que grevement blesse dans un accident de voiture une vingtaine d annees auparavant il en a garde les sequelles et c est lors de sa reeducation qu il s est passionne pour la photographie et l archeologie
+
+ ------------------------------------------- 
+
+7.042253521126761
+line_id 2475461852
+transcript norm:  le climat chaud de l egypte pourrait meme lui etre benefique lui a dit son medecin c est ainsi que cet homme de la haute aristocratie a commence a investir son immense fortune dans des fouilles archeologiques et a devenir le mecene de carter ce monsieur d une soixantaine d annees qui s appelait sur le bras de sa fille lady evelyn n est autre que george edward aston hope molyneux herbert
+ref norm:         le climat chaud de l egypte pourrait meme lui etre benefique lui a dit son medecin c est ainsi que cet homme de la haute aristocratie a commence a investir son immense fortune dans des fouilles archeologiques et a devenir le mecene de carter ce monsieur d une soixantaine d annees qui s appuie sur le bras de sa fille ledie evelyn n est autre que george edward stanhope mollineux herbert
+
+ ------------------------------------------- 
+
+9.333333333333334
+line_id 2475436941
+transcript norm:  carnarvon lui construit une maison et depense des dizaines de 1000000s de francs pour commencer les fouilles alors c est dans cette vallee celle des rois celle dont on leur dit qu il n y a plus rien a esperer ou tout a deja ete pille retourne et ou son predecesseur le celebre archeologue davis a declare avec certitude que plus aucune tombe ne pouvait y etre trouvee qu il rejetait leur devaluee
+ref norm:         carnavon lui construit une maison et l expense des dizaines de 1000000s de francs pour commencer les fouilles alors c est dans cette vallee celle des rois celle dont on leur dit qu il n y a plus rien a esperer ou tout a deja ete pille retourne et ou son predecesseur le celebre archeologue davis a declare avec certitude que plus aucune tombe ne pouvait y etre trouvee qu ils vont jeter leur devolu
+
+ ------------------------------------------- 
+
+19.51219512195122
+line_id 2475492839
+transcript norm:  et c est desormais a deux que de facon obsessionnelle acharnee ils l ont cherche celui qui dans les archives voit son nom oublie le pharaon toutankhamon howard carter attend avec inquietude et impatience lord carnarvon depuis plus de quinze jours il sait que son mycene est fatigue et mecontent de perdre son argent depuis des annees dans des foules sans resultat lord carnarvon ne peut plus suivre et il n a plus l intention de financer sa recherche
+ref norm:         et c est desormais a deux que de facon obsessionnelle acharnee ils vont chercher celui qui dans les archives voit son nom oublie le pharaon toutankhamon howard carter attend avec inquietude et impatience l or de carnavon depuis plus de quinze jours il sait que son mission est fatiguee et mecontent de perdre son argent depuis des annees dans des fouilles sans resultat l or de carnavon ne peut plus suivre et il n a plus l intention de financer ses recherches
+
+ ------------------------------------------- 
+
+4.411764705882353
+line_id 2475435525
+transcript norm:  l apres guerre est difficile meme pour les aristocrates il faut a carter toute sa force de persuasion pour que carnarvon lui accorde encore un an de subsides afin d explorer cette ultime petite partie de la vallee et carter veut y croire meme si jusqu alors les milliers de tons de pierres deplacees et cinq ans de travail ereintant n ont devoile que quelques pots d argile
+ref norm:         l apres guerre est difficile meme pour les aristocrates il faut a carter toute sa force de persuasion pour que carnavon lui accorde encore un an de subside afin d explorer cette ultime petite partie de la vallee et carter veut y croire meme si jusqu alors les milliers de tons de pierres deplacees et cinq ans de travail ereintants n ont devoile que quelques pots d argile
+
+ ------------------------------------------- 
+
+6.8181818181818175
+line_id 2475428132
+transcript norm:  c est ainsi qu est nee sa passion pour l egypte ou il se rendra des l age de 18 ans tres vite il comprend en observant et en travaillant pour les chercheurs de tresors qu il veut lui aussi tenter sa chance
+ref norm:         et c est ainsi qu a nait sa passion pour l egypte ou il se rendra des l age de 18 ans tres vite il comprend en observant et en travaillant pour les chercheurs de tresors qu il veut lui aussi tenter sa chance
+
+ ------------------------------------------- 
+
+8.0
+line_id 2475451962
+transcript norm:  en attendant pour survivre il vend ses aquarelles aux touristes mais il imagine sa vie autrement et l homme qui marche a cote du carter est plus age et il semble eprouve par son voyage recent lui qui a pourtant beaucoup voyage dans sa vie sa demarche n est pas aisee
+ref norm:         en attendant pour survivre il vend ses aquarelles aux touristes mais il imagine sa vie autrement et l homme qui marche a cote de carter est plus age il semblait prouve par son voyage recent lui qui a pourtant beaucoup voyage dans sa vie sa demarche n est pas aisee
+
+ ------------------------------------------- 
+
+5.555555555555555
+line_id 4329852166
+transcript norm:  astrid princesse de suede meurt le 29 aout 1935 a kosnacht en suisse suite a un accident de voiture son epoux le roi des belges leopold iii etait au volant il s en sort presque independant
+ref norm:         astrid princesse de suede meurt le 29 aout 1935 a kusnacht en suisse suite a un accident de voiture son epoux le roi des belges leopold iii etait au volant il s en sort presque indemne
+
+ ------------------------------------------- 
+
+4.10958904109589
+line_id 4329821872
+transcript norm:  incapable d annoncer lui meme la mort d astride a ses enfants leopold iii a charge une proche de la famille royale la comtesse de voix de blic de le faire a sa place pour la princesse josephine charlotte et le prince baudouin la nouvelle du deces inopine de leur mere est un choc immense seul le prince albert age de quinze mois a peine ne mesure pas la gravite de l evenement
+ref norm:         incapable d annoncer lui meme la mort d astrid a ses enfants leopold iii a charge une proche de la famille royale la comtesse de roi de bliqui de le faire a sa place pour la princesse josephine charlotte et le prince baudouin la nouvelle du deces inopine de leur mere est un choc immense seul le prince albert age de quinze mois a peine ne mesure pas la gravite de l evenement
+
+ ------------------------------------------- 
+
+11.11111111111111
+line_id 4329829352
+transcript norm:  astrid princesse de suede meurt le aout a kusnacht en suisse suite a un accident de voiture son epoux le roi des belges leopold iii etait au volant il s en sauve presque
+ref norm:         astrid princesse de suede meurt le 29 aout 1935 a kusnacht en suisse suite a un accident de voiture son epoux le roi des belges leopold iii etait au volant il s en sort presque indemne
+
+ ------------------------------------------- 
+
+1.4492753623188406
+line_id 4329883569
+transcript norm:  cette epreuve cruelle et doumoureuse pour les enfants royaux renforcera a jamais les liens qui les unissent quatre jours apres les funerailles de sa maman le 7 septembre 1935 le jeune baudouin a cinq ans depuis qu il a appris qu il ne la reverrait jamais le petit garcon pleure beaucoup et fait des cauchemars il trouve du reconfort dans la priere en s adressant a la vierge marie
+ref norm:         cette epreuve cruelle et douloureuse pour les enfants royaux renforcera a jamais les liens qui les unissent quatre jours apres les funerailles de sa maman le 7 septembre 1935 le jeune baudouin a cinq ans depuis qu il a appris qu il ne la reverrait jamais le petit garcon pleure beaucoup et fait des cauchemars il trouve du reconfort dans la priere en s adressant a la vierge marie
+
+ ------------------------------------------- 
+
+2.564102564102564
+line_id 4329823609
+transcript norm:  beaudoin gardera toute sa vie une grande devotion envers la vierge a laquelle il s adresse constamment dans ses prieres en 1984 soit pres de 50 ans apres la mort de sa mere il ecrit dans son journal spirituel
+ref norm:         baudouin gardera toute sa vie une grande devotion envers la vierge a laquelle il s adresse constamment dans ses prieres en 1984 soit pres de 50 ans apres la mort de sa mere il ecrit dans son journal spirituel
+
+ ------------------------------------------- 
+
+4.878048780487805
+line_id 4329812746
+transcript norm:  revenons a l enfance de baudouin apres le deces de la reine astrid leopold iii quitte le chateau du stuyvenberg ou il vivait avec feu son epouse et s installe avec ses enfants au chateau de laken nous sommes en 1936
+ref norm:         revenons a l enfance de baudouin apres le deces de la reine astrid leopold iii quitte le chateau du steuvenberg ou il vivait avec feu son epouse et s installe avec ses enfants au chateau de laeken nous sommes en 1936
+
+ ------------------------------------------- 
+
+4.166666666666666
+line_id 4329867107
+transcript norm:  baudouin albert et josephine charlotte sont prises en charge par un gouverneur le vicomte gassien du parc loc maria un homme de la vieille ecole ardent defenseur d une education a l anglaise pour qui rigueur discipline et responsabilite ne sont pas de vingt mots la tendresse et l affection baudouin les trouvera chez marguerite de young une jeune hollandaise engagee pour lui apprendre le neerlandais elle devient tres vite sa gouvernante
+ref norm:         baudouin albert et josephine charlotte sont pris en charge par un gouverneur le vicomte gacien du parc loc maria un homme de la vieille ecole ardent defenseur d une education a l anglaise pour qui rigueur discipline et responsabilite ne sont pas de vingt mots la tendresse et l affection baudouin les trouvera chez marguerite de jong une jeune hollandaise engagee pour lui apprendre le neerlandais elle devient tres vite sa gouvernante
+
+ ------------------------------------------- 
+
+0.0
+line_id 4329861224
+transcript norm:  marguerite de young aide baudouin a surmonter le chagrin cause par la perte de sa maman elle l accompagne partout en belgique et pendant les vacances a l etranger elle est egalement presente lors de ceremonies officielles auxquelles baudouin en tant que prince heritier se doit de participer bien malgre lui
+ref norm:         marguerite de young aide baudouin a surmonter le chagrin cause par la perte de sa maman elle l accompagne partout en belgique et pendant les vacances a l etranger elle est egalement presente lors de ceremonies officielles auxquelles baudouin en tant que prince heritier se doit de participer bien malgre lui
+
+ ------------------------------------------- 
+
+2.7777777777777777
+line_id 4329899927
+transcript norm:  les relations entre baudouin et leopold iii sont en revanche moins chaleureuses baudouin est tres impressionne par ce pere aimant mais severe voire autoritaire qui n hesite pas a lui remonter la bretelle lorsque les notes de son bulletin scolaire laissent a desirer un pere a l humeur maussade melancolique durablement marque par la perte de son epouse et absent la plupart du temps tres accapare par les devoirs de sa fonction
+ref norm:         les relations entre baudouin et leopold iii sont en revanche moins chaleureuses baudouin est tres impressionne par ce pere aimant mais severe voire autoritaire qui n hesite pas a lui remonter les bretelles lorsque les notes de son bulletin scolaire laissent a desirer un pere a l humeur maussade melancolique durablement marque par la perte de son epouse et absent la plupart du temps tres accapare par les devoirs de sa fonction
+
+ ------------------------------------------- 
+
+6.578947368421052
+line_id 4329878199
+transcript norm:  maintenu a l ecart de la vie reelle baudouin ne va pas a l ecole il suit des cours particuliers au chateau de la cune ou une salle de classe a ete amenagee gassien duparc dispense les lecons d anglais paul paling s occupe des sciences et des mathematiques trois camarades de classe sont choisis pour reconstituer autour de baudouin un succes d annees de vie scolaire parmi eux il y a charles de jambline de meuse
+ref norm:         maintenu a l ecart de la vie reelle baudouin ne va pas a l ecole il suit des cours particuliers au chateau de laeken ou une salle de classe a ete amenagee gatien duparc dispense les lecons d anglais paul palink s occupe des sciences et des mathematiques trois camarades de classe sont choisis pour reconstituer autour de baudouin un succes d annees de vie scolaire parmi eux il y a charles de jambline de meux
+
+ ------------------------------------------- 
+
+10.0
+line_id 4329890724
+transcript norm:  le jeune prince recoit un totem elan loyal l experience du scoutisme enchante baudouin se frotter aux autres vivre au grand air loin des contraintes de la cour et du protocole contribue a le faire sauvedir de sa reserve
+ref norm:         le jeune prince recoit un totem et l enloyale l experience du scoutisme enchante baudouin se frotter aux autres vivre au grand air loin des contraintes de la cour et du protocole contribue a le faire sortir de sa reserve
+
+ ------------------------------------------- 
+
+6.25
+line_id 4329847377
+transcript norm:  arrive le mois de mai 1940 boudouin a 9 ans lorsque la belgique est attaquee par les troupes allemands sur ordre de leopold iii toute la famille doit quitter le chateau de laken le roi pense d abord a envoyer ses enfants a la cote puis se ravise finalement il choisit comme destination russie dans le calvados en normandie la ou se trouve la residence d ami pranche un convoi de plusieurs voitures avec 42 personnes se met en route
+ref norm:         arrive le mois de mai 1940 baudouin a 9 ans lorsque la belgique est attaquee par les troupes allemandes sur ordre de leopold iii toute la famille doit quitter le chateau de laeken le roi pense d abord a envoyer ses enfants a la cote puis se ravise finalement il choisit comme destination russie dans le calvados en normandie la ou se trouve la residence d amis proches un convoi de plusieurs voitures avec 42 personnes se met en route
+
+ ------------------------------------------- 
+
+9.210526315789473
+line_id 4329849036
+transcript norm:  gros touvet les enfants voyons il y a des gouvernantes des professeurs des chauffeurs sans oublier le fidele vicomte du parc accompagne de sa femme et de ses sept enfants charge de veiller personnellement sur josephine charlotte baudouin et albert cet exode est un nouveau dechirement pour baudouin il n a pas l occasion de saluer son pere avant le depart et yuffraud de young sa gouvernante adoree ne recoit pas l autorisation de l accompagner
+ref norm:         pour entourer les enfants royaux il y a des gouvernantes des professeurs des chauffeurs sans oublier le fidele vicomte du parc accompagne de sa femme et de ses 7 enfants charges de veiller personnellement sur josephine charlotte baudouin et albert cet exode est un nouveau dechirement pour baudouin il n a pas l occasion de saluer son pere avant le depart et yufrau de jong sa gouvernante adoree ne recoit pas l autorisation de l accompagner
+
+ ------------------------------------------- 
+
+0.0
+line_id 4329870785
+transcript norm:  les adieux sont bouleversants baudouin ne la reverra plus avant tres longtemps la colonne royale arrive en normandie le 11 mai 1940 mais la region n est pas sure les allemands approchent les troupes francaises et britanniques reculent il faut fuir rapidement
+ref norm:         les adieux sont bouleversants baudouin ne la reverra plus avant tres longtemps la colonne royale arrive en normandie le 11 mai 1940 mais la region n est pas sure les allemands approchent les troupes francaises et britanniques reculent il faut fuir rapidement
+
+ ------------------------------------------- 
+
+5.555555555555555
+line_id 4329870091
+transcript norm:  le gouvernement francais met alors a disposition de la delegation belge le chateau de montal une sinistre batisse feodale implantee dans le lot le 28 mai la belgique capitule contre l avis du gouvernement leopold iii signe la reddition sans condition et se constitue prisonnier sur les ondes de la radio francaise le premier ministre hubert pierlot en profond desaccord avec le roi condamne mouvedement l attitude du chef de l etat
+ref norm:         le gouvernement francais met alors a disposition de la delegation belge le chateau de montal une sinistre baptize feodale implantee dans le lot le 28 mai la belgique capitule contre l avis du gouvernement leopold iii signe la redition sans condition et se constitue prisonnier sur les ondes de la radio francaise le premier ministre hubert pierrelau en profond desaccord avec le roi condamne lourdement l attitude du chef de l etat
+
+ ------------------------------------------- 
+
+3.3333333333333335
+line_id 4329871998
+transcript norm:  les allies a commencer par les francais fulent mine le president du conseil paul reynaud dit egalement a la radio tout le mal qu il pense du roi des belges qui a rendu les armes sans en avertir ceux qui avaient vole a son secours a travers l attitude du roi c est tout le pays qui est montre du doigt
+ref norm:         les allies a commencer par les francais fulminent le president du conseil paul reynaud dit egalement a la radio tout le mal qu il pense du roi des belges qui a rendu les armes sans en avertir ceux qui avaient vole a son secours a travers l attitude du roi c est tout le pays qui est montre du doigt
+
+ ------------------------------------------- 
+
+1.639344262295082
+line_id 4329897964
+transcript norm:  un sentiment anti belge se repand en france dans les jours qui suivent craignant une reaction violente de la population la delegation belge quitte precipitamment le chateau de montal pour l espagne le 19 juin 1940 deux jours plus tard les enfants royaux sont accueillis a saint sebastien ou ils sont consideres par le gouvernement espagnol comme des invites d honneur
+ref norm:         un sentiment anti belge se repand en france dans les jours qui suivent craignant une reaction violente de la population la delegation belge quitte precipitamment le chateau de montal pour l espagne le 19 juin 1940 deux jours plus tard les enfants royaux sont accueillis a san sebastien ou ils sont consideres par le gouvernement espagnol comme des invites d honneur
+
+ ------------------------------------------- 
+
+4.651162790697675
+line_id 4329819205
+transcript norm:  leopold iii en personne aurait demande aux dictateurs franco de prendre soin de baudouin albert et josephine charlotte cette parenthese iberique dure environ 6 semaines a la fin du mois de juillet 1940 le roi desormais prisonnier fera patrier ses enfants en belgique
+ref norm:         leopold iii en personne aurait demande aux dictateurs franco de prendre soin de baudouin albert et josephine charlotte cette parenthese iberique dure environ 6 semaines a la fin du mois de juillet 1940 le roi desormais prisonnier fait rapatrier ses enfants en belgique
+
+ ------------------------------------------- 
+
+8.064516129032258
+line_id 4329886672
+transcript norm:  le convoi arrive a laken le 2 aout apres un voyage difficile sous escorte du major kiewitz le geolier du roi qui impressionne beaucoup baudouin les retrouvailles sont de courte duvee deux jours plus tard par mesure de protection leopold iii expedie ses enfants au chateau de ciergnon situe non loin de rochefort sous la surveillance du devoue vicomte gassien du parnes
+ref norm:         le convoi arrive a laeken le 2 aout apres un voyage difficile sous escorte du major kivitz le geolier du roi qui impressionne beaucoup baudouin les retrouvailles sont de courte duree deux jours plus tard par mesure de protection leopold iii expedie ses enfants au chateau de siergnon situe non loin de rochefort sous la surveillance du devoue vicomte gassien du parc
+
+ ------------------------------------------- 
+
+3.6585365853658534
+line_id 4329846196
+transcript norm:  une fois encore baudouin est enleve a l affection de sa famille constamment entoure de serviteurs professeurs et gouverneurs il vit qu a l ecart loin de son pere et de sa grand mere la reine elisabeth a qui il peut rendre visite environ deux fois par mois c est a cette periode lors de l ete 1940 que nait la relation sentimentale entre le roi et liliane bals une des filles d anvie bals homme d affaires et gouverneur de flandre occidentale
+ref norm:         une fois encore baudouin est enleve a l affection de sa famille constamment entoure de serviteurs professeurs et gouverneurs il vit a l ecart loin de son pere et de sa grand mere la reine elisabeth a qui il peut rendre visite environ deux fois par mois c est a cette periode lors de l ete 1940 que nait la relation sentimentale entre le roi et liliane bals une des filles d henri bals homme d affaires et gouverneur de flandre occidental
+
+ ------------------------------------------- 
+
+2.5
+line_id 4329833706
+transcript norm:  leopold iii est tres amoureux de cette jeune femme a la beaute magnetique et au caractere bien trempe le couple souhaite se marier mais veut eviter toute publicite la seule solution par consequent est d envisager un mariage volisieux uniquement
+ref norm:         leopold iii est tres amoureux de cette jeune femme a la beaute magnetique et au caractere bien trempe le couple souhaite se marier mais veut eviter toute publicite la seule solution par consequent est d envisager un mariage religieux uniquement
+
+ ------------------------------------------- 
+
+9.25925925925926
+line_id 4329835158
+transcript norm:  cela permet d eviter la publication des bans et donc de maintenir le secret autour de cette union une telle pratique est contraire a la loi mais les amants n en ont cure ils se disent oui dans la chapelle du chateau de lachen devant une assemblee tres vestrinte le 11 septembre 1941
+ref norm:         cela permet d eviter la publication des bancs et donc de maintenir le secret autour de cette union une telle pratique est contraire a la loi mais les amants n en ont qu ure ils se disent oui dans la chapelle du chateau de laeken devant une assemblee tres restreinte le 11 septembre 1941
+
+ ------------------------------------------- 
+
+2.7777777777777777
+line_id 4329849216
+transcript norm:  les commentaires de l epoque ne manquent pas d amertume le roi qui etait reste tres populaire jusqu alors ne fait plus du tout l unanimite et perd une grande partie de son credit et les enfants dans tout cela ils n etaient au courant de rien ils n avaient jamais rencontre liliane et ignoraient tout des intentions de leur pere ils sont finalement informes apres la ceremonie du 6 decembre 1941
+ref norm:         les commentaires de l epoque ne manquent pas d amertume le roi qui etait reste tres populaire jusqu alors ne fait plus du tout l unanimite et perd une grande partie de son credit et les enfants dans tout cela ils n etaient au courant de rien ils n avaient jamais rencontre lillian et ignoraient tous des intentions de leur pere ils sont finalement informes apres la ceremonie du 6 decembre 1941
+
+ ------------------------------------------- 
+
+1.1363636363636365
+line_id 4329871713
+transcript norm:  outre les disputes qui eclatent de temps a autre entre les jeunes epoux des tensions apparaissent aussi entre liliane et la reine elisabeth qui s inquiete de l ombre que pourrait lui faire sa belle fille les relations sont egalement difficiles on l a entendu entre liliane et josephine charlotte l ainee de la fratrie a du mal a accepter la presence de sa belle mere pour baudouin et albert c est tout le contraire ils se montrent tres attaches a liliane qu ils appellent maman ou mummy
+ref norm:         outre les disputes qui eclatent de temps a autre entre les jeunes epoux des tensions apparaissent aussi entre liliane et la reine elisabeth qui s inquiete de l ombre que pourrait lui faire sa belle fille les relations sont egalement difficiles on l a entendu entre liliane et josephine charlotte l ainee de la fraterie a du mal a accepter la presence de sa belle mere pour baudouin et albert c est tout le contraire ils se montrent tres attaches a liliane qu ils appellent maman ou mummy
+
+ ------------------------------------------- 
+
+5.172413793103448
+line_id 4329831808
+transcript norm:  des sentiments de profonde affection renforces par la naissance d alexandre le 18 juillet 1942 le premier enfant de liliane et leopold iii que les deux princes considerent immediatement comme leurs freres desormais une vraie vie de famille s est reconstituee autour du roi meme si baudouin et albert font encore de nombreux sejours au chateau de cernion
+ref norm:         des sentiments de profondes affections renforces par la naissance d alexandre le 18 juillet 1942 le premier enfant de liliane et leopold iii que les deux princes considerent immediatement comme leurs freres desormais une vraie vie de famille s est reconstituee autour du roi meme si baudouin et albert font encore de nombreux sejours au chateau de siergnon
+
+ ------------------------------------------- 
+
+0.0
+line_id 4329892480
+transcript norm:  jamais baudouin ne peut vivre dans un cadre normal comme tout un chacun ou s integrer dans une structure existante non bien au contraire son entourage concoit pour lui un environnement sur mesure ou il doit evoluer et eventuellement s epanouir
+ref norm:         jamais baudouin ne peut vivre dans un cadre normal comme tout un chacun ou s integrer dans une structure existante non bien au contraire son entourage concoit pour lui un environnement sur mesure ou il doit evoluer et eventuellement s epanouir
+
+ ------------------------------------------- 
+
+2.7777777777777777
+line_id 4329830573
+transcript norm:  par exemple en a la demande de leopold iii une troupe de scouts est creee pour baudouin les garcons qui forment cette unite sont soigneusement choisis ils viennent de flandre de wallonie et de bruxelles
+ref norm:         par exemple en 1939 a la demande de leopold iii une troupe de scouts est creee pour baudouin les garcons qui forment cette unite sont soigneusement choisis ils viennent de flandre de wallonie et de bruxelles
+
+ ------------------------------------------- 
+
+Final wer score:  7.809200516725692

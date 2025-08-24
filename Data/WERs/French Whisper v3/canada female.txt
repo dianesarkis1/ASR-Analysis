@@ -1,0 +1,1282 @@
+WER Evaluation Results
+======================
+
+Line ID: 4765924089
+WER Score: 10.34
+Transcript: deja quand j etais sous le bord d arriver en ombre j avais toujours une certaine petite febrilite une saine nervosite appelons ca comme ca j ai ca aujourd hui des petits papillons parce que je sais que c est la derniere fois et on vous a quand meme prepare un menu tres tres interessant
+Reference:  deja la quand j etais sur le bord d arriver en ondes j avais toujours une certaine petite febrilite une saine nervosite on l appelait ca comme ca j ai ca aujourd hui des petits papillons parce que je sais que c est la derniere fois et on vous a quand meme prepare un menu tres tres interessant
+-------------------------------------------
+
+Line ID: 4765997777
+WER Score: 4.35
+Transcript: et je dois vous avouer que ca ca m a particulierement manque a un moment donne a un tel point qu avec vincent dessoureau on faisait la blague on disait ca va faire plus de temps genevieve que t animes en pandemie c est a dire avec des gens a distance qu en presentiel donc je me gate aujourd hui j aurai beaucoup de monde avec moi en studio
+Reference:  et je dois vous avouer que ca ca m a particulierement manque a un moment donne a un tel point qu avec vincent desouroux on faisait la blague on disait ca va faire plus de temps genevieve que t animes en pandemie c est a dire avec des gens a distance qu en presentiel donc je me garde aujourd hui j aurais beaucoup de monde avec moi en studio
+-------------------------------------------
+
+Line ID: 4765911995
+WER Score: 4.35
+Transcript: et je dois vous avouer que ca ca m a particulierement manque a un moment donne a un tel point qu avec vincent dessoureau on faisait la blague on disait ca va faire plus de temps genevieve que t animes en pandemie c est a dire avec des gens a distance qu en presentiel donc je me gate aujourd hui j aurai beaucoup de monde avec moi en studio
+Reference:  et je dois vous avouer que ca ca m a particulierement manque a un moment donne a un tel point qu avec vincent desouroux on faisait la blague on disait ca va faire plus de temps genevieve que t animes en pandemie c est a dire avec des gens a distance qu en presentiel donc je me garde aujourd hui j aurais beaucoup de monde avec moi en studio
+-------------------------------------------
+
+Line ID: 4765935297
+WER Score: 4.44
+Transcript: on va parler du grand prix de montreal bien evidemment la question du tourisme sexuel c est commence les hotels qui affichent un taux d inoccupation vraiment pas atteint depuis trois ans et je ne suis pas en train de dire que tout le monde qui se loue une chambre d hotel c est pour se revendiquer des services d une travailleuse du sexe mais force est d admettre puis on en a parle beaucoup cette semaine que chez certains hoteliers c est comme ca que ca se passe
+Reference:  on va parler du grand prix de montreal bien evidemment la question du tourisme sexuel c est comment c est les hotels qui affichent un taux d inoccupation vraiment pas atteint depuis trois ans et je suis pas en train de dire que tout le monde qui se loue une chambre d hotel c est pour se revendiquer des services d une travailleuse du sexe mais force est d admettre puis on en a parle beaucoup cette semaine que chez certains hoteliers c est comme ca que ca se passe
+-------------------------------------------
+
+Line ID: 4765979524
+WER Score: 3.92
+Transcript: et comment on peut les aider les victimes d exploitation sexuelle on va avoir quelqu un de la police de longueuil qui a un projet pilote depuis 4 ans qui accompagne et soutient les travailleuses du sexe pour celles qui desirent s en sortir on a souvent parle avec justine valliere
+Reference:  et comment on peut les aider les victimes d exploitation sexuelle on va avoir quelqu un de la police de longueuil qui a un projet pilote depuis quatre ans qui accompagne et soutient les travailleuses du sexe pour celles qui desirent s en sortir on a souvent parle avec ghislaine valliere
+-------------------------------------------
+
+Line ID: 4765914162
+WER Score: 1.75
+Transcript: on aura une femme aujourd hui qui travaille au service de police de la ville de longueuil puis moi je me questionne si l approche est pareille quand on parle d exploitation de mineurs ou de femmes adultes parce que c est quand meme pas la meme realite j ai beaucoup parle du film noemie dit oui
+Reference:  on aura une femme aujourd hui qui travaille au service de police de la ville de longueuil puis moi je me questionne si l approche est pareille quand on parle d exploitation de minards ou de femmes adultes parce que c est quand meme pas la meme realite j ai beaucoup parle du film noemie dit oui
+-------------------------------------------
+
+Line ID: 4765957633
+WER Score: 2.17
+Transcript: je vous invite a l ecouter en fin de semaine si vous ne l avez pas encore vue ca raconte l histoire d une jeune fille qui se fait embarquer dans un week end de travail du sexe ca se passe pendant le grand prix et peut etre pour une premiere fois la camera s attarde sur le client c est tres peu sur cette jeune fille la qui est incarnee par kelly depot puis on voit que c est toutes sortes de mondes qui font appel a des travailleuses du sexe
+Reference:  je vous invite a l ecouter en fin de semaine si vous ne l avez pas encore vu ca raconte l histoire d une jeune fille qui se fait embarquer dans un week end de travail du sexe ca se passe pendant le grand prix et peut etre pour une premiere fois la camera s attarde sur le client c est tres peu sur cette jeune fille la qui est incarnee par kelly depot puis on voit que c est toutes sortes de monde qui font appel a des travailleuses du sexe
+-------------------------------------------
+
+Line ID: 4765987084
+WER Score: 14.71
+Transcript: on voit aussi que plusieurs demandent pas l age c est le dernier de leurs soucis puis bon tu sais a un moment donne comme ville puis valerie plante je pense que c est une patate chaude pour elle
+Reference:  on voit aussi que plusieurs demandent pas l age c est le dernier de leurs soucis a un moment donne comme ville valerie plante je pense que c est une patate chaude pour elle
+-------------------------------------------
+
+Line ID: 4765919353
+WER Score: 2.90
+Transcript: le contrat etait signe comme on dit donc il n y avait pas grand chose a faire mais ca vient avec tout ca puis pourquoi les voitures qui tournent en rond ca devrait venir avec l exploitation sexuelle des femmes moi c est quelque chose que je m explique assez mal grc qui a perqueditionne deux proprietes appelees civils et a saint ferdinand c est dans le center du quebec
+Reference:  le contrat etait signe comme on dit donc il n y avait pas grand chose a faire mais ca vient avec tout ca pourquoi les voitures qui tournent en rond ca devrait venir avec l exploitation sexuelle des femmes moi c est quelque chose que je m explique assez mal grc qui a perqueditionne deux proprietes appelees civiles et a saint ferdinand c est dans le center du quebec
+-------------------------------------------
+
+Line ID: 4765972858
+WER Score: 9.38
+Transcript: ce serait lie a un reseau extremiste neo nazi qui s appelle division atom waffen c est quoi ca c est un groupe inscrit sur la liste des entites terroristes canadiennes depuis 2021 2021
+Reference:  ce serait lie a un reseau extremiste neo nazi qui s appelle division atomwaffen c est quoi ca c est un groupe inscrit sur la liste des entites terroristes canadiennes depuis 2021
+-------------------------------------------
+
+Line ID: 4765957053
+WER Score: 8.20
+Transcript: c est un groupe qui appelle a la violence contre les groupes raciaux ethniques religieux ils visent egalement les informateurs les policiers les bureaucrates on a parle plusieurs fois cette saison avec david morin qui est un specialiste de la radicalisation moi je n aurais jamais pense que ce groupe la etait installe ici au quebec qu on avait un tel extremisme violent
+Reference:  c est un groupe qui appelle a la violence contre les groupes ratio ethniques religieux vise egalement les informateurs les policiers les bureaucrates on a parle plusieurs fois cette saison avec david morin qui est un specialiste de la radicalisation moi j aurais jamais pense que ce groupe la etait installe ici au quebec qu on avait un tel extremisme violent
+-------------------------------------------
+
+Line ID: 4765991997
+WER Score: 4.08
+Transcript: on a parle de la radicalisation qui virait en violence pendant la pandemie avec david morin a plusieurs reprises mais qui sont ces gens au center du groupe terroriste atom waffen qui a ete vise hier par cette operation de la grc on va en apprendre plus sur tout ca
+Reference:  on a parle de la radicalisation qui virait en violence pendant la pandemie avec david morin a plusieurs reprises mais qui sont ces gens au center du groupe terroriste atomwaffen qui a ete vise hier par cette operation de la grc on va en apprendre plus sur tout ca
+-------------------------------------------
+
+Line ID: 4765916769
+WER Score: 3.33
+Transcript: et l ete s en vient la saison touristique s en vient et un article ce matin dans la presse sur les iles de la madeleine les gens qui sont un peu inquiets j ai souvent dit a la blague que l ete passe j avais l impression que j etais la seule qui n etait pas aux iles
+Reference:  et l ete s en vient la saison touristique s en vient et un article ce matin dans la presse sur les eaux de la madeleine les gens qui sont un peu m inquiets j ai souvent dit a la blague que l ete passe j avais l impression que j etais la seule qui n etait pas aux iles
+-------------------------------------------
+
+Line ID: 4765940844
+WER Score: 2.08
+Transcript: pour vrai c est une destination qui est a la mode on comprend pourquoi c est un endroit magnifique c est un paysage qui se demarque par rapport au reste des paysages quebecois on le sait que les madelinaux sont super accueillants il y a des formidables maisons
+Reference:  pour vrai c est une destination qui est a la mode on comprend pourquoi c est un endroit magnifique c est un paysage qui se demarque par rapport au reste des paysages quebecois on le sait que les madeleinos sont super accueillants il y a des formidables maisons
+-------------------------------------------
+
+Line ID: 4765995462
+WER Score: 7.50
+Transcript: donc on sait tout ca et la etant donne qu on ne pouvait plus sortir a cause de la pandemie mais tout le monde s est garroche aux iles de la madeleine en gaspesie et un peu partout
+Reference:  donc on sait tout ca et la etant donne qu on ne pouvait plus sortir a cause de la pandemie mais tout le monde s est garroche aux iles de la madeleine en gaspesie il y a un peu partout
+-------------------------------------------
+
+Line ID: 4765933254
+WER Score: 1.59
+Transcript: mais qu est ce que ca donne comme resultat puis tu sais ca dure depuis quelques annees aussi cet engouement la pour les iles des gens fortunes qui s installent la bas qui achetent des maisons qui les font renover a grands frais et le monde de la bas ceux qui sont nes la ceux qui habitent la depuis tres tres longtemps s inquietent
+Reference:  mais qu est ce que ca donne comme resultat puis tu sais ca dure depuis quelques annees aussi cet engouement la pour les iles des gens fortunes qui s installent la bas qui achetent des maisons qui font renover a grands frais et le monde de la bas ceux qui sont nes la ceux qui habitent la depuis tres tres longtemps s inquietent
+-------------------------------------------
+
+Line ID: 4765975617
+WER Score: 8.00
+Transcript: c est normal se disent bien la les taxes municipales qu est ce qui va se passer avec ca le parc immobilier qui est de moins en moins accessible pour nous puis c est cette idee puis on va parler au maire de les iles de la madeleine
+Reference:  puis c est normal ils se disent bien la les taxes municipales qu est ce qui va se passer avec ca le parc immobilier qui est de moins en moins accessible pour nous puis c est cette idee puis on va parler aux maires de les iles de la madeleine
+-------------------------------------------
+
+Line ID: 4765952799
+WER Score: 7.14
+Transcript: que c est qui se passe quand les bobos debarquent dans une place puis on parle des iles de la madeleine on pourrait parler de saint elie de caxton on pourrait parler d autres endroits au quebec val david des destinations populaires des endroits ou les gens veulent s acheter des chalets
+Reference:  tu sais que c est qui se passe quand les bobos debarquent dans une place puis on parle des iles de la madeleine on pourrait parler de saint elie de caxton on pourrait parler d autres endroits au quebec val david tu sais des destinations populaires des endroits ou les gens veulent s acheter des chalets
+-------------------------------------------
+
+Line ID: 4765967408
+WER Score: 0.00
+Transcript: puis le monde qui habite la bas eux autres qu est ce qu ils font puis comment ils voient ca cette arrivee la massive d argent qui vient d ailleurs des comportements aussi auxquels ils ne sont pas habitues rappelez vous en gaspesie l ete passe c etait le bordel le plus total sur les plages ils ont ete obliges d ajouter de la legiferation a cet effet la parce qu il y avait bien trop de gens donc on va se poser ces questions la avec le maire des iles de la madeleine
+Reference:  puis le monde qui habite la bas eux autres qu est ce qu ils font puis comment ils voient ca cette arrivee la massive d argent qui vient d ailleurs des comportements aussi auxquels ils ne sont pas habitues rappelez vous en gaspesie l ete passe c etait le bordel le plus total sur les plages ils ont ete obliges d ajouter de la legiferation a cet effet la parce qu il y avait bien trop de gens donc on va se poser ces questions la avec le maire des iles de la madeleine
+-------------------------------------------
+
+Line ID: 4765967209
+WER Score: 0.00
+Transcript: et on va parler de surpoids chez les jeunes mais dans l optique suivante un tiers des jeunes qui ont un poids considere comme normal pour leur age pour leur physionomie malgre tout ca voudraient perdre du poids puis la on parle de jeunes de 8 9 10 ans la
+Reference:  et on va parler de surpoids chez les jeunes mais dans l optique suivante un tiers des jeunes qui ont un poids considere comme normal pour leur age pour leur physionomie malgre tout ca voudraient perdre du poids puis la on parle de jeunes de 8 9 10 ans la
+-------------------------------------------
+
+Line ID: 4765943101
+WER Score: 3.85
+Transcript: des jeunes qui pour plein de raisons trouvent que leur corps ne fait pas l affaire trouvent que leur apparence physique est inadequate je vous raconte une anecdote moi ca m avait jete a terre et ca m avait tellement fait reflechir sur ma facon de parler de poids avec mes enfants
+Reference:  des jeunes qui pour plein de raisons trouvent que leur corps ne fait pas l affaire trouvent que leur apparence physique est inadequate je vous raconte une anecdote moi ca m avait jete a table puis ca m avait tellement fait reflechir sur ma facon de parler de poids avec mes enfants
+-------------------------------------------
+
+Line ID: 4765962172
+WER Score: 7.81
+Transcript: a un moment donne ma fille du milieu qui a 12 ans aujourd hui devait avoir 7 8 ans on va lui acheter un manteau un habit de neige des pantalons de neige et tout ca elle aime ca elle choisit son kit c est celui la qu elle veut c est cette couleur la qu elle veut comprenez vous
+Reference:  a un moment donne ma fille du milieu qui a 12 ans aujourd hui devait avoir 7 8 ans on va lui acheter un manteau un habit de neige des pantalons de neige et tout ca elle aime ca elle a choisi son kit puis c est celui la qu elle veut puis c est de cette couleur la qu elle veut comprenez vous
+-------------------------------------------
+
+Line ID: 4765944543
+WER Score: 6.78
+Transcript: elle est bien contente elle revient de l ecole elle a le claquette a terre je dis bien voyons qu est ce qui se passe est ce qu il s est passe quelque chose dans la cour de recreation et la elle me regarde et elle dit finalement je n aime pas vraiment mon manteau je dis bien comment ca
+Reference:  elle est bien contente elle revient de l ecole elle a le claquette a terre je dis voyons qu est ce qui se passe est ce qu il s est passe quelque chose dans la cour de recreation et la elle me regarde puis elle dit finalement je n aime pas vraiment mon manteau je lui dis comment ca
+-------------------------------------------
+
+Line ID: 4765978434
+WER Score: 14.67
+Transcript: t aimes pas le manteau j ai dit t aimes plus la couleur parce que c etait une couleur vive ma fille est un peu audacieuse vestimentairement parlant donc je me disais peut etre qu elle regrette peut etre qu elle s est fait ecoeurer dans le cours de recre par d autres enfants parce que bon son habit de neige sort du lot elle me dit non j ai l air grosse
+Reference:  tu n aimes pas le manteau j ai dit tu n aimes plus la couleur parce que c etait une couleur vive ma fille etait un peu audacieuse vestimentairement parlant donc je me disais peut etre qu elle regrette peut etre qu elle s est faillequeuree dans la cour de recre par d autres enfants parce que bon son habit de neige sort du lot elle m a dit non j ai l air grosse
+-------------------------------------------
+
+Line ID: 4765992725
+WER Score: 6.93
+Transcript: quelqu un m a dit que j avais l air obese dans mon manteau c etait un manteau d hiver de type poffy vous savez les manteaux ou on a un peu tous l air du bonhomme michelin tres tres a la mode tres tres beau elle n a plus jamais voulu le remettre jamais jamais jamais jamais malgre tout ce que je lui ai dit malgre le fait que je lui montre et que je lui dis regarde tu sais c est epouvantable tu montes tu dis a ta fille regarde toi dans le miroir tu n es pas grosse
+Reference:  quelqu un m a dit que j avais l air obese dans mon manteau c etait un manteau d hiver de type poffy la vous savez les manteaux ou on a un peu tous l air du bonhomme michelin tres tres a la mode tres tres beau elle n a plus jamais voulu le remettre jamais jamais jamais jamais malgre tout ce que je lui ai dit malgre le fait que je lui montre puis je lui disais regarde tu sais puis c est epouvantable tu montes tu dis a ta fille regarde toi dans le miroir t es pas grosse
+-------------------------------------------
+
+Line ID: 4765912933
+WER Score: 12.28
+Transcript: comme si etre grosse c etait la pire affaire sur la terre puis la je ne savais plus quoi dire on dirait que c etait comme une mega patate chaude puis ca inquiete des medecins puis bon cette etude la a ete menee par des scientifiques puis on en aura une avec nous ici doctor melanie anderson
+Reference:  comme si etre gros c etait la pire affaire a sa terre puis la je savais plus quoi dire on dirait que c etait comme une mega patate chaude et puis ca inquiete des medecins puis bon cette etude la a ete menee par des scientifiques puis on en aura une avec nous aussi docteur melanie anderson
+-------------------------------------------
+
+Line ID: 4765966589
+WER Score: 2.56
+Transcript: ca inquiete doctor anderson ce type de discours la le fait qu on ait de tres jeunes enfants 7 8 ans qui tout a coup se mettent non seulement a se trouver gros mais se mettent a vouloir essayer des regimes se mettent a vouloir perdre du poids et se mettent a avoir des comportements d evitement comme ne plus vouloir porter un manteau parce qu ils ont l impression de ne pas correspondre aux criteres de beaute
+Reference:  ca inquiete doctor anderson ce type de discours la le fait qu on ait de tres jeunes enfants sept huit ans qui tout a coup se mettent non seulement a se trouver gros mais se mettent a vouloir essayer des regimes se mettent a vouloir perdre du poids et se mettent a avoir des comportements d evitement comme ne plus vouloir porter un manteau parce qu ils ont l impression de ne pas correspondre aux criteres de beaute
+-------------------------------------------
+
+Line ID: 4765933312
+WER Score: 1.25
+Transcript: bon j avais genevieve guilbeault cette semaine a l emission le ministre de la securite publique pour nous parler de son bilan c etait la fin de la session parlementaire on a aborde la question du bracelet anti rapprochement qui commence a etre present dans nos tribunaux ce projet pilote dont on a abondamment parle toi et moi et la on a une histoire ou une juge a refuse ce bracelet la a un multirecidiviste de la violence conjugale
+Reference:  bon j avais genevieve guilbeault cette semaine a l emission le ministre de la securite publique pour nous parler bord de son bilan c etait la fin de la session parlementaire on a aborde la question du bracelet anti rapprochement qui commence a etre present dans nos tribunaux ce projet pilote dont on a abondamment parle toi et moi et la on a une histoire ou une juge a refuse ce bracelet la a un multirecidiviste de la violence conjugale
+-------------------------------------------
+
+Line ID: 4765953664
+WER Score: 7.37
+Transcript: donc ce monsieur la pierre andre dore qui etait accuse d avoir brise des conditions une ordonnance de probation qui lui interdisait de se trouver chez son ex conjointe et ce a de multiples reprises et la defense plaidait en fait disait ecoutez mon client peut sortir de prison puisque si on lui installe un bracelet electronique on est assure qu il ne va pas briser ses conditions et moi ce que je comprends de tout ca c est que la juge a dit wow ce n est pas comme ca que ca fonctionne
+Reference:  donc ce monsieur la le pierre andre dore qui etait accuse d avoir brise des conditions une ordonnance de probation qui lui interdisait de se trouver chez son ex conjointe et ca a de multiples reprises et la defense plaidait en fait disait ben ecoutez la mon client peut sortir de prison puisque si on lui installe un bracelet electronique on est assure qu il va pas briser ses conditions et moi ce que je comprends de tout ca c est que la juge a dit wow c est pas comme ca que ca fonctionne
+-------------------------------------------
+
+Line ID: 9976313561
+WER Score: 10.71
+Transcript: non puis c est extremement interessant moi je pense que cette juge a vraiment mis la table et bravo parce que c est vrai qu on ne pourra pas maintenant se servir a chaque fois de la demande de bracelets anti rapprochement pour une garantie de securite qu il ne s approchera pas il va briser maintenant
+Reference:  non puis c est extremement interessant moi je pense que cette juge a vraiment mis la table et bravo parce que c est vrai qu on pourra pas maintenant se servir a chaque fois de la demande de bracelet anti rapprochement pour une garantie de securite t sais qu il s approchera pas il va briser
+-------------------------------------------
+
+Line ID: 9976321180
+WER Score: 2.63
+Transcript: mais la il va peut etre briser ses conditions donc on va lui mettre ceci mais on a un exemple parfait ici c est a de multiples reprises que cette personne la multiples reprises on ne parle pas la
+Reference:  mais la il va peut etre briser ses conditions donc on va lui mettre ceci mais on a un exemple parfait ici c est a de multiples reprises que cette personne la multiples reprises on parle pas la
+-------------------------------------------
+
+Line ID: 9976319115
+WER Score: 5.00
+Transcript: oui c est possible que quelqu un fasse une erreur une fois puis que le tribunal ca m est arrive souvent comme juge on comprend une situation meme la victime alleguee dit non c est correct je comprends bon etc
+Reference:  oui c est possible que quelqu un fasse une erreur une fois que le tribunal ca m est arrive souvent comme juge on comprend une situation meme la victime alleguee elle dit non c est correct je comprends bon etc
+-------------------------------------------
+
+Line ID: 9976391006
+WER Score: 4.88
+Transcript: mais la a multiples multiples multiples reprises il aurait brise ses conditions puis c est pas n importe quoi il a ete accuse c est des crimes serieux quand meme il a ete condamne aussi pour de la violence conjugale une autre ex conjointe il a purge des peines jusqu a une vingtaine de mois de prison puis la ok il se rend la il dit de partir puis il part puis oups excusez moi mettez moi un bracelet d abord non
+Reference:  mais la a multiples multiples multiples reprises il aurait brise ses conditions puis c est pas n importe quoi il a ete accuse c est des crimes serieux quand meme il a ete condamne aussi pour de la violence conjugale une autre ex conjointe il a purge des peines jusqu a une vingtaine de mois de prison puis la ok il se rend la il dit de partir il part puis oops puis dis moi mettez moi un bracelet d abord non
+-------------------------------------------
+
+Line ID: 9976350073
+WER Score: 16.85
+Transcript: non ca ne fonctionne pas comme ca puis quand tu as un passe de cette facon la c est parce que le passe n est pas un peu garant de l avenir est ce que c est vraiment un bracelet oui ca va sonner mais je peux juste m imaginer la personne la victime alleguee dans les circonstances si c est une ordonnance de probation c est parce qu elle a ete condamnee probation ca va etre une condamnation donc ce n est plus allegue
+Reference:  non ca fonctionne pas comme ca puis quand t as un passe de cette facon la c est parce que est ce que le passe est pas un peu garant de l avenir puis est ce que c est vraiment un bracelet oui ca va sonner mais je peux juste m imaginer la personne la victime allegee dans les circonstances ben si c est un ordonnance de probation c est parce qu elle a ete condamnee la probation ca va etre qu une condamnation donc c est plus allege
+-------------------------------------------
+
+Line ID: 9976328168
+WER Score: 5.68
+Transcript: alors si effectivement on est encore dans ce systeme la ce n est plus une question de securite c est parce que cette personne la va toujours craindre alors la seule solution c est pour quelqu un qui veut se prendre en main puis pour quelqu un qui dit oui je l accepte le bracelet oui je vais respecter les conditions ok parfait on va le verifier on va mettre un bracelet de securite de rapprochement anti rapprochement et la personne de l autre cote l accepte
+Reference:  alors si effectivement on est encore dans ce systeme la c est plus une question de securite c est parce que cette personne la va toujours craindre alors la seule solution c est pour quelqu un qui veut se prendre en main puis pour quelqu un qui dit oui je l accepte le bracelet oui je vais respecter les conditions ok parfait on va le verifier on va mettre un bracelet de securite de rapprochement de s y rapprochement et la personne de l autre cote l accepte
+-------------------------------------------
+
+Line ID: 9976351585
+WER Score: 6.38
+Transcript: mais la on est passe ca avec un multirecidivisme donc la juge a dit non vous vous en allez en dedans c est la seule facon qu on va comprendre les choses et moi je dis bravo parce qu il faut vraiment agir categoriquement en matiere de .
+Reference:  mais la on est passe ca avec un multirecidiviste donc la juge a dit non vous vous en allez en dedans c est la seule facon qu on va comprendre les choses et moi je dis bravo parce qu il faut vraiment agir categoriquement en matiere ..
+-------------------------------------------
+
+Line ID: 9976364434
+WER Score: 9.23
+Transcript: exactement alors ici c est non regarde vous avez brise a multiples reprises ca recommence ok vous avez ete gentil vous etes retourne quand elle vous a dit de vous retourner ou de quitter parfait mais ce n est pas comme ca que ca fonctionne alors on n est pas pour mettre des bracelets en tir rapprochement et deranger tout le monde
+Reference:  exactement alors ici c est non vous avez brise a multiples reprises puis la ca recommence puis ok vous avez ete gentil vous etes retourne quand elle vous a dit de vous retourner ou de quitter parfait mais ce n est pas comme ca que ca fonctionne alors on n est pas pour mettre des bracelets en tir rapprochement puis deranger tout le monde ..
+-------------------------------------------
+
+Line ID: 4765970353
+WER Score: 1.61
+Transcript: ca s est developpe plus tard en relation amoureuse ca a dure je l ai dit environ huit ans et a un moment donne dans cette relation la il a commence a y avoir des allusions sur le travail du sexe qu est ce que tu pourrais offrir des services sexuels dans des spas des salons de massage a montreal et a toronto
+Reference:  ca s est developpe plus tard en relation amoureuse ca a dure je l ai dit environ huit ans et a un moment donne dans cette relation la il a commence a avoir des allusions sur le travail du sexe qu est ce que tu pourrais offrir des services sexuels dans des spas des salons de massage a montreal et a toronto
+-------------------------------------------
+
+Line ID: 4765983297
+WER Score: 5.56
+Transcript: et ce que cet homme la qui etait son chum finalement lui faisait miroiter a cette jeune fille la c etait l idee de devenir tous les deux riches c est un projet de couple commun
+Reference:  est ce que cet homme la qui etait son chum finalement le faisait miroiter a cette jeune fille la c etait l idee de devenir tous les deux riches c est un projet de couple commun
+-------------------------------------------
+
+Line ID: 9976317287
+WER Score: 7.69
+Transcript: ils font miroiter plein de belles choses et malheureusement les victimes tombent mais oui c est le coeur souvent qui fait tomber ces victimes la puis les promesses puis les amours puis les ci puis les ca
+Reference:  ils font miroiter plein de belles choses et malheureusement ces gens les victimes tombent mais oui c est le coeur souvent qui fait tomber ces victimes la puis les promesses puis les amours puis les cibles puis les ca
+-------------------------------------------
+
+Line ID: 9976397209
+WER Score: 15.38
+Transcript: en plus non seulement c est pas comme ca que ca arrive mais une fois que l apa elle a pris l apa malheureusement de cet homme la ben la c est rendu maintenant quasiment des pas quasiment ce sont des menaces ben la je vais plus te voir
+Reference:  et en plus non seulement ce n est pas comme ca que ca arrive mais une fois que l appa elle a pris l appa malheureusement de cet homme la bien la c est rendu maintenant quasiment des pas quasiment ce sont des menaces bien la je ne vais plus te voir
+-------------------------------------------
+
+Line ID: 9976393255
+WER Score: 10.94
+Transcript: c est tres dommage moi j ai envie de dire que on en parle souvent et on en parlait souvent les situations mais tres tres jeunes je comprends qu on ne va pas dans les ecoles dire bien ecoutez attention les proxenetes etc quand on a 6 7 8 ans mais a un moment donne je ne sais pas a quel age .
+Reference:  c est tres dommage moi j ai envie de te dire que . on en parle souvent la et on en parlait souvent les etudiants mais tres tres jeunes je comprends qu on ne va pas dans les ecoles dire ecoutez attention les proxenetes etc quand on a 6 7 8 ans mais a un moment donne je ne sais pas quel age ..
+-------------------------------------------
+
+Line ID: 9976398345
+WER Score: 4.08
+Transcript: moi en tout cas puis c est tres personnel c est le pari que j ai pris avec mes enfants on a la chance de faire un metier nicole ou on reflechit beaucoup ou on parle a des intervenants auxquels les autres parents n ont pas acces necessairement aux silences
+Reference:  moi en tout cas puis c est tres personnel c est le pari que j ai pris avec mes enfants on a la chance de faire un metier nicole ou on reflechit beaucoup ou on parle a des intervenants auxquels les autres parents n ont pas acces necessairement aussi
+-------------------------------------------
+
+Line ID: 4765933109
+WER Score: 11.25
+Transcript: puis c est de parler de ces ecueils la c est de dire tu sais ca se pourrait que tu t en rendes pas compte que tu te fasses embarquer par quelqu un que t admires par quelqu un que tu aimes plutot que de parler du gros cliche il va arriver il va t offrir d aller t acheter une sacoche au haugue et levis puis de faire un tour de porsche parce que les enfants ne croient pas
+Reference:  c est de parler de ces ecueils la c est de dire tu sais ca se pourrait que tu t en rendes pas compte que tu te fasses embarquer par quelqu un que t admire par quelqu un que tu aimes tu sais plutot que parler du gros cliche il va arriver il va t offrir d aller t acheter une sacoche au hauguel vie puis de faire un tour de porsche la parce que les enfants ne croient pas
+-------------------------------------------
+
+Line ID: 9976324854
+WER Score: 6.45
+Transcript: elle l a cru la victime mais elle l a dit meme si son temoignage ca fait une couple de fois que j entends ca a la magistrature je pense que ca a passe le message de la victime parfaite alors on dit non on n a pas besoin d etre une victime parfaite et si c est ce qu elle a dit
+Reference:  elle a cru la victime mais elle l a dit meme si son temoignage ca fait une couple de fois que j entends ca a la magistrature je pense que ca a passe le message de la victime parfaite alors on dit non on n a pas besoin d etre une victime parfaite et ici elle sait ce qu elle a dit
+-------------------------------------------
+
+Line ID: 9976399712
+WER Score: 11.63
+Transcript: bon c est pas parce que son temoignage n etait pas parfait qu elle n est pas victime alors les chefs d accusation de proxenetisme traite de personnes menace de mort et voie de fait alors il etait tres contrarie ce monsieur la
+Reference:  et bon c est pas parce que son temoignage etait pas parfait qu elle n est pas victime alors les chefs d accusation de proxenetisme traitent de personnes menaces de mort et voix de fait alors il etait tres contrarie ce monsieur la
+-------------------------------------------
+
+Line ID: 9976395414
+WER Score: 3.12
+Transcript: mais encore une fois apres avoir trouve coupable le monsieur je me pose toujours la question pourquoi on ne pose pas la question est ce qu il n aura pas lieu de le detenir tout de suite je ne sais pas pourquoi moi je sais que je pesais sur le piton de la detention peut etre plus rapidement au moins je posais la question
+Reference:  mais encore une fois apres avoir trouve coupable le monsieur je me pose toujours la question pourquoi on ne pose pas la question est ce qu il n aura pas le lieu de le detenir tout de suite je sais pas pourquoi moi je sais que je pesais sur le piton de la detention peut etre plus rapidement au moins je posais la question
+-------------------------------------------
+
+Line ID: 4765991656
+WER Score: 11.76
+Transcript: je suis assez d accord nicole c est la derniere fois qu on se parle en ondes a cette emission je voulais te remercier pour ta presence quotidienne pendant ces deux annees quand meme
+Reference:  ca c est d accord nicole c est la derniere fois qu on se parle en onde a cette emission je voulais te remercier pour ta presence quotidienne pendant ces deux annees quand meme
+-------------------------------------------
+
+Line ID: 4765920693
+WER Score: 0.00
+Transcript: et te dire a quel point j avais appris des choses avec toi puis je t explique puis vraiment je le pense sincerement tu sais quand il y a des dossiers qui nous habitent des dossiers qui nous portent puis je pense entre autres aux dossiers
+Reference:  et te dire a quel point j avais appris des choses avec toi puis je t explique puis vraiment je le pense sincerement tu sais quand il y a des dossiers qui nous habitent des dossiers qui nous portent puis je pense entre autres aux dossiers
+-------------------------------------------
+
+Line ID: 4765993533
+WER Score: 1.69
+Transcript: tout ce qui a touche le mouvement metoo la violence conjugale ce sont des dossiers qui viennent nous chercher jusque dans nos tripes puis tu sais parfois on a des reflexions sur ce qui se passe qui justement tiennent de l emotion et j ai vraiment trouve que tu as reussi a nous faire prendre des prises de conscience
+Reference:  tout ce qui a touche le mouvement metoo la violence conjugale ce sont des dossiers qui viennent nous chercher jusque dans nos tripes puis tu sais parfois on a des reflexions sur ce qui se passe qui justement tiennent de l emotion et j ai vraiment trouve que t as reussi a nous faire prendre des prises de conscience
+-------------------------------------------
+
+Line ID: 4765910369
+WER Score: 4.94
+Transcript: puis a moi personnellement aussi sur comment ca fonctionne l appareil de justice quand il faut separer justement les emotions des lois alors qu on fait face a des dossiers ou il y a de l injustice puis surtout on a parle beaucoup du tribunal specialize aussi ensemble de mettre son militantisme de cote pour peut etre ecouter ce qui ressort de tout ca je peux dire que tu m as redonne confiance dans l appareil judiciaire
+Reference:  puis a moi personnellement aussi la sur comment ca fonctionne l appareil de justice quand il faut separer justement les emotions des lois alors qu on fait face a des dossiers ou il y a de l injustice puis surtout bon on a parle beaucoup du tribunal specialize aussi ensemble tu sais de mettre son militantisme de cote pour peut etre ecouter ce qui ressort de tout ca je peux dire que tu m as redonne confiance dans l appareil judiciaire
+-------------------------------------------
+
+Line ID: 9976393784
+WER Score: 1.92
+Transcript: il y a des fois que je n etais pas capable de dire quoi que ce soit sur le systeme de justice meme si je pense qu il fallait defendre certains points et l expliquer alors merci a toi de m avoir donne cette occasion la aussi pendant ces deux belles annees
+Reference:  il y a des fois que je n etais pas capable de dire quoi que ce soit sur le systeme de justice meme si je pense qu il fallait defendre certains points puis l expliquer alors merci a toi de m avoir donne cette occasion la aussi pendant ces deux belles annees
+-------------------------------------------
+
+Line ID: 4765940823
+WER Score: 7.32
+Transcript: bon plusieurs ont ete vraiment surpris puis j en fais partie de ces personnes la de cette operation de la grc dans le center du quebec au center de cette affaire la un groupe terroriste neo nazi qui s appelle atom waffen .
+Reference:  bon plusieurs ont ete vraiment surpris puis j en fais partie de ces personnes la de cette operation de la grc dans le center du quebec au center de cette affaire la un groupe terroriste neo nazi qui s appelle atomwaffen
+-------------------------------------------
+
+Line ID: 4765992850
+WER Score: 4.69
+Transcript: c est la premiere fois que j en entendais parler et je me suis dit bon on va en jaser avec david morin qui est professor a l universite de sherbrooke titulaire de la chaire unesco en prevention de la radicalisation et de l extremisme violent on lui a parle a quelques reprises pendant les moments forts disons ca comme ca de la pandemie
+Reference:  c est la premiere fois que j en entendais parler et je me suis dit bon on va en jaser avec david morin qui est professor a l universite de sherbrooke titulaire de l achat unesco en prevention de la radicalisation et de l extremisme violent on lui a parle a quelques reprises pendant les moments forts disons ce comme ca de la pandemie
+-------------------------------------------
+
+Line ID: 4765970454
+WER Score: 8.93
+Transcript: mais vous parce que nous on n est pas des specialistes de la question vous est ce que vous etiez un peu surpris du fait qu on ait presence de cette cellule la au quebec parce que a ma connaissance ils n ont jamais agi au quebec ces gens la tant que ca
+Reference:  mais vous parce que nous on n est pas des specialistes la question vous est ce que vous etiez un peu surpris la du fait qu on ait presence de cette cellule la au quebec parce que j ai a ma connaissance ils n ont jamais agi au quebec ces gens la tant que ca la
+-------------------------------------------
+
+Line ID: 4765966046
+WER Score: 25.86
+Transcript: civil et saint ferdinand la il se passe jamais rien non mais je veux dire je veux rien enlever aux gens de ces coins la mais justement la bas ca inquietait le monde en se disant ben ecoutez on les voyait ce monde la jamais j aurais pu penser ca la madame etait bien gentille
+Reference:  les civils les saints ferdinands la il ne se passe jamais rien non mais je veux dire je ne veux rien enlever aux gens de ces coins la mais justement la bas ca inquiete tellement de se dire bien ecoutez on les voyait ce monde la jamais je n aurais pu penser ca la madame etait bien gentille
+-------------------------------------------
+
+Line ID: 4765946392
+WER Score: 11.69
+Transcript: je pense que pendant la pandemie plusieurs ont realize qu on avait des groupuscules d extreme droite ici au quebec parce qu avant quand on pensait terrorisme parce que cette organization la a ete categorisee comme groupe terroriste par le canada en 2021 dans notre tete puis c est un gros prejuge de dire ca on dit terroriste on pense al qaida on pense etat islamique c est une association automatique
+Reference:  je pense que pendant la pandemie plusieurs ont realize qu on avait des groupes uscules d extreme droite ici au quebec parce qu avant quand on pensait terroristes parce que cette organization la a ete categorisee comme groupe terroriste par le canada en 2021 tu sais dans notre tete puis c est un gros prejuge de dire ca la tu sais on dit terroristes on pense al qaida on pense etat islamique c est une association automatique
+-------------------------------------------
+
+Line ID: 4765968878
+WER Score: 4.76
+Transcript: on ne peut pas en vouloir aux gens de la faire c est a cause des attentats du 11 septembre et ce qui s est passe apres avec le gouvernement americain mais ces groupes la d extreme droite qui sont souvent formes par des personnes blanches ce sont des groupes supremacistes il y en a plusieurs au canada au quebec
+Reference:  on ne peut pas en vouloir aux gens de la faire c est a cause des attentats du 11 septembre et ce qui s est passe apres bon avec le gouvernement americain mais ces groupes la d extreme droite qui sont souvent formes par des personnes blanches ce sont des groupes supremacistes il y en a plusieurs tu sais au canada au quebec
+-------------------------------------------
+
+Line ID: 4765933901
+WER Score: 10.00
+Transcript: oui c est ca puis il y en a beaucoup aux etats unis et aussi la communication sur internet et tout ca donc les cellules pluriellent evidemment de l autre cote de la frontiere ici chez nous au canada en terminant m morin est ce qu on doit s attendre a avoir plus d operations comme celles menees par la grc hier au pays dans les prochains mois
+Reference:  oui c est ca puis il y en a beaucoup aux etats unis et on sait la communication sur internet et tout ca donc les cellules plus la evidemment de l autre cote de la frontiere ici chez nous au canada en terminant m morin est ce qu on doit s attendre d avoir plus d operations comme celle menee par la grc hier au pays dans les prochains mois
+-------------------------------------------
+
+Line ID: 4765983520
+WER Score: 0.00
+Transcript: parce que j imagine que ces groupes la justement en plus on va possiblement tomber dans une recession vous me voyez venir la grogne populaire augmente et ca c est la tempete parfaite pour ces groupes la
+Reference:  parce que j imagine que ces groupes la justement en plus on va possiblement tomber dans une recession vous me voyez venir la grogne populaire augmente et ca c est la tempete parfaite pour ces groupes la
+-------------------------------------------
+
+Line ID: 4765937071
+WER Score: 5.88
+Transcript: un footballeur universitaire etudie en sociologie a l universite concordia qui a ete reconnu coupable de traite de personnes notamment il aurait recolte jusqu a 1800 par jour d une jeune fille qui etait de ce que j en comprends sa conjointe il etait en relation amoureuse avec elle
+Reference:  un footballeur universitaire etudie en sociologie a l universite concordia qui a ete reconnu coupable de traite de personne notamment la il aurait recolte jusqu a 1800 par jour d une jeune fille qui etait de ce que j en comprends la sa conjointe il etait en relation amoureuse avec elle
+-------------------------------------------
+
+Line ID: 4765991494
+WER Score: 11.32
+Transcript: puis c est vraiment un cas nicole ou cette jeune femme la rencontre cet homme la andre brian rose dans un bar puis elle l a dit je crois en cours elle a temoigne de la chose suivante qu elle etait tombee en amour avec lui au premier regard ils ont eu une relation amicale
+Reference:  c est vraiment un cas nicole ou cette jeune femme la rencontre cet homme la andre bryan rose dans un bar puis elle le dit je crois en cours et le temoigne de la chose suivante qu elle etait tombee en amour avec lui au premier regard ils ont eu une relation amicale
+-------------------------------------------
+
+Line ID: 9976351218
+WER Score: 7.84
+Transcript: dire que c est reciproque oui je le sens et c est reciproque parce que c etait interessant de jaser avec quelqu un qui non n a pas de formation et comme tel et represente fierement la population l ecoute de la population les gens en general
+Reference:  je veux te dire que c est reciproque oui je le sens et c est reciproque parce que c etait interessant de jaser avec quelqu un qui non n a pas de formation et comme tel et il represente fierement la population l ecoute de la population les gens en general
+-------------------------------------------
+
+Line ID: 9976370772
+WER Score: 11.11
+Transcript: puis me transmettait quasiment les memes questions puis me permettait peut etre des fois tant mieux si ca passait avec toi et avec d autres auditeurs et auditrices de vulgariser cette situation la puis defendre l indefendable je ne suis pas capable
+Reference:  il me transmettait quasiment les memes questions puis il me permettait peut etre des fois si tant mieux si ca a passe avec toi et avec d autres auditeurs et auditrices de vulgariser cette situation la puis defendre l indefendable je ne suis pas capable
+-------------------------------------------
+
+Line ID: 9061873370
+WER Score: 10.00
+Transcript: non c est un droit qui est tres humain les gardes enfants on est souvent proche de notre clientele
+Reference:  non non c est un droit qui est tres humain les gardes enfants on est souvent proches de notre clientele
+-------------------------------------------
+
+Line ID: 9061826340
+WER Score: 15.22
+Transcript: c est pour ca que je ne savais pas trop comment m orienter dans tout ca je me suis dit que ca n aurait pas ete un reflexe de demander a la commissaire a l ethique les modalites et les parametres qui entouraient ma pratique a temps partiel du droit familial
+Reference:  c est pour ca je ne savais pas trop comment m orienter dans tout ca ca n aurait pas ete un reflexe de demander a la commissaire a l ethique dans les modalites et les parametres qui entouraient ma pratique a temps partiel du droit familial
+-------------------------------------------
+
+Line ID: 9061893034
+WER Score: 3.41
+Transcript: mais c est ca ce qui est etrange de l avis de la commissaire a l ethique c est qu a la fin on me dit oui oui tu peux pratiquer mais c est tellement restrictif la conclusion dit oui mais si on revient et on lit toutes les restrictions finalement on ne peut pas vraiment pratiquer le droit familial parce que ce qu on me dit c est que je ne peux pas avoir de contact direct avec le client si le client est un de mes citoyens
+Reference:  c est ca ce qui est etrange de la vie de la commissaire a l ethique c est qu a la fin on me dit oui oui tu peux pratiquer mais c est tellement restrictif la conclusion dit oui mais si on revient et on lit toutes les restrictions finalement on ne peut pas vraiment pratiquer le droit familial parce que ce qu on me dit c est que je ne peux pas avoir de contact direct avec le client si le client est un de mes citoyens
+-------------------------------------------
+
+Line ID: 9061885741
+WER Score: 20.24
+Transcript: surtout que si on va dans le botin du barreau le botin des avocats on est deja par region quelqu un qui cherche un avocat va aller sur le site du barreau va taper botin monteregie ouest droits familiales mon nom va sortir mais a partir de la meme s il me telephone je lui demande vous habitez ou s il me dit j habite en monteregie ouest il ne peut pas etre mon client
+Reference:  surtout que si on va dans le bottin du barreau le bottin des avocats on est deja par region fait que quelqu un qui cherche un avocat va aller sur le site du barreau va taper bottin je ne sais pas monteregie ou ouest droit familial mon nom va sortir mais a partir de la meme s il me telephone je lui demande ou vous habitez s il me dit que j habite dans monteregie ou ouest il ne peut pas etre mon client
+-------------------------------------------
+
+Line ID: 9061812683
+WER Score: 16.67
+Transcript: oui oui on peut pratiquer le droit mais comme je disais c est tellement limitatif juste la sollicitation de la clientele etait problematique le materiel il aurait fallu que j aille a un autre numero de telephone puis
+Reference:  oui on peut pratiquer le droit mais ce que je disais c est tellement limitatif juste la sollicitation de la clientele etait problematique le materiel il aurait fallu que j ai un autre numero de telephone
+-------------------------------------------
+
+Line ID: 9061868810
+WER Score: 11.29
+Transcript: le numero de telephone que j ai presentement c est le numero de telephone que j avais quand j avais mon propre bureau d avocate il aurait fallu que je change d appareil au niveau aussi des heures de pratique la commissaire a l ethique disait seulement qu on ne peut pas pratiquer dans les heures sur lesquelles on exerce notre fonction de depute
+Reference:  le numero de telephone que j ai presentement c est le numero de telephone que j avais quand j avais mon propre bureau d avocat il faudrait qu il change d appareil au niveau des heures de pratique la commissaire a l ethique disait seulement qu on ne peut pas pratiquer dans les heures sur lesquelles on exerce notre fonction de deputee
+-------------------------------------------
+
+Line ID: 9061897919
+WER Score: 9.84
+Transcript: notre fonction de depute en tout cas moi je suis deputee independante puis je l exerce pas mal 7 jours par semaine on est 3 jours par semaine a l assemblee nationale le vendredi on a des repas partages le vendredi soir on a le souper spaghetti on a des mises au jeu officielles protocolaires on a des remises de diplomes
+Reference:  notre fonction de deputee en tout cas moi je suis deputee independante et je l exerce pas mal 6 jours par semaine on est 3 jours par semaine a l assemblee nationale le vendredi on a des repas partages le vendredi soir on a le soupe spaghetti on a des mises au jeu officiel protocolaire on a des remises de diplomes
+-------------------------------------------
+
+Line ID: 9061862670
+WER Score: 15.09
+Transcript: c est delicat un peu partout quand ils disent de ne pas solliciter la clientele souvent quand je vais dans un evenement qui est plutot protocolaire et qu on presente la deputee on presente marc claude necosse depute de vaudreuil depuis 2014 mais avant ca mairesse prefete avocate en droit familial
+Reference:  c est delicat un peu partout quand on dit de ne pas solliciter la clientele souvent quand je vais dans un evenement qui est plus trop protocolaire et qu on presente la deputee on presente la marie claude nichols deputee de vaudreuil depuis 2014 mais avant ca mairesse prefete avocate en droit familial
+-------------------------------------------
+
+Line ID: 9061828493
+WER Score: 12.50
+Transcript: je suis prete a commenter la situation qui s applique a moi par exemple puis c est vrai que mon corps est simple sans plus limitatif que d autres puis quand on porte a mon attention comment fonctionne comment la commissaire a l ethique autorise les autres a fonctionner je me dis je me dis a la limite je ne suis pas une bonne femme d affaires
+Reference:  mais je suis prete a commenter la situation qui s applique a moi par exemple puis c est vrai que mon corps et sable sont plus limitatif que d autres quand on porte a mon attention comment fonctionne comment la commissaire a l ethique autorise les autres a fonctionner je me dis a la limite je ne suis pas une bonne femme d affaires
+-------------------------------------------
+
+Line ID: 9061875000
+WER Score: 4.26
+Transcript: oui mais en fait mon collegue respecte les limites que lui a imposees la commissaire a l ethique puis oui dans le fond je pourrais le transposer a ma situation bien qu on n exerce pas le meme type de droit moi c est du droit familial la
+Reference:  oui mais en fait mon collegue respecte les limites que lui a impose la commissaire a l ethique puis oui dans le fond je pourrais le transposer a ma situation bien qu on n exerce pas le meme type de droit moi c est du droit familial
+-------------------------------------------
+
+Line ID: 9061893509
+WER Score: 11.43
+Transcript: ca fait que c est encore la proximite le droit de l immigration aussi il y a une certaine proximite mais ca peut venir d un peu partout sa clientele peut venir d un peu partout
+Reference:  fait que c est encore la proximite bien le droit d immigration aussi il y a une certaine proximite mais ca peut venir d un peu partout sa clientele peut venir d un peu partout
+-------------------------------------------
+
+Line ID: 9061847317
+WER Score: 2.60
+Transcript: c est encore plus territorial mais oui dans le fond ce que je constate c est qu il y a un modele d affaires qui fonctionne qui respecte les parametres ou les modalites emises par la commissaire a l ethique mais la ou c est parce que j y repense aux parametres qui s appliquent d un cote et qui ne s appliquent pas chez nous la notion de conflit d interets ou d apparence de conflit d interets
+Reference:  c est encore plus territorial mais oui dans le fond ce que je constate c est qu il y a un modele d affaires qui fonctionne qui respecte les parametres ou les modalites emises par la commissaire a l ethique mais c est parce que j y repense aux parametres qui s appliquent d un cote et qui ne s appliquent pas chez nous la notion de conflit d interets ou d apparence de conflit d interets
+-------------------------------------------
+
+Line ID: 9061877206
+WER Score: 2.33
+Transcript: moi je ne peux pas aller solliciter une clientele je ne peux pas avoir un citoyen comme client mais si j avais un bureau mon collegue qui travaillerait pour mon bureau pourrait lui avoir le client que moi je ne peux pas avoir
+Reference:  moi je ne peux pas aller solliciter une clientele je ne peux pas avoir un citoyen comme client mais si j avais un bureau mon collegue qui travaillait pour mon bureau pourrait lui avoir le client que moi je ne peux pas avoir
+-------------------------------------------
+
+Line ID: 9061850989
+WER Score: 3.85
+Transcript: puis il y avait une autre chose sur laquelle je n etais pas necessairement a l aise souvent on demande a nos clients vous habitez quelle region vous habitez quelle municipalite moi j ai sept municipalites dans le comte de vaudreuil mais vaudreuil soulange c est grand puis monteregie ouest c est grand aussi
+Reference:  puis il y avait une autre chose sur laquelle je n etais pas necessairement a l aise souvent on demande a nos clients vous habitez quelle region vous habitez quelle municipalite moi j ai sept municipalites dans le comte de vaudreuil vaudreuil soulange c est grand monteregie ouest c est grand aussi
+-------------------------------------------
+
+Line ID: 9061893241
+WER Score: 15.79
+Transcript: mais je n ai pas le droit d utiliser la liste electorale moi pour savoir mon client il vient d ou
+Reference:  mais je n ai pas le droit d utiliser la liste electorale pour savoir mon client vient de ou
+-------------------------------------------
+
+Line ID: 9061888800
+WER Score: 6.06
+Transcript: c est correct parce que nous autres la vie comme elu on ne sait jamais quand ca peut finir tant mieux ceux qui ont des professions c est prouve que c est un petit peu plus facile de retourner apres sur le marche du travail parce qu on est quand meme etiquette comme des elus et souvent la partisanerie aupres d un parti ou d un autre
+Reference:  est correct parce que nous autres la vie comme elu on ne sait jamais quand ca peut finir tant mieux ceux qui ont des professions c est prouve que c est un petit peu plus facile de retourner apres sur le marche du travail parce qu on est quand meme etiquetes comme des elus puis souvent la partisannerie aupres d un parti ou d un autre
+-------------------------------------------
+
+Line ID: 9061894528
+WER Score: 1.30
+Transcript: oui c est surement plus facile puis honnetement on travaille deja des projets de loi a l assemblee nationale moi j aime beaucoup l etude detaillee la plupart des collegues n aiment pas ca moi j aime ca l etude detaillee quand on arrive avec un projet de loi je le lis je le decortique comment je peux le bonifier c est surement un reflexe juridique oui apres on est legislateur moi c est la partie legislatrice
+Reference:  oui c est surement plus facile puis honnetement on travaille deja des projets de loi a l assemblee nationale moi j aime beaucoup l etude detaillee la plupart des collegues n aiment pas ca moi j aime ca l etude detaillee quand on arrive avec un projet de loi je le lis je le decortis comment je peux le bonifier c est surement un reflexe juridique oui apres on est legislateur moi c est la partie legislatrice
+-------------------------------------------
+
+Line ID: 9061817712
+WER Score: 10.26
+Transcript: c est une partie de mes fonctions qui me plait beaucoup comme avocate fait que oui vous avez surement raison qu apres c est plus facile de se replacer mais si on revient a la situation des collegues on est avocat aussi puis
+Reference:  c est une partie de mes fonctions qui me plait beaucoup comme avocate vous avez surement raison qu apres c est plus facile de se replacer mais si on revient a la situation des collegues on est avocat aussi
+-------------------------------------------
+
+Line ID: 9061870583
+WER Score: 0.00
+Transcript: non moi j ai renonce a pratiquer jusqu a la fin de mon mandat c est un choix que j ai fait j accorde beaucoup d importance a mon integrite
+Reference:  non moi j ai renonce a pratiquer jusqu a la fin de mon mandat c est un choix que j ai fait j accorde beaucoup d importance a mon integrite
+-------------------------------------------
+
+Line ID: 9061868337
+WER Score: 7.32
+Transcript: trouve ca important l ethique aussi pour moi c est super important fait que non j ai renonce a la pratique surtout apres avoir vu j avais une certaine volonte quand j ai demande a la commissaire a l ethique puis quand j ai vu tout ca j ai fait ah c est trop complique puis je ne voudrais pas que mes citoyens je ne voudrais pas me faire reprocher par mes citoyens ce sont mes electeurs c est eux qui votent pour moi fait
+Reference:  je trouve ca important l ethique aussi pour moi c est super important fait que non j ai renonce a la pratique surtout apres avoir vu j avais une certaine volonte quand j ai demande a la commissaire a l ethique quand j ai vu tout ca j ai fait c est trop complique je ne voudrais pas que mes citoyens je ne voudrais pas me faire approcher par mes citoyens ce sont mes electeurs c est eux qui votent pour moi
+-------------------------------------------
+
+Line ID: 9061828494
+WER Score: 6.45
+Transcript: je ne voudrais pas qu eux disent puis supposons que je n aurais pas un bon jugement dans un dossier en droit familial ca pourrait aussi avoir des repercussions sur ma reputation
+Reference:  je ne voudrais pas qu eux disent supposons que je n aurai pas un bon jugement dans un dossier en droit familial ca pourrait aussi avoir des repercussions sur ma reputation
+-------------------------------------------
+
+Line ID: 9061860468
+WER Score: 15.56
+Transcript: moi je suis deputee independante je pensais avoir du temps libre puis je n en ai pas je presume que quand on est a l opposition officielle puis qu on a des dossiers d assimiles on n en a pas beaucoup non plus qu on soit l opposition officielle la deuxieme opposition ou la troisieme opposition je suis consciente qu il y en a eu des cas je pense a amir khadir qui etait medecin qui pouvait pratiquer je sais qu il y en a
+Reference:  bien moi je suis deputee independante je pensais avoir du temps libre puis j en ai pas fait que je presume que quand on est a l opposition officielle et qu on a des dossiers d assignes on n en a pas beaucoup non plus qu on soit l opposition officielle la deuxieme opposition ou la troisieme opposition je sais que je suis consciente qu il y en a eu des cas que je pensais a myrkadyr qui etait medecin qui pouvait pratiquer je sais qu il y en a
+-------------------------------------------
+
+Line ID: 9061875975
+WER Score: 5.56
+Transcript: moi je pense que je ne serais pas capable de faire les deux en tout cas je ne serais pas a l aise je ne serais pas a l aise de changer de chapeau puis avoir a me justifier ou de faire face a la controverse j en ai assure dans les dernieres annees mais je ne serais pas a l aise avec ca moi c est mon choix
+Reference:  moi je pense que je ne serais pas capable de faire les deux en tout cas je ne serais pas a l aise je ne serais pas a l aise de changer de chapeau puis avoir a me justifier ou de faire face a la controverse j en ai assez eu dans les dernieres annees mais je ne serais pas a l aise avec ca fait que moi c est mon choix
+-------------------------------------------
+
+Line ID: 9061865566
+WER Score: 0.00
+Transcript: mais quand je suis rentree par exemple en politique en 2014 puis meme quand je suis rentree en 2009 a titre de mairesse j avais demande au bureau auquel je travaillais de pouvoir terminer mes dossiers
+Reference:  mais quand je suis rentree par exemple en politique en 2014 puis meme quand je suis rentree en 2009 a titre de mairesse j avais demande au bureau auquel je travaillais de pouvoir terminer mes dossiers
+-------------------------------------------
+
+Line ID: 3493562027
+WER Score: 0.00
+Transcript: allez dans un endroit calme et tempere retirez vos chaussures si vous le desirez ayez une couverture a portee de la main pour vous garder au chaud
+Reference:  allez dans un endroit calme et tempere retirez vos chaussures si vous le desirez ayez une couverture a portee de la main pour vous garder au chaud
+-------------------------------------------
+
+Line ID: 3493578076
+WER Score: 2.86
+Transcript: bonjour et bienvenue a cette seance de relaxation musculaire progressive inspiree de la methode jacobson je suis klausia labrosse kinesiologue et je serai votre guide avant de debuter habillez vous afin de pouvoir bouger librement
+Reference:  bonjour et bienvenue a cette seance de relaxation musculaire progressive inspiree de la methode jacobson je suis claudia labrosse kinesiologue et je serai votre guide avant de debuter habillez vous afin de pouvoir bouger librement
+-------------------------------------------
+
+Line ID: 3493521618
+WER Score: 0.00
+Transcript: choisissez une position confortable et asseyez vous sur une chaise rembourree ou couchez vous sur un tapis moelleux commencez par etirer vos bras le plus loin possible au dessus de la tete et posez vos mains sur vos cuisses doucement
+Reference:  choisissez une position confortable et asseyez vous sur une chaise rembourree ou couchez vous sur un tapis moelleux commencez par etirer vos bras le plus loin possible au dessus de la tete et posez vos mains sur vos cuisses doucement
+-------------------------------------------
+
+Line ID: 3493554369
+WER Score: 3.70
+Transcript: amenez la tension sur vos mains fermez et serrez vos poings jusqu a ressentir une tension maintenez la position durant 5 secondes encore 4 3 2 one .
+Reference:  amenez la tension sur vos mains fermez et serrez vos poings jusqu a ressentir une tension maintenez la position durant 5 secondes encore 4 3 2 one
+-------------------------------------------
+
+Line ID: 3493551667
+WER Score: 5.00
+Transcript: peu a peu desserrez vos poings liberez chacun de vos doigts concentrez vous sur la detente que ca vous procure
+Reference:  peu a peu desserez vos poings liberez chacun de vos doigts concentrez vous sur la detente que ca vous procure
+-------------------------------------------
+
+Line ID: 3493568361
+WER Score: 11.76
+Transcript: repetez une deuxieme fois fermez votre point maintenez le point ferme pour 5 4 3 2 one
+Reference:  repetez une deuxieme fois fermez votre poing maintenez le poing ferme pour 5 4 3 2 one
+-------------------------------------------
+
+Line ID: 3493537146
+WER Score: 0.00
+Transcript: depliez vos doigts doucement ramenez votre attention sur cette sensation d ouverture dans vos mains
+Reference:  depliez vos doigts doucement ramenez votre attention sur cette sensation d ouverture dans vos mains
+-------------------------------------------
+
+Line ID: 3493581215
+WER Score: 0.00
+Transcript: poursuivez avec les epaules delicatement levez vos epaules aussi haut que possible vers les oreilles maintenez cette position pendant 5 4 3 2 one
+Reference:  poursuivez avec les epaules delicatement levez vos epaules aussi haut que possible vers les oreilles maintenez cette position pendant 5 4 3 2 one
+-------------------------------------------
+
+Line ID: 3493590352
+WER Score: 0.00
+Transcript: relachez vos epaules pour liberer la tension concentrez vous sur la detente que vous ressentez
+Reference:  relachez vos epaules pour liberer la tension concentrez vous sur la detente que vous ressentez
+-------------------------------------------
+
+Line ID: 3493527024
+WER Score: 0.00
+Transcript: une derniere fois levez vos epaules pour 5 4 3 2 one laissez tomber vos epaules
+Reference:  une derniere fois levez vos epaules pour 5 4 3 2 one laissez tomber vos epaules
+-------------------------------------------
+
+Line ID: 3493591794
+WER Score: 0.00
+Transcript: passez maintenant au cou rentrez votre menton vers votre cou maintenez 5 secondes 4 3 2 one
+Reference:  passez maintenant au cou rentrez votre menton vers votre cou maintenez 5 secondes 4 3 2 one
+-------------------------------------------
+
+Line ID: 3493552060
+WER Score: 4.00
+Transcript: continuez avec votre visage ouvrez votre bouche et tirez votre langue aussi loin que possible maintenez votre langue tiree cinq secondes quatre trois deux un .
+Reference:  continuez avec votre visage ouvrez votre bouche et tirez votre langue aussi loin que possible maintenez votre langue tiree cinq secondes quatre trois deux un
+-------------------------------------------
+
+Line ID: 3493540525
+WER Score: 16.67
+Transcript: repetez une derniere fois tirez la langue pendant 5 4 3 2 one relachez votre bouche posez votre langue contre votre palais remarquez a quel point votre visage semble leger
+Reference:  repetez une derniere fois tirez la langue pendant cinq quatre trois deux un relachez votre bouche posez votre langue contre votre palais remarquez a quel point votre visage semble leger
+-------------------------------------------
+
+Line ID: 3493525657
+WER Score: 0.00
+Transcript: portez maintenant votre attention sur votre dos appuyez bien vos epaules contre la chaise le matelas ou le sol bombez votre torse pour que votre dos soit legerement arque
+Reference:  portez maintenant votre attention sur votre dos appuyez bien vos epaules contre la chaise le matelas ou le sol bombez votre torse pour que votre dos soit legerement arque
+-------------------------------------------
+
+Line ID: 3493592889
+WER Score: 0.00
+Transcript: n appuyez que vos omoplates maintenez la position 5 secondes 4 3 2 one laissez tomber le dos contre l appui
+Reference:  n appuyez que vos omoplates maintenez la position 5 secondes 4 3 2 one laissez tomber le dos contre l appui
+-------------------------------------------
+
+Line ID: 3493537619
+WER Score: 0.00
+Transcript: une derniere fois serrez vos fesses gardez la contraction pour 5 4 3 2 one relachez la tension
+Reference:  une derniere fois serrez vos fesses gardez la contraction pour 5 4 3 2 one relachez la tension
+-------------------------------------------
+
+Line ID: 3493574028
+WER Score: 0.00
+Transcript: pour terminer concentrez vous sur vos mollets et vos pieds pointez vos orteils vers l avant ou dans le sol maintenez la position 5 secondes 4 3 2 one relachez vos orteils sentez les muscles de vos pieds et de vos jambes se detendre
+Reference:  pour terminer concentrez vous sur vos mollets et vos pieds pointez vos orteils vers l avant ou dans le sol maintenez la position 5 secondes 4 3 2 one relachez vos orteils sentez les muscles de vos pieds et de vos jambes se detendre
+-------------------------------------------
+
+Line ID: 7883375337
+WER Score: 15.00
+Transcript: je me rappelle d avoir texte catherine qui partait du travail et je lui avais dit arrete donc pars chez nous on va souper ensemble et elle a dit non je suis fatiguee je vais aller a la maison
+Reference:  je me rappelle d avoir texte catherine qui partait du travail puis j avais dit arrete donc par chez nous on va souper ensemble et tout et elle a dit non je suis fatiguee je vais aller a la maison
+-------------------------------------------
+
+Line ID: 7883386862
+WER Score: 5.26
+Transcript: on s est demande de quoi etait decedee le fait qu elle ait ete violee qu elle etait consciente puis a quel point elle savait ce qui s en venait par apres a quel point c est pas dit ok je me ferme les yeux puis apres ca il va s en aller a quel point elle a eu mal a quel point elle a eu peur c est vraiment degueulasse de penser a ca
+Reference:  on s est demande de quoi etait decede le fait qu elle a ete violee qu elle etait consciente puis a quel point elle savait ce qui s en venait par apres a quel point elle s est pas dit ok je me ferme les yeux puis apres ca il va s en aller a quel point elle a eu mal a quel point elle a eu peur c est vraiment degueulasse de penser a ca
+-------------------------------------------
+
+Line ID: 7883348651
+WER Score: 0.00
+Transcript: j habite le quartier rosemont depuis l an 2000 cette annee la je quitte la maison familiale sur la rive sud de montreal pour m installer enfin en appartement dans la grande ville
+Reference:  j habite le quartier rosemont depuis l an 2000 cette annee la je quitte la maison familiale sur la rive sud de montreal pour m installer enfin en appartement dans la grande ville
+-------------------------------------------
+
+Line ID: 7883322225
+WER Score: 2.44
+Transcript: a ce moment la je suis au debut de ma vingtaine et je viens de terminer mon bac en journalisme a l uqam j habite seule dans un 45 sur la 5 e avenue tres pres d ou on se dirige
+Reference:  a ce moment la je suis au debut de ma vingtaine et je viens de terminer mon bac en journalisme a l uqam j habite seul dans un 45 sur la 5 e avenue tres pres d ou on se dirige
+-------------------------------------------
+
+Line ID: 7883379270
+WER Score: 0.00
+Transcript: je l imagine retirer son manteau sa tuque replacer ses longs cheveux blondes un geste furtif penser a ce qu elle va se preparer a souper peut etre se faire livrer quelque chose c est un jeudi comme tous les autres
+Reference:  je l imagine retirer son manteau sa tuque replacer ses longs cheveux blondes un geste furtif penser a ce qu elle va se preparer a souper peut etre se faire livrer quelque chose c est un jeudi comme tous les autres
+-------------------------------------------
+
+Line ID: 7392681522
+WER Score: 10.53
+Transcript: je me rappelle en haut tu voyais la ils ont nettoye c etait tout noir je me suis presentee ils m ont identifiee tout ok la soeur puis ils m ont demande ils m ont dit qu elle avait ete victime probablement de tu sais c etait probablement un meurtre puis qu on l avait retrouvee dans son logement ils m ont dit que tu sais le feu avait ete il y a quelqu un qui avait mis le feu
+Reference:  je me rappelle en haut tu voyais ils ont nettoye c etait tout noir je me suis presentee ils m ont identifiee tout a qui la soeur puis ils m ont demande ils m ont dit qu elle avait ete victime probablement de c etait probablement un meurtre puis quand on l avait retrouvee dans son logement ils m ont dit que le feu avait ete il y a quelqu un qui avait mis le feu
+-------------------------------------------
+
+Line ID: 7392634050
+WER Score: 19.44
+Transcript: de la colere qu est ce qui s est passe comment ca tu ne sais pas parce que quand tu regardes son passe tu te dis qui a pu faire ca
+Reference:  de la colere de la t sais qu est ce qui s est passe comment ca tu sais pas parce que t sais quand tu regardes son passe tu te dis qui a pu faire ca
+-------------------------------------------
+
+Line ID: 5000258557
+WER Score: 5.26
+Transcript: le dossier de catherine je veux dire j en ai entendu parler quand je suis arrivee au crime majeur l enqueteur avec qui j ai ete jumelee mon partenaire de travail a ce moment la le sergent detective antonio paradiso travaillait sur ce dossier la donc par la force des choses j ai travaille avec lui dans ce dossier la
+Reference:  le dossier de catherine j en ai entendu parler quand je suis arrivee au crime majeur l enqueteur avec qui j ai ete jumelee mon partenaire de travail a ce moment la le sergent detective antonio paradiso travaillait sur ce dossier la donc par la force des choses j ai travaille avec lui dans ce dossier la
+-------------------------------------------
+
+Line ID: 5000234029
+WER Score: 4.76
+Transcript: et quand m paradiso a pris sa retraite en mai 2018 j ai repris la releve du dossier de catherine daviau
+Reference:  et quand monsieur paradiso a pris sa retraite en mai 2018 j ai repris la releve du dossier de catherine daviau
+-------------------------------------------
+
+Line ID: 7883322627
+WER Score: 4.92
+Transcript: elle doit etre dans la quarantaine elle est serieuse droite a son affaire on sent que ca niaise pas qu elle n est pas du genre a s en faire passer depuis 2015 elle est au crime majeur aux homicides avant il y a eu pas mal d autres enqueteurs qui se sont occupes de l affaire catherine daviau
+Reference:  elle doit etre dans la quarantaine elle est serieuse droite a son affaire on sent que ca n y est pas qu elle n est pas du genre a s en faire passer depuis 2015 elle est au crime majeur aux homicides avant il y a eu pas mal d autres enqueteurs qui se sont occupes de l affaire catherine daviau
+-------------------------------------------
+
+Line ID: 7883317885
+WER Score: 2.70
+Transcript: comme tous les jours catherine part de chez elle pour aller travailler dans une entreprise a pointe claire dans l ouest de l ile mais c est en revenant de la job que l affaire se corse
+Reference:  comme tous les jours catherine part de chez elle pour aller travailler dans une entreprise a pointe claire dans l ouest de l ile mais c est en revenant de la job que l affaire se course
+-------------------------------------------
+
+Line ID: 7883323399
+WER Score: 0.00
+Transcript: catherine quitte le travail vers 16 h 30 l ouest de l ile et rosemont c est assez loin c est une trentaine de kilometers de distance a l heure de pointe ca peut prendre jusqu a une heure une heure et quart ceux qui vivent a montreal le savent dans ce coin la il y a toujours du trafic sur la 40
+Reference:  catherine quitte le travail vers 16 h 30 l ouest de l ile et rosemont c est assez loin c est une trentaine de kilometers de distance a l heure de pointe ca peut prendre jusqu a une heure une heure et quart ceux qui vivent a montreal le savent dans ce coin la il y a toujours du trafic sur la 40
+-------------------------------------------
+
+Line ID: 5000251381
+WER Score: 100.00
+Transcript: sous titrage societe radio canada
+Reference:  il y avait une tempete de neige cette journee la donc ca lui a pris quand meme un certain temps a se rendre chez elle en voiture on estime qu elle serait peut etre arrivee vers 5 h 30 6 h 0 chez elle le soir
+-------------------------------------------
+
+Line ID: 5000217910
+WER Score: 1.72
+Transcript: a 19 h 7 il y a eu un appel au 911 pour de la fumee provenant de son appartement donc les pompiers sont alles sur les lieux et ont fait la decouverte du corps de catherine qui etait nue elle a ete agressee sexuellement et on a pu retrouver le corps de catherine dans les decomptes
+Reference:  et a 19 h 7 il y a eu un appel au 911 pour de la fumee provenant de son appartement donc les pompiers sont alles sur les lieux et ont fait la decouverte du corps de catherine qui etait nue elle a ete agressee sexuellement et on a pu retrouver le corps de catherine dans les decomptes
+-------------------------------------------
+
+Line ID: 7883380480
+WER Score: 0.00
+Transcript: catherine arrive chez elle vers 17 h 30 18 h a 19 h 7 les pompiers retrouvent son corps en l espace de moins d une heure et demie elle revient chez elle se fait assassiner et le tueur met le feu a son appartement tout ca sur l heure du souper sans que personne ne s en rende compte comment c est possible
+Reference:  catherine arrive chez elle vers 17 h 30 18 h a 19 h 7 les pompiers retrouvent son corps en l espace de moins d une heure et demie elle revient chez elle se fait assassiner et le tueur met le feu a son appartement tout ca sur l heure du souper sans que personne ne s en rende compte comment c est possible
+-------------------------------------------
+
+Line ID: 5000250837
+WER Score: 2.74
+Transcript: c est sur que je vais commenter parce que bon vous avez l information mais c est sur que c est difficile pour moi de vous donner toutes les grandes lignes du dossier d enquete comme c est un dossier non resolu il faut que je sois prudente sur ca mais oui ca nous donne une fenetre d opportunite si on veut pour que l agression soit commise et que le feu soit mis la
+Reference:  c est sur que je vais commenter parce que vous avez l information mais c est sur que c est difficile pour moi de vous donner toutes les grandes lignes du dossier d enquete comme c est un dossier non resolu il faut que je sois prudente sur ca mais oui ca nous donne une fenetre d opportunite si on veut pour que l agression soit commise et que le feu soit mis
+-------------------------------------------
+
+Line ID: 5000226703
+WER Score: 1.96
+Transcript: c est sur que c est un dossier qui est en cours il y a certaines choses que je ne peux pas devoiler ce qu on peut dire ce qui a deja ete dit aussi c est que les portes de catherine etaient barrees quand les pompiers sont arrives chez elle
+Reference:  c est sur que c est un dossier qui est en cours il y a certaines choses que je ne peux pas devoiler ce qu on peut dire ce qui a deja ete dit aussi c est que les portes de catherine etaient barrees quand les pompiers sont arrives chez elles
+-------------------------------------------
+
+Line ID: 5000285518
+WER Score: 0.00
+Transcript: donc c est soit que l agresseur peut etre une personne que catherine connaissait ou soit que c est une personne qui a cogne a la porte et que catherine a ouvert la porte ca peut etre une autre option qu il faut regarder mais c est une personne qui avait possiblement planifie certaines choses de par ce qu elle a laisse
+Reference:  donc c est soit que l agresseur peut etre une personne que catherine connaissait ou soit que c est une personne qui a cogne a la porte et que catherine a ouvert la porte ca peut etre une autre option qu il faut regarder mais c est une personne qui avait possiblement planifie certaines choses de par ce qu elle a laisse
+-------------------------------------------
+
+Line ID: 5000271828
+WER Score: 5.45
+Transcript: mais je pense que cette personne la a peut etre ete trop loin il a fallu qu elle maquille son crime puis elle n a pas eu la chance que tout fonctionne comme elle esperait donc c est pour ca qu on est en mesure de trouver certaines pieces du puzzle comme on peut appeler
+Reference:  mais je pense que cette personne a peut etre ete trop loin il a fallu qu elle maquille son crime puis elle n a pas eu la chance que tout fonctionne comme elle esperait donc c est pour ca qu on est en mesure de trouver certaines pieces du bas hole comme on peut appeler
+-------------------------------------------
+
+Line ID: 5000280891
+WER Score: 2.90
+Transcript: catherine je veux dire elle a ete tuee chez elle je suis une femme quand on est chez nous on devrait etre en securite on est en securite quand meme dans la rue a montreal le taux de domicile est bas donc il faut comprendre que ce dossier la c est un dossier qui me tient quand meme a coeur parce que c est un crime gratuit
+Reference:  catherine je veux dire elle a ete tuee chez elle je suis une femme quand on est chez nous on devrait etre en securite on est en securite quand meme dans la rue a montreal le taux de domicile est bas et tout donc il faut comprendre que ce dossier la c est un dossier qui me tient quand meme a coeur parce que c est un crime gratuit
+-------------------------------------------
+
+Line ID: 7883337533
+WER Score: 0.00
+Transcript: c est un soir de tempete ca se passe chez elle sur la 5 e avenue dans le quartier generalement paisible de rosemont a montreal tout ce qu on sait quand les pompiers arrivent sur place il n y a aucune trace d effraction
+Reference:  c est un soir de tempete ca se passe chez elle sur la 5 e avenue dans le quartier generalement paisible de rosemont a montreal tout ce qu on sait quand les pompiers arrivent sur place il n y a aucune trace d effraction
+-------------------------------------------
+
+Line ID: 2442538070
+WER Score: 2.50
+Transcript: cette histoire commence avec un message linkedin en fait plusieurs elements de ce recit sont lies a linkedin le fameux site de reseautage professionnel mais ca on va y revenir donc le 30 avril 2019 je recois un message intriguant
+Reference:  cette histoire commence avec un message linkedin en fait plusieurs elements de ce recit sont lies a linkedin le fameux site de reseautage professionnel mais ca on va y revenir donc le 30 avril 2019 je recois un message intrigant
+-------------------------------------------
+
+Line ID: 2442538876
+WER Score: 2.74
+Transcript: je vais seulement le lire quelques jours plus tard parce que je n ai pas vraiment l habitude de verifier mon linkedin je trouve ca un peu plate comme site mais bref le message dit bonjour mon nom est yannick cadieux et j aimerais partager avec vous l histoire d un seul individu qui a fait tellement de ravages a travers les 30 40 dernieres annees et jamais personne n a ose l arreter
+Reference:  je vais seulement le lire quelques jours plus tard parce que j ai pas vraiment l habitude de verifier mon linkedin je trouve ca un peu plate comme site mais bref le message dit bonjour mon nom est yannick cadieux et j aimerais partager avec vous l histoire d un seul individu qui a fait tellement de ravages a travers les 30 40 dernieres annees et jamais personne n a ose l arreter
+-------------------------------------------
+
+Line ID: 2442580208
+WER Score: 0.00
+Transcript: est ce que c est quelque chose qui pourrait vous interesser bon des courriels comme ca les journalistes on en recoit beaucoup des fois c est complique de trier le bon du mauvais le vrai du faux
+Reference:  est ce que c est quelque chose qui pourrait vous interesser bon des courriels comme ca les journalistes on en recoit beaucoup des fois c est complique de trier le bon du mauvais le vrai du faux
+-------------------------------------------
+
+Line ID: 2442596301
+WER Score: 7.06
+Transcript: donc le 3 mai a 15 h je reponds a m cadieux qu il va falloir m envoyer un peu plus de details a 15 h 14 yannick cadieux m ecrit parfait merci je vous montre le dossier complet et je vous envoie ca bientot quelques heures plus tard j avais dans mes courriels une saga de pres de 1000 mots ou m cadieux me presentait une serie d allegations contre un homme du west island un soi disant charmeur charismatique nomme sheldon ludwig 62 ans
+Reference:  donc le 3 mai a 15 heures je reponds a monsieur cadieux qui va falloir m envoyer un peu plus de details a 15 h 14 yannick cadieux m ecrit parfait merci je vous montre le dossier complet et je vous envoie ca bientot quelques heures plus tard j avais dans mes courriels une saga de pres de 1000 mots ou monsieur cadieux me presentait une serie d allegations contre un homme du west island un soi disant charmeur charismatique nomme sheldon ludwick 62 ans
+-------------------------------------------
+
+Line ID: 2442561980
+WER Score: 2.17
+Transcript: j ai commence mes recherches au palais de justice de montreal ou j esperais deterrer quelques details sur son passe judiciaire j ai trouve une trentaine de cas qui l impliquaient ce que j ai constate c est que sheldon ludwig cumule les problemes financiers depuis des decennies et qu il semble avoir entraine plusieurs personnes dans ses deboires pour aller plus loin j ai ensuite organize un meeting avec un contact que je ne peux pas vraiment identifier mais qui est bien a l affut de ce genre d histoire la
+Reference:  j ai commence mes recherches au palais de justice de montreal ou j esperais deterrir quelques details sur son passe judiciaire j ai trouve une trentaine de cas qui l impliquaient ce que j ai constate c est que sheldon ludwick cumule les problemes financiers depuis des decennies et qu il semble avoir entraine plusieurs personnes dans ses deboires pour aller plus loin j ai ensuite organize un meeting avec un contact que je ne peux pas vraiment identifier mais qui est bien a l affut de ce genre d histoire la
+-------------------------------------------
+
+Line ID: 2442561133
+WER Score: 2.17
+Transcript: quand je lui ai dit le nom de sheldon ludwig ses yeux sont devenus gros comme ca il savait exactement c etait qui et selon lui il s agirait d un homme qui doit beaucoup d argent a beaucoup de monde dont certaines personnes tres dangereuses
+Reference:  quand je lui ai dit le nom de sheldon ludwick ses yeux sont devenus gros comme ca il savait exactement c etait qui et selon lui il s agirait d un homme qui doit beaucoup d argent a beaucoup de monde dont certaines personnes tres dangereuses
+-------------------------------------------
+
+Line ID: 2442528421
+WER Score: 1.32
+Transcript: en fait isabelle avait absolument besoin d un plan b il y a quelques annees elle a ete tres malade c est une epreuve qui l a beaucoup ebranlee mais qui lui a aussi coute tres cher elle a du faire une proposition au consommateur un genre d alternative a la faillite ou tes biens comme ta maison et tes reaires ne sont pas saisis elle ne pouvait donc pas se permettre de perdre sa job
+Reference:  en fait isabelle avait absolument besoin d un plan b il y a quelques annees elle a ete tres malade c est une epreuve qui l a beaucoup ebranle mais qui lui a aussi coute tres cher elle a du faire une proposition au consommateur un genre d alternative a la faillite ou tes biens comme ta maison et tes reaires ne sont pas saisis elle ne pouvait donc pas se permettre de perdre sa job
+-------------------------------------------
+
+Line ID: 1266948891
+WER Score: 29.27
+Transcript: on pensait peut etre que c etait une pierre au rein finalement je suis restee plusieurs mois avec justement que c etait pas benin c etait malin parce qu en tout cas je suis encore la je veux redonner au suivant j ai eu cette chance la c est
+Reference:  on pensait peut etre que c etait une carorin finalement je suis restee plusieurs mois avec justement que ce n etait pas benin c etait malin je suis encore la je veux redonner au suivant j ai eu cette chance la
+-------------------------------------------
+
+Line ID: 1266985977
+WER Score: 9.09
+Transcript: j aurais un job d admin j ai besoin de quelqu un qui va faire mes suivis de tout le parce que lui il a une industrie qui s appelle bedrock loading et il amene plein de linge au canada c est quelque chose que je connais c est un metier que je fais ce cote la tout ce qui est fashion apparel garment toutes ces choses la
+Reference:  j aurais une job d admin j ai besoin de quelqu un qui va faire mes suivis parce que lui il y a une industrie qui s appelle bedrock coating et il amene plein de linge au canada c est quelque chose que je connais c est un metier que je fais ce cote la tout ce qui est fashion apparel garment toutes ces choses la
+-------------------------------------------
+
+Line ID: 2442562638
+WER Score: 1.96
+Transcript: a cote d isabelle il y a une pile de documents avec un grand cahier a relire orange sur le dessus elle m explique que ce carnet la qu elle utilisait pour documenter toutes ses meetings et son travail avec sheldon c est maintenant devenu un genre de dossier de preuves
+Reference:  a cote d isabelle il y a une pile de documents avec un grand cahier a relire orange sur le dessus elle m explique que ce carnet la qu elle utilisait pour documenter toutes ses meetings et son travail avec sheldon c est maintenant devenu un genre de dossier de preuve
+-------------------------------------------
+
+Line ID: 2442548255
+WER Score: 1.72
+Transcript: donc au telephone apres avoir presente a isabelle les details du poste qu il souhaitait lui offrir sherden lui aurait fait miroiter d autres possibilites il aurait glisse au passage qu il etait aussi coach de sobriete et qu il serait en train de lancer une entreprise pour aider les gens aux prises avec des problemes de dependance
+Reference:  donc au telephone apres avoir presente a isabelle les details du poste qu il souhaitait lui offrir sheldon lui aurait fait miroiter d autres possibilites il aurait glisse au passage qu il etait aussi coach de sobriete et qu il serait en train de lancer une entreprise pour aider les gens aux prises avec des problemes de dependance
+-------------------------------------------
+
+Line ID: 1266969378
+WER Score: 7.14
+Transcript: j ai fait comme wow ok vraiment il est dans la communaute il redonne au suivant ca c etait tout au telephone j ai fait des therapies moi je suis un ancien gambler moi serieusement j etais hyper motivee
+Reference:  j ai fait comme wow ok fait que vraiment il est dans la communaute il redonne au suivant et ca c etait tout au telephone j ai fait des therapies moi je suis un ancien gambler moi serieusement j etais hyper motivee
+-------------------------------------------
+
+Line ID: 1266911502
+WER Score: 5.66
+Transcript: j ai aucune idee et je n ai jamais demande c est sur je n ai jamais eu un message linkedin de ma vie je ne sais pas pourquoi ce reseau la dans ma tete dans moi est plus credible que de te faire approcher par facebook ou de te faire approcher par .
+Reference:  j ai aucune idee pis j ai jamais demande c est sur je n ai jamais eu un message linkedin de ma vie je ne sais pas pourquoi ce reseau la dans ma tete dans moi est plus credible que de te faire approcher par facebook ou de te faire approcher par .
+-------------------------------------------
+
+Line ID: 2442516499
+WER Score: 2.22
+Transcript: pour recapituler isabelle a recu son premier message de sheldon sur linkedin vers la fin aout puis une semaine et demie plus tard donc le 9 septembre 2018 elle etait assise devant lui en personne au starbucks du boulevard saint jean dans l west island
+Reference:  pour recapituler isabelle a recu son premier message de sheldon sur linkedin vers la fin aout puis une semaine et demie plus tard donc le 9 septembre 2018 elle etait assise devant lui en personne au starbucks du boulevard saint jean dans l west thailand
+-------------------------------------------
+
+Line ID: 1266971385
+WER Score: 0.00
+Transcript: je suis arrivee la il etait dans l entree debout donc on est alle a l interieur et la connection s est faite tout de suite le grand sourire cet homme la est hyper volubile premierement il parle il parle il parle il parle donc la conversation s est faite tres tres tres facilement avec lui il a tout de suite embarque dans sa business
+Reference:  je suis arrivee la il etait dans l entree debout donc on est alle a l interieur et la connection s est faite tout de suite le grand sourire cet homme la est hyper volubile premierement il parle il parle il parle il parle donc la conversation s est faite tres tres tres facilement avec lui il a tout de suite embarque dans sa business
+-------------------------------------------
+
+Line ID: 1266956382
+WER Score: 1.72
+Transcript: et il a commence a m expliquer aussi que lui etait tres malade qu il avait eu le grand mal et l epilepsie entre l asie et le canada il a fait une grosse crise d epilepsie une grosse grosse et il a fallu qu il retourne l avion sinon il allait mourir entre ciel et terre
+Reference:  et il a commence a m expliquer aussi que lui il etait tres malade qu il avait eu le grand mal et l epilepsie entre l asie et le canada il a fait une grosse crise d epilepsie une grosse grosse et il a fallu qu il retourne l avion sinon il allait mourir entre ciel et terre
+-------------------------------------------
+
+Line ID: 2442524246
+WER Score: 2.50
+Transcript: le neuro c est l hopital neurologique de montreal qui est affilie a l universite mcgill sherden aurait raconte a isabelle que pour remercier l hopital neurologique de lui avoir sauve la vie il participait maintenant a leurs activites caritatives
+Reference:  le neuro c est l hopital neurologique de montreal qui est affilie a l universite mcgill sheldon aurait raconte a isabelle que pour remercier l hopital neurologique de lui avoir sauve la vie il participait maintenant a leurs activites caritatives
+-------------------------------------------
+
+Line ID: 1266993036
+WER Score: 12.73
+Transcript: il m a montre une page a ce moment la donc il y avait sa photo avec un lien a l hopital mcgill puis on pouvait voir tout tout tout qu est ce qui s etait passe et comment que lui il trouvait que c etait important a mcgill puis qu il avait sauve sa vie
+Reference:  il m a montre une page a cette a ce moment la donc il avait sa photo avec un lien a l hopital mcgill puis on pouvait voir tout autour de ce qui s etait passe et comment que lui il trouvait que c etait important a mcgill puis qu il avait sauve sa vie
+-------------------------------------------
+
+Line ID: 1266991701
+WER Score: 26.32
+Transcript: qui l a tout de suite amene a me dire ok va voir sheldon rogers tv j ai dit ok il a dit je vais te le montrer sur ma tablette il est alle et il a dit il faut que j aille acheter quelque chose ecoute ca il etait parti a l interieur et il m avait laisse le video de lui qui a un evenement qui s appelle dreams take flight c est des enfants qui sont cancers face a la ruminale ils nolisent un avion et ils amenent a walt disney
+Reference:  ce qui l a tout de suite amene a me dire ok va voir sheldon and rogers tv j ai dit ok je vais te le montrer sur ma tablette il est alle pis il faut que j aille acheter quelque chose ecoute ca ca fait qu il etait parti a l interieur puis il m avait laisse le video de lui qui est a un evenement qui s appelle dreams take flight c est des enfants qui ils ont cancer phase terminale il a les un avion et il s amene a walt disney
+-------------------------------------------
+
+Line ID: 2442528237
+WER Score: 0.00
+Transcript: la video qu il avait montree a isabelle est sur une chaine youtube qui semble appartenir a sheldon on le voit avec une journaliste qui porte des oreilles de mickey mouse sheldon lui porte un polo bleu marine il est bronze avec un look de coach de tennis a la retraite il a les cheveux chatains les yeux bleus les dents blanches bref un beau monsieur
+Reference:  la video qu il avait montree a isabelle est sur une chaine youtube qui semble appartenir a sheldon on le voit avec une journaliste qui porte des oreilles de mickey mouse sheldon lui porte un polo bleu marine il est bronze avec un look de coach de tennis a la retraite il a les cheveux chatains les yeux bleus les dents blanches bref un beau monsieur
+-------------------------------------------
+
+Line ID: 2442574058
+WER Score: 18.18
+Transcript: mais la journaliste en question ne semble pas s en soucier meme que vers la fin de l entrevue elle semble subjuguee visiblement emue par ce qu ils viennent raconter isabelle aussi dit avoir ete tres touchee par ces histoires et par cette video
+Reference:  mais la journaliste en question ne semble pas sans souci meme que vers la fin de l entrevue elle semble subjugee visiblement emue par ce qu il vient de raconter isabelle aussi dit avoir ete tres touchee par ses histoires et par cette video
+-------------------------------------------
+
+Line ID: 1266980056
+WER Score: 0.00
+Transcript: il est incroyable il donnerait sa chemise il est revenu et j ai dit ecoute laisse moi penser a tout ca mais je pense que ca va etre un oui d apres moi parce que la connection est la je ne peux pas l expliquer
+Reference:  il est incroyable il donnerait sa chemise il est revenu et j ai dit ecoute laisse moi penser a tout ca mais je pense que ca va etre un oui d apres moi parce que la connection est la je ne peux pas l expliquer
+-------------------------------------------
+
+Line ID: 1266914866
+WER Score: 0.00
+Transcript: et c est quelque chose que j ai tellement dit souvent a sheldon je ne comprends pas la connection que j ai avec toi je ne peux pas vous expliquer une confiance aveugle pour cet homme la
+Reference:  et c est quelque chose que j ai tellement dit souvent a sheldon je ne comprends pas la connection que j ai avec toi je ne peux pas vous expliquer une confiance aveugle pour cet homme la
+-------------------------------------------
+
+Line ID: 2442580556
+WER Score: 0.00
+Transcript: malgre les doutes de son mari isabelle s est embarquee elle est devenue l employee de sheldon et s est mise a l aider a gerer son entreprise de vetements a temps partiel donc en plus de sa job chez avant puis a peine quelques semaines apres son embauche sheldon lui aurait propose deux investissements
+Reference:  malgre les doutes de son mari isabelle s est embarquee elle est devenue l employee de sheldon et s est mise a l aider a gerer son entreprise de vetements a temps partiel donc en plus de sa job chez avant puis a peine quelques semaines apres son embauche sheldon lui aurait propose deux investissements
+-------------------------------------------
+
+Line ID: 2442575163
+WER Score: 3.92
+Transcript: bon si vous travaillez pas en importation et exportation de vetements une commande de bas ca veut pas dire grand chose mais essentiellement isabelle allait faire venir des milliers de dollars de chaussettes d un des fournisseurs de sheldon puis lui allait s occuper de vendre cette marchandise a ses clientes
+Reference:  bon si vous travaillez pas en importation et exportation de vetements une commande de bain ca veut pas dire grand chose mais essentiellement isabelle allait faire venir des milliers de dollars de chaussettes d un des fournisseurs de sheldon puis lui allait s occuper de vendre cette marchandise a ses clients
+-------------------------------------------
+
+Line ID: 2442563669
+WER Score: 8.00
+Transcript: il y a des boutiques de sports et de vetements un peu partout au quebec et c est isabelle qui recevrait les profits sauf qu apres sa maladie et sa proposition au consommateur isabelle n avait pas 2500 de cote pour acheter des centaines de paires de bas
+Reference:  donc il y a des boutiques de sport et de vetements un peu partout au quebec et c est isabelle qui recevrait les profits sauf qu apres sa maladie et sa proposition au consommateur isabelle n avait pas 2 500 de cote pour acheter des centaines de paires de bas
+-------------------------------------------
+
+Line ID: 2442510941
+WER Score: 0.00
+Transcript: quelques jours plus tard sheldon l aurait convoque pour lui faire une deuxieme grosse proposition il lui aurait demande de devenir partenaire de son entreprise de rehabilitation un investissement de 11 0 $
+Reference:  quelques jours plus tard sheldon l aurait convoque pour lui faire une deuxieme grosse proposition il lui aurait demande de devenir partenaire de son entreprise de rehabilitation un investissement de 11 0 $
+-------------------------------------------
+
+Line ID: 1266918141
+WER Score: 11.27
+Transcript: et a ce moment la il m a montre ses cartes d affaires il m a tout parle de toutes les therapies qu il a faites comment il a fait pour s en sortir combien de jours clean qu il etait bon c est un ancien gambler et la facon dont il approchait ca mon dieu tous les matins il avait sa priere puis il faisait tant attention
+Reference:  et a ce moment la il m a montre ses cartes d affaires il m a tout parle de toutes les therapies qu il a faites comment il a fait pour s en sortir combien de jours clean qu il etait bon c est un ancien gambleur et la facon qu il approchait ca mon dieu c est que tous les matins il avait sa priere il faisait de ton attention
+-------------------------------------------
+
+Line ID: 1266921941
+WER Score: 13.24
+Transcript: j avais ete tres ouverte j avais dit je ne peux pas donner les sous je ne peux pas et il m avait dit ecoute pas de probleme donne moi ce que tu peux la et on echalonnera je ne t ecoeurerai jamais avec ca il n y a pas de probleme je me dis 0 my god j ai toujours voulu une compagnie comme ca
+Reference:  j avais ete tres ouverte j avais dit je peux pas donner les sous je peux pas et il m avait dit ecoute pas de probleme donne moi ce que tu peux la et on echalonnera puis il s est dit je t ecurerai jamais avec ca il n y a pas de probleme je me dis 0 my god j ai toujours voulu une compagnie comme ca
+-------------------------------------------
+
+Line ID: 1266936637
+WER Score: 16.67
+Transcript: il m a pris il m a serre c est incroyable je suis tellement contente ok il est vraiment content je ne peux pas dire autre chose que ca c etait ca
+Reference:  il m a pris il m a serree c est incroyable je suis tellement content moi je suis comme ok il est vraiment content je ne peux pas dire autre chose que ca c etait ca
+-------------------------------------------
+
+Line ID: 1266980730
+WER Score: 11.43
+Transcript: a la main dans mon livre que j ai toutes mes choses tout le temps pour cette compagnie la et il dit cette feuille la je la prends en photo et je l envoie tout de suite a mon avocat donc on a fait le contrat il a dit entre moi et lui combien je lui donnais presentement que les paiements etaient etales tout ca et c etait correct
+Reference:  a la main dans mon livre que j ai toutes mes choses tout le temps pour cette compagnie la et il dit cette feuille la je la prends en photo et je l envoie tout de suite a mon avocat donc on a fait le contrat et il a dit entre moi et lui combien que j y donnais presentement que les paiements aient ete etales et c etait correct
+-------------------------------------------
+
+Line ID: 2442555525
+WER Score: 0.00
+Transcript: la on est rendu a la fin du mois d octobre 2018 isabelle devenait de plus en plus impliquee dans la vie de sheldon elle passait ses soirs et ses fins de semaine a regler ses comptes a faire son graphisme a gerer ses entrepots
+Reference:  la on est rendu a la fin du mois d octobre 2018 isabelle devenait de plus en plus impliquee dans la vie de sheldon elle passait ses soirs et ses fins de semaine a regler ses comptes a faire son graphisme a gerer ses entrepots
+-------------------------------------------
+
+Line ID: 2442590430
+WER Score: 0.00
+Transcript: elle lui offrait meme une oreille attentive pour tous ses problemes romantiques a ce moment la sheldon disait vivre une rupture il quittait sa conjointe rita avec qui il avait passe sept ans et devait demenager
+Reference:  elle lui offrait meme une oreille attentive pour tous ses problemes romantiques a ce moment la sheldon disait vivre une rupture il quittait sa conjointe rita avec qui il avait passe sept ans et devait demenager
+-------------------------------------------
+
+Line ID: 2442546280
+WER Score: 0.00
+Transcript: il lui disait qu il voulait etre seul celibataire mais un jour pendant qu isabelle et sheldon etaient en plein meeting ils auraient ete interrompus par une femme nommee ruth ruth etait venue voir sheldon pour lui rendre service en fait elle recuperait ses cles pour l aider avec une livraison qui etait liee a son demenagement
+Reference:  il lui disait qu il voulait etre seul celibataire mais un jour pendant qu isabelle et sheldon etaient en plein meeting ils auraient ete interrompus par une femme nommee ruth ruth etait venue voir sheldon pour lui rendre service en fait elle recuperait ses cles pour l aider avec une livraison qui etait liee a son demenagement
+-------------------------------------------
+
+Line ID: 2442518716
+WER Score: 0.00
+Transcript: apres son depart sheldon avait insiste sur le fait que ruth n etait que son amie qu elle etait tres intense trop intense meme en fait ruth frequentait sheldon de facon romantique depuis le mois de juillet donc environ trois ou quatre mois et a ses yeux elle etait dans une relation amoureuse assez bien etablie
+Reference:  apres son depart sheldon avait insiste sur le fait que ruth n etait que son amie qu elle etait tres intense trop intense meme en fait ruth frequentait sheldon de facon romantique depuis le mois de juillet donc environ trois ou quatre mois et a ses yeux elle etait dans une relation amoureuse assez bien etablie
+-------------------------------------------
+
+Line ID: 2442548504
+WER Score: 2.44
+Transcript: mais ca on va y revenir dans un instant et aussi dans le prochain episode isabelle s etait donc lancee a pieds joints dans l entreprise de coaching de sheldon elle aidait a trouver des clients elle faisait du reseautage
+Reference:  mais ca on va y revenir dans un instant et aussi dans le prochain episode isabelle s etait donc lancee a pieds joints dans l entreprise de coaching de sheldon elle l aidait a trouver des clients elle faisait du reseautage
+-------------------------------------------
+
+Line ID: 2442527266
+WER Score: 6.82
+Transcript: mais sheldon avait des instructions tres particulieres liees a la confidentialite isabelle ne pouvait pas parler au client elle ne pouvait surtout pas parler a ruth et ruth non plus n avait pas le droit de parler a isabelle ces univers etaient absolument separes
+Reference:  mais sheldon avait des instructions tres particulieres liees a la confidentialite isabelle ne pouvait pas parler aux clients elle ne pouvait surtout pas parler a ruth et ruth non plus n avait pas le droit de parler a isabelle ses univers etaient absolument separes
+-------------------------------------------
+
+Line ID: 2442584903
+WER Score: 3.28
+Transcript: mais les choses ne tournaient pas tres rondement isabelle continuait de cotiser pour obtenir sa part de la compagnie 500 par ici 250 par la mais elle n avait toujours pas signe de vrai contrat pour officialiser le partenariat et deux mois apres avoir donne 2500 pour ce fameux deal de chaussettes elle n avait pas eu un sou de profit
+Reference:  mais les choses ne tournaient pas tres rondement isabelle continuait de cotiser pour obtenir sa part de la compagnie 500 par ici 250 par la mais elle n avait toujours pas signe de vrais contrats pour officialiser le partenariat et deux mois apres avoir donne 2500 pour ce fameux deal de chaussettes elle n avait pas eu un sou de profit
+-------------------------------------------
+
+Line ID: 2442551022
+WER Score: 4.35
+Transcript: apres cette conversation j ai trouve des documents qui demontrent que sheldon a bel et bien eu des problemes avec revenu quebec c etait en octobre 2017 donc un an avant qu isabelle le rencontre mais il avait une dette de plus de 30 0 a rembourser
+Reference:  apres cette conversation j ai trouve des documents qui demontrent que sheldon a bel et bien eu des problemes avec revenu quebec c etait en octobre 2017 donc un an avant qu isabelle le rencontre mais il avait une dette de plus de 30000 a rembourser
+-------------------------------------------
+
+Line ID: 2442581401
+WER Score: 4.88
+Transcript: isabelle commencait a avoir des doutes malgre l interdiction de sheldon elle et ruth avaient commence a se parler et etaient devenues de bonnes amies il faut dire qu a ce moment la sheldon avait finalement admis que ruth etait sa copine
+Reference:  isabelle commencait a avoir des doutes malgre l interdiction de sheldon elle et ruth avaient commence a se parler et etaient devenus de bonnes amies faut dire qu a ce moment la sheldon avait finalement admis que ruth etait sa copine
+-------------------------------------------
+
+Line ID: 2442512445
+WER Score: 5.45
+Transcript: en fait c est un peu en comparant les histoires louches de sheldon qu isabelle et ruth s etaient rapprochees et c est comme ca aussi qu elles avaient constate qu ils n etaient pas toujours honnetes avec elle c est qu isabelle en tant qu employee de sheldon avait acces a tous ses comptes
+Reference:  en fait c est un peu en comparant les histoires louches de sheldon qu isabelle et ruth s etaient rapprochees et c est comme ca aussi qu elles avaient constate qu il n etait pas toujours honnete avec elle c est qu isabelle en tant qu employee de sheldon avait acces a tous ses comptes
+-------------------------------------------
+
+Line ID: 1266975485
+WER Score: 15.87
+Transcript: je m occupais des affaires de business mais ses affaires a lui j avais l ordinateur depuis le mois d octobre qui avait acces en cloud a toutes les affaires pour le clothing et tout ca moi j ouvrais l ordinateur mais je fonctionnais tout le temps par le cloud je n ai jamais ouvert ses e mails j avais acces a tout
+Reference:  je m occupais des affaires de business mais ses affaires a lui et j avais l ordinateur depuis le mois d octobre qui avait acces en cloud a toutes les affaires pour le cloding et tout ca moi je jouais a l instant mais je fonctionnais de temps par le cloud je n ai jamais ouvert ses emails j avais acces a tout
+-------------------------------------------
+
+Line ID: 1266931852
+WER Score: 12.99
+Transcript: et root a partir du mois de decembre elle me disait regarde dans ses emails il y a surement quelque chose ca ne marche pas il me dit qu il va la toi il me dit qu il va la il n y a rien qui faisait du sens vraiment j etais comme non regarde ce n est pas mes affaires et ce n est pas a moi d ouvrir des affaires d aller faire des rapports a root
+Reference:  et ruth a partir du mois de decembre elle me disait regarde dans ses emails il y a surement quelque chose ca ne marche pas il me dit qu il va la toi me dis qu il va la il n y a rien qui faisait du sens vraiment je disais non regarde ce n est pas mes affaires et ce n est pas a moi d ouvrir les affaires et de faire des rapports a ruth
+-------------------------------------------
+
+Line ID: 1266957995
+WER Score: 12.86
+Transcript: c est tout ce que j ai vu juste cette photo la je n ai rien vu d autre je n ai meme pas navigue et la premiere affaire que j ai dit j ai dit yannick il est dans le trouble je paniquais j etais en choc je me disais mon dieu il doit etre a terre en dessous de son plancher en train de paniquer
+Reference:  j ai ferme la c est tout ce que j ai vu la juste cette photo la j ai rien vu d autre j ai meme pas navigue et la premiere affaire que j ai dit j ai dit yannick il est dans le trouble je paniquais j etais en choc je me disais mon dieu il doit etre a terre en dessous de son plancher en train de paniquer
+-------------------------------------------
+
+Line ID: 2442510325
+WER Score: 0.00
+Transcript: son premier reflexe c etait d etre inquiete pour sheldon elle etait egalement inquiete pour ses propres investissements parce que si sheldon avait des problemes financiers elle avait aussi des ennuis elle avait donc saute dans sa voiture pour se rendre chez lui et c est la qu elle l aurait surpris en train de tromper ruth
+Reference:  son premier reflexe c etait d etre inquiete pour sheldon elle etait egalement inquiete pour ses propres investissements parce que si sheldon avait des problemes financiers elle avait aussi des ennuis elle avait donc saute dans sa voiture pour se rendre chez lui et c est la qu elle l aurait surpris en train de tromper ruth
+-------------------------------------------
+
+Line ID: 1266922438
+WER Score: 12.00
+Transcript: j ai ouvert puis j ai vu ca j ai dit je m excuse j ai dit je le sais je ne devrais pas mais la la je me sens tellement mal qu est ce que je peux faire pour t aider qu est ce que je peux faire pour t aider qu est ce qu ils vont venir prendre tu es deja tellement dans la marde qu est ce que je peux faire pour t aider
+Reference:  j ai ouvert puis j ai vu ca j ai dit je m excuse j avais dit je devrais pas mais la j ai dit je me sens tellement mal qu est ce que je peux faire pour t aider qu est ce que je peux faire pour t aider qu est ce qu ils vont venir prendre t es deja tellement dans la marde qu est ce que je peux faire pour t aider
+-------------------------------------------
+
+Line ID: 2442530485
+WER Score: 12.12
+Transcript: apres plusieurs longues conversations ruth et isabelle avaient juge qu il fallait une intervention donc elles s etaient pointees chez sheridan pour le confronter et c est la que tout s est effondre
+Reference:  apres plusieurs longues conversations ruth et isabelle avaient juge qu il fallait une intervention donc elle s etait pointee chez sheldon pour le confronter et c est la que tout s est effondre
+-------------------------------------------
+
+Line ID: 2442531065
+WER Score: 4.76
+Transcript: ruth qui venait d apprendre que sheldon avait d autres blondes avait decide de le laisser isabelle aussi avait constate une infidelite elle avait appris qu elle n etait pas vraiment associee chez newstart la compagnie de coaching pour les dependances
+Reference:  ruth qui venait d apprendre que sheldon avait d autres blondes avait decide de le laisser isabelle aussi avait constate une infidelite elle avait appris qu elle n etait pas vraiment associee chez new start la compagnie de coaching pour les dependances
+-------------------------------------------
+
+Line ID: 2442547581
+WER Score: 0.00
+Transcript: sheldon aurait plutot un autre partenaire d affaires nomme jeff qui lui n avait jamais entendu parler d isabelle la confrontation etait explosive mais a travers le chaos sheldon s etait confondu en excuses il aurait avoue avoir de graves problemes et demande de l aide
+Reference:  sheldon aurait plutot un autre partenaire d affaires nomme jeff qui lui n avait jamais entendu parler d isabelle la confrontation etait explosive mais a travers le chaos sheldon s etait confondu en excuses il aurait avoue avoir de graves problemes et demande de l aide
+-------------------------------------------
+
+Line ID: 6851637349
+WER Score: 0.00
+Transcript: oui samedi a edmonton l universite de l alberta a demantele selon plusieurs etudiants de facon violente le campement qui venait de s installer sur les lieux a calgary on en a demantele un autre jeudi mais a montreal il y en a un nouveau qui s est installe hier sur le site de l universite de l uqam en fait
+Reference:  oui samedi a edmonton l universite de l alberta a demantele selon plusieurs etudiants de facon violente le campement qui venait de s installer sur les lieux a calgary on en a demantele un autre jeudi mais a montreal il y en a un nouveau qui s est installe hier sur le site de l universite de l uqam en fait
+-------------------------------------------
+
+Line ID: 6851639526
+WER Score: 4.00
+Transcript: mais dans la cour du pavillon qui est proche de la place des arts donc qui n est pas le pavillon principal qui n est pas dans cet amas de pavillons principaux mais qui est vraiment plus vers la place des festivals il y aurait une centaine de manifestants qui auraient campe sur place hier je vous fais entendre la porte parole du groupe derriere ce campement la et la reponse de l uqam aussi
+Reference:  mais dans la cour du pavillon qui est proche de la place des arts donc qui n est pas le pavillon principal qui n est pas dans ses tamas de pavillon principaux mais qui est vraiment plus vers la place des festivals il y aurait une centaine de manifestants qui auraient campe sur place hier je vous fais entendre la porte parole du groupe derriere ce campement la et la reponse de l uqam aussi
+-------------------------------------------
+
+Line ID: 3575277681
+WER Score: 0.00
+Transcript: oui on a de jolies couleurs dans le ciel ce matin donc on verra un petit peu de soleil mais l ennuagement va prendre le relais donc on a un systeme qui va nous toucher en debut de semaine mais ca va etre une semaine douce dans l ensemble
+Reference:  oui on a de jolies couleurs dans le ciel ce matin donc on verra un petit peu de soleil mais l ennuagement va prendre le relais donc on a un systeme qui va nous toucher en debut de semaine mais ca va etre une semaine douce dans l ensemble
+-------------------------------------------
+
+Line ID: 3575252830
+WER Score: 0.00
+Transcript: les temperatures qui vont avoisiner la barre des 20 degres meme la depasser un peu on maintient ca en place pas mal toute la semaine alors de la douceur oui arrive des nuages aujourd hui quelques averses qui vont s installer tranquillement fin de matinee dans les laurentides en apres midi pour la plupart des autres secteurs
+Reference:  les temperatures qui vont avoisiner la barre des 20 degres meme la depasser un peu on maintient ca en place pas mal toute la semaine alors de la douceur oui arrive des nuages aujourd hui quelques averses qui vont s installer tranquillement fin de matinee dans les laurentides en apres midi pour la plupart des autres secteurs
+-------------------------------------------
+
+Line ID: 3575239357
+WER Score: 0.00
+Transcript: possibilite d orage la dedans secteur de l outaouais 18 20 degres au thermometre la nuit prochaine ca reste entre 12 et 14 degres ca commence a etre des nuits assez confortables c est meme au dessus de la normale la normale c est autour de 7 la nuit pour cette periode ci de l annee ce sera assez nuageux demain quelques averses ici et la et degagement en cours d apres midi par la porte du nord
+Reference:  possibilite d orage la dedans secteur de l outaouais 18 20 degres au thermometre la nuit prochaine ca reste entre 12 et 14 degres ca commence a etre des nuits assez confortables c est meme au dessus de la normale la normale c est autour de 7 la nuit pour cette periode ci de l annee ce sera assez nuageux demain quelques averses ici et la et degagement en cours d apres midi par la porte du nord
+-------------------------------------------
+
+Line ID: 3575211759
+WER Score: 4.35
+Transcript: donc les laurentides la naudiere ca va se degager en premier et par la suite on verra des eclaircies plus au sud 18 20 degres toujours jusqu a 21 22 pour la journee de mercredi ou on retrouvera graduellement du soleil en cours de journee
+Reference:  donc les laurentides la naudiere ca va se degager en premier et par la suite on verra des eclaircies plus au sud 18 20 degres tout jour jusqu a 21 22 pour la journee de mercredi ou on retrouvera graduellement du soleil en cours de journee
+-------------------------------------------
+
+Line ID: 3575233681
+WER Score: 8.43
+Transcript: d ici la averses et orages egalement du cote de l abitibi autour de 16 aujourd hui ca s ennuage pour le saguenay le bas saint laurent les averses ca commencera ce soir la douceur est la 17 20 degres egalement 13 a 16 vers la gaspesie la cote nord ca se passe sous le soleil pas d ennuagements avant mardi soir pour ces secteurs la on parlait de la fumee des feux ca va jusque dans le nord de l ontario aussi
+Reference:  d ici la averses et orages egalement du cote de la bitibe autour de 16 aujourd hui ca sent nuage pour le saguenay le bas saint laurent les averses ca commencera ce soir la douceur est la 17 20 degres egalement 13 a 16 vers la gaspesie la cote nord ca se passe sous le soleil pas d ennuagement avant mardi soir pour ces secteurs la on parlait de la fumee des feux bien ca va jusque dans le nord de l ontario
+-------------------------------------------
+
+Line ID: 3575269033
+WER Score: 1.45
+Transcript: on a des avis sur la qualite de l air en vigueur dans la region de thunder bay ca devrait commencer a s ameliorer pendant ce matin assez variable sur la portion nord de l ontario toronto windsor oui il y a des eclaircies mais aussi quelques averses orages possibles cet apres midi assez chaud jusqu a 28 a windsor 23 a toronto la vingtaine de degres a ottawa
+Reference:  on a des avis sur la qualite de l air en vigueur dans la region de thunder bay ca devrait commencer a s ameliorer cependant ce matin assez variable sur la portion nord de l ontario toronto windsor oui il y a des eclaircies mais aussi quelques averses orages possibles cet apres midi assez chaud jusqu a 28 a windsor 23 a toronto la vingtaine de degres a ottawa
+-------------------------------------------
+
+Line ID: 3575282319
+WER Score: 6.12
+Transcript: sous les nuages avec quelques precipitations cet apres midi essentiellement les temperatures redescendent dans l ouest on a atteint 339 a layton en colombie britannique vendredi donc les premieres grosses chaleurs se sont pointees la ca redescend temperature plus saisonniere pour cette semaine ce qui est une bonne nouvelle
+Reference:  sous les nuages avec quelques precipitations cet apres midi essentiellement les temperatures redescendent dans l ouest on a atteint 339 a leighton en colombie britannique vendredi donc les premieres grosses chaleurs se sont pointees la ca redescend temperature plus saisonniere pour sept semaines ce qui est une bonne nouvelle
+-------------------------------------------
+
+Line ID: 3575235599
+WER Score: 0.00
+Transcript: tendance au degagement a vancouver cet apres midi toujours des avis sur la qualite de l air en vigueur du cote d edmonton une bonne partie de l alberta egalement ca devrait s ameliorer mardi assez variable ce matin des averses en apres midi pour le secteur d edmonton et calgary
+Reference:  tendance au degagement a vancouver cet apres midi toujours des avis sur la qualite de l air en vigueur du cote d edmonton une bonne partie de l alberta egalement ca devrait s ameliorer mardi assez variable ce matin des averses en apres midi pour le secteur d edmonton et calgary
+-------------------------------------------
+
+Line ID: 3575260643
+WER Score: 0.00
+Transcript: 18 c est le maximum donc la aussi les temperatures redescendent la vingtaine a regina la quinzaine a winnipeg on se promenera plus pres des valeurs de saison cette semaine on met de cote la chaleur d ete un petit peu
+Reference:  18 c est le maximum donc la aussi les temperatures redescendent la vingtaine a regina la quinzaine a winnipeg on se promenera plus pres des valeurs de saison cette semaine on met de cote la chaleur d ete un petit peu
+-------------------------------------------
+
+Line ID: 2414364534
+WER Score: 6.90
+Transcript: je m appelle marie eve tremblay en collaboration avec la journaliste isabelle hache de la presse voici un balado sur l affaire julien lacroix deux ans plus tard maud sabag est realisatrice en television elle a rencontre julien lacroix en 2018 apres qu on lui ait demande de suivre le jeune humoriste pour la realization d un documentaire
+Reference:  je m appelle marie eve tremblay en collaboration avec la journaliste isabelle hachet de la presse voici un balado sur l affaire julien lacroix 2 ans plus tard maud sabague est realisatrice en television elle a rencontre julien lacroix en 2018 apres qu on lui a demande de suivre le jeune humoriste pour la realization d un documentaire
+-------------------------------------------
+
+Line ID: 2414353701
+WER Score: 0.00
+Transcript: quelques jours apres la sortie de l enquete qui le concernait julien lacroix est entre en therapie fermee a la maison jean lapointe dans ses rares sorties publiques depuis sa denonciation il a aborde ses problemes de consommation a chaque fois ca a ete tres mal recu
+Reference:  quelques jours apres la sortie de l enquete qui le concernait julien lacroix est entre en therapie fermee a la maison jean lapointe dans ses rares sorties publiques depuis sa denonciation il a aborde ses problemes de consommation a chaque fois ca a ete tres mal recu
+-------------------------------------------
+
+Line ID: 2414329072
+WER Score: 0.00
+Transcript: et on peut comprendre pourquoi meme les tribunaux ont etabli clairement que l intoxication n est pas une defense valable dans ce genre de dossier la mais julien et son entourage n arrivent pas a s enlever de la tete que toutes ces histoires ont un point en commun l alcool
+Reference:  et on peut comprendre pourquoi meme les tribunaux ont etabli clairement que l intoxication n est pas une defense valable dans ce genre de dossier la mais julien et son entourage n arrivent pas a s enlever de la tete que toutes ces histoires ont un point en commun l alcool
+-------------------------------------------
+
+Line ID: 2414325589
+WER Score: 0.00
+Transcript: julien hesite a entrer dans les details de ses problemes de consommation parce qu il est inquiet de la reaction que ca pourrait generer mais on comprend que c est quelque chose qui fait integralement partie de sa vie il a d ailleurs lance un groupe de soutien pour les jeunes et moins jeunes qui ont des problemes de consommation
+Reference:  julien hesite a entrer dans les details de ses problemes de consommation parce qu il est inquiet de la reaction que ca pourrait generer mais on comprend que c est quelque chose qui fait integralement partie de sa vie il a d ailleurs lance un groupe de soutien pour les jeunes et moins jeunes qui ont des problemes de consommation
+-------------------------------------------
+
+Line ID: 2414317918
+WER Score: 3.85
+Transcript: julien lacroix a tente de contacter ses denonciatrices dont il connaissait l identite il s est bute dans la majorite des cas a des refus de le rencontrer certaines lui reprochent de ne pas s excuser par ecrit publiquement mais du point de vue de julien c est dans une conversation comme celle qu il y a eu avec deux femmes qui faisaient partie des neuf victimes qu il peut y avoir de reels echanges et bien sur des excuses
+Reference:  julien lacroix a tente de contacter ces denonciatrices dont il connaissait l identite il s est bute dans la majorite des cas a des refus de le rencontrer certaines lui reprochent de ne pas s excuser par ecrit publiquement mais du point de vue de julien c est dans une conversation comme celle qu a eu avec deux femmes qui faisaient partie des neuf victimes qu il peut y avoir de reels echanges et bien sur des excuses
+-------------------------------------------
+
+Line ID: 2414395688
+WER Score: 1.23
+Transcript: vous venez d entendre les temoignages deux ans plus tard de plusieurs personnes impliquees dans la denonciation de julien lacroix je repete que l objectif premier est de faire avancer la discussion sur le traitement populaire qu on reserve autant pour les personnes qui denoncent que pour les personnes denoncees si c est ce cas precis qu on decortique et pas d autres c est parce que deux femmes ont ressenti le besoin d en parler publiquement sur les reseaux sociaux
+Reference:  vous venez d entendre les temoignages 2 ans plus tard de plusieurs personnes impliquees dans la denonciation de julien lacroix je repete que l objectif premier est de faire avancer la discussion sur le traitement populaire qu on reserve autant pour les personnes qui denoncent que pour les personnes denoncees si c est ce cas precis qu on decortique et pas d autres c est parce que deux femmes ont ressenti le besoin d en parler publiquement sur les reseaux sociaux
+-------------------------------------------
+
+Line ID: 3711822165
+WER Score: 4.44
+Transcript: je recois un appel de son gerant qui me demande si je suis interessee a faire un documentaire sur les dessous de l ascension fulgurante de julien mais en me disant on te donnerait vraiment carte blanche parce que julien on lui deroule le tapis rouge en ce moment mais je me rappelle il m a dit on lui deroule le tapis rouge mais il pourrait tres tres bien s enfarger dedans aussi ca va vite il est dans toutes sortes d exces de tout ca
+Reference:  je recois un appel de son gerant qui me demande si je suis interessee a faire un documentaire sur les dessous de l ascension fulgurante de julien mais en me disant on te donnerait vraiment carte blanche parce que julien on lui deroule le tapis rouge en ce moment mais je me rappelle il m a dit on lui deroule le tapis rouge mais il pourrait tres tres bien s enfarger dedans aussi tu sais ca va vite il est dans toutes sortes d exces tu sais de tout ca
+-------------------------------------------
+
+Line ID: 3711828756
+WER Score: 10.53
+Transcript: il arrive d un background familial qui est particulier c est quelqu un d anxieux mais c est vraiment une belle personne puis je pense que ca vaudrait la peine d aller en coulisses puis de filmer tout ca tu sais
+Reference:  il arrive d un background familial qui est particulier c est quelqu un anxieux mais c est vraiment une belle personne puis je pense que ca vaudrait la peine d aller en coulisse puis de filmer tout ca
+-------------------------------------------
+
+Line ID: 3711838579
+WER Score: 5.19
+Transcript: donc j ai commence a filmer ce documentaire la puis c est vraiment a travers ces premiers tournages la que j ai decouvert une autre facette de julien je le trouvais gentil je le trouvais bon avec les gens qui l entouraient mais rapidement des les premiers tournages j ai tourne dans des bars avec lui puis je me souviens aussi avoir vu des la premiere sortie que oups ok il ne tient pas bien l alcool ce gars la
+Reference:  j ai commence a filmer ce documentaire la puis c est vraiment a travers ces premiers tournages la que j ai decouvert une autre facette de julien je le trouvais gentil je le trouvais bon avec les gens qui l entouraient mais rapidement des les premiers tournages j ai tourne dans des bars avec lui puis je me souviens aussi avoir vu des la premiere sortie qu il ne tient pas bien l alcool ce gars la
+-------------------------------------------
+
+Line ID: 3711860209
+WER Score: 4.11
+Transcript: il se fait sortir par le bouncer je n ai jamais ete temoin de rien qui avait un lien avec la violence sexuelle mais il etait desagreable il etait super desagreable c etait la joke de trop c etait genant je me disais connu comme il est je vois du monde faire des stories prendre des photos avec lui il etait meche il va tu dire l affaire de trop
+Reference:  il se fait sortir par le bouncer je n ai jamais jamais ete temoin de rien qui avait un lien avec de la violence sexuelle mais il etait desagreable il etait super desagreable c etait la joke de trop c etait genant meme je me disais connu comme il est je vois du monde faire des stories prendre des photos avec lui il etait meche il va tu dire l affaire de trop
+-------------------------------------------
+
+Line ID: 3711818479
+WER Score: 3.75
+Transcript: ca je me souviens puis on avait filme ca puis il me laissait filmer ca puis plus je tournais avec plus je me rendais compte aussi qu on tissait un lien que je commencais a developper des sentiments que c etait reciproque mais je voyais aussi quelqu un qui souffrait beaucoup comme ca j ai eu des centaines d heures d archives pour faire des ponts dans le film puis je me suis aussi tombee sur l histoire de sa maman
+Reference:  bref ca je me souviens on avait filme ca puis il me laissait filmer ca plus je tournais avec plus je me rendais compte aussi qu on tissait un lien que je commencais a developper des sentiments que c etait reciproque mais je voyais aussi quelqu un qui souffrait beaucoup comme ca j ai eu des centaines d heures d archives pour faire des ponts dans le film puis je me suis aussi tombee sur l histoire de sa maman
+-------------------------------------------
+
+Line ID: 3711893780
+WER Score: 4.55
+Transcript: puis je veux dire j en connais beaucoup aujourd hui sur leur histoire puis sur le background dans lequel il a grandi julien a grandi dans un milieu ou il a des problemes de sante mentale que sa mere vit c est des problemes de consommation graves il a ete expose a ca depuis toujours ca a ete banalise ca a ete depuis qu il a 13 ans ca a ete une porte de sortie la consommation pour engourdir un mal etre tu sais
+Reference:  puis je veux dire j en connais beaucoup aujourd hui sur leur histoire puis sur le background dans lequel il a grandi julien a grandi dans un milieu ou il y a des problemes de sante mentale que sa mere vit c est des problemes de consommation graves il a ete expose a ca depuis toujours ca a ete banalise ca a ete tu sais depuis qu il y a 13 ans ca a ete une porte de sortie la consommation pour engourdir un mal etre tu sais
+-------------------------------------------
+
+Line ID: 3711853934
+WER Score: 3.64
+Transcript: quand c etait pas je m en vais faire de la creation parce qu il fait des films il fait des videoclips il fait toutes sortes de projets c etait ca qui lui faisait du bien dans son mal etre ca ou quand il a decouvert la boisson parce que ca ca engourdissait quelque chose
+Reference:  quand c etait pas je m en vais faire de la creation parce qu il fait des films il fait des videoclips il fait des toutes sortes de projets c etait ca qui lui faisait du bien dans son mal etre ca ou quand il a decouvert la boisson parce que ca engourdissait quelque chose
+-------------------------------------------
+
+Line ID: 3711886808
+WER Score: 6.94
+Transcript: quand il a essaye de faire ca a chaque fois il a ete completement detruit sur les reseaux sociaux par tout le monde sur le plan humain c est super difficile de voir la personne que t aimes se faire rejeter puis abandonner par tout le monde puis pouvoir pratiquer ton metier ta passion ce qui te garde en vie les gens ne le savent pas mais comme .
+Reference:  quand il a essaye de faire ca a chaque fois il a ete comme completement detruit sur les reseaux sociaux par tout le monde sur le plan humain c est super difficile de voir la personne que t aimes comme se faire rejeter puis abandonner par tout le monde puis pouvoir pratiquer ton metier ta passion ce qui te garde en vie tu sais les gens ne savent pas mais comme .
+-------------------------------------------
+
+Line ID: 3711892823
+WER Score: 20.83
+Transcript: moi j ai trouve des lettres de suicide de julien le lendemain que l article est sorti je suis revenue a la maison et il avait laisse une lettre pour tous ses freres et pour moi c est gros il ne comprenait pas ce qui se passait
+Reference:  moi j ai trouve des lettres suicides de julien le lendemain que l article est sorti je suis revenu a la maison puis il avait laisse une lettre pour toutes ses freres puis pour moi puis tu sais c est gros il comprenait pas ce qui se passait
+-------------------------------------------
+
+Line ID: 3711852809
+WER Score: 14.29
+Transcript: il pensait qu il etait un monstre a ce moment la c est tellement gros que tu finis par croire que c est vrai je pense que c est comme un gros sentiment d impuissance la
+Reference:  il pensait qu il etait un monstre a ce moment la tu sais c est tellement gros que tu finis par croire que c est vrai puis que c est je pense que c est comme un gros sentiment d impuissance la
+-------------------------------------------
+
+Line ID: 3711858564
+WER Score: 29.49
+Transcript: j en ai voulu a certains moments donne a sa boite de production ou a des gens qui l ont abandonne mais finalement comme une partie de moi je fais ces tellement plus gros que si tu t exprimes ou si tu oses amener un peu de nuance si tu oses meme prendre un peu sa defense c est comme si tu defendais un agresseur
+Reference:  tu sais j en ai voulu a certains moments donne a sa boite de production ou a des gens qui l ont abandonne ou a des gens qui ont mais finalement comme une partie non c est tellement plus gros qu eux tu sais si tu t exprimes ou si tu oses amener un peu de nuances ou si tu oses meme comme prendre un peu sa defense c est comme si tu defends un agresseur tu sais
+-------------------------------------------
+
+Line ID: 3711893160
+WER Score: 5.06
+Transcript: j ai peur de parler aujourd hui parce que j ai peur de passer pour la fille qui est contre le mouvement contre les autres filles ou qui a ete manipulee par julien qui est une pauvre et cervelee manipulee une victime de julien je ne suis pas une victime de julien je veux dire je vis la relation la plus saine depuis trois ans et demi avec un etre extraordinaire puis je le crierais sur tous les toits la
+Reference:  j ai peur de parler aujourd hui parce que j ai peur de passer pour la fille qui est contre le mouvement contre les autres filles ou qui a ete manipulee par julien qui est une pauvre esservelee manipulee une victime de julien je suis pas une victime de julien la je veux dire je vis la relation la plus saine depuis trois ans et demi avec un etre extraordinaire puis je le crierais sur tous les toits la
+-------------------------------------------
+
+Line ID: 3711822841
+WER Score: 11.25
+Transcript: je veux dire c est un papa et un amoureux extraordinaire c est un ami extraordinaire c est un petit cul qui a fait des niaiseries moi c est ca ma vision de cette histoire la puis je ne le minimize pas il faut qu on fasse mieux il faut que ce genre de comportement la qu on avait a une certaine epoque quand j etais au secondaire il faut qu on fasse mieux il faut qu on eleve mieux nos enfants nos filles nos garcons nos enfants
+Reference:  je veux dire c est un papay et un amoureux extraordinaire c est un ami extraordinaire c est un petit cul qui a fait des niaiseries moi c est ca ma vision de cette histoire la il faut qu on fasse mieux il faut que ce genre de comportement la qu on avait a une certaine epoque quand j etais au secondaire il faut qu on fasse mieux il faut qu on eleve mieux nos enfants nos filles nos garcons
+-------------------------------------------
+
+Line ID: 2414313181
+WER Score: 0.00
+Transcript: nous avons sollicite une entrevue aupres du journal le devoir afin d obtenir son point de vue sur cette affaire le quotidien a accepte notre demande a condition d obtenir nos questions a l avance nous avons refuse cette condition
+Reference:  nous avons sollicite une entrevue aupres du journal le devoir afin d obtenir son point de vue sur cette affaire le quotidien a accepte notre demande a condition d obtenir nos questions a l avance nous avons refuse cette condition
+-------------------------------------------
+
+Line ID: 2414388553
+WER Score: 7.41
+Transcript: ce projet se veut une reflexion sur l impact des denonciations publiques et non pas une critique de la demarche journalistique du devoir je m appelle marie eve tremblay ce balado a ete mene en collaboration avec la journaliste isabelle hache de la presse il a ete realize et monte par larry dufresne
+Reference:  ce projet se veut une reflexion sur l impact d une annonciation publique et non pas une critique de la demarche journalistique du devoir je m appelle marie eve tremblay ce balado a ete mene en collaboration avec la journaliste isabelle hache de la presse il a ete realize et monte par larry dufresne
+-------------------------------------------
+
+Line ID: 3711858320
+WER Score: 8.11
+Transcript: en janvier 2021 julien a ecrit un mot pour s excuser et pour dire regardez je fais du vrai travail sur moi il a fait tout ce qu il fallait il avait deja arrete de boire mais il a continue dans le chemin de la sobriete il est alle voir des psychologues il a consulte il est alle dans ses meetings il n a jamais arrete d ailleurs
+Reference:  en janvier 2021 julien a ecrit un mot pour s excuser et un peu pour dire regardez je fais du vrai travail sur moi pis c est vrai il a fait tout ce qu il fallait il avait deja arrete de boire mais il a continue dans le chemin de la sobriete il est alle voir des psychologues il a consulte il est alle dans ses meetings il n a jamais arrete d ailleurs
+-------------------------------------------
+
+Line ID: 3711824371
+WER Score: 7.27
+Transcript: il est alle rencontrer des feministes il est alle rencontrer une rosemine judith lussier il a essaye d ecrire a toutes les filles il a essaye de contacter genevieve pour s asseoir avec elle pour comprendre il n a jamais ete dans l attaque il n a jamais ete dans la justification
+Reference:  il est alle rencontrer des feministes il est alle rencontrer une rose aimee une judith lussier il a essaye d ecrire a toutes les filles il a essaye de contacter genevieve pour s asseoir avec elle pour comprendre il n a jamais ete dans l attaque il n a jamais ete dans la meme justification
+-------------------------------------------
+
+Line ID: 3711853611
+WER Score: 8.16
+Transcript: il y a des choses que je cautionne pas mais pour moi comme etre humain j ai envie de devenir une meilleure personne je veux apprendre de ca a chaque fois qu il a tente d aller dans la direction de la guerison puis sans non plus .
+Reference:  bon il y a des choses que je cautionne pas mais pour moi comme etre humain j ai envie de devenir une meilleure personne je vais apprendre de ca puis a chaque fois qu il a tente d aller dans la direction de la guerison puis sans non plus
+-------------------------------------------
+
+Line ID: 3711876195
+WER Score: 13.95
+Transcript: mettre de la pression aux filles de s asseoir avec lui mais juste de dire hey je suis la puis j avance puis quand vous serez pretes sachez que je suis la mais que je veux faire mieux
+Reference:  mettre de la pression aux filles de s asseoir avec lui mais juste de dire hey tu sais je suis la puis j avance puis quand vous serez prete bien sachez que je suis la mais que je veux faire mieux tu sais
+-------------------------------------------
+
+Line ID: 3711818920
+WER Score: 22.03
+Transcript: c est de sentir que tu ravales toujours puis qu on veut juste entendre un cote de voir sur les reseaux sociaux j ai du me deconnecter des reseaux sociaux les premiers mois ou tout ca est sorti ou a chaque fois que julien a tente des excuses publiques
+Reference:  ca c est de se sentir qu il ya du ravale toujours puis qu on veut juste entendre comme un cote tu sais de voir sur les reseaux sociaux tu sais j ai du me deconnecter des reseaux sociaux les premiers mois ou tout ca est sorti ou a chaque fois que julien a tente comme des excuses publiques
+-------------------------------------------
+
+Line ID: 3711871937
+WER Score: 16.36
+Transcript: moi aussi j en ai recu des messages de menaces de haine des messages utilisant le nom de mon fils comme etant le fils d un violeur des journees ou je m en vais travailler et je recois ces messages la il faut que je fasse ma journee et que je sois .
+Reference:  tu sais moi j en ai recu des messages de menace de haine des messages utilisant le nom de mon fils comme etant l effet d un violeur des journees ou je m en vais travailler puis je recois ces messages la puis il faut que je fasse ma journee puis que je sois .
+-------------------------------------------
+
+Final WER Score: 6.63

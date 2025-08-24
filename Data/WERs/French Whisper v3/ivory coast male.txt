@@ -1,0 +1,1228 @@
+WER Evaluation Results
+======================
+
+Line ID: 1718323014
+WER Score: 6.90
+Transcript: voila donc des la j ai exerce sur plusieurs salons et malgre tout ce que j avais j avais le temps de m envoler de faire d autres choses
+Reference:  voila donc de la j ai essaye sur plusieurs salons et malgre tout ce que j avais j avais le temps de m envoler de faire d autres choses
+-------------------------------------------
+
+Line ID: 1718349460
+WER Score: 14.00
+Transcript: je te dis tantot j etais a londres etudiant donc j ai ete forme diplome en informatique de gestion et apres j ai vu que ce n est pas ce qu il me fallait j ai fait une formation diplomee a l universite de greenwich pour etre event manager
+Reference:  je t ai dit tantot j etais a londres etudiant donc j ai ete forme diplome en informatique de gestion et apres j ai vu que ce n est pas ce qu il me fallait je fais une formation diplomee a l universite de greenwich pour etre un event manager
+-------------------------------------------
+
+Line ID: 1718396921
+WER Score: 12.12
+Transcript: voila en fait tous les produits de cote d ivoire de l age jusqu a tout ce qui est consommable en fait voila donc a ce moment la je revenais en vacances
+Reference:  voila en fait tous les produits de le cote d ivoire de l age jusqu a tout ce qui est consumable en fait donc a ce moment la quand je revenais en vacances
+-------------------------------------------
+
+Line ID: 1718398699
+WER Score: 28.26
+Transcript: j ai essaye de conseiller aux barmans aux tenanciers de maquiller des barres de pouvoir vendre des produits locaux parce que quand on arrive en cote d ivoire ce ne sont pas des produits qui sont cessibles voila ils ne sont pas cessibles
+Reference:  j ai essaye de conseiller au bahamond ou elle etait nommee de maquiller les bars de pouvoir vendre des produits locaux parce que quand on arrive a l accord d ivoire ce ne sont pas des produits qui sont accessibles voila ils ne sont pas accessibles
+-------------------------------------------
+
+Line ID: 1718336097
+WER Score: 12.24
+Transcript: donc j ai arrive a bidjan je constatais que ca n avait pas ete fait donc du coup j ai dit bon je vais essayer de planter l aventure moi meme parce que voila j aime bien les defis donc je me suis mis des que l opportunite s est presentee
+Reference:  donc j arrivais a abidjan je constatais que ca n a pas ete fait donc du coup j ai dit bon je vais essayer de tenter l aventure moi meme parce que j aime bien les defis donc je me suis mis des que l opportunite s est presentee
+-------------------------------------------
+
+Line ID: 1718395921
+WER Score: 35.42
+Transcript: je me suis dit je vais creer un espace ou l africain peut se sentir chez soi l africain peut essayer de retrouver tous ses produits locaux l africain peut essayer de passer un bon moment et boire aussi des boissons faites des produits locaux
+Reference:  je dis bon je vais creer un espace ou l afrique un peu se sentit chez soi et l afrique un peu essaye de retrouver tous ses produits locaux l afrique un peu essaye de passer un bon moment et boire aussi des boissons faire des produits locaux
+-------------------------------------------
+
+Line ID: 1718365397
+WER Score: 32.65
+Transcript: non j etais a londres depuis 1998 mais je faisais toujours des va et vient bien sur je n ai jamais coupe le cordon ombilical je venais chaque annee a l enfant d ivoire c est la aussi ou est nee l inspiration en fait
+Reference:  non je suis alle a londres depuis 1998 oui le retour oui mais je faisais toujours des va et vient bien sur je n ai jamais coupe le cordon en bidika et je venais chaque annee en cote d ivoire c est la aussi nait l inspiration en fait
+-------------------------------------------
+
+Line ID: 1718377447
+WER Score: 34.48
+Transcript: je suis en fait comme un couteau au sus voila un couteau au sus tantot realisateur documentaire de cinema producteur voila conseiller en musique et j aime toucher un peu a tout en fait voila
+Reference:  je suis en fait comme un couteau suisse un couteau suisse tantot realisateur documentaire de cinema producteur conseiller en musique j aime toucher un peu la tour en fait
+-------------------------------------------
+
+Line ID: 1718313712
+WER Score: 7.32
+Transcript: voila donc voila un peu l idee qui m a pousse vraiment a installer l espace wao qui est un lieu atypique une decoration artisanale mais qui est dans l atmosphere moderne en fait voila donc c est un peu ca
+Reference:  voila donc voila un peu l idee qui m a pousse vraiment a installer l espace wow qui est un lieu atypique une decoration artisanale mais qui est d un atmosphere moderne en fait voila donc c est un peu ca
+-------------------------------------------
+
+Line ID: 1718350152
+WER Score: 4.88
+Transcript: on y trouve un peu un salon de coiffure qui est reserve aux professionnels de la coiffure qui n ont pas de salon mais tantot qu il y a un contrat de mariage ils peuvent utiliser l espace aussi pour ca
+Reference:  on y trouve un peu un salon de coiffure qui est reserve aux professionnels de la coiffure qui n ont pas de salon mais tantot qu il y a un contrat de mariage qui peut utiliser l espace aussi pour ca
+-------------------------------------------
+
+Line ID: 1718328389
+WER Score: 22.92
+Transcript: on nous trouve a l espace waouh tout ce qui est comme vous avez dit le premier bar a bungie a abidjan meme voie de la cote d ivoire qui met en avant des cocktails qui sont waouh des cocktails bleus des cocktails passionnes cocktails bisapes cocktails bungie ennasses
+Reference:  voila on nous trouve a l espace wow tout ce qui est comme vous avez dit le premier bar a bandji abidjan memoire de l akwaba d ivoire qui met en avant des cocktails qui sont wow des cocktails bleus des cocktails passionnes cocktails bisapes cocktails bandji anaces
+-------------------------------------------
+
+Line ID: 1718366358
+WER Score: 14.29
+Transcript: donc en fait on fait tout avec le bungee donc je dirais comme ca pour moi le bungee n a plus de secret je suis l homme qui a decouvert l ambition du bungee
+Reference:  donc en fait on fait tout avec le bandji donc je dirais comme ca pour moi le bandji n a plus de secret et je suis l homme qui a decouvert l embouchure du bandji
+-------------------------------------------
+
+Line ID: 1718333412
+WER Score: 3.17
+Transcript: la fiber patriotique a nous qui se developpe qui devient encore plus fort et c est ce qui nous amene a pouvoir consommer tout ce qu il y a de chez nous et aujourd hui grace a dieu vous voyez nous avons eu le temps de voyager nous avons eu le temps de decouvrir nous avons eu le temps d apprendre
+Reference:  on a la fiber patriotique a nous qui se developpe qui devient encore plus fort et c est ce qui nous amene a pouvoir consommer tout ce qu il y a de chez nous et aujourd hui grace a dieu vous voyez nous avons eu le temps de voyager nous avons eu le temps de decouvrir nous avons eu le temps d apprendre
+-------------------------------------------
+
+Line ID: 1718332463
+WER Score: 0.00
+Transcript: donc tout ce que nous avons appris ailleurs nous voulons venir donner a notre patrie donner un peu ce renouveau en fait donner une certaine repartition
+Reference:  donc tout ce que nous avons appris ailleurs nous voulons venir donner a notre patrie donner un peu ce renouveau en fait donner une certaine repartition
+-------------------------------------------
+
+Line ID: 1718369233
+WER Score: 9.09
+Transcript: moi je peux appeler ca le packaging en fait voila parce que souvent on fait des choses mais on ne pense pas au packaging donc je pense que c est tout c est un tout c est un tout voila
+Reference:  moi je peux appeler ca le packaging en fait voila parce que souvent on fait des choses mais on ne pense pas au packaging donc je pense que c est tout c est un tout c est un tout c est un tout voila
+-------------------------------------------
+
+Line ID: 1718360351
+WER Score: 12.00
+Transcript: parce que pour moi il faut etre la bonne personne il faut etre au bon endroit pour voir waouh en fait voila donc c etait fait expres dans un premier temps pour dire on va creer une communaute des personnes qui aiment vont se retrouver la ou il faut
+Reference:  parce que pour moi il faut etre a la bonne personne il faut etre au bon endroit pour voir waouh en fait voila donc c etait fait expres dans le premier temps on va creer une communaute des personnes qui l aiment vont se retrouver la ou il le faut
+-------------------------------------------
+
+Line ID: 1718358324
+WER Score: 10.00
+Transcript: donc tu es de bouche a oreille et puis voila et je pense que cette politique a beaucoup marche dans la premiere annee parce que les gens se retrouvaient la c etait comme un peu un lieu ou tu etais coopte en fait tu peux passer devant ne pas savoir mais quand on te dit tu viens tu aimes tu restes
+Reference:  donc tu as des bouches a oreilles et puis voila je pense que cette politique a beaucoup marche dans la premiere annee parce que les gens se retrouvaient la c etait comme un peu un lieu ou tu etais copter en fait tu peux passer devant ne pas savoir mais quand on te dit tu viens tu aimes tu restes
+-------------------------------------------
+
+Line ID: 1718320206
+WER Score: 2.22
+Transcript: donc c etait un peu magique c etait un peu waouh quoi on aimait plus cette partie la et de plus en plus les gens commencent a creer cette communaute pour moi c est creer d abord une communaute que d avoir des clients
+Reference:  donc c etait un peu magique c etait un peu waouh quoi on aimait plus cette partie la voila et de plus en plus les gens commencent a creer cette communaute pour moi c est creer d abord une communaute que d avoir des clients
+-------------------------------------------
+
+Line ID: 1718382692
+WER Score: 7.89
+Transcript: parce que tu peux faire tout ce que tu veux mais si la communaute ne t accepte pas la communaute ne te suit pas c est du gachis en fait donc pour moi la communaute est encore plus importante voila
+Reference:  parce que tu peux faire tout ce que tu veux mais si la communaute ne t assetes pas la communaute ne te suit pas c est du gachis en fait pour moi la communaute est encore plus importante
+-------------------------------------------
+
+Line ID: 1718375276
+WER Score: 19.64
+Transcript: aujourd hui moi je ne cherche pas a avoir des clients mais moi je les appelle des partenaires d affaires voila tous ceux qui viennent a voir sont des partenaires voila parce que pour moi il ne s agit pas de venir a l esparo consommer simplement mais de pouvoir venir proposer echanger des marchandises
+Reference:  aujourd hui moi je ne cherche pas a avoir des clients mais moi je les appelle des partenaires d affaires voila tout ce qui vient d avoir c est des partenaires voila parce que pour moi il ne s agit pas de venir a l espace consommer simplement mais de pouvoir venir proposer et changer merchandises
+-------------------------------------------
+
+Line ID: 1718342663
+WER Score: 18.52
+Transcript: voila c est un espace qui permet a tout le monde de se retrouver de tisser des affaires de network en fait c est un peu un tout
+Reference:  c est un espace qui permet a tout le monde de se retrouver de tisser des affaires de network c est un peu un tout en fait
+-------------------------------------------
+
+Line ID: 1718326734
+WER Score: 10.00
+Transcript: et nous mettons en avant tout le savoir faire donc par exemple les chaises a waouh sont en vente et les tableaux les tableaux de decor la plupart des choses sont en vente donc c est aussi un partenariat il y a des clients qui sont arrives
+Reference:  et nous mettons en avant tout le savoir faire donc par exemple les chaises a waw sont en vente voila et les tableaux les tableaux le decor la plupart des choses sont en vente en fait donc c est aussi un partenariat il y a des clients qui sont arrives
+-------------------------------------------
+
+Line ID: 1718391519
+WER Score: 21.05
+Transcript: je fabrique telle piece je fabrique telle piece on nous fait une exposition a wao nous decorons le lieu et certains objets sont en vente donc c est vraiment un bon partenariat
+Reference:  ah je fabrique telle piece je fabrique telle piece ils disent bon on va nous faire une exposition a waw nous decorons le lieu et certains objets sont en vente voila donc c est vraiment un bon partenariat
+-------------------------------------------
+
+Line ID: 1718346987
+WER Score: 14.29
+Transcript: je dis comme ca que nous avons aussi une autre production de bungee mais aussi c est un partenariat qui a ete fait avec l un de nos clients qui exploite des palmiers
+Reference:  voila je dis comme ca que nous avons aussi notre propre production de bandji mais aussi c est un partenariat qui a ete fait avec l un de nos clients et qui exploite des palmiers
+-------------------------------------------
+
+Line ID: 1718381762
+WER Score: 14.63
+Transcript: oui et puis simple en fait de la chose que tout le monde comprenne souvent dans un francais ivoirien on fait une affaire d accord si toi tu gagnes moi je perds c est pas une affaire
+Reference:  oui waouh et puis simple en fait de la chose pour que tout le monde comprenne souvent dans un francais il voit rien on fait une affaire d accord si toi tu gagnes moi je gagne c est pas une affaire
+-------------------------------------------
+
+Line ID: 1718373327
+WER Score: 5.26
+Transcript: non la patience c est vraiment la cle du succes voila en plus de la patience il faut etre organize
+Reference:  non la patience c est vraiment la cle du succes en plus de la patience il faut etre organize
+-------------------------------------------
+
+Line ID: 1718392813
+WER Score: 19.05
+Transcript: l organization c est tres important donc j ajouterais a la passion l organization et etre travailleur et bosseur
+Reference:  l organization c est tres important donc j ajouterai a la patience et a l organization et etre travailleur et bosseur
+-------------------------------------------
+
+Line ID: 1718350132
+WER Score: 16.67
+Transcript: moi c est tres simple parce que pour moi tout a l heure on a brosse un peu ce qu on appelle le to do list donc avoir un to do list c est vraiment important pour une certaine organization
+Reference:  moi c est tres simple parce que pour moi tout a l heure on a brosse un peu ce qu on appelle le todolis donc avoir un todolis c est vraiment important pour une certaine organization
+-------------------------------------------
+
+Line ID: 1718314355
+WER Score: 27.27
+Transcript: il y a des moments ou il faut improviser mais il faut planifier tout ce que tu fais tu te leves la journee tu as un tel rendez vous tu as ce que tu dois faire tu dois appeler le plombier tu as besoin d appeler tel fournisseur tu as un rendez vous ici c est une planification
+Reference:  il y a des moments ou il faut improviser mais il faut planifier tout ce que tu fais en fait tu leves la journee tel rendez vous ce que je dois faire je dois appeler le plombier j ai besoin d appeler tel fournisseur j ai un rendez vous ici donc c est une planification
+-------------------------------------------
+
+Line ID: 1718331141
+WER Score: 11.76
+Transcript: voila c est une planification donc je demande aux gens de s asseoir de prendre c est simple un stylo une feuille et ecrire en fait ce qu ils doivent faire de la journee
+Reference:  voila c est une planification donc je demande aux gens de s asseoir de prendre c est simple un stylo un feu et ecrire en fait ce qu il doit faire de la journee
+-------------------------------------------
+
+Line ID: 1718352019
+WER Score: 1.85
+Transcript: moi je pense qu au dela de nos competences comme je dis tu ne peux pas fonctionner tout seul voila tu ne peux pas fonctionner tout seul et ce qui est un peu plus difficile je vais dire c est dommage en afrique et en cote d ivoire c est la ressource humaine en fait
+Reference:  moi je pense qu au dela de nos competences comme je dis tu ne peux pas fonctionner tout seul tu ne peux pas fonctionner tout seul et ce qui est un peu plus difficile je vais dire c est dommage en afrique et en cote d ivoire c est la ressource humaine en fait
+-------------------------------------------
+
+Line ID: 1718377468
+WER Score: 0.00
+Transcript: la ressource humaine parce que nous avons besoin de personnes pour nous accompagner mais souvent on est confronte a une ressource humaine qui n est pas qualifiee ca aussi c est pas grave parce qu on peut apprendre mais quand tu n as pas la volonte d apprendre tu n as pas la volonte de travailler souvent c est un peu complique
+Reference:  la ressource humaine parce que nous avons besoin de personnes pour nous accompagner mais souvent on est confronte a une ressource humaine qui n est pas qualifiee ca aussi c est pas grave parce qu on peut apprendre mais quand tu n as pas la volonte d apprendre tu n as pas la volonte de travailler souvent c est un peu complique
+-------------------------------------------
+
+Line ID: 1718336412
+WER Score: 21.74
+Transcript: le gain de la facilite parce que c est aussi plus facile d aller voir une telle personne pour dire ah j ai tel probleme donne moi 1000 francs donne moi 2000 que de venir apprendre a travailler le probleme est plus profond
+Reference:  on a le gain de la facilite parce que c est aussi plus facile d aller voir une telle personne pour dire ah j ai tel probleme dans mon mi francais dans mon demi francais que de venir apprendre a travailler le probleme est plus profond
+-------------------------------------------
+
+Line ID: 1718349443
+WER Score: 0.00
+Transcript: et comme tantot je disais il faut toujours avoir la vie des esperes pour ne pas avoir peur d approcher des esperes pour vous conseiller et n ayez pas peur de depenser pour payer aussi les conseillers parce que c est leur boulot de vous conseiller
+Reference:  et comme tantot je disais il faut toujours avoir la vie des esperes pour ne pas avoir peur d approcher des esperes pour vous conseiller et n ayez pas peur de depenser pour payer aussi les conseillers parce que c est leur boulot de vous conseiller
+-------------------------------------------
+
+Line ID: 1718399392
+WER Score: 4.92
+Transcript: voila en cote d ivoire c est dans notre quotidien mais les jeunes ne font pas attention au packaging vous voyez aujourd hui il y a une certaine communaute qui veut bien consommer le made in cote d ivoire mais avec des nouveaux packagings des choses qui sont tres accessibles qui font plaisir aux yeux aux cinq sens en fait
+Reference:  voila en cote d ivoire c est dans notre quotidien mais les gens ne font pas attention au packaging vous voyez aujourd hui il y a une certaine communaute qui veut bien consommer le made in cote d ivoire mais avec des nouveaux packaging des choses qui sont vraiment tres accessibles qui font plaisir aux yeux aux cinq sens en fait
+-------------------------------------------
+
+Line ID: 1718369949
+WER Score: 12.50
+Transcript: ca c est important parce que pour moi quand les 500 ont la chance d interagir le succes commercial 98 99% est acquis
+Reference:  ca c est important parce que pour moi quand les cinq sens ont la chance d interagir le succes commercial 98 99% est attaque
+-------------------------------------------
+
+Line ID: 1718338378
+WER Score: 10.20
+Transcript: vous voyez il faut que ca soit beau pour les yeux il faut que ca soit bon pour la langue il faut que l odorat soit tres bien au toucher en fait comme je dis il faut que les cinq sens interagissent pour voir le succes commercial en fait
+Reference:  vous voyez il faut que ca soit beau pour les yeux il faut que ca soit bon pour la langue il faut que le dora soit tres bien touche en fait comme je le dis il faut que les cinq sens interagissent pour voir le succes commercial en fait
+-------------------------------------------
+
+Line ID: 1718356681
+WER Score: 4.44
+Transcript: donc aujourd hui quand on parle de beau il y a des designers on parle de gout il y a des chefs donc pour moi cette collaboration il faut apprendre a vivre dans un ecosysteme ou tout seul tu ne peux pas gagner
+Reference:  voila donc aujourd hui quand on parle de beau il y a des designers on parle de gout il y a des chefs donc pour moi cette collaboration la il faut apprendre a vivre dans un ecosysteme ou tout seul tu ne peux pas gagner
+-------------------------------------------
+
+Line ID: 1718382625
+WER Score: 2.56
+Transcript: l espace wow le but de l espace wow c est d aider chaque ivoirien a prendre confiance en lui meme savoir que tout ce que nous touchons peut contribuer a ton succes mais en le faisant tres bien
+Reference:  l espace wow le but de l espace wow c est d aider chaque ivoirien a prendre confiance en lui meme savoir que tout ce que nous touchons peut contribuer a ton succes mais a le faisant tres bien
+-------------------------------------------
+
+Line ID: 1718377331
+WER Score: 6.12
+Transcript: donc en fouillant etre curieux vous pourrez visiter le monde et adapter certaines choses a notre realite et offrir le mieux que nous avons au monde exterieur aussi parce que consommer ivoirien ce n est pas seulement que pour les ivoiriens il faut pouvoir comprendre ca en fait
+Reference:  donc en fouillant etre curieux vous pourrez visiter le monde et adapter certaines choses a notre realite et offrir le mieux que nous avons au monde esthereen aussi parce que consommer les ivoiriens ce n est pas seulement que pour les ivoiriens il faut pouvoir comprendre ca en fait
+-------------------------------------------
+
+Line ID: 1718367913
+WER Score: 12.31
+Transcript: dans le futur ce que nous voulons nous voulons que chaque ivoirien prennent conscience de pouvoir offrir le meilleur produit pour les ivoiriens parce que je te donne une anecdote il ya des gens qui sont arrives a l espace waouh et en fait il pensait que l espace appartenait a un europeen comme on dit communement ici appartenait a un blanc
+Reference:  aujourd hui dans le futur ce que nous voulons nous voulons que chaque ivoirien prenne conscience de pouvoir offrir le meilleur produit pour les ivoiriens parce que je te donne une anecdote il y a des gens qui sont arrives a l espace wow et en fait ils pensaient que l espace appartenait a un europeen comme on dit communement ici appartenait a un blanc
+-------------------------------------------
+
+Line ID: 4334959288
+WER Score: 13.16
+Transcript: en fait miach c est methode informatique appliquee a la gestion des entreprises c est une formation qui allie des connaissances en gestion d entreprise vraiment la base le droit la comptabilite le marketing
+Reference:  oui en fait miage c est methode informatique appliquee a la gestion des entreprises c est une formation en fait qui allie disons des connaissances en gestion d entreprise vraiment la base le droit la comptabilite le marketing
+-------------------------------------------
+
+Line ID: 4334959061
+WER Score: 4.26
+Transcript: avec de tres bons professeurs parce que c est une formation assez challengeante et aussi en fait l informatique et qui nous montre comment l informatique c est a dire interagit quand il s agit de transformation digitale et puis de gestion en fait d entreprise
+Reference:  avec de tres bons professeurs parce que c est une formation assez challengeante et aussi en fait l informatique donc et qui nous montre comment l informatique c est a dire interagit quand il s agit de transformation digitale et plus de gestion en fait d entreprise
+-------------------------------------------
+
+Line ID: 4334972684
+WER Score: 22.22
+Transcript: pas de soucis alors je m appelle fabrice fabrice tra voila je suis ivoirien j ai 24 ans depuis ce 18 janvier la 2022
+Reference:  il n y a pas de souci alors je m appelle fabrice fabrice tra voila je suis ivoirien j ai 24 ans depuis ce 18 janvier 2022
+-------------------------------------------
+
+Line ID: 4334965499
+WER Score: 2.90
+Transcript: j ai fait disons pour retracer concretement le cours secondaire methodiste de yopougon pour le college pour le lycee j ai integre le lycee classique d abidjan ou j ai fait de belles annees de lycee et ensuite j ai eu la chance d integrer l institut national polytechnique de yamsoukro pour une formation en informatique de trois ans la ou j ai appris les bases de l informatique
+Reference:  j ai fait disons pour retracer concretement le cours secondaire methodiste de youpubon pour le college pour le lycee j ai integre le lycee classique d abidjan ou j ai fait de belles annees de lycee et ensuite j ai eu la chance d integrer l institut national polytechnique de yamsocroc pour une formation en informatique de trois ans la ou j ai appris les bases de l informatique
+-------------------------------------------
+
+Line ID: 4334991412
+WER Score: 12.66
+Transcript: ensuite je me suis envole pour l universite de rennes pour faire la license methode informatique appliquee a la gestion d entreprise j ai fait une license et un master en miaage j ai pu par ce parcours et ces differentes formations et aussi les stages que j ai eu a effectuer durant mes etudes acquerir certaines competences qui aujourd hui me servent et qui ont permis notamment de creer bim aujourd hui
+Reference:  et ensuite je me suis envole pour l universite de rennes pour faire la license methode informatique appliquee a la gestion d entreprise voila ou j ai fait en fait une license et un master en mias et voila j ai pu par ce parcourir ces differentes formations et aussi les stages que j ai eu a effectuer durant mes etudes acquerir certaines competences qui aujourd hui me servent et qui ont permis notamment de creer bim aujourd hui
+-------------------------------------------
+
+Line ID: 4334998538
+WER Score: 17.39
+Transcript: en fait mon bim est le produit de plusieurs reussites et de plusieurs echecs parce qu en gros bim n est pas la premiere entreprise que j ai montee j ai eu toujours l envie de creer quelque chose qui m appartient
+Reference:  en fait monbim est en fait le produit de plusieurs reussites et de plusieurs echecs voila parce que en gros bim n est pas la premiere entreprise que j ai montee j ai eu toujours en fait l envie de creer quelque chose qui m appartient
+-------------------------------------------
+
+Line ID: 4334981454
+WER Score: 0.00
+Transcript: ca c est une envie que j ai nourrie depuis ma plus grande enfance et c est en gros cette envie la meme qui m a pousse vers l informatique parce qu etant petit a l adolescence arrive un moment on manque beaucoup de confiance en soi
+Reference:  ca c est une envie que j ai nourrie depuis ma plus grande enfance et c est en gros cette envie la meme qui m a pousse vers l informatique parce qu etant petit a l adolescence arrive un moment on manque beaucoup de confiance en soi
+-------------------------------------------
+
+Line ID: 4334921383
+WER Score: 2.94
+Transcript: et moi c etait le fait de creer quelque chose de mes propres mains en griffes parce que l informatique ca reste quand meme du virtuel c est le fait de creer quelque chose moi meme qui m a en gros redonne confiance en moi et puis qui m a fait beaucoup aimer l informatique donc j ai toujours aime creer parce que ca me redonne confiance en moi
+Reference:  et moi c etait le fait de creer quelque chose de mes propres mains en brief parce que l informatique ca reste quand meme du virtuel c est le fait de creer quelque chose moi meme qui m a en gros redonne confiance en moi et qui m a fait beaucoup aimer l informatique donc j ai toujours aime creer parce que ca me redonne confiance en moi
+-------------------------------------------
+
+Line ID: 4334971425
+WER Score: 0.00
+Transcript: donc j ai cree en gros plusieurs applications parce que j ai toujours eu aussi l envie de creer des choses dans l informatique j ai cree plusieurs applications qui ont conduit aujourd hui a la creation de bim deja des l universite tout ce qui etait applications de gestion des filieres applications de parrainage par exemple
+Reference:  donc j ai cree en gros plusieurs applications parce que j ai toujours eu aussi l envie de creer des choses dans l informatique j ai cree plusieurs applications qui ont conduit aujourd hui a la creation de bim deja des l universite tout ce qui etait applications de gestion des filieres applications de parrainage par exemple
+-------------------------------------------
+
+Line ID: 4334916807
+WER Score: 17.02
+Transcript: j ai commence par ces differentes choses la et meme lorsque je terminais a l institut national polytechnique a yamsoukro j avais monte une start up avec des amis de promotion et on avait commence par un projet tres interessant pour une ong ivoirienne
+Reference:  voila j ai commence en fait par ces differentes choses la et meme lorsque je terminais a l institut national polytechnique a yamoussoukro j avais monte une startup avec des amis de promotion et voila on avait commence par un projet tres interessant pour une pong ivoirienne
+-------------------------------------------
+
+Line ID: 4334996131
+WER Score: 2.33
+Transcript: et malheureusement on n a pas pu aller forcement jusqu au bout parce qu apres les etudes chacun est parti un peu de son cote donc ce n est pas la premiere aventure entrepreneuriale que je mene j ai deja eu une aventure
+Reference:  et malheureusement on n a pas pu aller forcement jusqu au bout parce que apres les etudes chacun est parti un peu de son cote donc ce n est pas la premiere aventure entrepreneuriale que je mene j ai deja eu une aventure
+-------------------------------------------
+
+Line ID: 4334939948
+WER Score: 14.52
+Transcript: j ai cree une startup qui s appelait brain space qui aujourd hui est en train d etre disons refactoree et puis lors de mon arrivee en france j ai cree aussi plusieurs sites voila plusieurs sites e commerce notamment pour pouvoir faire la promotion en fait de produits speciaux par exemple ca c est l histoire en fait d une reussite et d un echec en meme temps
+Reference:  ai cree une startup qui s appelait brandspace qui aujourd hui est en train d etre disons refacturee et puis lors de mon arrivee en france j ai cree aussi plusieurs sites plusieurs sites e commerce notamment pour pouvoir faire la promotion de produits speciaux par exemple ca c est l histoire d une reussite et d un echec en meme temps
+-------------------------------------------
+
+Line ID: 4334968559
+WER Score: 11.84
+Transcript: c est l histoire d un site que j ai cree qui s appelait blendit fr c est un site specialize dans la vente de produits pour chats c etait un produit special c etait une gamelle pour chats et ce produit la pendant le confinement il a bien marche parce que les gens etaient chez eux et j ai senti qu il y avait quelque chose a faire la
+Reference:  c est l histoire disons d un site que j ai cree qui s appelait blendit blendit fr c est un site specialize en fait dans la vente de produits pour chat c etait un produit special c etait une gammel pour chat et ce produit la pendant le confinement il a bien marche parce que les gens etaient chez eux et j ai senti en fait qu il y avait quelque chose a faire la
+-------------------------------------------
+
+Line ID: 4334932708
+WER Score: 24.24
+Transcript: bizarrement pendant le confinement les gens ils achetaient beaucoup plus donc en moins de deux semaines on etait disons on avait fait un bon chiffre d affaires a peu pres €3000 on etait tous contents etc etc bon
+Reference:  bizarrement pendant le confinement les gens achetaient beaucoup plus donc en moins de deux semaines on avait fait un bon chiffre d affaires a peu pres 3 €0 on etait tous contents etc
+-------------------------------------------
+
+Line ID: 4334913257
+WER Score: 14.81
+Transcript: j ai toujours travaille avec une autre personne la profondatrice de mon bim qui n est pas la aujourd hui mais que je salue au passage
+Reference:  j ai toujours travaille avec une autre personne la profondeur de presse de monbim qui n est pas la aujourd hui mais que je salue au passage
+-------------------------------------------
+
+Line ID: 4334963347
+WER Score: 7.32
+Transcript: voila anna vilou et voila en fait on a fait un tres beau chiffre d affaires avec ce site internet la et ensuite ne sachant pas gerer les choses et la en fait c est un truc qui est tres important aussi
+Reference:  voila ana anavilou et voila en fait on a fait un tres beau chiffre d affaires avec ce site internet la et ensuite ne sachant pas gerer les choses et la en fait c est un truc qui est tres important
+-------------------------------------------
+
+Line ID: 4334950791
+WER Score: 13.11
+Transcript: deja ca fait qu au niveau du fonds de roulement du site internet c etait devenu complique et ca a cree un mauvais engrenage et finalement je crois qu on a du le faire et ca c est l une des choses qui nous a beaucoup fait reflechir et qui nous a fait comprendre
+Reference:  deja et du coup ca fait qu au niveau du fond de roulement du site internet c etait devenu complique et ca a cree en fait un mauvais engrenage et finalement je crois qu on a du le faire et ca en fait c est l une des choses qui nous a beaucoup fait reflechir et qui nous a fait comprendre
+-------------------------------------------
+
+Line ID: 4334930633
+WER Score: 12.50
+Transcript: parce que nous de notre tete la machine etait lancee on pouvait faire ce qu on voulait et puis bon ca allait toujours rapporter quelque chose alors que non il y a des problemes qu on a eu a resoudre apres qu on ait fait cet achat que je considere comme .
+Reference:  parce que nous de notre tete la machine etait lancee on pouvait faire ce qu on voulait et puis bon ca allait toujours rapporter quelque chose alors que non il y a des problemes en fait qu on a eu a resoudre apres en fait qu on a fait ce tachat que je considere comme .
+-------------------------------------------
+
+Line ID: 4334959139
+WER Score: 4.17
+Transcript: finalement la voiture n existe plus parce qu on a fait un accident disons environ un an apres heureusement tout s est bien passe personne n a eu quelque chose de mal mais voila c etait l histoire de blendit qui s est terminee comme ca et puis voila et heureusement pendant ce temps on avait monte d autres projets d entrepreneuriat derriere dont bim dont on parle aujourd hui
+Reference:  finalement la voiture n existe plus parce qu on a fait un accident disons environ un an apres voila heureusement tout s est bien passe personne n a eu quelque chose de mal mais voila c etait l histoire de blendit qui s est termine comme ca et puis voila et heureusement que pendant ce temps on avait monte d autres projets d entrepreneuriat derriere dont bim dont on parle aujourd hui
+-------------------------------------------
+
+Line ID: 4334941748
+WER Score: 14.04
+Transcript: en fait la naissance de bim part d une histoire hyper drole en gros le jour ou j ai rencontre la cofondatrice de bim on a discute parce qu on etait des anciens de l institut national polytechnique felix rebouigny et en gros on s est rencontres ici en france un peu par hasard
+Reference:  en fait la naissance de bim parle d une histoire hyper drole en gros le jour ou j ai rencontre la co fondatrice de bim on a discute parce qu on etait des anciens de l institut national polytechnique felus feboni et en gros on s est rencontre en fait ici en france un peu par hasard
+-------------------------------------------
+
+Line ID: 4334967793
+WER Score: 13.33
+Transcript: on etait dans la meme fac et le jour qu on s est rencontres on a discute on a echange nos numeros moi j ai pris son numero
+Reference:  on etait dans la meme fac et le jour quand on s est rencontre on a discute on a echange nos numeros moi j ai pris en fait son numero
+-------------------------------------------
+
+Line ID: 4334998174
+WER Score: 5.41
+Transcript: et lorsque je suis rentre chez moi a la maison j ai voulu lui envoyer des messages et bizarrement j ai remarque que pendant 3 4 jours j envoyais des messages et je n avais pas de reponse et je me disais je ne comprends pas en fait qu est ce qui se passe qu est ce que j ai fait de mal et heureusement je l ai retrouve sur la fac
+Reference:  et lorsque je suis rentre chez moi a la maison j ai voulu lui envoyer des messages et bizarrement j ai remarque que pendant trois quatre jours j envoyais des messages et je n avais pas de reponse et je me disais je ne comprends pas en fait qu est ce qui se passe qu est ce que j ai fait de mal et tout et heureusement je l ai retrouve sur la fac
+-------------------------------------------
+
+Line ID: 4334973436
+WER Score: 6.78
+Transcript: et la en fait je lui ai demande directement ben voila je t envoie des messages et genre tu ne reponds pas et c est la en fait qu on s est vite rendu compte que je m etais trompe lorsque j avais pris le numero donc pendant les trois jours j envoyais des messages a un fantome un gris
+Reference:  et la en fait je lui ai demande directement bah voila je t envoie des messages et tu ne reprends pas et c est la en fait qu on s est vite rendu compte que je m etais trompe lorsque j avais pris le numero donc pendant les trois jours j envoyais des messages a un fantome un grish
+-------------------------------------------
+
+Line ID: 4334912218
+WER Score: 16.07
+Transcript: et j ai jamais eu de repenses et la on a eu l idee en fait de creer quelque chose un outil qui allait permettre aux gens de ne plus jamais faire cette erreur la parce que finalement si ainsi en si on n avait finalement pas eu de nouveaux contacts ca allait etre fini pour toujours et
+Reference:  et j ai jamais eu de reponse et la on a eu l idee en fait de creer quelque chose un outil qui allait permettre aux gens de ne plus jamais faire cette erreur la parce que finalement si on n avait pas eu de nouveaux contacts ca allait etre fini fini fini fini pour toujours
+-------------------------------------------
+
+Line ID: 4334967685
+WER Score: 0.00
+Transcript: et la on a reflechi pendant des mois pendant disons plus d un an pour trouver quelque chose qui allait nous permettre d eviter que cela se reproduise et bim on a trouve l idee d une carte de visite digitale qui allait permettre d avoir des informations de maniere instantanee sans avoir a les recopier parce que ca reduit de 100% le risque d erreur
+Reference:  et la on a reflechi pendant des mois pendant disons plus d un an pour trouver quelque chose qui allait nous permettre d eviter que cela se reproduise et bim on a trouve l idee d une carte de visite digitale qui allait permettre d avoir des informations de maniere instantanee sans avoir a les recopier parce que ca reduit de 100% le risque d erreur
+-------------------------------------------
+
+Line ID: 4334932630
+WER Score: 0.00
+Transcript: et en fait c est de la qu est partie l idee de bim ensuite il y a la partie ecologique on ne voulait pas que ca se fasse de maniere normale comme ca se fait d habitude avec une carte de visite en papier
+Reference:  et en fait c est de la qu est partie l idee de bim ensuite il y a la partie ecologique on ne voulait pas que ca se fasse de maniere normale comme ca se fait d habitude avec une carte de visite en papier
+-------------------------------------------
+
+Line ID: 4334942326
+WER Score: 1.47
+Transcript: parce que deja le papier voila c est pas trop bon pour l environnement lorsqu il n est pas recycle convenablement et en fait on a fait des recherches et on a constate que chaque annee il y a environ 10 milliards de cas de visite qui sont crees dans le monde et en fait il y a une statistique qui est disons qui est tres surprenante
+Reference:  parce que deja le papier voila c est pas trop bon pour l environnement lorsqu il n est pas recycle convenablement et en fait on a fait des recherches et on a constate que chaque annee il y a environ 10 milliards de cas de visite qui sont crees dans le monde et en fait il y a une statistique qui est disons disons qui est tres surprenante
+-------------------------------------------
+
+Line ID: 4334993603
+WER Score: 6.49
+Transcript: c est que 80% c est a dire 8 milliards de ces cartes de visite sont jetees a la poubelle des la premiere semaine de leur fabrication c est a dire des lors qu elles sont donnees a la personne qui les a commandees on a 8 milliards sur ces 10 milliards la qui sont jetes a la poubelle ca veut dire que finalement la carte de visite n est pas si efficace que ca
+Reference:  c est que 80% c est a dire 8 milliards de ces cas de visite sont getes a la poubelle des la premiere semaine de leur fabrication c est a dire des lors qu elles sont donnees a la personne qui les a commandees on a 8 milliards sur ces 10 milliards la qui sont getes en fait a la poubelle ca veut dire que finalement la carte de visite n est pas si efficace que ca
+-------------------------------------------
+
+Line ID: 4334936578
+WER Score: 24.00
+Transcript: vu son impact qu elle a sur l environnement on a vu necessaire de trouver une alternative qui etait beaucoup plus eco friendly a la carte de visite basique en papier et en gros c est la qu est neglige
+Reference:  vu en fait son impact qu elle a sur tout l environnement on a juste necessaire en fait de trouver une alternative en fait qui etait beaucoup plus eco friendly a la carte de visite basique en papier et en gros c est la en fait qu est nee bim
+-------------------------------------------
+
+Line ID: 4334916523
+WER Score: 8.51
+Transcript: c est la que l idee de bim est nee et apres trouver la technologie qui allait nous permettre de supprimer le papier on est tombe sur la technologie sans contact parce que aussi le confinement a souleve les questions du paiement etc
+Reference:  c est la que l idee de bim en fait est nee et apres trouver la technologie qui allait nous permettre de supprimer le papier on est tombe sur la technologie sans contact parce que aussi le confinement en fait a souleve les questions du paiement etc
+-------------------------------------------
+
+Line ID: 4334921239
+WER Score: 5.17
+Transcript: et la technologie sans contact a ete disons la grande gagnante de ce confinement en termes de technologie c est ce qui nous a pousse vers cette technologie la et on a decide de l integrer a dimm donc en fait c est un peu comme ca que tout s est passe et on avait tout
+Reference:  et la technologie sans contact a ete disons la grande gagnante en fait de ce confinement en termes de technologie c est ce qui nous a pousse vers cette technologie la et on a decide de l integrer a bim donc en fait c est un peu comme ca que tout s est passe et on avait tout
+-------------------------------------------
+
+Line ID: 4334969716
+WER Score: 5.41
+Transcript: on avait la technologie on avait disons la vision mais on n avait pas de nom pour notre entreprise et un jour bon moi j ai cherche en fait le nom pendant des mois pendant des semaines pendant .
+Reference:  on avait la technologie on avait disons la vision mais on n avait pas de nom pour notre entreprise et un jour bon moi j ai cherche en fait le nom pendant des mois pendant des semaines
+-------------------------------------------
+
+Line ID: 4334924442
+WER Score: 11.11
+Transcript: et un jour je me souviens qu on etait assis au bord d un lac et je lui ai demande en fait quel nom tu voudrais pour le projet elle n a meme pas reflechi deux secondes mais bim et je me suis dit mais attends je cherche depuis des mois pourquoi tu ne me le dis pas
+Reference:  et un jour je me souviens qu on etait assis en fait au bord d un lac et je lui ai demande en fait quel nom tu voudrais pour bim pour le projet elle n a meme pas reflechi deux secondes mais bim en fait et je me suis dit mais attends je cherche depuis des mois pourquoi tu me le dis pas
+-------------------------------------------
+
+Line ID: 4334997777
+WER Score: 11.32
+Transcript: elle me dit mais tu ne m as pas demande et puis voila c est comme ca que ca a ete acte bim et voila j ai dit bim c est parfait du coup j ai cherche comment l ecrire parce que pour moi bim c etait trop court
+Reference:  elle me dit mais tu m as pas demande et puis voila et puis c est comme ca en fait que ca a ete acte bim et voila j ai dit bah bim c est parfait du coup j ai cherche comment l ecrire parce que pour moi bim c etait trop court
+-------------------------------------------
+
+Line ID: 4334986952
+WER Score: 4.69
+Transcript: et finalement j ai dit ce qu on va faire de simple on va rajouter en fait un point d exclamation qu on va un peu detourner pour qu il prenne beaucoup plus de place et en fait c est la c est de la qu est parti et qu on a trouve en fait le nom bim qui est la et voila c est comme ca
+Reference:  et finalement j ai dit ce qu on va faire de simple on va rajouter en fait un point d exclamation qu on va un peu detourner pour qu il prenne beaucoup plus de place et en fait c est de la qu est parti et qu on a trouve en fait le nom bim qui est la et voila c est comme ca
+-------------------------------------------
+
+Line ID: 4334927958
+WER Score: 9.30
+Transcript: en fait c est l histoire de notre projet qui est vraiment partie de quelque chose de drole et qui aujourd hui nous a permis de developper une solution qui est utilizable par a peu pres tout le monde
+Reference:  en fait c est l histoire de notre projet qui est vraiment partie de quelque chose de drole en fait et qui aujourd hui nous a permis de developper une solution qui est utilizable en fait par a peu pres tout le monde
+-------------------------------------------
+
+Line ID: 4334951401
+WER Score: 1.96
+Transcript: justement et c est en gros c est la raison pour laquelle il n y a pas eu d hesitation parce que on a tout de suite su que c est un nom qui allait rapidement interesser les gens c est quelque chose qui va avec disons une sorte de tendance
+Reference:  justement et c est en gros c est la raison pour laquelle il n y a pas eu d hesitation parce qu on a tout de suite su que c est un nom qui allait rapidement interesser les gens c est quelque chose qui va avec disons une sorte de tendance
+-------------------------------------------
+
+Line ID: 4334955684
+WER Score: 3.08
+Transcript: et pour nous en fait ca allait tres bien de pouvoir flirter sur cette tendance la et finalement ca marche parce que je me souviens que lorsqu on a commence a parler de bim sur internet sur les reseaux sociaux j ai annonce a mon frere disons une semaine apres que j avais cree une boite qui faisait une carte de visite digitale
+Reference:  et pour nous en fait ca allait tres bien de pouvoir flirter sur cette tendance la et finalement ca marche parce que je me souviens que lorsqu on a commence a parler de bim sur internet sur les reseaux sociaux j ai annonce en fait a mon frere disons une semaine apres que j avais cree une boite qui faisait une carte de visite digitale
+-------------------------------------------
+
+Line ID: 4334985489
+WER Score: 2.63
+Transcript: il a dit ah c est qu on a vraiment reflechi avant de trouver ce nom parce que meme s il ne savait pas trop a quoi ca servait au moins il avait retenu le nom et pour nous c est quelque chose de tres important et c est pourquoi en fait on a choisi ce nom la pour que les gens s identifient rapidement a ca et que surtout qu ils ne l oublient pas
+Reference:  il a dit ah c est qu on a vraiment reflechi avant de trouver ce nom parce que meme s il savait pas trop a quoi ca servait au moins il avait retenu le nom bim et pour nous c est quelque chose de tres important et c est pourquoi en fait on a choisi ce nom la pour que les gens s identifient rapidement a ca et que surtout qu ils ne l oublient pas
+-------------------------------------------
+
+Line ID: 4334992479
+WER Score: 8.70
+Transcript: non mais c est clair c est clair en fait il y a vraiment beaucoup de choses qui ont ete developpees autour de bim et voila on est en train de contacter chaque personne pour pouvoir quand meme en griffe avoir la benediction du peuple
+Reference:  non mais c est clair c est clair en fait il y a vraiment beaucoup de choses qui ont ete developpees autour de bim et voila on est en train de contacter chaque personne pour pouvoir quand meme un griff et avoir la benediction du pape
+-------------------------------------------
+
+Line ID: 4334971547
+WER Score: 2.94
+Transcript: pour nous ce qui est complique ca reste le fait que parlons de la cote d ivoire ca reste le fait que la technologie est encore en train de rentrer dans nos habitudes
+Reference:  pour nous ce qui est complique ca reste le fait que disons parlons de la cote d ivoire ca reste le fait que la technologie est encore en train de rentrer dans nos habitudes
+-------------------------------------------
+
+Line ID: 4334957343
+WER Score: 0.00
+Transcript: ce n est pas encore totalement le cas et il y a plein de personnes qui aujourd hui lorsqu elles entendent parler de bim disons pas qu elles sont reticentes mais elles sont curieuses mais ne comprennent pas directement ou disons dans la plupart des cas ne savent pas en fait ce que c est
+Reference:  ce n est pas encore totalement le cas et il y a plein de personnes qui aujourd hui lorsqu elles entendent parler de bim disons pas qu elles sont reticentes mais elles sont curieuses mais ne comprennent pas directement ou disons dans la plupart des cas ne savent pas en fait ce que c est
+-------------------------------------------
+
+Line ID: 4894913380
+WER Score: 0.00
+Transcript: salut a vous qui nous suivez sur cette radio merci de suivre notre emission sur la bible notre sujet d aujourd hui s intitule demandez avec foi base sur le livre de jacques chapitre one verset 6 qui dit ceci mais qu il la demande avec foi
+Reference:  salut a vous qui nous suivez sur cette radio merci de suivre notre emission sur la bible notre sujet d aujourd hui s intitule demandez avec foi base sur le livre de jacques chapitre one verset 6 qui dit ceci mais qu il la demande avec foi
+-------------------------------------------
+
+Line ID: 4894952715
+WER Score: 11.11
+Transcript: sans douter car celui qui doute est semblable au flot de la mer agitee par le vent et poussee de cote et d autre ici dieu a travers son serviteur s adresse aux chretiens que nous sommes pour dire que si nous manquons quelque chose nous devons demander cela avec foi a dieu
+Reference:  sans douter car celui qui doute est semblable au flot de la mer agite par le vent et pousse de cote et d autre et si dieu a travers son serviteur s adresse au chretien que nous sommes pour dire que si nous manquons quelque chose nous devons demander cela avec foi a dieu
+-------------------------------------------
+
+Line ID: 4894918573
+WER Score: 0.00
+Transcript: donc chers amis pour etre capable de resister a satan et de triompher nous devons d abord obtenir les forces necessaires pour resister a sa puissance
+Reference:  donc chers amis pour etre capable de resister a satan et de triompher nous devons d abord obtenir les forces necessaires pour resister a sa puissance
+-------------------------------------------
+
+Line ID: 4894980800
+WER Score: 2.00
+Transcript: dieu nous donne ainsi la possibilite de nous maintenir en contact etroit avec le christ et de jouir de la constante protection des anges et cela commence par notre demande sachant que nous sommes faibles sachant que nous sommes tout petits et que sans dieu nous ne pouvons rien faire
+Reference:  dieu nous donne ainsi la possibilite de nous maintenir en contact etroit avec le christ et de jouir de la constante protection des anges et cela commence par notre demande sachant que nous sommes faibles sachant que nous sommes tous petits et que sans dieu nous ne pouvons rien faire
+-------------------------------------------
+
+Line ID: 4894962179
+WER Score: 6.67
+Transcript: qu on ne peut pas voir ou se trouve dieu dans le lieu ou jesus est entre pour nous saisissons non plus fermement des promesses certaines de dieu ayons une foi manifeste une foi qui s empare de l invisible une foi inebranlable immuable
+Reference:  qu on ne peut pas voir ou se trouve dieu dans le lieu ou jesus est entre pour nous saisissons non plus fermement des promesses certaines de dieu ayons une foi manifeste une foi qui ne sent pas de l invisible une foi inebranlable immuable
+-------------------------------------------
+
+Line ID: 4894997242
+WER Score: 50.00
+Transcript: dieu nous invite de croire qu il est celui la meme qui peut combattre avec nous et nous donner la victoire dieu nous invite a demander avec foi notre foi doit nous faire penetrer de l autre cote du voile
+Reference:  dieu nous invite de croire qu il est celui la meme qui peut combattre avec nous et nous donner la victoire dieu nous invite a demander avec foi notre foi doit nous faire penetrer de l autre cote du voile dieu nous invite de croire qu il est celui la meme qui peut combattre avec nous et nous donner la victoire dieu nous invite a demander avec foi notre foi doit nous faire penetrer de l autre cote du voile
+-------------------------------------------
+
+Line ID: 4894956831
+WER Score: 0.00
+Transcript: pour ce faire nous devons avoir la foi nous devons nous approcher de dieu avec la conviction que nous ne sommes pas seuls et que dieu pardonnera tous nos peches et dieu fera de nous de nouvelles personnes
+Reference:  pour ce faire nous devons avoir la foi nous devons nous approcher de dieu avec la conviction que nous ne sommes pas seuls et que dieu pardonnera tous nos peches et dieu fera de nous de nouvelles personnes
+-------------------------------------------
+
+Line ID: 4894929064
+WER Score: 2.70
+Transcript: comme il le dit dans 2 corinthiens 5 verset 17 en christ nous sommes une nouvelle creature les choses anciennes sont passees toutes choses sont devenues nouvelles c est ce que le christ veut faire de nous
+Reference:  comme il le dit dans 2 corinthians 5 verset 17 en christ nous sommes une nouvelle creature les choses anciennes sont passees toutes choses sont devenues nouvelles c est ce que le christ veut faire de nous
+-------------------------------------------
+
+Line ID: 4894949530
+WER Score: 0.00
+Transcript: si nous cherchons dieu de tout notre coeur chers amis si nous travaillons avec zele si notre foi est inebranlable alors la lumiere resplendira sur nous comme elle a resplendu sur enoch
+Reference:  si nous cherchons dieu de tout notre coeur chers amis si nous travaillons avec zele si notre foi est inebranlable alors la lumiere resplendira sur nous comme elle a resplendu sur enoch
+-------------------------------------------
+
+Line ID: 4894958902
+WER Score: 9.52
+Transcript: le prophete fidele a dieu parce que la parole de dieu nous dit enoch a marche pendant 300 ans avec le seigneur sans avoir peche qu est ce qu il a fait que enoch a triomphe de ses batailles de ses luttes spirituelles
+Reference:  le prophete fidele a dieu parce que la parole de dieu nous dit enoch a marche pendant 300 ans avec le seigneur sans avoir peche qu est ce qui a fait qu enoch a triompher de ses batailles de ses luttes spirituelles
+-------------------------------------------
+
+Line ID: 4894999150
+WER Score: 2.78
+Transcript: tes peches te sont pardonnes parce que tout ce que nous posons comme mauvaises actions commence par le coeur parce que c est dans le coeur que prend forme notre esprit de convoitise notre esprit adulterien devote
+Reference:  tes peches te sont pardonnes parce que tout ce que nous posons comme mauvaises actions commence par le coeur parce que c est dans le coeur que prend forme notre esprit de convoitise notre esprit adulterien
+-------------------------------------------
+
+Line ID: 4894926450
+WER Score: 0.00
+Transcript: quand l eternel nous invite en disant mon fils donne moi ton coeur dieu veut que nous lui appartenions entierement il sait que notre ame est atteinte par le peche et il desire dire a chacun de nous
+Reference:  quand l eternel nous invite en disant mon fils donne moi ton coeur dieu veut que nous lui appartenions entierement il sait que notre ame est atteinte par le peche et il desire dire a chacun de nous
+-------------------------------------------
+
+Line ID: 9023816425
+WER Score: 0.00
+Transcript: certains cosmetiques sont naturels seulement sur l etiquette affirme l association 60000000s de consommateurs comment distinguer les vrais des faux voici ce qu il faut savoir
+Reference:  certains cosmetiques sont naturels seulement sur l etiquette affirme l association 60000000s de consommateurs comment distinguer les vrais des faux voici ce qu il faut savoir
+-------------------------------------------
+
+Line ID: 9023810845
+WER Score: 0.00
+Transcript: quand il s agit de choisir les meilleurs produits cosmetiques ou d hygiene la premiere regle consiste a privilegier les ingredients naturels aux ingredients chimiques pour eviter des effets indesirables mais encore faut il faire la difference entre les produits qui sont veritablement d origine naturelle et ceux qui emportent la mention mais dans l etiquette montrent tout l inverse
+Reference:  quand il s agit de choisir les meilleurs produits cosmetiques ou d hygiene la premiere regle consiste a privilegier les ingredients naturels aux ingredients chimiques pour eviter des effets indesirables mais encore faut il faire la difference entre les produits qui sont veritablement d origine naturelle et ceux qui emportent la mention mais dans l etiquette montrent tout l inverse
+-------------------------------------------
+
+Line ID: 9023890598
+WER Score: 2.94
+Transcript: dernierement l ufc que choisir a publie une etude a partir d analyzes en laboratoire sur plusieurs produits solaires pour enfants revelant que les cremes solaires bio ne sont pas forcement gauges de qualite
+Reference:  dernierement l ufc que choisir a publier une etude a partir d analyzes en laboratoire sur plusieurs produits solaires pour enfants revelant que les cremes solaires bio ne sont pas forcement gauges de qualite
+-------------------------------------------
+
+Line ID: 9023880831
+WER Score: 2.78
+Transcript: 60000000s de consommateurs appellent a ne pas se laisser avoir par un marketing trompeur l emballage de l une des cremes solaires analysees evoquait une formule enrichie en beurre de karite et en beurre de mangue
+Reference:  60000000s de consommateurs appellent a ne pas se laisser avoir par un marketing trompeur l emballage de l une des cremes solaires analysees evoquait une formule enrichie en beurre de carite et en beurre de mangue
+-------------------------------------------
+
+Line ID: 9023849350
+WER Score: 0.00
+Transcript: pour se premunir d un cocktail d ingredients indesirables et distinguer les vrais des faux cosmetiques naturels mieux vaut savoir comment s y retrouver dans le casse tete des etiquettes
+Reference:  pour se premunir d un cocktail d ingredients indesirables et distinguer les vrais des faux cosmetiques naturels mieux vaut savoir comment s y retrouver dans le casse tete des etiquettes
+-------------------------------------------
+
+Line ID: 9023848980
+WER Score: 4.26
+Transcript: les yeux doivent d abord se poser en haut de la liste des ingredients cites car la composition se lit par ordre decroissant d importance en clair les cinq ou 6 premiers ingredients determinent le plus souvent de 80% a 90% de la formule du produit
+Reference:  les yeux doivent d abord se poser en haut de la liste des ingredients cites car la composition se lit par ordre des croissants d importance en clair les cinq ou 6 premiers ingredients determinent le plus souvent de 80% a 90% de la formule du produit
+-------------------------------------------
+
+Line ID: 4894985241
+WER Score: 2.70
+Transcript: modere severe morbide un seul outil pour les differencier l indice de masse corporelle decouvrons les dessous de la surcharge pour prendre en charge efficacement les malades il est essentiel de distinguer les differentes formes d obesite
+Reference:  modere severe morbide un seul outil pour les differencier l indice de masse corporel decouvrons les dessous de la surcharge pour prendre en charge efficacement les malades il est essentiel de distinguer les differentes formes d obesite
+-------------------------------------------
+
+Line ID: 4894988870
+WER Score: 6.98
+Transcript: l obesite moderee on ne parle pas d obesite en jugeant les gens d un seul coup d oeil ou en les pesant pour affirmer que le poids est problematique les scientifiques ont defini un outil precis l indice de masse corporelle imc
+Reference:  l obesite moderee on ne parle pas d obesite en jugeant les gens d un seul coup d oeil ou en l epuisant pour affirmer que le poids est problematique les scientifiques ont defini un outil precis l indice de masse corporel imc
+-------------------------------------------
+
+Line ID: 4894955012
+WER Score: 2.70
+Transcript: celui ci est base sur un calcul simple le poids en kilos divise par la taille en meters eleves au carre si le resultat se situe entre 20 et 25 on considere que le poids est normal
+Reference:  celui ci est base sur une calcul simple le poids en kilos divise par la taille en meters eleves au carre si le resultat se situe entre 20 et 25 on considere que le poids est normal
+-------------------------------------------
+
+Line ID: 4894960189
+WER Score: 0.00
+Transcript: entre 25 et 30 c est le surpoids les kilos en trop commencent a devenir une menace pour la sante on parle d obesite proprement dite lorsque l imc se situe entre 30 et 35
+Reference:  entre 25 et 30 c est le surpoids les kilos en trop commencent a devenir une menace pour la sante on parle d obesite proprement dite lorsque l imc se situe entre 30 et 35
+-------------------------------------------
+
+Line ID: 4894946025
+WER Score: 0.00
+Transcript: dans ce cas les risques de maladies comme l hypertension le diabete le cancer deviennent tres importants l obesite severe lorsque l imc franchit la barre des 35 mais reste sous celle des 40 on parle d obesite severe
+Reference:  dans ce cas les risques de maladies comme l hypertension le diabete le cancer deviennent tres importants l obesite severe lorsque l imc franchit la barre des 35 mais reste sous celle des 40 on parle d obesite severe
+-------------------------------------------
+
+Line ID: 4894930321
+WER Score: 0.00
+Transcript: dans ce cas les risques de developper des maladies du fait de son surpoids sont fortement augmentes il est imperatif de perdre plusieurs kilos d ailleurs ce n est que pour un imc au dela de 35 que la chirurgie peut etre preconisee pour traiter l obesite
+Reference:  dans ce cas les risques de developper des maladies du fait de son surpoids sont fortement augmentes il est imperatif de perdre plusieurs kilos d ailleurs ce n est que pour un imc au dela de 35 que la chirurgie peut etre preconisee pour traiter l obesite
+-------------------------------------------
+
+Line ID: 4894991840
+WER Score: 0.00
+Transcript: l obesite morbide ou massive lorsque l indice de masse corporelle depasse 40 il s agit d une obesite morbide certains specialistes distinguent meme un stade superieur l obesite massive avec un imc au dela de 50
+Reference:  l obesite morbide ou massive lorsque l indice de masse corporelle depasse 40 il s agit d une obesite morbide certains specialistes distinguent meme un stade superieur l obesite massive avec un imc au dela de 50
+-------------------------------------------
+
+Line ID: 4894940300
+WER Score: 7.89
+Transcript: il faut noter que ce probleme est de plus en plus inquietant en france en 5 ans le nombre d obeses avec un imc superieur a 40 a double 06% de la population est aujourd hui concernee
+Reference:  il faut noter que ce probleme est de plus en plus inquietant en france en 5 ans le nombre d obeses avec un imc superieur a 40 a double 0 6% de la population est aujourd hui concerne
+-------------------------------------------
+
+Line ID: 4894987965
+WER Score: 0.00
+Transcript: amis auditeurs nous voila donc au terme de cette emission nous vous remercions pour votre ecoute et nous vous donnons rendez vous pour un prochain numero que dieu nous benisse
+Reference:  amis auditeurs nous voila donc au terme de cette emission nous vous remercions pour votre ecoute et nous vous donnons rendez vous pour un prochain numero que dieu nous benisse
+-------------------------------------------
+
+Line ID: 4894990862
+WER Score: 3.75
+Transcript: et dieu qui est fidele dieu qui n est failli jamais dans l accomplissement de ses promesses nous accordera ce que nous lui demandons mais ici dieu veut mettre l accent sur la sagesse sur le saint esprit pour dire que nous qui sommes parents nous savons donner les meilleures choses a nos enfants pourquoi dieu qui est notre pere celeste ne nous donnera t il pas ce que nous lui demandons pour pouvoir etre de veritables serviteurs du dieu vivant
+Reference:  et dieu qui est fidele dieu qui ne faillit jamais dans l accomplissement de ses promesses nous accordera ce que nous lui demandons mais ici dieu veut mettre l accent sur la sagesse sur le saint esprit pour dire que nous qui sommes parents nous savons donner les meilleures choses a nos enfants pourquoi dieu qui est notre pere celeste ne nous donnera t il pas ce que nous lui demandons pour pouvoir etre de veritables serviteurs du dieu vivant
+-------------------------------------------
+
+Line ID: 4894949364
+WER Score: 3.77
+Transcript: nous avons chers amis le privilege et le devoir de recevoir la lumiere d en haut pour arriver a discerner les ruses de satan parce que sans la sagesse de dieu sans son esprit nous ne serions pas marches ici bas parce que l ennemi rode comme un lion rugissant cherchant qui devourerait
+Reference:  nous avons chers amis le privilege et le devoir de recevoir la lumiere d en haut pour arriver a dessiner les ruses de satan parce que sans la sagesse de dieu sans son esprit nous ne serions pas marches ici bas parce que l ennemi rode comme un lion rugissant cherchant qui devorait
+-------------------------------------------
+
+Line ID: 4894961279
+WER Score: 1.39
+Transcript: une telle foi chers amis assurera a nos ames la benediction du ciel l eclat de la gloire de dieu qui resplendit sur la face du christ peut illuminer nos visages et se refleter sur notre entourage au point qu on pourra vraiment dire de nous vous etes la lumiere du monde c est cette union de notre coeur avec le christ et cette union seule qui communiquera la lumiere au monde
+Reference:  une telle fois chers amis assurera a nos ames la benediction du ciel l eclat de la gloire de dieu qui resplendit sur la face du christ peut illuminer nos visages et se refleter sur notre entourage au point qu on pourra vraiment dire de nous vous etes la lumiere du monde c est cette union de notre coeur avec le christ et cette union seule qui communiquera la lumiere au monde
+-------------------------------------------
+
+Line ID: 4894921198
+WER Score: 1.59
+Transcript: si cette lumiere n existait pas la terre serait plongee dans les tenebres les plus epaisses plus les tenebres qui nous enveloppent sont epaisses plus eclatante doit resplendir la lumiere de la foi et de l exemple chretien le fait que l incredulite domine et que l iniquite s accroit autour de nous ne doit ni diminuer notre foi ni affaiblir notre courage
+Reference:  si cette lumiere n existait pas la terre serait plongee dans les tenebres les plus epaisses plus les tenebres qui nous enveloppent sont epaisses plus eclatantes doit resplendir la lumiere de la foi et de l exemple chretien le fait que l incredulite domine et que l iniquite s accroit autour de nous ne doit ni diminuer notre foi ni affaiblir notre courage
+-------------------------------------------
+
+Line ID: 4894991587
+WER Score: 3.12
+Transcript: il marcha avec dieu par la foi 0 nous voudrons vous permettre d accepter cette invitation de dieu 0 je voudrais vous penetrer de l importance de la foi manifester heure apres heure minute apres minute il nous faut vivre une vie de foi car sans la foi il est impossible de plaire a dieu notre puissance spirituelle depend en effet de notre foi
+Reference:  il marchait avec dieu par la foi 0 nous voudrons vous permettre d accepter cette invitation de dieu 0 je voudrais vous penetrer de l importance de la foi manifestez heure apres heure minute apres minute il nous faut vivre une vie de foi car sans la foi il est impossible de plaire a dieu notre puissance spirituelle depend en effet de notre foi
+-------------------------------------------
+
+Line ID: 4894969367
+WER Score: 1.43
+Transcript: c est pourquoi l eternel vous invite a demander la protection a demander la presence de son esprit saint en vous pour que vous soyez regeneres et restaures faites le et vous ne serez plus les memes personnes et vous verrez comment dieu vous conduira de victoire en victoire ainsi pour en faire notre rencontre de ce jour nous avons eu ce reel plaisir de passer ce moment avec vous
+Reference:  c est pourquoi l eternel vous invite a demander la protection a demander la presence de son esprit saint en vous pour que vous soyez regeneres et restaures faites le et vous ne serez plus les memes personnes et vous verrez comment dieu vous conduira de victoire en victoire ainsi pour en faire notre rencontre de ce jour nous avons eu ce reel plaisir a passer ce moment avec vous
+-------------------------------------------
+
+Line ID: 4894941043
+WER Score: 4.08
+Transcript: amis auditeurs de notre radio soyez les bienvenus a notre rencontre de ce jour c est un reel plaisir pour nous de vous retrouver a notre emission sur la bible nous partagerons avec vous comme sujet dans ton coeur base sur le livre de proverbes chapitre 23 verset 26
+Reference:  amis auditeurs de notre radio soyez les bienvenus a notre rencontre de ce jour c est un reel plaisir pour nous de vous retrouver a notre emission sur la bible nous partagerons avec vous comme sujet donne ton coeur base sur le livre de proverbe chapitre 23 verset 26
+-------------------------------------------
+
+Line ID: 4894966921
+WER Score: 2.70
+Transcript: mon fils donne moi ton coeur et que tes yeux se plaisent dans mes voix l eternel dit a chacun de nous mon fils donne moi ton coeur pourquoi est ce que dieu insiste sur ce fait
+Reference:  mon fils donne moi ton coeur et que tes yeux se plaisent dans mes voies l eternel dit a chacun de nous mon fils donne moi ton coeur pourquoi est ce que dieu insiste sur ce fait
+-------------------------------------------
+
+Line ID: 4894986103
+WER Score: 0.00
+Transcript: le coeur est le champ de bataille entre le bien et le mal dieu veut prendre le controle de notre coeur pour que nous soyons des enfants obeissants des enfants soumis qui font la volonte du pere celeste l ennemi aussi a son tour veut prendre le controle pour que nous soyons a sa merci
+Reference:  le coeur est le champ de bataille entre le bien et le mal dieu veut prendre le controle de notre coeur pour que nous soyons des enfants obeissants des enfants soumis qui font la volonte du pere celeste l ennemi aussi a son tour veut prendre le controle pour que nous soyons a sa merci
+-------------------------------------------
+
+Line ID: 4894921835
+WER Score: 5.71
+Transcript: tout ce que nous commettons comme crime commence par le coeur donc l eternel dieu comprend notre cas et il sait comment nous guerir de nos erreurs quelles qu elles soient nous devons l inviter
+Reference:  tout ce que nous commettons comme crains commence par le coeur donc l eternel dieu comprend notre cas et il sait comment nous guerir de nos erreurs quelle qu elles soient nous devons l inviter
+-------------------------------------------
+
+Line ID: 4894995120
+WER Score: 8.33
+Transcript: c est pourquoi le livre d apocalypse 3 verset 20 dit voici je me tiens a la porte et je frappe celui qui entend ma voix et qu il ouvre j entrerai chez lui je m assierai avec lui je soupirerai avec lui et lui avec moi la porte que dieu cherche a frapper est la porte de notre coeur
+Reference:  c est pourquoi le livre de apocalypse 3 vers ce 20 voici je me tiens a la porte et je frappe celui qui entend ma voix et qu il ouvre j entrerai chez lui je m assierai avec lui je soupirai avec lui et lui avec moi la porte que dieu cherche a frapper est la porte de notre coeur
+-------------------------------------------
+
+Line ID: 4894951898
+WER Score: 0.00
+Transcript: et dieu veut y entrer pour etre le seul maitre pour que nos pensees nos actions soient dirigees veritablement par lui ne voulez vous pas vous confier a lui la benediction de l eternel reposera sur tous ceux qui se consacreront entierement a lui
+Reference:  et dieu veut y entrer pour etre le seul maitre pour que nos pensees nos actions soient dirigees veritablement par lui ne voulez vous pas vous confier a lui la benediction de l eternel reposera sur tous ceux qui se consacreront entierement a lui
+-------------------------------------------
+
+Line ID: 4894953409
+WER Score: 0.00
+Transcript: chers amis si nous cherchons le seigneur de tout notre coeur nous le trouverons dieu se soucie de notre ame et il desire ardemment que nous agissions d une maniere parfaite en vue de l eternite parce que ce qui compte pour dieu c est ce qui est a venir
+Reference:  chers amis si nous cherchons le seigneur de tout notre coeur nous le trouverons dieu se soucie de notre ame et il desire ardemment que nous agissions d une maniere parfaite en vue de l eternite parce que ce qui compte pour dieu c est ce qui est a venir
+-------------------------------------------
+
+Line ID: 4894969489
+WER Score: 0.00
+Transcript: tout ce que nous faisons ici bas est ephemere et dieu veut que nous nous preparions pour sa gloire a venir la seule chose chers amis que nous irons au ciel avec est notre caractere
+Reference:  tout ce que nous faisons ici bas est ephemere et dieu veut que nous nous preparions pour sa gloire a venir la seule chose chers amis que nous irons au ciel avec est notre caractere
+-------------------------------------------
+
+Line ID: 4894944822
+WER Score: 0.00
+Transcript: il a deverse tous les tresors sur la terre en donnant son fils unique et nous n avons nulle raison de douter de son amour parce que le ciel a donne ce qu il avait de plus precieux
+Reference:  il a deverse tous les tresors sur la terre en donnant son fils unique et nous n avons nulle raison de douter de son amour parce que le ciel a donne ce qu il avait de plus precieux
+-------------------------------------------
+
+Line ID: 4894995294
+WER Score: 21.57
+Transcript: le fils unique de dieu et comme le dit jean 3 verset 16 car dieu a tant aime le monde qu il a donne son fils unique afin que quiconque en lui ne perisse point mais qu il ait la vie eternelle
+Reference:  le fils unique de dieu et comme le dit jean 3 verse 16 car dieu a tant aime le monde qu il a donne son fils unique afin que qui concroit en lui ne perisse point mais qu il ait la vie eternelle cette invitation est lancee a tout un chacun
+-------------------------------------------
+
+Line ID: 4894924688
+WER Score: 3.23
+Transcript: il n y a pas d exception il n y a pas un groupe de personnes que dieu veut sauver et abandonner une autre classe dieu veut sauver toute l humanite
+Reference:  il n y a pas d inception il n y a pas un groupe de personnes que dieu veut sauver et abandonner une autre classe dieu veut sauver toute l humanite
+-------------------------------------------
+
+Line ID: 4894989878
+WER Score: 4.55
+Transcript: regardez au calvaire chers amis dieu demande que vous lui donniez votre coeur livrez lui vos facultes vos talents vos affections afin qu il produise le vouloir et le fait selon son bon plaisir et qu il vous rende aptes a la vie eternelle
+Reference:  regardez au calvaire chers amis dieu demande que vous lui donniez votre coeur livrer lui vos facultes vos talents vos affections afin qu il produise le vouloir et le fait selon son bon plaisir et qu il vous rende apte a la vie eternelle
+-------------------------------------------
+
+Line ID: 4894913462
+WER Score: 0.00
+Transcript: chers amis quand jesus christ demeure dans un coeur celui ci est tellement rempli de l amour de la joie de la communion du seigneur qu il s attache a lui de toutes ses forces
+Reference:  chers amis quand jesus christ demeure dans un coeur celui ci est tellement rempli de l amour de la joie de la communion du seigneur qu il s attache a lui de toutes ses forces
+-------------------------------------------
+
+Line ID: 4894988137
+WER Score: 2.78
+Transcript: comme il a dit dans le livre de jean je suis le cercle vous etes le sarment quand dieu reclame notre coeur dieu sait que si nous venons a lui tel que nous sommes et que nous le laissons agir sur notre coeur nous ne serons plus des enfants desobeissants nous ne serons plus des enfants rebelles des enfants egares mais nous ferons la joie et le plaisir de notre pere celeste
+Reference:  comme il a dit dans le livre de jean je suis le serf vous etes le serment quand dieu reclame notre coeur dieu sait que si nous venons a lui tel que nous sommes et que nous le laissons agir sur notre coeur nous ne serons plus des enfants desobeissants nous ne serons plus des enfants rebelles des enfants egares mais nous ferons la joie et le plaisir de notre pere celeste
+-------------------------------------------
+
+Line ID: 4894929927
+WER Score: 4.55
+Transcript: dans la contemplation du sauveur le moi est oublie son amour devient le grand mobile de toutes nos actions ceux qui ont compris l amour de dieu ne se demandent pas quel est le service minimum qu ils peuvent lui rendre sans etre rejetes
+Reference:  dans la contemplation du sauveur le moi est oublie son amour devient le grand mobile de toutes nos actions ceux qui ont compris l amour de dieu ne se demande pas quel est le service minimum qu ils peuvent lui rendre sans etre rejete
+-------------------------------------------
+
+Line ID: 4894981921
+WER Score: 14.29
+Transcript: ils n evisent pas au plus bas degre de la vie chretienne mais ils s efforcent de se conformer parfaitement a la volonte de leur redempteur donne ton coeur elle appelle que dieu nous lance
+Reference:  il ne vise pas au plus bas degre de la vie chretienne mais il s efforce de se conformer parfaitement a la volonte de leur redempteur donne ton coeur elle appelle que dieu nous lance
+-------------------------------------------
+
+Line ID: 4894919454
+WER Score: 0.00
+Transcript: parce que dieu aimerait que nous soyons des enfants de son royaume dieu veut que nous lui appartenions entierement dieu ne veut pas des citoyens celestes qui ont une vie attachee aux choses du monde
+Reference:  parce que dieu aimerait que nous soyons des enfants de son royaume dieu veut que nous lui appartenions entierement dieu ne veut pas des citoyens celestes qui ont une vie attachee aux choses du monde
+-------------------------------------------
+
+Line ID: 4894940481
+WER Score: 2.27
+Transcript: quand nous donnons notre coeur a dieu nous abandonnons tout et nous manifestons maintenant de l amour pour notre pere celeste chers amis dans la recherche des choses eternelles un interet et une adhere proportionnes a la valeur de notre recherche doit nous animer
+Reference:  quand nous donnons notre coeur a dieu nous abandonnons tout et nous manifestons maintenant de l amour pour notre pere celeste chez amis dans la recherche des choses eternelles un interet et une adhere proportionnes a la valeur de notre recherche doit nous animer
+-------------------------------------------
+
+Line ID: 4894976159
+WER Score: 4.35
+Transcript: quand nous regardons a ce que dieu nous reserve au ciel il est bon chers amis de repondre a son invitation quand je veux mal agir la mauvaise pensee prend racine au niveau du coeur c est pourquoi dieu veut que nous lui soumettions notre coeur pour qu il puisse prendre controle et qu il puisse extirper la germe du peche qui nous pousserait a etre des enfants desobeissants
+Reference:  quand nous regardons a ce que dieu nous reserve au ciel il est bon chez amis de repondre a son invitation quand je veux mal agir la mauvaise pensee prend racine au niveau du coeur c est pourquoi dieu veut que nous lui soumettions notre coeur pour qu il puisse prendre controle et qu il puisse extirper l argene du peche qui nous pousserait a etre des enfants desobeissants
+-------------------------------------------
+
+Line ID: 9023877453
+WER Score: 2.94
+Transcript: une etude de 60000000s de consommateurs prouve que les fabricants n hesitent pas a mettre en avant des arguments seduisants mais que la realite est tout autre apres avoir analyze la composition de 170 produits l association montre trois cas flagrants pour illustrer une entourloupe banale qui consiste a mettre en avant sur l emballage un vegetal attirant mais a n en incorporer qu une infime partie dans le produit
+Reference:  une etude de 60000000s de consommateurs prouve que les fabricants n hesitent pas a mettre en avant des arguments seduisants mais que la realite est tout autre apres avoir analyze la composition de 170 produits l association montre trois cas flagrants pour illustrer une entourloupe banale qui consiste a mettre en avant sur l emballage un vegetal attirant mais en incorporer qu une infime partie dans le produit
+-------------------------------------------
+
+Line ID: 9023861165
+WER Score: 1.41
+Transcript: celle ci donne l exemple d un gel douche qui affiche une teneur en huile de tamanu et de gingembre alors qu en realite les veritables extraits naturels se trouvent relegues en fin de composition loin derriere la quantite d agents irritants et substances de synthese il en va de meme avec les cremes solaires dont la fiabilite est souvent remise en cause par des etudes apprendre a dechiffrer les etiquettes
+Reference:  celle ci donne l exemple d un gel douche qui affiche une teneur en huile de tamanou et de gingembre alors qu en realite les veritables extraits naturels se trouvent relegues en fin de composition loin derriere la quantite d agents irritants et substances de synthese il en va de meme avec les cremes solaires dont la fiabilite est souvent remise en cause par des etudes apprendre a dechiffrer les etiquettes
+-------------------------------------------
+
+Line ID: 9023834687
+WER Score: 3.08
+Transcript: des ingredients qui n arrivent qu en 21 e et 22 e place dans la composition loin derriere un nombre impressionnant d ingredients indesirables enfin les vertus du sucre roux ou des pepins de framboise souvent evoques par des gammes de produits exfoliants ou gommants seraient en realite beaucoup moins evidentes qu il n y parait puisque ces produits contiendraient surtout des microbilles de plastique
+Reference:  des ingredients qui n arrivent qu en 21 e et 22 e places dans la composition loin derriere un nombre impressionnant d ingredients indesirables enfin les vertus du sucre roux ou des pepins de framboises souvent evoques par des gammes de produits exfoliants ou gommants seraient en realite beaucoup moins evidentes qu il n y parait puisque ces produits contiendraient surtout des microbilles de plastique
+-------------------------------------------
+
+Line ID: 9023890748
+WER Score: 1.64
+Transcript: les ingredients naturels c est a dire issus de vegetaux peu transformes sont facilement reperables car ecrits en latin et en anglais le terme anglais qui suit le nom latin de la plante permet de connaitre le type de substance oil pour les huiles butter pour les beurres vegetaux precisent 60000000s de consommateurs qui mettent en garde contre une petite tromperie
+Reference:  les ingredients naturels c est a dire issus de vegetaux peu transformes sont facilement reperables car ecrits en latin et en anglais le terme anglais qui suit le nom latin de la plante permet de connaitre le type de substance oil pour les huiles butter pour les beurres vegetaux precise 60000000s de consommateurs qui mettent en garde contre une petite tromperie
+-------------------------------------------
+
+Line ID: 9023844599
+WER Score: 0.00
+Transcript: si le nom des substances vegetales apparait en anglais cela signifie que celle ci a subi une transformation notable meme si elle est d origine naturelle voila donc mesdames et messieurs nous vous invitons a faire attention a tout ce que vous achetez dans les grandes surfaces prenez bien soin de lire les etiquettes afin de savoir faire le bon choix merci de nous avoir suivis gardez l ecoute sur les ondes de notre radio et a tres bientot
+Reference:  si le nom des substances vegetales apparait en anglais cela signifie que celle ci a subi une transformation notable meme si elle est d origine naturelle voila donc mesdames et messieurs nous vous invitons a faire attention a tout ce que vous achetez dans les grandes surfaces prenez bien soin de lire les etiquettes afin de savoir faire le bon choix merci de nous avoir suivis gardez l ecoute sur les ondes de notre radio et a tres bientot
+-------------------------------------------
+
+Line ID: 7990354270
+WER Score: 9.80
+Transcript: bon le serpent bois lui repond amor je te comprends mais comprends moi aussi j ai faim moi a quoi cela t aura servi de me sauver la vie si c est pour me laisser mourir de faim laisse toi avaler pourquoi meme la nourriture est en train de discuter avec moi
+Reference:  mvomo le serpent boa lui repond je te comprends mais comprends moi aussi j ai faim moi a quoi cela t aura servi de me sauver la vie si c est pour me laisser mourir de faim laisse toi avaler pourquoi la nourriture est elle en train de discuter avec moi
+-------------------------------------------
+
+Line ID: 7990351676
+WER Score: 12.33
+Transcript: morbina malette humain lui dit voila je viens de sauver mboma le serpent moi d une mort certaine mais des qu il est sorti du piege il commence a me dire ouais ca fait trois jours qu il n a pas mange et que moi je devrais lui servir de dejeuner je ne suis pas d accord du tout s il te plait assaut l antilope tranche nous ce contentieux
+Reference:  mot binama l etre humain lui dit voila je viens de sauver mvomo le serpent boa d une mort certaine mais des qu il est sorti du piege il commence a me dire . wouahhh ca fait trois jours qu il n a pas mange et que moi je devrais lui servir de dejeuner je ne suis pas d accord du tout s il te plait so l antilope tranche nous ce contentieux
+-------------------------------------------
+
+Line ID: 7990368116
+WER Score: 5.48
+Transcript: voila je viens de sauver le serpent bois d une mort certaine des qu il est sorti du piege il commence a me dire que ca fait trois jours qu il n a pas mange et que moi je devrais lui servir de dejeuner je ne suis pas d accord du tout et aucun animal dans cette foret ne veut nous trancher ce contentieux s il te plait fais quelque chose
+Reference:  voila je viens de sauver mvomo le serpent boa d une mort certaine des qu il est sorti du piege il commence a me dire . wouahhh ca fait trois jours qu il n a pas mange et que moi je devrais lui servir de dejeuner je ne suis pas d accord du tout et aucun animal dans cette foret ne veut nous trancher ce contentieux s il te plait fais quelque chose
+-------------------------------------------
+
+Line ID: 7990312894
+WER Score: 40.00
+Transcript: c est juste en ce moment la qu arrive kulu la tortue mourbina m a vu kulu la tortue et l appelle aie aie kulu la tortue s il te plait viens nous trancher ce contentieux
+Reference:  c est juste a ce moment qu arrive kounou la tortue mot binama l etre humain voit la tortue et l appelle ah kounou la tortue viens s il te plait nous trancher ce contentieux
+-------------------------------------------
+
+Line ID: 7990322214
+WER Score: 44.83
+Transcript: la dessus arrive solantilope morbina malette humain voit solantilope et elle appelle a solantilope s il te plait viens nous trancher ce contentieux
+Reference:  la dessus arrive so l antilope mot binama l etre humain voit l antilope et l appelle so l antilope s il te plait viens nous trancher ce contentieux
+-------------------------------------------
+
+Line ID: 7990356685
+WER Score: 60.00
+Transcript: bon viens dans ma lettre tu m as lui dit non non non non c est hors de question
+Reference:  mot binama l etre humain lui dit non non non c est hors de question
+-------------------------------------------
+
+Line ID: 7990334572
+WER Score: 0.00
+Transcript: je pense que cette situation merite reflexion je vais me concerter avec moi meme et je reviens vous trancher ce contentieux ne bougez surtout pas
+Reference:  je pense que cette situation merite reflexion je vais me concerter avec moi meme et je reviens vous trancher ce contentieux ne bougez surtout pas
+-------------------------------------------
+
+Line ID: 7990355469
+WER Score: 12.90
+Transcript: morbinamalette humain de son cote se dit ah je ne vais quand meme pas finir mon existence dans le ventre d un maudit serpent que j ai sauve
+Reference:  mot binama l etre humain de son cote se dit ah je ne vais quand meme pas finir mon existence dans le ventre d un maudit serpent que j ai sauve
+-------------------------------------------
+
+Line ID: 7990359717
+WER Score: 36.36
+Transcript: alors morbina malette humain souleve le tronc vraiment le serpent bois se glisse sous le tronc et la la tortue dit a morbina malette humain he lache le tronc
+Reference:  alors mot binama l etre humain souleve le tronc mvomo le serpent boa se glisse sous le tronc et la kounou la tortue dit a mot binama l etre humain lache le tronc
+-------------------------------------------
+
+Line ID: 7990399666
+WER Score: 5.26
+Transcript: ce jour la motbinama l etre humain va rendre visite a ses parents de l autre cote de la grande foret arrive au coeur de la foret il entend soudain des gemissements qui viennent de quelque part
+Reference:  ce jour la mot binama l etre humain va rendre visite a ses parents de l autre cote de la grande foret arrive au coeur de la foret il entend soudain des gemissements qui viennent de quelque part
+-------------------------------------------
+
+Line ID: 7990323717
+WER Score: 6.12
+Transcript: intrigue il se dirige vers la source des lamentations et la il trouve mvoma le serpent boa pris dans un piege que les betis de la foret equatoriale du cameroun appellent ekoudi le tronc est sur le serpent boa la tete d un cote la queue de l autre
+Reference:  intrigue il se dirige vers la source des lamentations et la il trouve mvomo le serpent boa pris dans un piege que les petits de la foret equatoriale du cameroun appellent egoudi le tronc est sur le serpent boa la tete d un cote la queue de l autre
+-------------------------------------------
+
+Line ID: 7990362171
+WER Score: 36.36
+Transcript: mourouina malette humain prend pitie il souleve le tronc et libere mboma le serpent bois une fois hors du piege mboma le serpent bois dit a mourouina malette humain
+Reference:  mot binama l etre humain prend pitie il souleve le tronc et libere mvomo le serpent boa une fois hors du piege mvomo le serpent boa dit a mot binama l etre humain
+-------------------------------------------
+
+Line ID: 5885285737
+WER Score: 4.11
+Transcript: je ne te temoignerai jamais assez ma gratitude tu viens de me sauver la vie comme tu as commence a me sauver la vie sauve moi la vie jusqu au bout ca fait trois jours que je suis coince sous ce tronc je n ai rien mange et je n ai plus assez de force pour aller chercher un autre gibier le seul gibier a m apporter c est toi laisse toi valer
+Reference:  je ne te temoignerai jamais assez ma gratitude tu viens de me sauver la vie comme tu as commence a me sauver la vie sauve moi la vie jusqu au bout ca fait trois jours que je suis coince sous ce tronc je n ai rien mange et je n ai plus assez de force pour aller chercher un autre gibier le seul gibier a ma portee c est toi laisse toi avaler
+-------------------------------------------
+
+Line ID: 7990349192
+WER Score: 59.09
+Transcript: ce lentilope regarde morbina malatrima un predateur ce lentilope regarde mvoma le serpent bois un autre predateur
+Reference:  so l antilope regarde mot binama l etre humain un predateur so l antilope regarde mvomo le serpent boa un autre predateur
+-------------------------------------------
+
+Line ID: 7990335094
+WER Score: 13.51
+Transcript: pour ne pas vous fatiguer plus longtemps les oreilles tous les animaux de la foret a tour de role ont ete sollicites par les deux belligerants mais aucun d entre eux n a voulu trancher ce contentieux entre deux predateurs
+Reference:  pour ne pas vous fatiguer plus longtemps les oreilles tous les animaux a tour de role ont ete sollicites par les belligerants mais aucun d entre eux n a voulu trancher ce contentieux entre ces deux predateurs
+-------------------------------------------
+
+Line ID: 7581612294
+WER Score: 0.00
+Transcript: nous avons certainement lu plusieurs livres prestigieux traitant de problemes divers mais avons nous aussi lu la bible ce livre si vieux et pourtant si actuel
+Reference:  nous avons certainement lu plusieurs livres prestigieux traitant de problemes divers mais avons nous aussi lu la bible ce livre si vieux et pourtant si actuel
+-------------------------------------------
+
+Line ID: 7581615576
+WER Score: 0.00
+Transcript: ce livre si mysterieux pour certains mais qui importe des solutions a nos problemes et nous revele l avenir
+Reference:  ce livre si mysterieux pour certains mais qui importe des solutions a nos problemes et nous revele l avenir
+-------------------------------------------
+
+Line ID: 1045963293
+WER Score: 0.00
+Transcript: bien aimes et fideles auditeurs de notre magazine sur la bible soyez les bienvenus a notre rendez vous de ce jour nous partagerons avec vous comme theme la fidelite dans les petites choses c est bien bon serviteur parce que tu as ete fidele en peu de choses
+Reference:  bien aimes et fideles auditeurs de notre magazine sur la bible soyez les bienvenus a notre rendez vous de ce jour nous partagerons avec vous comme theme la fidelite dans les petites choses c est bien bon serviteur parce que tu as ete fidele en peu de choses
+-------------------------------------------
+
+Line ID: 1045997129
+WER Score: 5.00
+Transcript: recoit le gouvernement de dix villes luc 19 verset 17 si notre temperament actif embrasse une trop grande quantite de travail et que nous n ayons ni la force ni la grace du christ pour nous permettre de le mener a bien avec intelligence ordre et exactitude tout ce que nous entreprenons revele des imperfections et le travail est constamment gache
+Reference:  recoit le gouvernement de diville luc 19 verset 17 si notre temperament actif embrasse une trop grande quantite de travail et que nous n ayons ni la force ni la grace du christ pour nous permettre de le mener a bien avec intelligence ordre et exaltitude tout ce que nous entreprenons revele des imperfections et le travail est constamment gache
+-------------------------------------------
+
+Line ID: 1045948136
+WER Score: 0.00
+Transcript: dieu n est pas glorifie aussi excellent que puisse etre notre mobile dieu aimerait que nous prenions garde a ses paroles un travail accompli attentivement sous le regard de dieu a de la valeur meme s il passe inapercu aux yeux des hommes et il est malgre tout indispensable dans la sphere ou nous sommes appeles a le faire
+Reference:  dieu n est pas glorifie aussi excellent que puisse etre notre mobile dieu aimerait que nous prenions garde a ses paroles un travail accompli attentivement sous le regard de dieu a de la valeur meme s il passe inapercu aux yeux des hommes et il est malgre tout indispensable dans la sphere ou nous sommes appeles a le faire
+-------------------------------------------
+
+Line ID: 1045914077
+WER Score: 2.17
+Transcript: pour certaines personnes lorsque la responsabilite qu on leur assigne n est pas une trop grande responsabilite on l accomplit avec dedain avec negligence mais ici le seigneur veut attirer notre attention avant d obtenir de grandes benedictions dieu teste notre fidelite dans la petite chose
+Reference:  pour certaines personnes lorsque la responsabilite qu on leur assigne n est pas une trop grande responsabilite on l accomplit avec dedain avec negligence mais ici le seigneur veut rattirer notre attention avant d obtenir de grandes benedictions dieu teste notre fidelite dans la petite chose
+-------------------------------------------
+
+Line ID: 1045987909
+WER Score: 0.00
+Transcript: joseph lorsqu il etait un adolescent un jeune avait recu la vision qu il serait un grand homme qu il serait honore dans sa famille mais ou joseph a t il commence il a ete d abord esclave
+Reference:  joseph lorsqu il etait un adolescent un jeune avait recu la vision qu il serait un grand homme qu il serait honore dans sa famille mais ou joseph a t il commence il a ete d abord esclave
+-------------------------------------------
+
+Line ID: 1045916067
+WER Score: 0.00
+Transcript: il a ete au service de potiphar mais dans toutes ses responsabilites joseph avait toujours ete trouve juste irreprochable honnete de chez potiphar il sera en prison
+Reference:  il a ete au service de potiphar mais dans toutes ses responsabilites joseph avait toujours ete trouve juste irreprochable honnete de chez potiphar il sera en prison
+-------------------------------------------
+
+Line ID: 1045931418
+WER Score: 0.00
+Transcript: meme injustement accuse en prison joseph fera toujours preuve de fidelite et de justice c est de la que joseph va arriver au palais du pharaon comme premier ministre de l egypte si joseph par ou il etait passe n avait pas ete fidele dans ce qu il accomplissait dieu ne se serait pas souvenu de lui
+Reference:  meme injustement accuse en prison joseph fera toujours preuve de fidelite et de justice c est de la que joseph va arriver au palais du pharaon comme premier ministre de l egypte si joseph par ou il etait passe n avait pas ete fidele dans ce qu il accomplissait dieu ne se serait pas souvenu de lui
+-------------------------------------------
+
+Line ID: 1045946712
+WER Score: 4.26
+Transcript: et c est pourquoi nous aussi nous devons apprendre a suivre son exemple et l exemple de bien d autres dans la bible dieu desire des ouvriers intelligents qui ne fassent pas leur travail dans la precipitation mais avec soin et minutieusement en observant toujours l humilite de jesus
+Reference:  c est pourquoi nous aussi devons apprendre a suivre son exemple et l exemple de bien d autres dans la bible dieu desire des ouvriers intelligents qui ne fassent pas leur travail dans la precipitation mais avec soin et minutieusement en observant toujours l humilite de jesus
+-------------------------------------------
+
+Line ID: 1045992998
+WER Score: 6.56
+Transcript: ceux qui mettent de la reflexion et de l application dans les taches importantes devraient egalement apporter du soin et de la reflexion dans les petites choses en faisant preuve des actitudes et en manifestant de l assiduite 0 combien de travaux sont executes negligemment combien de choses sont laissees inachevees parce qu on desire constamment en entreprendre de plus grandes
+Reference:  ceux qui mettent de la reflexion et de l application dans les taches importantes devraient egalement apporter du soin et de la reflexion dans les petites choses en faisant preuve d exactitude et en manifestant de l assiduite au combien de travaux sont executes negligeamment combien de choses sont laissees inachevees parce qu on desire constamment en entreprendre de plus grandes
+-------------------------------------------
+
+Line ID: 1045949198
+WER Score: 0.00
+Transcript: le travail relatif au service de dieu est parfois pris a la legere parce que nous entreprenons tant de choses a la fois que rien n est fait convenablement tout notre travail doit pouvoir supporter l examen rigoureux du juge de toute la terre
+Reference:  le travail relatif au service de dieu est parfois pris a la legere parce que nous entreprenons tant de choses a la fois que rien n est fait convenablement tout notre travail doit pouvoir supporter l examen rigoureux du juge de toute la terre
+-------------------------------------------
+
+Line ID: 1045973476
+WER Score: 2.17
+Transcript: oui bien aimes les petits devoirs en rapport avec le service du maitre prennent de l importance du fait qu il s agit de la cause du christ nous devons nous mefier de l egoisme et de l amour propre comme de nos pires ennemis
+Reference:  oui bien aimes les petits devoirs en rapport avec le service du maitre prennent de l importance du fait qu il s agit de la cause du christ nous ne devons nous mefier de l egoisme et de l amour propre comme de nos pires ennemis
+-------------------------------------------
+
+Line ID: 1045950290
+WER Score: 0.00
+Transcript: regarderons nous en arriere avec les moments d impatience que nous avons eus ici bas nous tiendrons nous sur les collines eternelles du paradis pour chercher a comprendre les evenements de notre vie passee et denombrer les epreuves inutiles qui se sont abattues sur nous parce que nous pensions que dieu comptait sur nous pour tout faire 0 seigneur aide nous a realiser notre petitesse devant ta grandeur
+Reference:  regarderons nous en arriere avec les moments d impatience que nous avons eus ici bas nous tiendrons nous sur les collines eternelles du paradis pour chercher a comprendre les evenements de notre vie passee et denombrer les epreuves inutiles qui se sont abattues sur nous parce que nous pensions que dieu comptait sur nous pour tout faire 0 seigneur aide nous a realiser notre petitesse devant ta grandeur
+-------------------------------------------
+
+Line ID: 1045950544
+WER Score: 3.85
+Transcript: a dieu ne plaise que nous abritions des idees exaltees de notre propre grandeur que nous portions notre moi au nid oui bien aimes il est important pour nous d etre fideles dans l accomplissement de nos taches retenez que la valeur ne se mesure pas a l ampleur de l experience
+Reference:  a dieu ne plaise que nous abritions des idees exaltees de notre propre grandeur que nous portions notre moi au nu oui bien aime il est important pour nous d etre fideles dans l accomplissement de nos taches retenez que la valeur ne se mesure pas a l ampleur de l experience
+-------------------------------------------
+
+Line ID: 1045962451
+WER Score: 2.38
+Transcript: les normes de dieu sont tellement differentes de celles des hommes si nous savions comment dieu nous evalue nous decouvririons de la valeur la ou nous supposions de l insignifiance et de l insignifiance la ou nous voyons de la grandeur
+Reference:  les normes de dieu sont tellement differentes de celles des hommes si nous savions comment dieu nous evalue nous ne decouvririons de la valeur la ou nous supposions de l insignifiance et de l insignifiance la ou nous voyons de la grandeur
+-------------------------------------------
+
+Line ID: 1045921933
+WER Score: 0.00
+Transcript: que l eternel nous donne l esprit de discernement a ne plus regarder les choses ou dans l accomplissement de nos taches selon les yeux humains mais selon ceux de notre dieu le createur
+Reference:  que l eternel nous donne l esprit de discernement a ne plus regarder les choses ou dans l accomplissement de nos taches selon les yeux humains mais selon ceux de notre dieu le createur
+-------------------------------------------
+
+Line ID: 2681571719
+WER Score: 4.76
+Transcript: alors la on est dans le bas du plateau ce qu il faut savoir deja sur abidjan c est que ce qui a suscite le deplacement de la capitale sur abidjan c est deja les epidemies de fievre jaune de grand bassam
+Reference:  alors la on est dans le bas du plateau ce qu il faut savoir deja sur abijan c est que ce qui a suscite le deplacement de la capitale sur bijan c est deja les epidemies de fievre jaune de grand bassam
+-------------------------------------------
+
+Line ID: 2681537346
+WER Score: 6.74
+Transcript: et donc le site d abidjan a ete choisi justement pour non seulement son decoupage lagunaire mais son plateau et ce qui est interessant de noter sur le plateau c est que le bas du plateau dans lequel on est est le debut en fait de la ville blanche donc la ville coloniale qui vient au plateau et qui s est installee au plateau de facon a pouvoir surplomber en fait toutes les attaques qui pourraient venir de la cote donc il y a ce bras lagunaire qui coupe la ville en deux
+Reference:  et donc le site d abijan a ete choisi justement pour non seulement son decoupage lagunaire mais son plateau et ce qui est interessant de noter sur le plateau c est que le bas du plateau dans lequel on est est le debut de la ville blanche donc la ville coloniale qui vivait au plateau et qui s est installee au plateau de facon a pouvoir surplomber toutes les attaques qui pourraient venir de la cote donc il y a ce bras lagunaire qui coupe la ville en deux
+-------------------------------------------
+
+Line ID: 2681565698
+WER Score: 9.68
+Transcript: en fait on a tres joli d un cote et plateau de l autre avec les deux ponts qu il a relies pendant tres tres longtemps en fait les deux parties de la ville ont ete reliees que par deux ponts d abord par un pont un premier pont qui etait un pont flottant a la place du pont au foueboigny
+Reference:  en fait on a treche ville d un cote et plateau de l autre avec les deux ponts qui l a relies pendant tres tres longtemps en fait les deux parties de la ville n ont ete reliees que par deux ponts d abord par un pont un premier pont qui etait un pont flottant a la place du pont au fleboigny
+-------------------------------------------
+
+Line ID: 2681511980
+WER Score: 15.25
+Transcript: c est un pont qui flotte sur la lagune qui permet aux voitures de passer mais qui permet egalement a une certaine heure de lever le pont ce qui fait que la ville noire trecheville etait coupee de la ville blanche et toute personne qui etait trouvee dans la ville blanche passait la nuit au poste
+Reference:  c est un pont qui flotte sans frais sur la lagune qui permet aux voitures de passer mais qui permet egalement a une certaine heure de lever le pont ce qui fait que la ville noire treche ville etait coupee de la ville blanche et toutes personnes qui etaient trouvees dans la ville blanche passaient la nuit au poste
+-------------------------------------------
+
+Line ID: 2681560181
+WER Score: 1.56
+Transcript: donc deja ca explique bien la configuration de la ville d abidjan comme pas mal de villes coloniales sont basees justement sur les aspects de securite si vous prenez le nord du plateau par exemple vous avez le camp d agbouin qui est un camp militaire donc toutes les attaques qui pouvaient venir du nord d abidjan etaient stoppees net par le camp militaire
+Reference:  donc deja ca explique bien la configuration de la ville d abidjan comme pas mal de villes coloniales sont basees justement sur les aspects de securite si vous prenez le nord du plateau par exemple vous avez le camp d agbo qui est un camp militaire donc toutes les attaques qui pouvaient venir du nord d abidjan etaient stoppees net par le camp militaire
+-------------------------------------------
+
+Line ID: 2681593413
+WER Score: 2.04
+Transcript: et donc le plateau la ville blanche s est allee sur cette langue qui avance vers la lagune donc ca c est important de savoir pour comprendre la ou on est apres la ou on est c est l une des premieres parties du plateau qui est la partie conversante
+Reference:  et donc le plateau la ville blanche s est allee sur cette langue qui avance vers la lagune donc ca c est important de savoir pour comprendre la ou on est apres la ou on est c est une des premieres parties du plateau qui est la partie conversante
+-------------------------------------------
+
+Line ID: 2681578159
+WER Score: 4.55
+Transcript: donc la rue du commerce qui est juste a cote qui justifie sa position par rapport a la proximite du port donc toutes les marchandises transitaient par la rue du commerce d ailleurs on voit dans l architecture on va passer devant
+Reference:  c est donc la rue du commerce qui est juste a cote qui justifie sa position par rapport a la proximite du port donc toutes les marchandises transitaient par la rue du commerce d ailleurs on voit dans l architecture on va passer devant
+-------------------------------------------
+
+Line ID: 2681532060
+WER Score: 8.89
+Transcript: malheureusement il n y en a plus beaucoup il n y en a quasiment plus mais on voit encore la structure de l architecture coloniale avec les entrepots malheureusement aujourd hui ce foncier est extremement valorise donc ca ne peut plus rester des entrepots
+Reference:  malheureusement il n y en a plus beaucoup il n y en a quasiment plus mais on voit encore la structure de l architecture coloniale avec les entrepots malheureusement aujourd hui ce frontier est extremement valorise donc ca ne peut plus rester de l entrepot
+-------------------------------------------
+
+Line ID: 2681545364
+WER Score: 11.54
+Transcript: on peut essayer de se projeter par exemple a l epoque coloniale on avait des echelles plutot comme celles la avec un commerce en bas toujours grande hauteur pour les entrepots etc et puis le logement en haut malheureusement il y en a de moins en moins parce qu ils disparaissent a vue d oeil
+Reference:  on peut essayer de se projeter par exemple a l epoque coloniale on avait des echelles plutot comme celle la avec commerce en bas toujours grand auteur pour les entrepots etc et puis le logement malheureusement il y en a de moins en moins parce qu ils disparaissent a vue d oeil
+-------------------------------------------
+
+Line ID: 2681556746
+WER Score: 19.44
+Transcript: mais en meme temps je trouve que c est ca qui reste le charme d une ville comme abidjan c est de pouvoir lire les differentes epoques de facon completement melangee et parfois presque homogene en fait
+Reference:  mais en meme temps je trouve que c est ca qui reste le charme d une ville comme abidjan c est de pouvoir lire les differentes epoques les trois sont completement melangees et parfois presque homogenes
+-------------------------------------------
+
+Line ID: 2681590171
+WER Score: 11.11
+Transcript: il y a un certain nombre d architectes qui ont fait pas mal d experimentations donc l architecture deja a l epoque bio climatique depuis le milieu des annees 60 jusqu au milieu des annees 80
+Reference:  il y a un certain nombre d architectes qui ont fait pas mal d experimentations donc d architectures deja a l epoque bioclimatiques donc depuis le milieu des annees 60 jusqu au milieu des annees 80
+-------------------------------------------
+
+Line ID: 2681591600
+WER Score: 18.84
+Transcript: c est une architecture qui repond au climat on est dans un climat chaud surtout dans le sud et qu est ce qu on va chercher a faire dans un batiment c est de la ventilation notamment de la ventilation traversante pour faire passer l air d un cote a l autre et du coup creer une forme de confort thermique
+Reference:  alors c est une architecture qui en fait repond au climat c est a dire qu on est dans un climat chaud surtout dans le sud et qu est ce qu on va chercher a faire dans un batiment c est de la ventilation donc notamment de la ventilation traversante pour pouvoir passer de l un cote a l autre et du coup creer une forme de confort thermique
+-------------------------------------------
+
+Line ID: 2681597786
+WER Score: 1.67
+Transcript: mais avec l avenement des annees 80 les visions ont change dans les annees 80 on a commence a penser que le climat allait tout resoudre que la voiture allait resoudre tous les problemes de mobilite qu il fallait juste investir dans la technologie pour pouvoir avancer mais on se rend bien compte aujourd hui que ca ne fonctionne pas
+Reference:  mais avec l avenement des annees 80 les visions ont change dans les annees 80 on a commence a penser que la climat allait tout resoudre que la voiture allait resoudre tous les problemes de mobilite qu il fallait juste investir dans la technologie pour pouvoir avancer mais on se rend bien compte aujourd hui que ca ne fonctionne pas
+-------------------------------------------
+
+Line ID: 2681545348
+WER Score: 20.00
+Transcript: c est une vision qui a ses limites meme en architecture aujourd hui on parle de plus en plus d architecture bio climatique c est completement a la mode
+Reference:  enfin c est une vision qui a ses limites donc meme en architecture aujourd hui on parle de plus en plus des architectures bioclimatiques c est completement a la mode
+-------------------------------------------
+
+Line ID: 2681570909
+WER Score: 2.82
+Transcript: c est un batiment aussi tres interessant qui est un batiment d un architecte qui s appelle henri chaumet qui a beaucoup construit a abidjan et dans d autres capitales comme cotonou comme addis abeba et dont la specialite en fait c etait enfin toute sa reflexion etait basee sur qu est ce que l architecture moderne en milieu tropical alors par exemple la en face on a l immeuble alpha 2000
+Reference:  c est un batiment aussi tres interessant c est un batiment d un architecte qui s appelle henri chaumet qui a beaucoup construit a abidjan et dans d autres capitales comme cotonou comme addis abeba et dont la specialite en fait c etait toute sa reflexion etait basee sur qu est ce que l architecture moderne en milieu tropical alors par exemple la en face on a l immeuble alpha 2000
+-------------------------------------------
+
+Line ID: 2681511118
+WER Score: 0.00
+Transcript: je ne sais pas si vous connaissez cet immeuble assez marron une tour aussi avec la librairie de france en bas une espece d arcade un peu a la sahelienne aussi donc c est des architectures meme si elles sont des tours et qui ont des aspects quand meme assez modernes
+Reference:  je ne sais pas si vous connaissez cet immeuble assez marron une tour aussi avec la librairie de france en bas une espece d arcade un peu a la sahelienne aussi donc c est des architectures meme si elles sont des tours et qui ont des aspects quand meme assez modernes
+-------------------------------------------
+
+Line ID: 2681544630
+WER Score: 0.00
+Transcript: c est a dire que si on pratique en afrique on doit avoir une esthetique qui parle de la ou on vit et justement par ce biais interesser les autres si on doit tout simplement repliquer ce que les autres ont fait ca n a aucun interet
+Reference:  c est a dire que si on pratique en afrique on doit avoir une esthetique qui parle de la ou on vit et justement par ce biais interesser les autres si on doit tout simplement repliquer ce que les autres ont fait ca n a aucun interet
+-------------------------------------------
+
+Line ID: 2681583469
+WER Score: 4.48
+Transcript: je pense que la difference par exemple entre abidjan et dakar c est les visions des deux presidents je pense que foue bouani au sortir de la colonization pour lui c etait maintenant important d avoir les mains libres et d experimenter et donc de faire des choses qui se faisaient sans complexe donc des tours alors qu on n en avait pas besoin des choses assez monumentales
+Reference:  je pense que la difference par exemple entre abidjan et dakar c est les visions des deux presidents je pense que houphoue bouhanni au sortir de la colonization pour lui c etait maintenant important d avoir les mains libres et d experimenter et donc de faire des choses qui se faisaient sans complexe donc des tours alors qu on n avait pas besoin des choses assez monumentales
+-------------------------------------------
+
+Line ID: 2681583901
+WER Score: 5.41
+Transcript: donc c etait ca sa vision et c est ca qui je pense donne encore a abidjan son peps et sa dynamique tandis qu a dakar on etait plutot dans la culture dans la conservation dans le patrimoine
+Reference:  donc c etait ca sa vision et c est ca qui je pense donne encore a abidjan son pep sa dynamique tandis qu a dakar on etait plutot dans la culture dans la conservation dans le patrimoine
+-------------------------------------------
+
+Line ID: 2681510464
+WER Score: 7.14
+Transcript: donc on voit des choses a dakar qu on ne voit plus a abidjan et c est interessant que ces deux capitales en plus qui sont meme si elles sont distantes physiquement sont quand meme relativement proches continuent d entretenir leurs differences
+Reference:  donc on voit les choses a dakar qu on ne voit plus a abidjan et c est interessant que ces deux capitales en plus qui sont meme si elles sont distantes physiquement sont quand meme relativement proches continuent d entretenir leur difference
+-------------------------------------------
+
+Line ID: 2681589924
+WER Score: 15.62
+Transcript: c est completement ca je trouve qu a l epoque dans les annees 60 70 on avait la modernite et le futur c etait egalement ces formes completement dementes
+Reference:  c est completement ca mais parce que je trouve qu a l epoque justement dans les annees 60 70 on avait la modernite le futur c etait egalement ces formes completement dementes
+-------------------------------------------
+
+Line ID: 2681581479
+WER Score: 6.25
+Transcript: on va voir tout de suite avec la pyramide un bel exemple de comment elle a pu se lacher dans les annees 70 en imaginant que le futur c etait ca
+Reference:  on va voir tout de suite la avec la pyramide un bel exemple de comment on a pu se lacher dans les annees 70 en imaginant que le futur c etait ca
+-------------------------------------------
+
+Line ID: 2681597442
+WER Score: 22.73
+Transcript: qui est ce batiment d architecture brutaliste en forme de pyramide stylisee avec pour l epoque un dessin tres audacieux
+Reference:  et donc ce batiment d architecture brutaliste une forme de pyramide stylisee avec quand meme pour l epoque un dessin tres audacieux
+-------------------------------------------
+
+Line ID: 2681592111
+WER Score: 9.80
+Transcript: qui date des annees 73 c est un batiment qui a ete fait par un jeune architecte italien dont je ne me souviens plus du nom exactement mais qui a vraiment cette forme completement demente avec des details assez exceptionnels toute cette couverture en lame d aluminum pour proteger justement les fenetres
+Reference:  date des annees 1973 c etait un batiment qui a ete fait par un jeune architecte italien dont je ne me souviens plus du nom exactement mais qui a vraiment cette forme completement demante avec des details assez exceptionnels toute cette couverture en lames d aluminum pour proteger justement les fenetres
+-------------------------------------------
+
+Line ID: 2681567266
+WER Score: 10.91
+Transcript: alors malheureusement son tort c est qu aujourd hui il n est pas suffisamment rentable pour s entretenir ce qui fait qu il est ferme completement a l abandon c est vraiment un superbe batiment il y avait des rumeurs qui disaient qu on allait le detruire mais bon il faut plutot le sauver
+Reference:  malheureusement son temps c est qu aujourd hui il n est pas suffisamment rentable pour tout entretenir ce qui fait qu il est ferme completement a l avant demain c est vraiment un superbe superbe batiment il y avait des rumeurs qui disaient qu on allait le detruire mais bon il faut plutot le sauver
+-------------------------------------------
+
+Line ID: 2681515201
+WER Score: 16.28
+Transcript: il a vu plus pour lui ce que representait la modernite paris batiment haussmannien c est l epoque ca represente une certaine epoque nouveau pays nouvelle ere nouvelle vision on va chercher ce qui se fait de mieux
+Reference:  c est ca il l a vu plus pour lui ce qu a represente la modernite paris batiment haussmannien c est l epoque ca represente une certaine epoque nouveau pays nouvelle ere nouvelle vision on va chercher ce qui se fait de mieux
+-------------------------------------------
+
+Line ID: 2681530691
+WER Score: 8.93
+Transcript: ce serait qu abidjan soit une ville completement verte une ville ou on recommence a marcher ou on retrouve une certaine echelle humaine quelque chose qu abidjan a eu il y a 40 ans ca c est veritablement vrai et je pense que c est des choses qui sont tout a fait possibles
+Reference:  ce serait qu abidjan soit une ville completement verte une ville ou on recommence a marcher ou une ville ou on retrouve une certaine echelle humaine quelque chose qu abidjan a eu il y a 40 ans ca c est veritablement vrai et je pense que ce sont des choses qui sont tout a fait possibles
+-------------------------------------------
+
+Line ID: 2681598867
+WER Score: 17.07
+Transcript: exactement et en realite de la meme facon qu on doit s appuyer sur des techniques d architecture ancestrale qui ne sont juste que la sedimentation de differentes epoques on doit faire de meme aussi pour la construction d un modele social
+Reference:  exactement et en realite de la meme facon qu on doit s appuyer sur les techniques et l architecture ancestrales qui ne sont que la sedimentation de differentes epoques on doit faire de meme aussi pour la construction le modele social
+-------------------------------------------
+
+Line ID: 2681531667
+WER Score: 14.06
+Transcript: quand on voit en general ce qui fait que les villages fonctionnent c est que l element central n est jamais loin le chef est toujours present sous une auto donc il y a une forme de distance qui reste a echelle humaine des qu on arrive en ville le lien avec ce type d autorite devient completement immateriel
+Reference:  quand on voit en general ce qui fait que les villages en fait fonctionnent c est que l element central n est jamais loin le chef est toujours present sous une forme ou sous une autre donc il y a une forme de distance il reste a echelle des qu on arrive en ville le lien avec ce type d autorite devient completement immateriel
+-------------------------------------------
+
+Line ID: 2681532019
+WER Score: 1.23
+Transcript: pas de place ou meme je pense qu on va utiliser la place differemment quand on est effectivement dans un habitat qui est plutot collectif on va liberer pas mal de place en fait ce qui permet a tout le monde justement d avoir des jardins suffisamment gros pour pouvoir les partager partager 2000 3000 m 2 tandis que quand on est encore dans une vision ou on decoupe on segmente c est vrai on a chacun son jardin pour soi
+Reference:  pas de place ou meme je pense qu on peut utiliser la place differemment quand on est effectivement dans un habitat qui est plutot collectif on va liberer pas mal de place en fait ce qui permet a tout le monde justement d avoir des jardins suffisamment gros pour pouvoir les partager partager 2000 3000 m 2 tandis que quand on est encore dans une vision ou on decoupe on segmente c est vrai on a chacun son jardin pour soi
+-------------------------------------------
+
+Line ID: 2681599289
+WER Score: 4.35
+Transcript: mais il est tout petit et je pense que les logiques d habitants en ville doivent effectivement obeir a ce type de vision
+Reference:  mais il est tout petit et je pense que les logiques d habitat en ville doivent effectivement obeir a ce type de vision
+-------------------------------------------
+
+Line ID: 2681516877
+WER Score: 2.17
+Transcript: parce que ca permet egalement de vegetaliser donc de baisser les temperatures de se permettre d imaginer autre chose que se deplacer en voiture et du coup imaginer des modes de vie completement differents je vois que c est des choses qui commencent a emerger
+Reference:  parce que ca permet egalement de vegetaliser donc de baisser les temperatures de se permettre d imaginer autre chose que se deplacer en voiture et du coup imaginer des modes de vie completement differents et je vois que c est des choses qui commencent a emerger
+-------------------------------------------
+
+Final WER Score: 8.63

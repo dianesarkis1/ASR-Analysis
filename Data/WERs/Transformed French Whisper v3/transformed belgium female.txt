@@ -1,0 +1,1303 @@
+16.0
+line_id 7457246003
+transcript norm:  l assiette encore pleine so maternally il te faudrait une bonne guerre etait l habituelle introduction a des apres midi entiers a l ecouter je pourrais passer des heures a vous la decrire dans les moindres details des aquafures toujours impeccables au bouton perlite saint joseph le ciel
+ref norm:         l assiette est encore pleine son eternelle il te faudrait une bonne guerre etait l habituelle introduction a des apres midi entiers a l ecouter je pourrais passer des heures a vous la decrire dans les moindres details des aquafures toujours impeccables au bouton perle de son gilet bleu ciel
+
+ ------------------------------------------- 
+
+0.0
+line_id 7457255411
+transcript norm:  mais j aimerais vous laisser la liberte de l imaginer parce que marguerite etait ma grand mere mais elle aurait pu etre la votre aussi alors ici j ai choisi de vous partager un bout de son histoire et puis surtout sa voix
+ref norm:         mais j aimerais vous laisser la liberte de l imaginer parce que marguerite etait ma grand mere mais elle aurait pu etre la votre aussi alors ici j ai choisi de vous partager un bout de son histoire et puis surtout sa voix
+
+ ------------------------------------------- 
+
+18.0
+line_id 7457234937
+transcript norm:  j ai contacte toutes les associations d anciens combattants sur le territoire belge ainsi que les archives de l etat mais finalement je retrouve l artiste video dans un tiroir tres bien range c est mes parents ma trouille est la constance magasex ah oui constance c est moi je suis donc la petite fille de marguerite
+ref norm:         j ai contacte toutes les associations d anciens combattants sur le territoire belge ainsi que les archives de l etat mais finalement je retrouve l archive video dans un tiroir tres bien range chez mes parents ah oui constance c est moi je suis donc la petite fille de marguerite
+
+ ------------------------------------------- 
+
+9.859154929577464
+line_id 7457281969
+transcript norm:  grace a ces enregistrements je decouvre les images de marguerite elle est la comme je l ai toujours connu franche directe mais toujours polie elle reste fidele a elle meme du haut de ses 85 ans il y a une certaine malice dans les yeux de marguerite bien droite la coiffure toujours impeccable elle a fait de bons coeurs et raconte son histoire comme une serie d anecdotes tantot drole tantot grave
+ref norm:         grace a cet enregistrement je decouvre les images de marguerite elle est la comme je l ai toujours connue franche directe mais toujours polie elle reste fidele a elle meme du haut de ses 85 ans il y a une certaine malice dans les yeux de marguerite bien droite la coiffure toujours impeccable elle rit de bon coeur et raconte son histoire comme une serie d anecdotes tantot drole tantot grave
+
+ ------------------------------------------- 
+
+3.389830508474576
+line_id 7457267504
+transcript norm:  en plus de cet enregistrement j ai aussi retrouve trois valises avec des objets des bouts de tissu des photos des decorations des drapeaux belges plies en cinq et vraiment plein plein de papier des attestations des documents officiels des telegrammes des cartes postales des lettres mais vraiment beaucoup de lettres certaines datent de 1943 d autres plus tard
+ref norm:         en plus de cet enregistrement j ai aussi retrouve trois valises avec des objets des bouts de tissus des photos des decorations des drapeaux belges plies en cinq et vraiment plein plein de papiers des attestations des documents officiels des telegrammes des cartes postales des lettres mais vraiment beaucoup de lettres certaines datent de 1943 d autres plus tard
+
+ ------------------------------------------- 
+
+4.918032786885246
+line_id 7457297108
+transcript norm:  la voix de marguerite comme fil conducteur et les valises de papier pour completer le reste je ne cherche rien en particulier puisque l histoire je la connais j ai grandi avec alors comme un grand puzzle je m essaye a assembler toutes les pieces de l histoire de l histoire de ma famille et de mon histoire aussi en fait
+ref norm:         la voix de marguerite comme file conducteur et les valises de papiers pour completer le reste je ne cherche rien en particulier puisque l histoire je la connais j ai grandi avec alors comme un grand puzzle je m essaye a rassembler toutes les pieces de l histoire de l histoire de ma famille et de mon histoire aussi en fait
+
+ ------------------------------------------- 
+
+5.660377358490567
+line_id 7457297030
+transcript norm:  je retrouve une photo de marguerite portant une jolie robe avec une broche en forme d oiseau qui s envole et main croisee dans le dos marguerite a 25 ans elle se tient sagement debout dans le jardin de la maison familiale a jolimont petite ville dans la province du hainaut en belgique
+ref norm:         je retrouve une photo de marguerite portant une jolie robe avec une broche en forme d oiseau qui s envole les mains croisees dans le dos marguerite a 25 ans elle se tient sagement debout dans le jardin de la maison familiale a jolimont petite ville dans la province du hainaut en belgique
+
+ ------------------------------------------- 
+
+4.25531914893617
+line_id 7457295946
+transcript norm:  se marier avec le pharmacien du coin c est un peu le recit attendu pour une jolie fille des la fin des annees 30 or du haut de son petit meter soixante et de ses vingt ans marguerite est contre toute attente tres independante pour son epoque
+ref norm:         se marier avec le pharmacien du coin c est un peu le recit attendu pour une jolie fille de la fin des annees 30 or du haut de son petit meter soixante et de ses 20 ans marguerite est contre toute attente tres independante pour son epoque
+
+ ------------------------------------------- 
+
+4.10958904109589
+line_id 7457282653
+transcript norm:  elle est modiste entrepreneuse et a la tete de plusieurs couturieres elle dirige une boutique et un atelier de fabrication de chapeaux alors ca m amuse un peu parce que donc non je vous donne en mille le destin de marguerite ne s arretera donc pas a se marier avec le farmacien du coin a cette epoque ce que marguerite aime plus que tout c est sa famille ses chapeaux et son magasin
+ref norm:         elle est modiste entrepreneuse et a la tete de plusieurs couturieres elle dirige une boutique et un atelier de fabrication de chapeaux alors ca m amuse un peu parce que non je vous le donne en mille le destin de marguerite ne s arretera donc pas a se marier avec le pharmacien du coin a cette epoque ce que marguerite aime plus que tout c est sa famille ses chapeaux et son magasin
+
+ ------------------------------------------- 
+
+5.263157894736842
+line_id 7457291354
+transcript norm:  et l heureuse elue s appelle joseph ne en 1914 a failly les manages il travaille avec son pere dans une corderie qui fabrique les cables pour des ascenseurs notamment pour les mines a charbon leur rencontre restera un mystere tout ce qu on sait c est qu ils se fiancent a la fin des annees 30
+ref norm:         et l heureux elu s appelle joseph ne en 1914 a faille les manages il travaille avec son pere dans une corderie qui fabrique les cables pour des ascenseurs notamment pour les mines a charbon leur rencontre restera un mystere tout ce qu on sait c est qu ils se fiancent a la fin des annees 30
+
+ ------------------------------------------- 
+
+8.0
+line_id 7457265307
+transcript norm:  meme si je connais l histoire grosso modo j ai fait des vraies trouvailles dans ces vieilles valises l une des belles surprises retrouvees un petit manuscrit titre souvenir d un resistant a l interieur tout est tape a la machine et paragraph se succede sans pause ca respire peu
+ref norm:         meme si je connais l histoire grosso modo j ai fait des vraies trouvailles dans ces vieilles valises l une des belles surprises retrouvees un petit manuscrit titre souvenirs d un resistant a l interieur tout est tape a la machine les paragraphe se succedent sans pause ca respire peu
+
+ ------------------------------------------- 
+
+0.0
+line_id 7457266619
+transcript norm:  sur la couverture je lis un petit mot ecrit a l encre rouge a mon ami jeunesse ok mais qui est ce jeunesse jamais entendu parler bon je verrai ca plus tard j embarque le cahier dans mon sac et j entame la lecture d une traite de ce qui deviendra l une de mes sources principales
+ref norm:         sur la couverture je lis un petit mot ecrit a l encre rouge a mon ami jeunesse ok mais qui est ce jeunesse jamais entendu parler bon je verrai ca plus tard j embarque le cahier dans mon sac et j entame la lecture d une traite de ce qui deviendra l une de mes sources principales
+
+ ------------------------------------------- 
+
+7.547169811320755
+line_id 7457256743
+transcript norm:  a la fin de ce manuscrit une dedicace avec la meme ecriture a l encore rouge a mon ami jonas en souvenir des heures exaltantes passees ensemble a notre profonde amitie ce manuscrit d une soixantaine de pages relate les souvenirs d un saboteur jean camarade de guerre de joseph ou jonas apparemment
+ref norm:         a la fin de ce manuscrit une dedicace avec la meme ecriture a l encre rouge a mon ami jeunasse en souvenir des heures exaltantes passees ensemble a notre profond amitie ce manuscrit d une soixantaine de pages relate les souvenirs d un saboteur jean camarade de guerre de joseph ou jeunasse apparemment
+
+ ------------------------------------------- 
+
+6.521739130434782
+line_id 7457267436
+transcript norm:  joseph celui que rien n arrete donc a son retour par une minute a perdre joseph entre au service de la ligne de 101 france combattante du groupe la galice de fay les mannazes et de la legion belge qui deviendra plus tard l armee secrete
+ref norm:         joseph celui que rien n arrete donc a son retour pas une minute a perdre joseph entre au service de la ligne de 101 france combattante du groupe la galice de faille les manages et de la legion belge qui deviendra plus tard l armee secrete
+
+ ------------------------------------------- 
+
+1.7857142857142856
+line_id 7457263003
+transcript norm:  au debut de 1942 joseph forme le noyau de l armee belge des partisans du center il ne s appelle plus joseph mais repond dorenavant sous un nom de guerre jonas sous cette nouvelle identite et son role d artificier il distribue des journaux clandestins transporte des armes et des explosifs et effectue de nombreux sabotages
+ref norm:         au debut de 1942 joseph forme le noyau de l armee belge des partisans du center il ne s appelle plus joseph mais repond dorenavant sous un nom de guerre jeunesse sous cette nouvelle identite et son role d artificier il distribue des journaux clandestins transporte des armes et des explosifs et effectue de nombreux sabotages
+
+ ------------------------------------------- 
+
+13.953488372093023
+line_id 7457230049
+transcript norm:  et voila tout simplement on se sent meme bete d avoir pense a se poser les questions nee dans une maison de patriotes jeune femme independante et en plus amoureuse d un joseph resistant endiable marguerite s engage aussi dans la resistance en 1942
+ref norm:         et voila tout simplement on se sent meme bete d avoir pense a se poser la question ne dans une maison patriote jeune femme independante et en plus amoureuse d un joseph resistant endiablee marguerite s engage aussi dans la resistance en 1942
+
+ ------------------------------------------- 
+
+6.122448979591836
+line_id 7996193195
+transcript norm:  a trois reprises veronique conjointe est donc enceinte a trois reprises elle accouche et a trois reprises elle tue seule toujours seule mais quand elle tue veronique n a pas l impression de tuer ses enfants non elle est un des bouts de chair des bouts d elle meme finalement
+ref norm:         a trois reprises veronique courjault est donc enceinte a trois reprises elle accouche et a trois reprises elle tue seule toujours seule mais quand elle tue veronique n a pas l impression de tuer ses enfants non elle eteint des bouts de chair des bouts d elle meme finalement
+
+ ------------------------------------------- 
+
+4.651162790697675
+line_id 7996134626
+transcript norm:  elle sait qu elle est enceinte mais ce ne sont pas des accouchements qu elle lit elle a deux grands fils elle sait ce que c est que d accoucher dans sa tete dans son corps pour ces trois la c est different quand j ai decouvert cette affaire que je racontais la triste histoire de cette femme autour de moi personne ne semblait la connaitre et puis ensuite je disais mais si tu sais c est le bebe congele et la les regards s eclairaient
+ref norm:         elle sait qu elle est enceinte mais ce ne sont pas des accouchements qu elle vit elle a deux grands fils elle sait ce que c est que d accoucher dans sa tete dans son corps pour ces trois la c est different quand j ai decouvert cette affaire que je racontais la triste histoire de cette femme autour de moi personne ne semblait la connaitre et puis ensuite je disais mais si tu sais c est des bebes congeles et la les regards s eclairaient
+
+ ------------------------------------------- 
+
+2.0
+line_id 7996148064
+transcript norm:  c est ca qu on a retenu de veronique qu elle avait conserve les corps de ses nouveaux nes dans le congelateur familial c est ca que les medias ont mis en avant et c est la que l histoire de veronique courgeot est devenue l affaire des bebes congeles
+ref norm:         c est ca qu on a retenu de veronique qu elle avait conserve les corps de ses nouveaux nes dans le congelateur familial c est ca que les medias ont mis en avant et c est la que l histoire de veronique courjault est devenue l affaire des bebes congeles
+
+ ------------------------------------------- 
+
+5.128205128205128
+line_id 7996198093
+transcript norm:  son proces parce qu il traite de l une des figures emblematiques des femmes criminelles a savoir des femmes aux infanticides mais aussi parce qu il expose les liens entre la criminalite des femmes et ce qui se passe dans leur corps dans leur ventre et bien ce proces incarne tous les enjeux que cette serie de podcast va explorer pour nous accompagner tout au long de ce recit julie ancien sociologue et andine millot journaliste judiciaire et autrice
+ref norm:         son proces parce qu il traite de l une des figures emblematiques des femmes criminelles a savoir des femmes infanticides mais aussi parce qu il expose les liens entre la criminalite des femmes et ce qui se passe dans leur corps dans leur ventre et bien ce proces incarne tous les enjeux que cette serie de podcasts va explorer pour nous accompagner tout au long de ce recit julie ancian sociologue et ondine millot journaliste judiciaire et autrice
+
+ ------------------------------------------- 
+
+13.636363636363635
+line_id 7996129092
+transcript norm:  les tribunaux je les connais depuis toute petite mon pere etait avocat comme son pere avant nous alors c etait pas des grands avocats dans des grands cabinets c etait des petits avocats de province on a un coin perdu de haute savoie en france
+ref norm:         les tribunaux je les connais depuis toute petite mon pere etait avocat comme son pere avant lui alors c etait pas des grands avocats dans des grands cabinets c etait des petits avocats de province sans un coin perdu d autres savoirs en france
+
+ ------------------------------------------- 
+
+18.96551724137931
+line_id 7996121872
+transcript norm:  un collegue amant me disait que la justice c est un peu comme l arriere cuisine de la societe un endroit precaire pas tres beau pas tres propre et qui tente de regler tout bourbier citoyen bien a la boit d air car les conflits judiciaires racontent les tensions les torsions les oppressions qui se tient nos societes
+ref norm:         un collegue a moi me disait que la justice c etait un peu comme l arriere cuisine de la societe un endroit precaire pas tres beau pas tres propre et qui tente de regler tout le bourbier citoyen bien a l abri des regards les conflits judiciaires racontent les tensions les torsions les oppressions qui structurent nos societes
+
+ ------------------------------------------- 
+
+11.864406779661017
+line_id 7996135369
+transcript norm:  ou la menace c est pour tenter de repondre a ces questions que je me suis interessee a des proces criminels ou les femmes etaient coupables coupables du menton d alien des affaires recentes ou pas des proces mediatiques ou non mais tous sont des faits divers devenus faits de societe 8 episodes pour 8 proces et 8 femmes
+ref norm:         ou la menace c est pour tenter de repondre a ces questions que je me suis interessee a des proces criminels ou les femmes etaient coupables coupables ou du moins condamnees des affaires recentes ou pas des proces mediatiques ou non mais tous sont des faits divers devenus faits de societe huit episodes pour huit proces et huit femmes
+
+ ------------------------------------------- 
+
+19.35483870967742
+line_id 7996182798
+transcript norm:  mais pour commencer debute on manque cette serie avec l histoire de veronique courgeot et de son crime l un des plus emblematiques les plus symboliques de la criminalite feminine l amphaticide
+ref norm:         et pour commencer debutons donc cette serie avec l histoire de veronique courjault et de son crime l un des plus emblematiques les plus symboliques de la criminalite feminine l infanticide
+
+ ------------------------------------------- 
+
+13.20754716981132
+line_id 7996133119
+transcript norm:  pourtant le coeur de l affaire courgeot c est une belle crime atroce evidemment mais non c est la coupable parce qu elle ne se dedouane pas veronique courgeot parce qu elle essaie d expliquer et donc de comprendre ce qu elle a fait l origine et le sens de cette violence
+ref norm:         pourtant le coeur de l affaire courjault ca n est pas le crime atroce evidemment mais non c est la coupable parce qu elle ne se dedouane pas veronique courjault parce qu elle essaie d expliquer et donc de comprendre ce qu elle a fait l origine et le sens de sa violence
+
+ ------------------------------------------- 
+
+1.7857142857142856
+line_id 7996160199
+transcript norm:  et parce que son histoire c est aussi celle d une solitude d un desespoir que personne ne voulait ni voir ni entendre et c est le proces qui donnera a cette affaire une dimension intime et quasi historique un magistrat que j avais rencontre a nantes me disait souvent pour bien juger il faut comprendre
+ref norm:         et parce que son histoire c est aussi celle d une solitude d un desespoir que personne ne voulait ni voir ni entendre et c est le proces qui donnerait a cette affaire une dimension intime et quasi historique un magistrat que j avais rencontre a nantes me disait souvent pour bien juger il faut comprendre
+
+ ------------------------------------------- 
+
+3.9215686274509802
+line_id 7996163054
+transcript norm:  eh bien pendant longtemps personne n a cherche a comprendre ces femmes comprendre ce qui pouvait amener une jeune mere qui vient d accoucher a etrangler a etouffer a tuer son bebe ni le public ni les juges ni les jures qui d ailleurs ont longtemps ete composes uniquement d hommes
+ref norm:         et bien pendant longtemps personne n a cherche a comprendre ses femmes comprendre ce qui pouvait amener une jeune mere qui vient d accoucher a etrangler a etouffer a tuer son bebe ni le public ni les juges ni les jures qui d ailleurs ont longtemps ete composes uniquement d hommes
+
+ ------------------------------------------- 
+
+2.5316455696202533
+line_id 7996172676
+transcript norm:  et c est au proces de veronique que pour la premiere fois en tout cas certainement d une facon aussi publique et mediatique eh bien pour la premiere fois on evoque les zones d ombre de la maternite qu on evoque la violence psychologique que cet evenement physique physiologique soi disant parfaitement naturel peut pourtant engendrer chez certaines femmes pour la premiere fois les mecanismes entourant le deni grossesse sont evoques et analyzes devant une cour de justice
+ref norm:         et c est au proces de veronique que pour la premiere fois en tout cas certainement d une facon aussi publique et mediatique et bien pour la premiere fois on evoque les zones d ombre de la maternite qu on evoque la violence psychologique que cet evenement physique physiologique soi disant parfaitement naturel peut pourtant engendrer chez certaines femmes pour la premiere fois les mecanismes entourant le deni de grossesse sont evoques et analyzes devant une cour de justice
+
+ ------------------------------------------- 
+
+9.333333333333334
+line_id 7996194058
+transcript norm:  quand veronique courgeot entre dans la salle d audience de la cour d assises de tours elle doit repondre de ses crimes et semble terrifiee par ce qu elle attend nous sommes le 9 juin 2009 elle est escortee jusqu a son box transparent par des gendarmes son mari jean louis et d autres membres de sa famille son pere robert sa mere monique s installent aussi aux premieres rangees de la salle tout devant
+ref norm:         quand veronique courjault entre dans la salle d audience de la cour d assise de tours elle doit repondre de ses crimes et semble terrifiee par ce qu il attend nous sommes le 9 juin 2009 elle est escortee jusqu a son boxe transparent par des gendarmes son mari jean louis et d autres membres de sa famille son pere robert sa mere monique s installent aussi au premier ranget de la salle tout devant
+
+ ------------------------------------------- 
+
+1.2987012987012987
+line_id 7996173674
+transcript norm:  dans un tribunal les places au premier rang coutent tres cher privilege deconcerne dans la salle le public et les journalistes se pressent c est que tout le monde veut savoir pourquoi est ce qu elle a tue ses enfants et puis surtout dans le fond ce qui attise une curiosite un peu macabre pourquoi les a t elle gardes dans son rongelateur et puis a quoi ca peut bien ressembler une mere qui tue ses bebes
+ref norm:         dans un tribunal les places au premier rang coutent tres cher privilege deconcerne dans la salle le public et les journalistes se pressent c est que tout le monde veut savoir pourquoi est ce qu elle a tue ses enfants et puis surtout dans le fond ce qui attise une curiosite un peu macabre pourquoi les a t elle gardes dans son congelateur et puis a quoi ca peut bien ressembler une mere qui tue ses bebes
+
+ ------------------------------------------- 
+
+14.285714285714285
+line_id 7996124421
+transcript norm:  en tout cas ca peut dire que quand elle se lassoit dans son box veronique courgeot decoit son visage est mince et long elle a maigri depuis son arrestation elle a rassemble ses cheveux bruns fins en une queue de cheval elle porte un cardigan couleur beige une chemise gris clair des couleurs neutres un peu ternes ses yeux tombent un peu elle a levres tristes et completement ternes
+ref norm:         en tout cas ca peut dire que quand elle s assoit dans son boxe veronique courjault decoit son visage est mince et long elle a maigri depuis son arrestation elle a rassemble ses cheveux bruns fin en une queue de cheval elle porte un cardigan couleur beige une chemise gris claire des couleurs neutres un peu ternes ses yeux tombent un peu elle a l air triste et completement perdue
+
+ ------------------------------------------- 
+
+6.122448979591836
+line_id 7996139491
+transcript norm:  elle fait toute petite la au milieu de cette salle trop grande pour elle comme elle fait plus petite que ses crimes trop grande pour elle aussi si vous n avez jamais ete dans une salle d audience il faut savoir qu elles se ressemblent toutes plus ou moins
+ref norm:         elle fait toute petite la au milieu de cette salle trop grande pour elle comme elle fait plus petite que ses crimes trop grand pour elle aussi si vous n avez jamais ete dans une salle d audience il faut savoir qu elle se ressemble toutes plus ou moins
+
+ ------------------------------------------- 
+
+3.389830508474576
+line_id 7996186380
+transcript norm:  dans la salle du tribunal de tours il y a des rangees de bancs droite a gauche elles conduisent aux tables des avocats en face de vous sur le mur du fond il y a une grande peinture murale en forme de demi sphere qui surpompe l estrade sur laquelle vont s installer les juges et les jures
+ref norm:         dans la salle du tribunal de tours il y a des rangees de bancs a droite a gauche elles conduisent aux tables des avocats en face de vous sur le mur du fond il y a une grande peinture murale en forme de demi sphere qui surplombe l estrade sur laquelle vont s installer les juges et les jures
+
+ ------------------------------------------- 
+
+18.181818181818183
+line_id 7996199661
+transcript norm:  sur la droite entre l estrade et la table des avocats il y a un box le box des accuses commence ils sont encadres par watt vert avec veronique courgeau a l interieur en face du box des accuses il y a l avocat general dans l affaire courgeau il s appelle philippe varin il represente et defend les interets de la societe
+ref norm:         sur la droite entre l estrade et la table des avocats il y a un box le box des accuses comme on dit il est encadre de parois de verre avec veronique courjault a l interieur en face du box des accuses il y a l avocat general dans l affaire courjault il s appelle philippe varin il represente et defend les interets de la societe
+
+ ------------------------------------------- 
+
+11.428571428571429
+line_id 7996140880
+transcript norm:  c est lui qui demande la condamnation de l accuse a telle ou telle peine il le fait qu il s y sionne comme on dit dans le jargon mais oui si le vocabulaire judiciaire appartenait au langage courant ca impressionnerait moins il en va de meme pour les mots que pour l architecture des tribunaux il faut que ca intimide et voila donc la scene sur laquelle va se jouer la vie de veronique courreau
+ref norm:         c est lui qui demande la condamnation de l accuse a telle ou telle peine il requisitionne comme on dit dans le jargon mais oui si le vocabulaire judiciaire appartenait au langage courant ca impressionnerait moins il en va de meme pour les mots que pour l architecture des tribunaux il faut que ca intimide et voila donc la scene sur laquelle va se jouer la vie de veronique courjault
+
+ ------------------------------------------- 
+
+19.444444444444446
+line_id 7996168776
+transcript norm:  son proces s annonce violent parce que sa personnalite est clivante parce que ses crimes sont abominables parce qu il s electrise le pays depuis presque deux ans au debut de tout un proces penal il y a des regles de procedure des rituels joediques tres formels qui sont invariablement les memes quelques minutes passent la cloche sonne comme le protocole l exige tout le monde se leve et les juges jouent a ride a gare en echo
+ref norm:         son process annonce violent parce que sa personnalite est clivante parce que ses crimes sont abominables parce qu ils electrisent le pays depuis presque deux ans au debut de tout bon proces penal il y a des regles de procedure des rituels juridiques tres formels qui sont invariablement les memes quelques minutes passent la cloche sonne comme le protocole l exige tout le monde se leve et les juges et jures arrivent
+
+ ------------------------------------------- 
+
+3.508771929824561
+line_id 7996144067
+transcript norm:  pour comprendre ce qui est arrive a veronique cogiot il faut revenir trois ans en arriere a l ete 2006 veronique 38 ans sans mari jean louis 40 et leurs deux garcons de 10 et 11 ans vivent a seoul jean louis est un ingenieur dans une societe d equipement automobile et veronique est mere au foyer
+ref norm:         pour comprendre ce qui est arrive a veronique courjault il faut revenir trois ans en arriere a l ete 2006 veronique 38 ans son mari jean louis 40 et leurs deux garcons de 10 et 11 ans vivent a seoul jean louis est un ingenieur dans une societe d equipement automobile et veronique est mere au foyer
+
+ ------------------------------------------- 
+
+4.411764705882353
+line_id 7996163620
+transcript norm:  ca fait 4 ans qu ils sont expatries ca leur va bien ils ont une vie sociale remplie ils ont des amis ils font des activites mais par contre ils tiennent a rendre fait tous les etes en france en touraine plus exactement ils sont tous les deux originaires de cette region et l ete 2006 ne fait pas exception toute la famille est en france pour les vacances
+ref norm:         ca fait quatre ans qu ils sont expatries ca leur va bien ils ont une vie sociale remplie ils ont des amis ils font des activites mais par contre ils tiennent a rentrer tous les etes en france en touraine plus exactement ils sont tous les deux originaires de cette region et l ete 2006 ne fait pas exception toute la famille est en france pour les vacances
+
+ ------------------------------------------- 
+
+14.516129032258066
+line_id 7996124253
+transcript norm:  mais des imperatifs professionnels de derniere minute obligent jean douille a retourner en coree c est l affaire de quelques jours il arrive aux alentours du 20 juillet et compte repartir le 26 et alors qu il finalize les preparatifs de son depart il recoit d un ami en colis de poisson plus genre macro frais qui decide de conge dans la folie
+ref norm:         mais des imperatifs professionnels de derniere minute obligent jean louis a retourner en coree c est l affaire de quelques jours il arrive aux alentours du 20 juillet et contre partir le 26 et alors qu il finalize les preparatifs de son depart il recoit d un ami un colis de poisson plusieurs macros frais qui decide de congeler dans la foulee
+
+ ------------------------------------------- 
+
+5.263157894736842
+line_id 7996186531
+transcript norm:  alors il se dirige vers l arriere cuisine de sa maison et il tente de trouver une place pour les poissons dans l un des tiroirs du congelateur les trois premiers sont plans et il en trouve un sac plastique situe dans le quatrieme tiroir du congelateur il lui faut quelques minutes pour realiser s il est en train d observer pour realiser que ce sont bien deux petits corps qui sont coinces dans le tiroir
+ref norm:         alors il se dirige vers l arriere cuisine de sa maison et il tente de trouver une place pour les poissons dans l un des tiroirs du congelateur les trois premiers sont pleins il en trouve un sac plastique situe dans le quatrieme tiroir du congelateur il lui faut quelques minutes pour realiser ce qu il est en train d observer pour realiser que ce sont bien deux petits corps qui sont coinces dans le tiroir
+
+ ------------------------------------------- 
+
+10.81081081081081
+line_id 7996126854
+transcript norm:  panique il appelle immediatement la police de seoul a aucun moment jean louis courjeu n imagine que ses enfants puissent etre les siens quand la police coreenne lui demande d autorisation pour un prelevement adn il accepte sans hesiter il n a rien a cacher sa seule exigence pouvoir rejoindre sa famille en france le 26 juillet la coree le laisse quitter le territoire ne pouvant le retenir le temps qu ils analysent les lieux
+ref norm:         panique il appelle immediatement la police de seoul a aucun moment jean louis courjault n imagine que ses enfants puissent etre les siens quand la police coreenne lui demande l autorisation pour un prelevement adn il accepte sans hesiter il a rien a cacher sa seule exigence pouvoir rejoindre sa famille en france le 26 juillet la coree le laisse quitter le territoire ne pouvant le retenir le temps que les analyzes aient lieu
+
+ ------------------------------------------- 
+
+21.62162162162162
+line_id 7996111062
+transcript norm:  les resultats des tests adn tombent deux jours plus tard jean louis courgeot est bien en perte de logique des deux nouveau nes retrouves a seoul les enqueteurs coreens retournent chez les courgeot pour saisir des objets appartenant a veronique une brosse a cheveux une brosse a dents et la aussi les analyzes adn sont formelles non seulement les nouees sont ete vivantes a leur naissance mais veronique courgeot est bien la meme biologite enfant
+ref norm:         les resultats des tests adn tombent deux jours plus tard jean louis courjault est bien le pere biologique des deux nouveaux nes retrouves a seoul les enqueteurs coreens retournent chez les courjault pour saisir des objets appartenant a veronique une brosse a cheveux une brosse a dents et la aussi les analyzes adn sont formelles non seulement les nourrissants etaient vivants a leur naissance mais veronique courjault est bien la mere biologique des enfants
+
+ ------------------------------------------- 
+
+18.181818181818183
+line_id 7996176513
+transcript norm:  le couple apprend par la presse l ere du zat zetest dans le clan courgeot c est la consternation alors que l avocat du couple exige des contre expertises en france cette fois veronique et jean louis sont entraines par la pression mediatique d organizer une conference de presse dans les bureaux de leurs abonnes
+ref norm:         le couple apprend par la presse les resultats de ces tests dans le clan courjault c est la consternation alors que l avocate du couple exige des contre expertises en france cette fois veronique et jean louis sont contraints par la pression mediatique d organizer une conference de presse dans les bureaux de leur avocat
+
+ ------------------------------------------- 
+
+5.747126436781609
+line_id 7996199541
+transcript norm:  vous imaginez un animal pris dans les phares d une voiture c est l effet que donne l image du couple devant les journalistes pour les courgeot cette conference de presse est un moyen de faire part de leur consternation ils ne sont pas les parents des bebes c est impossible non seulement veronique a subi une hysterectomie en 2003 mais en plus personne personne n a vu veronique courgeot enceinte depuis la naissance de ses garcons il y a une dizaine d annees
+ref norm:         vous imaginez un animal pris dans les phares d une voiture c est l effet que donne l image du couple devant les journalistes pour les courjault cette conference de presse est un moyen de faire part de leur consternation ils ne sont pas les parents des bebes c est impensable c est impossible non seulement veronique a subi une hysterectomie en 2003 mais en plus personne personne n a vu veronique courjault enceinte depuis la naissance de ses garcons il y a une dizaine d annees
+
+ ------------------------------------------- 
+
+5.128205128205128
+line_id 7996154756
+transcript norm:  tous les temoignages je confiens mais alors comment expliquer les resultats des tests adn pour reprendre les mots d arthur conan doyle lorsque vous avez elimine l impossible ce qui reste si improbable soit il est necessairement la verite
+ref norm:         tous les temoignages le confirment mais alors comment expliquer les resultats des tests adn pour reprendre les mots d arthur conan doyle lorsque vous avez elimine l impossible ce qui reste si improbable soit il est necessairement la verite
+
+ ------------------------------------------- 
+
+8.0
+line_id 7996116018
+transcript norm:  quelques semaines plus tard le 10 octobre 2006 les resultats des tests genetiques pratiques par les scientifiques francais confirment que les epoux courgeot sont bien les parents biologiques des deux nourrissons le 12 octobre veronique courgeot cede elle abandonne elle s abandonne et elle avoue le marte de ses deux bebes
+ref norm:         quelques semaines plus tard le 10 octobre 2006 les resultats des tests genetiques pratiques par les scientifiques francais confirment que les epoux courjault sont bien les parents biologiques des nourrissons le 12 octobre veronique courjault cede elle abandonne elle s abandonne et elle avoue le meurtre de ses deux bebes
+
+ ------------------------------------------- 
+
+2.7777777777777777
+line_id 7996176145
+transcript norm:  elle en confesse aussi un troisieme pour bien comprendre la violence des reactions publiques et mediatiques qui vont suivre ces confessions il faut revenir sur l origine du crime et sa nature d une absolue transgression
+ref norm:         elle en confesse aussi un troisieme pour bien comprendre la violence des reactions publiques et mediatiques qui vont suivre ses confessions il faut revenir sur l origine du crime et sa nature d une absolue transgression
+
+ ------------------------------------------- 
+
+1.4925373134328357
+line_id 7996164257
+transcript norm:  infanticide c est un mot qui vient du latin ca veut dire tuer un enfant litteralement lorsqu il s agit d un nouveau ne on parle de neonaticide contrairement a ce qu on pourrait croire l infanticide n a pas toujours ete puni par la loi jusqu au moyen age il n est meme pas considere comme un crime c est une pratique qui est disons toleree
+ref norm:         infanticide c est un mot qui vient du latin ca veut dire tuer un enfant litteralement lorsqu il s agit d un nouveau ne on parle de neonaticide contrairement a ce qu on pourrait croire l infanticide n a pas toujours ete punie par la loi jusqu au moyen age il n est meme pas considere comme un crime c est une pratique qui est disons toleree
+
+ ------------------------------------------- 
+
+6.0
+line_id 7996190005
+transcript norm:  parce que la place de l enfant dans la famille la societe n est pas du tout la meme qu aujourd hui et puis surtout parce qu elle permet une certaine regulation demographique c est pas tres heureux dit comme ca mais la periode etait prompte au pragmatisme
+ref norm:         parce que la place de l enfant dans la famille et la societe n est pas du tout la meme qu aujourd hui et puis surtout parce qu elle permet une certaine regulation demographique ce n est pas tres heureux dit comme ca mais la periode etait prompte au pragmatisme
+
+ ------------------------------------------- 
+
+5.0
+line_id 7996198108
+transcript norm:  au dela de constituer un crime de sang l infanticide est donc percu comme un peche absolu et cette perception a laisse d infimes d imperceptibles traces encore aujourd hui d une certaine facon elle n est plus susceptible d etre assassinee le jour de sa naissance que tout autre jour de sa vie disait le psychiatre americain philip resnick
+ref norm:         au dela de constituer un crime de sang l infanticide est donc percu comme un peche absolu et cette perception a laisse d infimes d imperceptibles traces encore aujourd hui d une certaine facon on n est plus susceptible d etre assassine le jour de sa naissance que tout autre jour de sa vie disait le psychiatre americain philippe resnick
+
+ ------------------------------------------- 
+
+4.10958904109589
+line_id 7996161268
+transcript norm:  et jusqu au xixe siecle en europe l infanticide est encore relativement courant et represente environ 30% des crimes de sang c est a dire qu a cette epoque un peu moins d un meurtre sur trois concerne un enfant ce chiffre qui est terrifiant montre bien que la definition de ce qui fait crime est subjective que ca varie d une epoque a une autre d une societe a une autre
+ref norm:         et jusqu au 19 e siecle en europe l infanticide est encore relativement courant il represente environ 30% des crimes de sang c est a dire qu a cette epoque un peu moins d un meurtre sur trois concerne un enfant ce chiffre qui est terrifiant montre bien que la definition de ce qui fait crime est subjective que ca varie d une epoque a une autre d une societe a une autre
+
+ ------------------------------------------- 
+
+10.256410256410255
+line_id 7996128286
+transcript norm:  si on denombre moins d infanticides aujourd hui qu au xviiie ou xixe siecle la rarefaction de ce type de meurtre a accentue et individualize la responsabilite de leurs auteurs il ne s agit plus d un phenomene de societe comme ca a pu etre le cas entre les annees 1800 et 1900 mais bien d individus deviants malefiques monstrueux d autant plus qu il s agit en termes de neonaticines presque toujours des femmes
+ref norm:         si on denombre moins d infanticides aujourd hui qu au 18 e et au 19 e siecle la rarefaction de ce type de meurtre a accentue et individualize la responsabilite de leurs auteurs il ne s agit plus d un phenomene de societe comme ca a pu etre le cas entre les annees 1800 et 1900 mais bien d individus deviants malefiques monstrueux d autant plus qu il s agit en termes de neonaticides presque toujours de femmes
+
+ ------------------------------------------- 
+
+0.0
+line_id 7996168535
+transcript norm:  alors meme que la delinquance des femmes est statistiquement beaucoup moins importante que celle des hommes l infanticide et particulierement le neonaticide semblent constituer uniquement des crimes de femmes
+ref norm:         alors meme que la delinquance des femmes est statistiquement beaucoup moins importante que celle des hommes l infanticide et particulierement le neonaticide semblent constituer uniquement des crimes de femmes
+
+ ------------------------------------------- 
+
+1.2658227848101267
+line_id 7996184384
+transcript norm:  elle raconte qu elle a etouffe ses nouveaux nes immediatement apres leur naissance qu elle les a ensuite places dans son congelateur parce qu elle ne pouvait quand meme pas les mettre a la poubelle elle raconte aussi qu il ne s agissait pas de son premier meurtre qu elle avait deja tue une premiere fois en france en 1999 le corps de ce bebe elle l avait fait bruler une nuit dans la cheminee de la maison
+ref norm:         elle raconte qu elle a etouffe ses nouveaux nes immediatement apres leur naissance qu elle les a ensuite places dans son congelateur parce qu elle ne pouvait quand meme pas les mettre a la poubelle elle raconte aussi qu il ne s agissait pas de son premier meurtre qu elle l avait deja tue une premiere fois en france en 1999 le corps de ce bebe elle l avait fait bruler une nuit dans la cheminee de la maison
+
+ ------------------------------------------- 
+
+31.11111111111111
+line_id 7996155001
+transcript norm:  elle raconte que personne n en a jamais rien su mais veronique courgeot raconte ces films puisqu elle les explique quand les enqueteurs lui demandent pourquoi c est bon ils sont plus confus ils sont moins surs elle dit je ne voulais plus d autres enfants
+ref norm:         elle raconte que personne n en a jamais rien su mais veronique courjault raconte ces crimes plus qu a ne les expliquer quand les enqueteurs lui demandent pourquoi ses reponses sont plus confuses sont moins sures elle dit je ne voulais plus d autres enfants
+
+ ------------------------------------------- 
+
+12.5
+line_id 7996139599
+transcript norm:  c est quelque chose que je trouve vraiment julie de maniere impressionnante les titres des journaux a propos de la plupart de ces affaires vont aller chercher aussi en entendance vocabulaire le crime du silence beaucoup d expressions autour de cette incapacite a parler a s exprimer a communiquer donc il y a plusieurs explications pour ca
+ref norm:         c est quelque chose qu on retrouve vraiment de maniere impressionnante les titres des journaux a propos de la plupart de ces affaires vont aller chercher aussi dans ce vocabulaire le crime du silence beaucoup d expression autour de cette incapacite a parler a s exprimer a communiquer donc il y a plusieurs explications pour ca
+
+ ------------------------------------------- 
+
+0.0
+line_id 7996129553
+transcript norm:  elle confirme qu une fois en 1999 son mari lui avait bien demande apres avoir remarque des rondeurs plus marquees que d habitude si elle n etait pas enceinte elle avait repondu que non peut etre qu il aurait pu insister mais il n avait jamais repose la question
+ref norm:         elle confirme qu une fois en 1999 son mari lui avait bien demande apres avoir remarque des rondeurs plus marquees que d habitude si elle n etait pas enceinte elle avait repondu que non peut etre qu il aurait pu insister mais il n avait jamais repose la question
+
+ ------------------------------------------- 
+
+3.6585365853658534
+line_id 7996199399
+transcript norm:  les medias continuent de s interroger sur les secrets d un crime qui n en finit pas de bousculer la societe la repulsion de l opinion publique pour veronique courgeot provient autant de l absence de reponse d evidence dans la justification du crime donne par la coupable que par le miroir deformant et detestable que cette femme renvoie henri leclerc l un des avocats de veronique dira ce n est pas une femme monstrueuse c est une femme douloureuse
+ref norm:         les medias continuent de s interroger sur les secrets d un crime qui n en finit pas de bousculer la societe la repulsion de l opinion publique pour veronique courjault provient autant de l absence de reponse d evidence dans la justification du crime donne par la coupable que par le miroir deformant et detestable que cette femme renvoie henri leclerc l un des avocats de veronique dira ce n est pas d une femme monstrueuse c est d une femme douloureuse
+
+ ------------------------------------------- 
+
+8.0
+line_id 7996116634
+transcript norm:  c est l avant derniere d une fratrie de sept enfants qui a toujours fait en sorte de ne pas pomper trop de place de ne pas etre un probleme pour ses parents qui ont beaucoup a gerer entre les vignes a qui ils s occupent et leur famille tres nombreuse et puis dans cette famille on cause peu son pere le dit au tribunal il y a de l amour mais pas beaucoup de communication
+ref norm:         c est l avant derniere d une fratrie de sept enfants qui a toujours fait en sorte de ne pas prendre trop de place de ne pas etre un probleme pour ses parents qui ont beaucoup a gerer entre les vignes dont ils s occupent et leurs familles tres nombreuses et puis dans cette famille on cause peu son pere le dit au tribunal il y a de l amour mais pas beaucoup de communication
+
+ ------------------------------------------- 
+
+10.416666666666668
+line_id 7996174135
+transcript norm:  et parmi elles la question de la place des femmes est centrale on pense bien sur a celles qui sont victimes de crimes de delits mais qu en est il des inculpes des prevenus des accuses de celles bien plus rares qui sont non pas victimes mais qu on a au coeur
+ref norm:         et parmi elles la question de la place des femmes est centrale on pense bien sur a celles qui sont victimes de crimes de delits mais qu en est il des inculpes des prevenus des accuses de celles bien plus rares qui sont non pas victimes mais coupables
+
+ ------------------------------------------- 
+
+0.0
+line_id 7996179214
+transcript norm:  parce que si la reconnaissance judiciaire encore timide des violences subies par les femmes temoignent d un mouvement de societe qu est ce que nous raconte la violence exercee par les femmes
+ref norm:         parce que si la reconnaissance judiciaire encore timide des violences subies par les femmes temoignent d un mouvement de societe qu est ce que nous raconte la violence exercee par les femmes
+
+ ------------------------------------------- 
+
+1.282051282051282
+line_id 8035166094
+transcript norm:  j aurais pu commencer cette sequence par il etait une fois une pomme qui un jour tomba sur la tete d un homme et paf l humanite fut dotee d une loi sur la gravitation universelle parce que c est un peu a ca qu on reduit newton et ses decouvertes aujourd hui alors je precise que cette histoire de pomme elle est serieusement remise en doute mais que l esprit fertile du scientifique lui est bien reel
+ref norm:         j aurais pu commencer cette sequence par il etait une fois une pomme qui un jour tomba sur la tete d un homme et paf l humanite fut dotee d une loi sur la gravitation universelle parce que c est un peu a ca qu on reduit newton et ses decouvertes aujourd hui alors je precise que cette histoire de pommes elle est serieusement remise en doute mais que l esprit fertile du scientifique lui est bien reel
+
+ ------------------------------------------- 
+
+0.0
+line_id 8035153799
+transcript norm:  isaac newton mathematicien physicien alchimiste astronome une personnalite complexe nous dit on a qui l on doit la celebre theorie de la gravitation universelle mais aussi d importants travaux qui influencent encore la science moderne comme le calcul infinitesimal la mecanique classique et toute une serie d inventions
+ref norm:         isaac newton mathematicien physicien alchimiste astronome une personnalite complexe nous dit on a qui l on doit la celebre theorie de la gravitation universelle mais aussi d importants travaux qui influencent encore la science moderne comme le calcul infinitesimal la mecanique classique et toute une serie d inventions
+
+ ------------------------------------------- 
+
+23.25581395348837
+line_id 8035113697
+transcript norm:  c est le numero un des mathematiciens et des physiciens du xviie siecle et que meme des fermat et des descartes en france ou encore un kepler en allemagne n arrivent pas a egaler en tout cas c est ce que pense jean doyen qui est professeur de mathematiques a l ulb avec qui j ai eu le plaisir d effeuiller la vie de ce genie scientifique
+ref norm:         c est le numero un des mathematiciens et des physiciens du 17 e siecle et que meme des fermat et des descartes en france ou encore un kepler en allemagne n arrivent pas a egaler en tout cas c est ce que je non c est pas moi ce qu il pense c est jean doyen c est ce que pense jean doyen qui est professeur de mathematiques a l ulb avec qui j ai eu le plaisir d effeuiller la vie de ce genie scientifique
+
+ ------------------------------------------- 
+
+14.285714285714285
+line_id 8035161512
+transcript norm:  on a entendu l aine prebature et on peut dire aussi que les premieres annees de sa vie ne sont pas tres folichonnes son pere meurt un peu avant sa naissance sa mere l abandonne a ses grands parents alors qu il n avait que deux ans pour epouser un pasteur du village voisin elle ne revient que neuf ans plus tard et donc newton est eleve par ses grands parents dans la ferme familiale ou il entame ses scolaires
+ref norm:         oui on l a entendu il est ne premature et on peut dire aussi que les premieres annees de sa vie ne sont pas tres folichonne son pere meurt un peu avant sa naissance sa mere l abandonne a ses grands parents alors qu il n avait que 12 ans pour epouser un pasteur du village voisin et elle ne revient que 9 ans plus tard et donc newton est eleve par ses grands parents dans la ferme familiale ou il entame sa scolarite
+
+ ------------------------------------------- 
+
+6.666666666666667
+line_id 8035181634
+transcript norm:  il y a un nombre incalculable de chiffres sans rature et c est assez joli aussi visuellement surtout quand on y comprend rien et sans machine pendant deux ans newton s est isole il est enferme dans un coin de sa ferme familiale il gribouille ses carnets alors que la peste seduit en angleterre et c est la qu il va developper jeter les premieres formules de sa theorie sur la gravitation universelle
+ref norm:         il y a un nombre incalculable de chiffres sans rature et c est assez joli aussi visuellement surtout quand on ne comprend rien et sans machine voila donc pendant deux ans newton s est isole il est enferme dans un coin de sa ferme familiale il grebouille ses carnets alors que la peste sevit en angleterre et c est la qu il va developper jeter les premieres formules de sa theorie sur la gravitation universelle
+
+ ------------------------------------------- 
+
+6.8181818181818175
+line_id 8035143813
+transcript norm:  alors je vais me lancer mais je n ai aucun merite un oran parce que je ne fais que repeter deux corps quelconques s attirent en raison directe de leur masse et en raison inverse du carre de la distance de leur center de gravite
+ref norm:         alors je vais me lancer mais je n ai aucun merite laurent parce que je ne fais que repeter de corps quelconques s attirent en raison directe de leur masse et en raison inverse du carre de la distance de leur center de gravite
+
+ ------------------------------------------- 
+
+8.47457627118644
+line_id 8035173904
+transcript norm:  et bien quasiment tout s est passe au cours de ces fameuses deux annees dans cette ferme tout seul pendant que la peste noire sevissait en angleterre donc entre 1665 et 1667 qu a t il fait une fois l epidemie passee et bien il est retourne au trinity college pour poursuivre donc sa carriere de scientifique
+ref norm:         eh bien quasiment tout s est passe au cours de ces fameuses deux annees dans cette ferme tout seul pendant que la peste noire s est vissee en angleterre donc entre 1665 et 1667 qu a t il fait une fois l epidemie passee eh bien il est retourne au trinity college pour poursuivre donc sa carriere de scientifique
+
+ ------------------------------------------- 
+
+8.620689655172415
+line_id 8035129326
+transcript norm:  oui c est ce que m expliquait jean doyen d ailleurs la depouille de newton est localisee a l abbaye de westminster ou il est enterre aux cotes des rois d angleterre et donc si vous passez par la vous pourrez admirer l imposante sculpture qui honore vraiment le genie qu il etait
+ref norm:         mais oui c est ce que nous enfin m expliquait jean doyen d ailleurs la depouille de newton est localisee a l abbaye de westminster ou il est enterre aux cotes des rois d angleterre et donc si vous passez par la et bien vous pourrez admirer l imposante sculpture qui honore vraiment le genie qu il etait
+
+ ------------------------------------------- 
+
+3.488372093023256
+line_id 8035198224
+transcript norm:  voila alors un petit bout des reflexions et de l heritage colossal de newton qui etait donc un vrai genie mais c est vrai qu on n en a pas parle il etait aussi repute pour sa personnalite peu commode fragile parfois on lui prete un temperament fort egocentrique solitaire on l a dit qui refusait la critique et qui etait aussi en proie a la depression qui a eu quelques episodes de fouilles au cours de sa vie donc le revers de la medaille du jeans
+ref norm:         voila alors un petit bout des reflexions et de l heritage colossal de newton qui etait donc un vrai genie mais c est vrai qu on n a pas parle il etait aussi repute pour sa personnalite peu commode fragile parfois on lui prete un temperament fort egocentrique solitaire on l a dit qui refusait la critique et qui etait aussi en proie a la depression qui a eu quelques episodes de folie au cours de sa vie donc le revers de la medaille du genie
+
+ ------------------------------------------- 
+
+3.571428571428571
+line_id 5911635413
+transcript norm:  donc c est une etude qui a ete faite en australie qui a apporte sur 25 0 dossiers et qui montre comme vous l avez dit que la maltraitance infantile serait responsable de 40% des troubles mentaux a l age adulte on parle principalement de l anxiete de la depression et de l abus de substances
+ref norm:         donc c est une etude qui a ete faite en australie qui a porte sur 25 0 dossiers et qui montre comme vous l avez dit que la maltraitance infantile serait responsable de 40% des troubles mentaux a l age adulte on parle principalement de l anxiete de la depression et de l abus de substance
+
+ ------------------------------------------- 
+
+4.3478260869565215
+line_id 5911626697
+transcript norm:  et donc quand on definit la maltraitance infantile dans cette etude en tout cas et c est interessant ca regroupe les abus physiques sexuels emotionnels mais aussi toute la dimension de la negligence emotionnelle ou physique qui est subie avant l age de 18 ans et qui est malheureusement souvent oubliee et en fait cette etude elle suggere que si on met en place une politique active de prevention dans l enfance on pourrait eviter rien qu en australie jusqu a 18000000 de cas de troubles mentaux a la pleine
+ref norm:         et donc quand on definit la maltraitance infantile dans cette etude en tout cas et c est interessant ca regroupe les abus physiques sexuels emotionnels mais aussi toute la dimension de la negligence emotionnelle ou physique qui est subie avant l age de 18 ans et qui est malheureusement souvent oubliee et en fait cette etude elle suggere que si on met en place une politique active de prevention dans l enfance on pourrait eviter rien qu en australie jusqu a 18000000 de cas de troubles mentaux a l age a vie
+
+ ------------------------------------------- 
+
+9.30232558139535
+line_id 5911675629
+transcript norm:  et on parle de prevention primaire secondaire et tertiaire la prevention primaire ca vise a empecher l apparition d un probleme ou d une maladie avant que ca ne se revienne prevention secondaire on va essayer de detecter et d intervenir le plus tot possible des le premier signe d un probleme afin de limiter son intensite et sa duree et puis la prevention tertiaire apres qu une maladie soit declaree qu elle ait ete traitee on va voir comment est ce qu on va eviter sa rechute
+ref norm:         et on parle de prevention primaire secondaire et tertiaire prevention primaire ca vise a empecher l apparition d un probleme ou d une maladie avant que ca survienne prevention secondaire on va essayer de detecter et d intervenir le plus tot possible des les premiers signes d un probleme afin de limiter son intensite et sa duree et puis la prevention tertiaire apres qu une maladie soit declaree et qu elle ait ete traitee on va voir comment est ce qu on va eviter sa rechute
+
+ ------------------------------------------- 
+
+2.666666666666667
+line_id 5911629895
+transcript norm:  si on prend l exemple de pompiers qui vont dans une ecole une prevention primaire ce serait on vient faire des formations sensibiliser les eleves prevention secondaire on installe les detecteurs de fumee et prevention tertiaire quand il y a eu le feu curatif on vient eteindre l incendie quand meme prevention tertiaire on aide a reconstruire et surtout a mettre des systemes en place plus performants pour que ca ne se reproduise pas
+ref norm:         si on prend l exemple de pompiers qui vont dans une ecole une prevention primaire ce serait on vient faire des formations sensibiliser les eleves prevention secondaire on installe des detecteurs de fumee et prevention tertiaire quand il y a eu le feu curatif on vient eteindre l incendie quand meme prevention tertiaire on aide a reconstruire et a surtout a mettre des systemes en place plus performants pour que ca ne se reproduise pas
+
+ ------------------------------------------- 
+
+10.526315789473683
+line_id 5911664456
+transcript norm:  predentions primaires tres classiques on parle des campagnes de sensibilisation les programs educatifs pour les parents la promotion d environnement familial au sein mais on pourrait aussi parler de la mise en place de politiques qui vont viser a soutenir les familles et a prevenir les situations a risque c est d ailleurs ce que propose cette etude
+ref norm:         prevention primaire tres classique on parle des campagnes de sensibilisation les programs educatifs pour les parents la promotion d environnement familiaux sains mais on pourrait aussi parler de la mise en place de politiques qui vont viser a soutenir les familles et a prevenir les situations a risque c est d ailleurs ce que propose cette etude
+
+ ------------------------------------------- 
+
+10.126582278481013
+line_id 5911647133
+transcript norm:  elle parle par exemple de mettre en place des services de garde d enfants abordables on sait en belgique que c est un gros probleme le manque de place dans les creches et bien en fait ce genre de situation c est le terreau pour des situations pour des problematiques potentielles d abus et de maltraitance parce que les enfants sont debordes ils ne savent pas quoi faire ils ne savent pas aller travailler et donc ca peut ressurgir selon .
+ref norm:         elle parle par exemple de mettre en place des services de garde d enfants abordables on sait en belgique c est un grand probleme le manque de place dans les creches et bien en fait ce genre de situation c est le terreau pour des situations pour des problematiques potentielles d abus et de maltraitance parce que les enfants sont debordes ils savent pas quoi faire ils savent pas aller travailler et donc ca peut resurgir sur l enfant
+
+ ------------------------------------------- 
+
+21.27659574468085
+line_id 5911633295
+transcript norm:  dans le meme ordre d idee on pourrait trouver utile d offrir des moments de repit pour les patients qui sont pour un patient pour un parent mon petit lapsus pour un parent qui sont deverdes et qui sont sans soutien parce qu ils n ont pas eux memes de grands parents
+ref norm:         dans le meme ordre d idee on pourrait trouver utile d offrir des moments de repit pour les patients pour les parents mon petit lapsus pour les parents qui sont debordes et qui sont sans soutien parce qu ils n ont pas eux memes de grands parents
+
+ ------------------------------------------- 
+
+8.620689655172415
+line_id 5911680626
+transcript norm:  alors la on peut le voir du cote toujours des parents comment est ce qu on peut ameliorer les methodes de depistage precoces aux premiers signes de maltraitance et aussi offrir des modalites d intervention rapide de nouveau ici en belgique ce n est pas gagne puisque tous les services d aide a la jeunesse sont assez debordes c est vrai
+ref norm:         alors la on peut le voir du cote toujours des parents comment est ce qu on peut ameliorer les methodes de depistage precoces aux premiers signes de maltraitante et aussi offrir des modalites d intervention rapides de nouveau ici en belgique ce n est pas gagne puisque tous les services d aide a la jeunesse sont assez debordes
+
+ ------------------------------------------- 
+
+14.285714285714285
+line_id 5911634255
+transcript norm:  mais la on pourrait du coup se focaliser sur les enseignants sur les medecins de premiere ligne le medecin generaliste de famille les pms les centers psychomedicaux les centers psychomedicaux sociaux pour voir comment ils peuvent reperer les signes et puis surtout comment les signaler
+ref norm:         mais la on pourrait du coup se focaliser sur les enseignants sur les medecins de premiere ligne les medecins generalistes de famille les pms les centers psychomedicaux sociaux pour voir comment ils peuvent reperer les signes et puis surtout comment les signaler
+
+ ------------------------------------------- 
+
+5.154639175257731
+line_id 5911685364
+transcript norm:  mais on peut egalement parler de l enfant de voir comment est ce qu on peut l accompagner lui meme parce que c est vrai qu on se sent demunie en puissant et on veut plutot mettre ca a distance alors qu en fait mes patients adultes qui ont vecu ces situations dans l enfance temoignent de leur grande solitude et temoignent de comment rien qu un petit accompagnement d etre la d offrir un moment de repit de joie de tranquillite ca leur a apporte beaucoup donc d etre present a leur cote compte enormement
+ref norm:         mais on peut egalement parler de l enfant de voir comment est ce qu on peut l accompagner lui meme parce que c est vrai qu on se sent diminue impuissant et on veut plutot mettre ca a distance alors qu en fait et la mes patients adultes qui ont vecu ces situations dans l enfance temoignent de leur grande solitude et temoignent de comment rien qu un petit accompagnement d etre la d offrir un moment de repit de joie de tranquillite ca leur a apporte beaucoup donc d etre present a leur cote compte enormement
+
+ ------------------------------------------- 
+
+6.944444444444445
+line_id 5911615826
+transcript norm:  eh bien evidemment la reponse est dans les questions peut etre les deux on a tout le soutien psychologique de reinsertion pour les victimes mais aussi et c est tres important des initiatives pour eviter la recurrence de la maltraitance dans le chef des auteurs parce qu il y a un moyen d agir et d intervenir pour essayer d eviter c est la prevention tercere que ca ne se reproduise dans l avenir
+ref norm:         et bien evidemment la reponse est dans la question peut etre les deux on a tout le soutien psychologique de reinsertion pour les victimes mais aussi c est tres important des initiatives pour eviter la recurrence de la maltraitance dans le chef des auteurs parce qu il y a moyen d agir et d intervenir pour essayer d eviter c est la prevention tercere que ca ne se reproduise dans l avenir
+
+ ------------------------------------------- 
+
+16.0
+line_id 1516595362
+transcript norm:  soudain la memoire me revient c est mon premier jour dans ma toute nouvelle fonction professor apres une longue et malheureuse experience dans une boite de consultance avec un patron laid et con je suis decidee de changer de vie et je suis revenue a me faire mes amours yass
+ref norm:         soudain la memoire me revient c est mon premier jour dans ma toute nouvelle fonction professor apres une longue et malheureuse experience dans une boite de consultance avec un patron laid et con j ai decide de changer de vie et je suis revenue a mes premiers amours l art
+
+ ------------------------------------------- 
+
+2.912621359223301
+line_id 1516585699
+transcript norm:  j ai envoye mon cv dans quelques universites en tant que professeur d histoire de l art et a mon grand etonnement l une d entre elles m a tres vite recontactee et deux semaines plus tard mon contrat a ete signe une nouvelle vie commencait pour moi et pas que professionnelle d ailleurs apres 6 annees avec thomas un casanier de premiere qui passait son temps a jouer sur son ordi et qui commencait toutes ses phrases par oui mais vous les bonnes femmes j ai pris mes cliquets et mes claques un matin et je ne suis jamais revenue quel soulagement
+ref norm:         j ai envoye mon cv dans quelques universites en tant que professeur d histoire de l art et a mon grand etonnement l une d entre elles m a tres vite recontacte et deux semaines plus tard mon contrat a ete signe une nouvelle vie commencait pour moi et pas que professionnelle d ailleurs apres 6 annees avec thomas un casanier de premiere qui passait son temps a jouer sur son ordi et qui commencait toutes ses phrases par oui mais vous les bonnes femmes j ai pris mes clics et mes claques un matin et je ne suis jamais revenu quel soulagement
+
+ ------------------------------------------- 
+
+5.208333333333334
+line_id 1516517904
+transcript norm:  ce qui est cool avec ce nouveau job c est qu il se trouve dans la ville ou j ai fait mes etudes la ou j ai mes plus beaux souvenirs j ai vite retrouve plein d amis de l epoque et puis mes petites habitudes les restos les bars la vie nocturne evidemment j ai trouve un tout petit penthouse dans une super copropriete et j ai saute sur l occasion nouveau boulot nouvelle ville nouvel appart manque plus qu un nouveau mec mais dans mon nouvel environnement ce n est qu une question de temps
+ref norm:         ce qui est cool avec ce nouveau job c est qu il se trouve dans la ville ou j ai fait mes etudes la ou j ai mes plus beaux souvenirs j ai vite retrouve plein d amis de l epoque et puis mes petites habitudes les restos les bars la vie nocturne evidemment j ai trouve un petit penthouse dans une super copropriete et j ai saute sur l occasion nouveau boulot nouvelle ville nouvelle appart manque plus qu a nouveaux mecs mais dans mon nouvel environnement ce n est qu une question de temps
+
+ ------------------------------------------- 
+
+7.8125
+line_id 1516562214
+transcript norm:  la je suis sur ma terrasse un cafe a la main et je fais mon matting c est le nom que j ai trouve quand je mat les mecs mon cafe du matin a la main j intercois au loin mon voisin samy du deuxieme qui part travailler sur sa moto il est chef dans un resto si j ai bien compris dans un iq
+ref norm:         la je suis sur ma terrasse un cafe a la main et je fais mon matting c est le nom que j ai trouve quand je mate les mecs mon cafe du matin a la main j apercois au loin mon voisin samy du deuxieme qui part travailler sur sa moto il est chef dans un resto si j ai bien compris joli cul
+
+ ------------------------------------------- 
+
+9.836065573770492
+line_id 1516526912
+transcript norm:  c est celui que je croise le moins dans l immeuble peut etre qu il a une copine mes voisins dans l immeuble sont tous super sympas d ailleurs samedi prochain ils organisent un barbe de cul en mon honneur si c est pas chou ca il y a une petite cour commune au la tchresse avec une pergola recouverte de jasmin
+ref norm:         c est celui que je croise le moins dans l immeuble peut etre qu il a une copine mes voisins dans l immeuble sont tous super sympas d ailleurs samedi prochain ils organisent un barbecue en mon honneur si c est pas chou ca il y a une petite cour commune au rez de chaussee avec une pergola recouverte de jasmin
+
+ ------------------------------------------- 
+
+2.3529411764705883
+line_id 1516525648
+transcript norm:  c est un mini ecrin de verdure j adore je crois que le coup de coeur que j ai eu pour ce lieu c est avant tout pour les gens et l ambiance qui y regne 7 h 5 deja ah faut que je me leve soudain je realize que je n ai aucune idee de ce qui m attend pour ce premier jour dans cette ecole et je sens le stress monter ah il faut que je me detende sinon ces jeunes vont trop me capter
+ref norm:         c est un mini ecrin de verdure j adore je crois que le coup de coeur que j ai eu pour ce lieu c est avant tout pour les gens et l ambiance qui y regne 7 h 5 deja faut que je me leve soudain je realize que je n ai aucune idee de ce qui m attend pour ce premier jour dans cette ecole et je sens le stress monter il faut que je me detende sinon ces jeunes vont trop me capter
+
+ ------------------------------------------- 
+
+11.475409836065573
+line_id 1516559758
+transcript norm:  il parait que les etudiants c est comme les fauves ils me sentent quand on a peur et ils en profitent faut vraiment que j ai l air sure de moi sinon ils vont me transformer en charpille je connais la recette miracle pour affronter cette journee avec serenite allez chloe detends toi je me donne 15 minutes t as une de plus
+ref norm:         il parait que les etudiants c est comme les fauves ils sentent quand on a peur ils en profitent il faut vraiment que j aie l air sur de moi sinon ils vont me transformer en charpille je connais la recette miracle pour affronter cette journee avec serenite allez chloe detends toi je me donne 15 minutes pas une de plus
+
+ ------------------------------------------- 
+
+1.6129032258064515
+line_id 1516511849
+transcript norm:  toujours sur ma terrasse je regarde a gauche puis a droite seul le ciel pour temoin raison pour laquelle cette terrasse m a plu je respire profondement pose mon pied droit sur la chaise face a moi j ecarte les jambes et me voila prete a me projeter dans mes fantasmes je hesite de quoi ai je envie aujourd hui de qui
+ref norm:         toujours sur ma terrasse je regarde a gauche puis a droite seul le ciel pour temoin raison pour laquelle cette terrasse m a plu je respire profondement pose mon pied droit sur la chaise face a moi j ecarte les jambes et me voila prete a me projeter dans mes fantasmes j hesite de quoi ai je envie aujourd hui de qui
+
+ ------------------------------------------- 
+
+10.76923076923077
+line_id 1516512862
+transcript norm:  juste un corps chaud des abdos magnifiquement dessines les doigts tremblent l air frais du matin fait durcir la pointe de mes seins qu est ce que j aime cette sensation tout a coup un flash il n y a plus de penis conquerant mais je m imagine devant toute une classe de jeunes hommes excites le regard fivreux les corps mutes a leurs hormones
+ref norm:         juste un corps chaud des abdos magnifiquement dessines mes doigts tremblent l air frais du matin fait durcir la pointe de mes seins qu est ce que j aime cette sensation tout a coup un flash il n y a plus de penis conquerant mais je m imagine devant toute une classe de jeune homme excite le regard fievreux les corps mus par leurs hormones
+
+ ------------------------------------------- 
+
+15.686274509803921
+line_id 1516510393
+transcript norm:  ca m excite terriblement je me vois coucher sur mon bureau completement nu les jambes ecartees encerclees ont l attinite a leur merci leurs regards sont assoiffes dans leurs pantalons trop serres j apercois leurs membres au durci traites exploses ca me rend dingue ma excitation ruisselle le long de mes cuisses
+ref norm:         ca m excite terriblement je me vois coucher sur mon bureau completement nu les jambes ecartees encerclees mon intimite a leur merci leurs regards sont assoiffes dans leurs pantalons trop serres j apercois leurs membres durcir traites a exploser ca me rend dingue mon excitation ruisselle le long de mes cuisses
+
+ ------------------------------------------- 
+
+5.88235294117647
+line_id 1516515458
+transcript norm:  pourtant continuant a onduler mon corps une violente secousse me saisit je me tortille comme un petit ver de terre je sens la chaleur envahir le bas de mon ventre sous la pression de plus en plus forte de mes doigts je les tourne de plus en plus vite soudain je sens deux mains m attraper les chevilles pour ecartiner mes jambes encore plus comme si je n etais pas assez ouverte a eux deux hommes plus timides decident de s occuper de mes seins
+ref norm:         tout en continuant a onduler mon corps une violente secousse me saisit je me tortille comme un petit verre de terre je sens la chaleur envahir le bas de mon ventre sous la pression de plus en plus forte de mes doigts je les tourne de plus en plus vite soudain je sens deux mains m attraper les chevilles pour ecarter mes jambes encore plus comme si je n etais pas assez ouverte a eux deux hommes plus timides decident s occuper de mes seins
+
+ ------------------------------------------- 
+
+9.58904109589041
+line_id 1516548148
+transcript norm:  l ame le caresse delicatement et l ile autre me tasse le meme long avec fermete ce qui fait echapper mon premier cri de plaisir c est la que je me cambre encore plus en balancant ma tete vers l arriere et que le plus courageux s avance vers moi d un geste decide enleve ma main glisse les siennes sous mes fesses ma grippe souleve mon bassin pour n en perdre aucune niaise
+ref norm:         l un me le caresse delicatement et l autre me pince le mamelon avec fermete ce qui fait echapper mon premier cri de plaisir c est la que je me cambre encore plus en balancant ma tete vers l arriere et que le plus courageux s avance vers moi d un geste decide enleve ma main glisse les siennes sous mes fesses ma grippe souleve mon bassin pour n en perdre aucune miette
+
+ ------------------------------------------- 
+
+20.0
+line_id 1516542846
+transcript norm:  atroche sa bouche un lieu se penche entre mes cuisses comme un chat qui s attrait a later son lait plance son visage en m atoison humide avale la premiere tournee de mon desir et m aspire son ardeur a se desalterer a meme la source comme si sa vie en detendait
+ref norm:         approche sa bouche charnue se penche entre mes cuisses comme un chat qui s apprete a laper son lait plonge son visage en matoisons humides avale la premiere tournee de mon desir et m aspire son ardeur a se desaltere a meme la source comme si sa vie en detendait
+
+ ------------------------------------------- 
+
+6.382978723404255
+line_id 1516528939
+transcript norm:  je suis completement prisonniere de leurs mains de sa bouche tel un vampire assoiffe mon corps fissonne ma cuisse droite se met a trembler mon corps s agite je ne maitrise plus rien mes chevilles enfin liberees j enroule mes jambes autour du cou de mon bien fetard
+ref norm:         je suis completement prisonniere de leurs mains de sa bouche tel un vampire assoiffe mon corps frissonne ma cuisse droite se met a trembler mon corps s agite je ne maitrise plus rien mes chevilles enfin liberees j enroule mes jambes autour du cou de mon bienfaiteur
+
+ ------------------------------------------- 
+
+6.944444444444445
+line_id 1516579619
+transcript norm:  j ouvre enfin les yeux le chant d un moineau me ramene a la realite je tourne la tete vers mon reveil 7 h 250 merde je vais etre en retard c est pas cool pour le premier jour je me leve en sursaut mon regard croise dans le miroir et une tete aux cheveux hirsites et au sourire un peu gene a part les cheveux le portrait me plait assez bien
+ref norm:         j ouvre enfin les yeux le chant d un moineau me ramene a la realite je tourne la tete vers mon reveil 7 heures 250 merde je vais etre en retard ce n est pas cool pour le premier jour je me leve en sursaut mon regard croise dans le miroir une tete aux cheveux hirsute et au sourire un peu gene a part les cheveux le portrait me plait assez bien
+
+ ------------------------------------------- 
+
+23.214285714285715
+line_id 1516512205
+transcript norm:  je saute sous ma douche caresse une derniere fois ma vie le vent qu on enflait j enfile une robe me contemple une derniere fois devant le miroir sors un crayon avec lequel j attache mes cheveux ce serait ma petite souche artistique aujourd hui j arrive en courant dans le couloir de ma classe
+ref norm:         je saute sous ma douche car c est une derniere fois ma vulve encore enflee j en fais une robe je me contemple une derniere fois devant le miroir sors un crayon avec lequel j attache mes cheveux ce serait ma petite touche artistique aujourd hui j arrive en courant dans le couloir de ma classe
+
+ ------------------------------------------- 
+
+8.19672131147541
+line_id 1516583085
+transcript norm:  suante et essoufflee je m arrete devant la porte j inspire profondement rene peut m empecher de visualiser a nouveau ma petite evasion matinale je sens monter de la classe l odeur de la testosterone je jette un dernier coup d oeil a ma robe boutonnee un peu trop strictement defait un bouton pour liberer la naissance de mes seins
+ref norm:         suante et essoufflee je m arrete devant la porte je respire profondement je ne peux m empecher de visualiser a nouveau ma petite evasion matinale je sens monter de la classe l odeur de la testosterone je jette un dernier coup d oeil a ma robe boutonnee un peu trop strictement defait un bouton pour liberer la naissance de mes seins
+
+ ------------------------------------------- 
+
+12.162162162162163
+line_id 1516581826
+transcript norm:  0 et puis pourquoi pas deux ma poitrine voluptueuse se sent tout a coup plus eleze parfait je pousse la porte et j entre conquerante et face a un auditoire ebahi je ne peux m empecher de sourire devant une classe entierement composee de filles je repense a ma petite parenthese erotique mais qu est ce que je m etais imaginee avec tout ca j ai manouque mes scrimculottes
+ref norm:         0 et puis pourquoi pas deux ma poitrine voluptueuse se sent tout a coup plus a l aise parfait je pousse la porte et j entre conquerante et face a un auditoire ebahi je ne peux m empecher de sourire devant une classe entierement composee de filles je repense a ma petite parenthese erotique mais qu est ce que je m etais imaginee avec tout ca j ai meme oublie de mettre une culotte
+
+ ------------------------------------------- 
+
+22.22222222222222
+line_id 5730887360
+transcript norm:  tu m appelles jade j ai 20 ans j ai commence l universite en septembre mais j ai arrete a cause du gouvernement je suis venue ici pour parler un peu de melancolie d association de crise existentielle du passage a la gentillesse
+ref norm:         je m appelle jade j ai 20 ans j ai commence l universite en septembre mais j ai vite arrete a cause du covid et je suis venue ici pour parler un peu de melancolie dissociation de crise existentielle du passage a l age adulte
+
+ ------------------------------------------- 
+
+10.606060606060606
+line_id 5730846719
+transcript norm:  j ai eu des symptomes depressifs comme la fatigue la tristesse permanente voire envie de me cuire on peut tout ca mais je n ai pas eu vraiment un diagnostic de depression parce que j ai l impression que j etais plus dans une sorte d anxiete existentielle moi j etais comme une pile electrique il y avait peur de tout meme si j etais calme etc
+ref norm:         j ai eu des symptomes depressifs comme la fatigue la tristesse permanente avoir envie de mourir enfin un peu tout ca mais je n ai pas eu vraiment un diagnostic de depression parce que j ai l impression que j etais plus dans une sorte d anxiete existentielle moi j etais comme une pile electrique qui avait peur de tout meme si j etais calme etc
+
+ ------------------------------------------- 
+
+15.555555555555555
+line_id 5730863925
+transcript norm:  je n ai pas souffert du covid en lui meme mais plus ses consequences par exemple le fait que j ai commence l universite j etais super a l ip j etais contente mais ca a directement ete du distanciel et pour moi ce n etait pas possible
+ref norm:         j en ai pas souffert du covid en lui meme mais plus ses consequences par exemple le fait que j ai commence l universite j etais super hypee j etais contente mais ca a directement ete du distanciel et pour moi c etait pas possible
+
+ ------------------------------------------- 
+
+31.48148148148148
+line_id 5730845070
+transcript norm:  en fait j ai commence a fumer vers avril 2020 donc oui plus ou moins au debut de la pandemie on s est alle j aimais bien fumer je n etais pas accro quand je suis mettante je vois mes amis ou mes potes que je vois de temps en temps
+ref norm:         en fait j ai commence a fumer vers avril 2020 donc oui plus ou moins debut de la pandemie ca allait enfin j aimais bien fumer mais je n etais pas accro ou quoi je fumais de temps en temps avec mon meilleur ami ou mes potes que je vois de temps en temps
+
+ ------------------------------------------- 
+
+12.0
+line_id 5730831008
+transcript norm:  mais vers la fin des grandes vacances je commencais a acheter beaucoup des que je voyais quelqu un je me disais il faudrait que j aille acheter et des fois quand je n avais pas d argent que les gens disaient je n ai pas de bain je n avais pas envie d y aller en tout cas c est ma faute mais je ne faisais rien a part voir des gens fumer voir des gens fumer et le truc c est que le cannabis pour le cerveau ce n est pas ouf et c est la que les problemes ont commence
+ref norm:         mais vers la fin des grandes vacances je commencais a acheter beaucoup des que je voyais quelqu un je me disais il faudrait que j aille acheter et des fois quand je n avais pas d argent ou que les gens me disaient j ai pas de beugles j avais pas envie d y aller en meme temps c est ma faute mais je faisais rien a part voir des gens fumer voir des gens fumer et le truc c est que le cannabis pour le cerveau c est pas ouf et c est la que les problemes ont commence
+
+ ------------------------------------------- 
+
+27.27272727272727
+line_id 5730841886
+transcript norm:  c etait un soir en fevrier ou j ai fume toute seule je le fais tres rarement pour acheter la bombe je me suis un petit jour ma pote m en avait laisse ensuite je ne sais pas je m etais juste ah tiens c etait une bonne journee j ai range ma chambre je regarde un truc j ai pucine comme je le faisais j ai passe une bonne journee avec moi meme et juste ca je pense cette chose la j ai passe une bonne journee avec moi meme c est ma route route de journee
+ref norm:         en fait c etait un soir en fevrier ou j avais fume toute seule je le faisais tres rarement enfin j etais la bombe je fumais un petit joint mais ma pote m en avait laisse un ensuite je sais pas je me dis juste ah tiens c etait une bonne journee j ai range ma chambre je regarde un truc j ai cuisine enfin je me disais j ai passe une bonne journee avec moi meme et juste ca je pense que cette chose la j ai passe une bonne journee avec moi meme ca m a retournee
+
+ ------------------------------------------- 
+
+23.076923076923077
+line_id 5730837172
+transcript norm:  je partais dans un delire de mais on est gene tout seul ca arrive en deux philosophies quand on est defonce c est normal mais j avais l impression vraiment d une facon imaginaire de voir comme mon cerveau et il y avait une petite partie a droite qui comme c etait craque et qui etait devenue qui est gardee
+ref norm:         je partais dans un delire de mais on n est jamais tout seul enfin ca arrive de philosopher quand on est defoncee c est normal mais j avais l impression vraiment d une facon imagee a l interieur de voir comme mon cerveau et il y avait une petite partie a droite qui comme c etait craque et qui etait devenue quelqu un d autre
+
+ ------------------------------------------- 
+
+22.68041237113402
+line_id 5730887176
+transcript norm:  mais pourtant je sais que non c etait moi je regardais ma main je me disais c est pas ma main je savais que si je faisais ca c etait mon cerveau qui m envoyait les connections etc mais c est pas moi je commencais a parler tout seul dans ma tete et je t avais tetoue j entendais meme pas ma television parce que tellement j entendais des trucs tellement pourtant j etais dans une cage qui n est pas la tienne alors que c est une cle de corps
+ref norm:         mais pourtant je sais que non c etait moi je regardais ma main je me disais mais c est pas ma main je savais que si je faisais ca c etait mon cerveau qui avait envoye les connections etc mais ce n est pas moi je commencais a parler tout seul dans ma tete et je me disais tais toi je n entendais meme pas a ma television parce que tellement j entendais des trucs j avais l impression d etre piegee dans une cage qui n est pas la tienne alors que c est ton corps
+
+ ------------------------------------------- 
+
+23.076923076923077
+line_id 5730869363
+transcript norm:  c est petit a petit que je commencais a un peu me deconnecter de la realite je ne me rendais pas compte que maintenant apres des mois je me rends compte que ca n a pas debute a un moment precis mais que c etait deja la depuis quelque temps mais je ne me rendais pas compte
+ref norm:         c est petit a petit que j ai commence a un peu a me deconnecter de la realite enfin je ne m en rendais pas compte c est que maintenant apres des mois que je m en compte que ca n a pas debute a un moment precis mais que c etait deja la depuis quelques temps mais je ne m en rendais pas compte
+
+ ------------------------------------------- 
+
+30.612244897959183
+line_id 5730881930
+transcript norm:  j elevais tout et des pretextes a me faire philosopher sur tout et n importe quoi je me levais le matin je me disais mais quand je vais mourir je me reveillais en pleine nuit je pensais a ca
+ref norm:         je ne sais pas tout et des pretextes a me faire philosopher sur tout n importe quoi a me faire pleurer a me faire avoir peur je me levais le matin je me disais mais comment je vais mourir je me reveillais en pleine nuit je pensais a ca
+
+ ------------------------------------------- 
+
+12.222222222222221
+line_id 5730859383
+transcript norm:  chaque fois que je voyais quelqu un dans la rue ca me rappelait qu il allait mourir que j allais mourir aussi je voyais des personnes agees je me disais mais c est horrible elle a soin des petits enfants elle va mourir dans deux mois ces petits enfants vont etre tristes ca parait idiot mais je voyais du chien je me disais mais c est horrible ils ont l air tellement chouettes et avant ils vont mourir je sais que ca a une affaire avec un tion patron
+ref norm:         chaque fois que je voyais quelqu un dans la rue ca me rappelait qu il allait mourir que j allais mourir aussi je voyais des personnes agees je me disais mais c est horrible elle a surement des petits enfants elle va mourir dans deux mois ces petits enfants vont etre tristes ca parait idiot mais je voyais des chiens je me disais mais c est horrible ils ont l air tellement chouettes et un jour ils vont mourir je sais que ca a l air on comprend pas trop
+
+ ------------------------------------------- 
+
+11.904761904761903
+line_id 5730891312
+transcript norm:  j ai vu pas de personnes qui comprenaient ca mais en fait c est un peu des pensees intrusives comme ca qui venaient toute la journee mais sauf que c etait incontrolable et c etait toujours relie au fait que j allais mourir je me range sur mon lit j entends mon coeur qui bat je le sens et j ai trouve une position confortable pour ne pas l entendre parce que ca me pese je peux etre en chuchot je vais disparaitre
+ref norm:         j ai vu peu de personnes qui comprenaient ca mais en fait c est un peu des pensees intrusives comme ca qui venaient toute la journee sauf que c etait incontrolable et c etait toujours relie au fait que j allais mourir souvent je suis sur mon lit et j entends mon coeur qui bat je le sens et j ai trouve une position confortable pour pas l entendre parce que ca me pese comment je peux etre en vie je vais me disparaitre
+
+ ------------------------------------------- 
+
+18.181818181818183
+line_id 5730816909
+transcript norm:  quand on pense a la mort du consoi le matin c est pas chouette et puis apres comme apres ca j etais dans une derealisation complete tout le temps
+ref norm:         quand on pense a la mort des qu on se reveille le matin c est pas chouette et puis apres comme apres ca j etais oui dans une derealisation complete tout le temps
+
+ ------------------------------------------- 
+
+7.6923076923076925
+line_id 5730877033
+transcript norm:  lors d une derealisation on a un sentiment de detachement de son environnement tout devient plus etrange et reel il dirait qu on est dans un reve eveille et tout semble etrange au point de devenir un peu en cauchemar
+ref norm:         lors d une derealisation on a un sentiment de detachement de son environnement tout devient plus etrange irreel on dirait qu on est dans un reve eveille et tout semble etrange au point de devenir un peu en cauchemar
+
+ ------------------------------------------- 
+
+10.81081081081081
+line_id 5730839327
+transcript norm:  je pouvais reconnaitre les personnes qui etaient devant moi ce que j avais vecu avec et j avais comme l impression que c etait fou ou que c etait une illusion j avais peur devant mes amis parce que je sentais que j etais en pilote automatique c est comme si tout ce que je disais etait bien reel sincere etc ce n est pas mon role mais ce n est pas moi qui le dis
+ref norm:         je pouvais reconnaitre les personnes qui etaient devant moi ce que j avais vecu avec j avais comme l impression que c etait faux ou juste une illusion j avais peur de voir mes amis parce que je sentais que j etais en pilote automatique c est comme si tout ce que je disais etait bien reel sincere etc ce n est pas un role mais ce n est pas moi qui le dis
+
+ ------------------------------------------- 
+
+11.666666666666666
+line_id 5730839020
+transcript norm:  je me regarde parler je m entends parler mais c est comme s il y avait un flou entre moi qui regarde qui ecoute etc et moi qui parle je n invente pas ce que je dis ce n est pas moi qui le dis c est le corps qui s occupe des blattes et des trucs
+ref norm:         je me regarde parler je m entends parler mais c est comme s il y avait un flou oui entre moi qui constate qui regarde qui ecoute etc et moi qui parle je n invente pas ce que je dis mais ce n est pas moi qui le dis c est le corps qui s occupe d eblaterer des trucs
+
+ ------------------------------------------- 
+
+6.8181818181818175
+line_id 5730853362
+transcript norm:  je suis sous une chaise en tout petit au fond de ma tete et je suis spectatrice de ma vie et de ce qui m entoure et en plus de tout ca ca a l air fou et on dirait que c est un reve
+ref norm:         je suis sur une chaise en tout petit au fond de ma tete et je suis spectatrice de ma vie de ce qui m entoure et en plus de tout ca ca a l air faux et on dirait que c est un reve
+
+ ------------------------------------------- 
+
+26.666666666666668
+line_id 5730821048
+transcript norm:  lorsque j ai eu de la canse a un moment j allais pas bien du tout je pleurais toute la journee j avais peur de tout je faisais des cles ou je hurlais c etait horrible ma maman a pense a l hopital psychiatrique
+ref norm:         lorsque j ai commence a comprendre que je n allais pas bien du tout que je pleurais toute la journee que j avais peur de tout de je faisais des crises ou je hurlais c etait horrible ma maman a pense a l hopital psychiatrique
+
+ ------------------------------------------- 
+
+8.928571428571429
+line_id 5730876934
+transcript norm:  je pense que ce n est pas une mauvaise idee mais je n avais pas envie de m entourer avec des gens qui etaient aussi mal que moi elle m a propose d aller voir un medecin traitant pour voir si je pouvais avoir des medicaments j ai eu un antidepresseur et un anxiolytique
+ref norm:         je pense que ce n est pas une mauvaise idee mais je n avais pas envie de me retenir avec des gens qui etaient aussi mal que moi mais donc elle m a propose d aller voir mon medecin traitant pour voir si je pouvais avoir des medicaments j ai eu un antidepresseur et un anxiolytique
+
+ ------------------------------------------- 
+
+9.67741935483871
+line_id 5730881636
+transcript norm:  je sais que ca fait un peu peur dit comme ca on a beaucoup d a priori sur les medicaments je pense que c est quand meme mieux d en avoir que de ne pas du tout mais moi je suis confiante avec ce que j ai puisque je suis quand meme des petites doses et ca m a quand meme rapidement calmee
+ref norm:         alors je sais que ca fait un peu peur dit comme ca on a beaucoup d a priori sur les medicaments je pense que c est quand meme mieux d en avoir que pas du tout mais moi je suis confiante avec ce que j ai puisque j ai quand meme des petites doses et ca m a quand meme rapidement calme
+
+ ------------------------------------------- 
+
+19.718309859154928
+line_id 5730899618
+transcript norm:  mais le mal etre est toujours la et c est ca que je trouve le plus dur ce n est pas de me dire que pendant plusieurs semaines j etais fatiguee ou que je pleurais un peu tout le temps c est plus que ca me dit j ai mon approche a la vie a la mort j ai un peu que je ne veux pas tomber en arriere apres avoir vu ce que j ai vu
+ref norm:         mais le mal etre est toujours la et c est ca je trouve qui est le plus dur ce n est pas de me dire que pendant plusieurs semaines j etais fatiguee ou que je pleurais un peu tout le temps c est plus que ca a modifie mon approche a la vie a la mort je ne peux pas retourner en arriere apres avoir vu ce que j ai vu
+
+ ------------------------------------------- 
+
+5.454545454545454
+line_id 5730890272
+transcript norm:  j ai eu un element declencheur dans la crise sanitaire mon addiction les debuts de l anxiete de la dissociation etc mais je n ai pas eu de viol d agression d autres choses comme ca j ai eu des petites trucs dans mon enfance qui ont fait que je ne lache pas toujours joyeuse
+ref norm:         j ai eu un element declencheur donc la crise sanitaire mon addiction les debuts de l anxiete de la dissociation etc mais je n ai pas eu de viol d agression d autres choses comme ca j ai eu des petits trucs dans mon enfance qui ont fait que je ne suis pas toujours joyeuse
+
+ ------------------------------------------- 
+
+4.25531914893617
+line_id 5730815266
+transcript norm:  mais je n ai rien eu de foncierement grave ce qu on aurait imagine comme grave mais je pense juste que c est le passage la transition que j ai faite j aurais pu en avoir une meilleure qui m aurait ete plus benefique que celle ci
+ref norm:         mais je n ai rien eu de foncierement grave ce qu on pourrait imaginer comme grave mais je pense juste que c est le passage la transition que j ai faite j aurais pu en avoir une meilleure qui m aurait ete plus benefique que celle ci
+
+ ------------------------------------------- 
+
+16.666666666666664
+line_id 5730897776
+transcript norm:  je suis sure que s il n y avait pas eu le corona j aurais juste fini ma reto je serais a l unif j aurais peut etre pas aime mais j aurais cette idee que rien n est possible et que je ne vais rien faire de ma vie c est vraiment que je laisse le temps pour que je pense a plein de choses et que je pense peut etre un peu de tout
+ref norm:         moi je suis sure que s il n y avait pas eu le corona j aurais juste fini ma retau je serais allee a l unif j aurais peut etre pas aime mais j aurais au moins eu cette idee que rien n est possible et que je vais rien faire de ma vie ca a vraiment juste laisse le temps pour que je pense a plein de choses et que je pense peut etre un peu trop
+
+ ------------------------------------------- 
+
+11.76470588235294
+line_id 5730830548
+transcript norm:  les choses que j ai envie de faire c est de voyager bon ca parait niais et un peu basique mais je travaille au japon surtout en haiti j ai l impression qu en fait si je voyage que je vois de nouveaux paysages je vis reellement je ne sais pas c est un peu comme si c etait le contraire sortir de ma zone
+ref norm:         les reelles choses que j ai envie de faire c est de voyager enfin ca parait niais et un peu basique mais je voudrais bien aller au japon surtout en asie j ai l impression qu en fait si je voyage que vraiment je vois de nouveaux paysages je vis reellement je sais pas c est un peu comme si c etait le contraire sortir de ma zone
+
+ ------------------------------------------- 
+
+13.20754716981132
+line_id 5730876564
+transcript norm:  voir des nouvelles choses qui pourraient me choquer a l oeil je ne sais pas comment dire ca mais ca pourrait me sortir un peu de cette dissociation et me faire revenir au reel parce que je placerais mes pieds a mourir etc je pensais a ce que je vois en l instant
+ref norm:         voir des nouvelles choses qui pourraient comme me choquer a l oeil je sais pas comment dire ca mais ca pourrait me sortir un peu de cette dissociation et me faire revenir au reel parce que je penserais meme plus a mourir etc je penserais a ce que je vois a l instant
+
+ ------------------------------------------- 
+
+10.0
+line_id 5730824165
+transcript norm:  une des choses qui fait que j ai pas trop envie de me suicider qui me raccroche un peu a la vie c est les reves que je fais pendant la nuit c etait pas cette nuit c est la nuit d avant que j ai reve que je revoyais des eleves de ma 6 e primaire et au moment il y en a qui se sont dit 0 venez on fait une soiree non j aime pas du tout les soirees je deteste ca et du coup ils sont sortis
+ref norm:         une des choses qui fait que j ai pas trop envie de me suicider qui me raccroche un peu a la vie c est les reves que je fais pendant la nuit c etait pas cette nuit c est la nuit d avant j ai reve que je renvoyais des eleves de ma sixieme primaire et en moment il y en a qui se sont dit 0 venez on fait une soiree mais moi j aime pas du tout les soirees je deteste ca et du coup ils ont sorti
+
+ ------------------------------------------- 
+
+22.35294117647059
+line_id 5730814677
+transcript norm:  j ai une sorte de boule a disco chez moi un petit peu comme ca mais tres petite qui fait des lumieres un peu galaxieuses je ne sais pas si vous voyez c est tres connu mais du coup ils avaient mis ca dans des toilettes et donc j attendais de chercher mes appareils photos et du coup j ai parti prendre mes appareils photos et j ai fait plein de photos trop chouettes d eux il y avait des trop belles lumieres
+ref norm:         j ai une sorte de boule a disco chez moi un petit peu comme ca mais tres petite qui fait des lumieres un peu galaxie je sais pas si vous voyez c est tres connu et du coup ils avaient mis ca dans tes toilettes et du coup je t ai attendu je cherchais mes appareils photo et du coup je suis partie prendre mes appareils photo et j ai pris plein de photos trop chouettes d oeil il y avait des trop belles lumieres
+
+ ------------------------------------------- 
+
+12.162162162162163
+line_id 5730825155
+transcript norm:  j etais la ah mais c est trop bien j ai rendu trop belle photo et j ai pense c est sur la c est pas un reve parce que je regardais vraiment pour mon visage j avais ma cellule j etais la c est la bonne pellicule avec le bon appareil c est trop bien puis je me reveille je suis la non c etait faux alors que c etait trop bien
+ref norm:         j etais la 0 mais c est trop bien j ai eu des trop belles photos et j ai pense c est sur la c est pas un reve parce que je regardais vraiment dans mon viseur je voyais ma cellule j etais la c est la bonne pellicule avec le bon appareil c est trop bien puis je me reveille je suis la non c etait faux alors que c etait trop bien
+
+ ------------------------------------------- 
+
+19.230769230769234
+line_id 5730831776
+transcript norm:  la soiree donc bref j y ai participe j ai ete fondee des appareils photos j ai rigole alors qu en vrai si ca s etait vraiment passe on etait la 0 mais je veux rentrer chez moi je suis pas sure non mais egal lui puis j aurais eu ce truc de mais c est trop bizarre de les revoir tous c est trop etrange car je pensais dissocier toute seule
+ref norm:         la soiree dans mon reve j y ai participe j ai ete prendre des appareils photo j ai rigole alors qu en vrai si ca s etait vraiment passe j aurais ete la 0 mais je veux rentrer chez moi je suis pas sure non mais il y a lui puis j aurais eu ce truc de mais c est trop bizarre de les revoir tous c est trop etrange puis apres je commence a dissocier toute seule
+
+ ------------------------------------------- 
+
+13.513513513513514
+line_id 5730882053
+transcript norm:  c est faux c est des faux souvenirs mais une fois que j y ai cru vraiment dans ce reve moi c est comme reellement arrive et les reves que je fais c est ca qui vient
+ref norm:         c est faux c est des faux souvenirs mais une fois que j y ai cru vraiment on se reve pour moi c est comme reellement arrive et les reves que je fais c est ca vivre
+
+ ------------------------------------------- 
+
+17.82178217821782
+line_id 5730849586
+transcript norm:  une maladie mentale ou autre trouble une depression d anxiete meme juste passagere c est pareil c est dans une piece toute blanche des gens qui ont des troubles mentaux qui sortent qui rigolent il y en a qui ne sortent pas de leur lit ils pourraient se dire mais quoi t es triste mais t as eu toute une photo que tu mets sur instagram ou ce genre de choses ca ca ne veut rien dire t es anxieuse sociale mais t as vu comment tu t habilles je ne sais pas ca n a rien a voir
+ref norm:         une maladie mentale ou autre trouble une depression l anxiete meme juste passagere ce n est pas rester dans une piece toute blanche il y a des gens qui ont des troubles mentaux qui sortent qui rigolent il y en a qui ne sortent pas de leur lit on pourrait se dire mais quoi t es triste mais tu as vu toutes les photos que tu mets sur instagram ou ce genre de choses ca ne veut rien dire t es anxieuse sociale mais tu as vu comment tu t habilles je ne sais pas ca n a rien a voir
+
+ ------------------------------------------- 
+
+26.08695652173913
+line_id 5730887882
+transcript norm:  je ne pouvais pas ecrire regarder le prose derriere son ecran c est ridicule je suis pas un baron on dit bon c est pas grave prends une annee pour toi etc une annee pour soi en covid il peut faire grand chose
+ref norm:         je ne me voyais pas ecrire regarder le professor derriere son ecran c est ridicule je ne sais pas vraiment on dit c est pas grave prends une annee pour toi etc mais une annee pour soi en covid on ne peut pas faire grand chose
+
+ ------------------------------------------- 
+
+28.57142857142857
+line_id 5730834565
+transcript norm:  de base je dirais que je suis quelqu un d etre tres introvertie analytique et je suis fort dans mon monde enfin dans bah t es en train de sur analyser tout ce qui m entoure l egoisme est encore plus renferme a l interieur mais d une mauvaise facon
+ref norm:         de base je dirais que je suis quelqu un de tres introverti analytique et je suis fort dans mon monde enfin dans ma tete en train de suranalyser tout ce qui m entoure le covid ca m a encore plus renfermee a l interieur mais d une mauvaise facon
+
+ ------------------------------------------- 
+
+13.333333333333334
+line_id 1812595961
+transcript norm:  quand j ai eu mes premieres hallucinations j avais plus peur d etre vue comme une folle que les hallucinations en elles memes j ai cherche a expliquer a mes amis ce que je vivais mais je n avais pas l impression d etre confise
+ref norm:         quand j ai eu mes premieres hallucinations j avais plus peur d etre vue comme une folle que les hallucinations en aient de meme j ai cherche a expliquer a mes amis ce que je vivais mais j avais pas l impression d etre comprise
+
+ ------------------------------------------- 
+
+2.564102564102564
+line_id 1812549139
+transcript norm:  quand j etais en primaire j etais quelqu un de tres timide quelqu un de tres renferme j avais du mal a m exprimer et je pense que c est une des raisons pour lesquelles j ai ete harcelee
+ref norm:         quand j etais en primaire j etais quelqu un de tres timide quelqu un de tres renferme j avais du mal a m exprimer et je pense que c est une des raisons pour laquelle j ai ete harcelee
+
+ ------------------------------------------- 
+
+13.20754716981132
+line_id 1812548677
+transcript norm:  donc il y avait certaines personnes pas tout le monde mais certaines personnes de la classe 3 4 personnes qui ont commence a me harceler et de la toute la classe s est mise a me harceler le matin quand je me lavais pour aller a l ecole j avais toujours la boule au ventre
+ref norm:         donc il y avait certaines personnes pas tout le monde mais certaines personnes de la classe trois quatre personnes qui ont commence a marceler et de la toute la classe s est mise a marceler le matin quand je me levais pour aller a l ecole j avais toujours la boule au ventre
+
+ ------------------------------------------- 
+
+0.0
+line_id 1812568957
+transcript norm:  j etais tres tres angoissee je me demandais toujours comment la journee allait se passer est ce que j allais survivre ou est ce que j allais craquer a un moment donne j ai le souvenir en fait que j etais en classe avec d autres eleves d autres camarades de classe et j etais juste a cote d une fenetre qui etait ouverte et la une des eleves de ma classe m a dit mais la fenetre est ouverte
+ref norm:         j etais tres tres angoissee je me demandais toujours comment la journee allait se passer est ce que j allais survivre ou est ce que j allais craquer a un moment donne j ai le souvenir en fait que j etais en classe avec d autres eleves d autres camarades de classe et j etais juste a cote d une fenetre qui etait ouverte et la une des eleves de ma classe m a dit mais la fenetre est ouverte
+
+ ------------------------------------------- 
+
+0.0
+line_id 1812543468
+transcript norm:  qu est ce que tu attends pour te suicider de toute facon personne ne veut de toi tous les jours c etait les memes actions les memes insultes les memes formes de violence en fait
+ref norm:         qu est ce que tu attends pour te suicider de toute facon personne ne veut de toi tous les jours c etait les memes actions les memes insultes les memes formes de violence en fait
+
+ ------------------------------------------- 
+
+9.25925925925926
+line_id 1812552771
+transcript norm:  et ce camara de classe me bloque la route et il me zone ce que je me rappelle toujours en le disant c est que j avais l impression d etre hors de mon corps que quelque chose en moi n etait plus la j ai ete completement detruite de l interieur on va dire
+ref norm:         et ce camarade de classe me bloque la route et il me viole ce que je me rappelle durant le viol c est que j avais l impression d etre hors de mon corps que quelque chose en moi n etait plus la j ai ete completement detruite de l interieur on va dire
+
+ ------------------------------------------- 
+
+8.823529411764707
+line_id 1812551478
+transcript norm:  j allais a l ecole je pleurais meme a l ecole et je pleurais dans les transports en commun pour revenir chez eux c est des larmes qui ne s arretaient jamais
+ref norm:         j allais a l ecole je pleurais je pleurais meme a l ecole et je pleurais dans les transports en commun pour revenir chez moi c est des larmes qui ne s arretaient jamais
+
+ ------------------------------------------- 
+
+13.333333333333334
+line_id 1812559370
+transcript norm:  j etais dans ma chambre et je vois une centaine d ariens sur le mur ils venaient tout de suite parler au psychiatre de l optital mais pour lui c etait juste un stress pour lui il fallait juste regler mon probleme d anxiete
+ref norm:         j etais dans ma chambre et je vois une centaine d araignees sur le mur j en ai tout de suite parle au psychiatre de l hopital mais pour lui c etait juste un stress pour lui il fallait juste regler mon probleme d anxiete
+
+ ------------------------------------------- 
+
+8.108108108108109
+line_id 1812539998
+transcript norm:  mais au fond de moi je pensais que c etait beaucoup plus grave qu un probleme d anxiete j entendais des voix des voix qui me disaient de me suicider ou de me faire du mal
+ref norm:         mais au fond de moi je pensais que c etait beaucoup plus grave qu un juste un probleme d anxiete j entendais des voix des voix qui me disaient de me suicider de me faire du mal
+
+ ------------------------------------------- 
+
+0.0
+line_id 1812551180
+transcript norm:  quand on m a diagnostique schizophrene je me suis deja sentie moins folle ca m a permis deja de me dire qu il y avait d autres personnes qui l etaient aussi et ca me permettait aussi de me dire que je pouvais peut etre en guerir ou du moins etre stabilisee
+ref norm:         quand on m a diagnostique schizophrene je me suis deja sentie moins folle ca m a permis deja de me dire qu il y avait d autres personnes qui l etaient aussi et ca me permettait aussi de me dire que je pouvais peut etre en guerir ou du moins etre stabilisee
+
+ ------------------------------------------- 
+
+6.666666666666667
+line_id 1812595644
+transcript norm:  la fin d etre en hopital psychiatrique ca m a beaucoup aidee parce que c est la premiere fois ou j ai ose parler de tout ce que j ai vecu et c est la premiere fois aussi que je me suis sentie aussi ecoutee
+ref norm:         le fait d etre en hopital psychiatrique ca m a beaucoup aide parce que c est la premiere fois ou j ai ose parler de tout ce que j ai vecu et c est la premiere fois aussi que je me suis sentie aussi ecoutee
+
+ ------------------------------------------- 
+
+18.64406779661017
+line_id 1812522725
+transcript norm:  c est un endroit ou on se sent assez que je l ai ete un endroit ou justement tout est fait pour que un drame n arrive pas quand le psychiatre de l hopital a decide que ma sortie arrivait je n etais pas du tout prete a sortir je redoutais en fait cette sortie parce que j avais peur de me reconfronter au monde exterieur
+ref norm:         c est un endroit ou on se sent en securite un endroit ou justement tout est fait pour qu un drame n arrive pas quand le psychiatre de l hopital a decide que ma sortie arrivait j etais pas du tout prete a sortir je redoutais cette sortie parce que j avais peur de me reconfronter au monde exterieur
+
+ ------------------------------------------- 
+
+1.1764705882352942
+line_id 1812547756
+transcript norm:  en fait j ai des changements d humeur et c est quelque chose d assez violent parce que je passe d un etat depressif donc je me sens tres tres triste j ai une perte de motivation j ai plus envie de rien a un etat limite maniaque tres haut ou je me sens totalement bien j ai envie de sortir de chez moi j ai envie de faire plein de choses en meme temps j ai plein d idees qui fusent dans la tete
+ref norm:         en fait j ai des changements d humeur et c est quelque chose d assez violent parce que je passe d un etat depressif dont je me sens tres tres triste j ai une perte de motivation j ai plus envie de rien a un etat limite maniaque tres haut ou je me sens totalement bien j ai envie de sortir de chez moi j ai envie de faire plein de choses en meme temps j ai plein d idees qui fusent dans la tete
+
+ ------------------------------------------- 
+
+0.0
+line_id 1812575704
+transcript norm:  pendant la therapie on est oblige de revenir sur des elements du passe c est quelque chose d assez difficile mais d essentiel pour pouvoir comprendre d ou vient ma souffrance comment faire pour que ce soit quelque chose de moins douloureux parce que ca ne s oublie pas non plus
+ref norm:         pendant la therapie on est oblige de revenir sur des elements du passe c est quelque chose d assez difficile mais d essentiel pour pouvoir comprendre d ou vient ma souffrance comment faire pour que ce soit quelque chose de moins douloureux parce que ca ne s oublie pas non plus
+
+ ------------------------------------------- 
+
+3.9215686274509802
+line_id 1812580061
+transcript norm:  si je pouvais dire quelque chose a ma mere j aurais dit merci de ne jamais avoir abandonne pour moi c est un peu mon super heros parce que malgre qu elle ait subi des violences ca n a pas empeche de se battre pour mon frere se battre pour moi
+ref norm:         si je pouvais dire quelque chose a ma mere j aurais dit merci de ne jamais avoir abandonne pour moi c est un peu mon super heros parce que malgre qu elle est subie des violences ca n a pas empeche de se battre pour mon frere se battre pour moi
+
+ ------------------------------------------- 
+
+1.6129032258064515
+line_id 1812570290
+transcript norm:  quand j etais en hopital psychiatrique je parlais de mes hallucinations a d autres patients qui n etaient pas forcement schizophrenes mais ca ne leur empechait pas de comprendre ce que je vivais ils m ont tellement soutenue donne tellement d amour que c est quelque chose que je ne pourrais jamais oublier et c est quelque chose qui continue aujourd hui
+ref norm:         quand j etais au hopital psychiatrique je parlais de mes hallucinations a d autres patients qui n etaient pas forcement schizophrenes mais ca ne leur empechait pas de comprendre ce que je vivais ils m ont tellement soutenue donne tellement d amour que c est quelque chose que je ne pourrais jamais oublier et c est quelque chose qui continue aujourd hui
+
+ ------------------------------------------- 
+
+12.0
+line_id 1812577789
+transcript norm:  j avais tendance a m enfermer et je vivais comme dans une espece de bulle tout etait noir et je me sentais tres seule
+ref norm:         j avais tendance a me renfermer et je vivais comme dans une espece de bulle ou tout etait noir et je me sentais tres seule
+
+ ------------------------------------------- 
+
+0.0
+line_id 1812544554
+transcript norm:  a cette epoque la j avais tout cache a ma mere parce que je ne voulais pas lui rajouter de problemes en plus en fait ma mere avait deja eu enormement de soucis avec mon pere dans le passe plus certains problemes qu elle avait au quotidien
+ref norm:         a cette epoque la j avais tout cache a ma mere parce que je ne voulais pas lui rajouter de problemes en plus en fait ma mere avait deja eu enormement de soucis avec mon pere dans le passe plus certains problemes qu elle avait au quotidien
+
+ ------------------------------------------- 
+
+9.523809523809524
+line_id 1812516391
+transcript norm:  quand j avais 11 ans j etais en 6 eme climat pour m aider a sortir de ma timidite je suivais des cours de theater a l ecole meme j aimais beaucoup ce cours de theater parce que j y etais pas harcelee
+ref norm:         quand j avais onze ans j etais en sixieme primaire pour m aider a sortir de ma timidite je suivais des cours de theater a l ecole meme j aimais beaucoup ce cours de theater parce que j y etais pas harcelee
+
+ ------------------------------------------- 
+
+6.896551724137931
+line_id 1812582663
+transcript norm:  j etais plutot ecoutee j avais quand meme un peu confiance en moi et un jour en sortant d un cours de theater je croise un camera de place
+ref norm:         j etais plutot ecoutee j avais quand meme un peu confiance en moi et un jour en sortant d un cours de theater je croise un camarade de classe
+
+ ------------------------------------------- 
+
+0.0
+line_id 1812555828
+transcript norm:  c est deux extremes et c est assez difficile a vivre au quotidien mon antidepresseur a tendance a me faire sentir vide d emotions
+ref norm:         c est deux extremes et c est assez difficile a vivre au quotidien mon antidepresseur a tendance a me faire sentir vide d emotions
+
+ ------------------------------------------- 
+
+3.225806451612903
+line_id 1812565651
+transcript norm:  j arrive plus a pleurer et le fait de ne plus pouvoir pleurer ca me donne l impression de ne pas etre libre l impression d etre emprisonnee dans mes emotions
+ref norm:         j arrive plus a pleurer et le fait de ne plus pouvoir pleurer ca me donne l impression de ne pas etre libre l impression d etre emprisonne dans mes emotions
+
+ ------------------------------------------- 
+
+9.090909090909092
+line_id 1812515587
+transcript norm:  alors j etais dehors j arrive sur le haut d un pont je regarde le vide et je pensais a sauter
+ref norm:         un jour j etais dehors j arrive sur le haut d un pont je regarde le vide et je pensais a sauter
+
+ ------------------------------------------- 
+
+5.769230769230769
+line_id 1812529702
+transcript norm:  mais ce qui s est passe lorsque j etais nabin c est que j ai entendu la voix de ma mere alors qu elle n etait pas la et pour moi c etait un signe j ai vu ca comme un signe un signe que je ne devais pas le faire
+ref norm:         mais ce qui s est passe lorsque j etais la bas c est que j ai entendu la voix de ma mere or qu elle n etait pas la et pour moi c etait un signe j ai vu ca comme un signe un signe que je ne devais pas le faire
+
+ ------------------------------------------- 
+
+7.575757575757576
+line_id 9563192286
+transcript norm:  je suis candice cotter foodista passionnee experte en bieres savoureuses abordables faciles a cuisiner et joyeux a partager d episode en episode au fil des saisons je vous transmets plein d infos de trucs d astuces de recettes et de techniques pour manger mieux sans effort en vous reappropriant votre cuisine et en developpant votre confiance en vous et en vos casseroles vous venez avec moi
+ref norm:         je suis candice kother foodista passionnee experte en miam savoureux abordable facile a cuisiner et joyeux a partager d episode en episode au fil des saisons je vous transmets plein d infos de trucs d astuces de recettes et de techniques pour manger mieux sans effort en vous reappropriant votre cuisine et en developpant votre confiance en vous et en vos casseroles vous venez avec moi
+
+ ------------------------------------------- 
+
+6.024096385542169
+line_id 9563149927
+transcript norm:  ca peut etre completement un repas digne de ce nom quelques basiques sympathiques des recettes cles a reiterer que vous pouvez vraiment vous approprier pour avoir quelque chose qui correspond completement a votre gout basiques indispensables bien sur pain de mie pain blanc pain gris pain cereal ce que vous aimez un jambon de qualite c est une belle merveille quelques fromages un du cheddar anglais un petit the menthal francais eventuellement si on aime ce genre de choses ca se sent des incontournables
+ref norm:         ca peut etre completement un repas digne de ce nom quelques basiques sympathiques des recettes cles a reiterer que vous pouvez vraiment vous approprier pour avoir quelque chose qui correspond completement a votre gout basiques indispensables bien sur pain de mie pain blanc pain gris pain cereal ce que vous aimez un jambon de qualite c est une belle merveille quelques fromages dont du cheddar anglais un petit emental francais eventuellement si on aime ce genre de choses ca ce sont des incontournables
+
+ ------------------------------------------- 
+
+6.481481481481481
+line_id 9563184721
+transcript norm:  j ai faim je peux manger ca maintenant vous auriez l envie d aller vers un roti de porc a la place du jambon par exemple avec un petit pesto de tomate et des concombres dans votre croque monsieur vous allez avoir quelque chose qui est plus sympa sur le fromage vous avez envie d aller vers des petits oeufs durs eh bien vous pouvez aller vers feuilles d epinards bacon oeufs durs ciboulette par exemple quelque chose qui va donner un peu de kick a la ciboulette elle va donner le petit gout echalote qui vient d avoir fausse chiffre pourquoi pas vous avez un reste de poulet de la veille
+ref norm:         j ai faim je peux manger ca maintenant vous auriez envie d aller vers un roti de porc a la place du jambon par exemple avec un petit pesto de tomates et des concombres dans votre croque monsieur vous allez avoir quelque chose qui est plus sympa sur le fromage vous avez envie d aller vers des petits oeufs durs eh bien vous pouvez aller vers feuilles d epinard bacon oeufs durs ciboulette par exemple quelque chose qui va donner un peu de kick a la ciboulette elle va donner le petit gout echalote qui vient rafraichir pourquoi pas vous avez un reste de poulet de la veille
+
+ ------------------------------------------- 
+
+6.666666666666667
+line_id 9563154774
+transcript norm:  vous le hachez un petit peu de mayonnaise un petit peu de pommes rapees un petit peu de celeri vous mettez ca dans votre croque et vous faites chauffer et vous allez avoir quelque chose qui fonctionne super bien on peut jouer aussi le sucre sale avec le petit morceau d ananas style croquawai mais jouer sur quelque chose qui va etre un petit peu plus gourmand style rien que jambon fromage ananas peut etre remplace par jambon beurre de cacahuete petit ananas et eventuellement fromage frais
+ref norm:         eh bien vous le hachez un petit peu de mayonnaise un petit peu de pommes rapees un petit peu de celeri vous mettez ca dans votre croque et vous faites chauffer et vous allez avoir quelque chose qui fonctionne super bien on peut jouer aussi le sucre sale avec le petit morceau d ananas style croque hawaii mais jouer sur quelque chose qui va etre un petit peu plus gourmand style rien que jambon fromage ananas peut etre remplace par jambon beurre de cacahuetes petite ananas et eventuellement fromage frais
+
+ ------------------------------------------- 
+
+6.666666666666667
+line_id 9563133342
+transcript norm:  pour changer un peu la donne vous allez avoir quelque chose qui est primoire et qui fonctionne super bien avec le pate si il est question de faire un croque monsieur repas vous pouvez completement utiliser la pate feuilletee pour faire un croque gaufre ca peut etre super chouette le mercredi midi par exemple si vous avez des enfants ou pour un plateau tele bien gourmand avec une belle salade un peu balsamiquee pour lui donner un peu de kick ca peut etre tres chouette une gaufre feuilletee c est deux rouleaux de pate feuilletee du commerce pour 5 6 gaufres par exemple
+ref norm:         pour changer un peu la donne vous allez avoir quelque chose qui est plus moelleux et qui fonctionne super bien avec le pain grille s il est question de faire un croque monsieur repas vous pouvez completement utiliser la pate feuilletee pour faire un croque gaufre ca peut etre super chouette le mercredi midi par exemple si vous avez des enfants ou pour un plateau tele bien gourmand avec une belle salade un peu balsamique pour lui donner un peu de kick ca peut etre tres chouette une gaufre feuilletee c est deux rouleaux de pate feuilletee du commerce pour cinq 6 gaufres par exemple
+
+ ------------------------------------------- 
+
+2.857142857142857
+line_id 9563166285
+transcript norm:  et en fait vous allez avoir une pate feuilletee qui va cuire minutes dans le gaufrier qui va etre evidemment pressee dans le gaufrier donc qui ne va pas monter comme une feuilletee le frais d habitude mais vous allez avoir une texture typique de la pate feuilletee qui s effrite et qui est si gourmande sur ce type de cuisson ca vous permet d avoir quelque chose qui change
+ref norm:         et en fait vous allez avoir une pate feuilletee qui va cuire minute dans le gaufrier qui va etre evidemment pressee dans le gaufrier donc qui ne va pas monter comme une feuilletee le ferait d habitude mais vous allez avoir une texture typique de la pate feuilletee qui s effrite et qui est si gourmande sur ce type de cuisson ca vous permet d avoir quelque chose qui change
+
+ ------------------------------------------- 
+
+19.17808219178082
+line_id 9563185658
+transcript norm:  pensez aux chevres frais pensez aux poivrons a l huile comme ingredients qui peuvent etre des ingredients interessants que vous avez dans votre placard pensez au pesto pensez a la plume de tomate si vous avez envie petit tube de plume de tomate pour donner une petite couche entre d autres ingredients pensez aux herbes fraiches qui vont fonctionner ici boulettes coriandres persil plat aneth pensez au fromage interessant feta feta epinard noix chevre
+ref norm:         pensez aux chevres frais pensez aux poivrons a l huile comme ingredients qui peuvent etre des ingredients interessants que vous avez dans votre placard pensez aux pesto pensez a la pulpe de tomates si vous avez envie petite tube de pulpe de tomates pour donner une petite couche entre d autres ingredients pensez aux herbes fraiches qui vont fonctionner ciboulette coriandre persi plat annette pensez aux fromages interessants feta feta epinard noix chevre
+
+ ------------------------------------------- 
+
+1.4285714285714286
+line_id 9563125684
+transcript norm:  ce sont des associations qui fonctionnent habituelles qui fonctionnent bien vous ne pouvez pas vous tromper avec ca allez vers des fromages qui sont un petit peu plus fun si vous aimez ca tout ce qui est roquefort un peu de poire un peu de noix par exemple vous allez avoir quelque chose qui fonctionne super bien et qui ne demande rien pensez aussi a des trucs style un croque polenta
+ref norm:         ce sont des associations qui fonctionnent habituelles qui fonctionnent bien vous pouvez pas vous tromper avec ca allez vers des fromages qui sont un petit peu plus fun si vous aimez ca tout ce qui est roquefort un peu de poire un peu de noix par exemple vous allez avoir quelque chose qui fonctionne super bien et qui ne demande rien pensez aussi a des trucs style un croque polenta
+
+ ------------------------------------------- 
+
+2.666666666666667
+line_id 9563110078
+transcript norm:  la polenta que vous allez trouver dans tous les supermarches super facile pour un croque croce dian bien moelleux vous prenez de la polenta vous la faites cuire dans un melange de lait et d eau ou rien que du lait donc vous faites bouillir votre lait vous mettez la polenta dedans c est cuit en quelques minutes vous la coulez sur un sulfurise sur votre plan de travail ou sur une plaque elle va refroidir
+ref norm:         la polenta que vous allez trouver dans tous les supermarches super facile pour un croque croustillant bien moelleux vous prenez de la polenta vous la faites cuire dans un melange de lait et d eau ou rien que du lait donc vous faites bouillir votre lait vous mettez la polenta dedans c est cuit en quelques minutes vous la coulez sur un sulfurise sur votre plan de travail ou sur une plaque elle va refroidir
+
+ ------------------------------------------- 
+
+12.903225806451612
+line_id 9563128552
+transcript norm:  quand elle refroidit elle fige coupez des carres de ca mettez un peu de jambon queue un peu de fromage et passez ca au guelufou ou eventuellement dans une machine a crocs sans trop s effacer pour ne pas casser la polenta vous allez avoir quelque chose qui fonctionne tellement bien et vous pouvez accompagner ca par exemple d une petite salade avec des poivrons pour donner un peu de kick parce que la polenta est tendre vous avez besoin d avoir un petit peu de kick
+ref norm:         quand elle refroidit elle fige eh bien coupez des carres de ca mettez un petit peu de jambon cru un peu de fromage et passez ca au gril du 4 ou eventuellement dans une machine a croque sans trop serrer pour ne pas casser la polenta vous allez avoir quelque chose qui fonctionne tellement bien et vous pouvez accompagner ca par exemple d une petite salade avec des poivrons pour donner un peu de kick parce que la polenta elle est tendre donc vous avez besoin d avoir un petit peu de kick
+
+ ------------------------------------------- 
+
+3.0303030303030303
+line_id 9563145261
+transcript norm:  un poivron cru dont on ne sait pas toujours forcement quoi faire un jaune un rouge un vert il est plus amer evitez le mais par contre un jaune un rouge que vous avez tranche finement et vous mettez a cru avec une petite salade sympathique roquette qui va donner du piquant et un peu de balsamique et vous accompagnez avec ce poivron croquant crunch ce croque de polenta vous allez avoir un truc qui vous revisite completement le croque monsieur traditionnel et qui est si simple a faire et qui vous permet aussi de varier les nutriments
+ref norm:         un poivron cru dont on ne sait pas toujours forcement quoi faire un jaune un rouge un vert il est plus amer evitez le mais par contre un jaune un rouge que vous avez tranche finement et que vous mettez a cru avec une petite salade sympathique roquette qui va donner du piquant et un peu de balsamique et vous accompagner avec ce poivron croquant crunch ce croque de polenta vous allez avoir un truc qui vous visite completement le croque monsieur traditionnel et qui est si simple a faire et qui vous permet aussi de varier les nutriments
+
+ ------------------------------------------- 
+
+5.660377358490567
+line_id 9563141067
+transcript norm:  c est vraiment quelque chose qui rechauffe le coeur et c est tellement tellement simple mais dans l univers de la mousse au chocolat vous en avez plein c est a dire que vous avez le dessert a l ancienne je dirais qui est fait uniquement a la creme avec la cuillere que vous mettez dans le ramequin et la cuillere qui est a droite toute seule dessert relativement inconcevable aujourd hui parce que quitter de sante non respectee mais vous avez quelque chose qui fonctionne tres bien si vous aimez ca et puis vous avez des mousses au chocolat sur du chocolat fondu et des blancs d oeufs
+ref norm:         c est vraiment quelque chose qui rechauffe le coeur et c est tellement tellement simple mais dans l univers de la mousse au chocolat vous en avez plein c est a dire que vous avez le dessert a l ancienne je dirais qui est fait uniquement a la creme avec la cuillere que vous mettez dans le ramequin et la cuillere tient droite toute seule dessert relativement inconcevable aujourd hui parce que criteres de sante non respectes mais vous avez quelque chose qui fonctionne tres bien si vous aimez ca et puis vous avez des mousses au chocolat sur du chocolat fondu des blancs d oeufs
+
+ ------------------------------------------- 
+
+7.142857142857142
+line_id 9563169756
+transcript norm:  vous rajoutez aussi les jaunes ca vous permet d avoir quelque chose qui est un petit peu plus dense rien que chocolat et blanc d oeuf ca vous permet d avoir quelque chose qui est dingue meme au niveau de l oreille vous avez deja l appetit qui souffre donc c est juste merveilleux quand il est question de faire juste chocolat et creme en gros c est une galache
+ref norm:         d autres ajoutent aussi les jaunes ca vous permet d avoir quelque chose qui est un petit peu plus dense rien que chocolat et blanc d oeuf ca vous permet d avoir quelque chose qui est dingue meme au niveau de l oreille vous avez deja l appetit qui souffre c est juste merveilleux quand il est question de faire juste chocolat et creme en gros c est une ganache
+
+ ------------------------------------------- 
+
+1.0526315789473684
+line_id 9563193047
+transcript norm:  c est une ganache qui est un peu plus fluide que pour de la truffe choco par exemple mais si on y reflechit 2 secondes 30 en gros c est juste un type de truffe au chocolat liquide donc il ne faut pas etre vite ecoeure mais c est quelque chose si vous aimez qui fonctionne evidemment tres bien si vous optez pour une mousse traditionnelle vous ne pouvez pas vous tromper en ayant cette equation en tete vous devez toujours avoir one oeuf par 40 grams de chocolat c est votre equation de base
+ref norm:         c est une ganache qui est un peu plus fluide que pour de la truffe choco par exemple mais si on y reflechit 2 secondes 30 en gros c est juste un type de truffe au chocolat liquide donc il ne faut pas etre vite ecoeure mais c est quelque chose si vous aimez qui fonctionne evidemment tres bien si vous optez pour une mousse traditionnelle vous ne pouvez pas vous tromper en ayant cette equation en tete vous devez toujours avoir un oeuf par 40 grams de chocolat c est votre equation de base
+
+ ------------------------------------------- 
+
+15.217391304347828
+line_id 9563114643
+transcript norm:  donc vous multipliez par le nombre de convives enfants grands enfants que vous avez a nourrir mais l idee c est qu un oeuf par 40 grams de chocolat donc par exemple 320% a 20 grams de chocolat donc voila votre recette de base pour avoir une petite quantite de mousse qui fonctionne eh bien ca c est quelque chose qui est imbattable ca va vous faire une mousse legere et ca va vous faire une mousse gourmande a la fois c est le fond de son chocolat au bain marie chez stobet
+ref norm:         donc vous multipliez par le nombre de convives enfants grands enfants que vous avez a nourrir mais l idee c est que un oeuf par 40 grams de chocolat donc par exemple 3 oeufs pour 120 grams de chocolat donc voila votre recette de base pour avoir une petite quantite de mousse qui fonctionne et bien ca c est quelque chose qui est imbattable ca va vous faire une mousse legere et ca va vous faire une mousse gourmande a la fois faire fondre son chocolat au bain marie juste ou bete
+
+ ------------------------------------------- 
+
+7.954545454545454
+line_id 9563175566
+transcript norm:  et puis vous decidez de dire vous incorporez vos jaunes legerement battus a la fourchette vous montez vos blancs en neige eventuellement avec un petit peu de sucre si vous utilisez du chocolat tres noir mais genre 30 grams pas beaucoup et a partir de la vous incorporez vos blancs dans le melange chocolat jaune d oeuf ca c est votre base et vous etes sur d avoir quelque chose qui place 2 heures au refrigerateur va bien fonctionner et vous avez des alternatives style mousse au chocolat blanc
+ref norm:         et puis vous laisse dire vous incorporez vos jaunes legerement battues a la fourchette vous montez vos blancs en neige eventuellement avec un petit peu de sucre si vous utilisez du chocolat tres noir mais genre 30 grams pas beaucoup et a partir de la vous incorporez vos blancs dans le melange chocolat jaune d oeuf ca c est votre base et vous etes sur d avoir quelque chose qui placer deux euros au refrigerateur va bien fonctionner puis vous avez des alternatives style mousse au chocolat blanc
+
+ ------------------------------------------- 
+
+7.865168539325842
+line_id 9563192242
+transcript norm:  la mousse au chocolat blanc elle se travaille differemment parce que le chocolat blanc c est du beurre de cacao et donc ca se dissocie facilement donc si vous melangez par exemple du chocolat blanc et de la creme entiere a paris gannes ou genre la ganache de tout a l heure vous allez avoir quelque chose qui ne fonctionne pas par contre si vous ajoutez a ca et du lait et des blancs en neige sans les jaunes sur du chocolat blanc vous allez avoir quelque chose qui fonctionne bien
+ref norm:         la mousse au chocolat blanc elle se travaille differemment parce que le chocolat blanc c est du beurre de cacao et donc ca se dissoie facilement donc si vous melangez par exemple du chocolat blanc et de la creme entiere a part egale genre la ganache de tout a l heure vous allez avoir quelque chose qui fonctionne pas par contre si vous ajoutez a ca et du lait et des blancs en neige sans lait jaune sur du chocolat blanc vous allez avoir quelque chose qui fonctionne bien
+
+ ------------------------------------------- 
+
+9.322033898305085
+line_id 9563129507
+transcript norm:  exemple vous prenez 200 g de chocolat blanc 200 ml de creme fraiche liquide prenez la bien froide elle monte plus ca vous fait une mousse plus aeree 30% de matiere glace c est bien 40% c est mieux ca depend de ce que vous trouvez dans les supermarches ou dans les fermes mais la vraiment sentez vous bien d aller au plus gras pour que vous ayez quelque chose qui prenne bien et a partir de la vous ajoutez vos 2 blancs d oeufs et 2 qui puissent etre a soupe d ailer 4 ingredients et ca va vous permettre d avoir une mousse au chocolat blanc qui est toujours un petit peu le graal de la mousse
+ref norm:         exemple vous prenez 200 grams de chocolat blanc 200 milliliters de creme fraiche liquide prenez la bien froide elle monte plus ca vous fait une mousse plus aeree 30% de matiere grasse c est bien 40% c est mieux ca depend de ce que vous trouvez dans les supermarches ou dans les fermes mais la vraiment sentez vous bien d aller au plus gras pour que vous ayez quelque chose qui prenne bien et a partir de la vous ajoutez vos deux blancs d oeufs et deux petites cuilleres a soupe de lait quatre ingredients et ca va vous permettre d avoir une mousse au chocolat blanc qui est toujours un petit peu le graal de la mousse
+
+ ------------------------------------------- 
+
+1.0416666666666665
+line_id 9563195725
+transcript norm:  quand on aime le chocolat blanc generalement on a essaye plusieurs techniques et recettes de mousse au chocolat blanc et on a un resultat qui est ok mais pas assez savoureux ok mais legerement dissocie c est ok mais la couleur est un peu bof vous voyez ce que je veux dire et la vous allez avoir quelque chose qui fonctionne qui est vraiment octueux et qui en meme temps reste leger alors qu on est sur du full fat et du chocolat blanc donc c est vraiment de la creme full fat et du chocolat blanc
+ref norm:         quand on aime le chocolat blanc generalement on a essaye plusieurs techniques et recettes de mousse au chocolat blanc et on a un resultat qui est ok mais pas assez savoureux ok mais legerement dissocie c est ok mais la couleur est un peu bof vous voyez ce que je veux dire et la vous allez avoir quelque chose qui fonctionne qui est vraiment octueux et qui en meme temps reste leger alors qu on est sur du full fat et du chocolat blanc donc c est vraiment la creme full fat et du chocolat blanc
+
+ ------------------------------------------- 
+
+4.597701149425287
+line_id 9563113976
+transcript norm:  donc c est vraiment quelque chose qui peut etre lourd mais vous allez voir que deux euros d refrigerateur vous allez avoir evidemment une mousse naturellement plus grasse en bouche mais vous allez avoir une super mousse avec un petit coulis de fruits rouges par exemple de fruits frais de fruits vifs comme la grenade par exemple ca va fonctionner super bien si vous avez envie de s apprendre c est vraiment extremement simple aussi d aller vers des versions de mousse au chocolat qui sont plus saines
+ref norm:         donc c est vraiment quelque chose qui peut etre lourd mais vous allez voir que deux heures au refrigerateur vous allez avoir evidemment une mousse naturellement plus grasse en bouche mais vous allez avoir une super mousse avec un petit coulis de fruits rouges par exemple de fruits frais de fruits vifs comme la grenade par exemple ca va fonctionner super bien si vous avez envie de ca c est vraiment extremement simple aussi d aller vers des versions de mousse au chocolat qui sont plus saines
+
+ ------------------------------------------- 
+
+2.380952380952381
+line_id 9563135523
+transcript norm:  vous avez probablement deja vu differentes versions de mousse puissaine parce que la mousse au chocolat c est juste une emulsion et ca peut fonctionner sur des ingredients qui sont naturellement moelleux donc sur de la banane de la puree d amandes ca on a deja vu sur de l avocat vous obtenez une mousse qui en plus d etre vegan est super sympa et franchement regale sans culpabilite c est vraiment un truc qui n est pas la mousse au chocolat traditionnelle
+ref norm:         vous avez probablement deja vu differentes versions de mousse plus saines parce que la mousse au chocolat c est juste une emulsion et ca peut fonctionner sur des ingredients qui sont naturellement moelleux donc sur de la banane de la puree d amandes ca on a deja vu sur de l avocat vous obtenez une mousse qui en plus d etre vegan est super sympa et franchement regale sans culpabilite c est vraiment un truc qui n est pas la mousse au chocolat traditionnelle
+
+ ------------------------------------------- 
+
+4.395604395604396
+line_id 9563189189
+transcript norm:  on va gouter la banane derriere mais ca reste franchement completement agreable et ca vous permet d avoir juste avec un mix d ingredients au blender quelque chose qui va vraiment directement avoir une bonne emulsion une bonne consistance trois bananes un avocat par exemple deux cuilleres a soupe de puree d amandes blanches et le cacao pur non sucre fonctionne mieux dans ce type de mousse que le chocolat fondu qui va detendre les ingredients et empecher l emulsion donc a choisir allez plutot vers ca
+ref norm:         on va gouter la banane derriere mais ca reste franchement completement agreable et ca vous permet d avoir juste avec un mix d ingredients au blender quelque chose qui va vraiment directement avoir une bonne emulsion une bonne consistance trois bananes un avocat par exemple deux cuilleres a soupe de puree d amandes blanches et le cacao pur non sucre fonctionne mieux dans ce type de mousse ce type de mousse que le chocolat fondu qui va detendre les ingredients et empecher l emulsion donc a choisir allez plutot vers ca
+
+ ------------------------------------------- 
+
+2.631578947368421
+line_id 9563148793
+transcript norm:  c est un bon truc ca vous permet d avoir une mousse qui va chaque fois bien tenir je mets deux cuilleres a soupe de cacao purement sucre vous voyez ce que je dis dans ce melange trois bananes deux cuilleres a soupe de puree d amandes blanches et vous allez avoir vraiment quelque chose qui fonctionne bien ce que vous pouvez faire aussi ce sont des mousses qui fonctionnent sur une base de yaourt
+ref norm:         c est un bon truc ca vous permet d avoir une mousse qui va chaque fois bien tenir je mets deux cuilleres a soupe de cacao purement sucre vous voyez ce que je veux dire dans ce melange trois bananes deux cuilleres a soupe de puree d amandes blanches et vous allez avoir vraiment quelque chose qui fonctionne bien ce que vous pouvez faire aussi ce sont des mousses qui fonctionnent sur une base de yaourt
+
+ ------------------------------------------- 
+
+7.228915662650602
+line_id 9563137067
+transcript norm:  vous allez avoir quelque chose genre yaourt grec qui est vraiment tres moelleux grace au yaourt grec et qui ne sera jamais trop sucre vous allez vers 90 g 100 g de chocolat noir une cuillere a soupe de cacao pure non sucree pour renforcer la saveur du chocolat vous pouvez eventuellement ajouter un petit peu d extrait de vanille si vous aimez voila on peut jouer et 50 g de yaourt grec 2 blancs d oeufs un petit peu de sucre roussi
+ref norm:         vous allez avoir quelque chose genre yaourt grec qui est vraiment tres moelleux grace au yaourt grec et qui ne sera jamais trop sucre vous allez vers 90 grams 100 grams de chocolat noir une cuillere a soupe de cacao pur non sucre pour renforcer la saveur du chocolat vous pouvez eventuellement ajouter un petit peu d extrait de vanille si vous aimez voila on peut jouer et 50 grams de yaourt grec deux blancs d oeufs un petit peu de sucre roussi
+
+ ------------------------------------------- 
+
+3.5398230088495577
+line_id 9563186097
+transcript norm:  vous avez envie de la rendre plus gourmande facultatif mais ca fonctionne et en fait vous faites fondre votre chocolat au bain marie vous melangez tout ce que vous avez ajoute qui pourrait donner du gout c est a dire l extrait de vanille vous le melangez dans le cacao a la limite vous voyez vous faites une sorte de pate de cacao et vous ajoutez a cette pate de cacao de cuire a soupe d eau bouillante et cette pate la cacao melange au cafe extrait de vanille vous la mettez dans votre chocolat fondu et vous ajoutez votre yurt grec avant de mettre vos deux blancs d oeufs montes en neige
+ref norm:         vous avez envie de la rendre plus gourmande facultatif mais ca fonctionne et en fait vous faites fondre votre chocolat au bain marie vous melangez tout ce que vous avez ajoute qui pourrait donner du gout c est a dire l extrait de vanille vous le melangez dans le cacao a la limite vous voyez vous faites une sorte de pate de cacao et vous ajoutez a cette pate de cacao deux cuilleres a soupe d eau bouillante et cette pate la cacao melange au cafe extrait de vanille vous la mettez dans votre chocolat fondu et vous ajoutez votre yaourte grecque avant de mettre vos deux blancs d oeufs montes en neige
+
+ ------------------------------------------- 
+
+3.8461538461538463
+line_id 9563115167
+transcript norm:  si vous avez envie d avoir quelque chose de bien frais ca peut etre un petit fromage frais de la menthe hachee et un peu de mozzarella par exemple vous allez avoir vraiment quelque chose qui est moelleux fil de mozzarella et en meme temps cette menthe qui va venir rafraichir
+ref norm:         si vous avez envie d avoir quelque chose de bien frais ca peut etre un petit fromage frais de la menthe hachee et un peu de mozza rape par exemple vous allez avoir vraiment quelque chose qui est moelleux fil de mozzarella et en meme temps cette menthe qui va venir rafraichir
+
+ ------------------------------------------- 
+
+3.4482758620689653
+line_id 9563185392
+transcript norm:  vous pouvez ajouter un petit peu de jambon la dessus ca peut fonctionner si vous aimez vous pouvez aller aussi vers des choses qui sont plus classiques style gouda cornichons et gredou vous voyez sur le jambon cru sur le jambon cuit dans un croque monsieur ca fonctionne super bien montardos la dessus ca fonctionne super bien
+ref norm:         vous pouvez ajouter un petit peu de jambon la dessus ca peut fonctionner si vous aimez vous pouvez aller aussi vers des choses qui sont plus classiques style gouda cornichons et gredou vous voyez sur le jambon cru sur le jambon cuit dans un croque monsieur ca fonctionne super bien moutarde douce la dessus ca fonctionne super bien
+
+ ------------------------------------------- 
+
+5.0
+line_id 9563133050
+transcript norm:  des restes gourmands des ingredients faciles du placard ca peut etre du poulet cuit mozza curry une poignee de roquettes preparez vos ingredients laissez les pates feuilleter au refrigerateur jusqu au dernier moment et ensuite vous prenez vos pates feuilletees
+ref norm:         des restes gourmands des ingredients faciles du placard ca peut etre du poulet cuit mozza curry une poignee de roquette preparez vos ingredients laissez les pates feuilletees au refrigerateur jusqu au dernier moment et ensuite vous prenez vos pates feuilletees
+
+ ------------------------------------------- 
+
+3.75
+line_id 9563118685
+transcript norm:  vous tranchez par exemple vos boules de mozzarella reste de poulet par dessus eventuellement un petit peu de bacon cuit si vous avez ca a la maison un petit peu d oignon si vous aimez un petit peu d oignon que vous avez fait renier a la poele avec un peu de sucre pour les carameliser on se fait plaisir vous allez avoir quelque chose qui est plus gourmand remettre une pate feuilletee par dessus et mettre dans le gaufrier
+ref norm:         vous tranchez par exemple vos boules de mozzarella reste de poulet par dessus eventuellement un petit peu de bacon cuit si vous avez ca a la maison un petit peu d oignons si vous aimez un petit peu d oignons que vous avez fait revenir a la poele avec un peu de sucre pour les carameliser on se fait plaisir vous allez avoir quelque chose qui est plus gourmand remettre une pate feuilletee par dessus et mettre dans le gaufrier
+
+ ------------------------------------------- 
+
+Final wer score:  9.237212004560565

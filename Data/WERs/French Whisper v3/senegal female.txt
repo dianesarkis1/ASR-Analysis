@@ -1,0 +1,1060 @@
+WER Evaluation Results
+======================
+
+Line ID: 6977032515
+WER Score: 3.45
+Transcript: journaliste entrepreneuse culturelle slameuse elle cree et dirige le premier center de danse urbaine au senegal a son retour apres des etudes a l ecole des medias de l uqam fille unique elevee par une mere celibataire elle decide de faire des etudes de journalisme afin de denoncer les injustices qu elle voyait dans sa famille et son entourage
+Reference:  journaliste entrepreneuse culturelle slameuse elle cree et dirige le premier center de danse urbaine au senegal a son retour apres des etudes a l ecole des medias de lucam fille unique elevee par une mere celibataire elle decide de faire des etudes de journalisme afin de denoncer les injustices qu elle voyait dans sa famille et son entourage
+-------------------------------------------
+
+Line ID: 6977041454
+WER Score: 3.03
+Transcript: nous lui devons cauchemar d entrepreneur emission radio d abord podcast sur sud fm qui tous les jeudis et durant quatre saisons a traite de sujets d entrepreneuriat sans filtre et sans tabou
+Reference:  nous lui devons cauchemar d entrepreneur emission radio d abord podcast sur sud fm qui tous les jeudis et durant quatre saisons a traite de sujets d entrepreneuriat sans filtre et sans tableau
+-------------------------------------------
+
+Line ID: 6977022256
+WER Score: 2.50
+Transcript: 70 episodes plus tard cauchemar d entrepreneur tire sa reverence celle qui se definit comme et je la cite femme africaine millenials avec trop de passion ayant comme seul talent de vouloir etre utile a la societe a travers celle ci poursuivre l eternite en saisissant le present permettre a la grandeur du monde de realiser ses reves uniquement grace au travail acharne a la pleine conscience a la positivite et a la solidarite mariam atoure bienvenue dans conversations feminines
+Reference:  70 episodes plus tard cauchemar d entrepreneur tire sa reverence celle qui se definit comme et je la cite femme africaine millenials avec trop de passion ayant comme seul talent de vouloir etre utile a la societe a travers celle ci poursuivre l eternite en saisissant le present permettre a la grandeur du monde de realiser ses reves uniquement grace au travail acharne a la pleine conscience a la positivite et a la solidarite mariama toure bienvenue dans conversations feminines
+-------------------------------------------
+
+Line ID: 6977025049
+WER Score: 1.96
+Transcript: je suis aussi heureuse parce que c est important pour moi c est important pour moi de montrer ce respect la et cet egard la a chacune de mes invitees parce que vous le valez toutes et je pense que c est important qu on se dise des choses comme ca
+Reference:  je suis aussi heureuse parce que c est important pour moi c est important pour moi de montrer ce respect la et cet egard la a chacune de mes invites parce que vous le valez toutes et je pense que c est important qu on se dise des choses comme ca
+-------------------------------------------
+
+Line ID: 2670113871
+WER Score: 0.00
+Transcript: c est toujours en fait je pense emouvant lorsque la personne prend le temps lorsqu une personne en face prend le temps de nous regarder pas juste de nous voir de nous regarder pour comprendre les differences les couches qu il peut y avoir a une personne
+Reference:  c est toujours en fait je pense emouvant lorsque la personne prend le temps lorsqu une personne en face prend le temps de nous regarder pas juste de nous voir de nous regarder pour comprendre les differences les couches qu il peut y avoir a une personne
+-------------------------------------------
+
+Line ID: 2670123666
+WER Score: 2.90
+Transcript: petite anecdote meme en etant malade a partir du moment ou je ne peux pas bouger j ai l impression d etre en prison donc il me faut bouger mais c est aussi au dela de ca une capacite qui a ete apprise je ne sais pas mais a tres rapidement regarde autour de moi et a me dit mais il y a des gens qui sont comme moi
+Reference:  petite anecdote meme en etant malade a partir du moment ou je ne peux pas bouger j ai l impression d etre en prison donc il me faut bouger mais c est aussi au dela de ca une capacite qui a ete apprise je ne sais pas mais a tres rapidement regarder autour de moi et a me dire mais il y a des gens qui sont comme moi
+-------------------------------------------
+
+Line ID: 2670122514
+WER Score: 3.12
+Transcript: il n y a pas d opportunite qu est ce que je fais est ce que je peux faire quelque chose et aussi j ai envie de dire facilite meme si le terme la peut etre pris legerement mais quand meme je vais dire c est une aptitude donc pour moi c est facile plus que pour d autres personnes de me mettre en action
+Reference:  il n y a pas d opportunite qu est ce que je fais est ce que je peux faire quelque chose et aussi j ai envie de dire facilite meme si le terme la peut etre pris legerement mais quand meme je vais dire c est une aptitude donc pour moi c est facile puisque pour d autres personnes de me mettre en action
+-------------------------------------------
+
+Line ID: 2670148191
+WER Score: 0.00
+Transcript: et donc je danse pendant que je suis adolescente et j ai la chance de partir faire mes etudes a l etranger de danser dans des structures qui existent et je rentre au senegal j ai envie de continuer a danser je n ai jamais dit je veux devenir danseuse professionnelle je suis journaliste de formation ce n etait pas possible a l epoque de dire je veux devenir danseuse a des parents qui sont en train de payer pour ton education
+Reference:  et donc je danse pendant que je suis adolescente et j ai la chance de partir faire mes etudes a l etranger de danser dans des structures qui existent et je rentre au senegal j ai envie de continuer a danser je n ai jamais dit je veux devenir danseuse professionnelle je suis journaliste de formation ce n etait pas possible a l epoque de dire je veux devenir danseuse a des parents qui sont en train de payer pour ton education
+-------------------------------------------
+
+Line ID: 2670134129
+WER Score: 0.00
+Transcript: et donc ca a toujours ete une passion mais en meme temps c etait important pour moi de pouvoir continuer a explorer mon etre donc quand je rentre je regarde a gauche je regarde a droite je dis bon on dirait que tu es un peu vieille tu ne vas pas aller danser sous le pont
+Reference:  et donc ca a toujours ete une passion mais en meme temps c etait important pour moi de pouvoir continuer a explorer mon etre donc quand je rentre je regarde a gauche je regarde a droite je dis bon on dirait que tu es un peu vieille tu ne vas pas aller danser sous le pont
+-------------------------------------------
+
+Line ID: 2670112098
+WER Score: 1.23
+Transcript: parce qu avant je dansais dans la rue je dansais avec la ou je trouvais des danseurs j allais tres rapidement quand je pouvais et donc comme ca je realize que dakar qui est une capitale vibrante qui est une capitale culturelle qui est connue pour sa musique qui est connue pour le cote fashion qui est connue pour juste on aime la culture on n a pas de salle de danse je suis une enfant des annees fin 80
+Reference:  parce qu avant je dansais dans la rue je dansais avec la ou je trouvais des danseurs j allais tres rapidement quand je pouvais et donc comme ca je realize que dakar qui est une capitale vibrante qui est une capitale culturelle qui est connue pour sa musique qui est connue pour le cote fashion qui est connue pour juste on aime la culture mais on n a pas de salle de danse je suis une enfant des annees fin 80
+-------------------------------------------
+
+Line ID: 2670180857
+WER Score: 0.00
+Transcript: alors ce qu il faut savoir c est que deja ma decision de rentrer finalement elle n a pas ete trop controversee parce que je ne me suis jamais vue vivre dans un environnement autre qu un environnement africain
+Reference:  alors ce qu il faut savoir c est que deja ma decision de rentrer finalement elle n a pas ete trop controversee parce que je ne me suis jamais vue vivre dans un environnement autre qu un environnement africain
+-------------------------------------------
+
+Line ID: 2670137189
+WER Score: 2.56
+Transcript: pas senegalais africain je pourrais me lever aujourd hui et aller habiter au ghana ou au benin ou encore en afrique de l est au kenya peu importe et ca je l ai toujours clairement annonce a mes parents
+Reference:  pas senegalais africain je pourrais me lever aujourd hui a aller habiter au ghana ou au benin ou encore en afrique de l est au kenya peu importe et ca je l ai toujours clairement annonce a mes parents
+-------------------------------------------
+
+Line ID: 2670145384
+WER Score: 0.00
+Transcript: je ne me vois pas vivre dans un pays ou je ne vois pas mes freres noirs pour dire ca concretement et ca n a jamais vraiment ete debattu chez moi mon pere etait un grand panafricaniste ma mere est quelqu un qui avait aussi choisi de rentrer apres ses etudes et donc ca n a pas ete debattu
+Reference:  je ne me vois pas vivre dans un pays ou je ne vois pas mes freres noirs pour dire ca concretement et ca n a jamais vraiment ete debattu chez moi mon pere etait un grand panafricaniste ma mere est quelqu un qui avait aussi choisi de rentrer apres ses etudes et donc ca n a pas ete debattu
+-------------------------------------------
+
+Line ID: 2670176214
+WER Score: 1.56
+Transcript: cependant quand je suis rentree oui la question a ete bon tu vas prendre un boulot mais j ai pris un boulot ah si si si je suis allee rejoindre une redaction j en ai rejoint une j en ai rejoint deux j ai pris des postes dans des magazines etc donc j ai fait du journalisme pendant un certain nombre d annees
+Reference:  cependant quand je suis rentree oui la question a ete bon tu vas prendre un boulot mais j ai pris un boulot hein ah si si si je suis allee rejoindre une redaction j en ai rejoint une j en ai rejoint deux j ai pris des postes dans des magazines etc donc j ai fait du journalisme pendant un certain nombre d annees
+-------------------------------------------
+
+Line ID: 2670199526
+WER Score: 1.67
+Transcript: la chance j ai envie de dire que j ai eue c est que simultanement j avais envie de creer l ecole de danse et j ai demarre ma recherche en termes de possibilite de creer ca et je l ai cree a cote de l emploi que j avais c etait le seul moyen de rassurer les parents africains
+Reference:  la chance j ai envie de dire que j ai eue c est que simultanement j avais envie de creer l ecole de danse et j ai demarre ma recherche en termes de possibilites de creer ca et je l ai cree a cote de l emploi que j avais c etait le seul moyen de rassurer les parents africains
+-------------------------------------------
+
+Line ID: 2670182798
+WER Score: 4.00
+Transcript: c est vrai que c est beaucoup d argent mais ce n est pas de l argent perdu parce que ca participe a une education ca participe a qui je suis ca participe aussi a comment j ai gere the dancehall comment j ai gere ma carriere professionnelle etc ca contribue a qui je suis lorsque j ai trouve l endroit ou allait naitre le premier the dancehall ca faisait deja deux ans que j etais rentree donc je suis rentree en 2011 j etais en 2013 et ce n est pas une bonne idee de l annoncer dans ton podcast
+Reference:  c est vrai que c est beaucoup d argent mais ce n est pas de l argent perdu parce que ca participe a une education ca participe a qui je suis ca participe aussi a comment j ai gere the dancehall comment j ai gere ma carriere professionnelle etc ca contribue a qui je suis lorsque j ai trouve l endroit ou allait naitre le premier the dancehall ca faisait deja deux ans que j etais rentree donc je suis rentree en 2011 c etait en 2013 et c est pas une bonne idee de l annoncer dans ton podcast
+-------------------------------------------
+
+Line ID: 2670143777
+WER Score: 1.41
+Transcript: la verite j ai menti parce qu il fallait que je justifie d ou allaient venir les finances pour mettre en place le dancehall et a l epoque j ai dit a ma mere qu on m avait prete l espace et que la personne qui m avait prete l espace avait amenage l espace c est faux aujourd hui je l avoue dix ans plus tard c est pas grave
+Reference:  la verite j ai menti parce qu il fallait que je justifie d ou allaient venir les finances pour mettre en place le dancehall et a l epoque j ai dit a ma mere qu on m avait prete l espace et que la personne qui m avait prete l espace avait amenage l espace c est faux aujourd hui je l avoue 10 ans plus tard c est pas grave
+-------------------------------------------
+
+Line ID: 2670144563
+WER Score: 10.42
+Transcript: enormement d argent et donc a ce moment la j ai mis tout ce que j avais garde de cote pour pouvoir creer the dance hall mais en ne disant pas que j avais mis de l argent dedans donc c etait 0 risque pour la famille hum
+Reference:  c est enormement d argent et donc a ce moment la j ai mis tout ce que j avais garde de cote pour pouvoir creer the dancehall mais en ne disant pas que j avais mis de l argent dedans donc c etait 0 risque pour la famille
+-------------------------------------------
+
+Line ID: 6977084933
+WER Score: 0.83
+Transcript: et c est une discussion qu on a tres souvent ou dans nos familles en realite on ne nous pousse pas vers ca vers explorer d autres pistes qui ne soient pas explorer des sentiers etre hors sentier hors piste hors route ce n est pas forcement quelque chose qui est permis et je ne sais pas d ou vient je peux comprendre d ou vient cette peur on vit dans des pays assez compliques ou rien n est assure quand tu peux t assurer un revenu a la fin du mois autant le faire mais tu pars sur ca tu mets de l argent la bas tu n avoues pas que tu as mis de l argent et tu demarres
+Reference:  et c est une discussion qu on a tres souvent ou dans nos familles en realite on ne te pousse pas vers ca vers explorer d autres pistes qui ne soient pas explorer des sentiers etre hors sentier hors piste hors route ce n est pas forcement quelque chose qui est permis et je ne sais pas d ou vient je peux comprendre d ou vient cette peur on vit dans des pays assez compliques ou rien n est assure quand tu peux t assurer un revenu a la fin du mois autant le faire mais tu pars sur ca tu mets de l argent la bas tu n avoues pas que tu as mis de l argent et tu demarres
+-------------------------------------------
+
+Line ID: 2670169713
+WER Score: 6.33
+Transcript: parce qu a ce moment la je ne realize pas que the dancehall va etre une entreprise qui va prendre enormement de temps dans ma vie d energie de finances etc je ne realize pas en creant the dancehall moi je suis en train de suivre ma passion apres j ai choisi la forme entreprise j aurais pu dire je fais un groupe je fais une association on fait un truc mais ce n est pas qui je suis
+Reference:  parce que a ce moment la je ne realize pas que the dancehall va etre une entreprise qui va prendre enormement de temps dans ma vie d energie de finance etc je ne realize pas en creant the dancehall moi je suis en train de suivre ma passion apres j ai choisi la forme entreprise j aurais pu dire je fais un groupe je fais une association on fait un truc mais je ne sais pas qui je suis
+-------------------------------------------
+
+Line ID: 2670120988
+WER Score: 5.19
+Transcript: oui je sais qu il y a d autres personnes qui ont envie de prendre des cours et donc je peux completer mes revenus avec ca et donc pendant les deux premieres annees donc de 2013 a 2015 litteralement je quitte chez moi il est 7 heures parce qu apres je quitte une redaction et je rejoins une agence de l etat ou je suis chargee de com et ou donc a 8 heures je dois etre la
+Reference:  oui je sais qu il y a d autres personnes qui ont envie de prendre des cours et donc je peux completer mes revenus avec ca et donc pendant les deux premieres annees donc de 2013 a 2015 litteralement je quitte chez moi il est 7 h parce que apres je quitte une redaction et je rejoins une agence de l etat ou je suis chargee de com et donc a 8 h je dois etre la
+-------------------------------------------
+
+Line ID: 2670136637
+WER Score: 0.00
+Transcript: donc je quitte le matin a 7 h je finis a 17 h et j enchaine a the dancehall et j avais choisi a l epoque justement ce format ou on ne travaillait que les fins de journee parce qu il me fallait pouvoir finir un premier emploi pour enchainer sur le deuxieme
+Reference:  donc je quitte le matin a 7 h je finis a 17 h et j enchaine a the dancehall et j avais choisi a l epoque justement ce format ou on ne travaillait que les fins de journee parce qu il me fallait pouvoir finir un premier emploi pour enchainer sur le deuxieme
+-------------------------------------------
+
+Line ID: 6977095219
+WER Score: 7.02
+Transcript: je me suis mariee a 24 ans donc je suis tres mal placee pour pouvoir dire a quelqu un que tu t es mariee trop tot mais je pense que quand meme tu etais dans une epoque charniere ou tu as coche les cases parce qu il va falloir qu on en parle en termes de place c est a dire que tu es rentree dans le moule tu as trouve le travail qu il fallait que tu trouves tu t es mariee parce que tu t es mariee et tu as lance ton entreprise en meme temps je pense qu a un moment il fallait qu un lache
+Reference:  voila compare je me suis mariee a 24 ans donc je suis tres mal placee pour pouvoir dire a quelqu un que tu t es mariee trop tot mais je pense que quand meme tu etais dans une epoque charniere ou tu as couche les cases parce qu il va falloir qu on en parle en termes de place c est a dire tu es rentree dans le moule tu as trouve le travail qu il fallait que tu trouves tu t es mariee parce que j y vais essayer tu t es mariee et tu as lance ton entreprise en meme temps je pense qu a un moment il fallait qu un lache
+-------------------------------------------
+
+Line ID: 6977070657
+WER Score: 0.00
+Transcript: parce que dans ma tete on nous met plus ou moins dans un certain chemin on nous place dans des on va dire dans un couloir et nous devons avoir des checkpoints reguliers qu on doit cocher des jalons qu on doit respecter etc et du coup je suis partie de ce principe la en te parlant mais en vrai ce serait peut etre mieux de te poser la question est ce qu il y avait une place qui t etait destinee
+Reference:  parce que dans ma tete on nous met plus ou moins dans un certain chemin on nous place dans des on va dire dans un couloir et nous devons avoir des checkpoints reguliers qu on doit cocher des jalons qu on doit respecter etc et du coup je suis partie de ce principe la en te parlant mais en vrai ce serait peut etre mieux de te poser la question est ce qu il y avait une place qui t etait destinee
+-------------------------------------------
+
+Line ID: 2670183897
+WER Score: 0.00
+Transcript: parce qu il faut le dire moi je suis enfant unique du cote de ma mere qui est une mere celibataire mais qui aussi est une mere traditionnelle mais le fait d avoir ete celibataire toute sa vie ma mere ne s est jamais mariee et d avoir du m elever faire sa place faire son argent se battre dans une societe difficile ca a fait d elle aussi quelqu un qui permettait la difference
+Reference:  parce qu il faut le dire moi je suis enfant unique du cote de ma mere qui est une mere celibataire mais qui aussi est une mere traditionnelle mais le fait d avoir ete celibataire toute sa vie ma mere ne s est jamais mariee et d avoir du m elever faire sa place faire son argent se battre dans une societe difficile ca a fait d elle aussi quelqu un qui permettait la difference
+-------------------------------------------
+
+Line ID: 2670115424
+WER Score: 2.82
+Transcript: donc bien que je pense dans l ideal elle aurait voulu que son enfant ait un parcours plus traditionnel moins atypique que le sien qui a ete difficile mais en meme temps il n etait pas question pour elle de dire voila ce que tu dois etre forcement voila ce que tu dois faire forcement ou en tout cas il n etait pas possible de le communiquer comme ca
+Reference:  donc bien que je pense dans l ideal elle aurait voulu que son enfant peut etre ait un parcours plus traditionnel moins atypique que le sien qui a ete difficile mais en meme temps il n etait pas question pour elle de dire voila ce que tu dois etre forcement voila ce que tu dois faire forcement ou en tout cas il n etait pas possible de le communiquer comme ca
+-------------------------------------------
+
+Line ID: 2670169572
+WER Score: 0.00
+Transcript: donc il y a plutot le poids de l absence mais la chance et ca c est une chance aussi c est une benediction c est que mon pere lorsqu on a commence a avoir des rapports a distance les peu de temps qu on avait a passer ensemble etaient des temps de qualite et ou il m ouvrait les yeux sur la vie et ou il me liberait de toute chaine
+Reference:  donc il y a plutot le poids de l absence mais la chance et ca c est une chance aussi c est une benediction c est que mon pere lorsqu on a commence a avoir des rapports a distance les peu de temps qu on avait a passer ensemble etaient des temps de qualite et ou il m ouvrait les yeux sur la vie et ou il me liberait de toute chaine
+-------------------------------------------
+
+Line ID: 2670198074
+WER Score: 2.17
+Transcript: et ou il me disait tu as le droit de te definir tu as le droit de dire qui tu as envie d etre tu as le droit de ne pas accepter tu as le droit de combattre ce que tu estimes etre une injustice pour toi ou pour les autres parce que c est ce que lui a toujours fait mon pere a ete journaliste et je crois que ca ca a toujours ete dans le back of my head a l arriere de ma tete toujours en fait
+Reference:  et ou il me disait tu as le droit de te definir tu as le droit de dire qui tu as envie d etre tu as le droit de ne pas accepter tu as le droit de combattre ce que tu estimes etre une injustice pour toi ou pour les autres parce que c est ce que lui a toujours fait mon pere a ete journaliste et je crois que ca ca a toujours ete dans le dans the back of my head a l arriere de ma tete toujours en fait
+-------------------------------------------
+
+Line ID: 2670177615
+WER Score: 0.00
+Transcript: et je l ai porte avec moi dans tous les choix que j ai eu a faire parfois meme contre ma mere parce qu en realite je me disais mais pourquoi est ce qu il faut que je choisisse j ai le droit d etre plusieurs choses et si toi ce qui te fait plaisir c est juste d etre sure que ma securite financiere est assuree que l argent qui a ete depense pour mes etudes n a pas ete gaspille ok i am going to do that so here voila le job
+Reference:  et je l ai porte avec moi dans tous les choix que j ai eu a faire parfois meme contre ma mere parce qu en realite je me disais mais pourquoi est ce qu il faut que je choisisse j ai le droit d etre plusieurs choses et si toi ce qui te fait plaisir c est juste d etre sure que ma securite financiere est assuree que l argent qui a ete depense pour mes etudes n a pas ete gaspille ok i am going to do that so here voila le job
+-------------------------------------------
+
+Line ID: 6977044597
+WER Score: 5.26
+Transcript: c est ca aussi tout ce poids de l immigration dans notre cas ainsi de suite par contre dans ce que tu dis ca m interpelle parce qu effectivement les compliments de mon pere la fierte de mon pere etc ont toujours ete beaucoup plus importants que ce que ma mere pouvait dire ou qu elle pouvait penser ou le chemin meme qu elle pouvait tracer pour qu on puisse y passer
+Reference:  c est ca aussi tout ce poids de l immigration de l immigration dans notre cas ainsi de suite et par contre dans ce que tu dis ca m interpelle parce qu effectivement les compliments de mon pere la fierte de mon pere etc ont toujours ete beaucoup plus importants que ce que ma mere pouvait dire ou qu elle pouvait penser ou le chemin meme qu elle pouvait tracer pour qu on puisse y passer
+-------------------------------------------
+
+Line ID: 6977071860
+WER Score: 4.60
+Transcript: c est arrive a l age adulte que j ai fait la reflexion et que je me suis reconciliee avec cette partie d elle et qu on a retrouve une relation plus apaisee parce que je me rends compte qu elle n avait pas le choix quand j ai compris cette notion la qu elle n avait pas le choix parce qu elle devait assumer deux roles en meme temps le porter et l obligation de fermenter n etait qu a son niveau
+Reference:  c est arrive a l age adulte que j ai fait la reflexion et que je me suis reconciliee avec cette partie d elle et qu on a retrouve une on va dire une relation plus apaisee parce que je me rends compte qu elle n avait pas le choix quand j ai compris cette notion la qu elle n avait pas le choix parce qu elle devait assumer deux roles en meme temps le porter et l obligation de fermenter n etait qu a son niveau
+-------------------------------------------
+
+Line ID: 6977072510
+WER Score: 4.55
+Transcript: l obligation de ma reussite ne reposait que sur ses epaules a elle parce que quelqu un qui vient une fois par an ou meme quelqu un que tu vois comme tu dis de temps en temps n a pas cette implication au quotidien ou tu dois gerer tous les revers de la situation et donc ils ont le bon role je ne leur en veux absolument pas
+Reference:  l obligation de reussir ne reposait que sur ses epaules a elle parce que quelqu un qui vient une fois par an ou meme quelqu un que tu vois comme tu dis de temps en temps n a pas cette implication au quotidien ou tu dois gerer tous les revers de la situation et donc ils ont le bon role je leur en veux absolument pas
+-------------------------------------------
+
+Line ID: 2670168003
+WER Score: 0.00
+Transcript: aujourd hui je crois que j ai fait ce travail la et je suis beaucoup plus apaisee par rapport a toutes ces questions la mais moi ca m a permis en tout cas de revoir ma mere d une autre maniere et d avoir de l indulgence par rapport a avoir du respect pour la femme qu elle est parce qu elle a du etre mere et pere
+Reference:  aujourd hui je crois que j ai fait ce travail la et je suis beaucoup plus apaisee par rapport a toutes ces questions la mais moi ca m a permis en tout cas de revoir ma mere d une autre maniere et d avoir de l indulgence par rapport a avoir du respect pour la femme qu elle est parce qu elle a du etre mere et pere
+-------------------------------------------
+
+Line ID: 6977030521
+WER Score: 4.49
+Transcript: beaucoup beaucoup beaucoup beaucoup ce que tu dis concernant la figure paternelle l education qu il faut un village un ecosysteme tu me ramenes a une conversation que j ai eue avec ta presque tourando marima touretiam et justement ou elle parlait des trois figures de mere qu elle a eues elle a eu sa mere qui l a mise au monde mais dont elle n a jamais mange les petits plats par exemple parce que sa mere ne cuisinait pas forcement elle devait aller gagner sa vie
+Reference:  beaucoup beaucoup beaucoup beaucoup ce que tu dis concernant la figure paternelle l education qu il faut un village un ecosysteme tu me ramenes a une conversation que j ai eue avec ta presque tourondeau mariama toure cham et justement ou elle parlait des trois figures de mere qu elle a eues elle a eu sa mere qui l a mise au monde mais dont elle n a jamais mange les petits plats par exemple parce que sa mere ne cuisinait pas forcement elle devait aller gagner sa vie
+-------------------------------------------
+
+Line ID: 6977060193
+WER Score: 3.57
+Transcript: mais il y avait deux autres femmes l une etait sa tante l une etait la voisine qui tous les autres roles de mere ont ete portes par cette femme la donc elle a trois meres et du coup ce que ca a cree chez elle c est qu elle ne dissocie pas ses freres et soeurs uterins des freres et soeurs de ses deux autres meres des freres et soeurs qu elle a eues de ses deux autres meres et cette conversation etait magnifique
+Reference:  mais il y avait deux autres femmes l une etait sa tante l une etait la voisine qui tous les autres roles de mere ont ete portes par cette femme la donc elle a trois meres et du coup ce que ca cree chez elle c est qu elle ne dissocient pas ses freres et soeurs uterins des freres et soeurs de ses deux autres meres des freres et soeurs qu elle a eu de ses deux autres meres et cette conversation etait magnifique
+-------------------------------------------
+
+Line ID: 2670168833
+WER Score: 2.74
+Transcript: alors je pense que le moment ou je m en suis rendue compte c etait a travers l entrepreneuriat mais je m en suis rendue compte en meme temps que des limites que ca representait parce que ca aurait pu etre ah mais en fait je suis une femme je peux jouer de ceci je peux jouer de cela non ca a ete ah je suis une femme c est ca le probleme
+Reference:  alors je pense que le moment ou je m en suis rendu compte c etait a travers l entrepreneuriat mais je m en suis rendu compte en meme temps que des limites que ca representait parce que ca aurait pu etre ah mais en fait je suis une femme je peux jouer de ceci je peux jouer de cela non ca a ete ah je suis une femme c est ca le probleme
+-------------------------------------------
+
+Line ID: 2670183748
+WER Score: 12.70
+Transcript: et oui c est arrive parce qu au debut avec the dancehall jeune creative trop ambitieuse que je suis plein de projets de parcs creatifs de ceci de cela et donc j allais taper aux portes des ministeres pour leur dire ecoutez vous n avez peut etre pas les idees je les ai vous avez l argent donnez moi je vais faire
+Reference:  et oui c est arrive parce qu au debut avec le danse hall jeunes creatives trop ambitieuses que je suis plein de projets de parc creatif de ceci de cela et donc j allais taper aux portes des ministeres pour leur dire ecoutez vous n avez peut etre pas les idees je les ai vous avez l argent donnez moi je vais faire
+-------------------------------------------
+
+Line ID: 2670152001
+WER Score: 1.20
+Transcript: alors que pour toi c est un moment qui est important parce que tu l as prepare pendant des semaines tu dis voila ce que je vais dire il faut qu il se concentre sur le contenu et tu commences a faire attention a ok je ne vais pas trop en faire parce que sinon il va se concentrer sur autre chose peut etre qu il va avoir envie de me proposer des choses en echange et donc tu arrives un peu ferme physiquement
+Reference:  alors que pour toi c est un moment qui est important parce que tu l as prepare pendant des semaines tu dis voila ce que je vais dire il faut qu il se concentre sur le contenu et tu commences a faire attention a ok je vais pas trop en faire parce que sinon il va se concentrer sur autre chose peut etre qu il va avoir envie de me proposer des choses en echange et donc tu arrives un peu ferme physiquement
+-------------------------------------------
+
+Line ID: 2670178302
+WER Score: 1.18
+Transcript: et oui je m en suis rendue compte ici au senegal en tant qu entrepreneur quand j ai essaye de frapper a ces portes la mais j ai tres vite abandonne cette idee de je vais le faire malgre tout et j ai choisi de contourner j ai dit tu sais quoi ok je vais faire assez d argent pour tout pouvoir faire toute seule et ne pas avoir besoin de dire j ai besoin de vous et c est depuis dix ans comment je travaille
+Reference:  et oui je m en suis rendue compte ici au senegal en tant qu entrepreneur quand j ai essaye de frapper a ces portes la mais j ai tres vite abandonne cette idee de je vais le faire malgre tout et j ai choisi de contourner j ai dit tu sais quoi ok je vais faire assez d argent pour tout pouvoir faire toute seule et ne pas avoir besoin de dire j ai besoin de et c est depuis dix ans comment je travaille
+-------------------------------------------
+
+Line ID: 6977090399
+WER Score: 0.00
+Transcript: tu vas voir quelqu un qui ne sait pas c est quoi une danse urbaine qui ne comprend pas comment on peut avoir un business model qui fonctionne par rapport a ca qui n a jamais entendu parler d un center de danse urbaine qui ne sait pas qu on peut faire ca hors d une association ou d un gie ou d un machin
+Reference:  tu vas voir quelqu un qui ne sait pas c est quoi une danse urbaine qui ne comprend pas comment on peut avoir un business model qui fonctionne par rapport a ca qui n a jamais entendu parler d un center de danse urbaine qui ne sait pas qu on peut faire ca hors d une association ou d un gie ou d un machin
+-------------------------------------------
+
+Line ID: 2670122426
+WER Score: 9.89
+Transcript: et tu sais tu vas rigoler notre premier center on l avait loue hein et puis on l a construit en 2015 deux ans apres que j ai demarre quand je me suis rendue compte que c etait plus possible deja d allier mes deux emplois j ai quit et je me suis dit je me mets a temps plein dans the dancehall je remercie le ciel on faisait assez d argent pour que je puisse me permettre de dire ca et de dire je vais prendre un salaire hein
+Reference:  et tu sais tu vas rigoler notre premier center on l avait loue hein et puis on l a construit en 2015 deux ans apres que j ai demarre quand je me suis rendu compte que c etait plus possible deja d allier mes deux emplois j ai quitte et je me suis dit je me mets a temps plein dans des vins de sol je remercie l ocl on faisait assez d argent pour que je puisse me permettre de dire ca et de dire je vais prendre un salaire
+-------------------------------------------
+
+Line ID: 6977089145
+WER Score: 1.01
+Transcript: c est exactement ca et je crois qu a partir du moment ou tu le comprends ca change le rapport que tu as par rapport a ce que tu es en train de faire je suis en train de faire exactement la meme chose c est de dire ok ca va couter ca va me couter ca va couter a toutes les personnes de mon entourage mais apres tu as un produit tu as quelque chose que tu peux presenter qui fonctionne qui vit sa vie qui continue a evoluer et a partir de la tu pourras esperer grandir
+Reference:  c est exactement ca et je crois qu a partir du moment ou tu le comprends ca change le rapport que tu as par rapport a ce que tu es en train de faire je suis en train de faire exactement la meme chose c est de dire ok ca va couter ca va me couter ca va couter a toutes les personnes de mon entourage mais apres tu as un produit tu as quelque chose que tu peux presenter qui fonctionne qui vit sa vie qui continue a evoluer et a partir de la tu peux esperer grandir
+-------------------------------------------
+
+Line ID: 2670163468
+WER Score: 0.00
+Transcript: et l autre chose et ca c est aussi la question de l age je pense qu il est important moi je recommande toujours aux gens si vous n avez pas un safety net si vous n avez pas suffisamment d argent pour dire ok meme si je mets 2000000s 5000000s 10000000s dans ce truc et que je les perds je peux manger je peux boire je peux me soigner et soigner les personnes dont je suis responsable prends un boulot quitte a ne pas dormir la nuit mais prends un boulot qui te paye pendant que tu commences a mettre en place
+Reference:  et l autre chose et ca c est aussi la question de l age je pense qu il est important moi je recommande toujours aux gens si vous n avez pas un safety net si vous n avez pas suffisamment d argent pour dire ok meme si je mets 2000000s 5000000s 10000000s dans ce truc et que je les perds je peux manger je peux boire je peux me soigner et soigner les personnes dont je suis responsable prends un boulot quitte a ne pas dormir la nuit mais prends un boulot qui te paye pendant que tu commences a mettre en place
+-------------------------------------------
+
+Line ID: 2670141143
+WER Score: 5.26
+Transcript: meme quand on n a pas de probleme entre guillemets parce qu on en a toujours mais je veux dire pas de difficultes incroyables a un moment c est pas un deuil c est pas voila il y a quand meme des avantages a aller parler avec quelqu un qui arrive a mettre des mots sur nos mots
+Reference:  meme quand on n a pas de probleme entre guillemets parce qu on en a toujours mais je veux dire pas de difficulte incroyable a un moment c est pas un deuil c est pas voila y a quand meme des avantages a aller parler avec quelqu un qui arrive a mettre des mots sur nos mots
+-------------------------------------------
+
+Line ID: 6977049155
+WER Score: 3.16
+Transcript: et c est important pour moi de m en rappeler tres souvent de faire preuve de gratitude de me rappeler d etre reconnaissante envers les gens parce qu il y a plein de gens autour de moi qui ne sont pas forcement les personnes les plus proches a la base mais qui ont ete les personnes qui ont de vrais piliers quand j ai decide de sortir des clous je n ai jamais ete dans les clous mais quand tu decides de sortir des clous il y a d autres gens encore qui viennent te renforcer
+Reference:  et c est important pour moi de m en rappeler tres souvent de faire preuve de gratitude de me rappeler d etre reconnaissant envers les gens parce qu il y a plein de gens autour de moi qui ne sont pas forcement les personnes les plus proches a la base mais qui ont ete les personnes qui ont de vrais piliers quand j ai decide de sortir des clous j ai jamais ete dans les clous mais quand tu decides de sortir des clous il y a d autres gens encore qui viennent te renforcer
+-------------------------------------------
+
+Line ID: 2670119078
+WER Score: 2.08
+Transcript: c est une contre verite et j aurais aime qu on me dise ca aussi quand j avais 20 ans pour que je me prepare mieux la deuxieme chose c est justement toujours en lien avec ces mutations c est qu il faut choisir d etre flexible
+Reference:  et c est une contre verite et j aurais aime qu on me dise ca aussi quand j avais 20 ans pour que je me prepare mieux la deuxieme chose c est justement toujours en lien avec ces mutations c est qu il faut choisir d etre flexible
+-------------------------------------------
+
+Line ID: 2670154159
+WER Score: 1.72
+Transcript: la flexibilite est un choix en entrepreneuriat ce serait de dire voila mon plan mon business plan voila ma vision voila mon service voila mon produit on le met sur le marche et le marche dit non et on dit non non non non c est ca mon produit et puis pendant 20 ans c est ca ton produit
+Reference:  la flexibilite est un choix en entrepreneuriat ce serait de dire voila mon plan mon business plan voila ma vision voila mon service voila mon produit on le met sur le marche le marche dit non et on dit non non non non c est ca mon produit et puis pendant 20 ans c est ca ton produit
+-------------------------------------------
+
+Line ID: 2670138706
+WER Score: 2.35
+Transcript: parce que justement le fait d accepter le changement deja de l accepter nous permet d etre plus creatifs de dire ok donc ca veut dire qu il faut que j enrobe finalement cette bouteille d eau il faut que je fasse autre chose et je crois que c est le seul moyen de naviguer dans la vie sans prendre des coups trop durs d accepter d abord que la vie est faite de mutations et que nous fondamentalement nous devons muter avec et rapidement oui
+Reference:  parce que justement le fait d accepter le changement deja de l accepter nous permet d etre plus creatifs de dire ok donc ca veut dire qu il faut que j enrobe finalement cette bouteille d eau il faut que je fasse autre chose et je crois que c est le seul moyen de naviguer dans la vie sans prendre des coups trop durs d accepter d abord que la vie est faite de mutation et que nous fondamentalement nous devons muter avec et rapidement
+-------------------------------------------
+
+Line ID: 2670187016
+WER Score: 0.00
+Transcript: comment on en vient a ca je pense que ca commence par une passion une passion mais aussi une capacite a comprendre son environnement et a saisir des opportunites
+Reference:  comment on en vient a ca je pense que ca commence par une passion une passion mais aussi une capacite a comprendre son environnement et a saisir des opportunites
+-------------------------------------------
+
+Line ID: 2670148322
+WER Score: 0.00
+Transcript: moi je danse depuis que je suis petite c est un peu mon exutoire depuis que j ai 8 9 ans j ai realize que le mouvement me permettait d etre
+Reference:  moi je danse depuis que je suis petite c est un peu mon exutoire depuis que j ai 8 9 ans j ai realize que le mouvement me permettait d etre
+-------------------------------------------
+
+Line ID: 2670143299
+WER Score: 0.00
+Transcript: et donc oui ca a ete tres tres difficile pour moi deja de comprendre la place de la femme au senegal ensuite de la femme professionnelle parce que je rentrais dans le milieu professionnel
+Reference:  et donc oui ca a ete tres tres difficile pour moi deja de comprendre la place de la femme au senegal ensuite de la femme professionnelle parce que je rentrais dans le milieu professionnel
+-------------------------------------------
+
+Line ID: 2670148343
+WER Score: 3.28
+Transcript: ensuite de la femme entrepreneur donc ca veut dire pas juste professionnelle je me leve le matin je vais au bureau mais go getter je defonce des portes je veux ca je demande des financements je tape aux portes et puis je n ai pas peur en fait ca c etait incroyablement dur et puis oui j avais choisi de me marier
+Reference:  ensuite de la femme entrepreneur donc ca veut dire pas juste professionnelle je me leve le matin je vais au bureau mais go getter je defonce des portes je veux ca je demande des financements je tape aux portes et puis j ai pas peur en fait ca c etait incroyablement dur et puis oui j avais choisi de me marier
+-------------------------------------------
+
+Line ID: 2670146139
+WER Score: 11.90
+Transcript: quelle que soit la situation que l on vit ca va s arreter ca va changer il y aura une mutation la vie est faite d une mutation que ce soit dans le domaine prive que ce soit dans le domaine professionnel peu importe
+Reference:  quelle que soit la situation qu on vit ca va s arreter ca va changer il y aura une mutation la vie est faite des mutations que ce soit dans le domaine prive que ce soit dans le domaine professionnel peu importe
+-------------------------------------------
+
+Line ID: 2670184534
+WER Score: 2.04
+Transcript: parce que je trouve que beaucoup trop de jeunes ont l impression que ce qu ils vivent est definitif et que 0 my god c est la fin du monde et donc si on ne trouve pas la solution revolutionnaire tout de suite on est au bout du couffre
+Reference:  parce que je trouve que beaucoup trop de jeunes ont l impression que ce qu ils vivent est definitif et que 0 my god c est la fin du monde et donc si on ne trouve pas la solution revolutionnaire tout de suite on est au bout du cou
+-------------------------------------------
+
+Line ID: 8518368306
+WER Score: 6.90
+Transcript: je suis une femme active passionnee et ambitieuse le stress et les longues heures sont le prix a payer pour atteindre mes objectifs qu ils soient personnels ou professionnels c est d ailleurs la raison pour laquelle je m investis corps et ame dans mon travail au point ou je neglige tres souvent mes besoins de repos et de detente
+Reference:  je suis une femme active passionnee et ambitieuse le stress et les longues heures sont le prix a payer pour atteindre mes objectifs qu ils soient personnels ou professionnels c est d ailleurs la raison pour laquelle je m investis coreen dans mon travail au point ou je neglise tres souvent mes besoins de repos et de detente
+-------------------------------------------
+
+Line ID: 8518340344
+WER Score: 5.26
+Transcript: j integre une entreprise qui evolue dans le domaine de l informatique programmation de sites seo etc comme chargee de projet web je dois presenter 10 sites internet aux clients tous les jours au debut c est challengeant il y a de l adrenaline ca me plait mais plus le temps passe plus le rythme devient infernal
+Reference:  j integre une entreprise qui evolue dans le domaine de l informatique programmation de sites seo etc comme chargee de projets web je dois presenter dix sites internet aux clients tous les jours au debut c est challenge il y a de l adrenaline ca me plait mais plus le temps passe plus le rythme devient infernal
+-------------------------------------------
+
+Line ID: 8518337166
+WER Score: 3.77
+Transcript: je fais partie d une equipe de 5 personnes qui travaillent de jour comme de nuit pour atteindre les objectifs et ce n est pas tous les jours evident parce que on est en sous effectif les signes avant coureurs du burn out sont la mais plonges dans mon quotidien je les ignore
+Reference:  je fais partie d une equipe de cinq personnes qui travaillent de jour comme de nu pour atteindre les objectifs et ce n est pas tous les jours evident parce que on est en sous effectif les signes avant coureurs du burn out sont la mais plonges dans mon quotidien je les ignore
+-------------------------------------------
+
+Line ID: 8518366232
+WER Score: 1.85
+Transcript: les nuits blanches a repondre aux e mails les week ends sacrifies pour terminer des projets et surtout le sentiment constant d etre depasse par les exigences du travail sont devenus ma norme je ne realize meme pas que plus le temps passe plus je me perds peu a peu dans ce tourbillon infernal
+Reference:  les nuits blanches a repondre aux e mails les week ends sacrifies pour terminer des projets et surtout le sentiment constamment d etre depasse par les exigences du travail sont devenus ma norme je ne realize meme pas que plus le temps passe plus je me perds peu a peu dans ce tourbillon infernal
+-------------------------------------------
+
+Line ID: 8518331655
+WER Score: 0.00
+Transcript: puis un jour tout s effondre c est le trou noir je me retrouve incapable de me lever le matin submergee par une fatigue chronique et un sentiment d epuisement profond je n en peux juste plus je suis a bout meme les taches les plus simples semblent insurmontables
+Reference:  puis un jour tout s effondre c est le trou noir je me retrouve incapable de me lever le matin submergee par une fatigue chronique et un sentiment d epuisement profond je n en peux juste plus je suis a bout meme les taches les plus simples semblent insurmontables
+-------------------------------------------
+
+Line ID: 8518384084
+WER Score: 1.54
+Transcript: mon corps et mon esprit sont en train de me montrer que j ai atteint mes limites ca y est pourtant je me souviens qu une collegue internee il y a trois mois pour depression m avait alertee elle m avait meme demande de lever le pied mais je ne l ai pas ecoutee persistant dans mon quotidien aujourd hui elles sont la les consequences
+Reference:  mon corps et mon esprit sont en train de me montrer que j ai atteint mes limites ca y est pourtant je me souviens qu une collegue internee il y a trois mois pour depressions m avait alertee elle m avait meme demande de lever le pied mais je ne l ai pas ecoutee persistant dans mon quotidien aujourd hui elles sont la les consequences
+-------------------------------------------
+
+Line ID: 8518311457
+WER Score: 4.00
+Transcript: je revis j apprends a vivre a nouveau je prends le temps d analyser ma situation et une question tourne sans cesse dans ma tete quel est ce travail qui qui vaut la peine de sacrifier sa sante mentale je vois un psy je suis en train de quitter mon travail .
+Reference:  je revis j apprends a vivre a nouveau je prends le temps d analyser ma situation et une question tourne sans cesse dans ma tete quel est ce travail qui vaut la peine de sacrifier sa sante mentale je vois un psy je suis en train de quitter mon travail
+-------------------------------------------
+
+Line ID: 8518319261
+WER Score: 4.08
+Transcript: guerir du burn out n est pas une bataille que l on gagne du jour au lendemain je fais mon voyage de decouverte de soi mais surtout j apprends a realigner mes priorites c est tres important j apprends a valoriser ma sante mentale et mon bien etre
+Reference:  guerrer du burn out n est pas une bataille que l on gagne du jour au lendemain je fais mon voyage de decouverte de soi mais surtout j apprends a a realigner mes priorites c est tres important j apprends a valoriser ma sante mentale et mon bien etre
+-------------------------------------------
+
+Line ID: 8031466626
+WER Score: 6.67
+Transcript: vous venez d entendre son temoignage anna qui nous raconte son histoire avec le burn out et nous accueillons pour cette thematique sandrine psychosociologue bonjour sandrine comment tu vas
+Reference:  vous venez d entendre son temoignage anna qui nous raconte son histoire avec le burn out et nous accueillons pour cette thematique sandrine psycho sociologue bonjour sandrine comment tu vas
+-------------------------------------------
+
+Line ID: 8031456722
+WER Score: 2.08
+Transcript: absolument exactement ca et tu as entendu le temoignage d anna le burn out beaucoup de personnes en souffrent et d habitude ils ne savent meme pas qu ils en souffrent en fait donc qu est ce que le burn out et quelles sont ses causes ses symptomes
+Reference:  absolument exactement ca et tu as entendu le temoignage d anna le burn out beaucoup de personnes en souffrent et d habitude ils ne savent meme pas qu ils en souffrent en fait donc qu est ce que le burn out et quelles sont ses causes ses santos
+-------------------------------------------
+
+Line ID: 8031444719
+WER Score: 3.92
+Transcript: alors forcement il y a des signes a rencoureur du burn out comme dans toutes les pathologies mentales ca ne surgit pas d un coup quels sont ces signes a rencoureur qui montrent que cette personne la est arrivee au stade de ras le bol on va dire professionnel
+Reference:  alors forcement il y a des signes a rencoureur du burn out donc comme dans toutes les pathologies mentales ca ne surgit pas d un coup quels sont ces signes la a rencoureur qui montrent que cette personne la est arrivee au stade de ras le bol on va dire professionnel
+-------------------------------------------
+
+Line ID: 8031487003
+WER Score: 7.94
+Transcript: parce qu on a parle de la vie professionnelle etc et tu as brosse le sujet tout a l heure en disant que l environnement de travail peut impacter personnellement la personne mais meme dans ces relations interpersonnelles qui sont vraiment en dehors du travail comment le burnout peut il impacter les relations interpersonnelles de la personne concernee
+Reference:  parce qu on a parle de la vie professionnelle etc et tout et tu as brosse le sujet tout a l heure en disant que l environnement de travail peut impacter personnellement la personne mais meme dans ces relations interpersonnelles qui sont vraiment en dehors du travail comment le burnout peut il impacter on va dire les relations interpersonnelles de la personne concernee
+-------------------------------------------
+
+Line ID: 8031475300
+WER Score: 1.06
+Transcript: on est dans un contexte comme tu l as si bien dit senegalo senegalais ou forcement la premiere solution qui nous vient a l esprit ce n est pas le psychologue donc dans ces cas la parce que comme tu l as dit anna vraiment c est une exception parmi mille il y a peu de personnes qui vont se dire tiens je ne vais pas bien je vais aller voir un psychologue peut etre qu elle elle a cette culture la ce n est pas la meme chose pour des milliers de senegalais
+Reference:  on est dans un contexte comme tu l as si bien dit senegalos senegalais ou forcement la premiere solution qui nous vient a l esprit ce n est pas le psychologue donc dans ces cas la parce que comme tu l as dit anna vraiment c est une exception parmi mille il y a peu de personnes qui vont se dire tiens je ne vais pas bien je vais aller voir un psychologue peut etre qu elle elle a cette culture la ce n est pas la meme chose pour des milliers de senegalais
+-------------------------------------------
+
+Line ID: 8031457123
+WER Score: 0.00
+Transcript: tout a l heure tu as parle d etre proche de la personne d etre vigilant et autres ce n est pas evident nous on n a pas cette culture la de dire non telle personne a change maintenant il est devenu solitaire introverti qu est ce qui s est passe on a tendance c est vrai de plus en plus a ne pas juger mais le jugement est toujours la comment vraiment faire prendre conscience de ca aux familles
+Reference:  tout a l heure tu as parle d etre proche de la personne d etre vigilant et autres ce n est pas evident nous on n a pas cette culture la de dire non telle personne a change maintenant il est devenu solitaire introverti qu est ce qui s est passe on a tendance c est vrai de plus en plus a ne pas juger mais le jugement est toujours la comment vraiment faire prendre conscience de ca aux familles
+-------------------------------------------
+
+Line ID: 8031411856
+WER Score: 3.64
+Transcript: absolument absolument je reviens c est toi qui en a parle de l entreprise parce que comme tu l as dit c est une partie prenante mais vraiment importante on va dire dans la sante mentale le bien etre mental des employes quelle strategie elle peut mettre en place l entreprise pour aider son employe
+Reference:  absolument absolument je reviens c est toi qui en a parle de l entreprise parce que comme tu l as dit c est une partie prenante mais vraiment importante on va dire dans la sante mentale le bien etre mental des employes quelles strategies elle peut mettre en place l entreprise pour aider son employe
+-------------------------------------------
+
+Line ID: 8031436847
+WER Score: 5.71
+Transcript: et je dirais meme avant le burn out vraiment instaurer un environnement de travail sain pour que la personne puisse se sentir bien parce qu on est dans un monde capitaliste les gens recherchent objectifs chiffres d affaires etc jusqu a oublier qu il y a un etre humain qui travaille pour nous quelle strategie les entreprises peuvent mettre en place quelle methode pour aider leurs employes a aller mieux
+Reference:  et je dirais meme avant le burn out vraiment instaurer un environnement de travail sain pour que la personne puisse se sentir bien parce qu on est dans un monde capitaliste les gens recherchent objectifs chiffres d affaires etc jusqu a oublier qu il y a un etre humain qui travaille pour nous quelles strategies les entreprises peuvent mettre en place quelles methodes pour aider leurs employes a aller mieux
+-------------------------------------------
+
+Line ID: 8031458386
+WER Score: 0.00
+Transcript: c est a dire faire de l employe un ambassadeur limite meme de l entreprise et c est tres important je dirais meme que les entreprises jouent le role le plus important dans le burn out parce que tu l as dit tout a l heure l employe passe la plupart de sa journee a l entreprise peu de temps a la maison
+Reference:  c est a dire faire de l employe un ambassadeur limite meme de l entreprise et c est tres important je dirais meme que les entreprises jouent le role le plus important dans le burn out parce que tu l as dit tout a l heure l employe passe la plupart de sa journee a l entreprise peu de temps a la maison
+-------------------------------------------
+
+Line ID: 8031421655
+WER Score: 3.51
+Transcript: c est tres grave en fait c est tres grave et comme on a tendance a minimiser les petites choses je vais dire par exemple une petite deprime peut amener des problemes mentaux mais extraordinaires tu vas te dire non c est un vice etc alors que la personne a la base on pouvait l aider
+Reference:  c est tres grave en fait c est tres grave et comme on a tendance a minimiser les petites choses je veux dire par exemple une petite deprime peut t amener des problemes mentaux mais extraordinaires tu vas te dire non c est un vice etc alors que la personne a la base on pouvait l aider
+-------------------------------------------
+
+Line ID: 2141368639
+WER Score: 10.53
+Transcript: bonjour zubida fal c est deja un honneur et un plaisir d etre ici parmi vous de participer a ce rendez vous de la femme qui s appelle conversation feminine et c est un plaisir pour moi d etre ici effectivement en tant que maman en tant que lady maman mais surtout en tant que femme surtout
+Reference:  bonjour zoubida fall c est deja un honneur et un plaisir d etre ici parmi vous de participer a ce rendez vous de la femme qui s appelle conversations feminines et c est un plaisir pour moi d etre ici effectivement en tant que maah en tant que lady maah mais surtout en tant que femme surtout
+-------------------------------------------
+
+Line ID: 2141362723
+WER Score: 3.23
+Transcript: oui bon la scene pour moi elle est faite pour qu on puisse partager ce qu il y a de plus positif et ce qu il y a de plus pur de toi avec les autres parce qu etre sur scene c est un don de soi c est de pouvoir partager ton etre avec ceux qui sont en train de te regarder personnellement
+Reference:  oui la scene pour moi elle est faite pour qu on puisse partager ce qu il y a de plus positif et ce qu il y a de plus pur de toi avec les autres parce qu etre sur scene c est un don de soi c est de pouvoir partager ton etre avec ceux qui sont en train de te regarder
+-------------------------------------------
+
+Line ID: 2141349164
+WER Score: 0.00
+Transcript: pas seulement en train de t ecouter mais ceux qui sont en train de te regarder parce que celui qui vient en concert il vient avec ses soucis ses problemes et tout ca et il voudrait oublier ses problemes
+Reference:  pas seulement en train de t ecouter mais ceux qui sont en train de te regarder parce que celui qui vient en concert il vient avec ses soucis ses problemes et tout ca et il voudrait oublier ses problemes
+-------------------------------------------
+
+Line ID: 2141384549
+WER Score: 4.48
+Transcript: et il faudra faire le maximum possible pour que tu puisses l emmener dans cette ambiance positive et dans cette ambiance qui est apaisante moi je tiens a ce que les personnes qui sont meme si ce n est pas seulement ma scene meme si je joue avec quelqu un d autre que moi je puisse participer au fait que cette personne est venue
+Reference:  et il faudra faire le maximum possible pour que tu puisses l emmener dans cette ambiance positive et dans cette ambiance qui est apaisante et voila moi je tiens a ce que les personnes qui sont meme si ce n est pas seulement ma scene meme si je joue avec quelqu un d autre que moi je puisse participer au fait que cette personne elle est venue
+-------------------------------------------
+
+Line ID: 2141367693
+WER Score: 0.00
+Transcript: bon comme tu l as explique moi j ai commence a faire de la musique en famille c est en famille que j ai appris a aimer la musique surtout en particulier avec mon pere parce que c est lui qui c etait lui le grand melomane de la maison
+Reference:  bon comme tu l as explique moi j ai commence a faire de la musique en famille c est en famille que j ai appris a aimer la musique surtout en particulier avec mon pere parce que c est lui qui c etait lui le grand melomane de la maison
+-------------------------------------------
+
+Line ID: 2141393673
+WER Score: 13.24
+Transcript: c est lui qui nous faisait consommer plein de styles de musique nous nous n avons pas grandi nous avons connu l hambalakh mais nous n avons pas grandi avec l hambalakh nous avons grandi avec les tracy chapman les dire straits moi j ai commence a ecouter ubi foti a l age de 4 ans alors voila ca a fait de nous des personnes avec une vaste culture musicale
+Reference:  c est lui qui nous faisait consommer plein de styles de musique nous nous n avons pas grandi nous avons connu le mbalakh mais nous n avons pas grandi avec le mbalakh nous avons grandi avec les tracy chapman les dire straits moi j ai commence a ecouter ub 40 a l age de quatre ans ca a fait de nous des personnes avec une vaste culture musicale
+-------------------------------------------
+
+Line ID: 2141316487
+WER Score: 2.44
+Transcript: c est comme ca qu on a aime la musique on a aime l ecouter minutieusement ecouter minutieusement la jouer minutieusement et voila c est ca qui nous a amene a en faire un metier et a le faire serieusement
+Reference:  c est comme ca qu on a d aime la musique on a aime l ecouter minutieusement ecouter minutieusement la jouer minutieusement et voila c est ca qui nous a amene a en faire un metier et a le faire serieusement
+-------------------------------------------
+
+Line ID: 2141339398
+WER Score: 0.00
+Transcript: parce que moi rien qu en regardant la guitare basse j avais peur parce que je savais que c etait lourd que c etait physique comme instrument que ca demande c est moins rigolo de jouer a la basse par exemple que de jouer a la guitare et tout ca
+Reference:  parce que moi rien qu en regardant la guitare basse j avais peur parce que je savais que c etait lourd que c etait physique comme instrument que ca demande c est moins rigolo de jouer a la basse par exemple que de jouer a la guitare et tout ca
+-------------------------------------------
+
+Line ID: 2141315610
+WER Score: 9.88
+Transcript: ou bien jouer du piano moi j etais plus attiree par le piano parce que c est plus melodique et tout et moi puisque j etais une grande romantique et tout ca j aimais tout ce qui etait melodique alors qu a la base c est plus dur c est plus comme ca j etais reticente mais bon puisque mon pere c est un perseverant il m a voila comme on dit en wolofmayou madara
+Reference:  ou bien de jouer du piano moi j etais plus attiree par le piano parce que voila c est plus melodique et tout et moi puisque j etais une grande romantique et tout ca j aimais tout ce qui etait melodique et alors qu a la basse c est plus dur c est plus comme ca moi j etais reticente mais bon puisque mon pere c est un perseverant il m a . voila comme on dit en wolof mayu madara
+-------------------------------------------
+
+Line ID: 2141341498
+WER Score: 6.35
+Transcript: au debut elle etait reticente et tout ca parce qu elle voulait vraiment que je reussisse dans mes etudes et tout l autre elle etait beaucoup plus elle etait beaucoup plus truc emballee pour que ses enfants fassent de la musique parce que ce sont ce que ses enfants aiment et tout mais ma mere elle etait beaucoup plus stricte et tout ca oui
+Reference:  au debut elle etait reticente et tout ca parce qu elle voulait vraiment que je reussisse dans mes etudes et tout l autre elle etait beaucoup plus elle etait beaucoup plus truc emballee pour que ces enfants fassent de la musique parce que ce sont ceux que ces enfants aiment et tout mais ma mere elle etait beaucoup plus stricte et tout ca
+-------------------------------------------
+
+Line ID: 2141328613
+WER Score: 7.87
+Transcript: il ne le disait pas de maniere gentille mais bon moi d habitude dans toutes les situations quand on ne me repond pas gentiment soit je me bagarre soit je te dis laisse moi tranquille je me defends ca c est naturel tu apprends a te defendre mais je ne me suis jamais morfondue sur mon sort je n ai jamais accepte de faire ca et meme en grandissant de plus en plus je l ai pris spirituellement je l ai accepte comme un cadeau
+Reference:  oui ils ne le disaient pas de maniere gentille mais bon moi d habitude dans toutes les situations quand on ne me repond pas gentiment soit je me bagarre soit je te dis hey laisse moi tranquille je me defends voila ca c est naturel tu apprends a te defendre mais je ne me suis jamais morfondue sur mon sort je ne l ai jamais accepte de faire ca et meme en grandissant de plus en plus je l ai pris spirituellement je l ai accepte comme un cadeau
+-------------------------------------------
+
+Line ID: 2141391349
+WER Score: 5.77
+Transcript: parce qu en etudiant l albinisme en sachant que ca n existe pas seulement chez les etres humains mais que ca existe chez les plantes et chez les animaux je me suis dit que ca c est une preuve dieu a voulu vraiment nous montrer sa grandeur et sa capacite a creer
+Reference:  parce que apres en etudiant l albinisme en sachant que ca n existe pas seulement chez les etres humains mais que ca existe chez les plantes et chez les animaux je me suis dit ca c est une preuve dieu a voulu vraiment nous montrer sa grandeur et sa capacite a creer
+-------------------------------------------
+
+Line ID: 2141358657
+WER Score: 5.41
+Transcript: bon moi je ne l ai pas reellement vecu ca parce que je suis dans une famille ou j etais acceptee par tout le monde meme les tantes eloignees les cousines eloignees je n avais pas de probleme
+Reference:  bon moi je n ai pas reellement vecu ca parce que je suis dans une famille ou j etais acceptee par tout le monde meme les tantes eloignees les cousines eloignees je n avais pas de probleme
+-------------------------------------------
+
+Line ID: 2141393267
+WER Score: 3.77
+Transcript: non non parce que bon moi je l ai dit c est surtout c est pas parce qu ils veulent attirer la chance c est pas parce qu ils etaient prets pour un gris gris le plus souvent mais c est parce que le plus souvent c est parce qu ils sont curieux
+Reference:  non non parce que bon moi je l ai dit c est surtout c est pas parce qu ils veulent attirer la chance c est pas parce qu ils t apprennent pour un gris gris le plus souvent mais c est parce que le plus souvent c est parce qu ils sont curieux
+-------------------------------------------
+
+Line ID: 2141395365
+WER Score: 0.00
+Transcript: il y a eu un scandale moi je n etais pas choquee parce que c est un peu je crois que c est c est vrai que j ai un peu reproche aussi aux personnes qui ont infiltre ce groupe d hommes d entrer et de savoir ce qui se dit dans ce groupe d hommes
+Reference:  il y a eu un scandale moi je n etais pas choquee parce que c est un peu je crois que c est c est vrai que j ai un peu reproche aussi aux personnes qui ont infiltre ce groupe d hommes d entrer et de savoir ce qui se dit dans ce groupe d hommes
+-------------------------------------------
+
+Line ID: 2141391971
+WER Score: 0.00
+Transcript: mais bon de la a ce qu ils fassent des publications sur nous bon c est vrai que ca peut etonner plein de gens mais moi ca ne m etonne pas parce que moi je suis atteinte d albinisme alors je sais un peu ce qu ils pensent de nous
+Reference:  mais bon de la a ce qu ils fassent des publications sur nous bon c est vrai que ca peut etonner plein de gens mais moi ca ne m etonne pas parce que moi je suis atteinte d albinisme alors je sais un peu ce qu ils pensent de nous
+-------------------------------------------
+
+Line ID: 2141314563
+WER Score: 0.00
+Transcript: oui ca c est vrai ils ont plus acces a ca que nous parfois il y a un de mes amis qui m a dit il faut dire aux femmes que nous quand vous nous appelez dans la rue et qu on ne vous repond pas c est parce qu on ne vous voit pas c est pas parce que vous ne nous plaisez pas
+Reference:  oui ca c est vrai ils ont plus acces a ca que nous parfois il y a un de mes amis qui m a dit il faut dire aux femmes que nous quand vous nous appelez dans la rue et qu on ne vous repond pas c est parce qu on ne vous voit pas c est pas parce que vous ne nous plaisez pas
+-------------------------------------------
+
+Line ID: 2141375572
+WER Score: 4.00
+Transcript: mais a cote de ca en etant une personne travailleuse independante qui n aspire pas a etre une femme au foyer a 100% pas qu elle n aspire pas a etre une femme au foyer qui aspire a l etre mais aussi en ayant sa propre autonomie et sa propre independance
+Reference:  mais a cote de ca en etant une personne travailleuse independante qui n aspire pas a etre une femme au foyer a 100% pas qui n aspire pas a etre une femme au foyer qui aspire a l etre mais aussi en ayant sa propre autonomie et sa propre independance
+-------------------------------------------
+
+Line ID: 2141394218
+WER Score: 10.53
+Transcript: et j ai eu la chance aussi d avoir un pere qui a mis ca tres tot dans ma tete que je dois etre autonome et que je dois etre forte determinee et independante
+Reference:  et j ai eu la chance aussi d avoir un pere qui a mis ca qui a mis ca tres tot dans ma tete que je dois etre autonome et que je dois etre forte determinee et independante
+-------------------------------------------
+
+Line ID: 2141375471
+WER Score: 14.58
+Transcript: bon moi je me dis que c est une question d organization et aussi c est une question d entente avec le partenaire parce qu un partenaire aussi il faut savoir s entendre avec lui sur certains points je ne sais pas bon je ne sais pas si je peux donner un exemple d exemple
+Reference:  bon moi je me dis que c est une question d organization et aussi c est une question d entente avec le partenaire parce qu un partenaire aussi il faut savoir s entendre avec lui sur certains points je ne sais pas si je peux donner un exemple
+-------------------------------------------
+
+Line ID: 2141361603
+WER Score: 9.30
+Transcript: parce que moi je suis d avis qu en matiere de mariage il y a un aine et un cadet ca j en suis consciente parce que moi j ai respecte mon pere toute ma vie j ai respecte mes freres toute ma vie
+Reference:  parce que moi je suis d avis qu en matiere de mariage j ai un nene et un cadet ca j en suis consciente parce que moi j ai respecte mon pere toute ma vie j ai respecte mes freres toute ma vie
+-------------------------------------------
+
+Line ID: 2141393852
+WER Score: 1.82
+Transcript: alors il n y a pas de raison pour que je ne respecte pas mon mari et a cote de ca il faut aussi qu on se fasse les compromis qu il faut parce que je ne vais pas rester plantee dans la maison 365 jours sur 365 a attendre un gars comme ca
+Reference:  alors il n y a pas de raison pour que je ne respecte pas mon mari et a cote de ca il faut aussi qu on se fasse les compromis qu il faut parce que je ne vais pas aussi rester plantee dans la maison 365 jours sur 365 a attendre un gars comme ca
+-------------------------------------------
+
+Line ID: 2141321960
+WER Score: 2.17
+Transcript: alors moi heureusement je n ai pas appris a etre une casse sociale moi j ai appris a etre une femme pas autonome 100% mais qui gere quand meme certaines choses qui gere certaines choses de sa vie de ses besoins personnels et tout ca voila
+Reference:  alors moi heureusement je n ai pas appris a etre une case sociale moi j ai appris a etre une femme pas autonome 100% mais qui gere quand meme certaines choses qui gere certaines choses de sa vie de ses besoins personnels et tout ca voila
+-------------------------------------------
+
+Line ID: 2141380712
+WER Score: 5.88
+Transcript: c est surtout ca vivre une vie un peu je suis tres spirituelle je fais mais lui consacrer un peu plus de temps j aimerais bien ca j aimerais bien avoir ce temps la quand meme
+Reference:  c est surtout ca vivre une vie un peu je suis tres spirituelle mais lui consacrer un peu plus de temps j aimerais bien ca j aimerais bien avoir ce temps la quand meme
+-------------------------------------------
+
+Line ID: 2141359486
+WER Score: 5.88
+Transcript: je dirais que j ai fait un peu de bruit quand meme je ne vais pas dire place place mais quand meme que j ai appris a gagner le respect de certaines personnes surtout des personnes les plus essentielles tu as precise que je joue tres souvent avec barba mal
+Reference:  je dirais que bon j ai fait un peu de bruit quand meme je ne vais pas dire place place mais quand meme que j ai appris a gagner le respect de certaines personnes surtout des personnes les plus essentielles tu as precise que je joue tres souvent avec barbara mahle
+-------------------------------------------
+
+Line ID: 2141315323
+WER Score: 0.00
+Transcript: je sais que c est une personne qui a beaucoup d affection pour moi qui m aime beaucoup mais je sais aussi que je beneficie qu il a du respect pour ce que je fais et pour ce que je represente et qu il en est fier
+Reference:  je sais que c est une personne qui a beaucoup d affection pour moi qui m aime beaucoup mais je sais aussi que je beneficie qu il a du respect pour ce que je fais et pour ce que je represente et qu il en est fier
+-------------------------------------------
+
+Line ID: 2141316215
+WER Score: 0.00
+Transcript: j ai rencontre aussi de grands musiciens aussi comme youssou ndour et tout ca et je sais qu il y a aussi ce respect pour ce que je suis et ce que je represente meme si je ne suis pas youssou ndour
+Reference:  j ai rencontre aussi de grands musiciens aussi comme youssou ndour et tout ca et je sais qu il y a aussi ce respect pour ce que je suis et ce que je represente meme si je ne suis pas youssou ndour
+-------------------------------------------
+
+Line ID: 2141390323
+WER Score: 8.33
+Transcript: bon 20 ans moi je me dis que 20 ans la ca aurait ete plus 20 ans ca aurait ete dur pour moi parce que comme j ai dit je viens de perdre ma mere alors la perdre a l age de 20 ans ca aurait ete tres complique oui
+Reference:  bon 20 ans moi je me dis 20 ans la ca aurait ete plus . 20 ans ca aurait ete dur pour moi parce que comme j ai dit je viens de perdre ma mere alors la a l age de 20 ans ca aurait ete tres complique
+-------------------------------------------
+
+Line ID: 2141369025
+WER Score: 3.64
+Transcript: et c est le regret que j ai eu le plus c est ce que j ai le plus regrette parce que ce qu elle peut t apporter ce qu elle peut spirituellement t apporter ce qu elle peut t apporter personne d autre au monde ne peut te l apporter et c est ca quoi
+Reference:  et c est le regret que j ai eu le plus c est ce que j ai le plus regrette parce que ce qu elle peut t apporter ce qu elle peut spirituellement t apporter ce qu elle peut t apporter personne d autre au monde ne peut t apporter et c est ca quoi
+-------------------------------------------
+
+Line ID: 2141314585
+WER Score: 7.58
+Transcript: moi quand tu me parles de 20 ans et actuellement je pense directement a 20 ans sans maman mais bon je crois que je l aurais pris aussi positivement que je l etais je n ai pas regrette la vie que j ai eue a mes 20 ans parce qu a mes 20 ans je commencais deja a travailler a voyager a decouvrir le monde scolaire
+Reference:  moi quand tu me parles de 20 ans et actuellement j ai directement pense a 20 ans sans maman mais bon je crois que je l aurais pris aussi positivement que je l etais je n ai pas regrette la vie que j ai eue a mes 20 ans parce que a mes 20 ans je commencais deja a travailler a voyager a decouvrir le monde
+-------------------------------------------
+
+Line ID: 2141391393
+WER Score: 3.51
+Transcript: c est deja bien alors bon je n ai pas beaucoup trop a me plaindre et pour moi chaque chose vient a son temps alors bon si j ai decouvert des choses trop tard apres mes 20 ans je ne m en suis meme pas rendue compte parce que j ai quand meme assez vecu de choses
+Reference:  c est deja bien alors bon je n ai pas beaucoup trop a me plaindre et pour moi chaque chose vient a son temps alors bon si j ai decouvert des choses trop tard apres mes 20 ans je ne m en suis meme pas rendu compte parce que j ai quand meme assez vecu des choses
+-------------------------------------------
+
+Line ID: 2141314779
+WER Score: 6.67
+Transcript: j ai grandi dans un environnement polygame mon pere avait deux epouses une epouse avec laquelle elle a eu cinq garcons et deux filles et une autre avec laquelle elle a eu deux filles ca lui a fait neuf enfants ca lui a fait neuf enfants
+Reference:  j ai grandi dans un environnement polygame mon pere avait deux epouses une epouse avec laquelle il a eu cinq garcons et deux filles et une autre avec laquelle il a eu deux filles ca lui fait neuf enfants ca lui a fait neuf enfants
+-------------------------------------------
+
+Line ID: 2141318586
+WER Score: 30.30
+Transcript: je suis la fille de la la fille ainee de la deuxieme epouse ok et est bon et bon je suis la seule de toute la famille la seule fille de toute la famille qui a fait de la musique donc
+Reference:  moi je suis la fille ainee de la deuxieme epouse et bon je suis la seule de toute la famille la seule fille de toute la famille qui a fait de la musique
+-------------------------------------------
+
+Line ID: 1020496416
+WER Score: 15.22
+Transcript: je suis une senegalaise tres fiere de l etre avec un parcours senegalais un parcours academique senegalais donc je suis un pur produit de l ecole senegalaise ecole publique senegalaise a travers le lycee de l eglise de l universite de charenta joppe et ensuite enseignement superieur prive
+Reference:  je suis une senegalaise tres fiere de l etre avec un parcours senegalais un parcours academique senegalais donc je suis un pur produit de l ecole senegalaise ecole publique senegalaise a travers le lycee blaise diagne l universite cheikh anta diop et ensuite enseignement superieur prive
+-------------------------------------------
+
+Line ID: 1020431739
+WER Score: 4.26
+Transcript: je fais partie de la premiere promotion de l ism ou j ai fait mon bachelor en commerce international et aussi j ai eu a preparer une maitrise en gestion des entreprises au cesac mais ca c etait en cours du soir parallelement a mon activite professionnelle
+Reference:  je fais partie de la premiere promotion de l ism ou j ai fait mon bachelors en commerce international et aussi j ai eu a preparer une maitrise en gestion des entreprises au sesac mais ca c etait en cours du soir parallelement a mon activite professionnelle
+-------------------------------------------
+
+Line ID: 1020443070
+WER Score: 0.00
+Transcript: dix ans apres avoir commence a travailler parce que je suis une personne curieuse et j aime toujours apprendre pour elargir mes horizons et puis pour pouvoir progresser dans la vie chaque jour j essaie d apprendre un peu plus et de le transmettre
+Reference:  dix ans apres avoir commence a travailler parce que je suis une personne curieuse et j aime toujours apprendre pour elargir mes horizons et puis pour pouvoir progresser dans la vie chaque jour j essaie d apprendre un peu plus et de le transmettre
+-------------------------------------------
+
+Line ID: 1020439521
+WER Score: 3.70
+Transcript: j aime faire bouger les lignes ou je me trouve que ce soit dans la cite ou j habite ou que ce soit au bureau ou que ce soit dans le club d investissement que j ai l honneur de diriger le wic le management club depuis 2020 ou que ce soit dans le groupement des armateurs et industriels du secteur de la peche ou j ai ete vice presidente jusqu en 2020 et la je suis la tresoriere
+Reference:  j aime faire bouger les lignes ou que je me trouve que ce soit dans la cite ou j habite ou que ce soit au bureau ou que ce soit dans le club d investissement que j ai l honneur de diriger le wic le moneyless one club depuis 2020 ou que ce soit dans le groupement des armateurs et industriels du secteur de la peche ou j ai ete vice presidente jusqu en 2020 et la je suis la tresoriere
+-------------------------------------------
+
+Line ID: 1020449916
+WER Score: 0.00
+Transcript: j aime etre dans on va dire le mouvement associatif mais pas que j aime etre partout ou une action peut changer la donne
+Reference:  j aime etre dans on va dire le mouvement associatif mais pas que j aime etre partout ou une action peut changer la donne
+-------------------------------------------
+
+Line ID: 1020475751
+WER Score: 9.30
+Transcript: en fait dans ma definition je n ai pas dit que je suis tao je suis tao je suis l ainee de ma famille une famille qui j ai cinq soeurs et un petit frere donc une famille de filles en general et un seul garcon
+Reference:  en fait dans ma definition je n ai pas dit que je suis tau je suis l ainee de ma famille une famille qui j ai cinq soeurs et un petit frere donc une famille de filles en general et un seul garcon
+-------------------------------------------
+
+Line ID: 1020493403
+WER Score: 2.70
+Transcript: et j ai ete eduquee avec le sens des responsabilites tres tot par un pere qui me disait toujours que dans la vie il faut toujours marcher la tete tres haute qui voulait etre fiere de ses filles
+Reference:  j ai ete eduquee avec le sens des responsabilites tres tot par un pere qui me disait toujours que dans la vie il faut toujours marcher la tete tres haute qui voulait etre fiere de ses filles
+-------------------------------------------
+
+Line ID: 1020414561
+WER Score: 0.00
+Transcript: et par ma mere qui etait on ne savait pas vraiment le role de notre maman avant d avoir moi mes enfants je pense que c est quelque chose que je n evaluais pas a sa juste valeur
+Reference:  et par ma mere qui etait on ne savait pas vraiment le role de notre maman avant d avoir moi mes enfants je pense que c est quelque chose que je n evaluais pas a sa juste valeur
+-------------------------------------------
+
+Line ID: 1020479406
+WER Score: 4.76
+Transcript: ma mere c est quelqu un qui etait eduquee dans les choses de la vie la gestion de la maison la rigueur mais c etait vraiment l education de la maison de la rigueur mon pere suivait beaucoup plus nos etudes
+Reference:  ma mere c est quelqu un qui etait eduque dans les choses de la vie la gestion de la maison la rigueur mais c etait vraiment l education de la maison de la rigueur mon pere il suivait beaucoup plus nos etudes
+-------------------------------------------
+
+Line ID: 1020432845
+WER Score: 11.59
+Transcript: c est lui qui m a amenee quand j etais plus jeune au cinema qui m a amenee a soirano voir les matinees creatives etc et voila qui etait plus proche de moi cote etudes mais ce qu on n evaluait pas vraiment veritablement c est cet autre cote qui etait moins visible qu assurait ma mere sur la tenue la rigueur le savoir etre le savoir comportemental
+Reference:  c est lui qui m emmenait quand j etais plus jeune au cinema qui m emmenait a sorano voir les matinees creatives etc et voila qui etait plus proche de moi cote a cote d etudes mais ce qu on n evaluait pas vraiment veritablement c est cet autre cote qui etait moins visible qu assurait ma mere sur la tenue la rigueur le savoir etre le savoir comportemental
+-------------------------------------------
+
+Line ID: 1020429816
+WER Score: 11.11
+Transcript: et la j ai ete eduquee par mon pere qui me disait toujours dans la vie il faut savoir marcher la tete haute et partout ou j etais j essayais de le faire et marcher la tete haute c est savoir le sens des choses
+Reference:  et la j ai ete eduquee par mon pere qui me disait toujours il faut dans la vie il faut savoir marcher la tete haute et partout ou j etais j essayais de le faire et marcher la tete haute c est avoir le sens
+-------------------------------------------
+
+Line ID: 1020492916
+WER Score: 12.96
+Transcript: c est quelque chose que je n allais pas deleguer entre les mains de quelqu un d autre fut il un mari parce que le mari c est pas le fils de mes parents c est pas le frere de mes soeurs c est pas le tao c est moi
+Reference:  et c est quelque chose que je n allais pas deleguer entre les mains de quelqu un d autre fut il un mari parce que le mari ce n est pas le fils de mes parents ce n est pas le frere de mes soeurs ce n est pas le tao c est moi
+-------------------------------------------
+
+Line ID: 1020496938
+WER Score: 4.44
+Transcript: et je pense que ca m a donne des objectifs dans la vie ca m a donne une perseverance pour pouvoir reussir cette mission avec brio je parle comme une championne parce que ca je pense que je l ai appris au women in dressman club
+Reference:  et je pense que ca m a donne des objectifs dans la vie ca m a donne une perseverance pour pouvoir reussir cette mission avec brio je parle comme une championne parce que ca je pense que je l ai appris au women embracement club
+-------------------------------------------
+
+Line ID: 1020481557
+WER Score: 1.59
+Transcript: parce que j y cotoie des femmes formidables et au debut dans tout ce qui transparaissait dans les propos de personnes qu on y rencontre qui avaient eu d autres interactions on va dire c est que dans cette vie la nous les femmes on ne parle pas suffisamment a voix haute on ne s affirme pas alors que nous sommes des championnes
+Reference:  parce que j y cotoie des femmes formidables et au debut dans tout ce qui transparaissait dans les propos de personnes qu on y rencontre qui avaient eu d autres interactions on va dire c est que dans cette vie la nous les femmes on ne parle pas suffisamment a voix haute on ne s affirme pas alors que nous sommes des champions
+-------------------------------------------
+
+Line ID: 1020482802
+WER Score: 3.39
+Transcript: la rigueur ah la rigueur et quand j etais on m a propose on m a nominee comme presidente du wic je ne me suis pas proposee parce que je ne pensais pas etre capable d etre presidente du wic ce sont mes autres soeurs du wic qui m ont propose en 2020 j ai reflechi j ai reflechi
+Reference:  la rigueur ah la rigueur et quand j etais on m a propose on m a nomine comme presidente du wic je ne me suis pas proposee parce que je ne pensais pas etre capable d etre presidente du wic ce sont mes autres soeurs du wic qui m ont proposee en 2020 j ai reflechi j ai reflechi
+-------------------------------------------
+
+Line ID: 1020443804
+WER Score: 6.33
+Transcript: et la comme elle etait a la maison elle etait inscrite etc donc les femmes se sont tournees vers elle en lui disant comme vous etes arrivees des premieres vous etes agees est ce que vous pouvez l aider ca donc elle l a fait au debut c etait une petite poignee mais apres la cite a continue de grandir et on a vu ma mere qui devenait vraiment l organe central de la cite elle gerait de l argent
+Reference:  et la comme elle etait a la maison elle etait insuite etc donc les femmes se sont tournees vers elle en lui disant comme vous etes arrivee des premieres vous etes agee est ce que vous pouvez l aider ca donc elle a fait au debut c est une petite poignee mais apres la cite a continue de grandir et on a vu ma mere qui devenait vraiment l organe central de la cite elle gerait de l argent
+-------------------------------------------
+
+Line ID: 1020411535
+WER Score: 3.08
+Transcript: mais au dela de l argent parfois le soir on voyait des femmes qui venaient en toute discretion poser des problemes et ma mere c est une tombe meme nous ses enfants elle ne parle que de ce qui nous concerne et ca je pense que c est une valeur qui est extremement importante c est une tombe on voyait des femmes qui rentraient qui sortaient
+Reference:  mais au dela de l argent parfois le soir on voyait des femmes qui venaient en toute discretion poser des problemes et ma mere c est une tombe meme nous ces enfants elle ne parle que ce qui nous concerne et ca je pense que c est une valeur qui est extremement importante c est une tombe on voyait des femmes qui rentraient qui sortaient
+-------------------------------------------
+
+Line ID: 1020471076
+WER Score: 3.45
+Transcript: apres on lui a laisse son espace pour qu elle puisse recevoir ses femmes et chaque fois je me rappelle il y avait une reunion il etait courant de voir des femmes qui courraient pour arriver a la reunion parce que chaque fois que tu arrives avec cinq minutes de retard il y a une penalite a payer
+Reference:  apres on lui a laisse son espace pour qu elle puisse recevoir ces femmes et chaque fois je me rappelle il y avait une reunion il etait courant de voir des femmes qui couraient pour arriver a la reunion parce que chaque fois que tu arrives avec cinq minutes de retard il y a une penalite a payer
+-------------------------------------------
+
+Line ID: 1020473284
+WER Score: 6.38
+Transcript: et je pense qu apres une dizaine d annees elles avaient entre un gain placement etc une quinzaine de 1000000s qui etaient places a la banque et qui essaient de tourner et de financer les femmes et tout ca sous la responsabilite de ma mere
+Reference:  et je pense qu apres une dizaine d annees elles avaient entre un gain un placement etc une quinzaine de 1000000s qui etaient places a la banque et qui s essayaient de tourner et de financer les femmes et tout ca sous la responsabilite de ma mere
+-------------------------------------------
+
+Line ID: 1020432005
+WER Score: 9.09
+Transcript: elle avait de la retenue mais ma mere moi je suis tres exuberante je danse je rige ma mere n est pas du tout comme ca elle est plutot tres tres sereine tres dure c est vraiment sur ses .
+Reference:  elle avait de la tenue de la retenue mais ma mere moi je suis tres exuberante je danse je rige ma mere n est pas du tout comme ca elle est plutot tres tres sereine tres dure tres c est vraiment sur ses .
+-------------------------------------------
+
+Line ID: 1020490211
+WER Score: 10.71
+Transcript: ma mere est secretaire d administration nous ne roulerons pas sur l or mais nous n aurons jamais manque de rien et je n ai jamais vu comme s il y avait des histoires de femmes de personnes qui venaient a la maison pour demander qu on les paye ici ou qu on les paye la bas
+Reference:  ma mere est secretaire d administration nous ne roulions pas sur l or mais nous n avons jamais manque de rien et je n ai jamais vu comme s il y avait des histoires de femmes de personnes qui venaient a la maison pour demander qu on les paie ici ou qu on les paie ca
+-------------------------------------------
+
+Line ID: 1020447883
+WER Score: 7.78
+Transcript: jamais donc moi quand j etais a l universite a claudel dans ma chambre on avait une petite bourse de 18 0 francs mais une demi bourse mais il y avait des dames qui venaient qui vendaient chaque fois que les dames venaient dans la chambre pour presenter des articles je prenais mon livre je tournais le dos et je n ecoutais meme pas ce qui se disait parce qu on ne m avait pas eduquee comme ca on m avait eduquee a vivre avec les moyens que j avais
+Reference:  jamais donc moi quand j etais a l universite a claudel dans ma chambre on avait une petite bourse de 18000 francs mais une demi bourse mais il y avait des dames qui venaient qui vendaient chaque fois que les dames venaient dans la chambre pour presenter des articles je prenais mon livre je tournais le dos et je n ecoutais meme pas ce qu ils se disaient parce qu on ne m avait pas eduque comme ca on m avait eduque a vivre avec les moyens que j avais
+-------------------------------------------
+
+Line ID: 1020491099
+WER Score: 3.17
+Transcript: et je crois que c est quelque chose cette sobriete je l ai toujours gardee et ca je le tiens de ma mere ce sont des valeurs qui permettent de rester ancrees et d etre bien bien dans sa tete bien dans ses valeurs bien dans la gestion de ses deniers parce qu on ne gaspille pas mais on ne gaspille pas son argent
+Reference:  et je crois que c est quelque chose cette sobriete je l ai toujours gardee et ca je le tiens de ma mere ce sont des valeurs qui permettent de rester ancree et d etre bien bien dans sa tete bien dans ses valeurs bien dans la gestion de ses deniers parce qu on ne gaspille pas on ne gaspille pas son argent
+-------------------------------------------
+
+Line ID: 1020419439
+WER Score: 1.82
+Transcript: j ai vu un papa qui aimait ses filles qui aime ses filles qui a tout fait pour les faire grandir et je pense qu aujourd hui il le dit toujours tous mes amis qui se moquaient de moi aujourd hui me disent que j ai eu une chance d avoir des enfants comme vous
+Reference:  j ai vu un papa qui aimait ses filles qui aime ses filles qui a tout fait pour les faire grandir et je pense qu aujourd hui il le dit toujours tous mes amis qui se moquent de moi aujourd hui me disent que j ai eu une chance d avoir des enfants comme vous
+-------------------------------------------
+
+Line ID: 1020430766
+WER Score: 0.00
+Transcript: je pense que ca c est parce que quelque part moi meme mes soeurs et mon frere nous essayons de lui rendre tout cet investissement tout cet amour qu il a mis en nous mais non moi meme a l ecole meme a l ecole moi j ai fait le lycee blaise diagne ensuite l universite je n ai pas senti de difference entre les hommes et les femmes je ne l ai pas senti
+Reference:  je pense que ca c est parce que quelque part moi meme mes soeurs et mon frere nous essayons de lui rendre tout cet investissement tout cet amour qu il a mis en nous mais non moi meme a l ecole meme a l ecole moi j ai fait le lycee blaise diagne ensuite l universite je n ai pas senti de difference entre les hommes et les femmes je ne l ai pas senti
+-------------------------------------------
+
+Line ID: 1020430091
+WER Score: 38.89
+Transcript: et souvent apres quand je commencais a avoir ma vie professionnelle moi je suis dans le secteur des produits de la mer d exportation je voyageais beaucoup et qui me voyaient ils me posaient toujours la question et est ce que vous les filles comment ca se passe au seregal
+Reference:  et souvent apres quand je commencais a avoir ma vie professionnelle moi je suis dans le secteur des produits de la mer d exportation je voyagais beaucoup et qui en voyait il me posait toujours la question et est ce que vous les filles comment ca se passe au senegal je dis que tout senegal on a les memes chances que les hommes peut etre que ce n est pas totalement vrai
+-------------------------------------------
+
+Line ID: 1020419921
+WER Score: 4.26
+Transcript: ca non mais si tu es serieuse dans ce que tu fais tu vas au boulot tu viens tu t occupes de toi tu t occupes de tes enfants mais personne ne trouvera a redire que tu organizes ta vie d une maniere ou d une autre
+Reference:  ca non mais si tu es serieuse dans ce que tu fais tu vas au boulot tu viens tu t occupe de toi tu t occupe de tes enfants mais personne ne trouvera a redire que tu organizes ta vie d une maniere ou d une autre
+-------------------------------------------
+
+Line ID: 1020474280
+WER Score: 1.49
+Transcript: moi cette societe senegalaise ou on met tout sur le dos des femmes alors que maintenant les femmes ne sont plus a la maison elles travaillent elles travaillent beaucoup elles travaillent autant que les hommes elles ont une vie professionnelle elles ont des ambitions et apres il faudra modeler la vie de la famille autour de la carriere professionnelle et de la maman et du papa
+Reference:  mais moi cette societe senegalaise ou on met tout sur le dos des femmes alors que maintenant les femmes ne sont plus a la maison elles travaillent elles travaillent beaucoup elles travaillent autant que les hommes elles ont une vie professionnelle elles ont des ambitions et apres il faudra modeler la vie de la famille autour de la carriere professionnelle et de la maman et du papa
+-------------------------------------------
+
+Line ID: 1020494407
+WER Score: 5.26
+Transcript: donc on doit mettre les cartes sur table voir ce qui est dans l interet de la famille et avancer moi en tant que femme moi je dis ce qui m arrange moi je dis toujours ce qui m arrange
+Reference:  donc on doit mettre les cartes sur table voir ce qui est dans l interet de la famille et avancer moi en tant que femme je dis ce qui m arrange je dis toujours ce qui m arrange
+-------------------------------------------
+
+Line ID: 1020430903
+WER Score: 8.11
+Transcript: la maison doit etre un arbre de paix un arbre de bonheur mais pas un ring une competition ou quelqu un qui doit subir la responsabilite de l autre ca je ne crois pas que ce soit correct
+Reference:  la maison doit etre un havre de paix un havre de bonheur mais pas un ring une competition ou quelqu un qui doit subir la responsabilite de l autre je ne crois pas que ce soit correct
+-------------------------------------------
+
+Line ID: 1020494448
+WER Score: 2.00
+Transcript: moi je pense que la femme a un role central dans la famille tout comme l homme je ne suis pas dans le clivage l homme chef de famille ou la femme chef de famille mais meme si l homme est le chef de famille il a ses missions
+Reference:  moi je pense que la femme a un role central dans la famille tout comme l homme je ne suis pas dans le clivage l homme de chef de famille ou la femme chef de famille mais meme si l homme est le chef de famille il a ses missions
+-------------------------------------------
+
+Line ID: 1020416075
+WER Score: 21.88
+Transcript: la femme qui est la moitie du chef de famille a ses responsabilites on doit s entendre et puis moi le role de chef de famille ce n est pas un role qui est immuable
+Reference:  la femme qui est la moitie du chef de famille a ses responsabilites on doit s entendre l un et puis moi le role de chef de famille n est pas immuable
+-------------------------------------------
+
+Line ID: 1020484423
+WER Score: 2.44
+Transcript: quand je suis nee il ecrivait deja il a toujours garde sa plume le temps libre de sa plume c est vrai qu en famille apres ses 70 ans on s est souvent reunis pour lui dire papa il faut arreter
+Reference:  quand je suis nee il ecrivait deja il a toujours garde sa plume le ton libre de sa plume c est vrai qu en famille apres ses 70 ans on s est souvent reunis pour lui dire papa il faut arreter
+-------------------------------------------
+
+Line ID: 1020471101
+WER Score: 1.64
+Transcript: vous avez dit ce que vous avez a dire etc il a dit je ne me vois pas a l aise bien entretenue par ma famille restant tranquillement dans mon coin et profitant d une vie tranquille alors que dans ce pays il y a des choses qui ne vont pas je le lui concede parce que c est sa personnalite
+Reference:  vous avez dit ce que vous avez a dire etc il a dit je ne me vois pas a l aise bien entretenue par ma famille restant tranquillement dans mon coin et profitant d une vie tranquille alors que dans ce pays il y a des choses qui ne vont pas je le lui conseille parce que c est sa personnalite
+-------------------------------------------
+
+Line ID: 1020435056
+WER Score: 1.52
+Transcript: c est comme ca qu on fonctionne dans notre famille peut etre que c est une chance c est une chance et c est pour ca que mon pere quand on n est pas d accord avec lui sur son implication dans la vie il dit a tout le monde moi j etais toujours d accord j ai respecte vos positions en tant que pere
+Reference:  c est comme ca qu on fonctionne dans notre famille peut etre que c est une chance hein c est une chance et c est pour ca que mon pere quand on n est pas d accord avec lui sur son implication dans la vie il dit a tout le monde moi j etais toujours d accord j ai respecte vos positions en tant que pere
+-------------------------------------------
+
+Line ID: 1020493381
+WER Score: 10.34
+Transcript: d avoir le sens des responsabilites c est de pouvoir avoir toutes les cartes en main et pour moi ces cartes en main c etait un bon travail
+Reference:  avoir le sens des responsabilites c est de pouvoir avoir toutes les cartes en main et pour moi ces cartes en main c etait a travers un bon travail
+-------------------------------------------
+
+Line ID: 1020431431
+WER Score: 7.32
+Transcript: une bonne condition qui me permettait de continuer a veiller sur mes mon petit frere et mes petites soeurs mais aussi de veiller sur mes parents et pour moi je pense que ca a jalonne toute ma vie ce sens de responsabilite
+Reference:  une bonne condition qui me permettait de continuer a veiller sur mes petits freres et mes petites soeurs mais aussi de veiller sur mes parents et pour moi je pense que ca a jalonne toute ma vie ce sens de responsabilite
+-------------------------------------------
+
+Line ID: 1020453195
+WER Score: 3.03
+Transcript: donc quand on y a amenage il n y avait rien ensuite les familles ont commence a amenager et naturellement les femmes se sont dit mais pourquoi on ne se retrouve pas etc
+Reference:  donc quand on y a amenage il n y avait rien ensuite les familles ont commence a amenager et naturellement les femmes se sont dit mais pourquoi on ne se retrouvait pas etc
+-------------------------------------------
+
+Line ID: 1020454560
+WER Score: 2.50
+Transcript: ma mere etait secretaire d administration elle a travaille a la commune de dakar pendant une vingtaine d annees apres en 1996 quand il y a eu la dissolution de la communaute urbaine elle a pris une retraite anticipee
+Reference:  et ma mere etait secretaire d administration elle a travaille a la commune de dakar pendant une vingtaine d annees apres en 1996 quand il y a eu la dissolution de la communaute urbaine elle a pris une retraite anticipee
+-------------------------------------------
+
+Line ID: 1020426691
+WER Score: 0.00
+Transcript: et surtout aussi beaucoup de generosite parce que quand j ai eu a etre maman je pense qu elle a eu la piece centrale dans ma vie parce qu elle n a pas hesite a venir a mes cotes pour pouvoir me supporter parce que la j etais directrice generale de deux entreprises en restructuration
+Reference:  et surtout aussi beaucoup de generosite parce que quand j ai eu a etre maman je pense qu elle a eu la piece centrale dans ma vie parce qu elle n a pas hesite a venir a mes cotes pour pouvoir me supporter parce que la j etais directrice generale de deux entreprises en restructuration
+-------------------------------------------
+
+Line ID: 1020411209
+WER Score: 4.65
+Transcript: et ma mere comprenant les enjeux n a pas hesite a venir amenager chez moi pour s occuper de mes bebes pour que je puisse reprendre le travail apres trois semaines d arret donc elle l a fait avec tellement de generosite
+Reference:  et ma mere comprenant les enjeux n a pas hesite a venir a menager chez moi pour s occuper de mes bebes pour que je puisse reprendre le travail apres trois semaines d arret donc elle l a fait avec tellement de generosite
+-------------------------------------------
+
+Line ID: 1020419904
+WER Score: 2.70
+Transcript: elle ne dormait pas le soir et c etait un engagement et puis a chaque fois que mes autres soeurs ou comme ma belle soeur aussi on a eu besoin d elle elle a ete la
+Reference:  elle ne dormait pas le soir et c etait un engagement et puis a chaque fois que mes autres soeurs ou comme ma belle soeur aussi quand on a eu besoin d elle elle a ete la
+-------------------------------------------
+
+Line ID: 1020447961
+WER Score: 4.00
+Transcript: quand on est malade mon pere a beau etre a cote de nous le role de papa quand on est malade lui il est completement effondre c est ma mere qui tient comme un roc et qui rassure et qui reste a tes cotes et qui te couvre
+Reference:  quand on est malade mon pere il a beau etre a cote de nous jouer le role de papa quand on est malade lui il est completement effondre c est ma mere qui tient comme un roc et qui rassure et qui reste a tes cotes et qui te couvre
+-------------------------------------------
+
+Line ID: 1020487860
+WER Score: 0.00
+Transcript: moi ce que je dis aussi a mes jeunes soeurs a mes amis je dis si vous voulez vous faire respecter vous ne pouvez pas tout deleguer ne pas avoir un oeil et ne pas vous respecter en fait
+Reference:  moi ce que je dis aussi a mes jeunes soeurs a mes amis je dis si vous voulez vous faire respecter vous ne pouvez pas tout deleguer ne pas avoir un oeil et ne pas vous respecter en fait
+-------------------------------------------
+
+Line ID: 1020417656
+WER Score: 2.33
+Transcript: parce que pour moi il y a certaines responsabilites meme si tu habites seule tu dois le faire tu ne peux pas passer tout ton temps a discuter au telephone ne pas t occuper de tes enfants et demander qu on te respecte
+Reference:  parce que pour moi il y a certaines responsabilites meme si tu habites seul tu dois le faire tu ne peux pas passer tout ton temps a discuter au telephone ne pas t occuper de tes enfants et demander qu on te respecte
+-------------------------------------------
+
+Line ID: 5014046016
+WER Score: 21.43
+Transcript: inan ca veut dire maman angela et puis makozi j ai lu un livre de aime cesaire qui parle de lumumba et les periodes les plus difficiles ou lumumba etait limite personne a non grata il pouvait faire ses rencontres politiques que dans un bar qui etait tenu par une femme qui s appelle maman makozi
+Reference:  ina ca veut dire maman en diola et puis makosi j ai lu un livre d aime cesaire qui parle de lumumba et les periodes les plus difficiles ou lumumba etait limite personnelle non gratte ils pouvaient faire ces rencontres politiques que dans un bar qui etait tenu par une femme qui s appelle maman makosi
+-------------------------------------------
+
+Line ID: 5014048835
+WER Score: 10.20
+Transcript: je suis ina djam et je signe makozi ina makozi dans mon travail artistique je suis photographe videaste je suis tres tres interessee par tout ce qui est archives dans le hip hop je suis un pur element du hip hop et je suis aussi passionnee de sport notamment le basket
+Reference:  je suis ina thiam et je signe ina makosi dans mon travail artistique je suis photographe videaste je suis tres interessee par tout ce qui est archive dans le hip hop je suis un pur element du hip hop et je suis aussi passionnee de sport notamment le basket
+-------------------------------------------
+
+Line ID: 5014050528
+WER Score: 11.32
+Transcript: c est plutot au lycee au lycee limamoulaye je faisais partie de en fait il y avait beaucoup de il y avait des danseurs qui repetaient la bas deja et il y avait des battles de danse qui etaient organizes par des collectifs a gidjawai et la j etais tres dense en fait oui
+Reference:  est plutot au lycee au lycee d imamoulai je faisais partie de en fait il y avait beaucoup de il y avait des danseurs qui repetaient la bas deja et il y avait des battles de danse qui etaient organizes par des collectifs a guediawaye et la j etais tres danse en fait
+-------------------------------------------
+
+Line ID: 5014027573
+WER Score: 2.56
+Transcript: et c est la ou j ai vraiment commence a me sentir bien dans ce mouvement ou a m interesser un peu plus aux gens a ce qui se passe a qui est qui ouais c etait au lycee
+Reference:  et c est la ou j ai vraiment commence a me sentir bien dans ce mouvement ou a m interesser un peu plus aux gens a ce qui se passe a qui est qui oui c etait au lycee
+-------------------------------------------
+
+Line ID: 5014010210
+WER Score: 3.57
+Transcript: aller voir les artistes et demarcher ca c etait mon truc parce que en meme temps ca me permettait de decouvrir de connaitre les artistes que je ne connaissais pas forcement mais aussi c est le concert quoi c est la partie que je kiffe le plus donc participer a l organization c etait .
+Reference:  aller voir les artistes et des marches ca c etait mon truc parce que en meme temps ca me permettait de decouvrir de connaitre les artistes que je ne connaissais pas forcement mais aussi c est le concert quoi c est la partie que je kiffe le plus donc participer a l organization c etait .
+-------------------------------------------
+
+Line ID: 5014010798
+WER Score: 25.53
+Transcript: il savait moi mon pere il m a dit un jour je sais que je suis depuis le depuis que tu es differente ma grande soeur apres elle a arrete elle s est mariee et etait dans autre chose mais sinon chez moi il n y a pas de sportif ou d artiste quoi
+Reference:  il savait moi mon pere il m a dit un jour je sais que depuis le debut que tu etais differente ma grande soeur apres elle a arrete ses maries etaient dans autre chose mais sinon chez moi y a pas de sportif ou d artiste quoi
+-------------------------------------------
+
+Line ID: 5014078953
+WER Score: 7.84
+Transcript: et quand j ai fait mes cours de dieuvisuel et que je devais aller au festival d avignon pour un stage j ai appele mon pere pour lui dire papa on va a avignon il m a dit quoi donc toi ce que tu fais la tu parles des blagues
+Reference:  et quand j ai fait mes cours d audiovisuel et que je vais aller au festival d avignon pour un stage j ai appele mon pere pour lui dire papa on va a avignon et il m a dit quoi donc toi ce que tu fais la tu parles des blagues
+-------------------------------------------
+
+Line ID: 5014067460
+WER Score: 1.61
+Transcript: et donc moi ce qui m interessait c etait la musique la production et quand je suis arrivee il y a eu un projet qui s appelle hip hop academy ou il y avait un center de documentation plus des formations en entrepreneuriat culturel audiovisuel graphisme et moi le center de doc ca me parlait parce que j aimais beaucoup la lecture
+Reference:  et donc moi ce qui m interessait c etait la musique la production et quand je suis arrivee il y a eu un projet qui s appelle hip hop academy ou il y avait un center de documentation plus des formations en imprenariat culturel audiovisuel graphisme et moi le center de doc ca me parlait parce que j aimais beaucoup la lecture
+-------------------------------------------
+
+Line ID: 5014034174
+WER Score: 29.55
+Transcript: avant d arriver a l africulture urbaine je jouais encore meme mes premieres annees a l africulture je jouais encore au basket dans les cours de dieu visuel on a deux ans genre huit mois par annee 6 ou huit mois
+Reference:  genre avant d arriver dans l africulture j ai joue encore meme mes premieres annees a l africulture j ai joue encore au basket donc oui dans les cours de juviziel on a deux vingt genre huit mois par annee 6 ou huit mois
+-------------------------------------------
+
+Line ID: 5014061759
+WER Score: 11.29
+Transcript: parce que moi je venais tout de suite de ce monde la pour entrer dans le monde du hip hop je ne connaissais rien d autre que le basket donc naturellement j avais beaucoup de facilite a filmer a photographier les gens du basket et oui c est comme ca que j ai vraiment allie les deux depuis le debut
+Reference:  parce que c est le moi je venais tout de suite de ce monde la pour rentrer dans le monde du hip hop je connaissais rien d autre que le basket donc naturellement j avais beaucoup de facilite a filmer a photographier les gens du basket et oui c est comme ca que j ai vraiment allie l idee depuis le debut
+-------------------------------------------
+
+Line ID: 5014050912
+WER Score: 10.53
+Transcript: du coup j etais seule quoi et pour moi c est pour ca quand on me dit oui en tant que photographe femme qu est ce que tu as vecu de difficile j ai dit non tu blagues les gars ils m ont ils m ont genre ils m ont beaucoup aidee tu vois et puis moi j etais je m etais beaucoup sur les reseaux sociaux tu vois les artistes ils aiment quand on les publie quand on les photographie deja
+Reference:  du coup j etais seule quoi et pour moi c est pour ca quand on me dit oui en tant que photographe femme qu est ce que tu as vecu de difficile j ai dit non tu blagues les gars ils m ont genre ils m ont beaucoup aide tu vois et puis moi je mettais beaucoup sur les reseaux sociaux tu vois les artistes ils aiment quand on les publie quand on les photographie deja
+-------------------------------------------
+
+Line ID: 5014049494
+WER Score: 10.67
+Transcript: moi je profite de ca pour remercier les artistes et le hip hop parce que moi je peux frapper a toutes les portes les gens ils m ouvrent leurs portes je peux appeler n importe qui juste parce que je fais de la photo ils soutiennent et j ai appris parce que comme c est un travail technique c est comme tu conduis une voiture chaque jour tu la maitrises
+Reference:  et ca moi je profite de ca pour remercier les artistes et le hip hop parce que moi j ai eu genre je peux frapper a toutes les portes les gens m ouvrent les portes je peux appeler n importe qui juste parce que je fais de la photo ils soutiennent et j ai appris parce que comme c est un travail technique c est comme tu conduis une voiture chaque jour tu la maitrises
+-------------------------------------------
+
+Line ID: 5014028718
+WER Score: 1.98
+Transcript: non en fait le truc c est pas qu on n avait pas un resultat satisfaisant mais l artiste en fait son manager m a contacte pour me dire on veut faire moi je vais tout de suite parce que moi quand tu me parles ou que j ecoute de la musique je vois des images donc je te dis ah ok moi c est ca que je vois et le gars me dit ok on fait le shooting et je lui demande c est qui ton graphiste parce que moi il y a des gens je ne suis pas .
+Reference:  non en fait le truc c est pas qu on n avait pas un resultat satisfaisant mais l artiste en fait son manager m a contacte pour me dire on veut faire moi j avais tout de suite parce que moi quand tu me parles ou que j ecoute de la musique je vois des images donc je te dis ah ok moi c est ca que je vois et le gars me dit ok on fait le shooting et je lui demande c est qui ton graphiste parce que moi il y a des gens je ne suis pas .
+-------------------------------------------
+
+Line ID: 5014048007
+WER Score: 10.53
+Transcript: parce que j ai commence a rencontrer les touremanes des maoris je voyais le travail de fatou kande au dela de ce qu elle fait dans le hip hop et a cette periode j etais tres tres timide mais j avais aussi beaucoup de colere en moi et je voulais travailler sur autre chose
+Reference:  parce que j ai commence a rencontrer les toure mande maurie je voyais le travail de fatou kande au dela de ce qu elle a fait dans le hip hop et a cette periode j etais tres tres timide mais j avais aussi beaucoup de colere en moi et je voulais je voulais travailler sur autre chose
+-------------------------------------------
+
+Line ID: 5014063470
+WER Score: 4.35
+Transcript: je voulais aussi tester c est quoi faire une serie photo c est quoi etre artiste photographe donc j ai participe a des residences ici des ateliers comme tres souvent et la j ai commence a faire des series photo a deposer des appels a candidatures
+Reference:  je voulais aussi tester c est quoi faire une serie photo c est quoi etre artiste photographe donc j ai participe a des residences ici des ateliers comme tres souvent et la j ai commence a faire les series photos a deposer des appels a candidatures
+-------------------------------------------
+
+Line ID: 5014033700
+WER Score: 0.00
+Transcript: parce que c est quelque chose que tu n avais pas preconise du tout et puis tu as enormement de gens autour de toi qui t aiment comme ca qui apprecient tout ce que tu fais des fois je me dis mais toi la tu exageres parce que moi naturellement je suis une personne j ai enormement de questions je me questionne tout le temps je questionne mon travail je questionne genre .
+Reference:  parce que c est quelque chose que tu n avais pas preconise du tout et puis tu as enormement de gens autour de toi qui t aiment comme ca qui apprecient tout ce que tu fais des fois je me dis mais toi la tu exageres parce que moi naturellement je suis une personne j ai enormement de questions je me questionne tout le temps je questionne mon travail je questionne genre .
+-------------------------------------------
+
+Line ID: 5014093343
+WER Score: 11.11
+Transcript: c est ca et puis tu vois les associations genre on disait que oui ca n allait pas marcher ils vont s engueuler pour de l argent et qu apres c est reste et que ca tu vois ca avait fait stade des ages quoi avec onyx a dakar genre youssoupha a dakar
+Reference:  c est ca et puis tu vois les associations genre on disait que oui ca n allait pas marcher ils vont s engueuler pour de l argent et que apres c est reste et que ca tu vois ca a fait fete a deux ages quoi avec onyx a dakar genre yousufa a dakar
+-------------------------------------------
+
+Line ID: 5014059624
+WER Score: 3.64
+Transcript: oui l idee c est de regrouper les gens deja parce qu il y avait l ambassade d autriche qui avait deja fait un program l annee derniere pour le mois de mars et moi ils m avaient demande de leur donner des contacts de photographes femmes donc j ai mis celles que je connaissais
+Reference:  oui l idee c est de regrouper les gens deja parce qu il y avait l ambassade d autriche qui avait deja fait un program l annee derniere pour le mois de mars et moi ils m avaient demande de leur donner des contacts de photographe femme donc j ai mis celles que je connaissais
+-------------------------------------------
+
+Line ID: 5014066288
+WER Score: 4.08
+Transcript: il y avait des hommes dans la residence deux trois mais je dis comme on est majoritaire pour une fois creons un groupe et puis on se partage les appels a candidature les pistes quoi et c est la maintenant j ai rencontre une autre photographe franco senegalaise assiette
+Reference:  il y avait des hommes dans la residence deux trois mais je dis comme on est majoritaire pour une fois creons un groupe et puis on se partage les appels a candidature les pistes quoi et c est la maintenant j ai rencontre une autre photographe franco senegalais assietou
+-------------------------------------------
+
+Line ID: 5014041644
+WER Score: 4.69
+Transcript: il y a un grand festival et l idee c etait de creer un pont mais base sur la formation on fait une formation de 6 sept mois a dakar et ensuite on fait une exposition a arles parce qu elle peut avoir un espace ou faire l expo et puis faire une formation aussi avec des jeunes de banlieue a arles
+Reference:  il y a un grand festival et l idee c etait de creer un pont mais base sur la formation on fait une formation de 6 sept mois a dakar et ensuite on fait une exposition a arles parce qu elle elle a pas avoir un espace ou faire l expo et puis faire une formation aussi avec des jeunes de banlieue a arles
+-------------------------------------------
+
+Line ID: 5014029172
+WER Score: 3.39
+Transcript: moi ma periode en fait il y a un moment ou il y avait fladerip qui venait de sortir un album pupose qui venait de sortir un album puis qui encore parce que comme je vendais les albums donc a chaque fois qu un album sort j achete et j ecoute parce que comme ca je peux dire
+Reference:  moi ma periode en fait il y a un moment ou il y avait fladerip qui venait de sortir un album popose qui venait de sortir un album puis qui encore parce que comme je vendais les albums donc a chaque fois qu un album sort j achete et j ecoute parce que comme ca je peux dire .
+-------------------------------------------
+
+Line ID: 5014014106
+WER Score: 4.35
+Transcript: moi je trouve qu avec le digital les plus intelligents se sont formes ou ont cree une direction artistique dans leur coin parce que tu vois le digital ca rend fou en fait je voulais donner un exemple et je me dis ina calme toi on te filme
+Reference:  moi je trouve qu avec le digital les plus intelligents se sont formes ou ont cree une direction artistique dans leur coin parce que tu vois le digital ca rend fou je voulais donner un exemple et je me dis ina calme toi on te filme
+-------------------------------------------
+
+Line ID: 3766814614
+WER Score: 10.00
+Transcript: et on arrive presque au bout quel est l impact du hip hop senegalais sur la societe senegalaise parce que ca a mis du temps a etre accepte parce que c etait le hip hop mais par contre j ai l impression que ca influence quand meme vachement la societe notamment les jeunes aujourd hui peut etre parce que les jeunes aussi ecoutent plus facilement c est plus accessible comme vous disiez tout a l heure
+Reference:  et on arrive presque au bout quel est l impact du hip hop senegalais sur la societe senegalaise parce que ca a mis du temps a etre accepte c etait le hip hop mais par contre j ai l impression que ca a un flux ca influence quand meme vachement la societe notamment les jeunes aujourd hui mais peut etre parce que les jeunes aussi ecoutent plus facilement c est plus accessible comme vous le disiez tout a l heure
+-------------------------------------------
+
+Line ID: 3766833950
+WER Score: 0.00
+Transcript: et la aujourd hui par exemple c est tout recent mais si on parle de la politique et des differentes on attendait beaucoup des artistes qui s expriment sur le plan politique il y en a qui ont fait passer des messages grace a des clips grace a des sons il y a des sons qui ont ete faits expres pour toute la situation politique qu il y a eu au senegal
+Reference:  et la aujourd hui par exemple c est tout recent mais si on parle de la politique et des differentes on attendait beaucoup des artistes qui s expriment sur le plan politique il y en a qui ont fait passer des messages grace a des clips grace a des sons il y a des sons qui ont ete faits expres pour toute la situation politique qu il y a eu au senegal
+-------------------------------------------
+
+Line ID: 5014052422
+WER Score: 9.76
+Transcript: j ai mon frere je suis aussi d une famille une grande famille mais il y en a deux je suis plus proche d eux genre ma grande soeur apsa qui est decedee maintenant paix a son ame et mon grand frere bakary
+Reference:  j ai mon frere je suis issue d une grande famille mais il y en a deux je suis plus proche d eux genre ma grand soeur apsa qui est decedee maintenant paix a son ame et mon grand frere bakary
+-------------------------------------------
+
+Line ID: 5014087410
+WER Score: 8.51
+Transcript: apsa etait dans la meme ecole que certains rappeurs a pekin donc les pinal gang et puis un groupe de reggae et donc elle etait dans le hip hop et moi j etais tres jeune mais je la vois elle ressemblait a une rappeuse
+Reference:  apsa etait dans la meme ecole que certains rappeurs a pikine donc les pinal gang et puis un groupe de reggae et donc elle etait genre elle etait dans le hip hop et moi j etais tres jeune mais je la vois elle ressemblait a une rappeuse
+-------------------------------------------
+
+Final WER Score: 5.00

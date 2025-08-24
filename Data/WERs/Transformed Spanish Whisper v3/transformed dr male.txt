@@ -1,0 +1,1240 @@
+0.0
+line_id 6617765104
+transcript norm:  si lamentablemente cuando ocurren episodios de inflacion alta en un pais hay pocos lugares donde uno pueda refugiarse
+ref norm:         si lamentablemente cuando ocurren episodios de inflacion alta en un pais hay pocos lugares donde uno pueda refugiarse
+
+ ------------------------------------------- 
+
+2.1739130434782608
+line_id 9773653338
+transcript norm:  volvo y digo lamentablemente a veces es dificil refugiarse en paises como estos porque quizas no hay disponibilidad de moneda dura porque en momentos inflacionarios hay una alta demanda por moneda dura entonces la moneda dura desaparece del mercado 0 esta muy muy alta su precio
+ref norm:         vuelvo y digo lamentablemente a veces es dificil refugiarse en paises como estos porque quizas no hay disponibilidad de moneda dura porque en momentos inflacionarios hay una alta demanda por moneda dura entonces la moneda dura desaparece del mercado 0 esta muy muy alta su precio
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773612218
+transcript norm:  yo puedo invertir via la bolsa de valores en acciones de empresas 0 puedo identificar algun tipo de instrumento del gobierno 0 de empresas denominado en dolares quizas de deuda donde yo pueda poner mi dinero y donde yo pueda entonces mantener ahi cierta estabilidad
+ref norm:         yo puedo invertir via la bolsa de valores en acciones de empresas 0 puedo identificar algun tipo de instrumento del gobierno 0 de empresas denominado en dolares quizas de deuda donde yo pueda poner mi dinero y donde yo pueda entonces mantener ahi cierta estabilidad
+
+ ------------------------------------------- 
+
+1.8181818181818181
+line_id 9773676682
+transcript norm:  ahora cuando digo que se puede vestir de inversion es que yo aprenda no solamente a tradear como dicen los tecnicos sino a invertir ahora la inversion lo que hace es que no observa simplemente los movimientos de los activos sino que observa los fundamentos de las empresas en las que yo voy a invertir
+ref norm:         ahora cuando digo que se puede vestir de inversion es que yo aprenda no solamente a tradiar como dicen los tecnicos sino a invertir ahora la inversion lo que hace es que no observa simplemente los movimientos de los activos sino que observa los fundamentos de las empresas en las que yo voy a invertir
+
+ ------------------------------------------- 
+
+4.597701149425287
+line_id 9773692734
+transcript norm:  bueno voy a invertir en apple porque tiene una marca extraordinariamente valiosa cada vez que saco un producto es un hit y tiene una historia una trayectoria de exitos que me garantiza que va a tener una estabilidad en el futuro entonces yo invierto por los fundamentos de esa empresa por su creatividad por su valor de marca por las innovaciones que tiene por las patentes que ha registrado por los mercados que alcanza por su porcentaje de participacion por su representacion de los mercados etcetera etcetera
+ref norm:         bueno voy a invertir en apple porque tiene una marca extraordinariamente valiosa cada vez que saco un producto es un hit y tiene una historia una trayectoria de exitos que me garantiza que va a tener una estabilidad en el futuro entonces yo invierto por los fundamentos de esa empresa por su creatividad por su valor de marca por las innovaciones que tiene por las patentes que has registrado por los mercados que alcanza por su porcentaje de participacion 0 de penetracion de los mercados etcetera etcetera
+
+ ------------------------------------------- 
+
+3.7037037037037033
+line_id 9773621253
+transcript norm:  entonces si yo puedo hacer trading pero combinado con inversion eso seria una mejor practica entonces el invertir en un curso bueno es formacion pero esa formacion tomala y alimentala con otros elementos de tal manera que te alejes del trading pura y simple que para mi es una practica mas especulativa que la inversion
+ref norm:         entonces si yo puedo hacer trading pero combinado con inversion eso seria una mejor practica entonces invertir en un curso bueno es formacion pero esa formacion tomala y alimentala con otros elementos de tal manera que te alejes del trading pura y simple que para mi es una practica mas especulativa que de inversion
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773616951
+transcript norm:  pongamos que ese manejo de esa persona no ha sido en el ambito financiero sino que es una persona adicta a las drogas y esa persona me pide dinero para ciertas necesidades supuestamente pero yo se que lo va a gastar en drogas yo estaria entonces apoyando su vicio y su problema y no lo estoy ayudando a salir de ahi
+ref norm:         pongamos que ese manejo de esa persona no ha sido en el ambito financiero sino que es una persona adicta a las drogas y esa persona me pide dinero para ciertas necesidades supuestamente pero yo se que lo va a gastar en drogas yo estaria entonces apoyando su vicio y su problema y no lo estoy ayudando a salir de ahi
+
+ ------------------------------------------- 
+
+2.9850746268656714
+line_id 9773690970
+transcript norm:  lo que esa persona necesita en ese momento es no tener dinero para que aprenda la leccion por asi decirlo yo centrarme quizas con el decirle mira yo se que tu tienes ciertas necesidades pero yo pienso que por tu historia por lo que te ha pasado tu debes tomar ciertas decisiones drasticas en tu vida y quizas esa es la mejor ayuda que puedo prestar
+ref norm:         lo que esa persona necesita en ese momento es no tener dinero para que aprenda la leccion por asi decirlo yo sentarme quizas con el y decirle mira yo se que tu tienes ciertas necesidades pero yo pienso que por tu historia por lo que te ha pasado tu debes tomar ciertas decisiones drasticas en tu vida y quizas esa es la mejor ayuda que puedo prestar
+
+ ------------------------------------------- 
+
+4.615384615384616
+line_id 9773694799
+transcript norm:  en tercer lugar en este caso cuando yo no he hablado con mi familiar y mi familiar me ha pedido dinero en el pasado me ha dicho ayudame yo le he ayudado y demas y yo ahora he tomado una nueva decision de que yo voy a tener una nueva postura de rigidez 0 marca de rigidez de cierta cuidado al momento de ayudar
+ref norm:         en tercer lugar en este caso cuando yo no he hablado con mi familiar y mi familiar me ha pedido dinero en el pasado me ha dicho ayudame yo lo he ayudado y demas y yo ahora he tomado una nueva decision de que yo voy a tener una nueva postura de rigidez 0 mas que de rigidez de cierta cuidado al momento de ayudar
+
+ ------------------------------------------- 
+
+1.0638297872340425
+line_id 5333295014
+transcript norm:  yo debo sentarme con mi familiar y decirle mira yo lamento lo que te esta pasando pues yo he decidido esto y le explico las razones tu has tenido un patron de malos manejos si tu no sufres las consecuencias de tus malos manejos tu nunca vas a aprender nunca vas a crecer hasta donde yo voy a llegar y yo puedo entonces llegar y hacerle una ultima darle una ultima ayuda y decirle esta es la ultima vez que yo incurro en este tipo de ayudas hacia ti por este tipo de motivos
+ref norm:         yo debo sentarme con mi familiar y decirle mira yo lamento lo que te esta pasando pues yo he decidido esto y le explico las razones tu has tenido un patron de malos manejos si tu no sufres las consecuencias de tus malos manejos tu nunca vas a aprender nunca vas a crecer hasta donde yo voy a llegar y yo puedo entonces llegar y hacerle una ultima darle una ultima ayuda y decirle esta es la ultima vez que yo incurro en este tipo de ayuda hacia ti por este tipo de motivos
+
+ ------------------------------------------- 
+
+3.7735849056603774
+line_id 9773620037
+transcript norm:  de tal manera que la persona se sienta ayudada confrontada a la misma vez en este caso en particular si yo me veo en la obligacion de tomar un prestamo para ayudar a una persona en principio me parece incorrecto si yo no tengo los recursos para ayudarlo yo debo decirle lo opuesto
+ref norm:         de tal manera que la persona se sienta ayudada confrontada a la misma vez en este caso en particular si yo me veo en la obligacion de tomar un prestamo para ayudar a una persona en principio me parece incorrecto si yo no tengo los recursos para ayudarlo yo debo decirle no puedo
+
+ ------------------------------------------- 
+
+1.6129032258064515
+line_id 9773652590
+transcript norm:  con que los otros le paguen y ellos mismos no pueden pagar entonces caen en el incumplimiento y eso es inaceptable entonces si yo tengo que verme la necesidad de tomar un prestamo para ayudar a otro yo tendria entonces que ser capaz yo de proveer para pagar ese prestamo y responder yo en caso de que ese otro no cumpla
+ref norm:         contando con que los otros le paguen y ellos mismos no pueden pagar entonces caen en el incumplimiento y eso es inaceptable entonces si yo tengo que verme la necesidad de tomar un prestamo para ayudar a otro yo tendria entonces que ser capaz yo de proveer para pagar ese prestamo y responder yo en caso de que ese otro no cumpla
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773683964
+transcript norm:  cuando yo tengo deseo de ostentar es porque yo estoy derivando del dinero identidad y valor y eso es una forma de manifestar idolatria pero a la misma vez cuando yo envidio lo que los otros tienen y me resiento por lo que los otros tienen tambien eso es una manera de manifestar idolatria en mi corazon 0 cuando al otro le va bien y yo me resiento no porque envidio lo que tiene sino porque me deberia ir a mi es un tipo de envidia tambien
+ref norm:         cuando yo tengo deseo de ostentar es porque yo estoy derivando del dinero identidad y valor y eso es una forma de manifestar idolatria pero a la misma vez cuando yo envidio lo que los otros tienen y me resiento por lo que los otros tienen tambien eso es una manera de manifestar idolatria en mi corazon 0 cuando al otro le va bien y yo me resiento no porque envidio lo que tiene sino porque me deberia ir a mi es un tipo de envidia tambien
+
+ ------------------------------------------- 
+
+4.918032786885246
+line_id 5213742138
+transcript norm:  0 sea que todos esos elementos cuando yo te le puedo pecar cuando el dinero me lleva a ostentarlo cuando me lleva a envidiarlo cuando quiero que los otros vean ese tipo de cosas son una indicacion de que el dinero ocupa un lugar que no debe en mi corazon y sobre todo el deseo de mas de mas de mas
+ref norm:         0 sea que todos esos elementos cuando yo estoy dispuesto a pecar cuando el dinero me lleva a ostentarlo cuando me lleva a envidiarlo cuando quiero que los otros vean ese tipo de cosas son una indicacion de que el dinero ocupa un lugar que no debe en mi corazon y sobre todo el deseo de mas de mas de mas
+
+ ------------------------------------------- 
+
+7.894736842105263
+line_id 5213731138
+transcript norm:  cuando yo siempre quiero tener mas y nunca estoy satisfecho con lo que tengo y no tengo en mi un corazon y una actitud de gratitud regular en mi vida hay quizas una avaricia 0 una idolatria en mi corazon
+ref norm:         cuando yo siempre quiero tener mas y nunca estoy satisfecho con lo que tengo y no tengo en mi un corazon y una actitud de gratitud regular en mi vida hay quizas una avaricia unidolatria en mi corazon
+
+ ------------------------------------------- 
+
+8.928571428571429
+line_id 9773695837
+transcript norm:  pagar mis cuentas mis balances aunque si yo tengo un problema en el corazon de que teniendo una tarjeta no puedo controlar los gastos quiza lo mejor es entregar la tarjeta yo no tengo ese problema de compra compulsiva idolatrica en mi vida yo puedo tomar mis ahorros invertirlos a un rendimiento bueno desagradable
+ref norm:         pagar mis cuentas mis mis balances aunque si yo tengo un problema en el corazon de que teniendo una tarjeta no puedo controlar los gastos quizas lo mejor es entregar la tarjeta pero si yo no tengo ese problema de compra compulsiva idolatrica en mi vida yo puedo tomar mis ahorros invertirlos a un rendimiento bueno
+
+ ------------------------------------------- 
+
+2.73972602739726
+line_id 5213732812
+transcript norm:  via un instrumento financiero y entonces usar la tarjeta para manejar mis gastos mensuales y cuando llegue el final del mes con mis ingresos yo pago la tarjeta 0 sea que la tarjeta bien usada es un medio de pago que me facilita la operatividad no tiene que ser un medio de credito de hecho en ese programa hablamos de que usar a la tarjeta como medio de pago no como medio de credito
+ref norm:         via un instrumento financiero y entonces usar la tarjeta para manejar mis gastos mensuales y cuando llegue el final del mes con mis ingresos yo pago la tarjeta 0 sea que la tarjeta bien usada es un medio de pago que me facilita la operatividad no tiene que ser un medio de credito de hecho en ese programa hablamos de que usaras la tarjeta como medio de pago no como medio de credito
+
+ ------------------------------------------- 
+
+1.5151515151515151
+line_id 9773655409
+transcript norm:  0 sea yo creo que es una muy mala practica financiarse via las tarjetas de credito pero el hecho de que yo tenga una tarjeta de credito no significa que yo me voy a financiar con ella yo simplemente voy a usar los dias que la tarjeta me da para yo pagarle sin intereses 0 sea porque la puedo usar y no tengo que pagar intereses
+ref norm:         0 sea yo creo que es una muy mala practica financiarse via las tarjetas de credito pero el hecho de que yo tenga una tarjeta de credito no significa que yo me voy a financiar con ella yo simplemente voy a usar los dias que la tarjeta me da para yo pagarle sin intereses 0 sea porque la puedo usar y no tener que pagar intereses
+
+ ------------------------------------------- 
+
+2.7027027027027026
+line_id 9773621832
+transcript norm:  claro siempre que uno tenga recursos para hacerlo es posible invertir lo que yo le diria es observa bien en que vas a invertir una persona de 22 anos puede invertir en instrumentos de mucho mas riesgo que tienen mucho mas volatilidad acciones por ejemplo de empresas que tienen mucho mas volatilidad porque en caso de que su accion 0 su valor baje de precio el tiene tiempo para que ese valor se reclame verdad
+ref norm:         claro siempre que uno tenga recursos para hacerlo es posible invertir lo que yo le diria es observa bien en que vas a invertir una persona de 22 anos puede invertir en instrumentos de mucho mas riesgo que tienen mucho mas volatilidad acciones por ejemplo de empresas que tienen mucho mas volatilidad porque en caso de que su accion 0 su valor baje de precio el tiene tiempo para que ese valor se recupere
+
+ ------------------------------------------- 
+
+1.9607843137254901
+line_id 9773694562
+transcript norm:  0 sea que si puedo invertir independientemente de mi edad lo que tengo que ajustar es el nivel de riesgo y la volatilidad de los instrumentos en los que invierto a mi condicion en este caso yo les recomendaria tener un portafolio un grupo de instrumentos que sean estables en el tiempo
+ref norm:         0 sea que si puedo invertir independientemente de mi edad lo que tengo que ajustar el nivel de riesgo y la volatilidad de los instrumentos en los que invierto a mi condicion en este caso yo les recomendaria tener un portafolio un grupo de instrumentos que sean estables en el tiempo
+
+ ------------------------------------------- 
+
+5.084745762711865
+line_id 9773658872
+transcript norm:  bueno en algunos paises se puede aqui en republica dominicana tiene que ser mayor de edad 18 anos hacia arriba lo que el padre puede hacer en paises que requieren la mayoria de edad es que el padre puede abrir una cuenta a su nombre pero que le de ciertos recursos al hijo para que invierta
+ref norm:         bueno en algunos paises en algunos paises se puede aqui en republica dominicana tiene que ser mayor de edad 18 anos hacia arriba lo que el padre puede hacer en paises que requieren la mayoria de edad es que el padre puede abrir una cuenta a su nombre pero que le de ciertos recursos al hijo para que invierta
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773612271
+transcript norm:  si esta bien bueno depende de la motivacion con la que yo le diga a mi hijo que vamos a hacer ese ejercicio es parte yo diria de un entrenamiento financiero de un entrenamiento en mayordomia yo puedo usar esta practica como una forma de ensenarle a el primero la tecnica de la inversion y en segundo lugar los principios de la mayordomia
+ref norm:         si esta bien bueno depende de la motivacion con la que yo le diga a mi hijo que vamos a hacer ese ejercicio es parte yo diria de un entrenamiento financiero de un entrenamiento en mayordomia yo puedo usar esta practica como una forma de ensenarle a el primero la tecnica de la inversion y en segundo lugar los principios de la mayordomia
+
+ ------------------------------------------- 
+
+6.976744186046512
+line_id 9773665773
+transcript norm:  de que cuando esos rendimientos vengan con esos rendimientos bueno quiza vamos a tomar una parte vamos a aportarlo a la obra de dios vamos a ayudar a otros tu te vas a quedar con esta patria lo vamos a reinvertir
+ref norm:         de que cuando esos rendimientos vengan con esos rendimientos bueno vamos a quiza vamos a tomar una parte vamos a aportarlo a la obra de dios vamos a ayudar a otros tu te vas a quedar con esta parte lo vamos a reinvertir
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773697720
+transcript norm:  bueno cuando es algo que es asi de manera fija no que ocurrio porque recientemente mi conyuge 0 yo perdi mi empleo y sucede que estamos en un deficit constante obviamente una persona en esas condiciones si es fija si tus ingresos son de manera regular menores a tus gastos la persona tiene que ajustar ajustar lo que tenga que ajustar
+ref norm:         bueno cuando es algo que es asi de manera fija no que ocurrio porque recientemente mi conyuge 0 yo perdi mi empleo y sucede que estamos en un deficit constante obviamente una persona en esas condiciones si es fija si tus ingresos son de manera regular menores a tus gastos la persona tiene que ajustar ajustar lo que tenga que ajustar
+
+ ------------------------------------------- 
+
+8.60215053763441
+line_id 9773662142
+transcript norm:  ser creativo y en segundo lugar tambien si es una persona empleada es algo que yo recomiendo si tu has sido un buen empleado ve donde tu supervisor no tu jefe y hablale menciona de que bueno que tu has sido una persona leal a la empresa que tu has estado trabajando de manera incansable en los objetivos de la empresa y que tu quisieras proponer 0 sugerir haga un ajuste salarial como forma de tu paliar los aumentos en el costo de la vida que ha tenido etcetera etcetera
+ref norm:         ser creativo y en segundo lugar tambien si es una persona empleada es algo que yo recomiendo si tu has sido un buen empleado ve donde tu supervisor donde tu jefe y hablale y mencionale que bueno que tu has sido una persona leal a la empresa que tu has estado trabajando de manera incansable en los objetivos de la empresa y que tu quisieras proponer 0 sugerir que te hagan un ajuste salarial como forma de tu palear los aumentos en el costo de la vida que ha tenido y etcetera etcetera
+
+ ------------------------------------------- 
+
+6.25
+line_id 5213792975
+transcript norm:  bueno los dos son vehiculos de ahorro lo que pasa es que los bancos los vehiculos de ahorro que ofrecen es basicamente cuenta de ahorro y certificados financieros 0 certificado de deposito tambien se le llama en otros paises es una manera muy simple el banco no me da nada mas que no sea una tasa de interes me paga por la cuenta de ahorro 0 por los certificados de deposito financiero me paga una tasa de interes
+ref norm:         bueno las dos los dos son vehiculos de ahorrar lo que pasa es que los bancos los vehiculos de ahorro que ofrecen es basicamente cuentas de ahorro y certificados financieros 0 certificado de deposito tambien se le llaman en otros paises es una manera muy simple el banco no me da nada mas que no sea una tasa de interes me paga por la cuenta de ahorro 0 por los certificados de deposito financiero me paga una tasa de interes
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773654765
+transcript norm:  que usualmente ya no hace mucho sentido ahorrar en un banco sino que mi recomendacion es que se ahorre bien el mercado de capitales en instrumentos de mucho mejor rendimiento y con igual estabilidad que un banco entonces ahora una cooperativa ofrece no solamente una tasa de interes por el ahorro que yo le pongo la cooperativa tambien me da acceso a otros beneficios
+ref norm:         que usualmente ya no hace mucho sentido ahorrar en un banco sino que mi recomendacion es que se ahorre bien el mercado de capitales en instrumentos de mucho mejor rendimiento y con igual estabilidad que un banco entonces ahora una cooperativa ofrece no solamente una tasa de interes por el ahorro que yo le pongo la cooperativa tambien me da acceso a otros beneficios
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773658874
+transcript norm:  por ejemplo me presta un porcentaje de mi dinero 0 mas de lo que yo tengo ahorrado a una tasa muy favorable 0 sea las cooperativas son como su nombre lo dice son personas que se ponen de acuerdo de cooperar juntos para beneficiarse mutuamente de manera financiera
+ref norm:         por ejemplo me presta un porcentaje de mi dinero 0 mas de lo que yo tengo ahorrado a una tasa muy favorable 0 sea las cooperativas son como su nombre lo dice son personas que se ponen de acuerdo de cooperar juntos para beneficiarse mutuamente de manera financiera
+
+ ------------------------------------------- 
+
+0.0
+line_id 5333256547
+transcript norm:  0 sea que la cooperativa no solamente me da una tasa de interes por el ahorro que yo le pongo sino que tambien me da un beneficio de yo pertenecer a esa cooperativa y yo tengo que ver cuales son los beneficios que otorga
+ref norm:         0 sea que la cooperativa no solamente me da una tasa de interes por el ahorro que yo le pongo sino que tambien me da un beneficio de yo pertenecer a esa cooperativa y yo tengo que ver cuales son los beneficios que otorga
+
+ ------------------------------------------- 
+
+11.29032258064516
+line_id 5333263794
+transcript norm:  en ocasiones cuando la persona ve los beneficios que otorga recientemente yo estuve con una persona que estaba obrando en una cooperativa y cuando el vio los beneficios que la cooperativa le estaba entregando le dijo bueno pero no vale tanto la pena es mejor yo invertir estos fondos en un instrumento financiero via mercados capitales y asi lo concluimos
+ref norm:         en ocasiones cuando la persona ve los beneficios que otorga recientemente yo estuve hablando con una persona que esta ahorrando en una cooperativa y cuando el vio los beneficios que la cooperativa le estaba entregando dijo bueno pero no vale tanto la pena es mejor yo invertir estos fondos en un instrumento financiero via el mercado de capitales y asi lo concluimos
+
+ ------------------------------------------- 
+
+0.0
+line_id 6617794366
+transcript norm:  es una especie de alquiler el beneficio del leasing basicamente es un beneficio fiscal porque yo pongo en mis estados el pago que hago como un gasto y eso tiene un beneficio fiscal entonces cuando saco los numeros a veces conviene hacer un leasing y no comprar un vehiculo y no comprar una maquinaria 0 no comprar un inmueble
+ref norm:         es una especie de alquiler el beneficio del leasing basicamente es un beneficio fiscal porque yo pongo en mis estados el pago que hago como un gasto y eso tiene un beneficio fiscal entonces cuando saco los numeros a veces conviene hacer un leasing y no comprar un vehiculo y no comprar una maquinaria 0 no comprar un inmueble
+
+ ------------------------------------------- 
+
+1.6666666666666667
+line_id 9773621487
+transcript norm:  y quizas la razon por la que nunca hemos hablado del libro por un lado asumimos que todos conocian que yo habia escrito ese libro hace unos tres anos por un lado y en segundo lugar si ha habido como cierto temor de parte nuestra de no usar esta plataforma para una autopromocion 0 vender un material que nosotros producimos
+ref norm:         y quizas la razon por la que nunca hemos hablado del libro por un lado asumimos que todos conocian que yo habia escrito ese libro hace unos tres anos por un lado y en segundo lugar si ha habido como cierto temor de parte nuestra de no usar esta plataforma para una autopromosion 0 vender un material que nosotros producimos
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773626945
+transcript norm:  0 sea la dinamica financiera de muchos creyentes no se correspondia con la ensenanza biblica acerca del dinero y eso me inquietaba profundamente y creaba tambien mucha necesidad de consejeria dentro de nuestra propia iglesia y en otras comunidades que yo se que asi ocurria eso por un lado
+ref norm:         0 sea la dinamica financiera de muchos creyentes no se correspondia con la ensenanza biblica acerca del dinero y eso me inquietaba profundamente y creaba tambien mucha necesidad de consejeria dentro de nuestra propia iglesia y en otras comunidades que yo se que asi ocurria eso por un lado
+
+ ------------------------------------------- 
+
+4.705882352941177
+line_id 9773680591
+transcript norm:  por otro lado no solamente la dinamica de compra y de venta y de generacion de ingresos sino el sentir que tienen muchos cristianos en su corazon acerca de las posesiones materiales 0 sea yo entiendo que las posesiones materiales son un instrumento un recurso que dios nos provee para cubrir nuestras necesidades para ayudar a otros para contribuir con la obra de dios para muchas cosas al fin y al cabo para glorificar a dios con los recursos que el nos da
+ref norm:         por otro lado no solamente la dinamica de compras y de ventas y de generacion de ingresos sino el sentir que tienen muchos cristianos en su corazon acerca de las posesiones materiales 0 sea yo entiendo que las posesiones materiales son un instrumento un recurso que dios nos provee para cubrir nuestras necesidades para ayudar a otros para contribuir con la obra de dios para muchas cosas en fin al fin y al cabo para glorificar a dios con los recursos que el nos da
+
+ ------------------------------------------- 
+
+4.838709677419355
+line_id 5213718221
+transcript norm:  son parte de los talentos que recibimos de nuestro dios y el lo pone en nuestra disposicion 0 lo pone en nuestras manos para nosotros manejarlo de una manera que el sea glorificado pero la realidad es que en muchos casos el dinero concedido por dios se convierte en nuestro idolo 0 en nuestro dios funcional y si lo tenemos nos enorgullecemos y
+ref norm:         son parte de los talentos que recibimos de nuestro dios y el los pone a nuestra disposicion 0 lo pone en nuestras manos para nosotros manejarlo de una manera que el sea glorificado pero la realidad es que en muchos casos el dinero concedido por dios se convierte en nuestro idolo 0 en nuestro dios funcional y si lo tenemos nos enorgullecemos
+
+ ------------------------------------------- 
+
+473.6842105263157
+line_id 6617785401
+transcript norm:  si lo tenemos nos sentimos seguros y si no lo tenemos nos sentimos inseguros cuando no lo tenemos nos sentimos ansiosos entonces se convierte en nuestro dios funcional que dicta como nos sentimos en un momento dado cuales son las cosas que perseguimos en la vida se convierte tambien en nuestro objetivo de vida en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos en muchos casos
+ref norm:         si lo tenemos nos sentimos seguros y si no lo tenemos nos sentimos inseguros cuando no lo tenemos nos sentimos ansiosos entonces se convierte en nuestro dios funcional que dicta como nos sentimos en un momento dado cuales son las cosas que perseguimos en la vida se convierte tambien en nuestro objetivo de vida en muchos casos
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773697512
+transcript norm:  entonces producto de esa idolatria que en muchas personas se produce producto del dinero pues era necesario yo entendi necesario traer la verdad biblica una vez mas y uno de los pasajes mas contundentes acerca de esta realidad que acabo de describir es cuando cristo dice en lucas 12 15 que aun cuando alguien tenga abundancia la vida no esta en los bienes
+ref norm:         entonces producto de esa idolatria que en muchas personas se produce producto del dinero pues era necesario yo entendi necesario traer la verdad biblica una vez mas y uno de los pasajes mas contundentes acerca de esta realidad que acabo de describir es cuando cristo dice en lucas 12 15 que aun cuando alguien tenga abundancia la vida no esta en los bienes
+
+ ------------------------------------------- 
+
+6.0606060606060606
+line_id 9773661276
+transcript norm:  entonces es la segunda razon por la que quise traer el libro porque definitivamente hay muchos corazones atados a la hidroteria del dinero que necesitaban la luz de la palabra de dios
+ref norm:         entonces esa es la segunda razon por la que quise traer el libro porque definitivamente hay muchos corazones atados a la idolatria del dinero que necesitaban la luz de la palabra de dios
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773660059
+transcript norm:  ahora bien los problemas financieros recurrentes no los puntuales que acabo de decir que pasan por algo que no anticipe sino los problemas economicos recurrentes un deficit recurrente en mis finanzas que yo no logro acomodar no logro resolver usualmente tienen que ver con un problema del corazon mas que un problema financiero propiamente
+ref norm:         ahora bien los problemas financieros recurrentes no los puntuales que acabo de decir que pasan por algo que no anticipe sino los problemas economicos recurrentes un deficit recurrente en mis finanzas que yo no logro acomodar no logro resolver usualmente tienen que ver con un problema del corazon mas que un problema financiero propiamente
+
+ ------------------------------------------- 
+
+3.225806451612903
+line_id 9773611047
+transcript norm:  0 sea una falta de contentamiento que me lleva a un exceso de gastos y compras una manera desordenada de gastar mi dinero porque tengo inseguridades personales que me llevan a querer ostentar 0 a querer obtener del dinero una satisfaccion que solamente encuentra en dios entonces todas esas cosas se manifiestan en la manera como yo gasto como yo ingreso
+ref norm:         0 sea una falta de contentamiento que me lleva a un exceso de gastos y compras si una manera desordenada de gastar mi dinero porque tengo inseguridades personales que me llevan a querer ostentar 0 a querer obtener del dinero una satisfaccion que solamente encuentro en dios entonces todas esas cosas se manifiestan en la manera como yo gasto como yo ingreso
+
+ ------------------------------------------- 
+
+2.127659574468085
+line_id 5333215375
+transcript norm:  si yo entiendo luego de . la biblia tiene muchos principios de manejo pero estos dos principios yo entiendo son los mas abarcadores de todos yo creo que son como los principios sombria bajo los cuales entran todos los demas principios de manejo financiero en la biblia
+ref norm:         si yo entiendo luego de . la biblia tiene muchos principios de manejo pero estos dos principios yo entiendo son los mas abarcadores de todos yo creo que son como los principios sombrilla bajo los cuales entran todos los demas principios de manejo financiero en la biblia
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773693561
+transcript norm:  por un lado el principio de que dios es el dueno de todo el es el propietario de los recursos economicos y nosotros somos simples mayordomos eso tiene una serie de implicaciones para mi para mi manejo para como yo me relaciono con el dinero pero ese es el primer principio
+ref norm:         por un lado el principio de que dios es el dueno de todo el es el propietario de los recursos economicos y nosotros somos simples mayordomos eso tiene una serie de implicaciones para mi para mi manejo para como yo me relaciono con el dinero pero ese es el primer principio
+
+ ------------------------------------------- 
+
+4.918032786885246
+line_id 9773668118
+transcript norm:  acabo de describir lo que yo llamo las implicaciones de ser mayordomo de ser un administrador por parte de dios y una de las debilidades 0 deficiencias que nosotros tenemos como cristianos muchas veces al estudiar la palabra es que leemos una verdad 0 conocemos una verdad pero no nos detenemos a ver en detalle las implicaciones de esa verdad
+ref norm:         tu acabas de describir lo que yo llamo las implicaciones de ser mayordomo de ser un administrador por parte de dios y una de las debilidades 0 deficiencia que nosotros tenemos como cristianos muchas veces al estudiar la palabra es que leemos una verdad 0 conocemos una verdad pero no nos detenemos a ver en detalle las implicaciones de esa verdad
+
+ ------------------------------------------- 
+
+0.0
+line_id 5333282720
+transcript norm:  el segundo principio como dijimos que eran dos que yo llamo otro principio sombrilla es el hecho 0 es la verdad de que el dinero no debe ser un fin en si mismo increiblemente el cristiano no trabaja por dinero no hace un negocio por dinero aunque el dinero es parte de lo que se consigue y es valido y legitimo que yo obtenga
+ref norm:         el segundo principio como dijimos que eran dos que yo llamo otro principio sombrilla es el hecho 0 es la verdad de que el dinero no debe ser un fin en si mismo increiblemente el cristiano no trabaja por dinero no hace un negocio por dinero aunque el dinero es parte de lo que se consigue y es valido y legitimo que yo obtenga
+
+ ------------------------------------------- 
+
+3.7037037037037033
+line_id 5333275844
+transcript norm:  y el dinero vendra pero no debe ser un fin en si mismo porque pablo dice claramente que cuando nosotros amamos el dinero eso ya comienza a ponernos en una trayectoria de peligros espirituales y morales que son peligrosos 0 sea valga la redundancia entonces el primer principio verdad somos mayordomos dios es dueno de nosotros
+ref norm:         y el dinero vendra pero no debe ser un fin en si mismo porque pablo dice claramente que cuando nosotros amamos el dinero eso ya comienza a ponernos en una trayectoria de peligros espirituales y morales que son peligrosos 0 sea valga la redundancia entonces el primer principio verdad somos mayordomos dios es dueno
+
+ ------------------------------------------- 
+
+5.88235294117647
+line_id 9773641298
+transcript norm:  segundo principio el lendero no debe ser un fin en si mismo las posesiones no deben ser un fin en si mismo gomez 0 dos principios entonces yo desarrollo el resto del material digamos pero esos son como los dos principios mas abarcadores biblicamente hablando acerca del dinero y las posesiones
+ref norm:         segundo principio el dinero no debe ser un fin en si mismo las posesiones no deben ser un fin en si mismo con esos dos principios entonces yo desarrollo el resto del material digamos pero esos son como los dos principios mas abarcadores biblicamente hablando acerca del dinero y las posesiones
+
+ ------------------------------------------- 
+
+4.0
+line_id 5333226051
+transcript norm:  bien pues hoy en dia solo en estados unidos hay mas de 2 etfs 2 de estos fondos digamos especiales a traves de los cuales podemos invertir en ese pais 0 en esa bolsa y diversificar correctamente y definitivamente con tantas opciones pues podemos abrumarnos y no saber cual utilizar
+ref norm:         bien pues hoy en dia solo en estados unidos hay mas de 2000 etfs 2000 de estos fondos digamos especiales a traves de los cuales podemos invertir en ese pais 0 en esa bolsa y diversificar correctamente y definitivamente con tantas opciones pues podemos abrumarnos y no saber cual utilizar
+
+ ------------------------------------------- 
+
+2.272727272727273
+line_id 5333246505
+transcript norm:  y por eso aqui quiero presentarte los cuatro criterios que yo utilizo para poder seleccionarlos y no no solamente tiene que ver con costos bueno y primero brevemente que son ets 0 exchange traded funds bueno pues por estas siglas en ingles estamos hablando de fondos lo que se llama cotizables en bolsa esto significa que facilmente podemos comprarlos a traves de la bolsa de valores con una cuenta de inversion como si fueran acciones facilmente podemos comprarlos y venderlos todo el dia mientras el mercado este abierto
+ref norm:         y por eso que quiero presentarte los cuatro criterios que yo utilizo para poder seleccionarlos y no no solamente tiene que ver con costos bueno y primero brevemente que son etfs 0 exchange traded funds bueno pues por estas siglas en ingles estamos hablando de fondos lo que se llama cotizables en bolsa esto significa que facilmente podemos comprarlos a traves de la bolsa de valores con una cuenta de inversion como si fueran acciones facilmente podemos comprarlos y venderlos todo el dia mientras el mercado este abierto
+
+ ------------------------------------------- 
+
+3.225806451612903
+line_id 5333295407
+transcript norm:  de hecho hice un video en el cual te explico como puedes crear una canasta 0 un portafolio bien diversificado de mas de las 10 companias que cotizan publicamente a traves de todo el mundo y que puedes hacerlo con dos 0 tres de estos productos 0 etfs te voy a dejar este enlace en las notas de este video listo fantastico eso es
+ref norm:         de hecho hice un video en el cual te explico como puedes crear una canasta 0 un portafolio bien diversificado de mas de las 10 companias que cotizan publicamente a traves de todo el mundo y que puedes hacerlo con dos 0 tres de estos productos 0 etfs te voy a dejar este enlace en las notas de este video listo fantastico
+
+ ------------------------------------------- 
+
+0.0
+line_id 5333296572
+transcript norm:  entonces vayamos ahora al punto central de este episodio como selecciono correctamente uno de estos etfs bueno pues a continuacion te presento los cuatro criterios que yo utilizo y el punto numero uno es el objetivo para que y en que quieres invertir primero para que 0 cual es el objetivo de esta inversion
+ref norm:         entonces vayamos ahora al punto central de este episodio como selecciono correctamente uno de estos etfs bueno pues a continuacion te presento los cuatro criterios que yo utilizo y el punto numero uno es el objetivo para que y en que quieres invertir primero para que 0 cual es el objetivo de esta inversion
+
+ ------------------------------------------- 
+
+8.60215053763441
+line_id 5333217798
+transcript norm:  y esto es que el que te preparen esa canasta y le den seguimiento a ese grupo de acciones en la cual vas a invertir a traves de este producto involucra un costo y hay una compania que preparo esta canasta y debe darle seguimiento a las acciones que estan ahi dentro verificarse hay una accion por ejemplo que ya no cumple con los criterios 0 requisitos del etf y debe salir u otra accion que de repente si ya cumple con los requisitos y debe incluirse dentro del etf tch
+ref norm:         y esto es que el que te prepara en esa canasta y le den seguimiento a ese grupo de acciones en las cuales vas a invertir a traves de este producto involucra un costo y hay una compania que preparo esta canasta y debe darle seguimiento a las acciones que estan ahi dentro verificarse si hay una accion por ejemplo que ya no cumple con los criterios 0 requisitos de ese etf y debe salir u otra accion que de repente si ya cumple con los requisitos y debe incluirse dentro del etf
+
+ ------------------------------------------- 
+
+1.2345679012345678
+line_id 5333267619
+transcript norm:  esto lleva unos costos como tambien los costos de personal de esa empresa para preparar ese producto los costos de transacciones interna de reportes y evidentemente sus beneficios entonces para nosotros es muy importante conocer que me va a cobrar 0 que me va a costar el estar invertido en este etf porque mientras menos costos tenga yo pues mas dinero que va a quedarse invertido en el fondo y va a crecer trabajando con el interes compuesto a mi favor
+ref norm:         esto lleva unos costos como tambien los costos de personal de esa empresa para preparar ese producto los costos de transacciones internas de reportes y evidentemente sus beneficios entonces para nosotros es muy importante conocer que me va a cobrar 0 que me va a costar el estar invertido en este etf porque mientras menos costos tenga yo pues mas dinero que va a quedarse invertido en el fondo y va a crecer trabajando con el interes compuesto a mi favor
+
+ ------------------------------------------- 
+
+1.4705882352941175
+line_id 5333223994
+transcript norm:  y la facilidad con la que encuentras una persona que quiera comprartelo cuando quieras vender a esto se llama pues liquidez que tan facil puedo convertir esta inversion en algo liquido en efectivo mientras mas personas hayan comprando y vendiendo este etf pues mucho mejor sera para nosotros y te voy a explicar por que sucede que es algo similar a cuando compramos dolares con nuestra moneda local
+ref norm:         y la facilidad con la que encuentras una persona que quiera comprartelo cuando quieras venderlo a esto se llama pues liquidez que tan facil puedo convertir esta inversion en algo liquido en efectivo mientras mas personas hayan comprando y vendiendo este etf pues mucho mejor sera para nosotros y te voy a explicar por que sucede que es algo similar a cuando compramos dolares con nuestra moneda local
+
+ ------------------------------------------- 
+
+1.1764705882352942
+line_id 5333227597
+transcript norm:  entonces es muy importante muy bueno que tu conozcas ese dato el spread la diferencia que hay entre el precio de compra y el precio de venta mientras mas cercano pues mejor para nosotros otro indicador que refleja tambien la liquidez 0 la cantidad de personas que estan comprando y vendiendo este activo es lo que se conoce como el acumm 0 assets under management que significa esto la cantidad de activos que estan invertidos la cantidad de dinero que esta invertido en ese etf
+ref norm:         entonces es muy importante muy bueno que tu conozcas ese dato el spread la diferencia que hay entre el precio de compra y el precio de venta mientras mas cercano pues mejor para nosotros otro indicador que refleja tambien la liquidez 0 la cantidad de personas que estan comprando y vendiendo este activo es lo que se conoce como el aum 0 assets under management que significa esto la cantidad de activos que estan invertidos la cantidad de dinero que esta invertido en ese etf
+
+ ------------------------------------------- 
+
+6.25
+line_id 5333234461
+transcript norm:  en muchos de estos etfs tu te vas a encontrar con valores como one millones 2 millones de dolares por ejemplo que refleja que hay una gran cantidad de inversionistas en muchos casos millones a traves de todo el mundo utilizando cierto tal 0 cual producto y eso refleja pues mucha liquidez mucha facilidad de comprar y vender pues ese etf sin ningun problema
+ref norm:         en muchos de estos etfs tu te vas a encontrar con valores como mil millones dos mil millones de dolares por ejemplo que refleja que hay una gran cantidad de inversionistas en muchos casos millones a traves de todo el mundo utilizando cierto tal 0 cual producto y eso refleja pues mucha liquidez mucha facilidad de comprar y vender ese etf sin ningun problema
+
+ ------------------------------------------- 
+
+1.4925373134328357
+line_id 5333261933
+transcript norm:  cuarto y ultimo criterio que me gusta verificar basicamente para seleccionar un etf es el emisor y esto me refiero a la compania que creo este producto yo basicamente lo que hago es verificar que sea una de las siguientes cuatro companias preferiblemente no necesariamente 0 obligatoriamente pero preferiblemente porque son las cuatro companias mas grandes y que dominan mas del 90% del mercado de estos productos
+ref norm:         cuarto y ultimo criterio que me gusta verificar basicamente para seleccionar un etf es el emisor y esto me refiero a la compania que creo este producto y basicamente lo que hago es verificar que sea una de las siguientes cuatro companias preferiblemente no necesariamente 0 obligatoriamente pero preferiblemente porque son las cuatro companias mas grandes y que dominan mas del 90% del mercado de estos productos
+
+ ------------------------------------------- 
+
+4.0
+line_id 5333227319
+transcript norm:  y nos estamos refiriendo de blackrock nos estamos refiriendo a vanguard state street go advisors y de invest y ahora paso a explicarte donde puedes conseguir esta informacion para tomar tu decision sin embargo quiero comentarte que estos son cuatro criterios basicos para seleccionar un etf correctamente sin embargo no te estreses recuerda que el etf es simplemente el vehiculo pero mas importante es que tengas claro tu estrategia de inversion tu asignacion de activos
+ref norm:         y nos estamos refiriendo de blackrock nos estamos refiriendo a vanguard state street global advisors y de invesco y ahora paso a explicarte donde puedes conseguir esta informacion para tomar tu decision sin embargo quiero comentarte que estos son cuatro criterios basicos para seleccionar un etf correctamente sin embargo no te estreses recuerdate que el etf es simplemente el vehiculo pero mas importante es que tengas claro tu estrategia de inversion tu asignacion de activos
+
+ ------------------------------------------- 
+
+0.0
+line_id 5333295782
+transcript norm:  cuales son los productos 0 los activos en los cuales vas a invertir y por que y que tengas claro cual es esa composicion de ese portafolio que vas a utilizar esto es realmente lo mas importante asi que tenlo pendiente bien pues buenisimo tengo todos estos criterios pero ahora donde consigo la informacion bueno pues como te dije hay varios sitios donde puedes conseguir informacion y te diria que el primero es ir a la pagina de estas companias donde vas a encontrar el listado de los etfs que ellos tienen
+ref norm:         cuales son los productos 0 los activos en los cuales vas a invertir y por que y que tengas claro cual es esa composicion de ese portafolio que vas a utilizar esto es realmente lo mas importante asi que tenlo pendiente bien pues buenisimo tengo todos estos criterios pero ahora donde consigo la informacion bueno pues como te dije hay varios sitios donde puedes conseguir informacion y te diria que el primero es ir a la pagina de estas companias donde vas a encontrar el listado de los etfs que ellos tienen
+
+ ------------------------------------------- 
+
+0.0
+line_id 5333210066
+transcript norm:  y segun el criterio numero uno que te mencione que era el objetivo en que quieres invertir vas a ver cuales son las opciones que ellos tienen para ese activo en el cual quieres invertir y ahi puedes encontrar toda la informacion para cada uno de esos etfs pues toda esta informacion que te comparti aca
+ref norm:         y segun el criterio numero uno que te mencione que era el objetivo en que quieres invertir vas a ver cuales son las opciones que ellos tienen para ese activo en el cual quieres invertir y ahi puedes encontrar toda la informacion para cada uno de esos etfs pues toda esta informacion que te comparti aca
+
+ ------------------------------------------- 
+
+1.4705882352941175
+line_id 5333296432
+transcript norm:  por otro lado otra fuente de informacion pues definitivamente es tu puesto de bolsa cuando abres una cuenta de inversion un puesto de bolsa en estados unidos cuando buscas un producto para comprar 0 vender a traves de ese puesto de bolsa esa plataforma te va a presentar con toda la informacion que requieres de ese producto 0 sea que esa es otra excelente fuente de informacion
+ref norm:         por otro lado otra fuente de informacion pues definitivamente es tu puesto de bolsa cuando abres una cuenta de inversion en un puesto de bolsa en estados unidos cuando buscas un producto para comprar 0 vender a traves de ese puesto de bolsa esa plataforma te va a presentar con toda la informacion que requieres de ese producto 0 sea que esa es otra excelente fuente de informacion
+
+ ------------------------------------------- 
+
+8.064516129032258
+line_id 5333229100
+transcript norm:  y finalmente otro recurso que a mi me encanta utilizar para investigar etfs son las paginas ets com y etsdb com donde vas a encontrar todos estos criterios e indicadores que te mencione asi como muchisima mas informacion de cada uno de estos productos con lo cual le vas a poder tomar tu decision pues con mucha mas conciencia pues ahi lo tienes
+ref norm:         y finalmente otro recurso que a mi me encanta utilizar para investigar etfs son las paginas etf com y etfdb com donde vas a encontrar todos estos criterios e indicadores que te mencione asi como muchisima mas informacion de cada uno de estos productos con los cuales vas a poder tomar tu decision pues con mucha mas conciencia pues ahi lo tienes
+
+ ------------------------------------------- 
+
+4.819277108433735
+line_id 5333220838
+transcript norm:  oye muchas veces escucho a emprendedores y duenos de negocios decirme ramon yo no invierto en la bolsa porque sucede que mi negocio me deja mas rendimiento y hoy quiero que me acompanes a explorar pues por que veloz esta forma podria ser un error y cuatro razones por las cuales deberias considerar invertir en la bolsa como parte vital de tu estrategia financiera y para creacion de patrimonio iniciamos con estas cuatro razones razon numero uno diversificacion de tu riesgo financiero dah
+ref norm:         oye muchas veces escucho a emprendedores y duenos de negocio decirme ramon yo no invierto en la bolsa porque sucede que mi negocio me deja mas rendimiento y hoy quiero que me acompanes a explorar pues por que verlo de esta forma podria ser un error y cuatro razones por las cuales deberias considerar invertir en la bolsa como parte vital de tu estrategia financiera y para creacion de patrimonio iniciamos con estas cuatro razones razon numero uno diversificacion de tu riesgo financiero
+
+ ------------------------------------------- 
+
+0.0
+line_id 5333269124
+transcript norm:  primero definitivamente que tu negocio claro que va a dejar mas rendimiento que una inversion pasiva asi debe ser porque estas asumiendo mas riesgo lo importante es que seas consciente de esto porque mira por ejemplo depender unicamente de tu negocio para tu seguridad financiera te deja mas expuesto y mas vulnerable
+ref norm:         primero definitivamente que tu negocio claro que va a dejar mas rendimiento que una inversion pasiva asi debe ser porque estas asumiendo mas riesgo lo importante es que seas consciente de esto porque mira por ejemplo depender unicamente de tu negocio para tu seguridad financiera te deja mas expuesto y mas vulnerable
+
+ ------------------------------------------- 
+
+2.380952380952381
+line_id 5333293324
+transcript norm:  por ejemplo si te das cuenta estas combinando en tu negocio dos cosas muy importantes regularmente combinamos nuestra fuente de ingreso regular para sustentar nuestros gastos personales regulares como tambien la acumulacion 0 creacion de patrimonio estamos colocando dinero dentro del mismo
+ref norm:         por ejemplo si te das cuenta estas combinando en tu negocio dos cosas muy importantes regularmente combinamos nuestra fuente de ingresos regular para sustentar nuestros gastos personales regulares como tambien la acumulacion 0 creacion de patrimonio estamos colocando dinero dentro del mismo
+
+ ------------------------------------------- 
+
+1.2195121951219512
+line_id 5333298856
+transcript norm:  patrimonio es con lo que cuentas entonces si enfrentas una crisis en tu negocio te ves afectado doblemente con un doble golpe porque sufren tus ingresos de tu parte personal para poder cubrir tus gastos como tambien tu patrimonio y de repente no tienes de donde agarrarte tener inversiones diversificadas a traves de una bolsa va a ayudarte a mitigar este riesgo y que sea mas sostenible tanto tu negocio como tus finanzas personales punto numero dos crecimiento de tu patrimonio personal
+ref norm:         patrimonio es con lo que cuentas entonces si enfrentas una crisis en tu negocio te ves afectado doblemente con un doble golpe porque sufren tus ingresos de tu parte personal para poder cubrir tus gastos como tambien tu patrimonio y de repente no tienes de donde agarrarte tener inversiones diversificadas a traves de la bolsa va a ayudarte a mitigar este riesgo y que sea mas sostenible tanto tu negocio como tus finanzas personales punto numero dos crecimiento de tu patrimonio personal
+
+ ------------------------------------------- 
+
+6.666666666666667
+line_id 5333214768
+transcript norm:  tener inversiones en la bolsa te permite ir creando ese patrimonio en automatico donde con esos buenos retornos que puedes tener en tu negocio ir distribuyendo esto a otro tipo de inversiones diversificadas va creando en automatico ese patrimonio permitiendote mas sostenibilidad tanto tuya y para poder asegurar tu futuro y el de tu familia como la sostenibilidad de tu negocio
+ref norm:         tener inversiones en la bolsa te permite ir creando ese patrimonio en automatico donde con esos buenos retornos que puedas tener en tu negocio ir distribuyendo esto a otros tipos de inversiones diversificadas va creando en automatico ese patrimonio permitiendote mas sostenibilidad tanto tuya y para poder asegurar tu futuro y de tu familia como la sostenibilidad de tu negocio
+
+ ------------------------------------------- 
+
+0.0
+line_id 5333261700
+transcript norm:  el tercer punto es tener liquidez y flexibilidad fijate invertir en la bolsa permite a traves de ciertos activos convertir rapidamente 0 facilmente esas inversiones a efectivo a diferencia de lo que es el capital 0 las inversiones que estas colocando en tu negocio
+ref norm:         el tercer punto es tener liquidez y flexibilidad fijate invertir en la bolsa permite a traves de ciertos activos convertir rapidamente 0 facilmente esas inversiones a efectivo a diferencia de lo que es el capital 0 las inversiones que estas colocando en tu negocio
+
+ ------------------------------------------- 
+
+5.084745762711865
+line_id 5333280388
+transcript norm:  no es tan facil por ejemplo vender una maquinaria un activo un edificio para poder convertir a efectivo y poder maniobrar entonces diversificar y tener inversiones en la bolsa te va a permitir maniobrar mas facilmente en entornos tan cambiantes que de repente requieres efectivo ya sea para tus finanzas personales 0 para las finanzas inclusivas del mismo nebos
+ref norm:         no es tan facil por ejemplo vender una maquinaria un activo un edificio para poder convertir a efectivo y poder maniobrar entonces diversificar y tener inversiones en la bolsa te va a permitir maniobrar mas facilmente en entornos tan cambiantes que de repente requieras efectivo ya sea para tus finanzas personales 0 para las finanzas incluso del mismo negocio
+
+ ------------------------------------------- 
+
+1.7857142857142856
+line_id 5333246875
+transcript norm:  la razon numero 4 y mi favorita es generar ingresos pasivos tu que tienes un negocio 0 emprendimiento sabes muy bien que eso de generar ingresos pasivos a traves de los negocios no es tan sencillo como lo pintan y es que la unica forma de generar verdaderos ingresos pasivos es a traves de las inversiones
+ref norm:         la razon numero cuatro y mi favorita es generar ingresos pasivos tu que tienes un negocio 0 emprendimiento sabes muy bien que eso de generar ingresos pasivos a traves de los negocios no es tan sencillo como lo pintan y es que la unica forma de generar verdaderos ingresos pasivos es a traves de las inversiones
+
+ ------------------------------------------- 
+
+12.5
+line_id 5213719648
+transcript norm:  si mira nosotros venimos de un grupo familiar que inicio con tres ingenieros el grupo mera munoz y fonder fue en sus inicios tres ingenieros jovenes emprendedores de esa epoca que estudiaron ingenieria civil y se dedicaron entonces al negocio de la construccion en ese momento no habia una diferencia entre desarrollo inmobiliario construccion era todos los .
+ref norm:         si mira nosotros venimos de un grupo familiar que inicio con tres ingenieros el grupo mera muno fondeur fue en sus inicios tres ingenieros jovenes emprendedores de esa epoca que se estudiaron ingenieria civil y se dedicaron entonces al negocio de la construccion en ese momento no habia una diferencia entre desarrollo inmobiliario construccion era todologos
+
+ ------------------------------------------- 
+
+8.928571428571429
+line_id 5213726060
+transcript norm:  y ese grupo la verdad que cada uno de ellos hubo un rol importante incluyendo otro socio que era diaz que era familia de nosotros y al final a un grupo que tiene hoy en dia 67 anos mis abuelos eran el genero mera y el genero fondek que hoy en dia permanecen como grupos familiares unidos
+ref norm:         y ese grupo la verdad que cada uno de ellos jugo un rol importante incluyendo otro socio que era diaz que era familia de nosotros y al final un grupo que tiene hoy en dia 67 anos mis abuelos eran el ingeniero mera y el ingeniero fondeur que hoy en dia permanecen como grupos familiares unidos
+
+ ------------------------------------------- 
+
+15.151515151515152
+line_id 5333251180
+transcript norm:  por eso grupo mera fonderbo las otras dos familias salieron del negocio en algun momento pero desde pequeno desde que naci los huevos mios de chiquito eran camiones a mi me criaron cerca del polvo de los agregados me llevaban a la fabrica a tirarme fotos en las retrocavadoras en los camiones esa fue una ninez muy buena la verdad es
+ref norm:         por eso grupos mera fondeur las otras dos familias salieron del negocio en algun momento pero desde pequeno desde que naci los huevos mios de chiquito eran camiones camiones tonca 0 sea a mi me criaron cerca de del polvo de los agregados me llevaban a la fabrica a tirarme fotos en las retrocabadoras en los camiones esa fue una ninez muy muy buena la verdad
+
+ ------------------------------------------- 
+
+6.0
+line_id 5213763714
+transcript norm:  se me toco entender y aprender de cada uno de ellos nuestra familia obviamente como ustedes mencionaron 67 anos de historia dificil de explicar en poco tiempo pero yendonos hemos tenido altas y bajas como es propio de una empresa de tanto tiempo y han pasado tres generaciones
+ref norm:         se me toco entender y aprender de cada uno de ellos nuestra familia obviamente como ustedes mencionaron 67 anos de historia es dificil de explicar en poco tiempo pero yendo no hemos tenido altas y bajas como es propio de una empresa de tanto tiempo y han pasado tres generaciones
+
+ ------------------------------------------- 
+
+1.3157894736842104
+line_id 5213738683
+transcript norm:  y pudiera haber creo que una oportunidad que tienen las universidades de enfoques en la carrera de ingenieria civil 0 crear una carrera mixta que pueda ser mas enfocada en construccion 0 mas enfocada en desarrollo inmobiliario de hecho yo quisiera sugerir a quienes nos escuchan que sean portavoces de que hay que crear una carrera de desarrollo inmobiliario que es a lo que aspiran la mayoria de jovenes que van a estudiar ingenieria civil
+ref norm:         y pudiera haber creo que es una oportunidad que tienen las universidades de enfoques en la carrera de ingenieria civil 0 crear una carrera mixta que pueda ser mas enfocada en construccion 0 mas enfocada en desarrollo inmobiliario de hecho yo quisiera sugerir a quienes nos escuchan que sean portavoces de que hay que crear una carrera de desarrollo inmobiliario que es a lo que aspiran la mayoria de jovenes que van a estudiar ingenieria civil
+
+ ------------------------------------------- 
+
+8.450704225352112
+line_id 5213752600
+transcript norm:  yo inicio en la empresa ya cuando entro a estudiar ingenieria civil obviamente la pasante y el oberano se hacian alla pero mucho antes cuando era el oberano de la escuela a mi me llevaban a la constructora y los trabajos que me ponian a hacer mi primer trabajo en la constructora fue ayudante de mecanico 0 sea mi primer trabajo era limpiar los pistones de los camiones era la ayudante de mecanico
+ref norm:         yo inicio en la empresa ya cuando entro a estudiar ingenieria civil obviamente la pasantilo verano se hacian alla pero mucho antes cuando era lo verano de la escuela a mi me llevaban a la constructora y los trabajos que me ponian a hacer mi primer trabajo en la constructora fue ayudante de mecanico 0 sea mi primer trabajo era limpiar los pistones de los camiones era la ayudante de mecanico
+
+ ------------------------------------------- 
+
+5.084745762711865
+line_id 5333249580
+transcript norm:  luego de eso pase a ser asistente de almacen 0 sea manejo de inventario creo que tambien algo muy basico pero importante estamos hablando de edad de 12 anos 13 anos cuando ya me estaba ensenando aunque fuera por poco tiempo porque eran los veranos pero eran un par de meses que yo le dedicaba a entender cosas en si
+ref norm:         luego de eso pase a ser asistente de almacen 0 sea manejo de inventario creo que tambien algo muy basico pero importante estamos hablando de edad de 12 anos 13 anos cuando ya me estaban ensenando aunque fuera por poco tiempo porque eran los veranos pero eran un par de meses que yo le dedicaba a entender cosas sencillas
+
+ ------------------------------------------- 
+
+1.4925373134328357
+line_id 5213777226
+transcript norm:  ya luego entro a la universidad hago mi pasantia regreso a trabajar a la empresa ya como ingeniero civil y desde entonces mi familia tuvo muy claro de que yo tenia que entender el mecanismo de la empresa y por eso me rotaron por una cantidad de departamentos para que yo entendiera cada punto productivo como funcionaba y que se hacia 0 que hacia todo el engranaje fit
+ref norm:         ya luego entro a la universidad hago mi pasantia regreso a trabajar a la empresa ya como ingeniero civil y desde entonces mi familia tuvo muy claro de que yo tenia que entender el mecanismo de la empresa y por eso me rotaron por una cantidad de departamentos para que yo entendiera cada punto productivo como funcionaba y que se hacia 0 que hacia todo el engranaje
+
+ ------------------------------------------- 
+
+12.903225806451612
+line_id 5213761545
+transcript norm:  todo eso fue antes de la universidad tambien en el verano fui encargado de compras tambien pase por el area de presupuesto y de control de costos que es muy importante etcetera
+ref norm:         eso fue antes de la universidad tambien en lo verano eh fui encargado de compras tambien pase por el area de presupuesto y de control de costos que es muy importante
+
+ ------------------------------------------- 
+
+8.0
+line_id 5213719916
+transcript norm:  algunos de ellos fueron mis abuelos mis padres mis tios todos han aportado algo a lo que yo soy hoy y un miembro actual del consejo de meditacion de merafon del ingeniero sabater es el que me lleva a conocer mas a detalle lo que es el desarrollo embollar
+ref norm:         algunos de ellos fueron mis abuelos mis padres mis tios todos han aportado algo a lo que yo soy hoy y un miembro actual del consejo de administracion de mera fundes del ingeniero sabater es el que me lleva a conocer mas a detalle lo que es el desarrollo inmobiliario
+
+ ------------------------------------------- 
+
+4.6875
+line_id 5213710930
+transcript norm:  y ya tu sabes que ahi se abrieron todas las fronteras que yo podia tener ahi ya fue una vision general del mundo entero y lo que estaba pasando los profesores mios no eran teoricos eran personas exitosas que tenian su empresa y que iban a la universidad a ensenarme como ellos lo habian logrado 0 sea ese nivel fue esa maestria hoy
+ref norm:         y ya tu sabes que ahi se abrieron todas las fronteras que yo podia tener ahi ya fue una vision general del mundo entero y lo que estaba pasando los profesores mios no eran teoricos eran personas exitosas que habian que tenian su empresa y que iban a la universidad a ensenarme como ellos lo habian logrado 0 sea ese nivel fue esa maestria
+
+ ------------------------------------------- 
+
+10.526315789473683
+line_id 5213747280
+transcript norm:  obviamente luego de ahi llego encantado con mucho aprendizaje y de ahi sale la fortaleza que yo entiendo que tengo de las finanzas entender los modelos financieros fue en esa maestria donde me fortalecio
+ref norm:         obviamente luego de ahi llego encantado con mucho aprendizaje y de ahi sale la parte la fortaleza que yo entiendo que tengo de las finanzas 0 sea entender los modelos financieros fue en esa maestria donde me fortalecio
+
+ ------------------------------------------- 
+
+10.9375
+line_id 5333216257
+transcript norm:  tu me preguntabas cual era la frase 0 algo que yo siempre insistia en el equipo de que es importante cuando estamos hablando de negocio y yo te mencionaba que una de las cosas mas relevantes para tener en cuenta en cualquier negocio pero sobre todo en la construccion que sabemos que tiene sus fluctuaciones bien marcadas es el flujo de sectivo
+ref norm:         tu me preguntabas que cual era cual era la frase 0 algo que yo siempre insistia con el equipo de que es importante cuando estamos hablando de negocios y yo te mencionaba que una de las cosas mas relevantes para tener en cuenta en cualquier negocio pero sobre todo en la construccion que sabemos que tiene sus fluctuaciones bien marcadas es el flujo efectivo
+
+ ------------------------------------------- 
+
+0.0
+line_id 5213786018
+transcript norm:  eso es algo fundamental que todo el mundo tiene que entender y tiene que saber no solo entenderlo cuando lo vea sino saber proyectarlo adecuadamente para identificar donde hace falta que haga una accion ya sea de cubrir 0 de colocar
+ref norm:         eso es algo fundamental que todo el mundo tiene que entender y tiene que saber no solo entenderlo cuando lo vea sino saber proyectarlo adecuadamente para identificar donde hace falta que haga una accion ya sea de cubrir 0 de colocar
+
+ ------------------------------------------- 
+
+9.722222222222223
+line_id 5213798249
+transcript norm:  elijo el mercado el nicho al que me quiero dirigir entonces ahi me toca salir a buscar el terreno para poder desarrollarlo 0 ya yo tengo el terreno por alguna razon lo encontre a una oportunidad 0 alguien se acerco a mi ya como el terreno entonces tengo que identificar cual es el mejor uso que se le puede dar a ese terreno para un desarrollo inmobiliario se ha sonado bien
+ref norm:         elijo el mercado el nicho al que me quiero dirigir entonces ahi me toca salir a buscar el terreno para poder desarrollarlo 0 ya yo tengo el terreno por alguna razon lo encontre a una oportunidad 0 alguien se acerco a mi ya con el terreno entonces tengo que identificar cual es el mejor uso que se le puede dar a ese terreno para un desarrollo inmobiliar esas son las dos vias
+
+ ------------------------------------------- 
+
+7.894736842105263
+line_id 5213777031
+transcript norm:  la analisis de mercado es mucho mas profundo de ahi y hay que entender los niveles economicos de la zona en que se va a desarrollar hay que entender la dinamica que se vive en esa zona hay que hacer una visita preguntar hablar con la gente de cuales son las necesidades que le esta faltando 0 sea es algo mucho mas detallado que simplemente un estudio de mercado de como estan vendiendo bolas unidades por ahi si
+ref norm:         el analisis del mercado es mucho mas profundo de ahi hay que entender los niveles economicos de la zona en que se va a desarrollar hay que entender la dinamica que se vive en esa zona hay que hacer una visita preguntar hablar con la gente de cuales son las necesidades que le estan faltando 0 sea es algo mucho mas detallado que simplemente un estudio de mercado de como estan vendiendo las unidades por ahi
+
+ ------------------------------------------- 
+
+5.357142857142857
+line_id 5213733819
+transcript norm:  bueno ahi se define claramente la necesidad la oportunidad que hay en la zona 0 en ese terreno ya luego es validar entonces con los ayuntamientos 0 las autoridades correspondientes lo que se puede hacer una cosa es lo que se necesita 0 la oportunidad que hay y otra es lo que se puede hacer
+ref norm:         bueno ahi se define claramente la necesidad la oportunidad que hay en la zona 0 en 0 en ese terreno ya luego es validar entonces con los ayuntamientos 0 las autoridades correspondientes lo que se puede hacer una cosa es lo que se necesita 0 la oportunidad que hay y otra lo que se puede hacer
+
+ ------------------------------------------- 
+
+17.46031746031746
+line_id 5213763587
+transcript norm:  y luego de eso yo te mencionaba en una conversacion que tuvimos es un analisis de servilleta yo le decimos de servilleta porque se puede hacer con un lapicero y una servilleta pero nosotros lo hacemos en excel 0 sea es una refactibilidad que me da una idea del potencial que tiene a nivel economico de rentabilidad 0 de volumen un proyecto
+ref norm:         y luego de eso entonces yo te mencionaba en una conversacion que tuvimos un analisis de servilleta 0 sea una le decimos de servilleta porque se puede hacer con un lapicero y una servilleta pero nosotros hacemos excel 0 sea una prefactibilidad que me da una idea del potencial que tiene a nivel economico de rentabilidad 0 de 0 de volumen un proyecto
+
+ ------------------------------------------- 
+
+12.987012987012985
+line_id 5213795009
+transcript norm:  tu puedes entrar a las paginas de las entidades gubernamentales y hay una formula de como calcularlo eso es muy sencillo y normalmente se estima entre un 3 y un 5% del valor de la venta que pudiera ser soft cost luego de eso ya tenemos margen bruto 0 sea margen del proyecto si lo hicieramos todo efectivo pero sabemos que la realidad es que no se hace con capital provee todos los proyectos
+ref norm:         tu puedes entrar a las paginas de los de las entidades gubernamentales y hay una formula de como calcular eso es muy muy sencillo y normalmente se estima entre un 3 y un 5 por ciento del valor de la venta que pudiera ser soft cost luego de eso ya tenemos margen bruto margen del proyecto si lo hicieramos todo efectivo pero sabemos que la realidad es que no se hace con capital propio todos los proyectos
+
+ ------------------------------------------- 
+
+6.25
+line_id 5213776187
+transcript norm:   pudiera haber proyectos que si se hagan asi pero ahi hay que agregarle componentes financiamiento entonces ahi ya entramos en algo mucho mas profundo pero es muy facil de calcular cuanto dinero en el caso de los residenciales que se hacen para la venta cuanto dinero vamos a recibir de las preventas que normalmente se estima un porcentaje que tu vas a recibir durante la construccion luego cuanto vamos a necesitar de financiamiento y cuanto nosotros vamos a poner de capital
+ref norm:         pudiera haber proyectos que si se hagan asi pero hay hay que agregarle componente financiamiento entonces ahi ya entramos en algo muchisimo profundo pero es muy facil de calcular cuanto dinero en el caso de los residenciales que se hacen para la venta cuanto dinero vamos a recibir de las preventa que normalmente se estima un porcentaje que tu vas a recibir durante la construccion luego cuanto vamos a necesitar de financiamiento y cuanto nosotros vamos a poner de capital
+
+ ------------------------------------------- 
+
+16.867469879518072
+line_id 5213783614
+transcript norm:  aqui debiera medirse tasa de absorcion pero no se mide es real lo que se hace es el mercado te va hablando y te va diciendo dependiendo del sector al que tu te vendian tu sabes que el sector bajo tu probablemente le pides un 20% de inicial durante la construccion pero hay un sector muy alto que tu le pudieras pedir hasta un 50% y hay un intermedio que anda entre 30 y 40%
+ref norm:         aqui debiera medirse tasa de absorcion pero no se mide es real lo que se hace es el mercado te va hablando y te va diciendo dependiendo del sector al que tu te vendiendo tu sabes que el sector bajo tu probablemente le pide un 20 por ciento de inicial durante la construccion pero hay un sector muy alto que tu le pudiera pedir hasta un 50 por ciento y hay un intermedio que anda entre el 30 y el 40 por ciento
+
+ ------------------------------------------- 
+
+1.8518518518518516
+line_id 5213735529
+transcript norm:  tu estima pone unos numeros que tu te sientas comodo y conforme conservador y hace un factor que te dice entonces cuanto tu vas a recibir de preventa cuanto tu vas a poner de tu capital que ya tu tienes identificado para ese proyecto y el resto entonces tiene que cumplir con el financiamiento
+ref norm:         tu estima pone unos numeros que tu te sienta comodo y conforme conservador y hace un factor que te dice entonces cuanto tu vas a recibir de preventa cuanto tu vas a poner de tu capital que ya tu tienes identificado para ese proyecto y el resto entonces tiene que cumplir con el financiamiento
+
+ ------------------------------------------- 
+
+6.779661016949152
+line_id 5213729415
+transcript norm:  claro eso es muy importante lo que tu dices normalmente un proyecto que se vaya a desarrollar para vender donde tu entre un ano y tres anos ya lo puedes tener el dinero de vuelta y haber hecho el flip a un proyecto a largo plazo como fuera un desarrollo de un centro comercial para alquiler
+ref norm:         claro eso es muy importante lo que tu dices no lo mismo un proyecto que se vaya a desarrollar para vender donde tu entre un ano y tres anos ya lo puedes puede tener el dinero de vuelta y haber hecho el flip a un proyecto a largo plazo como fuera un desarrollo de un centro comercial para alquiler
+
+ ------------------------------------------- 
+
+4.444444444444445
+line_id 5213713082
+transcript norm:  claro mira yo creo que es muy importante lo que tu mencionas de que los desarrolladores hablemos el mismo idioma yo creo que eso es fundamental en cualquier sector en cualquier negocio que cuando nos comuniquemos entendamos todo lo que se esta hablando
+ref norm:         claro mira yo creo que es muy importante lo que tu mencionas de que de que los desarrolladores hablemos el mismo idioma yo creo que eso es fundamental en cualquier sector en cualquier negocio que cuando nos comuniquemos entendamos todo lo que se esta hablando
+
+ ------------------------------------------- 
+
+10.526315789473683
+line_id 5213786945
+transcript norm:  y antes de pasar al soft cost quisiera comentar que algo muy basico que yo creo que todos deberiamos hablar es en precios 0 sea dinero por metro cuadrado vendible cuando estamos hablando de desarrollo habitacional todo lo que nosotros vayamos a calcular deberia ser en torno 0 sea siempre dividido entre metro cuadrado vendible para que hablemos el mismo idioma
+ref norm:         y antes de pasar al soft cost quisiera comentar que algo muy basico que yo creo que todo debieramos hablar es en precios dinero por metro cuadrado vendible cuando estamos hablando de desarrollo habitacional todo lo que nosotros vayamos a calcular deberia ser en torno siempre dividido entre metro cuadrado vendible para que hablemos el mismo idioma
+
+ ------------------------------------------- 
+
+14.285714285714285
+line_id 6617782723
+transcript norm:  bueno te cuento que desde la ultima vez que grabe un episodio creo que fue antes de semana santa 0 deje algun episodio para semana santa no recuerdo bien pero por ahi cerca no inicios de .
+ref norm:         bueno te cuento que desde la ultima vez que grabe un episodio creo que fue antes de semana santa 0 deje algun episodio para semana santa no recuerdo bien pero por ahi cerca no inicios de finales de marzo inicios de abril
+
+ ------------------------------------------- 
+
+2.857142857142857
+line_id 6617718848
+transcript norm:  mi familia y yo nos fuimos de vacaciones nos fuimos a santiago nuestra segunda casa fuimos a compartir con familiares con amigos fue una semana espectacular la pasamos muy bien de hecho estuvimos seis dias trabajando
+ref norm:         mi familia y yo nos fuimos de vacaciones nos fuimos a santiago nuestra segunda casa fuimos a compartir con familiares con amigos fue una semana espectacular la pasamos muy bien de hecho estuvimos seis dias
+
+ ------------------------------------------- 
+
+2.0
+line_id 6617758765
+transcript norm:  pensabamos durar menos pero regresamos el viernes santo aqui a santo domingo visitamos a mis padres una semana fueron unas vacaciones maravillosas yo habia solicitado en el trabajo dos semanas 0 sea que me quedaba una semana mas para estar aqui en la casa y demas y asi paso
+ref norm:         pensabamos durar menos pero regresamos el viernes santo aqui a santo domingo visitamos a mis padres fue una semana fueron unas vacaciones maravillosas yo habia solicitado en el trabajo dos semanas 0 sea que me quedaba una semana mas para estar aqui en la casa y demas y asi paso
+
+ ------------------------------------------- 
+
+2.631578947368421
+line_id 6617769267
+transcript norm:  pues sucede que terminando esa segunda semana luego de semana santa segunda semana donde ya finalizaban mis vacaciones jamie tuvo un cuadro clinico critico 0 sea tuvo entre desmayos reacciones fisiologicas movimientos involuntarios migrana vertigo de todo
+ref norm:         pues sucede que terminando esa segunda semana luego de semana santa segunda semana donde ya finalizaban mis vacaciones jamie tuvo un cuadro clinico critico 0 sea tuvo un entre desmayos reacciones fisiologicas movimientos involuntarios migrana vertigo de todo
+
+ ------------------------------------------- 
+
+0.0
+line_id 6617754056
+transcript norm:  ese ultimo viernes que fue mas 0 menos creo que el 4 de el 5 de abril tuvimos que llamar al 911 llevarla de emergencia a un hospital cercano ahi estuvimos hasta las 4 de la manana del sabado ella se mejoro aparentemente y volvimos a la casa
+ref norm:         ese ultimo viernes que fue mas 0 menos creo que el 4 de el 5 de abril tuvimos que llamar al 911 llevarla de emergencia a un hospital cercano ahi estuvimos hasta las 4 de la manana del sabado ella se mejoro aparentemente y volvimos a la casa
+
+ ------------------------------------------- 
+
+0.0
+line_id 5333211576
+transcript norm:  entonces ahi decidi llamar a la hermana de jamie que es medico a una tia de jamie que tambien es medico y comence a preocupar a todo el mundo y llegaron en la manana temprana del domingo y llegamos a la conclusion de que habia que volver otra vez a una emergencia porque ella no salia del cuadro de hecho estaba peor
+ref norm:         entonces ahi decidi llamar a la hermana de jamie que es medico a una tia de jamie que tambien es medico y comence a preocupar a todo el mundo y llegaron en la manana temprana del domingo y llegamos a la conclusion de que habia que volver otra vez a una emergencia porque ella no salia del cuadro de hecho estaba peor
+
+ ------------------------------------------- 
+
+2.380952380952381
+line_id 6617714923
+transcript norm:  bueno y asi lo hicimos volvimos a llamar al 911 la llevamos a otro hospital que queda cerca tambien por referencia nos dijeron que la llevaramos ahi porque es un hospital bastante completo tiene todo lo que se necesita para investigarla
+ref norm:         bueno y asi lo hicimos volvimos a llamar al 911 la llevamos a otro hospital que queda cerca tambien por referencia nos dijeron que la llevaramos ahi porque es un hospital bastante completo tiene todo lo que se necesita para para investigarla
+
+ ------------------------------------------- 
+
+10.256410256410255
+line_id 6617794440
+transcript norm:  no porque esto se va a publicar el 22 el miercoles 10 de abril hasta ahi le dieron de alta claro fueron tres dias dos noches internas con todos los estudios posibles de sangre tomografia resanacion magnetica sonografias ecocardiodrama
+ref norm:         bueno no porque esto se va a publicar el 22 el miercoles 10 de abril ahi le dieron de alta claro fueron tres dias dos noches internas con todos los estudios posibles de sangre tomografia resanacia magnetica sonografias ecocardiograma
+
+ ------------------------------------------- 
+
+0.0
+line_id 6617794134
+transcript norm:  y digamos que todos los estudios apuntaban 0 sea estaban bien estaban normales sus valores estaban bien pero claro al llegar a la parte de internamiento a la habitacion comenzaron a medicarla para sacarla del cuadro critico en el que aparentemente estaba y si lo lograron no
+ref norm:         y digamos que todos los estudios apuntaban 0 sea estaban bien estaban normales sus valores estaban bien pero claro al llegar a la parte de internamiento a la habitacion comenzaron a medicarla para sacarla del cuadro critico en el que aparentemente estaba y si lo lograron no
+
+ ------------------------------------------- 
+
+0.0
+line_id 6617767562
+transcript norm:  el miercoles jamie se sento se pudo sentar en la cama se pudo reincorporar porque todo esto todavia no lo habia podido hacer nos movimos caminamos un poco porque ya habian dado la de alta y el domingo en la tarde salimos para la casa
+ref norm:         el miercoles jamie se sento se pudo sentar en la cama se pudo reincorporar porque todo esto todavia no lo habia podido hacer nos movimos caminamos un poco porque ya habian dado la de alta y el domingo en la tarde salimos para la casa
+
+ ------------------------------------------- 
+
+2.7777777777777777
+line_id 6617788830
+transcript norm:  jamie llevo caminando lenta evidentemente pero desde ese dia hasta esta fecha ella sigue teniendo en los mismos episodios la misma sintomatologia solo que un poquito diferente 0 mas leve 0 menos intensa y muy variada
+ref norm:         jamie llego caminando lenta evidentemente pero desde ese dia hasta esta fecha ella sigue teniendo en los mismos episodios la misma sintomatologia solo que un poquito diferente 0 mas leve 0 menos intensa y muy variada
+
+ ------------------------------------------- 
+
+8.21917808219178
+line_id 6617717739
+transcript norm:  pusimos la cita la cita iba a ser para el 7 de mayo y digamos que el viernes ocurrio una especie asi de milagro de que el viernes 19 de la manana la doctora la neurologa de cabecera de jamie me llamo y me pregunto de como ella seguia yo le dije bueno sigue igual los sintomas son menos se puede incorporar puede caminar y todo pero pero siguen esos episodios
+ref norm:         pusimos la cita la cita iba a ser para el 7 de mayo y digamos que el viernes ocurrio una especie asi de milagro de que el viernes 19 en la manana la doctora la neurologa de cabecera de jamie me llamo y me pregunto que como ella seguia yo le dije bueno sigue igual 0 sea los sintomas son menos se puede incorporar puede caminar y todo pero sigue en esos episodios
+
+ ------------------------------------------- 
+
+5.084745762711865
+line_id 6617792018
+transcript norm:  y al parecer lo que ha detonado toda esta sintomatologia en jamie es que ya jamie ha sufrido toda su vida de endometriosis y el ano pasado estuvo operada para marzo del ano pasado justamente fue operada para eso para quitar las celulas que no estaban bien en su organismo y demas y dejarla libre de endometriosis
+ref norm:         y al parecer lo que ha detonado toda esta sintomatologia en jamie es que ella jamie ha sufrido toda su vida de endometriosis y el ano pasado estuvo operada para marzo del ano pasado justamente fue operada para eso no para para quitar las celulas que no estaban bien en su organismo y demas y dejarla libre de endometriosis
+
+ ------------------------------------------- 
+
+4.838709677419355
+line_id 6617722972
+transcript norm:  y asi fue solo que luego de la operacion le indujeron le pusieron un tratamiento hormonal bueno primero fue un tratamiento preventivo no para que no volviera a salir la endometriosis por seis meses que le duro nueve meses el efecto y para febrero de este ano se le puso un tratamiento hormonal tambien de manera preventiva para prevenir la endometriosis
+ref norm:         y asi fue solo que luego de la operacion le indujeron le pusieron un tratamiento hormonal bueno primero fue un tratamiento para preventivo para que no volviera a salir la endometriosis por seis meses que le duro nueve meses el efecto y para febrero de este ano se le puso un tratamiento hormonal para tambien de manera preventiva para prevenir la endometriosis
+
+ ------------------------------------------- 
+
+0.0
+line_id 6617788041
+transcript norm:  y ese tratamiento hormonal se supone que iba a ser hasta que estuviera en la edad de desarrollar la menopausia
+ref norm:         y ese tratamiento hormonal se supone que iba a ser hasta que estuviera en la edad de desarrollar la menopausia
+
+ ------------------------------------------- 
+
+8.928571428571429
+line_id 6617798780
+transcript norm:  bueno al parecer el tema es que jamie desde que comenzo a tener el tratamiento hormonal comenzo a sentir efectos secundarios de ese tratamiento el cual reviso el ginecologo y le dejo saber que faltaba un poquito de tiempo como para que su sistema se adaptara a esas hormonas no hay bases de tratamiento y que bueno .
+ref norm:         bueno al parecer el tema es que jamie desde que comenzo a tener el tratamiento hormonal comenzo a sentir efectos secundarios de ese tratamiento el cual reviso el ginecologo y le dejo saber que faltaba un poquito de tiempo como para que su sistema se adaptara a esas hormonas nuevas a ese tratamiento y que bueno
+
+ ------------------------------------------- 
+
+0.0
+line_id 6617731213
+transcript norm:  que tuviera un poco de paciencia pero al parecer de acuerdo al neurologo fue lo que desencadeno en ella una especie de descontrol en su cuerpo hormonal y que le provocan esas reacciones
+ref norm:         que tuviera un poco de paciencia pero al parecer de acuerdo al neurologo fue lo que desencadeno en ella una especie de descontrol en su cuerpo hormonal y que le provocan esas reacciones
+
+ ------------------------------------------- 
+
+5.454545454545454
+line_id 6617745488
+transcript norm:  ok no es una situacion maligna es benigno lo que le pasa hay que tener paciencia nos dijeron se va a ir quitando poco a poco ella se le hizo otro rejuste el viernes a su tratamiento de medicacion diferente totalmente diferente porque se estaba tratando esto como convulsiones epilepticas y no lo son
+ref norm:         ok no es una situacion maligna es benigno lo que le pasa hay que tener paciencia nos dijeron se va a ir quitando poco a poco ella se le hizo otro reajuste el viernes a su tratamiento de medicacion diferente totalmente diferente porque se estaba tratando de esto como convulsiones epilepticas si no lo son
+
+ ------------------------------------------- 
+
+12.0
+line_id 6617738697
+transcript norm:  y va a tomar un poco de tiempo en que jamie este de vuelta y este como siempre pero va a estar lo va a estar
+ref norm:         iba a tomar un poco de tiempo en que jeymi este de vuelta y este como siempre pero va a estar lo va a estar
+
+ ------------------------------------------- 
+
+2.7027027027027026
+line_id 9773661203
+transcript norm:  pero definitivamente si uno se puede refugiar en un activo real como un inmueble como un apartamento una vivienda un terreno hasta un vehiculo si la inflacion es muy alta y no puedo conseguir una moneda dura realmente
+ref norm:         pero definitivamente si uno se puede refugiar en un activo real como un inmueble como un apartamento una vivienda un terreno hasta un vehiculo si la inflacion es muy alta y no puedo conseguir una moneda dura
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773630794
+transcript norm:  como el dolar 0 como el euro en el cual tambien puedo refugiarme pues hasta compro un vehiculo y lo puedo conservar por un tiempo y luego venderlo porque eso me garantizaria quizas un mayor valor 0 una estabilidad de mi dinero mas en el tiempo
+ref norm:         como el dolar 0 como el euro en el cual tambien puedo refugiarme pues hasta compro un vehiculo y lo puedo conservar por un tiempo y luego venderlo porque eso me garantizaria quizas un mayor valor 0 una estabilidad de mi dinero mas en el tiempo
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773664422
+transcript norm:  bueno yo tengo mis reservas con la practica del trading pienso que tiene cierta validez si es una practica del trading que yo si yo practico el trading y lo visto de inversion
+ref norm:         bueno yo tengo mis reservas con la practica del trading pienso que tiene cierta validez si es una practica del trading que yo si yo practico el trading y lo visto de inversion
+
+ ------------------------------------------- 
+
+3.508771929824561
+line_id 9773633572
+transcript norm:  la diferencia entre trading e inversion es que el trading basicamente observa las fluctuaciones en los precios de los activos financieros 0 sea de las acciones en la bolsa de valores de los bonos y de otros instrumentos observa las fluctuaciones y trata de entonces aprovecharse de esos movimientos de comprar y vender tratando de hacer ganancias
+ref norm:         la diferencia entre trading e inversion es que el trading basicamente observa las fluctuaciones en los precios de los activos financieros 0 sea de las acciones en las bolsas de valores de los bonos y de otros instrumentos observa las fluctuaciones y trata de entonces aprovecharse de esos movimientos de comprar y vender tratando de hacer ganancias
+
+ ------------------------------------------- 
+
+5.405405405405405
+line_id 9773659567
+transcript norm:  en el dia a dia el trading se convierte casi en una practica de apuesta claro que uno observa ciertos indicadores cierta historia ciertos movimientos y uno especula bueno esto va a pasar esto va a suceder
+ref norm:         en el dia a dia el trading se convierte casi en una practica de apuesta claro que uno observa ciertos indicadores ciertas historias ciertos movimientos y uno especula bueno esto va a pasar esto va a suceder
+
+ ------------------------------------------- 
+
+6.0
+line_id 9773636988
+transcript norm:  y yo entonces invierto en aquello que yo creo como hago una apuesta deba ganar entonces a mi me parece que eso no es del todo sabio que no creo que sea una buena inversion de los recursos porque estamos participando en una actividad que es absolutamente especulativa
+ref norm:         y yo entonces invierto en aquello que yo creo como hago una apuesta que va a ganar entonces a mi me parece que eso no es del todo sabio que no creo que sea una buena inversion de los recursos porque estamos participando en una actividad que es absolutamente especulativa
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773678983
+transcript norm:  si bueno esta pregunta puede tener varios aspectos varios puntos a considerar en primer lugar tenemos que partir del hecho de que si debemos ser sensibles a las necesidades de los que estan a nuestro alrededor eso es en principio como lo que puedo decir debemos estar atentos a las necesidades de los que estan a nuestro alrededor
+ref norm:         si bueno esta pregunta puede tener varios aspectos varios puntos a considerar en primer lugar tenemos que partir del hecho de que si debemos ser sensibles a las necesidades de los que estan a nuestro alrededor eso es en principio como lo que puedo decir debemos estar atentos a las necesidades de los que estan a nuestro alrededor
+
+ ------------------------------------------- 
+
+8.823529411764707
+line_id 9773633199
+transcript norm:  eso es lo primero lo segundo es que debemos estar prestos a ayudar esas necesidades siempre y cuando nuestra ayuda no ofre fuerza un patron disfuncional 0 de mal manejo en la otra persona
+ref norm:         eso es lo primero lo segundo es que debemos estar prestos a ayudar a esas necesidades siempre y cuando nuestra ayuda no refuerce un patron disfuncional 0 de mal manejo en la otra persona
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773633062
+transcript norm:  0 sea cuando el no tener cosas que me gustan afectan mi gozo y afectan mi estabilidad emocional y yo me pongo irritable porque no tengo lo que quiero el dinero pues ha ocupado un lugar 0 esta ocupando un lugar que no deberia ocupar en mi corazon
+ref norm:         0 sea cuando el no tener cosas que me gustan afectan mi gozo y afectan mi estabilidad emocional y yo me pongo irritable porque no tengo lo que quiero el dinero pues ha ocupado un lugar 0 esta ocupando un lugar que no deberia ocupar en mi corazon
+
+ ------------------------------------------- 
+
+1.4492753623188406
+line_id 9773626036
+transcript norm:  de la misma manera cuando tengo algo bonito elegante que dios me proveyo que yo pude obtener y eso entonces me lleva a querer ostentar frente a otros eso que tengo pueden ser unos lentes puede ser un celular puede ser un auto puede ser una ropa 0 unas vacaciones que me di yo quiero que los otros sepan y vean donde yo vivo lo bien que me va etc
+ref norm:         de la misma manera cuando tengo algo bonito elegante que dios me proveyo que yo pude obtener y eso entonces me lleva a querer ostentar frente a otros eso que tengo pueden ser unos lentes puede ser un celular puede ser un auto puede ser una ropa 0 unas vacaciones que me di yo quiero que los otros sepan y vean donde yo vivo lo bien que me va
+
+ ------------------------------------------- 
+
+6.896551724137931
+line_id 9773620598
+transcript norm:  entonces usualmente personas de mas edad lo que se hace es que si se invierte en sus recursos lo hacen en instrumentos que son mucho mas estables
+ref norm:         entonces usualmente personas de mas edad lo que se hace es que si se invierte si invierte en sus recursos lo hacen en instrumentos que son mucho mas estables
+
+ ------------------------------------------- 
+
+3.7735849056603774
+line_id 9773694174
+transcript norm:  pueden ser instrumentos de renta fija como bonos gubernamentales bonos corporativos 0 acciones de empresas con una muy alta calificacion de riesgo 0 sea con un muy bajo riesgo de tal manera que la estabilidad de sus ingresos 0 inversion sea alta en el tiempo una estabilidad buena fija por asi decirlo
+ref norm:         pueden ser instrumentos de renta fija como bonos gubernamentales bonos corporativos 0 acciones de empresas con una muy alta calificacion de riesgo 0 sea con un muy bajo riesgo de tal manera que la estabilidad de sus ingresos de su inversion sea alta en el tiempo una estabilidad buena fija por asi decirlo
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773626180
+transcript norm:  si tiene que cambiar de localidad de vivienda tiene que cambiar si tiene que cambiar los hijos del colegio tiene que hacerlo si tiene que vender su vehiculo tiene que hacerlo si tiene que hacer lo que tenga que hacer de tal manera que su nivel de vida sus gastos se correspondan con su realidad economica
+ref norm:         si tiene que cambiar de localidad de vivienda tiene que cambiar si tiene que cambiar los hijos del colegio tiene que hacerlo si tiene que vender su vehiculo tiene que hacerlo si tiene que hacer lo que tenga que hacer de tal manera que su nivel de vida sus gastos se correspondan con su realidad economica
+
+ ------------------------------------------- 
+
+2.380952380952381
+line_id 9773632377
+transcript norm:  eso por un lado a nivel de ajuste de gastos por otro lado tiene que comenzar a obviamente orar si es una persona cristiana y creyente orar para que dios le de creatividad a ver de que manera puede aumentar sus ingresos verdad
+ref norm:         eso por un lado a nivel de ajuste de gastos por otro lado tiene que comenzar a obviamente orar si es una persona cristiana y creyente orar para que dios le de creatividad a ver de que manera puede aumentar sus ingresos
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773670835
+transcript norm:  entonces yo creo que es un buen instrumento pero tambien cada quien tiene que tirar sus numeros para ver lo que le conviene porque hay ocasiones en las que no conviene
+ref norm:         entonces yo creo que es un buen instrumento pero tambien cada quien tiene que tirar sus numeros para ver lo que le conviene porque hay ocasiones en las que no conviene
+
+ ------------------------------------------- 
+
+1.7241379310344827
+line_id 9773611985
+transcript norm:  0 sea uno tiene que decir dejame ver yo le tiro los numeros a lo que es comparar este inmueble 0 este vehiculo 0 esta propiedad cuanto me sale cuanto me cuesta financieramente y le tiro los numeros al leasing incluyendo su ahorro fiscal y comparo cual de las dos estrategias de comprar 0 hacer leasing me conviene
+ref norm:         0 sea uno tiene que decir dejame ver yo le tiro los numeros a lo que es comprar este inmueble 0 este vehiculo 0 esta propiedad cuanto me sale cuanto me cuesta financieramente y le tiro los numeros al leasing incluyendo su ahorro fiscal y comparo cual de las dos estrategias de comprar 0 hacer leasing me conviene
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773633918
+transcript norm:  y queremos hacer este episodio con mucho cuidado porque esa no es la intencion la intencion es darle a conocer a nuestra audiencia un material que puede ser de utilidad y hay otros materiales de finanzas biblicas que pueden ser utiles tambien pero este es uno que nosotros en el cual confiamos porque obviamente conocemos al dedillo lo que contiene
+ref norm:         y queremos hacer este episodio con mucho cuidado porque esa no es la intencion la intencion es darle a conocer a nuestra audiencia un material que puede ser de utilidad y hay otros materiales de finanzas biblicas que pueden ser utiles tambien pero este es uno que nosotros en el cual confiamos porque obviamente conocemos al dedillo lo que contiene
+
+ ------------------------------------------- 
+
+2.857142857142857
+line_id 9773654616
+transcript norm:  y de hecho resume mucho de los conceptos y de las verdades compartidas en este podcast estan resumidas en este libro de finanzas biblicas asi que aqui estamos y vamos a hablar de el finalmente
+ref norm:         y de hecho resumen mucho de los conceptos y de las verdades compartidas en este podcast estan resumidas en este libro de finanzas biblicas asi que aqui estamos y vamos a hablar de el finalmente
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773624592
+transcript norm:  si la idea surge como un interes pastoral al yo ver tantos casos en la iglesia de personas creyentes maduras que cuando se trataba de sus finanzas tenian un manejo muy mundano
+ref norm:         si la idea surge como un interes pastoral al yo ver tantos casos en la iglesia de personas creyentes maduras que cuando se trataba de sus finanzas tenian un manejo muy mundano
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773661041
+transcript norm:  muy asociado a criterios no biblicos sus compras sus ventas la forma de generar sus ingresos los criterios de pago de impuestos si lo hacian 0 no lo hacian
+ref norm:         muy asociado a criterios no biblicos sus compras sus ventas la forma de generar sus ingresos los criterios de pago de impuestos si lo hacian 0 no lo hacian
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773624959
+transcript norm:  bueno ciertamente como acabo de decir en nuestro corazon se albergan ciertas actitudes hacia el dinero que se manifiestan en la manera como nosotros lo manejamos una de las cosas que este capitulo senala es que cualquiera de nosotros puede caer en una situacion economica aflictiva dificil
+ref norm:         bueno ciertamente como acabo de decir en nuestro corazon se albergan ciertas actitudes hacia el dinero que se manifiestan en la manera como nosotros lo manejamos una de las cosas que este capitulo senala es que cualquiera de nosotros puede caer en una situacion economica aflictiva dificil
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773649222
+transcript norm:  perdi un empleo y no lo anticipe 0 mi negocio no va bien no lo anticipe no sabia y eso me descuadra economicamente financieramente y eso puede pasar
+ref norm:         perdi un empleo y no lo anticipe 0 mi negocio no va bien no lo anticipe no sabia y eso me descuadra economicamente financieramente y eso puede pasar
+
+ ------------------------------------------- 
+
+0.0
+line_id 9773663903
+transcript norm:  hay gente que por quedarse con mas dinero miente al fisco le miente a un socio si da garantias que si tiene un negocio que no son reales
+ref norm:         hay gente que por quedarse con mas dinero miente al fisco le miente a un socio si da garantias que si tiene un negocio que no son reales
+
+ ------------------------------------------- 
+
+1.7857142857142856
+line_id 9773682230
+transcript norm:  entonces hace una serie de cosas que son inmorales pecaminosas en terminos biblicos producto de su idolatria por el dinero y por lo tanto una de las cosas que desarrolla en el capitulo one es precisamente que cuando nosotros vemos como una persona esta manejando sus recursos es una manifestacion de como esta internamente su corazon
+ref norm:         entonces hace una serie de cosas que son inmorales pecaminosas en terminos biblicos producto de su idolatria por el dinero y por lo tanto una de las cosas que desarrolla en el capitulo uno es precisamente que cuando nosotros vemos como una persona esta manejando sus recursos es una manifestacion de como esta internamente su corazon
+
+ ------------------------------------------- 
+
+2.083333333333333
+line_id 9773648605
+transcript norm:  y si me va bien en un negocio si dios asi lo quiere el me puede bendecir enormemente a nivel economico eso es una prefugativa de el eso es una decision de el el es soberano a mi me toca hacer las cosas de la manera mejor posible
+ref norm:         y si me va bien en un negocio si dios asi lo quiere el me puede bendecir enormemente a nivel economico eso es una prerrogativa de el eso es una decision de el el es soberano a mi me toca hacer las cosas de la manera mejor posible
+
+ ------------------------------------------- 
+
+1.7543859649122806
+line_id 9773630233
+transcript norm:  yo debo perseguir en mi trabajo y en mi negocio la excelencia de proveer un servicio ofrecer un bien un producto que llene una necesidad legitima de mi comunidad y yo quiero entonces a traves de ese ejercicio profesional 0 desarrollo de ese negocio yo quiero servir a dios y servir a mi comunidad con eso
+ref norm:         yo debo perseguir en mi trabajo y en mi negocio la excelencia de proveer un servicio ofrecer un bien un producto que llene una necesidad legitima de mi comunidad y yo quiero entonces a traves de ese ejercicio profesional 0 de desarrollo de ese negocio yo quiero servir a dios y servir a mi comunidad con eso
+
+ ------------------------------------------- 
+
+4.6875
+line_id 9773691798
+transcript norm:  de hecho la idea de este capitulo viene del libro de proverbios donde el sabio de proverbios escribe como un consejo a su audiencia a los jovenes que el esta escribiendo que miraran la hormiga que sin tener jefe ni capataz es capaz de ahorrar en el verano para comer en el invierno 0 guardar en el verano para comer en el invierno
+ref norm:         de hecho la idea de ese capitulo viene de el libro de proverbios donde el sabio de proverbios escribe como un consejo a su audiencia a los jovenes que el esta escribiendo que miraran la hormiga que sin tener jefe ni capataz es capaz de ahorrar en el verano para comer en el invierno 0 guardar en el verano para comer en el invierno
+
+ ------------------------------------------- 
+
+2.7777777777777777
+line_id 9773626419
+transcript norm:  y me ha llamado siempre la atencion ese versiculo porque dios a traves de su palabra toma a un insecto una criatura diminuta de la creacion y la hace nuestra maestra en este tema del ahofro
+ref norm:         y me ha llamado siempre la atencion ese versiculo porque dios a traves de su palabra toma a un insecto una criatura diminuta de la creacion y la hace nuestra maestra en este tema del ahorro
+
+ ------------------------------------------- 
+
+0.0
+line_id 5333254593
+transcript norm:  y que hacemos con esto bueno pues estos fondos estan disenados para seguir un indice a que se refiere un indice bueno pues seguir un mercado completo 0 un subsegmento de un mercado de un activo especifico podemos comprar acciones un grupo de acciones 0 un grupo de bonos 0 podemos comprar materia prima por ejemplo oro petroleo etcetera
+ref norm:         y que hacemos con esto bueno pues estos fondos estan disenados para seguir un indice a que se refiere un indice bueno pues seguir un mercado completo 0 un subsegmento de un mercado de un activo especifico podemos comprar acciones un grupo de acciones 0 un grupo de bonos 0 podemos comprar materia prima por ejemplo oro petroleo etcetera
+
+ ------------------------------------------- 
+
+3.125
+line_id 5333296816
+transcript norm:  y basicamente lo que nos permite esto es con poco dinero y de forma muy sencilla pues acceder a un grupo 0 una canasta completa de varias acciones y diversificar mas facilmente
+ref norm:         y basicamente lo que nos permite esto es con poco dinero y de forma muy sencilla pues acceder a un grupo a una canasta completa de varias acciones y diversificar mas facilmente
+
+ ------------------------------------------- 
+
+5.0
+line_id 5333235306
+transcript norm:  y segundo en que les haces invertir quieres invertir en acciones quieres invertir en bonos quieres invertir en materia prima y segundo cuando quieres invertir en acciones en acciones de que de estados unidos de europa de un sector de tecnologia
+ref norm:         y segundo en que deseas invertir quieres invertir en acciones quieres invertir en bonos quieres invertir en materia prima y segundo cuando quieres invertir en acciones en acciones de que de estados unidos de europa de un sector de tecnologia
+
+ ------------------------------------------- 
+
+8.620689655172415
+line_id 5333296929
+transcript norm:  luego que te hayas claro en que quieres invertir vas a ir a buscar entonces el listado de etfs que trabajan con ese activo con ese tipo de acciones por ejemplo y verificar que dicho etf incluya todo lo que tu deseas en lo que deseas invertir y que este bien diversificado bien punto numero dos son los costos
+ref norm:         luego que tienes claro en que quieres invertir vas a ir a buscar entonces el listado de etfs que trabajan con ese activo con ese tipo de acciones por ejemplo y verificar que dicho etf incluya todo lo que tu deseas en lo que deseas invertir que este bien diversificado y el punto numero dos son los costos
+
+ ------------------------------------------- 
+
+1.8181818181818181
+line_id 5333295839
+transcript norm:  0 sea que algo muy importante para comparar etfs y verificando los costos y seleccionar si es posible el de menor costo lo bueno es que todos estos costos estan resumidos en un solo dato que debes conocer del etf que vayas a utilizar y es el llamado expense ratio 0 el ratio de costos
+ref norm:         0 sea es algo muy importante para comparar etfs y verificando los costos y seleccionar si es posible el de menor costo lo bueno es que todos estos costos estan resumidos en un solo dato que debes conocer del etf que vayas a utilizar y es el llamado expense ratio 0 el ratio de costos
+
+ ------------------------------------------- 
+
+0.0
+line_id 5333278467
+transcript norm:  y donde consigo esta informacion pues tranquilo que al final te voy a presentar donde puedes conseguir toda la informacion que requieres que te estoy presentando en este video el tercer punto que debes conocer es la liquidez y que significa esto bueno pues .
+ref norm:         y donde consigo esta informacion pues tranquilo que al final te voy a presentar donde puedes conseguir toda la informacion que requieres que te estoy presentando en este video el tercer punto que debes conocer es la liquidez y que significa esto bueno pues .
+
+ ------------------------------------------- 
+
+0.0
+line_id 5333290690
+transcript norm:  si te das cuenta tenemos siempre en nuestros paises latinoamericanos un precio de venta del dolar al cual se nos vende el dolar a nosotros y un precio de compra al cual nos compran cuando queremos venderlo si te das cuenta siempre hay una diferencia entre ese precio de venta y de compra
+ref norm:         si te das cuenta tenemos siempre en nuestros paises latinoamericanos un precio de venta del dolar al cual se nos vende el dolar a nosotros y un precio de compra al cual nos compran cuando queremos venderlo si te das cuenta siempre hay una diferencia entre ese precio de venta y de compra
+
+ ------------------------------------------- 
+
+3.389830508474576
+line_id 5333264062
+transcript norm:  y si de repente yo vendo y compro rapidamente podria incluso incurrir en una perdida por esa diferencia que hay entre estos dos valores de precio de venta y de compra a esto se le llama spread y nos refleja 0 nos indica basicamente esta liquidez por ejemplo que haya de este activo en este caso de los etfs
+ref norm:         y si de repente yo vendo y compro rapidamente podria incluso incurrir en una perdida por esa diferencia que hay entre estas dos valores de precios de venta y de compra a esto se le llama spread y nos refleja 0 nos indica basicamente esta liquidez por ejemplo que haya de este activo en este caso de los etfs
+
+ ------------------------------------------- 
+
+0.0
+line_id 5333237097
+transcript norm:  considerando el punto anterior que te mencione el ir creando patrimonio personal fuera del negocio incluso apoya tu negocio 0 emprendimiento porque te va a permitir la sostenibilidad del mismo poder tomar mejores decisiones no pensando en que tienes que necesitas el negocio para vivir y para comer
+ref norm:         considerando el punto anterior que te mencione el ir creando patrimonio personal fuera del negocio incluso apoya tu negocio 0 emprendimiento porque te va a permitir la sostenibilidad del mismo poder tomar mejores decisiones no pensando en que tienes que necesitas el negocio para vivir y para comer
+
+ ------------------------------------------- 
+
+0.0
+line_id 5333280849
+transcript norm:  y eso te va a permitir poder atravesar mejor cualquier inconveniente 0 crisis que el tenga pero tambien tomar mejores decisiones de crecimiento para el mismo porque vas a poder asumir mas riesgo sabiendo que tus finanzas personales estan estables
+ref norm:         y eso te va a permitir poder atravesar mejor cualquier inconveniente 0 crisis que el tenga pero tambien tomar mejores decisiones de crecimiento para el mismo porque vas a poder asumir mas riesgo sabiendo que tus finanzas personales estan estables
+
+ ------------------------------------------- 
+
+1.8867924528301887
+line_id 5333276806
+transcript norm:  pero en este caso me refiero a mi definicion de inversion donde digo que cuando ponemos nuestro dinero a trabajar por nosotros no nosotros para el porque sucede que si hacer dinero con mi dinero me requiere tiempo 0 esfuerzo considero que es mas un trabajo 0 un negocio no una inversion
+ref norm:         pero en este caso me refiero a mi definicion de inversion donde digo que es cuando ponemos nuestro dinero a trabajar por nosotros no nosotros para el porque sucede que si hacer dinero con mi dinero me requiere tiempo 0 esfuerzo considero que es mas un trabajo 0 un negocio no una inversion
+
+ ------------------------------------------- 
+
+0.0
+line_id 5333232646
+transcript norm:  y es aqui donde las inversiones a traves de la bolsa de valores pueden ayudarte a hacer crecer tu patrimonio y tu ahorro regular en automatico hasta el punto que este pueda generar ingresos pasivos suficientes para sostener a futuro tus gastos y finalmente alcanzar verdadera libertad financiera
+ref norm:         y es aqui donde las inversiones a traves de la bolsa de valores pueden ayudarte a hacer crecer tu patrimonio y tu ahorro regular en automatico hasta el punto que este pueda generar ingresos pasivos suficientes para sostener a futuro tus gastos y finalmente alcanzar verdadera libertad financiera
+
+ ------------------------------------------- 
+
+13.636363636363635
+line_id 5213791017
+transcript norm:  papa me llevo al pequeno a ver las obras a caminar entre los proyectos una obra gris 0 sea fue muy la verdad que agradezco mucho esa ninez que tu desde pequeno me ensenaron que el negocio de la familia era la construccion
+ref norm:         si mi papa me llevaba pequeno a ver las obras a caminar entre los proyectos en obra gris 0 sea fue muy la verdad que agradezco mucho esa ninez que tuvo desde pequeno me ensenaron que el negocio de la familia era la construccion
+
+ ------------------------------------------- 
+
+6.0606060606060606
+line_id 5213777091
+transcript norm:  y de hecho fui muy cercano a mis abuelos en diferentes epocas de mi vida pero me toco aprender de cada uno cosas diferentes porque aunque eran socios de una empresa constructora cada uno de ellos jugaba un rol diferente dentro del grupo economico uno de ellos era muy administrativo financiero y el otro era mas ejecutivo era mas de la obra per se
+ref norm:         y de hecho fui muy cercano a mis abuelos en diferente epoca de mi de mi vida pero me toco aprender de cada uno cosas diferentes porque aunque eran socios de una empresa constructora cada uno de ellos jugaba un rol diferente dentro del grupo economico uno de ellos era muy administrativo financiero y el otro era mas ejecutivo era mas de la obra per se
+
+ ------------------------------------------- 
+
+0.0
+line_id 5213781619
+transcript norm:  hay una data que dice que hay un porcentaje muy bajo de empresas familiares que pasan a la segunda exitosamente mucho mas bajo todavia el que pasa a la tercera exitosamente
+ref norm:         hay una data que dice que hay un porcentaje muy bajo de empresas familiares que pasan a la segunda exitosamente mucho mas bajo todavia el que pasa a la tercera exitosamente
+
+ ------------------------------------------- 
+
+0.0
+line_id 5213745732
+transcript norm:  yo creo que en el caso de nosotros ha sido una buena mezcla de todas las gestiones de las personas desde mis abuelos hasta la segunda generacion que fueron mis padres y mis tios luego ya a una tercera que esta entrando obviamente con la educacion y el apoyo de esa segunda generacion
+ref norm:         yo creo que en el caso de nosotros ha sido una buena mezcla de todas las gestiones de las personas desde mis abuelos hasta la segunda generacion que fueron mis padres y mis tios luego ya a una tercera que esta entrando obviamente con la educacion y el apoyo de esa segunda generacion
+
+ ------------------------------------------- 
+
+5.0
+line_id 5213765772
+transcript norm:  todo lo que el mecanico quisiera que yo hiciera entonces ese fue mi primer trabajo recuerdo que me pagaban 500 pesos semanales con eso yo en ese tiempo jugaba mucho golf y salia con mis 500 pesos a comprarme mi gorrita femenina
+ref norm:         todo lo que mecanico quisiera que yo hiciera entonces ese fue mi primer trabajo recuerdo que me pagaban 500 pesos semanales con eso yo en ese tiempo jugaba mucho golf y salia con mis 500 pesos a comprarme mi gorrita
+
+ ------------------------------------------- 
+
+5.88235294117647
+line_id 5213719471
+transcript norm:  pero ahi deja algo marcado que es el valor del dinero 0 sea ya yo sabia que como el trabajo que hacia por una semana que creanme que yo llegaba con las unas negras de grasa porque mi mama se ponia loca cuando me veia yo llegaba de esa forma eh
+ref norm:         pero ahi deja algo marcado que es el valor del dinero 0 sea ya yo sabia que con el trabajo que hacia por una semana que creanme que yo llegaba con las unas negras de grasa porque mi mama se ponia loca cuando me veia que yo llegaba de esa forma
+
+ ------------------------------------------- 
+
+4.761904761904762
+line_id 5213790802
+transcript norm:  un poco de finanza manejo de tesoreria y el ultimo fue en el departamento de desarrollo inmobiliario como analista inmobiliario
+ref norm:         un poco de de finanza manejo de tesoreria y el ultimo fue en el departamento de desarrollo inmobiliario como analista inmobiliario
+
+ ------------------------------------------- 
+
+15.686274509803921
+line_id 5213728689
+transcript norm:  0 sea ya cuando entro al departamento de desarrollo inmobiliario como analista es que comienzo a tener interaccion con lo que hoy en dia llamamos desarrollo inmobiliario en ese tiempo era promocion departamento de promocion y mi mentor creo que me dicen yo he tenido muchos mentores en la vida
+ref norm:         entonces ya cuando entro al departamento de anal de desarrollo inmobiliario como analista es que comienzo a tener interaccion con lo que hoy en dia llamamos desarrollo inmobiliario en ese tiempo era promocion departamento de promocion y mi mentor que voy a mencionar yo he tenido muchos mentores en la vida
+
+ ------------------------------------------- 
+
+9.75609756097561
+line_id 5213793284
+transcript norm:  y es el que me empuja digo me empuja pero me anima me motiva a entrarme en el mundo de desarrollar muy bien por ahi con el en ese momento el estaba a la cabeza de la consultora de la desarrolladora
+ref norm:         y es el que me empuja digo me empuja pero me anima me motiva a entrarme en el mundo de desarrollo inmobiliario entonces por ahi con el en ese momento el estaba a la cabeza de la constructora de la desarrolladora
+
+ ------------------------------------------- 
+
+11.627906976744185
+line_id 5213742043
+transcript norm:  y iniciamos un proceso de educacion hacia mi de desarrollo inmobiliario se me despierta esa chispa ese deseo de querer aprender ya viendo del punto de vista desarrollado no es lo mismo que construccion que simplemente entro doy un servicio salgo
+ref norm:         y iniciamos un proceso de educacion hacia mi de desarrollo inmobiliario se me despierta esa chispa ese deseo de querer aprender ya viendolo desde el punto de vista de desarrollador no es lo mismo que construccion que simplemente entro doy un servicio salgo
+
+ ------------------------------------------- 
+
+0.0
+line_id 5213786430
+transcript norm:  sino que ya el desarrollador tiene que tener en cuenta una cantidad de cosas diferentes para que un proyecto sea exitoso y ahi surge la oportunidad bueno de hecho nosotros lo tenemos contemplado en el acuerdo de familia
+ref norm:         sino que ya el desarrollador tiene que tener en cuenta una cantidad de cosas diferentes para que un proyecto sea exitoso y ahi surge la oportunidad bueno de hecho nosotros lo tenemos contemplado en el acuerdo de familia
+
+ ------------------------------------------- 
+
+14.705882352941178
+line_id 5213739928
+transcript norm:  un protocolo familiar que yo tenia que prepararme a hacer una maestria afuera sera uno de los requisitos para que yo vuelva a la empresa y ahi entonces surge la maestria en el muelle
+ref norm:         un protocolo familiar que yo tenia que prepararme a hacer una maestria afuera se era uno de los requisitos para yo volver a la empresa y ahi entonces surge la maestria en el nyu
+
+ ------------------------------------------- 
+
+0.0
+line_id 5213770080
+transcript norm:  bueno eso va a depender del proyecto y de que tan rentable factible sea hay veces que hace sentido hacerlo todo con capital propio pero hay otras veces que el financiamiento juega un rol importante en cuanto al potencializar esa rentabilidad
+ref norm:         bueno eso va a depender del proyecto y de que tan rentable factible sea hay veces que hace sentido hacerlo todo con capital propio pero hay otras veces que el financiamiento juega un rol importante en cuanto al potencializar esa rentabilidad
+
+ ------------------------------------------- 
+
+2.941176470588235
+line_id 5213788080
+transcript norm:  yo creo que siempre es saludable tener algo de financiamiento lo unico que tienen que cuidar que no sea un exceso y que no vaya entonces en detrimento de lo que seria el break
+ref norm:         yo creo que siempre es saludable tener algo de financiamiento lo unico que tienen que cuidar que no sea un exceso y que no vaya entonces en detrimento de lo que seria el proyecto
+
+ ------------------------------------------- 
+
+6.25
+line_id 6617786813
+transcript norm:  bueno ya tocaba este episodio hola que tal estas hace un buen tiempo que no he pasado por aqui en todos los podcasts hoy yo quiero hablar un poco sobre que ha pasado
+ref norm:         bueno ya tocaba este episodio hola que tal estas hace un buen tiempo que no pasaba por aqui en todos los podcasts hoy yo quiero hablar un poco sobre que ha pasado
+
+ ------------------------------------------- 
+
+3.8461538461538463
+line_id 6617761031
+transcript norm:  estoy sacando fuerzas para organizar mis ideas de lo que vamos a hablar hacer una reflexion al respecto y esperando que sea de utilidad sinceramente
+ref norm:         estoy sacando fuerzas para para organizar mis ideas de lo que vamos a hablar hacer una reflexion al respecto y esperando que sea de utilidad sinceramente
+
+ ------------------------------------------- 
+
+0.0
+line_id 6617759628
+transcript norm:  y luego que volvimos a la casa no pasaron dos 0 tres horas en que ella continuo con el cuadro critico y estuve con ella el sabado completo sin poder levantarla ni siquiera de la cama
+ref norm:         y luego que volvimos a la casa no pasaron dos 0 tres horas en que ella continuo con el cuadro critico y estuve con ella el sabado completo sin poder levantarla ni siquiera de la cama
+
+ ------------------------------------------- 
+
+3.7037037037037033
+line_id 6617725864
+transcript norm:  conscientes si pero con los episodios estos rarisimos unos sintomas extranisimos que evidentemente me tenian bastante asustado y preocupado y el domingo en la manana amanecio igual
+ref norm:         consciente si pero con los episodios estos rarisimos unos sintomas extranisimos que evidentemente me tenian bastante asustado y preocupado y el domingo en la manana amanecio igual
+
+ ------------------------------------------- 
+
+2.3255813953488373
+line_id 6617793359
+transcript norm:  y ahi estuvimos desde el domingo en la tarde y amanecimos a la emergencia hasta el lunes cuando moviendonos y haciendo diligencias y llamando a gente de manera desesperada logramos que decidieran ingresarla es decir hospitalizarla para investigar que era lo que pasaba
+ref norm:         y ahi estuvimos desde el domingo en la tarde y amanecimos en la emergencia hasta el lunes cuando moviendonos y haciendo diligencias y llamando a gente de manera desesperada logramos que decidieran ingresarla es decir hospitalizarla para investigar que era lo que pasaba
+
+ ------------------------------------------- 
+
+0.0
+line_id 6617716767
+transcript norm:  y estuvimos internos hasta el miercoles el miercoles 0 miercoles 10 la semana pasada bueno
+ref norm:         y estuvimos internos hasta el miercoles el miercoles 0 miercoles 10 la semana pasada bueno
+
+ ------------------------------------------- 
+
+8.333333333333332
+line_id 6617725282
+transcript norm:  entonces aprovechamos esta semana pasada del 15 desde el 15 hasta el viernes 19 pasado aprovechamos y visitamos la neurologa con la que se atiende jamie el oftalmologo fuimos hasta el otorrino laringologo de ella etc
+ref norm:         entonces aprovechamos esta semana pasada del 15 desde el 15 hasta el viernes 19 pasado aprovechamos y visitamos la neurologa con la que se atiende jamie el oftalmologo fuimos hasta el otorrino al aringologo de ella
+
+ ------------------------------------------- 
+
+3.7037037037037033
+line_id 6617740977
+transcript norm:  y se hicieron reajustes en su medicacion se hicieron mas estudios se hizo un electroencefalograma se nos refirio a otros especialistas entre ellos un neurologo epilectologo
+ref norm:         y se hicieron reajustes en su medicacion se hicieron mas estudios se hizo un electroencefalograma se nos refirio a otros especialistas entre ellos un neurologo 0 epilectologo
+
+ ------------------------------------------- 
+
+7.142857142857142
+line_id 6617750660
+transcript norm:  entonces ella llamo al neurologo epileptologo y el le dijo traigamela ya para yo verla fuimos al hospital esperamos ahi nos atendio vio los estudios neurologicos todos
+ref norm:         entonces ella llamo al neurologo su epilectologo y el le dijo traigamela ya para yo verla fuimos al hospital esperamos ahi nos atendio vio los estudios neurologicos todos
+
+ ------------------------------------------- 
+
+12.5
+line_id 6617796384
+transcript norm:  y por suerte el manifiesta que esos brotes que tiene james a sintomatologia no es de tipo pilactica no parece ser una neuropatia seria
+ref norm:         y por suerte el manifiesta que esos brotes que tiene jamie esa sintomatologia no es de tipo epileptica no parece ser una neuropatia seria
+
+ ------------------------------------------- 
+
+Final wer score:  6.663211657524263

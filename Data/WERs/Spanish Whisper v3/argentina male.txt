@@ -1,0 +1,1324 @@
+0.0
+line_id 4177093978
+transcript norm:  hola a todos y muy bienvenidos queridos amigos oyentes y seguidores de historia en podcast muy bienvenidos a este episodio 1600 70 de la sexta temporada on demand episodio mas que especial como todos nuestros numeros redondos
+ref norm:         hola a todos y muy bienvenidos queridos amigos oyentes y seguidores de historia en podcast muy bienvenidos a este episodio 1600 70 de la sexta temporada on demand episodio mas que especial como todos nuestros numeros redondos
+
+ ------------------------------------------- 
+
+5.084745762711865
+line_id 4177095815
+transcript norm:  si esto si que ha llegado verdaderamente lejos y todo gracias a ustedes que bancan que apoyan el proyecto que nos hacen llegar sugerencias de temas que nos escriben que nos escuchan haciendo las mas increibles actividades mientras estan aprendiendo algo de historia asi que muchisimas gracias por todo este apoyo durante mas de estos cuatro anos
+ref norm:         si esto esto si que ha llegado verdaderamente lejos y todo gracias a ustedes que bancan que apoyan el proyecto que nos hacen llegar sugerencias de tema que nos escriben que nos escuchan haciendo las mas increibles actividades mientras estan aprendiendo algo de historia asi que muchisimas gracias por todo este apoyo durante mas de estos cuatro anos no
+
+ ------------------------------------------- 
+
+9.090909090909092
+line_id 4177017566
+transcript norm:  entonces bueno hoy les voy a traer un episodio mas que especial para este momento del podcast en donde el podcast esta en un momento mas que especial algun amigo mio diria estas prendido fuego y vayas y asi lo es no trabajando a full para llevar siempre el mejor contenido educativo y de divulgacion historica
+ref norm:         entonces bueno hoy les voy a traer un episodio mas que especial para este momento del podcast en donde el podcast esta en un momento mas que especial algo amigo mio diria esta prendido fuego y vaya si asi lo es trabajando a full para llevar siempre el mejor contenido educativo y de divulgacion historica
+
+ ------------------------------------------- 
+
+1.8518518518518516
+line_id 4177013196
+transcript norm:  hablando de fuego hoy les traigo un episodio de esos que rompen esquemas esta vez me toco elegir a mi al ser episodio especial dije los voy a sorprender como cuando hable de la historia de la cerveza 0 de los miedos en la edad media que tan bien recibidos fueron esos episodios
+ref norm:         y hablando de fuego hoy les traigo un episodio de esos que rompen esquemas esta vez me toco elegir a mi al ser episodio especial dije los voy a sorprender como cuando hable de la historia de la cerveza 0 de los miedos en la edad media que tan bien recibidos fueron esos episodios
+
+ ------------------------------------------- 
+
+7.6923076923076925
+line_id 4177040037
+transcript norm:  ojala pase lo mismo con este porque a mi criterio la historia es linda para ser pensada la historia es como un banquete asi mas que especial una rueda de amigos una comilona muy rica acompanada bien regada como decimos aca por una buena bebida y charlamos de algo y en este caso vamos a charlar de la historia del fuegon
+ref norm:         no bueno ojala pase lo mismo con este porque a mi criterio la historia es linda para ser pensada la historia es como un banquete asi mas que especial una rueda de amigos una comilona muy rica acompanada bien regada como decimos aca por una buena bebida y charlamos de algo no bueno y en este caso vamos a charlar de la historia del fuego
+
+ ------------------------------------------- 
+
+2.1739130434782608
+line_id 4177010719
+transcript norm:  esos episodios que no van a ser para recordar datos y fechas y nombres sino para pensar un poquito la historia un episodio para pensar la historia porque el fuego amigos y amigas ha sido y es un elemento constitutivo de la vida en sociedad
+ref norm:         esos episodios que no van a ser para recordar datos y fechas y nombres sino para pensar un poquito de la historia un episodio para pensar la historia porque el fuego amigos y amigas ha sido y es un elemento constitutivo de la vida en sociedad
+
+ ------------------------------------------- 
+
+1.7241379310344827
+line_id 4177070703
+transcript norm:  y al ser la historia una ciencia que estudia lo social debemos detenernos en el analisis de la historia del fuego al menos en un episodio y en este puntualmente va a ser la ocasion de analizar la historia del fuego el fuego este simbolo 0 uno de los mayores simbolos con mayor potencial metaforico de la historia no
+ref norm:         y al ser la historia una ciencia que estudia lo social debemos detenernos en el analisis de la historia del fuego al menos en un episodio y en este puntualmente va a ser la ocasion de analizar la historia del fuego el fuego este simbolo 0 uno de los mayores simbolos con mayor potencial metaforico de la historia
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177035172
+transcript norm:  un elemento con caracteristicas beneficas y destructoras al mismo tiempo nos ilumina nos da calor pero a la vez nos quema es la llama que enciende la polvora y que inicia una guerra
+ref norm:         un elemento con caracteristicas beneficas y destructoras al mismo tiempo nos ilumina nos da calor pero a la vez nos quema es la llama que enciende la polvora y que inicia una guerra
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177029092
+transcript norm:  la historia de la humanidad me dijo una vez un viejo profesor es un poco tambien la historia del uso del fuego el fuego y sus usos han ido moldeando el avance y los retrocesos que el conjunto de la humanidad ha ido teniendo a medida que han pasado y que seguiran pasando los anos
+ref norm:         la historia de la humanidad me dijo una vez un viejo profesor es un poco tambien la historia del uso del fuego el fuego y sus usos han ido moldeando el avance y los retrocesos que el conjunto de la humanidad ha ido teniendo a medida que han pasado y que seguiran pasando los anos
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177050181
+transcript norm:  la misteriosa naturaleza eterea de la llama del fuego lo han convertido en un elemento sagrado en un elemento clave de rituales y de encuentros ha sido utilizado el fuego para simbolizar la potencia creadora de un espiritu de lo divino de las deidades ha sido usado como aquella llama que asciende a los cielos
+ref norm:         la misteriosa naturaleza eterea de la llama del fuego lo han convertido en un elemento sagrado en un elemento clave de rituales y de encuentros ha sido utilizado el fuego para simbolizar la potencia creadora de un espiritu de lo divino de las deidades ha sido usado como aquella llama que asciende a los cielos
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177015021
+transcript norm:  tambien ha sido graficado para simbolizar la pasion el amor el odio y cuantas otras cosas pensemos un poquito en cuantas pinturas religiosas del sagrado corazon de jesus se me viene a la cabeza ahora rapidamente
+ref norm:         tambien ha sido graficado para simbolizar la pasion el amor el odio y cuantas otras cosas pensemos un poquito en cuantas pinturas religiosas del sagrado corazon de jesus se me viene a la cabeza ahora rapidamente
+
+ ------------------------------------------- 
+
+10.416666666666668
+line_id 4177079200
+transcript norm:  tiene un corazon flamigero un corazon en llamas demostrando esa pasion esa fuerza vital esa fuerza de empuje que nace de lo profundo de uno tambien pasa lo mismo con el enojo cuando uno esta arrabiado cuando uno esta enojado se prende fuego se encoleriza
+ref norm:         tiene un corazon flamifero un corazon en llamas no demostrando esa pasion esa fuerza vital esa fuerza de empuje que nace de lo profundo de uno tambien pasa lo mismo con el enojo no cuando uno esta rabiado si cuando uno esta enojado se prende fuego se encoleriza
+
+ ------------------------------------------- 
+
+0.0
+line_id 9449071661
+transcript norm:  de hecho hay stickers hay emoticones en las redes sociales de mensajeria en donde aparece una cara prendida a fuego directamente roja de esa bronca que nos inunda y ahi esta el fuego nuevamente graficandolo
+ref norm:         de hecho hay stickers hay emoticones en las redes sociales de mensajeria en donde aparece una cara prendida a fuego directamente roja de esa bronca que nos inunda y ahi esta el fuego nuevamente graficandolo
+
+ ------------------------------------------- 
+
+1.7241379310344827
+line_id 4177044960
+transcript norm:  en las diferentes reescrituras que de este mito se han hecho a lo largo de la historia prometeo ha simbolizado tanto elementos positivos como negativos se ha presentado muchas veces como un filantropo un tipo que ama a la humanidad que con su accion ha dado origen a la civilizacion y ha contribuido decisivamente al progreso de la humanidad
+ref norm:         en las diferentes reescrituras que de este mito se han hecho a lo largo de la historia prometeo ha simbolizado tanto elementos positivos como negativos se ha presentado muchas veces como un filantropo un tipo que ama la humanidad que con su accion ha dado origen a la civilizacion y ha contribuido decisivamente al progreso de la humanidad
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177068389
+transcript norm:  y tambien se lo ha graficado como un ser rebelde como un ser reaccionario contra la tirania incluso con una astucia media retorcida y con una soberbia que termino en un rotundo fracaso perjudicando a la propia humanidad que otros dicen que ha beneficiado
+ref norm:         y tambien se lo ha graficado como un ser rebelde como un ser reaccionario contra la tirania incluso con una astucia media retorcida y con una soberbia que termino en un rotundo fracaso perjudicando a la propia humanidad que otros dicen que ha beneficiado
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177089386
+transcript norm:  fijense que incluso en esos mitos fundacionales de la historia del fuego se encuentra esta ambiguedad de significados y significancias y se preguntaran ustedes como fue que el hombre descubrio el fuego no
+ref norm:         fijense que incluso en esos mitos fundacionales de la historia del fuego se encuentra esta ambiguedad de significados y significancias y se preguntaran ustedes como fue que el hombre descubrio el fuego no
+
+ ------------------------------------------- 
+
+0.0
+line_id 9449075744
+transcript norm:  bueno resulta que de las grandes conquistas de la humanidad el descubrimiento del metodo de encender el fuego el fuego no es que fue un elemento descubierto por el hombre sino digo mas bien la forma de encenderlo ahi estuvo la gracia y la astucia ha sido sin duda uno de los grandes momentos de nuestra historia
+ref norm:         bueno resulta que de las grandes conquistas de la humanidad el descubrimiento del metodo de encender el fuego el fuego no es que fue un elemento descubierto por el hombre sino digo mas bien la forma de encenderlo ahi estuvo la gracia y la astucia ha sido sin duda uno de los grandes momentos de nuestra historia
+
+ ------------------------------------------- 
+
+6.521739130434782
+line_id 6000996583
+transcript norm:  y esto explica la curiosidad que ha despertado y sigue despertandose los digo yo que trabajo cotidianamente explicando estos temas a adolescentes todo el tiempo el hecho de aprender a encender el fuego hay mitos hay leyendas hay relatos poco fundados hay hipotesis etcetera etcetera etcetera
+ref norm:         esto explica la curiosidad que ha despertado y sigue despertando se los digo yo que trabajo cotidianamente explicando estos temas a adolescentes todo el tiempo el hecho de aprender a encender el fuego hay mitos hay leyendas hay relatos poco fundados hay hipotesis etcetera etcetera etcetera
+
+ ------------------------------------------- 
+
+7.142857142857142
+line_id 4177070095
+transcript norm:  nos sigue generando duda como fue que el hombre aprendio a encender el fuego imaginense ustedes lo que tiene que haber significado para el primer hombre 0 mujer digo no hombre como raza humana en entender y descubrir como se enciende el fuego es
+ref norm:         no sigue generando duda como fue que el hombre aprendio a encender el fuego imaginense ustedes lo que tiene que haber significado para el primer hombre 0 mujer digo hombre como raza humana en entender y descubrir como se enciende el fuego
+
+ ------------------------------------------- 
+
+4.3478260869565215
+line_id 4177011003
+transcript norm:   ese preciado fuego que ya hacia mucho tiempo conocia el hombre producto quizas de algun incendio natural de algun rayo que encendio algunos pastizales de una erupcion volcanica 0 vaya a saber de que pero que lo conocia desde el paleolitico esta mas que documentado .
+ref norm:         ese preciado fuego que ya hacia mucho tiempo conocia el hombre producto quizas de algun incendio natural de algun rayo que encendio a algunos pastizales de una erupcion volcanica 0 vaya a saber de que pero que lo conocia desde el paleolitico esta mas que documentado
+
+ ------------------------------------------- 
+
+3.278688524590164
+line_id 4177017639
+transcript norm:  el paleolitico es la etapa mas antigua y extensa de las etapas de la historia del desarrollo de la vida humana ya desde alla el hombre conocia el fuego sabia que existia pero no podia dominarlo no podia encenderlo conocerlo no bastaba porque si se apagaba como decimos aca en jerga argentina a llorar el campito no quedaba otra
+ref norm:         el paleolitico es la etapa mas antigua y extensa de las etapas de la historia del desarrollo de la vida humana ya desde alla el hombre conocia el fuego sabia que existia si pero no podia dominarlo no podia encenderlo conocerlo no bastaba porque si se apagaba como decimos aca en jerga argentina a llorar el campito si no quedaba otra
+
+ ------------------------------------------- 
+
+10.869565217391305
+line_id 9449070226
+transcript norm:  si se apagaba se apagaba era muy dificil volver a conseguirlo habia que esperar hasta el proximo evento natural incendio rayo erupcion volcanica lo que se imaginen para volver a tener esa llama sagrada esa llama que vinculaba lo humano con lo divino
+ref norm:         si se apagaba se apagaba era muy dificil volver a conseguirlo habia que esperar hasta el proximo hasta el proximo evento natural incendios rayos erupcion volcanica lo que se imaginen para volver a tener esa llama sagrada esa llama que vinculaba lo humano con lo divino
+
+ ------------------------------------------- 
+
+5.263157894736842
+line_id 4177045777
+transcript norm:  y asi van a surgir los famosos guardianes del fuego que custodiaban esa llama eterna para que no desapareciera el
+ref norm:         y asi van a surgir los famosos guardianes del fuego que custodiaban esa llama eterna para que no desapareciera
+
+ ------------------------------------------- 
+
+6.25
+line_id 4177095960
+transcript norm:  en la prehistoria no habia kioscos no en donde ir a comprar un encendedor una cajita de foforitos y fin de la cuestion habia que cuidarlo porque no se lo sabia dominar no se lo sabia encender se dice que el hombre del paleolitico debio ser tan ignorante del fuego como lo siguen siendo actualmente todo el resto de las especies del mundo animal si
+ref norm:         en la prehistoria no habia kioscos en donde ir a comprar un encendedor una cajita de fosforitos y fin de la cuestion no habia que cuidarlo porque no se lo sabia dominar no se lo sabia encender se dice que el hombre del paleolitico debio ser tan ignorante del fuego como lo siguen siendo actualmente todo el resto de las especies del mundo animal
+
+ ------------------------------------------- 
+
+17.391304347826086
+line_id 4177057622
+transcript norm:  se imaginan a un perro prendiendo fuego deliberadamente 0 a una vaca una cabra al animal que se imaginen claro que no no
+ref norm:         y se imaginan a un perro prendiendo fuego deliberadamente 0 una vaca a una cabra al animal que se imaginen claro que no
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177035584
+transcript norm:  ha sido una habilidad propia del ser humano un descubrimiento a mi criterio el primer descubrimiento del cual debemos sentirnos orgullosos como especie
+ref norm:         ha sido una habilidad propia del ser humano un descubrimiento a mi criterio el primer descubrimiento del cual debemos sentirnos orgullosos como especie
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177039229
+transcript norm:  porque cuando el hombre aprendio a controlar el fuego cuando aprendio a encenderlo donde y cuando quisiera sin saberlo 0 quizas intuyendolo el hombre aprendio a dominar a uno de los elementos clave para el avance de la civilizacion
+ref norm:         porque cuando el hombre aprendio a controlar el fuego cuando aprendio a encenderlo donde y cuando quisiera sin saberlo 0 quizas intuyendolo el hombre aprendio a dominar a uno de los elementos clave para el avance de la civilizacion
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177035327
+transcript norm:  fue tanta su importancia que el proceso de humanizacion se liga generalmente a la conquista y al uso del fuego como elemento clave y constitutivo de la humanidad
+ref norm:         fue tanta su importancia que el proceso de humanizacion se liga generalmente a la conquista y al uso del fuego como elemento clave y constitutivo de la humanidad
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177023103
+transcript norm:  muchos historiadores coinciden por ejemplo que el control del fuego fue una condicion necesaria para la domesticacion de plantas y de animales llevada a cabo en el neolitico el proceso de produccion de alimentos con la agricultura y la ganaderia llevando al hombre a predominar por sobre las otras especies del mundo animal
+ref norm:         muchos historiadores coinciden por ejemplo que el control del fuego fue una condicion necesaria para la domesticacion de plantas y de animales llevada a cabo en el neolitico el proceso de produccion de alimentos con la agricultura y la ganaderia llevando al hombre a predominar por sobre las otras especies del mundo animal
+
+ ------------------------------------------- 
+
+6.25
+line_id 4177015740
+transcript norm:  levi stroh un famoso antropologo que nada tiene que ver con los jeans por ejemplo esa sera una historia que contaremos otro dia levi stroh dijo alguna vez que el paso de la naturaleza a la cultura estuvo marcado justamente por la aparicion de lo cocido es decir de lo cocinado no es decir estuvo indisociablemente unido al dominio del hombre sobre el fuego
+ref norm:         le bistrot un famoso antropologo que nada tiene que ver con los jeans por ejemplo esa sera una historia que contaremos otro dia le bistrot dijo alguna vez que el paso de la naturaleza a la cultura estuvo marcado justamente por la aparicion de lo cocido es decir de lo cocinado no es decir estuvo indisociablemente unido al dominio del hombre sobre el fuego
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177030255
+transcript norm:  cuando el hombre aprendio a cocinar aprendio a dominar el fuego aprendio a encenderlo donde y cuando quisiera se da un salto en la historia de la humanidad muchas culturas a lo largo y a lo ancho del mundo tienen su mito fundacional del fuego y en todas ellas se encuentran tres etapas claves la edad sin fuego cuando los hombres ignoraban su existencia
+ref norm:         cuando el hombre aprendio a cocinar aprendio a dominar el fuego aprendio a encenderlo donde y cuando quisiera se da un salto en la historia de la humanidad muchas culturas a lo largo y a lo ancho del mundo tienen su mito fundacional del fuego y en todas ellas se encuentran tres etapas claves la edad sin fuego cuando los hombres ignoraban su existencia
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177091406
+transcript norm:  una segunda etapa conocida como la edad del uso del fuego cuando ya se familiarizaron con el fuego lo usaron pero no lo sabian encender y la tercera etapa llamada muchas veces como la edad del uso del fuego en donde aparecieron todos los metodos de encendido y sus diversos usos y aplicaciones ahora se preguntaran ustedes desde cuando el hombre conoce el fuego
+ref norm:         una segunda etapa conocida como la edad del uso del fuego cuando ya se familiarizaron con el fuego lo usaron pero no lo sabian encender y la tercera etapa llamada muchas veces como la edad del uso del fuego en donde aparecieron todos los metodos de encendido y sus diversos usos y aplicaciones ahora se preguntaran ustedes desde cuando el hombre conoce el fuego
+
+ ------------------------------------------- 
+
+0.0
+line_id 9449073030
+transcript norm:  bueno aparentemente fue hace alrededor de 500 anos atras cuando el hombre descubrio este raro elemento seria recien con la aparicion del homo sapiens nuestro mas cercano antecesor es decir entre 50 y 10 anos atras cuando el hombre comenzo a dominarlo aprendio a encenderlo
+ref norm:         bueno aparentemente fue hace alrededor de 500 anos atras cuando el hombre descubrio este raro elemento seria recien con la aparicion del homo sapiens nuestro mas cercano antecesor es decir entre 50 y 10 anos atras cuando el hombre comenzo a dominarlo aprendio a encenderlo
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177087410
+transcript norm:  0 sea que hace 500 anos lo conocimos y hace entre 10 y 50 anos atras aprendimos a dominarlo y aparentemente para lo primero que se aplico el fuego fue para la coccion de alimentos el fuego resulto un gran invento ya que los problemas digestivos derivados de comer carne cruda eran terribles y siguen siendo los digamos no
+ref norm:         0 sea que hace 500 anos lo conocimos y hace entre 10 y 50 anos atras aprendimos a dominarlo y aparentemente para lo primero que se aplico el fuego fue para la coccion de alimentos el fuego resulto un gran invento ya que los problemas digestivos derivados de comer carne cruda eran terribles y siguen siendo los digamos no
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177097025
+transcript norm:  esto esta mas que claro poner una costilla de un animal junto a las brasas parece que ha sido el primer gran avance del hombre mucho antes incluso de aprender a escribir ahora como el hombre aprendio a encender el fuego
+ref norm:         esto esta mas que claro poner una costilla de un animal junto a las brasas parece que ha sido el primer gran avance del hombre mucho antes incluso de aprender a escribir ahora como el hombre aprendio a encender el fuego
+
+ ------------------------------------------- 
+
+1.7857142857142856
+line_id 4177055173
+transcript norm:  aparentemente la hipotesis mas fuerte es que el hombre rozando dos piedras alla cuando cambio su tecnica del tallado por el pulido de la piedra rozando para darle forma descubrio que salian chispas que brotaba esa llama divina al rozar dos minerales entonces aparentemente esa puede haber sido la primera forma de encender el fuego
+ref norm:         aparentemente la hipotesis mas fuerte es que el hombre rozando dos piedras alla cuando cambio su tecnica del tallado por el pulido de la piedra rozando para darle forma descubrio que salian chispas que brotaba esa llama divina no al rozar dos minerales entonces aparentemente esa puede haber sido la primera forma de encender el fuego
+
+ ------------------------------------------- 
+
+13.793103448275861
+line_id 4177012060
+transcript norm:   que va de la mano con la hipotesis de la frotacion con dos maderas con dos ramitas yo estoy haciendo aca el gesto con la mano .
+ref norm:         hipotesis que va de la mano con la hipotesis de la frotacion digamos no con dos maderas con dos ramitas yo estoy haciendo aca el gesto con la mano
+
+ ------------------------------------------- 
+
+8.333333333333332
+line_id 4177096017
+transcript norm:  no se si lo estan viendo si lo estan pudiendo apreciar pero son las formas en las cuales se piensa que el hombre puede haber llegado a descubrir como encender el fuego por eso debe ser que amamos tanto ver el fuego encendido no
+ref norm:         no se si lo estan viendo si lo estan pudiendo apreciar pero es la forma 0 son las formas en las cuales se piensa que el hombre puede haber llegado a descubrir como encender el fuego por eso debe ser que amamos tanto ver el fuego encendido no
+
+ ------------------------------------------- 
+
+5.555555555555555
+line_id 4177082790
+transcript norm:  cuando prendemos una parrillita cuando hacemos un asadito cuando nos juntamos con amigos algo muy argentino tambien si se quiere el fuego desde la prehistoria reune nos coloca a todos frente a un eje vertebrador de lo social pensemos en una fogata en un campamento el fuego reunio a la humanidad
+ref norm:         cuando prendemos una parrillita cuando hacemos un asadito cuando nos juntamos con amigos algo muy argentino tambien si se quiere no el fuego desde la prehistoria reune nos coloca a todos frente a un eje vertebrador de lo social pensemos en una fogata en un campamento si no el fuego reunio a la humanidad
+
+ ------------------------------------------- 
+
+2.1739130434782608
+line_id 4177093751
+transcript norm:  el fuego fue ese eje en torno al cual empezo a girar la vida social y esa fue justamente otra de las ventajas fundamentales que la conquista del fuego aporto a nuestros antepasados que fue justamente la posibilidad de ampliar los territorios que se podian habitar
+ref norm:         el fuego fue ese eje en torno al cual empezo a girar la vida social y esa fue justamente otra de las ventajas fundamentales que la conquista del fuego porto a nuestros antepasados que fue justamente la posibilidad de ampliar los territorios que se podian habitar
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177030696
+transcript norm:  el calor proporcionaba la facultad 0 la posibilidad de calentarse en zonas y en epocas que tradicionalmente eran frias lo cual reducia tambien la tasa de mortalidad por enfermedades
+ref norm:         el calor proporcionaba la facultad 0 la posibilidad de calentarse en zonas y en epocas que tradicionalmente eran frias lo cual reducia tambien la tasa de mortalidad por enfermedades
+
+ ------------------------------------------- 
+
+1.5384615384615385
+line_id 4177074507
+transcript norm:  entonces de repente de estar habitando en la zona del tropico en la zona ecuatoriana de la linea del ecuador digo no a eso me refiero de repente el hombre empezo a movilizarse mas hacia los polos porque mientras mas nos vamos hacia tanto al norte 0 al sur la temperatura comienza a bajar en relacion a lo que esta sucediendo en la linea del ecuador
+ref norm:         entonces de repente de estar habitando en la zona del tropico en la zona ecuatoriana de la linea del ecuador digo a eso me refiero de repente el hombre empezo a movilizarse mas hacia los polos porque mientras mas nos vamos hacia tanto al norte 0 al sur la temperatura comienza a bajar en relacion a lo que esta sucediendo en la linea del ecuador
+
+ ------------------------------------------- 
+
+2.083333333333333
+line_id 4177028734
+transcript norm:  bueno el fuego va a permitir tambien ese primer momento migratorio no porque nos va a permitir calentarnos en zonas y en epocas frias y tambien obviamente va a ir de la mano con la reduccion de esta tasa de mortalidad por enfermedades asociadas a las bajas temperaturas no
+ref norm:         bueno el fuego va a permitir tambien ese primer momento migratorio porque nos va a permitir calentarnos en zonas y en epocas frias y tambien obviamente va a ir de la mano con la reduccion de esta tasa de mortalidad por enfermedades asociadas a las bajas temperaturas no
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177056880
+transcript norm:  el fuego el hogar el hogar como lugar en donde estamos prendiendo el fuego esta idea de calor va a constituir por estos motivos que vengo diciendo el centro de la vida social en los primeros habitats prehistoricos que fue desarrollando el hombre a medida avanzada
+ref norm:         el fuego el hogar el hogar como lugar en donde estamos prendiendo el fuego esta idea de calor va a constituir por estos motivos que vengo diciendo el centro de la vida social en los primeros habitats prehistoricos que fue desarrollando el hombre a medida avanzada
+
+ ------------------------------------------- 
+
+3.571428571428571
+line_id 4177010523
+transcript norm:  va a ir sirviendo como una especie de elemento aglutinante alrededor del cual se iban a organizar las primeras comunidades ademas de estos grandes avances la posesion del fuego y el dominio y el uso y el control del fuego por parte de los seres humanos va a suponer tambien el control de la naturaleza si
+ref norm:         va a ir sirviendo como una especie de elemento aglutinante alrededor del cual se iban a organizar las primeras comunidades ademas de estos grandes avances seguir la posesion del fuego y el dominio y el uso y el control del fuego por parte de los seres humanos va a suponer tambien el control de la naturaleza
+
+ ------------------------------------------- 
+
+2.857142857142857
+line_id 4177034631
+transcript norm:  al ser el unico animal que cocinaba la carne el hombre se separaba definitivamente de los animales evolucionaba de hombre bestia a ser humano ahi me parece que esta lo que levi stroh decia no
+ref norm:         al ser el unico animal que cocinaba la carne el hombre se separaba definitivamente de los animales evolucionaba de hombre bestia a ser humano ahi me parece que esta lo que levi strode decia no
+
+ ------------------------------------------- 
+
+0.0
+line_id 9449084835
+transcript norm:  cuando con la aparicion de lo cocido pasamos del mundo de lo natural al mundo de lo cultural ese hecho se va a acentuar todavia mas con el desarrollo de las tecnicas de caza tecnicas que se van a modernizar tambien gracias al fuego ya que va a permitir que el hombre dejara de ser definitivamente carronero para pasar a ser productor de alimentos
+ref norm:         cuando con la aparicion de lo cocido pasamos del mundo de lo natural al mundo de lo cultural ese hecho se va a acentuar todavia mas con el desarrollo de las tecnicas de caza tecnicas que se van a modernizar tambien gracias al fuego ya que va a permitir que el hombre dejara de ser definitivamente carronero para pasar a ser productor de alimentos
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177075202
+transcript norm:  quizas al conseguir dominar y sacar provecho del fuego respecto al resto de los animales ademas animales que temian al uso del fuego el hombre va a empezar a cobrar conciencia de su superioridad y de todas sus potencialidades
+ref norm:         quizas al conseguir dominar y sacar provecho del fuego respecto al resto de los animales ademas animales que temian al uso del fuego el hombre va a empezar a cobrar conciencia de su superioridad y de todas sus potencialidades
+
+ ------------------------------------------- 
+
+0.0
+line_id 9449045133
+transcript norm:  el fuego tambien va a significar un instrumento de defensa frente a esas otras bestias carnivoras y depredadoras que existian en ese mundo prehistorico incluso hay autores que se animan a decir que el fuego permitio la mejora de la salud publica
+ref norm:         el fuego tambien va a significar un instrumento de defensa frente a esas otras bestias carnivoras y depredadoras que existian en ese mundo prehistorico incluso hay autores que se animan a decir que el fuego permitio la mejora de la salud publica
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177080752
+transcript norm:  fijese que loco estamos hablando de la prehistoria y de repente el fuego mejoro la concepcion que hoy tenemos de salud publica porque fue la primera gran obra de mejora en este sentido porque al alumbrar con su resplandor por ejemplo permitia dispersar aquellos insectos que no eran mas que vectores de enfermedades tal y cual lo son hoy en dia
+ref norm:         fijese que loco estamos hablando de la prehistoria y de repente el fuego mejoro la concepcion que hoy tenemos de salud publica porque fue la primera gran obra de mejora en este sentido porque al alumbrar con su resplandor por ejemplo permitia dispersar aquellos insectos que no eran mas que vectores de enfermedades tal y cual lo son hoy en dia
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177022503
+transcript norm:  y no solo eso sino que al proporcionar la posibilidad de calentar agua y de tener agua caliente el fuego permitia tambien higienizar y sanitizar aun mejor de lo que ya se hacia mas adelante a medida avanzamos en el tiempo el fuego va a permitir tambien moldear y fundir metales estamos metiendonos en la edad de los metales todavia en la prehistoria
+ref norm:         y no solo eso sino que al proporcionar la posibilidad de calentar agua y de tener agua caliente el fuego permitia tambien higienizar y sanitizar aun mejor de lo que ya se hacia mas adelante a medida avanzamos en el tiempo el fuego va a permitir tambien moldear y fundir metales estamos metiendonos en la edad de los metales todavia en la prehistoria
+
+ ------------------------------------------- 
+
+3.4482758620689653
+line_id 4177052916
+transcript norm:  los metales dada su dureza van a ser moldeables solo bajo grandes temperaturas cuando son expuestos a grandes temperaturas y el fuego ahi va a aportar lo suyo
+ref norm:         los metales si dada su dureza van a ser moldeables solo bajo grandes temperaturas cuando son expuestos a grandes temperaturas y el fuego ahi va a aportar lo suyo
+
+ ------------------------------------------- 
+
+2.2222222222222223
+line_id 4177098160
+transcript norm:  va a permitir fabricar mejores herramientas de caza mejores herramientas defensivas va a permitir fabricar mejores aperos para colocarsela a las bestias de tiro y a las bestias que labraban la tierra cuando la agricultura ya era conocida por la totalidad de la humanidad no
+ref norm:         va a permitir fabricar mejores herramientas de caza mejores herramientas defensivas va a permitir fabricar mejores aperos para colocarselas a las bestias de tiro y a las bestias que labraban la tierra cuando la agricultura ya era conocida por la totalidad de la humanidad no
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177020934
+transcript norm:  tal importancia tenia esta aplicacion del calor a los metales que cuando se llego a aplicar el fuego a la metalurgia los herreros se van a convertir en algo asi como seres temibles porque los tipos eran considerados como los conocedores de un secreto esencial el uso del fuego aplicado a los metales
+ref norm:         tal importancia tenia esta aplicacion del calor a los metales que cuando se llego a aplicar el fuego a la metalurgia los herreros se van a convertir en algo asi como seres temibles porque los tipos eran considerados como los conocedores de un secreto esencial el uso del fuego aplicado a los metales
+
+ ------------------------------------------- 
+
+4.761904761904762
+line_id 4177048363
+transcript norm:  bueno formas de comunicarse que estas tribus prehistoricas han tenido prehistoricas digo y tambien ya mas aca en el tiempo van a existir sobre todo en las tribus americanas muchos ejemplos de comunicacion a traves de senales de humo por ejemplo que
+ref norm:         bueno formas de comunicarse es que estas tribus prehistoricas han tenido prehistoricas digo y tambien ya mas aca en el tiempo van a existir sobre todo en las tribus americanas muchos ejemplos de comunicacion a traves de senales de humo por ejemplo
+
+ ------------------------------------------- 
+
+2.127659574468085
+line_id 4177046233
+transcript norm:  tambien van a tener lugar desde el control y el dominio del fuego por parte del hombre las primeras actividades nocturnas van a poder alumbrarse en la noche y en la oscuridad de las cuevas se cree que esto hizo posible el inicio de las pinturas rupestres
+ref norm:         tambien van a tener lugar desde el control y el dominio del fuego por parte del hombre las primeras actividades nocturnas van a poder alumbrarse en la noche y en la oscuridad de las cuevas se cree que esto hizo posible el inicio de las pinturas ruspestres
+
+ ------------------------------------------- 
+
+2.0
+line_id 4177053474
+transcript norm:  que van a establecer segun los antropologos la frontera definitiva entre el hombre y los animales la capacidad de simbolizar de dibujar de dejar asentado hechos procesos ideas en las paredes de las cavernas algo solamente lograble si se quiere gracias a la facultad del fuego de poder alumbrar
+ref norm:         asi que van a establecer segun los antropologos la frontera definitiva entre el hombre y los animales la capacidad de simbolizar de dibujar de dejar asentado hechos procesos ideas en las paredes de las cavernas algo solamente lograble si se quiere gracias a la facultad del fuego de poder alumbrar
+
+ ------------------------------------------- 
+
+1.4925373134328357
+line_id 4177044888
+transcript norm:  ademas de la pintura el fuego tambien va a proporcionar el comienzo de la escultura van a decir los historiadores del arte porque al prestar atencion a la tierra que quedaba endurecida alrededor de las fogatas el hombre primitivo empezo a trabajar el barro empezo a moldear empezo despues mediante la coccion sobre fuego a lograr piezas de alfareria que le servian tambien para cubrir sus necesidades
+ref norm:         ademas de la pintura el fuego tambien va a proporcionar el comienzo de la escultura van a decir los historiadores del arte porque al prestar atencion a la tierra que quedaba endurecida alrededor de las fogatas el hombre primitivo empezo a trabajar el barro empezo a moldear empezo despues mediante la coccion sobre fuego a lograr piezas de alfareria que les servian tambien para cubrir sus necesidades
+
+ ------------------------------------------- 
+
+0.0
+line_id 9449084875
+transcript norm:  en esta epoca en donde habia que guardar el excedente de produccion vaya si el fuego ha aportado en este sentido mas adelante si seguimos avanzando en el tiempo en la historia en la cronologia de la humanidad la posesion del fuego tambien va a ser esencial en la agricultura principalmente porque permitia el rapido incremento de la superficie cultivable
+ref norm:         en esta epoca en donde habia que guardar el excedente de produccion vaya si el fuego ha aportado en este sentido mas adelante si seguimos avanzando en el tiempo en la historia en la cronologia de la humanidad la posesion del fuego tambien va a ser esencial en la agricultura principalmente porque permitia el rapido incremento de la superficie cultivable
+
+ ------------------------------------------- 
+
+5.0
+line_id 4177041847
+transcript norm:  era necesario ganarle espacio a la naturaleza y la quema de los bosques para poder roturar nuevas tierras requeria de mucho menos tiempo y mucho menos esfuerzo y mucho menos trabajo que la tala del arbolado entonces directamente se quemaban
+ref norm:         era necesario ganarle espacio a la naturaleza y la quema de los bosques para poder roturar nuevas tierras requeridas de mucho menos tiempo y mucho menos esfuerzo y mucho menos trabajo que la tala del arbolado entonces directamente se quemaba
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177038371
+transcript norm:  en este sentido el fuego va a ser tambien considerado en relacion a la agricultura como un potente plaguicida que actua principalmente como desinfectante del suelo y ademas las cenizas generadas son un buen fertilizante que mejora la fertilidad del suelo tanto de manera directa al generar cenizas nutrientes como tambien indirectamente al aumentar el ph del mismo
+ref norm:         en este sentido el fuego va a ser tambien considerado en relacion a la agricultura como un potente plaguicida que actua principalmente como desinfectante del suelo y ademas las cenizas generadas son un buen fertilizante que mejora la fertilidad del suelo tanto de manera directa al generar cenizas nutrientes como tambien indirectamente al aumentar el ph del mismo
+
+ ------------------------------------------- 
+
+4.3478260869565215
+line_id 6000988515
+transcript norm:  no estoy diciendo ni jamas sugeriria por las dudas para desprevenidos en esta altura si salgamos a quemar asi ganamos espacio en la naturaleza estamos hablando de la prehistoria donde el hombre estaba todavia palmo a palmo compitiendo con ese entorno que le impedia ciertos avances
+ref norm:         no estoy diciendo ni jamas sugeriria por las dudas para desprevenidos en esta altura si salgamos a quemar asi ganamos espacio en las naturales estamos hablando de la prehistoria donde el hombre estaba todavia palmo a palmo compitiendo con ese entorno que le impedia ciertos avances
+
+ ------------------------------------------- 
+
+5.88235294117647
+line_id 6000926474
+transcript norm:  hoy en dia es otra la cuestion y hoy en dia el fuego es un elemento temido en bosques en cosechas en el uso del suelo etc por eso digo esta ambiguedad del fuego como un elemento benigno y maligno al mismo tiempo que lo hace verdaderamente interesante de analizar al menos desde la simbologia y desde los aportes que ha traido a la historia
+ref norm:         no bueno hoy en dia es otra la cuestion y hoy en dia el fuego es un elemento temido en bosques en cosechas en el uso del suelo etcetera etcetera por eso digo esta ambiguedad del fuego como un elemento benigno y maligno al mismo tiempo que lo hace verdaderamente interesante de analizar al menos desde la simbologia y desde los aportes que ha traido a la historia
+
+ ------------------------------------------- 
+
+0.0
+line_id 9449072780
+transcript norm:  por ejemplo a ver sabido es que los mayas desarrollaron una tecnica de cultivo
+ref norm:         por ejemplo a ver sabido es que los mayas desarrollaron una tecnica de cultivo
+
+ ------------------------------------------- 
+
+1.5873015873015872
+line_id 4177081833
+transcript norm:  nosotros aqui en historia y podcast ya analizamos la historia de los mayas y su tecnica particular de cultivo conocida como la rosiquema en donde quemaban parte de la selva que era su entorno natural y usaban esa ceniza como abono y sembraban en un lugar que hubiera sido imposible el desarrollo de la agricultura si no se aplicaba el uso del fuego
+ref norm:         nosotros aqui en historia en podcast ya analizamos la historia de los mayas y su tecnica particular de cultivo conocida como la rosiquema en donde quemaban parte de la selva que era su entorno natural y usaban esa ceniza como abono y sembraban en un lugar que hubiera sido imposible el desarrollo de la agricultura si no se aplicaba el uso del fuego
+
+ ------------------------------------------- 
+
+2.564102564102564
+line_id 4177064951
+transcript norm:  con el transcurrir del tiempo el fuego ha sido la base de multitud de descubrimientos hasta nuestra epoca diria en sus formas de calor y de energia el fuego va a estar presente hasta el dia de hoy
+ref norm:         si con el transcurrir del tiempo el fuego ha sido la base de multitud de descubrimientos hasta nuestra epoca diria en sus formas de calor y de energia el fuego va a estar presente hasta el dia de hoy
+
+ ------------------------------------------- 
+
+3.8461538461538463
+line_id 4177056234
+transcript norm:  por ejemplo comenzo a ser utilizado a traves de las lamparas 0 de las velas para alumbrarse en horas de la oscuridad va a constituir un elemento basico e inseparable el fuego de las revoluciones industriales de la revolucion industrial despues vamos a tener etapas dentro de la revolucion industrial
+ref norm:         por ejemplo a ver comenzo a ser utilizado a traves de las lamparas 0 de las velas para alumbrarse en horas de la oscuridad va a constituir un elemento basico e inseparable el fuego de las revoluciones industriales de la revolucion industrial despues vamos a tener etapas dentro de la revolucion industrial
+
+ ------------------------------------------- 
+
+2.0
+line_id 4177035218
+transcript norm:  de ahi que la maquina a vapor por ejemplo a cuyo descubrimiento suele achacarse la primera revolucion industrial haya sido denominada tambien en muchas ocasiones como la maquina de fuego justamente la maquina a vapor viene a significar una nueva manera de utilizar el fuego fijense que interesante no
+ref norm:         de ahi que la maquina a vapor por ejemplo a cuyo descubrimiento suele achacarse la primera revolucion industrial haya sido denominada tambien en muchas ocasiones como la maquina de fuego si justamente la maquina a vapor viene a significar una nueva manera de utilizar el fuego fijense que interesante no
+
+ ------------------------------------------- 
+
+1.9607843137254901
+line_id 4177010074
+transcript norm:  hablar de lo que significo en el arte de la guerra con catapultas que tiraban bolas banadas en resina que luego eran encendidas y que eran el terror de cualquier muralla 0 cualquier persona que se encontrara dentro de ella y despues paso seguido con la llegada de la polvora
+ref norm:         ni hablar de lo que significo en el arte de la guerra con catapultas que tiraban bolas banadas en resina que luego eran encendidas y que eran el terror de cualquier muralla 0 cualquier persona que se encontrara dentro de ella y despues paso seguido con la llegada de la polvora
+
+ ------------------------------------------- 
+
+1.6129032258064515
+line_id 9449083803
+transcript norm:  usada primero por los chinos para adornar los cielos orientales con luces de colores en forma de pirotecnia y luego modificada y aplicada por los arabes que la dieron a conocer en todo el mundo occidental europeo para ser la fuerza de empuje en las armas y sus municiones lo cual permitia nada mas y nada menos que matar a la distancia
+ref norm:         usada primero por los chinos para adornar los cielos orientales con luces de colores en forma de pirotecnia y luego modificada y aplicada por los arabes que la dieron a conocer en todo el mundo occidental europeo para hacer la fuerza de empuje en las armas y sus municiones lo cual permitia nada mas y nada menos que matar a la distancia
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177059697
+transcript norm:  y vaya si la historia se ha escrito en los campos de batalla en donde la polvora y este nuevo uso del fuego fue aplicado muchas cronicas por ejemplo de la conquista espanola sobre america narran la sorpresa y el panico del que eran cautivos los aborigenes americanos al ver que una estampida lograba derrumbar al mas fuerte guerrero de la tribu a varios metros de distancia
+ref norm:         y vaya si la historia se ha escrito en los campos de batalla en donde la polvora y este nuevo uso del fuego fue aplicado muchas cronicas por ejemplo de la conquista espanola sobre america narran la sorpresa y el panico del que eran cautivos los aborigenes americanos al ver que una estampida lograba derrumbar al mas fuerte guerrero de la tribu a varios metros de distancia
+
+ ------------------------------------------- 
+
+10.204081632653061
+line_id 4177073663
+transcript norm:  no podian entender se dice y se cuenta en esos registros como es posible que una explosion alla a lo lejos matara a alguien a lo cerca en este contexto cercano de ese modo el fuego ha sido y es un elemento imprescindible para la supervivencia social y cultural
+ref norm:         no podian entenderse dice y se cuenta en esos registros como es posible que una explosion alla lo lejos matara a alguien aca a lo cerca digamos en este contexto cercano de ese modo el fuego ha sido y es un elemento imprescindible para la supervivencia social y cultural
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177018313
+transcript norm:  ha ido parcelando al mundo poniendo las fronteras entre los distintos territorios que han ido avanzando segun lo han ido manejando al fuego en si esa antigua fogata cavernicola podemos llegar a decir esa antigua fogata que alumbraba las cavernas y que estaba protegida porque si se apagaba a llorar al campito es la energia de hoy
+ref norm:         ha ido parcelando al mundo poniendo las fronteras entre los distintos territorios que han ido avanzando segun lo han ido manejando al fuego en si esa antigua fogata cavernicola podemos llegar a decir esa antigua fogata que alumbraba las cavernas y que estaba protegida porque si se apagaba a llorar al campito es la energia de hoy
+
+ ------------------------------------------- 
+
+3.571428571428571
+line_id 4177092552
+transcript norm:  termonucleares atomicas y toda la cuestion hacen uso del fuego hemos conquistado el espacio exterior gracias a la fuerza de propulsion que esta generada por el fuego
+ref norm:         centrales termonucleares atomicas y toda la cuestion hacen uso del fuego hemos conquistado el espacio exterior gracias a la fuerza de propulsion que esta generada por el fuego
+
+ ------------------------------------------- 
+
+0.0
+line_id 9449019200
+transcript norm:  por eso mi criterio que se condice con el criterio de otros tantos historiadores y especialistas en esta tematica el fuego fue la llave que abrio el camino para que el ser humano comenzara a ser un ser humano para que tomara atributos de humano y para que la humanidad pudiera progresar
+ref norm:         por eso mi criterio que se condice con el criterio de otros tantos historiadores y especialistas en esta tematica el fuego fue la llave que abrio el camino para que el ser humano comenzara a ser un ser humano para que tomara atributos de humano y para que la humanidad pudiera progresar
+
+ ------------------------------------------- 
+
+2.1739130434782608
+line_id 4177012670
+transcript norm:  sin el fuego el hombre seguiria siendo un animal mas sin conocer las ventajas que su uso ofrece muchas de ellas positivas otras tantas negativas pero es insoslayable incuestionable que ha sido el fuego el gran motor de cambio en la humanidad incluso como temor
+ref norm:         sin el fuego el hombre seguiria siendo un animal mas sin conocer las ventajas que su uso ofrece no muchas de ellas positivas otras tantas negativas pero es insoslayable incuestionable que ha sido el fuego el gran motor de cambio en la humanidad incluso como temor
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177086366
+transcript norm:  porque cuando el catolicismo hace uso de la simbologia del fuego en el sagrado corazon de jesus que nombre por ejemplo hace un ratito esa pasion fervorosa y ferviente que parte de lo mas hondo del espiritu tambien amenaza
+ref norm:         porque cuando el catolicismo hace uso de la simbologia del fuego en el sagrado corazon de jesus que nombre por ejemplo hace un ratito esa pasion fervorosa y ferviente que parte de lo mas hondo del espiritu tambien amenaza
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177067713
+transcript norm:  es un fuego que amenaza es un fuego de un horno eterno dira la biblia de un inframundo de un infierno en donde las llamas queman y aparte queman para siempre nuevamente esa ambiguedad y esa dicotomia entre un elemento bueno y malo al mismo tiempo entre un yin y un yang digamos en filosofia oriental
+ref norm:         es un fuego que amenaza es un fuego de un horno eterno dira la biblia de un inframundo de un infierno en donde las llamas queman y aparte queman para siempre nuevamente esa ambiguedad y esa dicotomia entre un elemento bueno y malo al mismo tiempo entre un yin y un yang digamos en filosofia oriental
+
+ ------------------------------------------- 
+
+9.67741935483871
+line_id 6000959371
+transcript norm:  el fuego ha sido uno de los mayores elementos que mayor aporte ha realizado a la historia de la humanidad su uso su aplicacion y las tecnicas para encenderlo alla en la prehistoria y para aplicarlo hoy en dia han hecho que el mundo caminara hacia el progreso queridos amigos hasta aqui el episodio de hoy
+ref norm:         el fuego ha sido uno de los mayores elementos uno de los elementos que mayor aporte mejor dicho ha realizado a la historia de la humanidad su uso su aplicacion y las tecnicas para encenderlo alla en la prehistoria y para aplicarlo hoy en dia han hecho que el mundo caminara hacia el progreso queridos amigos hasta aqui el episodio de hoy
+
+ ------------------------------------------- 
+
+1.9607843137254901
+line_id 9449019044
+transcript norm:  bienvenidos al episodio numero 13 de la quinta temporada de fmi podcast de este lado leandro zicaleri el ser de las finanzas para traerle un resumencito semanal de todo lo que paso en argentina el episodio de hoy es un episodio full zarismo porque hoy vamos a hacer enojar a todos
+ref norm:         bienvenidos al episodio numero 13 de la quinta temporada de fmi podcast de este lado leandro ziccarelli el ser de las finanzas para traerle un resumencito semanal de todo lo que paso en argentina el episodio de hoy es un episodio full zarismo porque hoy vamos a hacer enojar a todos
+
+ ------------------------------------------- 
+
+0.0
+line_id 9449084366
+transcript norm:  hoy estoy full polemico hoy les voy a hablar con el corazon no me importa nada
+ref norm:         hoy estoy full polemico hoy les voy a hablar con el corazon no me importa nada
+
+ ------------------------------------------- 
+
+5.769230769230769
+line_id 9449081852
+transcript norm:  hoy me despojo de todo tipo de interes politico partidario y voy a decirles la verdad de lo que esta pasando en este pais ustedes saben que todavia no pasaron los 180 dias con lo cual al gobierno las criticas las modero un poco a los mios les doy sin peda
+ref norm:         hoy me despojo de todo tipo de interes politico partidario y voy a decirles la verdad de lo que esta pasando en este pais bien ustedes saben que todavia no pasaron los 180 dias con lo cual al gobierno las criticas las modelo un poco a los mios les doy sin pedo
+
+ ------------------------------------------- 
+
+7.8125
+line_id 9449031451
+transcript norm:  tengo algunos disparadores por eso no es que me levante con ganas de putear a masa pero hay algunos disparadores por ejemplo la gestion de masa que tenemos que charlar esta semana entonces la propuesta para hoy antes de hacer unos anuncios tengo un anuncio para hacer lo voy a hacer ahora al principio de este capitulo porque es muy importante
+ref norm:         tengo algunos disparadores por eso no es que me levante con ganas de putear a massa a ponerle pero hay algunos disparadores por ejemplo la gestion de massa que tenemos que charlar esta semana entonces la propuesta para hoy antes de hacer unos anuncios tengo un anuncio para hacer y lo voy a hacer ahora al principio de este capitulo porque es muy importante
+
+ ------------------------------------------- 
+
+6.122448979591836
+line_id 9449095338
+transcript norm:  pero digo antes de eso les voy a hacer la venta de lo que viene primero el picadito en el picadito tenemos varias cosas importantes algo de la cosecha los resultados del banco central del 2023 bien esta el balance publicado y hay algunas cosas muy interesantes para salir ahi por
+ref norm:         pero digo antes de eso les voy a hacer la venta de lo que viene primero el picadito en el picadito tenemos varias cosas importantes hago la cosecha los resultados del banco central del 2023 bien esta el balance publicado y hay algunas cosas muy interesantes para salir ahi
+
+ ------------------------------------------- 
+
+2.3255813953488373
+line_id 9449045894
+transcript norm:  ustedes vieron que los funcionales en general no te quieren dar data viste te ocultan la data los de este gobierno los del otro siempre hacen lo mismo pero hay lugares en donde la data tiene que estar entonces vos la buscas igual
+ref norm:         porque vieron que los funcionales en general no te quieren dar data viste te ocultan la data los de este gobierno los del otro siempre hacen lo mismo pero hay lugares en donde la data tiene que estar entonces vos la buscas igual
+
+ ------------------------------------------- 
+
+2.9850746268656714
+line_id 9449043578
+transcript norm:  el balance del banco central es uno de ellos bien ahi hay data que vos tenes mas cuando cambia la gestion los prendes fuego a los que se fueron no 0 sea esta claro pero por ejemplo otro lugar son las revisiones del fondo en las revisiones del fondo monetario siempre hay informacion que el gobierno no te quiere dar y el fondo los obliga a ser publicos
+ref norm:         el balance del banco central es uno de ellos bien ahi hay data que vos tenes mas cuando cambia la gestion los prendes fuego a los que se fueron 0 sea esta claro pero por ejemplo otro lugar son las revisiones del fondo en las revisiones del fondo monetario siempre hay informacion que el gobierno no te quiere dar y el fondo los obliga a ser publica
+
+ ------------------------------------------- 
+
+2.631578947368421
+line_id 9449080267
+transcript norm:  por ejemplo el uso del swap en un momento no sabiamos como era cuanto estaba acordado de repente sale la revision del fondo y ahi estaba toda la data por que porque al fondo se la tienen que dar no le pueden decir al fondo no no te la doy y a veces el fondo publica esta revision que viene ahora la octava cuando venga el articulo con los resultados de la revision que eso es cuando el directorio aprueba el desembolso va a venir con un monton de datos va a venir con un monton de sorpresas y nos vamos a enterar un monton de cosas que este gobierno no quiere que sepamos bien
+ref norm:         por ejemplo el uso del swap en un momento no sabiamos como era cuanto estaba acordado de repente sale la revision del fondo y ahi estaba toda la data por que porque al fondo se la tienen que dar no le pueden decir al fondo no no te la doy y a veces el fondo publica esta revision que viene ahora a la octava cuando venga el articulo con los resultados de la revision que eso es cuando el directorio aprueba el desembolso va a venir con un monton de datos va a venir un monton de sorpresas y nos vamos a enterar un monton de cosas que este gobierno no quiere que sepamos
+
+ ------------------------------------------- 
+
+3.076923076923077
+line_id 9449094079
+transcript norm:  sobre todo de como va a ser la secuencia de regulacion cepo tipo de cambio etc pero arrancamos con cosecha balance del banco central comunicado del fondo monetario y la baja de tasas del banco central el juego que estan haciendo con el tesoro la quita 0 la eliminacion de lo que conociamos como el bid del banco central en el mercado secundario todo eso .
+ref norm:         sobre todo de como va a ser la secuencia de regulacion cepo tipo de cambio etcetera pero arrancamos con cosecha balance del banco central comunicado del fondo monetario y la baja de tasas del banco central el juego que estan haciendo con el tesoro la quita 0 la eliminacion de lo que conociamos como el bid del banco central en el mercado secundario todo eso
+
+ ------------------------------------------- 
+
+4.444444444444445
+line_id 9449096783
+transcript norm:  y me voy a arriesgar a ver como va a salir la colocacion del tesoro hoy que todavia son las 4 de la tarde 5 menos cuarto esa es la data va a estar tipo 7 pero me voy a jugar un resultado para esa colocacion
+ref norm:         y no voy a arriesgar a ver como va a salir la colocacion del tesoro hoy que todavia son las 4 de la tarde 5 menos cuarto esa la data va a estar tipo 7 pero me voy a jugar un resultado para esa colocacion
+
+ ------------------------------------------- 
+
+5.357142857142857
+line_id 9449062677
+transcript norm:  sobre la segunda parte del episodio vamos a hablar de que inflacion es mejor si el 88 de millet 0 el 83 de massa es lo mismo 8 no es lo mismo 8 hay un 8 que puede ser mejor que el otro yo prefiero tener ese 8 de inflacion que otro 8 de inflacion
+ref norm:         sobre la segunda parte del episodio vamos a hablar de que inflacion es mejor si el 88 de milei u el 83 de massa es lo mismo 8 y no es lo mismo 8 hay un 8 que puede ser mejor que el otro yo prefiero tener ese 8 de inflacion que otro 8 de inflacion
+
+ ------------------------------------------- 
+
+3.571428571428571
+line_id 9449066421
+transcript norm:  bueno vamos a tirar algunos disparadores de esa discusion y vamos a sacar una conclusion y nos la vamos a jugar vamos a decir este 8 de inflacion es mejor que el otro y sobre el final como si no fuese poco 0 como si no fuese mucho como se dice ahi no se
+ref norm:         bueno vamos a discutir a tirar algunos disparadores de esa discusion y vamos a sacar una conclusion y nos la vamos a jugar vamos a decir este 8 de inflacion es mejor que el otro y sobre el final como si no fuese poco 0 como si no fuese mucho como se dice ahi no se
+
+ ------------------------------------------- 
+
+12.5
+line_id 9449077084
+transcript norm:  vamos a hablar sobre esta cuestion del discurso de milley la discusion sobre si el tipo de cambio esta trazado 0 no y el temita del ancla cambiaria que es otra cosa que esta circulando ahi va a ser a modo de reflexion y con eso vamos a cerrar este glorioso episodio numero 37
+ref norm:         vamos a hablar sobre esta cuestion de el discurso de milei la discusion sobre si el tipo de cambio esta atrasado 0 no y el temita de la ancla cambiaria que es otra cosa que esta circulando ahi va a ser a modo de reflexion y con eso vamos a cerrar este glorioso episodio numero 13
+
+ ------------------------------------------- 
+
+13.23529411764706
+line_id 9449055416
+transcript norm:  pero antes de todo eso les voy a volver a poner amar a su no mentira les voy a dar el anuncio ustedes saben que yo soy un chico de estudiantes de la plata e hice la promesa de que si estudiantes salia campeon yo iba a hacer cuatro episodios mas estudiantes ya salio campeon se lo dedicamos a todo y entonces yo tengo que hacer cuatro episodios mas
+ref norm:         pero antes de todo eso les voy a volver a poner a mara su no mentira les voy a dar el anuncio ustedes saben que yo soy ya estudiante de la plata e hice la promesa de que si estudiante salia campeon yo iba a hacer cuatro episodios mas bien estudiante ya salio campeon se lo dedicamos a todo y entonces yo tengo que hacer cuatro episodios mas
+
+ ------------------------------------------- 
+
+3.7735849056603774
+line_id 9449044316
+transcript norm:  bueno me comunique con los sponsors y les pregunte si querian hacer cuatro episodios mas y los tres me dijeron que no los que me hatean aca van a decir no pero sabes que sera la semana que viene hatearme porque no lo que me dijeron es no cuatro no sara
+ref norm:         bueno me comunique con los sponsors y les pregunte si querian hacer cuatro episodios mas y los tres me dijeron que no bien los que me hatean aca van a decir ahhh no pero sabes que sera la semana que viene hatearme porque no lo que me dijeron es no cuatro no sara
+
+ ------------------------------------------- 
+
+13.157894736842104
+line_id 9449071199
+transcript norm:  hace 8 asi que bueno arregle con ellos y esta temporada va a tener 8 episodios mas lo cual nos deposita en los 16 que habiamos acordado mas 8 mas si no me equivoco eso te da 24 como 24 es un numero imperfecto quiero llevarlo a 25 el 25 no tengo acordado pero como viene todo yo creo que el episodio 25 lo que si les puedo afirmar que va a ser en vivo bien
+ref norm:         hace ocho asi que bueno arregle con ellos y esta temporada va a tener ocho episodios mas lo cual nos deposita en los dieciseis que habiamos acordado mas ocho mas si no me equivoco eso te da veinticuatro como veinticuatro es un numero imperfecto quiero llevarlo a veinticinco lo veinticinco no tengo acordado pero como viene todo yo creo que el episodio veinticinco lo que si les puedo afirmar que va a ser en vivo bien
+
+ ------------------------------------------- 
+
+11.39240506329114
+line_id 9449054185
+transcript norm:  no se si sera en un canal por stream no se si sera en un teatro no lo se no lo arme todavia voy a estar tengo muchas propuestas de ir a teatro en general digo todo que no por ahora pero algo asi pero el episodio 25 les prometo que va a ser en vivo no se cuando toca seguramente sea despues del dia 180 aparte gracias a los sponsors gracias a medife coco y rokus
+ref norm:         no se si sera en un canal por stream no se si sera en un teatro no lo se no lo arme todavia voy a estar tengo muchas propuestas y a teatro y cosas en general digo todo que no por ahora pero algo asi pero el episodio veinticinco les prometo que va a ser en vivo no se cuando toca seguramente sea despues del dia ciento ochenta aparte gracias a los sponsors regresa a medife cocos y rokus
+
+ ------------------------------------------- 
+
+16.9811320754717
+line_id 9449027686
+transcript norm:  al reves cocos y roku vamos a tener 8 episodios mas vamos a llegar a las 25 horas un episodio en vivo a ver episodio despues del dia 180 que es algo que me estaban pidiendo todos porque no nos daban con los 16 creo que no llegabamos asi que habra habra
+ref norm:         al reves cocos y roku vamos a tener ocho episodios mas vamos a llegar a veinticinco a ver un episodio en vivo a ver episodio despues del dia ciento ochenta que es algo que me estan pidiendo todos porque no nos dan con los dieciseis creo que no llegabamos asi que habra habra
+
+ ------------------------------------------- 
+
+5.555555555555555
+line_id 9449080287
+transcript norm:  voy a hablar bastante del banco central en esta parte del episodio con lo cual tema cosecha solo quiero hacer algun comentario de la mano de lo que estuvimos hablando la semana pasada que yo le decia ojo porque aguas arriba aguas arriba esto es como una cascada las cadenas de valor son como una cascada aguas arriba es menos valor agregado bien como el commodity cuanto mas arriba te vas mas commodity es bien cuanto mas abajo mas industrializado esta vos compras abajo de la cascada digamos
+ref norm:         voy a hablar bastante del banco central en esta parte del episodio con lo cual tema cosecha solo quiero hacer algun comentario de la mano de lo que estuvimos hablando la semana pasada que yo le decia ojo porque agua es arriba agua es arriba esto es como una cascada las cadenas de valor son como una cascada aguas arriba es menos valor agregado bien como el commodity cuanto mas arriba te vas mas commodity es y cuanto mas abajo mas industrializado esta vos compras abajo de la cascada digamos
+
+ ------------------------------------------- 
+
+3.4482758620689653
+line_id 9449069714
+transcript norm:  bueno vos como consumidor final el tipo que tiene una empresa y compra y supo no a lo que voy es aguas arriba estaba empezando a haber un movimiento fuerte de soja desde los productores hacia la industria y los exportadores se acuerdan que en algun momento el dolar soja de masa andaba lento no se liquidaba mucho y
+ref norm:         bueno vos como consumidor final el tipo que tiene una empresa y compras y supo no a lo que voy es aguas arriba estaba empezando a haber un movimiento fuerte de soja desde los productores hacia la industria y los exportadores se acuerdan que en algun momento el dolar soja de masa andaba lento no se liquidaba mucho
+
+ ------------------------------------------- 
+
+6.172839506172839
+line_id 9449077053
+transcript norm:  yo le decia no claro es que aguas arriba los productores no le estan entregando la soja a los industriales por que porque no les estan queriendo pagar mucho entonces el tipo hace la cuenta y dice no vos me tendrias que estar pagando mas que esto que me ofreces en rosario con lo cual yo la soja no te la entrego entonces yo le decia mucho no va a caminar esto hasta que los ojeros no entreguen la soja eh
+ref norm:         yo le decia no claro es que aguas arriba los productores no le estan entregando la soja a los industriales por que porque no les estan queriendo pagar mucho entonces el tipo hace la cuenta y dice no vos me tendrias que estar pagando mas que esto que me ofreces en rosario con lo cual yo la soja no te la entrego entonces yo le decia mucho no va a caminar esto hasta que el ojero no entre en la soja
+
+ ------------------------------------------- 
+
+4.10958904109589
+line_id 9449074049
+transcript norm:  habia como una dinamica en la cadena que no funcionaba hoy la situacion es al reves aguas arriba se ve que los ojeros estan entregando soja cada vez mas fuerte se acelero muchisimo en las ultimas semanas de abril mayo de hecho viene a un ritmo que esta incluso mejor que el promedio de los mayos anteriores bien sacando el de la sequia obviamente que siempre se desga un poco el analisis bien
+ref norm:         y habia como una dinamica en la cadena que no funcionaba hoy la situacion es al reves aguas arriba se ve que los ojeros estan entregando soja cada vez mas fuerte se acelero muchisimo en las ultimas semanas de abril mayo de hecho viene a un ritmo que esta incluso mejor que el promedio de los mayos anteriores bien sacando el de la sequia obviamente que siempre se deja un poco el analisis
+
+ ------------------------------------------- 
+
+0.0
+line_id 9449061711
+transcript norm:  entonces la cosa viene caminando los tipos van entregando soja algo que paso durante esta semana tambien es que el impacto de las inundaciones en brasil jugo fuerte en chicago y empezo a mejorar los precios
+ref norm:         entonces la cosa viene caminando los tipos van entregando soja algo que paso durante esta semana tambien es que el impacto de las inundaciones en brasil jugo fuerte en chicago y empezo a mejorar los precios
+
+ ------------------------------------------- 
+
+5.88235294117647
+line_id 9449065469
+transcript norm:  bien ese fue un ayudin que vino afuera que nadie lo tenia en la cuenta cuando vos miras los margenes teoricos que los calcula la bolsa de comercio de rosario mejoraron muchisimo en este ultimo tiempito y los volumenes que los exportadores entregan estan mejorando semana a semana a niveles muy importantes
+ref norm:         bien eso fue un ayudin que vino afuera que nadie lo tenia en la cuenta cuando vos miras los margenes teoricos que los calcula la bolsa de comercio de rosario mejoraron muchisimo en este ultimo tiempito y los bonumenes que los exportadores entregan estan mejorando semana a semana niveles muy importantes
+
+ ------------------------------------------- 
+
+6.976744186046512
+line_id 9449086730
+transcript norm:  0 sea todavia seguimos muy atrasados esa es la sensacion que deja como viene la cosecha gruesa la cosecha viene a muy buen ritmo pero atrasada se entiende esto 0 sea cuando vos miras la ultima foto la ultima foto de la semana viene muy bien
+ref norm:         0 sea todavia seguimos muy atrasados esa es la sensacion que deja como viene la cosecha gruesa la cosecha viene a muy buen ritmo pero atrasada se entiende esto 0 sea cuando vos miras la ultima foto de la semana viene muy bien
+
+ ------------------------------------------- 
+
+9.230769230769232
+line_id 9449027589
+transcript norm:  claro cuando haces el acumulado del ano todavia seguis muy atras con un ano normal por que y bueno porque los primeros meses fueron muy malos ahora la velocidad de estas ultimas semanas hace que te vayas acercando a una cosecha mas normal a unos niveles de cosecha de venta de expo mas normal si seguis a estos ritmos en un mes se normaliza practicamente
+ref norm:         laro cuando haces el acumulado del ano todavia seguis muy atras con un ano normal por que porque los primeros meses fueron muy malos ahora la velocidad de estas ultimas semanas hace que te vayas acercando a una cosecha mas normal a unos niveles de cosecha de venta de export y todo mas normal si seguis a estos ritmos en un mes se normaliza practicamente
+
+ ------------------------------------------- 
+
+17.80821917808219
+line_id 9449047734
+transcript norm:  volves a un promedio a un promedio de que a un promedio de la cosecha levantada vendida llevada con camiones y embarcada asi que ojo nobleza obliga todavia exportaciones en el mercado de cambio del sector agropecuario no estabamos viendo no a grosso modo porque la verdad que los volumenes siguen estando abajo de 400 palos y un dia sube de arriba de 400 y todo empiezan a agravesar agravesar agravesar y
+ref norm:         volves a un promedio a un promedio de que a un promedio de la cosecha levantada vendida llevada con camiones y embarcada asi que ojo noblesa obliga todavia exportaciones en el mercado de cambio del sector europeo no esta moviendo no a groso modo por la verdad que los volumenes siguen estando bajo de 400 palos y un dia sube de arriba de 400 y todo empiezan las gruesas las gruesas las gruesas
+
+ ------------------------------------------- 
+
+6.756756756756757
+line_id 9449069279
+transcript norm:  otro dia baja a 300 y yo no esta la gruesa de vuelta como decimos siempre aca no es un dia las gruesas son es sistematico de repente empiezan a llover dolares en el mercado y todos los dias la rueda empieza a levantar volumen y se estabiliza en torno a 500 palos por dia eso es un volumen de gruesa 450 por dia eso es un volumen de gruesa pero todos los dias nada un
+ref norm:         y otro dia baja a 300 y no esta la gruesa de vuelta como decimos siempre aca no es un dia las gruesas son es sistematico de repente empiezan a llorar dolares en el mercado y todos los dias la rueda empieza a levantar volumen y se estabiliza en torno a 500 palos por dia eso es un volumen de gruesa 450 por dia eso es un volumen de gruesa pero todos los dias
+
+ ------------------------------------------- 
+
+18.30985915492958
+line_id 9449035029
+transcript norm:  dia 450 y el otro dia 290 bien la pregunta que todos nos hacemos aca bueno esta bien vos me decis la soja esta pasando de mano bueno cuando llega el mercado de cambio de eso bueno no sabemos cuanto sera en algun momento de la cadena alguien puede acopiar tambien eso es verdad en general uno dice acopia al productor con silobolsa bueno eso se esta moviendo
+ref norm:         un dia 450 y el otro dia 290 bien la pregunta que todos nos hacemos aca y digamos bueno esta bien vos me decis las hojas estan pasando de mano bueno cuando llega el mercado de cambio de eso bueno no sabemos cuanto es en algun momento de la cadena alguien puede copiar tambien eso es verdad generalmente uno dice acopia el productor con silo bolsa bueno eso se esta moviendo
+
+ ------------------------------------------- 
+
+7.462686567164178
+line_id 9449072382
+transcript norm:  no se movera todo no van a liquidar el 100% de la cosecha en mayo y junio claramente no no lo hacen ningun ano igual eso asi que no funciona asi pero de alguna manera se empiezan a mover las cantidades asi que algun impacto en el mercado de cambio en las proximas semanas para mi vamos a tener que tener simplemente eso de la cosecha
+ref norm:         no se movera todo no va a aliquiar el 100% de la cosecha en mayo y junio claramente no no lo hacen en ningun ano igual eso asi que no funciona asi pero de alguna manera se empiezan a mover las cantidades asi que algun impacto en el mercado de cambio las proximas semanas para mi vamos a tener que tener bien simplemente eso de la cosecha
+
+ ------------------------------------------- 
+
+0.0
+line_id 9449055468
+transcript norm:  la gran conclusion para mi para sintetizar es que viene atrasada pero a muy buen ritmo esta ladrando jeronimo esa frase le gusto ahi esta ladrando escucha esa frase le gusto como fue que dije esta atrasada pero a buen ritmo soy un fenomeno escucha parezco jose maria soy sensacional
+ref norm:         la gran conclusion para mi para sintetizar es que viene atrasada pero a muy buen ritmo esta ladrando jeronimo esa frase le gusto ahi esta ladrando escucha esa frase le gusto como fue que dije esta atrasada pero a buen ritmo soy un fenomeno escucha parezco jose maria soy sensacional
+
+ ------------------------------------------- 
+
+13.698630136986301
+line_id 9449074187
+transcript norm:  se publico el balance del banco central cerrado auditado y todo el ano pasado pudimos ver un monton de cosas el cambio de gestion tambien hace que los tipos te muestren todo lo que otros no te mostrarian la situacion del balance del banco central es deplorable no hoy sino a diciembre del 2023 para ser justo y honesto lo que heredo el gobierno en materia de balance del banco central fue deplorable
+ref norm:         se publico en balance el banco central cerrado auditado todo el ano pasado pudimos ver un monton de cosas el cambio de gestion tambien hace que los tipos demuestren todo lo que otros no te mostrarian la situacion del balance del banco central es deplorable no y si no a diciembre del 20230 sea para ser justo y honesto lo que heredo el gobierno en materia de balance del banco central fue deplorable
+
+ ------------------------------------------- 
+
+8.620689655172415
+line_id 9449032054
+transcript norm:  a los tipos les da que el banco central perdio 4 billones de pesos el ano pasado en realidad les da eso porque ajustan contablemente la evaluacion de las letras intransferibles y los adelantos transitorios en esa correccion perdes 47 billones de pesos billones de los nuestros no de los americanos millones de millones
+ref norm:         deplorable a los tipos le da que el banco central perdio 4 billones de pesos el ano pasado en realidad les da eso porque ajustan contablemente la evaluacion de las letras intransferibles y los adelantos transitorios en esa correccion perdes 47 billones de pesos billones de los nuestros no de los americanos 0 sea millones de millones bien
+
+ ------------------------------------------- 
+
+12.5
+line_id 9449027964
+transcript norm:  con lo cual si el resultado total del balance te da menos 4 y pico y menos 47 son la correccion de la evaluacion de letras intransferibles y adelantos significa que si no hubieses corregido esto ganaste 30 y pico mil de millones por que corrigen el valor de las letras intransferibles pues las letras intransferibles son eso son letras que no se pueden transferir
+ref norm:         con lo cual si el resultado total del balance te da menos cuatro y pico y menos 47 son la correccion de la evaluacion de letras intransferibles y adelantos significa que si no hubieses corregido esto ganaste 30 y pico de mil de millones bien estamos se ha entendido eso por que corrijen el valor de las letras intransferibles pues las letras intransferibles son eso son letras que no se pueden transferir
+
+ ------------------------------------------- 
+
+13.23529411764706
+line_id 9449013170
+transcript norm:  por eso son intransferibles si se pudiesen transferir se llamarian letras transferibles pero como son intransferibles no se pueden transferir como no se pueden transferir no tienen un valor de mercado entonces vos no sabes a ciencia cierta cuanto mierda valen el papel tiene escrito que valen 100 dolares las letras transferibles son en dolares ahora explico de donde nacen pero digo tienen un valor que dice 100
+ref norm:         por eso son intransferibles si se pudiese transferir se llamarian letras transferibles pero como son intransferibles no se pueden transferir como no se pueden transferir no tienen un valor de mercado entonces uno sabe esa ciencia cierta cuanto mierda vale el papel tiene escrito que vale 100 dolares las letras intransferibles son en dolares me ahora explico de donde nacen pero digo tienen un valor que dice 100
+
+ ------------------------------------------- 
+
+6.172839506172839
+line_id 9449043338
+transcript norm:  ahora lo que dicen estos tipos macri hizo lo mismo es si dicen que vale 100 yo las tengo en el balance evaluadas a 100 pero nunca las voy a cobrar 0 sea que no valen 100 si yo las quiero cobrar hoy cuanto puedo llegar a cobrar entonces lo que hacen es vamos a cambiar la metodologia con la que evaluamos estas letras intransferibles y las vamos a evaluar a un valor de recupero cuanto puedo llegar a recuperar
+ref norm:         ahora lo que dicen estos tipos mas que lo hizo lo mismo es si dicen que vale 100 yo las tengo en el balance valoradas 100 pero nunca las voy a cobrar 0 sea que no valen 100 si yo las quiero cobrar hoy cuanto puedo llegar a cobrar entonces lo que hacen es vamos a cambiar la metodologia con la que evaluamos estas letras intransferibles y las vamos a evaluar a un valor de recupero cuanto puedo llegar a recuperar
+
+ ------------------------------------------- 
+
+3.4482758620689653
+line_id 9449082573
+transcript norm:  bueno a los tipos les da que recuperas un 30% una cosa asi en ese contexto de los miles de millones que vos tenias de letras intransferibles cuando las valuas a valor de recupero perdes 45 45000000000s 45 billones lo digo en castellano para que no se confundan con los billones americanos que son miles de millones nuestros 45 billones de pesos y eso lo refleja en el balance y por eso les da un deterioro del balance muy fuerte esto es algo estrictamente contable
+ref norm:         y bueno a los tipos le da que recuperas un 30% una cosa asi en ese contexto de los miles de millones que vos tenias de letras intransferibles cuando las valuas a valor de recupero perdes 45 mil 45000000000s 45 billones lo digo en castellano para que no se confundan con los billones americanos que son miles de millones nuestros 45 billones de pesos y eso lo refleja en el balance y por eso les da un deterioro del balance muy fuerte esto es algo estrictamente contable
+
+ ------------------------------------------- 
+
+11.940298507462686
+line_id 9449013541
+transcript norm:  la metodologia es discutible para mi si vos la queres evaluar a valor tecnico tenes un punto si vos la queres evaluar a valor recupero tambien tenes un punto ninguna de las dos me alarma es verdad que si el 100% del activo del banco central son letras intransferibles ahi si me preocupa pero no es el caso es un stock grande no
+ref norm:         bien la metodologia es discutible para mi si vos la queres valor a valor tecnico tenes un punto si vos la queres valor a valor recupero tambien tenes un punto ninguna de las dos me alarma es verdad que si el 100% del activo del banco central son letras intransferibles ahi si me preocupa pero no es el caso no es el caso es un stock grande
+
+ ------------------------------------------- 
+
+5.333333333333334
+line_id 9449013881
+transcript norm:  es un stock grande lo mas sensato y lo mas honesto y lo mas real en terminos de valor es evaluarlas a valor de recupero eso esta claro por eso cuando el propio gobierno de milley decia vamos a agarrar las letras intransferibles las vamos a vender en el mercado todos le deciamos miras que no valen 100 probablemente valgan bastante menos que eso no en todos los ejercicios estaban valuadas a 100 igual
+ref norm:         es un stock grande lo mas sensato y lo mas honesto y lo mas real en terminos de valor es valuarlas a valor de recupero eso esta claro por eso cuando el propio gobierno de milei decia vamos a agarrar las letras intransferibles las vamos a vender en el mercado todos le deciamos mira que no valen 100 que probablemente valgan bastante menos que eso no en todos los ejercicios estaban valuadas a 100 igual
+
+ ------------------------------------------- 
+
+5.88235294117647
+line_id 9449039582
+transcript norm:  pero digo lo que le deciamos ojo porque no tiene tanto valor y la verdad es que literal los tipos le cambiaron la evaluacion y desaparecio el 70% del valor de las letras bien de donde salen estas letras intransferibles las letras intransferibles las emite el tesoro y son letras que estan valuadas en dolares y devengan la tasa de interes que rinden las reservas internacionales bien
+ref norm:         pero digo lo que le deciamos es ojo pues no tiene tanto valor y la verdad es que literal los tipos le cambiaron la evaluacion y desaparecio el 70% de valor de las letras bien de donde salen estas letras intransferibles las letras intransferibles las emite el tesoro y son letras que estan valuadas en dolares y debengan la tasa de interes que rinden las reservas internacionales bien
+
+ ------------------------------------------- 
+
+6.172839506172839
+line_id 9449053893
+transcript norm:  estas letras son producto de que quien se endeuda siempre en el exterior en dolares es el tesoro y quien tiene los dolares en sus arcas es el banco central vieron que nosotros decimos todo el tiempo el tesoro coloca deuda vieron que caputo coloca deuda siempre coloca deuda coloca deuda caputo que es el presidente del banco central 0 el ministro de economia el ministro de economia entonces la deuda que coloca caputo de quien es del tesoro 0 del banco central del tesoro
+ref norm:         estas letras son producto de que quien se endeuda siempre en el exterior en dolares es el tesoro y quien tiene los dolares en sus arcas es el banco central vieron que nosotros decimos todo el tiempo el tesoro coloca deuda vieron que caputo coloca deuda siempre coloca deuda coloca deuda caputo que es el presidente del banco central 0 el ministro de economia entonces la deuda que coloca caputo de quien es del tesoro 0 del banco central el tesoro
+
+ ------------------------------------------- 
+
+10.666666666666668
+line_id 9449039701
+transcript norm:  cuando caputo emite deuda en dolares esa deuda en algun momento hay que arparla cuando viene el vencimiento vos podes rolear la deuda colocar otra deuda y patear para adelante 0 vos pagar en efectivo durante el kirchnerismo muchas veces se pagaba en efectivo pero claro el tesoro que es el que emite esa deuda y tiene que pagar en efectivo no tiene dolares de hecho en su cuenta a duras penas tiene pesos a veces bien
+ref norm:         cuando caputo emite deuda en dolares esa deuda en el momento de que arparda bien cuando viene el vencimiento podes rolear la deuda colocar otra deuda y patear para adelante 0 pagar en efectivo durante el quinerismo muchas veces se pagaba en efectivo pero claro el tesoro que es el que emite esa deuda y tiene que pagar en efectivo no tiene dolares de hecho en su cuenta a duras penas tiene pesos a veces
+
+ ------------------------------------------- 
+
+9.25925925925926
+line_id 9449019616
+transcript norm:  entonces como hace para hacerse de dolares bueno quien es el que tiene dolares del sector publico el banco central cuando nosotros decimos el banco central compro 260 millones compro hoy justamente esos dolares a donde van al tesoro no al banco central quien es el que esta comprando el banco central como compra con emision
+ref norm:         entonces como hace para hacerse de dolares bueno quien es el que tiene dolares del sector publico cuando nosotros decimos que el banco central compro 260 millones compro hoy justamente esos dolares a donde van al tesoro no al banco central quien es el que esta comprando al banco central como compra con emision
+
+ ------------------------------------------- 
+
+3.389830508474576
+line_id 9449088787
+transcript norm:  entonces cuando el tesoro tiene que pagar deuda en dolares no tiene la posibilidad de renovar esa deuda porque no tiene acceso a los mercados de credito tiene que conseguir dolares de donde consigue los dolares se los pide al banco central al banco central por una cuestion contable vos no le podes sacar los dolares y no darle nada
+ref norm:         entonces cuando el tesoro tiene que pagar deuda en dolares no tiene la posibilidad de renovar esa deuda porque no tiene acceso a los mercados de credito tiene que conseguir dolares de donde consigue los dolares se los pide al banco central al banco central por una cuestion contable bueno le podes sacar los dolares y no darle nada
+
+ ------------------------------------------- 
+
+12.280701754385964
+line_id 9449090175
+transcript norm:  algo le tenes que dar podes conseguir pesos y darle pesos es algo que ha hecho este gobierno de mi ley alguna vez 0 podes colocarle vos deuda al banco central bueno en vez de colocarle a l 30 le colocan una letra que es intransferible le sacan los dolares y con eso pagan el endeudamiento externo
+ref norm:         algo le tenes que dar podes conseguir pesos y darle pesos esa es lo que ha hecho este gobierno de milei alguna vez 0 podes colocarle vos deuda al banco central bueno en vez de colocarle al 30 le colocan una letra que es intransferible le sacan los dolares y con eso pagan el endeudamiento externo bien
+
+ ------------------------------------------- 
+
+7.2727272727272725
+line_id 9449021660
+transcript norm:  alguno podra decir las letras intransferibles son la otra cara del proceso de desendeudamiento que hubo durante el kirchnerismo el proceso de desendeudamiento hubo durante el kirchnerismo por lo menos en dolares con acreedores extranjeros eso si sucedio con el sector privado en general hubo mucho cambio de acreedor privado por publico bien
+ref norm:         algunos podran decir las letras intransferibles son la otra cara del proceso de desendeudamiento que hubo durante el kirchnerismo bien el proceso de desendeudamiento hubo durante el kirchnerismo por lo menos en dolares con acreedores extranjeros eso si sucedio 0 con el sector privado en general hubo mucho cambio de acreedor privado por publico bien
+
+ ------------------------------------------- 
+
+3.571428571428571
+line_id 9449071034
+transcript norm:  y mucho cambio de deuda a dolares por pesos bien medido porque ahi influye mucho el tipo de cambio y demas por eso el banco central acumula un monton de letras intransferibles este gobierno lo que ha ido haciendo es renovando en general las letras intransferibles cuando vencen se le coloca otra letra intransferible
+ref norm:         y mucho cambio de deuda a dolares por pesos bien medido porque ahi influye mucho el tipo de cambio y demas por eso el banco central acumula un monton de letras intransferibles si este gobierno lo que ha ido haciendo es renovando en general las letras intransferibles porque cuando vencen se le coloca otra letra intransferible
+
+ ------------------------------------------- 
+
+1.2658227848101267
+line_id 9449097866
+transcript norm:  por eso el propio gobierno dice abiertamente como yo se que esto se va roleando todo el tiempo no lo voy a cobrar nunca por eso no lo puedo evaluar al 100 y por eso hace este cambio de evaluacion no los quiero aburrir mas con el balance del banco central solo quiero atenerme a una cosa mas que es importante el resultado cuasi fiscal producto de los intereses que cobra y que gana el banco central fue negativo
+ref norm:         por eso el propio gobierno dice abiertamente como yo se que esto se va realeando todo el tiempo no lo voy a cobrar nunca por eso no lo puedo evaluar al 100 y por eso hace este cambio de evaluacion no los quiero aburrir mas con el balance del banco central solo quiero atenerme a una cosa mas que es importante el resultado cuasi fiscal producto de los intereses que cobra y que gana el banco central fue negativo
+
+ ------------------------------------------- 
+
+5.555555555555555
+line_id 9449077698
+transcript norm:  de hecho el resultado operativo del banco central da positivo basicamente por la devaluacion la devaluacion siempre termina contablemente beneficiando al banco central porque el activo tiene mas activos dolarizados que pasivos los principales pasivos del central siempre estan en pesos los principales activos del central siempre estan en dolares por lo menos nominados porque las letras intrafederales no son dolares pero estan nominadas en dolares vos devaluas suben de precio
+ref norm:         de hecho el resultado operativo del banco central da positivo basicamente por la devaluacion la devaluacion siempre termina contablemente beneficiando al banco central porque en el activo tiene mas activos dolarizados que pasivos los principales pasivos del central siempre estan en peso los principales activos del central siempre estan en dolares por lo menos nominados porque las letras intrafledibles no son dolares pero estan nominadas en dolares vos devaluado suben de precio
+
+ ------------------------------------------- 
+
+8.571428571428571
+line_id 9449027339
+transcript norm:  aca le sacaste paridad 0 sea que el efecto se netea pero en concreto ganaste 7 billones de intereses pagaste 28 18 mas 9 son las revaluaciones por la devaluacion 0 sea que el resultado operativo te da 7 arriba despues viene el ajuste monetario que es el ajuste por inflacion de los balances y quedaste menos 4 abajo que eso es lo que arrancamos diciendo
+ref norm:         aca le sacaste paridad 0 sea que el efecto se netea pero en concreto pagaste 0 sea ganaste 7 billones de intereses pagaste 28 18 mas 9 son las revaluaciones por la devaluacion 0 sea que el resultado operativo te da 7 arriba despues viene el ajuste monetario que es el ajuste por inflacion de lo balance y quedaste menos 4 abajo que eso es lo que arrancamos diciendo bien
+
+ ------------------------------------------- 
+
+4.3478260869565215
+line_id 9449063538
+transcript norm:  pero en concreto hay mucho de contable en todo esto mas alla de lo contable hay datos que son bastante espeluznantes de como llegamos al 31 de diciembre en realidad como llegamos al 10 de diciembre porque ahi la verdad desde el 13 que se hace la evaluacion y se empiezan a acumular reservas algunas cuestiones cambiaron pero digo hay tres datos que son espeluznantes y que son parte de lo que yo les venia diciendo a todos hay muchos que se enojan conmigo porque no digo lo que quieren escuchar eh
+ref norm:         pero en concreto hay mucho de contable en todo esto mas alla de lo contable hay datos que son bastante espeluznantes de como llegamos al 31 de diciembre en realidad como llegamos al 10 de diciembre porque de ahi la verdad desde el 13 que se hace la devaluacion y se empiezan a acumular reservar algunas cuestiones cambiaron pero digo hay tres datos que son espeluznantes y que son parte de lo que yo les venia diciendo a todos hay muchos que se enojan conmigo porque no digo lo que quieren escuchar
+
+ ------------------------------------------- 
+
+13.333333333333334
+line_id 9449036086
+transcript norm:  sobre todo no se peronistas mas kirchneristas muy cabeza de termo 0 peronistas muy intenso boludos en general boludos se enojan porque un de un lado 0 del otro en realidad los que se enojan conmigo siempre son boludos no hay nadie irracional que se enoje conmigo .
+ref norm:         sobre todo no se peronistas mas quineristas muy cabeza de termo 0 peronistas muy intensos boludos en general boludos se enojan porque de un lado del otro en realidad los que se enojan conmigo siempre son boludos no hay nadie racional que se enoje conmigo
+
+ ------------------------------------------- 
+
+11.538461538461538
+line_id 9449039213
+transcript norm:  mas alla de que si hay gente racional que no coincida con mis analisis 0 puede ser pero el que se enoja es boludo porque de izquierda de derecha libertario kirchnerista yo doy datos si no te gustan los datos bueno te estas enojado con los datos que queres que haga
+ref norm:         mas alla de que si hay gente racional que no comiencea con mis analisis que puede ser pero el que se enoja es boludo porque de izquierda de derecha libertario quinierista yo te doy datos y no te gustan los datos bueno te estas enojado con los datos que quieres que haga
+
+ ------------------------------------------- 
+
+2.941176470588235
+line_id 9449070191
+transcript norm:  ahora yo lo que les decia a los boludos para que se enojaban conmigo en este caso los boludos del otro lado de la grieta 0 sea los mios mis boludos lo que yo les trataba de explicar es es falso que se podia seguir con los niveles de vida que teniamos porque eso iba a terminar necesariamente en un ajuste peor que el que esta haciendo milley
+ref norm:         ahora yo lo que les decia a los boludos para que se enojan conmigo en este caso los boludos del otro lado de la grieta 0 sea los mios mis boludos lo que yo les trataba de explicar es es falso que se podia seguir con los niveles de vida que teniamos porque eso iba a terminar necesariamente en un ajuste peor que el que esta haciendo milei
+
+ ------------------------------------------- 
+
+6.557377049180328
+line_id 9449051323
+transcript norm:  entonces no me digan que no habia que hacer un ajuste el ajuste lo ibamos a hacer nosotros si ganabamos ganaron ellos 0 lo estan haciendo ellos es falso que se podia seguir como estabamos porque como estabamos la terminabamos poniendo y terminabamos peor que si no hubiesemos hecho un ajuste peor que si no hubiese venido mi ley incluso te digo
+ref norm:         entonces no me digan que no habia que hacer un ajuste el ajuste lo ibamos a hacer nosotros si ganabamos ganabamos ellos 0 la estan haciendo ellos es falso que se podia seguir como estabamos porque como estabamos la terminabamos poniendo y terminabamos peor que si no hubiesemos hecho un ajuste peor que si no hubiese venido milei incluso te digo
+
+ ------------------------------------------- 
+
+1.7857142857142856
+line_id 9449067403
+transcript norm:  y aca te voy a dar tres datos que te van a dar la pauta de por que yo decia ese tipo de cosas el primer dato es sabes cuantos billetes tenia el banco central en efectivo para abastecer el canje de las sucursales de los bancos 320 millones le quedaban al ultimo dia de diciembre pense
+ref norm:         y aca te voy a dar tres datos que te van a dar la pauta de por que yo decia ese tipo de cosas el primer dato es sabes cuantos billetes tenia el banco central en efectivo para abastecer el canje de las sucursales de los bancos 320 millones le quedaban al ultimo dia de diciembre
+
+ ------------------------------------------- 
+
+9.090909090909092
+line_id 9449013228
+transcript norm:  pensa que entre el 13 y el 31 recupero bastante mi ley 320 millones que a como venia el canje son 3 dias de canje es decir que en 3 dias mas el banco central se podia quedar sin billetes en efectivo para mandar a las sucursales 3 dias boludo 3 dias de canje y vos te enojas porque yo digo que hay que hacer un ajuste
+ref norm:         pensa que entre el 13 y el 31 recupero bastante milei 320 millones que a como venia el canje son tres dias de canje es decir que en tres dias mas el banco central se podia quedar sin billetes en efectivo para mandar a las sucursales tres dias boludo tres dias de canje y vos te enojas porque yo digo que hay que hacer un ajuste
+
+ ------------------------------------------- 
+
+13.559322033898304
+line_id 9449068256
+transcript norm:  tres dias papa y se quedaban con tu deposito no iba a pasar eso papa porque los bancos tenian un colchon de la puta madre los bancos son mas vivos que vos y que yo juntos por que porque si hicieron todo el colchon tenian 5 6 para un efectivo en la sucursal ya para abastecer a todo el mundo
+ref norm:         tres dias papa y se quedaban con tu deposito no iba a pasar eso igual porque los bancos tenian un colchon de la puta madre los bancos son mas vivos que vos y que yo juntos por que pues si hicieron todo el colchon tenian 5000 6000 palos en efectivo en la sucursaleya para abastecer a todo el mundo
+
+ ------------------------------------------- 
+
+30.48780487804878
+line_id 9449045876
+transcript norm:  tendriamos que haber hecho ibamos a hacer una ingenieria y no iba a pasar nada pero ya el guion que estabamos viendo no 320 para un efectivo que daban amigo el canje en el mayo venia 150 palos por dia 60 palos por dia 65 10 15 dias que es cuanto que te doy un mes mira el guion el que nos esta cometiendo no va a pasar nada porque es porque mas iba a ser una evaluacion
+ref norm:         tendriamos que haber hecho ibamos a hacer una ingenieria y no iba a pasar nada pero mira el lio en el que estabamos metiendo no 320 palos en efectivo quedaban amigo el canje en el mago venia a 150 palos por dia 60 palos por dia 60 5 10 15 dias queres cuanto queres te doy un mes mira el lio en el que nos estabamos metiendo no iba a pasar nada por que porque mas se iba a hacer una evaluacion
+
+ ------------------------------------------- 
+
+8.235294117647058
+line_id 9449035911
+transcript norm:  iba a ser un ajuste fiscal iba a solucionar esto pero vos fijate si seguiamos como estabamos 320 palos amigo en un mes te quedabas 100 dolares en efectivo en el central te pedia un canje a un banco y le tenias que decir que no empezabamos a cerrar sucursales eh se puede extraer dolares solo los viernes a las 3 de la tarde el swap el primer tramo los 35 billones de yuanes utilizado al 100% hay que devolverlo todo ahora entre junio y julio
+ref norm:         iba a hacer una justa fiscal iba a solucionar esto pero vos fijaste si seguiamos como estabamos 320 palos amigo en un mes te quedabas sin dolares en efectivo en el central te pedia un canje a un banco y le tenias que decir que no empezabamos a cerrar sucursales eh se puede extraer dolares solo los viernes a las 3 de la tarde el swap el primer tramo los 35000000000 de yuanes utilizado al 100% hay que devolverlo todo ahora entre junio y julio
+
+ ------------------------------------------- 
+
+14.473684210526317
+line_id 9449041155
+transcript norm:  0 sea se quemaron el swap todo lo que teniamos habilitado quemado no quedaba nada ya esta los ultimos dias de la rueda claro cuando nosotros veiamos en el mai lo que se operaba del swap casi nada pero habian quemado todo los 35 billones de yuanes se fumaron amigo hay que devorlo todo en dos meses entre junio y julio son 5 palos boludo 4.840 millones de dolares a pagar entre junio y julio
+ref norm:         0 sea se quemaron el swap todo lo que teniamos habilitado quemado no quedaba nada ya esta los ultimos dias de la rueda claro cuando nosotros viviamos en el mar y lo que se operaba el swap casi nada pues lo habian quemado todo los 35000000000 de yuanes se fumaron amigo hay que devolverlo todo en dos meses entre junio y julio son 5000 palos boludo 4840 millones de dolares a pagar entre junio y julio
+
+ ------------------------------------------- 
+
+6.521739130434782
+line_id 9449072989
+transcript norm:  los al 30 para intervenir en el mercado de cambios no quedo nada boludo 300 millones de nominales nos quedaron nada nada teniamos 4.500 palos al empezar el ano y no quedo nada ya no teniamos ni papeles para intervenir en el contado con liquidacion eso teniamos
+ref norm:         los al 30 para intervenir en el mercado de cambios no quedo nada boludo 300 millones de nominales lo quedaron nada nada teniamos 4500 palos al empezar el ano y no quedo nada ya no teniamos ni papeles para intervenir el contado con liquidacion eso teniamos
+
+ ------------------------------------------- 
+
+4.3478260869565215
+line_id 9449030774
+transcript norm:  y vos te enojas conmigo porque yo te digo que ahi iba a hacer correcciones que mas iba a hacer el mismo ajuste que mas iba a devaluar mira lo que es esto vos por ahi no lo entendes porque no tomas magnitud de lo que te estoy hablando pero es gravisimo porque vos tenias al banco central recontra en menos 15 donde esta menos 11 de reservas netas quemado el swap casi sin billetes y ya sin al 300 sea ya sin poder intervenir en los mercados paralelos esto es un desastre amigo
+ref norm:         y vos te enojas conmigo porque yo te digo que iba a hacer correcciones que mas iba a hacer el mismo ajuste que mas iba a devaluar mira lo que es esto vos por ahi no lo entendes porque no tomas magnitud de lo que te estoy hablando pero es gravisimo porque vos tenias al banco central recontra menos 15 estabamos en menos 11 de reservas netas quemado el swap casi sin billetes y ya sin al 300 sea ya sin poder intervenir en los mercados paralelos esto es un desastre amigo
+
+ ------------------------------------------- 
+
+15.254237288135593
+line_id 9449048161
+transcript norm:  esto es un desastre tres meses mas asi y terminabamos en un corralito y en una hiperinflacion y vos te enojas porque yo digo que hay que hacer un ajuste no vos sos un boludo esa es la unica realidad esa es la unica realidad el fmi saco un comunicado vieron que mi ley un poco mea el fondo tambien
+ref norm:         esto es un desastre tres meses mas asi y terminabamos en un corralito de hiperinflacion y vos te enojas porque yo digo que hay que hacer un ajuste no vos sos un boludo esa es la unica realidad esa es la unica realidad el fondo monetario internacional saco un comunicado vieron que milei un poco mea al fondo tambien
+
+ ------------------------------------------- 
+
+11.475409836065573
+line_id 9449094522
+transcript norm:   que dice lo que piden ellos es poco yo voy por mas dice honestamente va por mas de hecho sobrecumplio todas las metas hizo un ajuste mucho mas grande que le esta pidiendo el fondo hizo un ajuste mucho mas grande del que todos los analistas pediamos hizo un ajuste mucho mas grande del que la sociedad en principio iba a tolerar .
+ref norm:         le dice lo que piden ellos es poco yo voy por mas honestamente va por mas de hecho sobrecumplio todas las metas hizo un ajuste mucho mas grande que el que le esta pidiendo el fondo hizo un ajuste mucho mas grande que todos los analistas pediamos hizo un ajuste mucho mas grande que la sociedad en principio iba a tolerar
+
+ ------------------------------------------- 
+
+7.352941176470589
+line_id 9449051764
+transcript norm:  la socialidad igual como que lo tolera pero el tipo se fue de rosca de vuelta nadie le pedia un superavit financiero basicamente porque si el gobierno muestra compromiso fiscal con su superavit primario y alcanza porque la deuda te la van a permitir rolear el sector privado te va a volver a prestar el tipo va por superavit financiero bueno 0 por lo menos equilibrio financiero
+ref norm:         no seria igual como que lo tolera pero el tipo se fue de rosca de vuelta nadie le pedia un superavit financiero basicamente porque si el gobierno muestra compromiso fiscal con superavit primario y alcanza porque la deuda te la van a permitir rolear y en el sector privado te va a volver a prestar el tipo va por superavit financiero bueno 0 por lo menos equilibrio financiero
+
+ ------------------------------------------- 
+
+8.450704225352112
+line_id 9449047655
+transcript norm:  a un superavit primario igual a los pagos de intereses tiene mucho de contable esa medicion los canjes afectan la ecuacion porque obviamente lo que devenga interes no lo contas lo que tenes que pagar de intereses si entonces si vos haces un canje de deuda y pateas vencimiento para adelante ahi estas reduciendo el pago de intereses futuro bueno en fin se pone tecnico pero no importa
+ref norm:         0 sea un superavit primario igual a los pagos de intereses tiene mucho de contable esa medicion los canjes afectan la ecuacion porque obviamente lo que deben a interes no lo contas lo que tenes que pagar de interes es si entonces si vos haces un canje de deuda y pateas vencimiento para adelante ahi estas reduciendo el pago de intereses futuro bueno en fin se pone tecnico pero no importa
+
+ ------------------------------------------- 
+
+5.555555555555555
+line_id 9449012232
+transcript norm:  es necesario que continuen realizandose esfuerzos para mejorar la calidad y la equidad de la consolidacion fiscal eso le dice el fondo a mi ley negro esto asi no va mas yo te entiendo lo de la licuadora yo te entiendo lo de la bicicleta el freezer ahi le pusieron varios nombres todos me parecen que estan buenos que tendrian que pagar la camisa yo te lo entiendo un par de meses pero digo llego la hora de mejorar la calidad de todo esto ley base es mejorar la calidad
+ref norm:         es necesario que continuen realizandose esfuerzos para mejorar la calidad y la equidad de la consolidacion fiscal eso le dice el fondo a milei negro esto asi no va mas yo te entiendo lo de la licuadora yo te entiendo lo de la bicicleta el freezer ahi le pusieron varios nombres todos me parecen que estan buenos que tienen que pagar la camisa yo te lo entiendo un par de meses pero digo llego la hora de mejorar la calidad de todo esto ley base se es mejorar de calidad
+
+ ------------------------------------------- 
+
+5.952380952380952
+line_id 9449039726
+transcript norm:  y despues la equidad fijate como haces para porque esto va a explotar socialmente si no entonces este ajuste lo tenes que hacer mas sostenible para mi si le metes una pata por el lado de los ingresos el ajuste se hace un poquito mas sostenible que es un poco la apuesta de la ley bases donde misteriosamente la buena parte de las criticas que observe en redes sociales es sobre la restitucion del impuesto a las ganancias a la cuarta categoria
+ref norm:         y despues la equidad 0 sea fijate como se espara porque esto va a explotar socialmente si no entonces este ajuste lo tenes que hacer mas sostenible para mi si le metes una pata por el lado de los ingresos el ajuste se hace un poquito mas sostenible que es un poco la apuesta de la ley base donde misteriosamente la buena parte de las criticas que observe en redes sociales es sobre la restitucion del impuesto a las ganancias a la cuarta categoria
+
+ ------------------------------------------- 
+
+1.25
+line_id 9449049839
+transcript norm:  algo que es gracioso porque no hay mejor impuesto que ese en la economia argentina mas alla de que al que lo paga le molesta mas cuando te lo acaban de sacar y poco se habla de la baja de bienes personales que es abiertamente un escandalo por lo menos en este ano que vos me decis que estamos en emergencia economica pero bueno cada uno critica lo que puede 0 lo que quiere que se yo no se nada
+ref norm:         algo que es gracioso porque no hay mejor impuesto que es en la economia argentina mas alla de que al que lo paga le molesta mas cuando te lo acaban de sacar y poco se habla de la baja de bienes personales que es abiertamente un escandalo por lo menos en este ano que vos me decis que estamos en emergencia economica pero bueno cada uno critica lo que puede 0 lo que quiere que se yo no se nada
+
+ ------------------------------------------- 
+
+11.76470588235294
+line_id 9449011068
+transcript norm:  dice el fondo monetario que la octava revision esta pasada esta sobrecumplida todas las metas se sobrecumplieron y bueno si uno mira rapido la ultima revision el cuadro de metas que le piden de criterio de ejecucion cosas que te traen un desembozo esta el tema del superavit fiscal el
+ref norm:         dice el fondo monetario que la octava revision esta pasada esta sobre cumplida todas las metas se sobre cumplieron y bueno si uno mira rapido la ultima revision el cuadro de metas que le piden de criterio de ejecucion cosas que te tragan un desembozo esta el tema del superavit fiscal
+
+ ------------------------------------------- 
+
+26.923076923076923
+line_id 9449041868
+transcript norm:  el fondo pedia menos de un billon de pesos de superavit acumulado hasta marzo van 4 billones 0 sea que se recontrarrepasaron en el techo de la deuda flotante que estaba en torno a 5 billones la meta va 2 billones con lo cual tambien se recontrasubricumplieron
+ref norm:         el fondo pedia menos de un billon de peso de superavit acumulado hasta marzo van cuatro billones ya que se recontra repasaron en el techo de la deuda flotante que estaba en torno a cinco billones la meta va un billon perdon dos billones con lo cual tambien se recontra sobre cumplieron
+
+ ------------------------------------------- 
+
+24.074074074074073
+line_id 9449068038
+transcript norm:  y la acumulacion de reservas que le pedi acumular 6 desde el ultimo trimestre de diciembre de 2023 creo que va en 8 y pico segun como la mia el fondo porque ahi evaluan el dei distinto asi que tambien sobrecumplieron es verdad sobrecumplieron todas las metas sobrecumplieron todas las metas
+ref norm:         y la acumulacion de reservas que le pedia acumular seis desde el ultimo trimestre desde diciembre de 2023 creo que va en ocho y pico segun como la mia del fondo porque ahi valuan el dec distinto asi que tambien sobre cumplieron es verdad sobre cumplieron todas las metas sobre cumplieron todas las metas
+
+ ------------------------------------------- 
+
+10.465116279069768
+line_id 9449070288
+transcript norm:  bien 0 sea mi ley esta yendo mucho mas rapido de lo que le pedi al fondo por lo menos en este primer trimestre porque ahora empieza a aflorar la idea de que tal vez se haya hecho esto para flexibilizar un poco el ajuste en la segunda parte del ano puede ser bien para que te compensen los numeros tambien es verdad que el deficit estacionalmente lo tenes mas en la segunda parte del ano que en la primera esa es la parte facil tenes la gruesa aparte
+ref norm:         bien ya milei esta yendo mucho mas rapido de lo que le pedia al fondo por lo menos en este primer trimestre porque ahora empieza a florar la idea de que tal vez se haya hecho esto para flexibilizar un poco el ajuste en la segunda parte del ano puede ser para que te compensen los numeros tambien es verdad que el deficit estacionalmente lo tenes mas en la segunda parte del ano que en la primera esa es la parte facil tenia la gruesa parte
+
+ ------------------------------------------- 
+
+4.6875
+line_id 9449023907
+transcript norm:  que todavia no aparecio pero que en cuanto aparezca definitivamente va a cambiar los numeros de recaudacion por el lado del comex que no esta alcanzando a recuperar lo que se empieza en la actividad pero dicen algo raro escuchen este parrafo politica monetaria cambiaria me anoto entonces el fondo dice la prioridad sigue siendo afianzar el proceso de desinflacion se enamoraron de eso
+ref norm:         que todavia no aparecio pero que en cuanto aparezca definitivamente va a cambiar los numeros de recaudacion por el lado del comics que no esta alcanzando a recuperar lo que se pierde en la actividad pero dicen algo raro escuchen este parafo politica monetaria cambiaria me anoto entonces el fondo dice la prioridad sigue siendo afianzar el proceso de desinflacion se enamoraron de eso
+
+ ------------------------------------------- 
+
+7.142857142857142
+line_id 9449095921
+transcript norm:  todo el mundo repite la frase del sar fijamos agenda aca lo escuchaba broda el otro dia somos una cosa de locos y fortalecimiento de las reservas internacionales y el balance del banco central escuche esto en la transicion hacia un nuevo regimen monetario abre parentesis que involucra la competencia de monedas es raro esto
+ref norm:         todo el mundo repite la frase del sar fijamos agenda aca lo escuchaba broda el otro dia somos una cosa ahi loco y fortalecimiento de las reservas internacionales y el balance del banco central y escuchen esto en la transicion hacia un nuevo regimen monetario abre parentesis que involucra la competencia de monedas es raro esto
+
+ ------------------------------------------- 
+
+0.0
+line_id 9449048901
+transcript norm:  la politica monetaria evolucionara para seguir anclando las expectativas de inflacion y la politica cambiaria se hara mas flexible al tiempo que se seguiran reduciendo las restricciones y controles cambiarios a medida que las condiciones lo permitan la politica cambiaria se hara mas flexible
+ref norm:         la politica monetaria evolucionara para seguir anclando las expectativas de inflacion y la politica cambiaria se hara mas flexible al tiempo que se seguiran reduciendo las restricciones y controles cambiarios a medida que las condiciones lo permitan la politica cambiaria se hara mas flexible
+
+ ------------------------------------------- 
+
+0.0
+line_id 6000986623
+transcript norm:  amigos amigas el placer de siempre de reencontrarnos en este espacio para hablar de seleccion argentina es como que pasaron muchas cosas de la ultima vez que tuvimos este rato mano a mano de seleccion argentina
+ref norm:         amigos amigas el placer de siempre de reencontrarnos en este espacio para hablar de seleccion argentina es como que pasaron muchas cosas de la ultima vez que tuvimos este rato mano a mano de seleccion argentina
+
+ ------------------------------------------- 
+
+0.0
+line_id 6000939188
+transcript norm:  ya empezo a rodar la pelota y en esta ocasion no fue con sufrimiento porque veniamos de una copa america 2019 donde argentina perdio con colombia 2 a 0 una copa america 2021 donde argentina empata con chile y un mundial de qatar donde argentina pierde con arabia saudita ahora la historia fue positiva ahora ya estamos tranquilos
+ref norm:         ya empezo a rodar la pelota y en esta ocasion no fue con sufrimiento porque veniamos de una copa america 2019 donde argentina perdio con colombia 2 a 0 una copa america 2021 donde argentina empata con chile y un mundial de qatar donde argentina pierde con arabia saudita ahora la historia fue positiva ahora ya estamos tranquilos
+
+ ------------------------------------------- 
+
+0.0
+line_id 6000954008
+transcript norm:  si tenemos que ver ahora con esta perspectiva daba la sensacion que habia cierto dejo de formacion de terminar de equilibrar el equipo en aquel momento y ya despues de esa final siento que argentina empieza a jugar bien al futbol ya argentina ahi empezo a ser muy superior a los rivales encontrando funcionamientos muy buenos
+ref norm:         si tenemos que ver ahora con esta perspectiva daba la sensacion que habia cierto dejo de formacion de terminar de equilibrar el equipo en aquel momento y ya despues de esa final siento que argentina empieza a jugar bien al futbol ya argentina ahi empezo a ser muy superior a los rivales encontrando funcionamientos muy buenos
+
+ ------------------------------------------- 
+
+1.8518518518518516
+line_id 6000983851
+transcript norm:  y si si vas al final de la competencia vas a encontrar que hay jugadores de relleno pero no son de relleno hasta que no termina la competencia porque no sabes en que momento lo vas a utilizar y en aquel mundial 2022 tranquilamente alguien podia decir enzo fernandez era un convocado de relleno
+ref norm:         y si si vas al final de la competencia vas a encontrar que hay jugadores de relleno pero no son de relleno hasta que no termina la competencia porque no sabes en que momento lo vas a utilizar y en aquel mundial 2022 tranquilamente alguien podria decir enzo fernandez era un convocado de relleno
+
+ ------------------------------------------- 
+
+7.017543859649122
+line_id 6000977698
+transcript norm:  me animo a decir que si la lista era de 23 como fue siempre posiblemente enzo fernandez quedaba fuera de esa convocatoria porque fue uno de los ultimos en sumarse a la seleccion argentina fue en septiembre de ese ano estaba dando sus primeros pasos en europa y bueno despues todo lo que vimos
+ref norm:         me animo a decir que si la lista eran de 26 de 23 perdon como fue siempre posiblemente enzo fernandez quedaba fuera de esa convocatoria porque fue uno de los ultimos en sumarse a la seleccion argentina fue en septiembre de ese ano estaba dando sus primeros pasos en europa y bueno despues todo lo que vimos
+
+ ------------------------------------------- 
+
+0.0
+line_id 6000913844
+transcript norm:  en la que messi no jugo porque tenia alguna sobrecarga barra molestia y por eso diego entrenador de aquella seleccion lo guardo apareciendo argentina con un maxi rodriguez tremendo un di maria que tambien hace un golazo
+ref norm:         en la que messi no jugo porque tenia alguna sobrecarga barra molestia y por eso diego entrenador de aquella seleccion lo guardo apareciendo argentina con un maxi rodriguez tremendo un di maria que tambien hace un golazo
+
+ ------------------------------------------- 
+
+4.761904761904762
+line_id 6000981164
+transcript norm:  eran los momentos que aguero ingresaba en los segundos tiempos y tambien le daba un gol a la seleccion argentina y fue una especie de partido de despedida ese de canada al mundial 2010 y despues nos enfrentamos mas con la seleccion argentina
+ref norm:         eran los momentos que aguero ingresaba en los segundos tiempos y tambien le daba un gola a la seleccion argentina y fue una especie de partido de despedida ese de canada al mundial 2010 y despues nos enfrentamos mas con la seleccion
+
+ ------------------------------------------- 
+
+0.0
+line_id 6000966296
+transcript norm:  el problema el bendito problema es que la seleccion argentina 14 anos despues tiene a otamendi tiene a di maria tiene a messi dentro de esta seleccion argentina y eso habla de vigencia habla de superarse siempre hablamos de lo dificil que es llegar pero lo mas dificil que es mantenerse
+ref norm:         el problema el bendito problema es que la seleccion argentina 14 anos despues tiene a otamendi tiene a di maria tiene a messi dentro de esta seleccion argentina y eso habla de vigencia habla de superarse siempre hablamos de lo dificil que es llegar pero lo mas dificil que es mantenerse
+
+ ------------------------------------------- 
+
+1.5384615384615385
+line_id 6000949891
+transcript norm:  otamendi no salio pero otamendi salio de esa copa america bastante bien parado y despues todo lo que vimos de ota y bueno messi que hay que buscar con lupa malos partidos de messi en su carrera volviendo al partido de lo que dejo esto siento que hay una corriente una corriente mas de redes puede ser y en la calle un poco tambien
+ref norm:         otamendi no salio pero otamendi salio de esa copa america bastante bien parado y despues todo lo que vimos de ota y bueno messi que hay que buscar con lupa malos partidos de messi en su carrera volviendo al partido de lo que dejo esto siento que hay una corriente una corriente mas de redes puede ser bueno y en la calle un poco tambien
+
+ ------------------------------------------- 
+
+3.4482758620689653
+line_id 6000944263
+transcript norm:  esta corriente de que todos los partidos tiene que jugar argentina como jugo la final del mundo contra francia esos primeros 70 minutos perfectos hace poco maxi rodriguez creo que fue para directv no estoy seguro entrevisto a lionel scaloni y hablaban de esa final y siempre cuando un jugador pregunta es diferente la respuesta siempre pasa eso
+ref norm:         esta corriente de que todos los partidos tienen que jugar argentina como jugo la final del mundo contra francia esos primeros 70 minutos perfectos hace poco maxi rodriguez creo que fue para directtv no estoy seguro entrevisto a lionel scaloni y hablaban de esa final y siempre cuando un jugador pregunta es diferente la respuesta siempre pasa eso
+
+ ------------------------------------------- 
+
+2.5
+line_id 6000951494
+transcript norm:  y un scaloni lo miraba a pablo y le decia algo esta pasando porque estamos jugando muy bien era como que ese nivel se escapaba de la realidad de lo que uno podia imaginar de una final del mundo
+ref norm:         y un scaloni diciendole lo miraba a pablo y le decia algo esta pasando porque estamos jugando muy bien era como que ese nivel se escapaba de la realidad de lo que uno podia imaginar de una final del mundo
+
+ ------------------------------------------- 
+
+0.0
+line_id 6000956733
+transcript norm:  generalmente las finales del mundo no salen partidazos de muchos goles de muchos movimientos tacticos de demostraciones tecnicas siempre lo que prevalece es cuidar el cero en el arco propio siempre sobresale y es protagonista el orden de juego no perder la pelota y no arriesgar demasiado y aca siento que encontramos una argentina que en 70 minutos jugo a la perfeccion
+ref norm:         generalmente las finales del mundo no salen partidazos de muchos goles de muchos movimientos tacticos de demostraciones tecnicas siempre lo que prevalece es cuidar el cero en el arco propio siempre sobresale y es protagonista el orden de juego no perder la pelota y no arriesgar demasiado y aca siento que encontramos una argentina que en 70 minutos jugo a la perfeccion
+
+ ------------------------------------------- 
+
+0.0
+line_id 6000933726
+transcript norm:  y hoy me encuentro con mucha gente que no saca la comparacion de aquel partido cada vez que juega la seleccion al punto de decir que argentina no jugo bien contra canada cual es la referencia contra que 0 hacia que hay que referenciarse para decir si jugo bien 0 jugo mal
+ref norm:         y hoy me encuentro con mucha gente que no saca la comparacion de aquel partido cada vez que juega la seleccion al punto de decir que argentina no jugo bien contra canada cual es la referencia contra que 0 hacia que hay que referenciarse para decir si jugo bien 0 jugo mal
+
+ ------------------------------------------- 
+
+1.639344262295082
+line_id 6000927750
+transcript norm:  argentina fue superior al rival argentina merecio ganar el partido argentina tuvo momentos de buen futbol incluso pudo haber hecho tres goles mas tranquilamente contra canada pero el exceso de tiempo a la hora de definir algo que no estan acostumbrados delanteros del primer nivel mundial hizo que argentina a ver puede tener un dia de polvora mojada pudo haberla tenido desesperada
+ref norm:         argentina fue superior al rival argentina merecio ganar el partido argentina tuvo momentos de buen futbol incluso pudo haber hecho tres goles mas tranquilamente contra canada pero el exceso de tiempo a la hora de definir algo que no estan acostumbrados delanteros del primer nivel mundial hizo que argentina a ver puede tener un dia de polvora mojada pudo haberla tenido
+
+ ------------------------------------------- 
+
+0.0
+line_id 9449037844
+transcript norm:  la tuvo messi la tuvo di maria la tuvo julian la tuvo acuna hubo muchas ocasiones que argentina podia haber resuelto con gol y no fueron asi pero yo siempre digo lo mismo no siento que sea una preocupacion la falta de definicion porque la ocasion existe vos como equipo tenes que preocuparte para que la ocasion de gol este se genere hasta ahi como entrenador podes trabajar
+ref norm:         la tuvo messi la tuvo di maria la tuvo julian la tuvo acuna hubo muchas ocasiones que argentina podia haber resuelto con gol y no fueron asi pero yo siempre digo lo mismo no siento que sea una preocupacion la falta de definicion porque la ocasion existe vos como equipo tenes que preocuparte para que la ocasion de gol este se genere hasta ahi como entrenador podes trabajar
+
+ ------------------------------------------- 
+
+0.0
+line_id 6000970114
+transcript norm:  el resto forma parte del talento del jugador y el talento de estos jugadores siento que es algo objetivo y que se pudo tener un dia mas 0 menos y todavia no lei la cancha pero se pudo tener un dia mas 0 menos en materia de definicion y no pasa nada lo bueno es que argentina llego lo suficiente como para poder convertir dos goles y ahi esta el punto donde tenemos que analizar este equipo en como jugo
+ref norm:         el resto forma parte del talento del jugador y el talento de estos jugadores siento que es algo objetivo y que se pudo tener un dia mas 0 menos y todavia no lei la cancha pero se pudo tener un dia mas 0 menos en materia de definicion y no pasa nada lo bueno es que argentina llego lo suficiente como para poder convertir dos goles y ahi esta el punto donde tenemos que analizar este equipo en como jugo
+
+ ------------------------------------------- 
+
+0.0
+line_id 6000951865
+transcript norm:  argentina jugo muy bien y supo leer un partido que no fue facil que canada si juega como jugo contra argentina si juega con los otros rivales como jugo contra argentina para mi se vuelven candidata para meterse en cuartos de final
+ref norm:         argentina jugo muy bien y supo leer un partido que no fue facil que canada si juega como jugo contra argentina si juega con los otros rivales como jugo contra argentina para mi se vuelven candidata para meterse en cuartos de final
+
+ ------------------------------------------- 
+
+0.0
+line_id 6000967313
+transcript norm:  y un equipo que planto cara que sabia sus limitaciones que priorizaba el orden que tenia control de pelota que buscaba sociedades que hacia uso de la velocidad que queria generar el error argentino y lo consiguio en mas de una oportunidad en esto tuvo mucho que ver el estado del campo de juego
+ref norm:         y un equipo que planto cara que sabia sus limitaciones que priorizaba el orden que tenia control de pelota que buscaba sociedades que hacia uso de la velocidad que queria generar el error argentino y lo consiguio en mas de una oportunidad en esto tuvo mucho que ver el estado del campo de juego
+
+ ------------------------------------------- 
+
+2.631578947368421
+line_id 6000985440
+transcript norm:   veiamos que parecia que la pelota tenia un conejo cada vez que la pasaban los centrales y eso era raro porque generalmente el pase entre centrales es un pase sin riesgo es un pase de 100% de efectividad .
+ref norm:         veiamos que parecia que la pelota tenia un conejo cada vez que la pasaban los centrales y eso era raro porque generalmente el pase entre centrales es un pase sin riesgo es un pase de 100% de efectividad
+
+ ------------------------------------------- 
+
+0.0
+line_id 4177075799
+transcript norm:  y es esa ambiguedad entre la significancia buena y mala del fuego y tambien esa multitud de significados que se observan perfectamente en el mito griego de prometeo
+ref norm:         y es esa ambiguedad entre la significancia buena y mala del fuego y tambien esa multitud de significados que se observan perfectamente en el mito griego de prometeo
+
+ ------------------------------------------- 
+
+2.7777777777777777
+line_id 4177011317
+transcript norm:  por ejemplo en donde se roba el fuego sagrado de los dioses en donde a la vez de un beneficio para la humanidad termina siendo una tragedia recomiendo muy fuertemente leer el mito de prometeo
+ref norm:         por ejemplo no en donde se roba el fuego sagrado de los dioses en donde a la vez de un beneficio para la humanidad termina siendo una tragedia recomiendo muy fuertemente leer el mito de prometeo
+
+ ------------------------------------------- 
+
+2.272727272727273
+line_id 6000983344
+transcript norm:  es como que lo planteaba en el ultimo podcast de que se abrio la puerta a toda esta gente para que se acerque a la seleccion argentina y disfrute con nosotros lo que esta pasando con este equipo y obviamente que eso nos ilusiona
+ref norm:         es como que lo planteaba en el ultimo podcast de que se abrio la puerta a toda esta gente para que se acerca a la seleccion argentina y disfrute con nosotros lo que esta pasando con este equipo y obviamente que eso nos ilusiona
+
+ ------------------------------------------- 
+
+0.0
+line_id 6000924178
+transcript norm:  que juegue la seleccion argentina y este la cancha llena que haya gente pendiente de la conferencia de prensa de scaloni que haya gente hablando del equipo incluso cuando se termino de confirmar la lista mucha gente metida en el dia a dia de la seleccion argentina
+ref norm:         que juegue la seleccion argentina y este la cancha llena que haya gente pendiente de la conferencia de prensa de scaloni que haya gente hablando del equipo incluso cuando se termino de confirmar la lista mucha gente metida en el dia a dia de la seleccion argentina
+
+ ------------------------------------------- 
+
+1.8867924528301887
+line_id 6000994205
+transcript norm:  da la sensacion que antes nos servia ese tropezon en el comienzo por decirlo de alguna manera por mas que en el 2021 no fue tropezon para ajustar para mejorar incluso en la copa del 2019 fueron dos tropezones para empezar a encarrilar y formar lo que termino siendo la tan querida escaloneta
+ref norm:         da la sensacion que antes nos servia ese tropezon en el comienzo por decirlo de alguna manera por mas que en el 2021 no fue tropezon para ajustar para mejorar incluso en la copa del 2019 fueron dos tropezones para empezar a encarrilar y formar lo que termino siendo la tan querida scaloneta
+
+ ------------------------------------------- 
+
+3.7037037037037033
+line_id 6000996087
+transcript norm:  siento que si hay que buscar un inicio de la escaloneta fue aquel penal que ataja a armani frente a paraguay en la copa america del 2019
+ref norm:         siento que si hay que buscar un inicio de la scaloneta fue aquel penal que ataja a armani frente a paraguay en la copa america del 2019
+
+ ------------------------------------------- 
+
+2.083333333333333
+line_id 6000929964
+transcript norm:  y ya en el siguiente partido contra qatar luego contra venezuela la seleccion empieza a encontrar funcionamiento y empieza a contagiarse la gente de esa buena vibra que emanaba ese equipo y despues todo lo que sabemos en la copa america del 2021 argentina no jugo bien
+ref norm:         y ya en el siguiente partido contra qatar luego contra venezuela la seleccion empieza a encontrar funcionamiento y empieza a contagiarse la gente de esa buena vibra que emanaba a ese equipo y despues todo lo que sabemos en la copa america del 2021 argentina no jugo bien
+
+ ------------------------------------------- 
+
+3.6363636363636362
+line_id 6000978602
+transcript norm:  pero sinceramente siento que fue mas lo que no se jugo bien que lo que se jugo bien en la totalidad de los minutos de la competencia pero se consigue el resultado en el maracana venciendo a brasil en una final y obviamente que eso opaca un rendimiento mas 0 menos que habia tenido la seleccion
+ref norm:         sinceramente siento que fue mas lo que no se jugo bien que lo que se jugo bien en la totalidad de los minutos de la competencia pero se consigue el resultado en el maracana venciendo a brasil en una final y obviamente que es opaca un rendimiento mas 0 menos que habia tenido la seleccion
+
+ ------------------------------------------- 
+
+1.4492753623188406
+line_id 6000969764
+transcript norm:  siento que la mejora de paredes en ese momento de ubicarse como un 5 completo fue lo que le dio el ajuste a la seleccion argentina para encontrar funcionamiento y despues llega el mundial que siempre digo lo mismo el mundial arma al equipo y ese tropezon contra arabia hizo que argentina tenga que modificar algunas cosas y que terminamos jugando con un equipo diferente al que habiamos arrancado
+ref norm:         siento que la mejora de paredes en ese momento de ubicarse como un 5 completo fue lo que le dio el ajuste a la seleccion argentina para encontrar funcionamiento y despues llega el mundial que siempre digo lo mismo el mundial arma el equipo y ese tropezon contra arabia hizo que argentina tenga que modificar algunas cosas y que terminamos jugando con un equipo diferente al que habiamos arrancado
+
+ ------------------------------------------- 
+
+5.263157894736842
+line_id 6000936691
+transcript norm:  y para eso sirve tambien tener un plantel largo pensar cada uno de los jugadores me acuerdo que antes cuando no habia tanto analisis cuando no habian tantos cambios caiamos en la que habia jugadores de relleno
+ref norm:         y para eso sirve tambien tener un plan de largo pensar cada uno de los jugadores me acuerdo que antes cuando no habia tanto analisis cuando no habian tantos cambios caiamos en la que habia jugadores de relleno
+
+ ------------------------------------------- 
+
+2.083333333333333
+line_id 6000996317
+transcript norm:  un enzo que se transformo en el 5 de la seleccion argentina ese fue el camino de esta seleccion en este proceso donde arrancabamos con algun tropezon ahora fue con canada un rival nuevo un rival distinto estuvo bueno jugar contra alguien que no jugabamos todo el tiempo
+ref norm:         un enzo que se transformo en el 5 de la seleccion argentina ese fue el camino de esta seleccion en este proceso donde arrancamos con algun tropezon ahora fue con canada un rival nuevo un rival distinto estuvo bueno jugar contra alguien que no jugabamos todo el tiempo
+
+ ------------------------------------------- 
+
+0.0
+line_id 6000914144
+transcript norm:  no era el ecuador el chile el peru de turno sino que era un equipo en el que habiamos enfrentado una vez alla en la preparacion al mundial 2010 una victoria argentina por 5 a 0
+ref norm:         no era el ecuador el chile el peru de turno sino que era un equipo en el que habiamos enfrentado una vez alla en la preparacion al mundial 2010 una victoria argentina por 5 a 0
+
+ ------------------------------------------- 
+
+0.0
+line_id 6000972190
+transcript norm:  y estos tres nombres ya llevan vigente mucho tiempo en la seleccion argentina y por rendimiento por rendimiento actual siguen siendo parte de la seleccion argentina
+ref norm:         y estos tres nombres ya llevan vigente mucho tiempo en la seleccion argentina y por rendimiento por rendimiento actual siguen siendo parte de la seleccion argentina
+
+ ------------------------------------------- 
+
+8.108108108108109
+line_id 6000945648
+transcript norm:  una seleccion que durante diria todo su proceso le esquivo al reconocimiento del jugador para con la formacion de una lista 0 un equipo di maria cuando empezo a jugar mal salio del equipo alla por 2019 verdad
+ref norm:         una seleccion que diria durante todo su proceso le esquivo al reconocimiento del jugador para con la formacion de una lista 0 un equipo di maria cuando empezo a jugar mal salio del equipo alla por 2019
+
+ ------------------------------------------- 
+
+Final wer score:  4.77840367281396

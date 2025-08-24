@@ -1,0 +1,1604 @@
+10.526315789473683
+line_id 7487422579
+transcript norm:  des que les requins sont la on essaie de se glisser dans l eau avec le plus de delicatesse possible on glisse dans l eau mais quand je dis glisser c est qu on essaie de se faufiler
+ref norm:         des que les requins sont la on essaye de se glisser dans l eau avec le +plus de delicatesse possible on glisse dans l eau mais quand je dis glisser c est . on essaye de se faufiler
+
+ ------------------------------------------- 
+
+12.903225806451612
+line_id 7487436958
+transcript norm:  de descendre jusqu a la cage relais qui est a une dizaine de meters de profondeur la on va attendre a l exterieur on s accroche apoche calme
+ref norm:         de descendre jusqu a la cage relais qui est a une dizaine de meters de profondeur ou la on va attendre a l exterieur on s accroche on va bouger calme
+
+ ------------------------------------------- 
+
+4.444444444444445
+line_id 7487449049
+transcript norm:  dans les annees 50 ma mere cecile et mon pere jacques m ont amene au bord de la mer aussi somber une mer qui etait transparente les vagues roulaient sur la plage il y avait le rocher noir qui etait un rocher qui me fascinait
+ref norm:         dans les annees 50 ma mere cecile et mon pere jacques m ont amene au bord de la mer aux issambres une mer qui etait transparente les vagues roulaient sur la plage il y avait le rocher noir qui etait un rocher qui me fascinait
+
+ ------------------------------------------- 
+
+14.516129032258066
+line_id 7487458040
+transcript norm:  on se mettait a l eau mon pere m a offert un masque un masque fragile a l epoque c est pas des masques comme aujourd hui la vie te detend vert quand on le posait mal le verre cassait c etait la fin du monde mais non papa me rachetait un masque et un jour j ai vu un poulpe
+ref norm:         on se mettait a l eau mon pere m a offert un masque un masque fragile a l epoque c etait pas des masques comme aujourd hui la vitre etait en verre quand on le posait mal le verre casse c etait la fin du monde mais non papa m a rachete un masque et un jour j ai vu un poulpe
+
+ ------------------------------------------- 
+
+4.081632653061225
+line_id 7487486144
+transcript norm:  c est lui qui m a regarde et j ai lu cet oeil incroyable dore avec la pupille noire noire qui vous fixe et qui appelle le pouce c est incroyable c est le roi de la metamorphose il peut changer de texture de peau de couleur de forme
+ref norm:         c est lui qui m a regarde et j ai vu cet oeil incroyable dore avec la pupille noire noire qui vous fixe et qui appelle le poulpe c est incroyable c est le roi de la metamorphose il peut changer de texture de peau de couleur de forme
+
+ ------------------------------------------- 
+
+4.651162790697675
+line_id 7487461942
+transcript norm:  il peut s affilper et disparaitre dans un tout petit interstice de roche c est l animal mystere et il m a attire irresistiblement dans ce monde marin un dernier grand monde sauvage ou on peut approcher les animaux sans qu ils fuient
+ref norm:         il peut s infiltrer et disparaitre dans un tout petit interstice de roche c est l animal mystere et il m a attire irresistiblement dans ce monde marin le dernier grand monde sauvage ou on peut approcher les animaux sans qu ils fuient
+
+ ------------------------------------------- 
+
+6.8181818181818175
+line_id 7487457153
+transcript norm:  c est quelque chose d etonnant on ne se rend pas compte de ca le monde terrestre oui les animaux ruffus nous portons sur nos epaules des annees et des annees de malediction de maltraitance des autres de la planete de tout ca
+ref norm:         c est quelque chose d etonnant on ne se rend pas compte de ca le monde terrestre ou les animaux vous fuient nous portons sur nos epaules des annees et des annees de malediction de maltraitance des autres de la planete de tout ca
+
+ ------------------------------------------- 
+
+0.0
+line_id 7487488941
+transcript norm:  tandis qu en mer les animaux nous rendent notre innocence ils nous considerent comme les autres especes creatures parmi les creatures et ils nous tolerent au point que parfois on peut etre poisson parmi les poissons
+ref norm:         tandis qu en mer les animaux nous rendent notre innocence ils nous considerent comme les autres especes creatures parmi les creatures et ils nous tolerent au point que parfois on peut etre poisson parmi les poissons
+
+ ------------------------------------------- 
+
+13.114754098360656
+line_id 7487447003
+transcript norm:  on se sent en mer partie de ces vivants lies a ces vivants tous ces vivants differents il y en a incroyables chez vous il faut voir le nom extraordinaire de toutes ces creatures marines depuis les etoiles de mer toutes differentes une des autres une etoile de mer mais il y en a des dizaines de sortes fascinantes
+ref norm:         on se sent en mer partie de ces vivants liee a ces vivants tous ces vivants differents il y en a incroyables il faut voir le nom extraordinaire de toutes ces creatures marines depuis les etoiles de mer toutes differentes les unes des autres on a eu une etoile de mer mais il y en a des dizaines de sortes fascinantes
+
+ ------------------------------------------- 
+
+17.77777777777778
+line_id 7487414743
+transcript norm:  et quand vous expirez de couler et d ondre d etre comme un oiseau on a pesanteur quand on est dans l eau on vit dans un autre monde et dans ce monde la encore une fois ceux qui y vivent vous offrent des ragons de grappe
+ref norm:         et quand vous expirez de couler et donc d etre comme un oiseau on est en apesanteur quand on est dans l eau on vit dans un autre monde et dans ce monde la encore une fois ceux qui y vivent vous offrent des rencontres
+
+ ------------------------------------------- 
+
+15.686274509803921
+line_id 7487479048
+transcript norm:  d abord il y a eu un grand voyage avec grasse et avec mon epouse veronique dans les eaux subantarctiques parce qu elles dirigeaient une mission dans les eaux subantarctiques mission de fumee on est partis la bas on a voyage les icebergs les albatros les elephants de mer
+ref norm:         d abord il y a eu un grand voyage avec grasse et avec mon epouse veronique dans les eaux sub antarctiques parce qu elle dirigeait une mission dans les eaux sub antarctiques mission de chimie on est parti la bas on a voyage les icebergs les albatros les elephants de mer
+
+ ------------------------------------------- 
+
+26.666666666666668
+line_id 7487492133
+transcript norm:  c etait incroyable j ai decouvert les mers du sud carielene crozet et en rentrant j avais passe ma deze je n avais pas encore une veritable affectation et j ai envoye un curriculum vitae a l orstow c est qu il y a hier des aujourd hui et puis il y avait une annonce aussi qui etait pour le musee oceanographique de monaco
+ref norm:         c etait incroyable je decouvrais les mers du sud carrielen crozet et en rentrant j avais passe ma these je n avais pas encore de veritable affectation et j ai envoye un curiculum vitae a l horstow ce qui est l ierd aujourd hui et puis il y avait une annonce aussi qui etait pour le musee oceanographique de monaco
+
+ ------------------------------------------- 
+
+36.36363636363637
+line_id 7487472949
+transcript norm:  je cherchais un directeur et puis j ai eu la chance d etre au prix a l orgo et donc la derniere discussion se faisait pour la direction du museum scenographique avec cousteau
+ref norm:         il cherchait un directeur adjoint et puis j ai eu la chance d etre pris a l horstow et donc les dernieres discussions se faisaient pour la direction du musee oceanographique avec cousteau
+
+ ------------------------------------------- 
+
+21.53846153846154
+line_id 7487498413
+transcript norm:  j ai coustou me dit mais vous etes trop jeune pour vous enterrer dans un musee venez donc avec moi sur l ecalypso alors j ai dit mais je ne peux pas je viens d etre pris comme chercheur a l orstow mais puis j en parle a veronique je vous demande de moi alors vous avez de moi eh bien je vous invite venez au parc
+ref norm:         et cousteau me dit mais vous etes trop jeune pour vous enterrer dans un musee venez donc avec moi sur la calypso alors j ai dit mais je peux pas je viens d etre pris comme chercheur a l horstow mais puis j en parle a veronique je vous demande deux mois alors vous avez deux mois eh ben je vous invite venez on part
+
+ ------------------------------------------- 
+
+32.5
+line_id 7487454255
+transcript norm:  je suis praktiste sur l akkalypso au debut il m avait dit allez on fait deux ans ensemble et puis apres on verra je suis reste jusqu a son deces
+ref norm:         et je suis parti sur la calypso et au debut ca devait il m avait dit allez on fait quelque chose on fait deux ans ensemble et puis apres on verra et puis je suis reste jusqu a son deces
+
+ ------------------------------------------- 
+
+5.660377358490567
+line_id 7487426116
+transcript norm:  pasant merveilleux un homme extraordinaire exceptionnel quelqu un qui vous portait sur ses epaules qui vous permettait de satisfaire toute la gourmandise de curiosite qu on avait qui ne vous demandait jamais en sortant de projet qu est ce que vous avez trouve alors francois qu est ce que vous avez trouve
+ref norm:         13 ans merveilleux un homme extraordinaire exceptionnel quelqu un qui vous portait sur ses epaules qui vous permettait de satisfaire toute la gourmandise de curiosite qu on avait qui ne vous demandait jamais en sortant de plongee qu est ce que vous avez trouve alors francois qu est ce que vous avez trouve
+
+ ------------------------------------------- 
+
+28.125
+line_id 7487479313
+transcript norm:  il y avait cette gourmandise incroyable d aller voir ce qui se cachait sous la peau de l ocean et de le raconter on a pleure dans des lieux qui etaient il ne faut pas dire vierges mais qui etaient vraiment vraiment loin des hommes et peu explores exploites
+ref norm:         il n y avait plus pas de souci de rentabilite de trouver des trucs il y avait juste cette gourmandise incroyable d aller voir ce qui se cachait sous la peau de l ocean et de le raconter on a plonge dans des lieux qui etaient je ne veux pas dire vierges mais qui etaient vraiment vraiment loin des hommes et peu explores exploites
+
+ ------------------------------------------- 
+
+15.384615384615385
+line_id 7487482427
+transcript norm:  par l epoque de la canipso les grands cetaces etaient moins presents la chasse a la palaine au cachalot a perdure jusque dans les annees 1980 et donc les grands cetaces qui avaient survecu au massacre industriel nous flussent d un
+ref norm:         a l epoque de la calypso les grands cetaces etaient moins presents la chasse a la baleine au cachalot a perdure jusque dans les annees 1980 et donc les grands cetaces qui avaient survecu au massacre industriel nous fuyaient
+
+ ------------------------------------------- 
+
+10.0
+line_id 7487441274
+transcript norm:  les rencontres avec les cachalots les baleines etaient difficiles et rares aujourd hui on peut plonger avec les grottes cetaces qui sont des animaux sociaux avec lesquels les liens que l on peut tisser sont tres intenses
+ref norm:         et les rencontres avec les cachalots ou les baleines etaient difficiles et rares et aujourd hui on peut plonger avec les grands cetaces qui sont des animaux sociaux avec lesquels les liens que l on peut tisser sont tres intenses
+
+ ------------------------------------------- 
+
+10.204081632653061
+line_id 7487436584
+transcript norm:  les iles andaman qui sont des petites iles au nord de sumatra des nicobars juste sous le delta d irawadi dans la partie est de l ocean indien entre l inde et la thailande la birmanie etaient des iles ou la peche industrielle n existait pas
+ref norm:         et les iles andamans donc qui sont des petites iles au nord de sumatra des nicobars juste sous le delta d hirawadie dans la partie est de l ocean indien entre l inde et donc la thailande la birmanie etaient des iles ou la peche industrielle n existait pas
+
+ ------------------------------------------- 
+
+35.8974358974359
+line_id 7487427108
+transcript norm:  nombreuses aventures se sont accueillies mais un jour a sumatra je suis alle pranger le matin avant la pranger elle brulait mon scaphandre j etais alle me balader et la elle etait la
+ref norm:         nombreuses les aventures sur le calypso mais un jour a sumatra je suis alle plonger le matin avant la plongee j avais pris mon scaphandre j ai ete alle me balader et la elle etait la la raie manta
+
+ ------------------------------------------- 
+
+14.285714285714285
+line_id 7487477335
+transcript norm:  elle va partir mais moi j aurais fait ca je caresse et la tout d un coup elle se redresse et elle s est mis ventre ouvert les grandes seines ouvertes comme ca a cote de moi je caresse a nouveau elle part dans un looping et elle revient
+ref norm:         elle va partir mais au moins j aurais fait ca je caresse et la tout d un coup elle se redresse et elle se met ventre ouverte les grandes ailes ouvertes comme ca a cote de moi je caresse a nouveau elle part dans un looping et elle revient
+
+ ------------------------------------------- 
+
+23.333333333333332
+line_id 7487412973
+transcript norm:  a l epoque on tirait la reserve il y avait une tige on actionnait un ressort et on liberait une derniere quantite d air qui nous permettait de faire nos poulets remonter la j avais tire la reserve j avais plus d air j ai oublie de remonter il se remonte il m en bloque
+ref norm:         a l epoque quand on tirait la reserve vous savez il y avait une tige on actionnait un ressort et on liberait une derniere quantite d air qui nous permettait de faire nos paliers de remonter et la j avais tire la reserve j avais plus d air j etais oblige de remonter et je remonte et elle m enveloppe
+
+ ------------------------------------------- 
+
+16.129032258064516
+line_id 7487496457
+transcript norm:  et je me dis mais c est lui qui decide donc que les animaux a sang froid ne sont que des machines standardisees qui repondent de facon automatique au simul des milieux
+ref norm:         et je me dis mais c est nous qui decidons que les animaux a sang froid ne sont que des machines standardisees qui repondent de facon automatique aux stimuli des milieux
+
+ ------------------------------------------- 
+
+13.793103448275861
+line_id 7487415021
+transcript norm:  et dans lequel je me disais mais pourquoi est ce que nous ne nous interrogeons pas sur ces vies differentes des autres et a loin des notres ou l oeil sent le froid et qui en definitive nous remettent a notre place ils ont des sens qu on n a pas ils ont une perception du monde qu on n a pas
+ref norm:         et dans lequel je me disais mais pourquoi est ce que nous ne nous interrogeons pas sur ces vies differentes des notres bien loin des notres le sang froid et qui en definitive nous remettent a notre place ils ont des sens qu on n a pas ils ont une perception du monde qu on n a pas
+
+ ------------------------------------------- 
+
+7.4074074074074066
+line_id 7487450542
+transcript norm:  des infirmes dans l eau alors qu elles voient des choses ressentent des choses percoivent des choses pour nous ne sont que du vide a rien quelle est leur conscience du monde j en sais rien mais j ai pas le droit de pas m interroger j ai pas le droit
+ref norm:         on est des infirmes dans l eau alors qu elles voient des choses ressentent des choses percoivent des choses pour nous nous ne sommes que du vide a rien quelle est leur conscience du monde j en sais rien mais j ai pas le droit de pas m interroger j ai pas le droit
+
+ ------------------------------------------- 
+
+12.82051282051282
+line_id 7487417098
+transcript norm:  les raies et les requins c est la meme famille c est la meme chose c est la meme famille il y a des requins qui sont semblables a des raies des raies qui sont semblables a des requins les morphologies sont parfois etonnantes il y a des raies qui sont assez hautes et puis il y a des requins qui sont tres plats bien difficile dans certains cas de dire qu il y a requins et qu il y a raies
+ref norm:         les raies et les requins c est la meme famille c est la meme chose c est la meme famille il y a des requins qui sont semblables a des raies des raies qui sont semblables a des requins les morphologies sont parfois etonnantes il y a des raies qui sont assez hautes et puis il y a des requins qui sont tres plats bien difficile dans certains cas de dire qui est requin et qui est raie
+
+ ------------------------------------------- 
+
+0.0
+line_id 7487436343
+transcript norm:  d ailleurs ca n a aucune importance pour nous c est simple parce que ca permet de se comprendre de classer des choses comme ca mais il faut faire exploser ces classifications il faut aller encore une fois au niveau individuel
+ref norm:         d ailleurs ca n a aucune importance pour nous c est simple parce que ca permet de se comprendre de classer des choses comme ca mais il faut faire exploser ces classifications il faut aller encore une fois au niveau individuel
+
+ ------------------------------------------- 
+
+18.75
+line_id 7487483979
+transcript norm:  experience apres experience on est si souvent bouscule puis j etais un peu arrogant moi j etais tres arrogant j avais un peu de certitude very happily and a fuck
+ref norm:         experience apres experience on est si souvent bouscule puis j etais un peu arrogant hein moi j etais tres arrogant j avais un peu de certitude j avais appris a la fac
+
+ ------------------------------------------- 
+
+11.842105263157894
+line_id 7487432133
+transcript norm:  je me suis retrouve sur le tournage ocean grace a mon ami laurent debas avec qui je travaillais au wwf qui me presentait a jacques perrin puis ca se passe bien puis apres jacques me dit mais on fait un travail on envisage de faire un grand film sur les oceans est ce que vous voudriez discuter quelques jours avec nous avec l equipe jacques plusot stephane durand doncland debas et wokenwand
+ref norm:         je me suis retrouve sur le tournage ocean grace a mon ami laurent debas avec qui je travaillais au wwf qui m a presente a jacques perrin puis ca se passe bien puis apres jacques me dit mais on fait un travail on envisage de faire un grand film sur les oceans est ce que vous voudriez discuter quelques jours avec nous avec l equipe jacques cluzaud stephane durand donc laurent debas et beaucoup de monde
+
+ ------------------------------------------- 
+
+23.25581395348837
+line_id 7487465744
+transcript norm:  c est incroyable quand on a commence le film il me dit qu est ce que vous pensez de ceci ou cela c est comme ca alors j ai commence moi le docteur avec eux la mere ceci la mere c est ca
+ref norm:         c est incroyable quand on a commence le film il m a dit qu est ce que vous pensez de ceci ou de cela des trucs comme ca alors j ai commence moi docte avec la mer ceci la mer c est ca
+
+ ------------------------------------------- 
+
+13.793103448275861
+line_id 7487481053
+transcript norm:  puis je sentais que tout d un coup ca decrochait l arene t avais grand vide mais c est quoi quelles emotions la mer c est quoi la mer
+ref norm:         puis je sentais que tout d un coup ca decrochait la t es le grand vide mais c est quoi quelles emotions la mer c est quoi la mer
+
+ ------------------------------------------- 
+
+10.526315789473683
+line_id 7487426715
+transcript norm:  donner la parole a la mer c est pas reciter tout ce qu on a comme chiffres sur la mer 360000000s de kilometers carres 90000000s de tons de pressons 250 0 especes c est pas la mer
+ref norm:         donner la parole a la mer c est pas reciter tous ce qu on a comme chiffre sur la mer 360000000s de kilometers carres 90000000s de tons de poissons 250 0 especes c est pas a la mer
+
+ ------------------------------------------- 
+
+17.142857142857142
+line_id 7487448520
+transcript norm:  nous avons une fausse idee de ce qu est le monde marin et nos representations sont erronees combien pese une baleine combien pese une baleine chacun va vous repondre 100 maintenant nous rigolions pas
+ref norm:         nous avons une fausse idee de ce qu est le monde marin et nos representations sont erronees combien pese une baleine combien pese une baleine chacun va vous repondre 120 tons vous rigolez ou quoi
+
+ ------------------------------------------- 
+
+16.176470588235293
+line_id 7487461987
+transcript norm:  une baleine c est plus leger qu un papillon si ca arrete de voler il tombe une baleine ne pese rien dans son monde une baleine ne pese 120 tons que lorsqu elle est cadavre sur le pont du bateau d un balelier j ai une baleine mi vente ca n est pas ca parce que dans son monde et c est la il faut les l encontrer
+ref norm:         une baleine c est plus leger qu un papillon papillon s il s arrete de voler il tombe une baleine ne pese rien dans son monde une baleine ne pese 120 tons que lorsqu elle est cadavre sur le pont du bateau d un balenier et une baleine vivante ca n est pas ca parce que dans son monde et c est la il faut les la rencontrer
+
+ ------------------------------------------- 
+
+18.75
+line_id 7487412800
+transcript norm:  et quand on a commence aux seances il nous a dit on va oublier ce qu on sait on va d abord essayer de s immerger et d essayer de voir tous encore une fois toutes les emotions que la creature marine et la mer elle meme la puissance de la mer nous offre et alors on va peut etre toucher des doigts
+ref norm:         et quand on a commence oceans il nous a dit on va oublier ce qu on sait on va d abord essayer d aller s immerger et d essayer de voir tous tous encore une fois toutes les emotions que les creatures marines et la mer elles memes la puissance de la mer nous offre et alors on va peut etre toucher du doigt
+
+ ------------------------------------------- 
+
+14.285714285714285
+line_id 7487470010
+transcript norm:  ca n a pas ete facile de convaincre jacques d aller plonger avec les grands requins blancs pourquoi ca n a pas ete facile c est parce que lorsqu on est responsable d une enorme equipe d un enorme film d un film de cinema c est quelque chose c est pour ca que ca peut etre documentaire et bien on doit prendre en consideration tous ceux qui travaillent avec soi et donc jacques avait cette idee de l equipe
+ref norm:         ca n a pas ete facile de convaincre jacques d aller plonger avec les grands arcs en blanc pourquoi ca n a pas ete facile c est parce que lorsqu on est responsable d une enorme equipe d un enorme film un film de cinema c est quelque chose c est pas simplement un documentaire eh bien on doit prendre en consideration tous ceux qui travaillent avec soi et donc jacques avait cette idee de l equipe
+
+ ------------------------------------------- 
+
+8.641975308641975
+line_id 7487433443
+transcript norm:  tu peux t y engager donc s il y avait eu le moindre incident le moindre accident tout etait remis en question ca pourrait etre catastrophique et donc j ai eu beaucoup de mal a essayer de les convaincre en disant mais non les requins c est comme les autres animaux de la mer comme les poissons les dauphins les oiseaux c est des animaux comme les autres il faut aller les rencontrer et jacques on ramenera une image d harmonie
+ref norm:         depuis que j ai engage donc s il y avait eu le moindre incident le moindre incident tout etait remis en question ca pouvait etre catastrophique et donc j ai eu beaucoup de mal a essayer de les convaincre en disant mais non les requins c est comme les autres animaux de la mer comme les poissons les dauphins les oiseaux c est des animaux comme les autres il faut aller les rencontrer et jacques on ramenera une image d harmonie
+
+ ------------------------------------------- 
+
+9.859154929577464
+line_id 7487419594
+transcript norm:  et puis il faut choisir le plus symbolique de tous il faut choisir le grand arc en blanc parce que le grand arc en blanc dans l esprit des gens c est evidemment celui qui a ete dans la mer qui est celui le plus terrible de tous et comme j avais eu la chance de plonger librement avec les grands blancs en afrique du sud j avais une certaine experience
+ref norm:         et puis il faut choisir le plus symbolique de tous il faut choisir le grand requin blanc parce que le grand requin blanc dans l esprit des gens c est evidemment celui qui a ete les dents de la mer qui est celui le plus terrible de tous et comme j avais eu la chance de plonger librement avec les grands blancs en afrique du sud j avais une certaine experience
+
+ ------------------------------------------- 
+
+7.4074074074074066
+line_id 7487483880
+transcript norm:  j avais pas mal plonge librement quoi librement sans rien et donc je me sentais de pouvoir guider l equipe a la rencontre de ces animaux formidables
+ref norm:         j avais pas mal plonge librement quoi libre librement sans rien et donc je me sentais pouvoir guider l equipe a la rencontre de ces animaux formidables
+
+ ------------------------------------------- 
+
+41.269841269841265
+line_id 7487491026
+transcript norm:  mais c etait tres difficile a la fois parce qu il fallait que chacun puisse surmonter l apprehension legitime que l on a lorsqu on va rencontrer des animaux sur lesquels on dit ils sont terribles etc
+ref norm:         mais c etait tres difficile a la fois parce qu il fallait que chacun puisse surmonter l apprehension legitime que l on a lorsqu on va rencontrer des animaux sur lesquels on dit qu ils sont terribles etc et puis parce que les requins c est pas facile a approcher il est tres tres tres difficile de rentrer dans leur bulle d intimite
+
+ ------------------------------------------- 
+
+15.873015873015872
+line_id 7487458532
+transcript norm:  ils sont toujours a distance et quand on veut filmer un animal marin il faut etre tres pres parce qu on ne peut pas utiliser de teleobjectifs pas comme a terre donc il y en a des objectifs grand angulaire donc on est oblige d etre a touche touche et qu est ce que c est difficile de projeter les gommons de timbla
+ref norm:         ils sont toujours a distance et quand on veut filmer un animal marin il faut etre tres pres parce qu on peut pas utiliser de teleobjectifs c est pas comme a terre donc il y en a des objectifs grandangulaires donc on est oblige d etre a touche touche et qu est ce que c est difficile d approcher les grands requins blancs
+
+ ------------------------------------------- 
+
+3.9215686274509802
+line_id 7487439742
+transcript norm:  donc on a choisi d aller ailleurs et cet ailleurs c est dans le pacifique pres de la petite ile volcanique de guadalupe au large de la basse californie c est une ile mexicaine qui est une reserve marine ou il y a des elephants de mer des lions de mer entre autres
+ref norm:         donc on a choisi d aller ailleurs et cet ailleurs c est dans le pacifique pres de la petite ile volcanique de guadalupe au large de la basse californie c est une ile mexicaine qui est une reserve marine ou il y a des elephants de mer des lions de mer
+
+ ------------------------------------------- 
+
+16.0
+line_id 7487421035
+transcript norm:  quand on plonge on plonge dans ce qu on appelle le bleu pour nous les plongeurs le bleu c est quand on ne voit pas le fond les dizaines de personnes a bord d un bateau ou les cabines sont etroites ou le confort est sur mer
+ref norm:         et quand on plonge on plonge dans ce qu on appelle le bleu pour nous les plongeurs le bleu c est quand on ne voit pas le fond il y a une dizaine de personnes a bord d un bateau ou les cabines sont etroites ou le confort est sommaire
+
+ ------------------------------------------- 
+
+11.76470588235294
+line_id 7487427399
+transcript norm:  on sait qu on n a pas beaucoup de temps on va passer une semaine huit jours et que les images avec l ecran comme l un sont difficiles a obtenir on est tendu un petit peu parce que l objectif oui nous parait a la fois merveilleux et un peu inaccessible
+ref norm:         on sait qu on n a pas beaucoup de temps on va passer une semaine huit jours et que les images avec les grands requins blancs sont difficiles a obtenir on est tendu un petit peu parce que l objectif il nous parait a la fois merveilleux et un peu inaccessible
+
+ ------------------------------------------- 
+
+20.0
+line_id 7487431926
+transcript norm:  et on essaye de s organizer au mieux pour profiter des meilleures heures de lumiere la lumiere pour les images c est important donc on roule deux equipes de tournage trois heures dans l eau chacun trois heures au levante
+ref norm:         et on essaie de s organizer au mieux pour profiter des meilleures heures de lumiere la lumiere pour les images est importante donc on roule a deux equipes de tournage trois heures dans l eau chacun un tour de role
+
+ ------------------------------------------- 
+
+8.333333333333332
+line_id 6690934340
+transcript norm:  quoiqu il se prive dans cet etat de plusieurs avantages qu il tient de la nature il en regagne de si grands ses facultes s exercent et se developpent ses idees s etendent ses sentiments s ennoublissent son ame tout entiere s eleve a tel point que .
+ref norm:         quoi qu il se prive dans cet etat de plusieurs avantages qu il tient de la nature il en regagne de si grands ses facultes s exercent et se developpent ses idees s etendent ses sentiments s ennoblissent son ame tout entiere s eleve a tel point que
+
+ ------------------------------------------- 
+
+6.25
+line_id 6690987493
+transcript norm:  si les abus de cette nouvelle condition ne le degradaient souvent au dessous de celle dont il est sorti il devrait benir sans cesse l instant heureux qui l en arracha pour jamais et qui d un animal stupide et borne fit un etre intelligent et un homme
+ref norm:         si les abus de cette nouvelle condition ne le degradait souvent au dessous de celle dont il est sorti il devrait benir sans cesse l instant heureux qu il en arracha pour jamais et qui d un animal stupide et borne fit un etre intelligent et un homme
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690957290
+transcript norm:  c est un penseur des lumieres critique envers les lumieres c est un penseur moderne critique envers la modernite et accessoirement c est un homme qui a ecrit un traite d education apres avoir abandonne ses enfants
+ref norm:         c est un penseur des lumieres critique envers les lumieres c est un penseur moderne critique envers la modernite et accessoirement c est un homme qui a ecrit un traite d education apres avoir abandonne ses enfants
+
+ ------------------------------------------- 
+
+3.508771929824561
+line_id 6690989527
+transcript norm:  mais au dela de ces paradoxes plus ou moins genants le fait est que rousseau ne rentre pas dans les cases predefinies de la pensee ce qui transparait d ailleurs dans le fait que rousseau n ait pas percu la meme facon par les uns ou par les autres pour certains rousseau serait un penseur progressiste
+ref norm:         mais au dela de ces paradoxes plus ou moins genants le fait est que rousseau ne rentre pas dans les cases predefinies de la pensee ce qui transparait d ailleurs dans le fait que rousseau n est pas percu de la meme facon par les uns ou par les autres pour certains rousseau serait un penseur progressiste
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690925806
+transcript norm:  il serait meme un precurseur du socialisme tandis que pour d autres il serait au contraire un penseur reactionnaire voire un penseur du totalitarisme donc on n est pas vraiment sur les memes lignes
+ref norm:         il serait meme un precurseur du socialisme tandis que pour d autres il serait au contraire un penseur reactionnaire voire un penseur du totalitarisme donc on n est pas vraiment sur les memes lignes
+
+ ------------------------------------------- 
+
+1.8867924528301887
+line_id 6690929455
+transcript norm:  et comment on en arrive a un tel ecart de perception justement par le fait que la pensee de rousseau resiste a toutes les classifications on pourra donner comme exemple le fait que rousseau est a la fois partisan d une republique dans laquelle le peuple exercerait le pouvoir de maniere directe
+ref norm:         et comment on en arrive a un tel ecart de perception bien justement par le fait que la pensee de rousseau resiste a toutes les classifications on pourra donner comme exemple le fait que rousseau est a la fois partisan d une republique dans laquelle le peuple exercerait le pouvoir de maniere directe
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690925472
+transcript norm:  et en meme temps rousseau considere que la modernite est une epoque de decadence le modele culturel de rousseau c est l antiquite c est la vertu c est la bravoure c est l heroisme tout ce que la modernite a contribue a faire disparaitre
+ref norm:         et en meme temps rousseau considere que la modernite est une epoque de decadence le modele culturel de rousseau c est l antiquite c est la vertu c est la bravoure c est l heroisme tout ce que la modernite a contribue a faire disparaitre
+
+ ------------------------------------------- 
+
+3.7037037037037033
+line_id 6690942697
+transcript norm:  d ailleurs c est exactement le propos qu il tient dans son discours sur les sciences et les arts dans lequel il dit que le progres des connaissances et des techniques s est accompagne d une depravation morale a mesure que nous avons gagne en connaissances nous dit rousseau nous avons perdu en vertus
+ref norm:         d ailleurs c est exactement le propos qu il tient dans son discours sur les sciences et les arts dans lequel il dit que le progres des connaissances et des techniques c est accompagne d une depravation morale a mesure que nous avons gagne en connaissances nous dit rousseau nous avons perdu en vertu
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690948471
+transcript norm:  un autre exemple de paradoxe chez rousseau c est le jugement qu il porte sur la societe rappelez vous on avait deja parle de rousseau dans un episode sur l etat de nature et on avait vu que pour rousseau l homme est naturellement bon et c est la societe qui le corrompt parce que la societe fait naitre de la rivalite de la concurrence
+ref norm:         un autre exemple de paradoxe chez rousseau c est le jugement qu il porte sur la societe rappelez vous on avait deja parle de rousseau dans un episode sur l etat de nature et on avait vu que pour rousseau l homme est naturellement bon et c est la societe qui le corrompt parce que la societe fait naitre de la rivalite de la concurrence
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690976209
+transcript norm:  la societe fait naitre le souci de l image le souci de la reputation autrement dit la vie en societe fait basculer l homme dans la representation dans le fait d apparaitre au lieu d etre rousseau nous dit des lors que nous vivons en societe ce n est plus l amour de soi qui nous anime c est l amour propre
+ref norm:         la societe fait naitre le souci de l image le souci de la reputation autrement dit la vie en societe fait basculer l homme dans la representation dans le fait d apparaitre au lieu d etre rousseau nous dit des lors que nous vivons en societe ce n est plus l amour de soi qui nous anime c est l amour propre
+
+ ------------------------------------------- 
+
+2.272727272727273
+line_id 6690968681
+transcript norm:  l amour de soi c est l instant de conservation c est ce qui fait que vous n avez pas envie de vous jeter du huitieme etage et par prolongement que vous n avez pas envie que votre voisin se jette du huitieme etage
+ref norm:         l amour de soi c est l instinct de conservation c est ce qui fait que vous n avez pas envie de vous jeter du huitieme etage et par prolongement que vous n avez pas envie que votre voisin se jette du huitieme etage
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690936775
+transcript norm:  l amour de soi preside a l amour de l autre ca s appelle la compassion l amour propre c est different l amour propre c est l amour de votre image c est l amour des apparences
+ref norm:         l amour de soi preside a l amour de l autre ca s appelle la compassion l amour propre c est different l amour propre c est l amour de votre image c est l amour des apparences
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690973214
+transcript norm:  c est ce qui va vous pousser non seulement a mentir a faire semblant mais qui va aussi vous pousser a salir l image de l autre la medisance c est un produit de la vie en societe on dit du mal de l autre pour se donner des apparences de superiorite
+ref norm:         c est ce qui va vous pousser non seulement a mentir a faire semblant mais qui va aussi vous pousser a salir l image de l autre la medisance c est un produit de la vie en societe on dit du mal de l autre pour se donner des apparences de superiorite
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690926654
+transcript norm:  la valorisation de soi passe par la devalorisation de l autre c est ca l amour propre donc l amour propre le mensonge la medisance pour rousseau tout ca c est la meme chose
+ref norm:         la valorisation de soi passe par la devalorisation de l autre c est ca l amour propre donc l amour propre le mensonge la medisance pour rousseau tout ca c est la meme chose
+
+ ------------------------------------------- 
+
+6.122448979591836
+line_id 6690939888
+transcript norm:  ce sont les differents modes de manifestation d un seul et meme phenomene a savoir la representation donc si on s en tient a ces considerations on pourrait croire que pour rousseau la vie en societe ce n est que du negatif eh bien non c est preceptif
+ref norm:         ce sont les differents modes de manifestation d un seul et meme phenomene a savoir la representation donc si on s en tient a ces considerations on pourrait croire que pour rousseau la vie en societe ce n est que du negatif et bien non c est plus subtil
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690984826
+transcript norm:  pourquoi ce n est pas que du negatif parce que nous dit rousseau en vivant en societe les hommes gagnent quelque chose qu ils n avaient pas avant de vivre en societe ce qu ils gagnent c est la liberte
+ref norm:         pourquoi ce n est pas que du negatif parce que nous dit rousseau en vivant en societe les hommes gagnent quelque chose qu ils n avaient pas avant de vivre en societe ce qu ils gagnent c est la liberte
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690938539
+transcript norm:  et alors ca c est etonnant parce que justement le premier reflexe c est de se dire qu en creant la societe les hommes ont perdu leur liberte parce que quand on vit en societe on obeit a des lois on obeit a des regles
+ref norm:         et alors ca c est etonnant parce que justement le premier reflexe c est de se dire qu en creant la societe les hommes ont perdu leur liberte parce que quand on vit en societe on obeit a des lois on obeit a des regles
+
+ ------------------------------------------- 
+
+2.4390243902439024
+line_id 6690956360
+transcript norm:  donc c est vraiment contre intuitif de dire que la vie en societe permet de gagner en liberte qu est ce que rousseau a voulu dire par la eh bien c est ce qu on va essayer de comprendre aujourd hui
+ref norm:         donc c est vraiment contre intuitif de dire que la vie en societe permet de gagner en liberte qu est ce que rousseau a voulu dire par la et bien c est ce qu on va essayer de comprendre aujourd hui
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690935938
+transcript norm:  et pour le comprendre on va partir d une image on va imaginer un enfant un enfant qui serait eleve par ses parents sans la moindre autorite sans la moindre limitation de sa liberte
+ref norm:         et pour le comprendre on va partir d une image on va imaginer un enfant un enfant qui serait eleve par ses parents sans la moindre autorite sans la moindre limitation de sa liberte
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690980267
+transcript norm:  l enfant fait tout ce qu il veut il mange s il en a envie il joue s il en a envie il travaille s il en a envie bref une education libre ca ca represente la vie de l homme a l etat de nature
+ref norm:         l enfant fait tout ce qu il veut il mange s il en a envie il joue s il en a envie il travaille s il en a envie bref une education libre ca ca represente la vie de l homme a l etat de nature
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690910944
+transcript norm:  aucune contrainte alors bien sur quand on dit aucune contrainte ce n est pas tout a fait exact parce qu il y a malgre tout des limites a cette liberte
+ref norm:         aucune contrainte alors bien sur quand on dit aucune contrainte ce n est pas tout a fait exact parce qu il y a malgre tout des limites a cette liberte
+
+ ------------------------------------------- 
+
+16.27906976744186
+line_id 6690950838
+transcript norm:  des limites materielles on a beau etre libre on ne peut pas s affranchir des conquraintes naturelles donc meme si l enfant est totalement libre s il a envie de jouer aux osselets a dakaroch et dunton il ne pourra pas
+ref norm:         des limites materielles on a beau etre libre on ne peut pas s affranchir des contraintes naturelles donc meme si l enfant est totalement libre s il a envie de jouer aux osselets avec un rocher d une ton il ne pourra pas
+
+ ------------------------------------------- 
+
+2.5
+line_id 6690924019
+transcript norm:  pouvoir faire ce qu il est physiquement possible de faire raison pour laquelle nos amis belges utilisent le verbe savoir la ou nous autres francais nous utilisons le verbe pouvoir savoir ca veut dire pouvoir au sens risique du terme
+ref norm:         pouvoir faire ce qu il est physiquement possible de faire raison pour laquelle nos amis belges utilisent le verbe savoir la ou nous autres francais nous utilisons le verbe pouvoir savoir ca veut dire pouvoir au sens physique du terme
+
+ ------------------------------------------- 
+
+3.225806451612903
+line_id 6690942488
+transcript norm:  la liberte qui n a comme limite que nos capacites physiques ou les contraintes des lois naturelles donc ca veut dire une premiere chose qui est que meme si l enfant grandit sans contrainte sans regles de conduite il n est pas absolument libre pour autant mais il y a une autre raison qui fait que cet enfant ne sera pas libre
+ref norm:         la liberte qui n a comme limite que nos capacites physiques ou les contraintes des lois naturelles donc ca veut dire une premiere chose qui est que meme si l enfant grandit sans contraintes sans regle de conduite il n est pas absolument libre pour autant mais il y a une autre raison qui fait que cet enfant ne sera pas libre
+
+ ------------------------------------------- 
+
+3.225806451612903
+line_id 6690918229
+transcript norm:  cette raison c est le fait que ne pas obeir a des regles c est obeir a ces putschons on a deja parle de ca plusieurs fois sur cette chaine le paradoxe de la liberte le fait que si je n obeis a aucune regle j obeis alors a mon desir or on n est pas libre dans l obeissance au desir
+ref norm:         cette raison c est le fait que ne pas obeir a des regles c est obeir a ses pulsions on a deja parle de ca plusieurs fois sur cette chaine le paradoxe de la liberte le fait que si je n obeis a aucune regle j obeis alors a mon desir or on n est pas libre dans l obeissance au desir
+
+ ------------------------------------------- 
+
+3.571428571428571
+line_id 6690957644
+transcript norm:  le fait de pouvoir faire tout ce qu on veut quand on le veut le fait de prendre l habitude de n avoir aucune contrainte s entraine fatalement une inaptitude a la contrainte ca fait que quand on se heurte a un obstacle on souffre c est l enfant dont on cede a tous les captices
+ref norm:         le fait de pouvoir faire tout ce qu on veut quand on le veut le fait de prendre l habitude de n avoir aucune contrainte ca entraine fatalement une inaptitude a la contrainte ca fait que quand on se heurte a un obstacle on souffre c est l enfant dont on cede a tous les caprices
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690957638
+transcript norm:  donc inaptitude a la contrainte allergie a la contrainte avec la souffrance qui en decoule donc ca c est ce qui fait que pour rousseau la liberte naturelle n est pas vraiment la liberte c est une liberte infantile une liberte immature
+ref norm:         donc inaptitude a la contrainte allergie a la contrainte avec la souffrance qui en decoule donc ca c est ce qui fait que pour rousseau la liberte naturelle n est pas vraiment la liberte c est une liberte infantile une liberte immature
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690944000
+transcript norm:  le desir c est une force qui nous pousse vers un objet independamment des consequences la volonte c est une force qui nous pousse vers un objet compte tenu des consequences en d autres termes le desir est irrationnel la ou la volonte est rationnelle
+ref norm:         le desir c est une force qui nous pousse vers un objet independamment des consequences la volonte c est une force qui nous pousse vers un objet compte tenu des consequences en d autres termes le desir est irrationnel la ou la volonte est rationnelle
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690935226
+transcript norm:  on confond souvent desir et volonte mais c est tres different par exemple on peut avoir la volonte d arreter de fumer mais le desir d allumer une cigarette on peut avoir la volonte de perdre du poids mais le desir de manger une glace
+ref norm:         on confond souvent desir et volonte mais c est tres different par exemple on peut avoir la volonte d arreter de fumer mais le desir d allumer une cigarette on peut avoir la volonte de perdre du poids mais le desir de manger une glace
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690964732
+transcript norm:  donc dans certains cas realiser sa volonte ca passe par renoncer a son desir vous voyez c est ca le paradoxe la societe liberale nous a fait croire qu etre libre c etait satisfaire tous ses desirs
+ref norm:         donc dans certains cas realiser sa volonte ca passe par renoncer a son desir vous voyez c est ca le paradoxe la societe liberale nous a fait croire qu etre libre c etait satisfaire tous ses desirs
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690959545
+transcript norm:  mais ca c est une conception consumeriste de la liberte c est la liberte concue comme produit de consommation non la liberte ce n est pas satisfaire tous ses desirs
+ref norm:         mais ca c est une conception consumeriste de la liberte c est la liberte concue comme produit de consommation non la liberte ce n est pas satisfaire tous ses desirs
+
+ ------------------------------------------- 
+
+5.88235294117647
+line_id 6690918030
+transcript norm:  ce n est pas ceder a toutes ces impulsions parce qu a ce moment la une vache qui defeque en mangeant son herbe elle est libre puisqu elle suit ses impulsions donc si on a compris ca on a compris en quoi la liberte ne pouvait pas s identifier au desir
+ref norm:         ce n est pas ceder a toutes ses impulsions parce qu a ce moment la une vache qui defeque en mangeant son herbe elle est libre puisqu elle suit ses impulsions donc si on a compris ca on a compris en quoi la liberte ne pouvait pas s identifier aux desirs
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690915636
+transcript norm:  ca veut dire que la volonte est egalement une force mais c est une force que la raison percoit comme benefique ou legitime reprenons l exemple de la cigarette avoir la volonte d arreter de fumer c est considerer que le fait de ne pas fumer est meilleur pour nous que le fait de fumer
+ref norm:         ca veut dire que la volonte est egalement une force mais c est une force que la raison percoit comme benefique ou legitime reprenons l exemple de la cigarette avoir la volonte d arreter de fumer c est considerer que le fait de ne pas fumer est meilleur pour nous que le fait de fumer
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690911577
+transcript norm:  meilleur au sens de benefique benefique pour la sante pour le porte monnaie pour l odeur des vetements autrement dit ca implique le jugement de la raison
+ref norm:         meilleur au sens de benefique benefique pour la sante pour le porte monnaie pour l odeur des vetements autrement dit ca implique le jugement de la raison
+
+ ------------------------------------------- 
+
+1.9607843137254901
+line_id 6690994074
+transcript norm:  ca implique la prise en compte des consequences c est ca le signe distinctif de la volonte par rapport au desir la prise en compte des consequences autrement dit la volonte se caracterise par la capacite de projection on a envie de se servir un verre on en a le desir
+ref norm:         ca implique la prise en compte des consequences c est ca le signe distinctif de la volonte par rapport au desir la prise en compte des consequences autrement dit la volonte se caracterise par la capacite de projection on a envie de se resservir un verre on en a le desir
+
+ ------------------------------------------- 
+
+12.962962962962962
+line_id 6690933954
+transcript norm:  donc si vous n avez pas encore probu a ce moment la la raison vous convaincra de ne pas vous servir ce verre d ailleurs l exemple de l alcool est interessant parce que justement quand on est ivre la volonte est totalement aneantie par le desir on ne passe plus au bout de sequence
+ref norm:         donc si vous n avez pas encore trop bu a ce moment la la raison vous convaincra de ne pas vous servir ce verre d ailleurs l exemple de l alcool est interessant parce que justement quand on est ivre la volonte est totalement aneantie par le desir on ne pense plus aux consequences
+
+ ------------------------------------------- 
+
+3.125
+line_id 6690935918
+transcript norm:  c est comme si elle n existait plus c est le lendemain que les consequences nous reviennent a la figure mais c est trop tard l alcool altere le jugement parce qu il altere nos capacites de perception et de projection dans le futur donc si on recapitule le desir n est pas la volonte la soumission au desir n est pas la liberte
+ref norm:         c est comme si elles n existaient plus c est le lendemain que les consequences nous reviennent a la figure mais c est trop tard l alcool altere le jugement parce qu il altere nos capacites de perception et de projection dans le futur donc si on recapitule le desir n est pas la volonte la soumission au desir n est pas la liberte
+
+ ------------------------------------------- 
+
+2.0408163265306123
+line_id 6690998560
+transcript norm:  la liberte c est l obeissance a la volonte c est a dire a la raison il n y a aucune contradiction a dire qu etre libre c est obeir des lors qu on precise que ce a quoi on obeit dans la liberte c est la volonte
+ref norm:         la liberte c est l obeissance a la volonte c est a dire a la raison et il n y a aucune contradiction a dire qu etre libre c est obeir des lors qu on precise que ce a quoi on obeit dans la liberte c est la volonte
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690965492
+transcript norm:  etre libre c est obeir a la volonte maintenant qu on a bien explique ca on va pouvoir revenir a rousseau rousseau nous explique qu a l etat de nature les hommes sont libres au sens ou ils sont libres de satisfaire leurs impulsions primaires
+ref norm:         etre libre c est obeir a la volonte maintenant qu on a bien explique ca on va pouvoir revenir a rousseau rousseau nous explique qu a l etat de nature les hommes sont libres au sens ou ils sont libres de satisfaire leurs impulsions primaires
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690977871
+transcript norm:  de s associer avec d autres hommes qui sont eux aussi limites par les contraintes de la nature exemple bien connu vous devez demenager vous allez faire appel a des amis pour vous aider a porter vos meubles parce que quatre personnes qui s associent peuvent porter une machine a laver alors qu une personne seule qui essaierait quatre fois ne le peut pas
+ref norm:         de s associer avec d autres hommes qui sont eux aussi limites par les contraintes de la nature exemple bien connu vous devez demenager vous allez faire appel a des amis pour vous aider a porter vos meubles parce que quatre personnes qui s associent peuvent porter une machine a laver alors qu une personne seule qui essaierait quatre fois ne le peut pas
+
+ ------------------------------------------- 
+
+1.5625
+line_id 6690974753
+transcript norm:  et donc si les hommes sont plus forts en s associant s ils sont plus forts ou plus efficaces plus capables ca veut dire que l association permet d augmenter notre liberte l association permet de bliser les limites de notre liberte naturelle et bien ca c est l origine et le fondement du passage de l etat de nature a l etat social
+ref norm:         et donc si les hommes sont plus forts en s associant s ils sont plus forts ou plus efficaces plus capables ca veut dire que l association permet d augmenter notre liberte l association permet de briser les limites de notre liberte naturelle et bien ca c est l origine et le fondement du passage de l etat de nature a l etat social
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690983661
+transcript norm:  dans le contrat social rousseau explique que la premiere forme de societe c est la famille qu est ce qui fait que les enfants vivent chez leurs parents jusqu a ce qu ils deviennent adultes c est le besoin
+ref norm:         dans le contrat social rousseau explique que la premiere forme de societe c est la famille qu est ce qui fait que les enfants vivent chez leurs parents jusqu a ce qu ils deviennent adultes c est le besoin
+
+ ------------------------------------------- 
+
+2.083333333333333
+line_id 6690939298
+transcript norm:  un enfant de 8 ans il ne peut pas survivre seul il est dependant des ressources et de la protection de ses parents une fois adulte il peut travailler il peut se defendre il devient apte a l independance donc il y a evidemment un lien de causalite
+ref norm:         un enfant de huit ans il ne peut pas survivre seul il est dependant des ressources et de la protection de ses parents une fois adulte il peut travailler il peut se defendre il devient apte a l independance donc il y a evidemment un lien de causalite
+
+ ------------------------------------------- 
+
+7.894736842105263
+line_id 6690962226
+transcript norm:  si c etait seulement l amour qui fait que les enfants vivent chez leurs parents ils continueraient a y vivre bien apres etre devenus adultes or il ne faut pas un jour ou l autre ils partent
+ref norm:         si c etait seulement l amour qui fait que les enfants vivent chez leurs parents ils continueraient a y vivre bien apres etre devenus adultes or ils ne le font pas un jour ou l autre ils partent
+
+ ------------------------------------------- 
+
+8.064516129032258
+line_id 6690935802
+transcript norm:  dans le film tanguy le personnage de tanguy reste chez ses parents alors qu il a deja depasse les 30 ans pourquoi parce qu il les aime pas parce qu il a besoin d eux il retravail il gagne bien sa vie il gagne meme plus que ses parents ce n est pas le besoin que tu leur attaches au foyer
+ref norm:         dans le film tanguy le personnage de tanguy reste chez ses parents alors qu il a deja depasse les 30 ans pourquoi parce qu il les aime pas parce qu il a besoin d eux il a un travail il gagne bien sa vie il gagne meme plus que ses parents ce n est pas le besoin que leur attache au foyer
+
+ ------------------------------------------- 
+
+6.382978723404255
+line_id 6690951198
+transcript norm:  c est l amour mais sauf que pour ses parents c est pas normal tu es grand tu as un travail tu degages je n ai plus besoin de nous et nous on aimerait etre tranquilles tanguy c est l exception qui confirme la regle de rousseau
+ref norm:         c est l amour mais sauf que pour ses parents c est pas normal tu es grand tu as un travail tu degages tu n as plus besoin de nous et nous on aimerait etre tranquille tanguy c est l exception qui confirme la regle de rousseau
+
+ ------------------------------------------- 
+
+7.6923076923076925
+line_id 6690940227
+transcript norm:  la regle de l interet comme origine et fondement de la societe dans porusso ce qui fait que les hommes vont sortir de l etat de nature c est l interet les hommes ont interet a s associer
+ref norm:         la regle de l interet comme origine et fondement de la societe donc pour rousseau ce qui fait que les hommes vont sortir de l etat de nature c est l interet les hommes ont interet a s associer
+
+ ------------------------------------------- 
+
+0.0
+line_id 6690949271
+transcript norm:  parce qu ils sont plus forts parce qu ils peuvent s entraider se completer les autres membres de la societe peuvent m apporter des choses que je ne peux pas faire par moi meme des choses pour lesquelles je n ai pas les competences ou pas le temps ou pas l envie
+ref norm:         parce qu ils sont plus forts parce qu ils peuvent s entraider se completer les autres membres de la societe peuvent m apporter des choses que je ne peux pas faire par moi meme des choses pour lesquelles je n ai pas les competences ou pas le temps ou pas l envie
+
+ ------------------------------------------- 
+
+4.081632653061225
+line_id 6690918464
+transcript norm:  et en contrepartie je vais apporter aux autres des choses pour lesquelles ils n ont pas les competences le temps ou l envie donc l interet dont on parle c est un interet inter individuel chacun a interet a aider les autres parce que les autres l aideront en retour
+ref norm:         et en contrepartie je vais apporter aux autres des choses pour lesquelles ils n ont pas les competences le temps ou l envie donc l interet dont on parle c est un interet interindividuel chacun a interet a aider les autres parce que les autres l aideront en retour
+
+ ------------------------------------------- 
+
+2.666666666666667
+line_id 6690923561
+transcript norm:  et donc la j aimerais vous lire un passage de contrat social qui recapitule tout ce qu on vient de dire sur le passage de l etat de nature a l etat social je cite ce passage de l etat de nature a l etat civil conduit dans l homme un changement tres remarquable en substituant dans sa conduite la justice a l instinct en donnant a ses actions la moralite qui leur manquait auparavant
+ref norm:         et donc la j aimerais vous lire un passage du contrat social qui recapitule tout ce qu on vient de dire sur le passage de l etat de nature a l etat social je cite ce passage de l etat de nature a l etat civil produit dans l homme un changement tres remarquable en substituant dans sa conduite la justice a l instinct en donnant a ses actions la moralite qui leur manquait auparavant
+
+ ------------------------------------------- 
+
+2.0
+line_id 6690910916
+transcript norm:  c est alors seulement que la voie du devoir succedant a l impulsion physique et le droit a l appetit l homme qui jusque la n avait regarde que lui meme se voit force d agir sur d autres principes et de consulter sa raison avant d ecouter ses penchants
+ref norm:         c est alors seulement que la voie du devoir succedant a l impulsion physique et le droit a l appetit l homme qui jusque la n avait regarde que lui meme se voit forcee d agir sur d autres principes et de consulter sa raison avant d ecouter ses penchants
+
+ ------------------------------------------- 
+
+25.0
+line_id 6660928609
+transcript norm:  pour l instant c est plus branche claude est un peu ca fait un peu artiste et tout mais a l epoque c etait pas du tout bien vu donc du coup j ai arrete completement ca je me suis mis a faire des choses plus rock n roll on va dire j ai recuit ca a la post adolescence
+ref norm:         aujourd hui c est peut etre plus branche d etre un peu artiste et tout mais a l epoque c etait pas du tout bien vu donc du coup j ai arrete completement ca et je me suis mis a faire des choses plus rock n roll on va dire et j ai repris ca aller a la post adolescence
+
+ ------------------------------------------- 
+
+13.333333333333334
+line_id 6660937038
+transcript norm:  et concernant le parcours j ai fait des cours de theater j ai fait de la musique j ai fait beaucoup d autres activites artistiques j ai voulu essayer en parallele a l age du bac aussi de tenter une carriere la dedans etc et je trouvais que c etait tres complique et il n y avait pas de thunes aussi
+ref norm:         et concernant le parcours j ai fait des cours de theater j ai fait de la musique j ai fait beaucoup d autres activites artistiques j ai voulu essayer en parallele a l age du bac aussi de tenter une carriere la dedans etc et j ai vu que c etait tres complique et j avais pas de thune aussi
+
+ ------------------------------------------- 
+
+32.142857142857146
+line_id 6660956551
+transcript norm:  et du coup je finis je vais mettre en avant un concept et bon c etait un concept c etait les nes sauvages c etait la violence animale qui est utilisee dans un cercle de vertu par rapport a la violence humaine qui est le hobby plutot un cercle vicieux puisque non tu pourrais en
+ref norm:         et du coup je me suis dit je vais mettre en avant un concept et bornwell c etait un concept c etait ne sauvage c etait la violence animale qui est utilisee dans un cercle vertueux par rapport a la violence humaine qui elle obeit plutot a un cercle vicieux puisque nous on tue pour rien
+
+ ------------------------------------------- 
+
+41.66666666666667
+line_id 6660944395
+transcript norm:  c est le gros gose qui a fait une sculpture ah oui ca on en a un peu parle une sculpture et tu parles d une bande nouvelle enfin une bande nouvelle c est une explication que je n avais pas a l epoque mais que j ai eu apres en fait j etais assez pudique par rapport a ca et je n avais pas trop envie de me mettre en avant
+ref norm:         oui c est le crocodile la premiere sculpture ah oui c est bon on n a pas parle de sculpture et tu parlais de bornwell en fait bornwell c est une explication que je n avais pas a l epoque mais que j ai eu a posteriori enfin apres c est en fait j etais assez pudique par rapport a ca et j avais pas trop envie de me mettre en avant
+
+ ------------------------------------------- 
+
+25.0
+line_id 6660958533
+transcript norm:  je suis accrete pour des raisons qui m ont fait l objet de ma chute mon eviction de ce salon je suis accepte parce qu en fait a l epoque je suis tres rapplique dans les causes caritatives et notamment une association de chocolatiseurs font mal
+ref norm:         je suis accepte pour des raisons qui vont faire l objet de ma chute ou mon eviction de ce salon je suis accepte parce qu en fait a l epoque je suis tres implique dans les causes caritatives et notamment une association qui s occupe des enfants malades
+
+ ------------------------------------------- 
+
+34.21052631578947
+line_id 6660994175
+transcript norm:  et donc j ai decide a ce moment la je me mets a se rencontrer avec l association de vendre des crocodiles en grandeur en nature et en modele reduit au profil de cette association pour donc aider pres des hopitaux etc
+ref norm:         et donc je decide a ce moment la enfin on se rencontre avec l association de vendre des crocodiles en grandeur nature et en modeles reduits au profit de cette association pour donc aider pour les hopitaux etc
+
+ ------------------------------------------- 
+
+23.076923076923077
+line_id 6660994424
+transcript norm:  pour symboliser les reves des enfants malades et donc noble cause etc et donc on va voir a un moment la directrice comment s appelle ca esmsab expoisicium je ne vois pas le nom et on lui explique qu on aimerait bien pouvoir se servir de cette tribune qui est la fiac pour pouvoir vendre ses sculptures au profit 100% au profit de l assaut
+ref norm:         bon bref c est une cove pour realiser les reves des enfants malades et donc noble cause etc et donc on va voir a un moment donc la directrice je ne sais plus comment on s appelle ca responsable d exposition je ne pourrai pas le nom et on lui explique qu on aimerait bien pouvoir se servir de cette tribune qui est la fiac pour pouvoir vendre ces sculptures au profit 100% au profit de l assaut
+
+ ------------------------------------------- 
+
+25.53191489361702
+line_id 6660951756
+transcript norm:  et donc la troncide est interessante a la plante d espace qui sont assez vides d ailleurs ils sont a l affaire qu a l epoque si tu veux tu avais tous les stands a l interieur et les allees sur le grand palais c etait vide
+ref norm:         et donc elle trouve l idee interessante elle a plein d espaces qui sont assez vides d ailleurs qui sont a la fiac a l epoque si tu veux tu avais tous les stands a l interieur et les allees sur le grand palais c etait vide
+
+ ------------------------------------------- 
+
+14.814814814814813
+line_id 6660957884
+transcript norm:  c etait drole c est une petite anecdote sur andy garcia effectivement je fais le festival cinema americain d ovil donc avec barriere on decide de monter cette operation d ailleurs je fais un truc qui est encore chez barriere au casino c est un coco qui sort d un tableau
+ref norm:         c etait drole c est une petite anecdote sur andy garcia effectivement je fais le festival du cinema americain a deauville donc avec barriere on decide de monter cette operation d ailleurs j ai fait un truc qui est encore a chez barriere au casino c est un croco qui sort d un tableau
+
+ ------------------------------------------- 
+
+40.32258064516129
+line_id 6660929014
+transcript norm:  et je fais un garnissage avec un photographe et la c etait ouest de normandie et donc la il y a le directeur de l hotel qui arrive sur le garnissage et qui me dit oui oui je suis en garcet je veux absolument vous rencontrer
+ref norm:         et je fais un vernissage avec un photographe et la c etait pres de normandie et donc la il y a le directeur de l hotel il y a toute une equipe qui arrive sur le vernissage et qui me dit oui oui il y a un monsieur andy garcia qui va absolument vous rencontrer enfin on a un plein vernissage quoi
+
+ ------------------------------------------- 
+
+14.15929203539823
+line_id 6660973555
+transcript norm:  mais en tout cas c est vrai que je trouve que cette demarche de pouvoir avoir gratuitement un acces a l art et d etre emerveille pour les enfants parce que je fais un art on ne va pas se mentir qui est assez facile legible qui est immediate emotion immediate ou meme emotion qui est bien negative aussi parce qu il y a des gens qui disent ah c est quoi cette horreur mais quelqu un qui dit c est quoi cette horreur deja tu as reussi ton pari parce que tu provoques une emotion meme si elle est negative tu vois une emotion donc tu ne passes pas a une apercue
+ref norm:         mais en tout cas c est vrai que je trouve que cette demarche de pouvoir avoir gratuitement un acces a l art et d etre emerveille pour les enfants parce que je fais un art on ne va pas se mentir qui est assez facile lisibilite immediate emotion immediate ou meme emotion qui peut etre negative aussi parce qu il y a des gens qui disent 0 c est quoi cet horreur c est quoi . mais quelqu un qui dit c est quoi cet horreur deja tu as reussi ton pari parce que tu provoques une emotion meme si elle est negative tu provoques une emotion donc tu ne passes pas inapercu
+
+ ------------------------------------------- 
+
+13.157894736842104
+line_id 6660925510
+transcript norm:  oui alors c est plus complique que ca c est a dire que j ai toujours voulu etre artiste depuis tout petit puisque des l age de 4 ans je faisais deja des et ce n est pas des sculptures mais je faisais je creais des animaux en terre glaise qu on faisait ensuite cuire au 4 je faisais mes maitresses d ailleurs j etais un peu faillot deja a l epoque j avais deja besoin de plaire je pense
+ref norm:         oui alors c est plus complique que ca c est a dire que j ai toujours voulu etre artiste depuis tout petit puisque des l age de quatre ans je faisais deja des . pas des sculptures mais je creais des animaux en terre glaise qu on faisait ensuite cuire au 4 je referais a mes maitresses d ailleurs j etais un peu failleux deja a l epoque j avais deja besoin de plaire je pense
+
+ ------------------------------------------- 
+
+26.153846153846157
+line_id 6660946751
+transcript norm:  alors j ai arrete ca la je 10 ans quelque chose comme ca parce que en realite quand tu faisais a l epoque des petits animaux en poterie c etait pas tres glam par rapport a la seduction par rapport au fier etc c est un peu comme si tu faisais des tricots du macrame quoi t etais sous tes pieds sous ta gueule
+ref norm:         alors j ai arrete ca a l age de 10 ans quelque chose comme ca parce qu en realite quand tu faisais a l epoque des petits animaux en poterie c etait pas tres glam par rapport a la seduction par rapport aux filles etc c etait un peu comme si tu faisais du tricot du macrame donc on se foutait plutot de ta gueule
+
+ ------------------------------------------- 
+
+6.557377049180328
+line_id 6660945658
+transcript norm:  je n avais pas les moyens d attendre de quoi le cacher ou d attendre quoi que ce soit c est pour ca que j ai pris cette decision de faire des etudes traditionnelles et d avoir un parcours beaucoup plus classique parce que j avais besoin de bouffer mais sinon peut etre que j aurais pu rester dans cette activite
+ref norm:         et j avais pas les moyens d attendre de courir le cachet ou d attendre quoi que ce soit c est pour ca que j ai pris cette decision de faire des etudes traditionnelles et d avoir un parcours beaucoup plus classique parce que j avais besoin de bouffer mais sinon peut etre que j aurais pu rester dans cette activite
+
+ ------------------------------------------- 
+
+37.5
+line_id 6660940141
+transcript norm:  des acces je pense que c est par rapport a ca qu enfonce a lui c est des schemas qu on reproduit tu sais parfois les parents reproduisent etc je pense qu il y a eu eux ils reproduisent peut etre son periode de viol avec lui aussi je pense que c est ce qu il a reproduit des acces de haine c etait des violences occasionnelles mais tres fortes c etait vraiment des mythes
+ref norm:         des acces par rapport a son enfance a lui c est des schemas qu ont reproduits tu sais parfois les parents reproduisent etc je pense qu il a reproduit peut etre que son pere a du etre violent avec lui aussi je pense que c etait juste ce qu il a reproduit des acces de haine alors c etait des violences qui etaient occasionnelles mais tres fortes c etait vraiment des limites
+
+ ------------------------------------------- 
+
+30.18867924528302
+line_id 6660955248
+transcript norm:  je lui ai dit merci chaque fois on ne se parle pas trop on n est plus que moi faches mais pour d autres raisons et donc c etait tres difficile j ai vraiment eu des manques c etait affectif j ai des manques dans beaucoup de domaines plus cellulose
+ref norm:         je lui dis merci chaque fois on ne se parle pas trop on est plus ou moins faches mais pour d autres raisons et donc c etait tres difficile donc je vraiment j ai eu des manques affectifs aussi d aide j ai eu des manques dans beaucoup de domaines plus cette violence
+
+ ------------------------------------------- 
+
+10.185185185185185
+line_id 6660917501
+transcript norm:  un gosse quand il a 11 12 ans qui se dit ben la vie et qu au cote seul il va falloir que tu te demerdes il va falloir que tu ouvres les portes et il n y a personne sur qui compter c est violent comme constat moi je le vois aujourd hui avec mes enfants donc ils sont vraiment dans l inverse donc quelque part c est vraiment je pense que c etait violent mais quelque part ca m a forge et ca m a donne l envie effectivement d y arriver ce besoin cet instinct de survie qui etait tres puissant
+ref norm:         un gosse quand il a 11 12 ans qui se dit eh bien dans la vie coco t es seul il va falloir que tu te demerdes il va falloir que tu ouvres les portes et il n y a personne sur qui compter c est violent comme constat moi je le vois aujourd hui avec mes enfants donc ils sont vraiment dans l inverse donc quelque part c est vraiment je pense que c etait violent mais quelque part ca m a forge et ca m a donne l envie effectivement d y arriver c est besoin d avoir cet instinct de survie qui etait tres puissant
+
+ ------------------------------------------- 
+
+32.467532467532465
+line_id 6660954668
+transcript norm:  j etais tres tres tot inquiete sur la finalite des peurs de la mort j avais quand meme des envois ca s est essentiellement pret tres tres tot alors qu a cet age la c est pas le genre qu on nous cavait quand meme je pense a un terrain alors peut etre que ceci est du aux parents mais en tout cas il y avait un point de disposition assez particulier par rapport a ca
+ref norm:         j etais tres tres tres tot inquiete sur la finalite des peurs de la mort enfin j avais quand meme des angoisses assez existentielles tres tres tres tot alors qu a cet age la c est pas l enfant d ou qu il y avait quand meme je pense un terrain alors peut etre que c est aussi du aux parents mais en tout cas j avais un terrain une predisposition assez particuliere par rapport a ca
+
+ ------------------------------------------- 
+
+15.476190476190476
+line_id 6660921673
+transcript norm:  ouais effectivement peut etre pas pour toi maintenant ca pour moi en tout cas et pour les dieux c est un fatigant c est pour les mortels et non en realite du coup j ai l impression que dans un temps qui est imparti j ai le besoin de faire le maximum de choses donc mon challenge c est je dois faire en un an ce que je dois faire en dix ans c est un petit peu ca mon erreur
+ref norm:         oui effectivement peut etre pas pour toi maintenant ca bien pour moi en tout cas et c est pour les dieux c est en fait different c est pour les mortels et non en realite du coup j ai l impression que dans un temps qui est imparti j ai besoin de faire le maximum de choses donc mon challenge c est je dois faire en un an ce que les autres font en 10 ans c est un petit peu ca mon ..
+
+ ------------------------------------------- 
+
+22.689075630252102
+line_id 6660971897
+transcript norm:  mais j y arrive c est mon probleme alors que sur scene c est no choice t as pas c est drole parce que tout est et d ailleurs c est marrant il y a plein de choses qui se passent sur scene c est interessant d ailleurs quand t es malade par exemple tu montes sur scene t es fatigue t as trop de tension t es malade t es tout tu rentres sur scene de pleurer tout il y a l espece de ton corps cree les c est un endorphisme je sais pas ce qu il cree etc du coup tout change t es dynamise et t es dans le present
+ref norm:         mais j y arrive c est mon probleme mais alors que sur scene c est no choice c est drole parce que tout et d ailleurs c est marrant il y a plein de choses qui se passent sur scene c est interessant d ailleurs quand t es malade par exemple tu montes sur scene t es fatigue t as trop de tension t as mal a la tete et tout tu montes sur scene t as plus rien il y a une espece de ton corps cree des je sais plus c est de l endorphine je sais pas ce qu il cree etc et du coup tout change tout est dynamise et t es dans le present
+
+ ------------------------------------------- 
+
+20.27027027027027
+line_id 6660991090
+transcript norm:  et ca je trouve ca assez mou chez mes enfants tu peux etre une mega star ou alors une personne un ouvrier ils vont avoir le meme respect pour les deux personnes et ca je trouve ca assez incroyable et ce livre moi je ne peux pas s en dire c est pourri mais vraiment et aujourd hui c est encore moi qui le force a chez toi ils ne veulent rien
+ref norm:         et ca je trouve ca assez beau chez mes enfants tu petes une mega star ou alors une personne un ouvrier ils vont avoir le meme respect pour les deux personnes et ca je trouve ca assez incroyable et je te dis moi je ne vais pas s en dire je les ai pourris mais vraiment et aujourd hui c est encore moi qui les force a acheter des trucs ils ne veulent rien
+
+ ------------------------------------------- 
+
+40.54054054054054
+line_id 6660926403
+transcript norm:  c est a dire qu ils ne me demandent rien ils ne me donnent pas d argent ils me demandent quand ils voyagent ils voyagent en eco enfin tu vois c est le contraire de beaucoup d autres enfants ils ont la valeur de l argent la valeur des choses le respect ils ont vraiment et on me dit oui je les avais eduques ah non j ai rien fait en vrai j ai pas appris un livre je les ai dit comment on fait je me suis tres critique donc il m a dit bah t en vas il va encore nous ramener ses gosses en partant en vacances j avais mis ca j ai amene partout
+ref norm:         ils ne me demandent rien ils ne me demandent pas d argent ils ne me demandent pas ils me demandent quand ils voyagent ils veulent voyager en eco enfin tu vois c est le contraire de beaucoup d autres enfants ils ont la valeur de l argent la valeur des choses le respect ils ont vraiment et on dit oui tu les as bien eduques bah non j ai rien fait en vrai je n ai pas pris un livre et j ai dit comment on fait j etais tres critique donc mes potes ils veulent encore nous ramener ses gosses on partait en vacances a ibiza je les amenais partout
+
+ ------------------------------------------- 
+
+60.71428571428571
+line_id 6660911739
+transcript norm:  je me rappelle du petit il y a 4 ans il dormait jusqu a 4 h du matin sur le canape chez les vignettas allonge comme ca il dit 0 richard ce qu il fait regardez il n y a pas de respect pour ses gosses machin etc
+ref norm:         je me rappelle du petit a 4 ans il dormait jusqu a 4 heures du matin sur le canape chez david guetta allonge comme ca 0 oui richard ce qu il fait regarde il n a pas de respect pour ses gosses machin que ca en fait je les ai amenes partout je les ai meles a tout ils ont ete tard avec moi au restaurant tard dans la nuit mais quelque part ca en a fait des . ils ont bien des .
+
+ ------------------------------------------- 
+
+18.75
+line_id 6660971688
+transcript norm:  ils sont artistes aussi donc c est des metiers difficiles donc c est un peu different mais ils n ont certainement pas l annee que j avais ca c est certain mais ils le savent ils ont conscience ils s assument il n y a pas de probleme mais quand meme il y a quand meme cette envie de reussir il y a bien cette force artistique aussi puis ils ont des vrais talents contrairement a moi ils ont beaucoup plus de talent que moi donc
+ref norm:         ils sont un peu artistes aussi c est des metiers difficiles c est un peu different mais ils n ont certainement pas l aniac que j avais c est certain mais ils le savent ils sont conscients ils s assumaient il n y a pas de probleme mais quand meme il y a quand meme cette envie de reussir cette force artistique aussi puis ils ont des vrais talents contrairement a moi ils ont beaucoup plus de talents que moi
+
+ ------------------------------------------- 
+
+30.37974683544304
+line_id 6660911895
+transcript norm:  ils sont pour 100% que c est difficile ils sont pas la je pense qu ils ont du talent dans la musique ils ont 13 travails et puis 100% moi je les ai accueillis dans les valeurs du travail parce que pour moi le terrain c est bien mais s il n y a pas de travail ca n existe pas en fait il faut travailler quoi
+ref norm:         ils sont conscients que c est difficile et ils se tapent et ils sont voila . et je pense qu ils ont du talent dans la musique enfin voila et puis ils ont eu trop de travail et puis ils sont conscients moi je les ai inculques dans les valeurs du travail parce que pour moi le talent c est bien mais s il n y a pas de travail ca n existe pas en fait il faut travailler
+
+ ------------------------------------------- 
+
+37.5
+line_id 6660919220
+transcript norm:  alors ce qui s est passe c est que nous sommes partis nous c etait a ebissar donc on allait a l ile d amour a ebissar on est en bateau et on est avec le capitaine le commandant du capitaine de bateau et qui nous dit ah il y a un truc super c est une grotte c est une grotte avec une piscine
+ref norm:         alors ce qui s est passe c est que nous sommes partis a ibiza donc on allait regulierement a ibiza on etait en bateau et on est avec le capitaine au commandant je ne suis pas capitaine de bateau et qui nous dit il y a un truc super c est une grotte avec une piscine
+
+ ------------------------------------------- 
+
+19.65811965811966
+line_id 6660921571
+transcript norm:  au debut on est toute une equipe on est beaucoup a volar a pire et a pire a faire beaucoup de chemin parce qu il y a quand meme beaucoup de courant etc et du coup on se retrouve moi avec mes deux fils les deux aines que les autres ne viennent pas et donc deja tres complique de gravir c est beaucoup plus complique que prevu les lalabans donc on doit gravir les rochers on monte sur des rochers ensuite il faut redescendre pour se trouver dans un puits dans un puits on arrive dans le puits on se dit bon c est super c est joli maintenant il faut plonger et sortir
+ref norm:         au debut on est toute une equipe au debut on est beaucoup a vouloir puis il y en a plein qui rebouchent chemin parce qu il y a quand meme beaucoup de courant etc et du coup on se retrouve moi avec mes deux fils les deux aines parce que les autres ne viennent pas et donc deja tres complique de gravir c est beaucoup plus complique que prevu deja a la base donc on doit gravir les rochers on monte sur des rochers ensuite il faut redescendre pour trouver dans un puits c est un puits on arrive dans le puits dans l autre c est super c est joli maintenant il faut plonger et sortir
+
+ ------------------------------------------- 
+
+23.300970873786408
+line_id 6660958638
+transcript norm:  impossible meme a 3 2 on n arrive pas a monter ils sont customizes impossible de regravir le truc c etait injouable bon du coup il y en a un qui se dit bon ben moi je vais quand meme essayer de le sens est incline il plonge voila et puis il en attend peine que nous voulons cuire on ne trouve rien et puis il se passe 5 minutes 10 minutes 15 minutes rien et on commence a baliser on a peur on ne sait pas ce qui se passe qu est ce qu on fait qu est ce qu ils vont faire
+ref norm:         impossible non meme a 3 2 on n arrive pas a monter ils sont costauds mais impossible de regravir le truc c etait injouable bon du coup il y en a un qui dit bon ben moi je vais quand meme essayer de se lancer donc l aine il plonge voila et puis on attend pas de nouvelles on crie on entend rien rien et puis il se passe 5 minutes 10 minutes 15 minutes rien et on commence a baliser on a peur qu est ce qui se passe qu est ce qu on fait qu est ce qu il faut faire
+
+ ------------------------------------------- 
+
+21.12676056338028
+line_id 6660964491
+transcript norm:  et donc la vie fait qu il a retrouve la sortie mais il n a meme pas retrouve la sortie c est vraiment donc quand tu penses a ca c est quand meme bien mais a partir de ces emotions la l emotion deja de l entraide de tes enfants parce que tu sais que quand tu es pere tu sais qu il y a un truc assez marrant
+ref norm:         et donc la vie a fait qu il a retrouve la sortie mais il n aurait pas retrouve la sortie il serait mort quoi donc aujourd hui quand tu penses a ca c est quand meme bien bien flippant donc deux emotions la l emotion deja de l entraide de tes enfants parce que tu sais que quand t es pere tu sais qu il y a un truc assez marrant
+
+ ------------------------------------------- 
+
+34.61538461538461
+line_id 6660931398
+transcript norm:  je rentrais chez moi ce n etait pas bien ce n etait pas bien dans mon costume ce n etait pas bien dans ce que j etais alors vous avez au regard des autres effectivement il y en a eu sur le site social la famille la voiture la maison la campagne tout ce que tu veux mais ce n est pas heureux et du coup je pense que c est l accumulation de ce mal etre de ce mal etre de ce mal etre l impression d utiliser mes capacites a one alors qu il y a 99% qui restent derriere
+ref norm:         je rentrais chez moi j etais pas bien j etais pas bien dans mon costume j etais pas bien dans ce que j etais alors j avais au regard des autres effectivement une reussite sociale si tu veux la famille la voiture la maison la maison de campagne enfin tout ce que tu veux mais j etais pas heureux et du coup en fait je pense que c est l accumulation l accumulation de ce mal etre ce mal etre ce mal etre l impression d utiliser mes capacites a one alors qu il y a 100% il y a 99% qui restent derriere
+
+ ------------------------------------------- 
+
+11.76470588235294
+line_id 6660964391
+transcript norm:  et du coup c est la question qui fait qu on m en declenche et tu te dis bon allez when the fuck il faut se lancer il faut changer de vie et c est la que j ai decide de changer de vie mais ca a ete je pense l accumulation vraiment tres longue et puis j ai un vrai pouvoir de resilience assez important donc j ai resiste j ai supporte et donc je pense que c est plutot ca l idee
+ref norm:         et du coup c est l accumulation qui fait qu a un moment t exploses et tu dis bon allez what the fuck il faut se lancer il faut changer de vie et c est la que j ai decide de changer de vie mais ca a ete je pense l accumulation vraiment tres longue et puis j ai un vrai pouvoir de resilience assez important donc j ai resiste j ai supporte voila et donc je pense que c est plutot ca l idee
+
+ ------------------------------------------- 
+
+12.5
+line_id 6660945559
+transcript norm:  tu sais j avais une vraie capacite a creer des business a monter parce que j ai fait beaucoup d autres choses avant apres j ai meme fait des petits metiers quand j etais etudiant j ai parle d arlandes j ai fait courrier j ai fait plein de c est interessant de le dire aussi mais non non c etait vraiment j avais l impression que j avais plein de choses a faire c etait waif finalement parce que je montais des business qui fonctionnaient
+ref norm:         tu sais j avais une vraie capacite a creer des business a monter parce que j ai fait beaucoup d autres choses avant j ai meme fait des petits metiers quand j etais etudiant j avais pas d argent j ai fait coursier enfin j ai fait plein de . c est interessant de le dire aussi mais non non c etait vraiment . j avais l impression que j avais plein de choses a faire j etais oisif finalement parce que je montais des business qui fonctionnaient
+
+ ------------------------------------------- 
+
+25.333333333333336
+line_id 6660923122
+transcript norm:  apres j ai laisse ca fonctionnait tout seul et puis apres il me desinteressait tres rapidement en plus donc du coup oui l idee c etait vraiment j avais envie d utiliser ce que j avais au fond de moi et de revirer a l essentiel ce que j avais envie de vraiment faire a l origine c etait ce cote d artiste et je commencais par ce que tu vois ca peut commencer par autre chose
+ref norm:         apres ca fonctionnait tout seul et puis apres je me desinteressais tres rapidement en plus donc du coup oui oui l idee c etait vraiment . j avais envie d utiliser ce que j avais au fond de moi et de revenir a l essentiel ce que j avais envie de vraiment faire a l origine c etait ce cote artistique et j ai commence par la sculpture ca aurait pu commencer par autre chose
+
+ ------------------------------------------- 
+
+31.944444444444443
+line_id 6660923759
+transcript norm:  c est vide c est triste je comprends des gens qui se droient qui ont tout et qui trouvent des palliatifs alors moi je n ai jamais ete le harceleur de choses et ca ne m a jamais tente il y a un tres grand champ de salles sportives il y a eu beaucoup de sports et donc c est des valeurs que je n avais pas trop endossees
+ref norm:         c est vide c est triste je comprends des gens qui se droguent qui ont tout et qui trouvent des palliatifs alors moi je n ai jamais ete vers ce genre de choses et ca ne m a jamais tente j ai un tres grand . je suis en ancien sportif j ai vu beaucoup de sports donc c est des valeurs si tu veux que je n arrivais pas a transgresser
+
+ ------------------------------------------- 
+
+42.42424242424242
+line_id 6660930145
+transcript norm:  c est ma saison ca m a beaucoup aide dans ces valeurs le sport m a beaucoup aide dans ma vie justement je ne vais pas aller sombrer dans des histoires facilitees parce qu aujourd hui le sport ca donne quand meme une certaine rigueur l education c etait un jeu moi j ai fait du foot a l epoque c etait dur il faut vraiment traiter donc les commissaires a beaucoup servir etc
+ref norm:         ca m a beaucoup aide d ailleurs ces valeurs le sport m a beaucoup aide dans ma vie justement a ne pas aller sombrer dans la facilite le sport ca donne quand meme une certaine rigueur et education c etait a la dure moi j ai fait du foot a l epoque c etait dur comme on nous traitait mais ca m a beaucoup servi aussi
+
+ ------------------------------------------- 
+
+50.57471264367817
+line_id 6660995747
+transcript norm:  avec les 100 derniers membres c est tres drole je voyais que d ailleurs on fait ce mot gout de matricialite mais oui oui a l epoque c etait tres drole mais ca donnait une base le cote aussi equipe tu sais solidarite des vraies valeurs on ne se rend pas compte mais les gosses mais il faut qu il y ait des vraies valeurs pour la douche le yes le
+ref norm:         christian d ailleurs il est marrant parce qu il est tres drole christian j ai joue avec lui d ailleurs je fais beaucoup de matchs de charite donc souvent il est la mais oui oui a l epoque c etait tres dur mais ca donnait une base ca donnait le cote aussi equipe tu sais solidarite il y a des vraies valeurs on se rend pas compte mais les gosses tu les mets au foot il y a des vraies valeurs tu prends la douche l obligation
+
+ ------------------------------------------- 
+
+22.89156626506024
+line_id 6660912060
+transcript norm:  je m immobilie et je m investis a fond dans ce projet donc la creation de la sculpture les mots ou je m enseigne parce que j y connais rien finalement moi j ai mon experience d artiste de lundi enfin du dimanche je sais pas comment on appelle ca ou d un hobby quoi et donc du coup je vais m enseigner soit je vais dans les ateliers enfin je fais une espece de pas de prospection mais de prospection et je vais regarder le fait
+ref norm:         et je m immobilier et je m investis a fond dans ce projet donc la creation de la sculpture les mots je m en renseigne parce que je n y connais rien finalement moi j ai mon experience d artiste du lundi du dimanche je ne sais pas comment on appelle ca de hobby et donc du coup je vais m enseigner je vais dans les ateliers enfin je fais une espece de pas d introspection mais de prospection et je vais regarder
+
+ ------------------------------------------- 
+
+29.71014492753623
+line_id 6660911107
+transcript norm:  la moute tres chere parce que faire un tableau il faut des pinceaux et des pinceaux en etoile mais l esculpture il faut fabriquer la premiere oeuvre le master apres il faut faire un moule apres il faut faire un tirage moi je n ai pas d atelier je n ai rien donc il faut sous traiter ca dans les ateliers j ai ete au fringo parisien la au 13 e ou il y avait des ateliers qui faisaient ca puis apres c est une autre puis apres c est vraiment un monde tres particulier il faut etre enfin tes pives ils te voient arriver comme ca comme un gobo t es rien t es nul ils n ont meme pas envie de te faire le truc moi si tu payes ils ne veulent pas te le faire
+ref norm:         ca coute tres cher parce que faire un tableau il faut des pinceaux et il faut des pinceaux et une toile mais la sculpture il faut fabriquer la premiere oeuvre le master apres il faut faire un moule apres faire un tirage moi je n ai pas d atelier je n ai rien donc il faut aller sous traiter ca dans des ateliers j etais au frigo parisien la dans le 13 e ou il y avait des ateliers qui faisaient ca puis apres j ai vu d autres et puis apres c est vraiment un monde tres particulier il faut arriver comme ca comme un gogo tu n es rien tu n es nulle part ils n ont meme pas envie de te faire le truc meme si tu paies ils ne veulent pas te le faire
+
+ ------------------------------------------- 
+
+29.545454545454547
+line_id 6660960681
+transcript norm:  tu n as que de poisson tu peux flinguer un mec il est gay alors quel animal lui va tuer pour se nourrir jusqu a aujourd hui alors que toute la societe est corrompue l animal respecte encore ce cercle vertueux de la vie qui est incroyable donc mon idee c est de m elire les animaux sont consideres comme des etres non intelligents peut etre qu on a des choses a apprendre d eux c est le seul concept de van west
+ref norm:         tu as une queue de poisson tu peux flinguer un mec donc il est guere enfin tout ca alors que l animal il va tuer pour se nourrir et jusqu a aujourd hui alors que toute la societe est corrompue l animal respecte encore ce cercle vertueux de la vie qui est incroyable et donc mon idee c est de me dire des animaux sont consideres comme des etres non intelligents et ben peut etre on a des choses a apprendre c etait ca le concept de bornwell
+
+ ------------------------------------------- 
+
+23.684210526315788
+line_id 6660977116
+transcript norm:  non c est lever le bouclier de mon ex femme et aussi de l entourage tu sais quand tu es successif dans un milieu avec des gens c est pas avec des golden boys mais enfin avec un milieu des sorties je ne sais pas tu vis dans un espece d ecosysteme assez particulier dans un environnement particulier donc la effectivement tu as des levees le bouclier des landes routes traitees le mec il est flou etc
+ref norm:         non c est des levees de boucliers de mon ex femme et aussi de l entourage tu sais quand tu es successful dans un milieu avec des gens pas que des golden boy mais enfin avec un milieu des sorties je ne sais pas tu vis dans un espece d ecosysteme assez particulier dans un environnement particulier donc la effectivement t as des levees de boucliers des gens beaucoup de critiques le mec il est fou
+
+ ------------------------------------------- 
+
+19.444444444444446
+line_id 6660941675
+transcript norm:  oui je suis pris de haute citadelle mais l anecdote interessante c est quand je viens avec mon croco sous le bras et que le guerrieriste me dit ecoute c est super j adore le brule je vous la suis je vais etre tres reussi mais bon t es pas connu t es rien on sait pas je vois pas ce qu on peut faire avec ca par contre j ai une proposition a te faire
+ref norm:         oui je suis pris de haut etc mais l anecdote interessante c est quand je viens avec mon croco sous le bras et que le galeriste me dit ecoute c est super j adore le projet je trouve que la sculpture est tres reussie mais bon t es pas connu t es rien je vois pas ce qu on peut faire avec ca par contre j ai une proposition a te faire
+
+ ------------------------------------------- 
+
+40.19607843137255
+line_id 6660951369
+transcript norm:  pour moi c est facile la vie elle est facile en fait il n est pas facile de lire des trucs qu on ne t attend pas et la ou du coup j ai reflechi bien a tout ca je rentre dans la voiture je suis sonne je lui ai dit ah ouais non ca n a pas le genre je n ai pas a investir mettre toute mon energie dans quelques uns projets il y a l issue qui est en fait prendre des risques pour quelqu un d autre et la je vais le prendre pour moi meme donc je n ai pas voulu faire mais j ai compris qu on ne m attendait pas
+ref norm:         pour moi c est facile la vie elle est facile alors que la vie elle est pas facile du tout et qu on t attend pas et donc du coup je reflechis bien a tout ca je rentre dans la voiture je suis sonne je me dis ah ouais non ca va pas je vais pas investir mettre toute mon energie dans quelque chose dans un projet et risquer en fait prendre des risques pour quelqu un d autre les risques je vais prendre pour moi meme donc j ai pas voulu faire mais j ai compris qu on m attendait pas
+
+ ------------------------------------------- 
+
+4.545454545454546
+line_id 6660975467
+transcript norm:  et du coup apres ca a ete complique j ai pris un peu de temps j ai compris quelques techniques que j explique dans mon livre aussi par avoir a comment faire les choses et j ai eu envie de je voulais dans une maison de vente dans un hotel et dans une garree et c etait mon challenge et j ai fait les trois
+ref norm:         et du coup apres ca a ete complique j ai pris un peu de temps j ai compris quelques techniques que j explique dans mon livre aussi par rapport a comment faire les choses et j ai eu envie de je voulais etre dans une maison de vente dans un hotel et dans une galerie et c etait mon challenge et j ai fait les trois
+
+ ------------------------------------------- 
+
+10.218978102189782
+line_id 6660915964
+transcript norm:  donc la c etait la premiere etape et je pense qu on a reussi a avoir un produit qui etait bien enfin ce n est pas un produit c est une sculpture mais en tout cas bon bref on s est compris et apres j ai eu l idee parce que la com ca coutait tres cher je n etais pas connu j ai eu l idee de faire du dumping le dumping c est quoi le dumping c est de vendre la perte c est le moins de moins cher que tu peux trouver et du coup d en avoir pour ton argent d avoir une grande sculpture qui faisait 110 et on la vendait moins de one 0 balles donc du coup la premiere semaine je crois qu on a vendu une vingtaine
+ref norm:         donc la c etait la premiere etape et je pense qu on a reussi a avoir un produit qui etait bien enfin ce n est pas un produit c est une sculpture mais en tout cas bon bref on s est compris et apres j ai eu l idee parce que la com ca coutait tres cher je n etais pas connu j ai eu l idee de faire du dumping le dumping c est quoi le dumping c est de vendre a perte c est de vendre moins cher que ton prix de revient et du coup d en avoir pour ton argent d avoir une grande sculpture qui faisait one m 10 et on la vendait moins de 1000 balles donc du coup la premiere semaine je crois qu on en a vendu une vingtaine
+
+ ------------------------------------------- 
+
+16.901408450704224
+line_id 6660991967
+transcript norm:  oui mais je perds de l argent mais j en ai hate parce qu en termes de com quand je reflechis avec un peu l analyze et le background justement qui est interessant tu te dis que comment ca coute une campagne de pub enfin une pub tele comment ca coute une pub dans le magazine bah c est en fait c est pas si cher que ca quand finalement
+ref norm:         oui mais je perds de l argent mais j en garde parce qu en termes de com quand tu reflechis tu as un peu l analyze et le background justement qui est interessant tu te dis que comment ca coute une campagne de pub pour faire une pub tele comment ca coute une pub dans les magazines bah c est en fait ce n est pas si cher que ca finalement
+
+ ------------------------------------------- 
+
+25.179856115107913
+line_id 6660971259
+transcript norm:  oui c est des trucs tres rapides les gros tres souvent marine galery je lui ai dit pourquoi je ne l ai pas fait moi il va te dicter ce que tu veux faire il veut se mettre a la place des artistes c est comme ca il va te dicter il a fait ca il y a un cote tres pervers en fait et donc du coup voila et je suis rendu compte c est interessant c est que les gens ne t attendent pas en fait personne ne m attendait quoi que ce soit dans ma tete en fait c est tres complique si tu n as pas les codes si tu n as pas la carte si tu n es pas courbe par une institution ou par quelque chose je ne peux pas reussir en france dans l art ce n est pas possible
+ref norm:         oui c est destructeur et puis l ego tu sais souvent un galeriste va dire pourquoi je l ai pas fait moi il va te dicter ce que tu veux faire il veut se mettre a la place de l artiste c est comme ca il va te dicter dire fais ca il y a un cote tres pervers en fait et donc du coup voila et je me suis rendu compte c est interessant c est que les gens ne t attendent pas en fait personne ne m attendait pour quoi que ce soit dans ma tete c est tres complique si t as pas les codes si t as pas la carte si t es pas coopte par une institution par quelque chose tu ne peux pas reussir en france dans l art c est pas possible
+
+ ------------------------------------------- 
+
+25.333333333333336
+line_id 6660948278
+transcript norm:  exactement donc du coup on s installe on met rien que ca moi avec les grands codines les grands et les petits evidemment et le truc ca fait un carton le nombre de gens sur le stand incroyable jalousie de tous les exposants autour donc la fk commence un mercredi donc le vendredi a midi la direction de position est d un bois elle me dit je suis desole mais ca va faire a partir
+ref norm:         exactement donc du coup on s installe j ai que ca moi j ai que les crocodiles les grands et les petits evidemment et le truc ca fait un carton le nombre de gens sur le stand incroyable jalousie de tous les exposants autour donc la fia commence un mercredi donc le vendredi a midi la direction d exposition elle vient me voir elle me dit je suis desole mais richard il va falloir partir
+
+ ------------------------------------------- 
+
+22.35294117647059
+line_id 6660990034
+transcript norm:  je crois que je suis reballe a 16 h donc je suis vire manu militari a ete assez gentil parce qu il etait desole parce que c est lui qui m avait donne l autorisation et donc de la jalousie par la jalousie d autres parce qu en fait il faudrait meme te preciser que le stand etait plat s 24 les gens les adoraient leur font trouver ca sympa il y avait un cote tres lydique et assez nouveau assez different
+ref norm:         je crois que je finis de remballer a 16 h donc je suis vire manu militari hein manu militari etait assez gentil parce qu elle etait desolee parce que c est elle qui m avait donne l autorisation et donc de la jalousie par la jalousie d autres parce qu en fait il faut meme te preciser que le stand etait plein h 24 les gens les adoraient les enfants trouvaient ca sympa il y avait un cote tres ludique assez nouveau et assez different
+
+ ------------------------------------------- 
+
+13.636363636363635
+line_id 6660984011
+transcript norm:  et bien c est vrai au moment de new york regardez ce tableau il a ete mis dans cette position pour ceux qui peuvent le voir et en fait c etait dans cette position la ils l ont mis a l envers pendant 50 jours vincent van dugt aurait plagie son tableau qui est tres coin il tourne seul sur un dessin fait par sa petite soeur
+ref norm:         eh ben c est vrai au moma de new york regardez ce tableau il a ete mis dans cette position pour ceux qui peuvent le voir et en fait c etait dans cette position la ils l ont mis a l envers pendant 50 jours vincent van gogh aurait plage son tableau qui est tres connu les tournesols sur un dessin fait par sa petite soeur
+
+ ------------------------------------------- 
+
+12.5
+line_id 6660943766
+transcript norm:  et j etais un peu public par rapport a ca et puis du coup apres je me suis rendu compte qu il y avait des guerriers qui commencaient a dire des gens qui commencaient a dire que ca n existe pas le mec n existe pas c est un faux truc il y avait une suspicion de non existence de l artiste
+ref norm:         et j etais un peu public par rapport a ca et puis du coup apres je me suis rendu compte qu il y avait des galeries qui commencaient a dire ou des gens commencaient a dire ca n existe pas le mec il n existe pas c est un faux truc il y avait quand meme une supposition de non existence de l artiste
+
+ ------------------------------------------- 
+
+17.333333333333336
+line_id 6660921055
+transcript norm:  non on sorge apres aujourd hui je prends des balles tous les jours donc c est pas tres facile mais a l epoque non c est blessant j ose meme parfois comme je ne suis pas non plus tres connu donc dans des diners ou dans des receptions je ne dis pas qui je suis c est un coin de l art mais je dis jamais qui je suis
+ref norm:         non on se forge apres aujourd hui moi je prends des balles tous les jours donc ce n est pas tres facile mais a l epoque non c est blessant j ose meme parfois comme je ne suis pas non plus tres connu donc dans des diners ou dans des receptions je ne dis pas qui je suis t es dans quoi t es dans l art mais je ne dis jamais qui je suis
+
+ ------------------------------------------- 
+
+25.882352941176475
+line_id 6660925074
+transcript norm:  un peu honteux des murs tu sais quand tu te promenes que t es critique en fait la souffrance du depart c est de pas etre reconnu par mes peres d arriver quand meme a faire des performances t as eu avant t as eu un etude mais de pas etre reconnu par ses peres t as une frustration de cette non reconnaissance aujourd hui je m en fous mais a l epoque c etait quelque chose d important
+ref norm:         un peu honte au debut tu sais quand tu te prends et que tu es critique en fait ma souffrance du depart c est de ne pas etre reconnu par mes peres d arriver quand meme a faire des performances d arriver avant d arriver a avoir des trucs mais de ne pas etre reconnu par ses peres donc quelque part tu as une frustration de cette non reconnaissance aujourd hui je m en fous mais a l epoque c etait quelque chose d important
+
+ ------------------------------------------- 
+
+33.663366336633665
+line_id 6660990669
+transcript norm:  et tout le monde regarde comme ca ils sont effares comme orlinsky il a pu dire qu il n est rien il a pu dire qu il ne va pas revenir etc j ai dit maintenant je suis desole on reviendra vous dites qu on ne reviendra pas parce que c est mort c est fini ils ont tout a foutre enfin bon j ai plus que dit etc il y avait une des adjointes de dominique desseney pas qui lui qui me dit que c est la seule qui a bien fait etc
+ref norm:         et tout le monde on me regarde comme ca ils sont effares comme orlinski il a pu dire qu il n est rien il a pu dire qu il va pas revenir machin etc je lui dis non je lui dis on reviendra pas vous dites tout qu on reviendra pas parce que c est mort c est fini j ai autre chose a foutre bon je sais plus ce que je dis etc il y avait une des adjointes de dominique desseigne a l epoque qui me dit elle qui etait la seule qui me dit putain bien fait etc
+
+ ------------------------------------------- 
+
+42.64705882352941
+line_id 6660999366
+transcript norm:  bref et genre on va pour partir et agnes dit ben non c est bon c est moi je suis reveille donc on monte avec la cohorte de gens de tous les employes machin bref et il reste dehors on va le rendre dans sa suite on passe je crois 3 h dans la suite et il est en pajama enfin 32 chants
+ref norm:         bref on va pour partir et il y a quelqu un qui nous rappelle non c est bon c est bon il s est reveille donc on monte avec la cohorte de gens de tous les employes machin bon bref eux ils restent dehors moi je rentre dans sa suite on passe je crois trois heures dans la suite il est en pajama enfin en robe de chambre
+
+ ------------------------------------------- 
+
+24.705882352941178
+line_id 6660973272
+transcript norm:  avec son fame il appelle un mec des gators de florida qui fait des crocodiles super sympa comme s il etait pote depuis 20 ans et ca fait dans les journaux le lendemain dans le journal je ne sais pas comment il s appelle le new west enfin bref le journal de normandie peu importe et donc c etait drole c etait une experience qui etait vraiment drole il m a beaucoup aide
+ref norm:         avec son frere il me raconte des conneries il appelle un mec des gators de florida qui fait des crocodiles super sympa comme s ils en etaient potes depuis 20 ans apres ca fait d ailleurs dans les journaux ils en ont parle le lendemain dans le journal je ne sais pas comment il s appelle lowell west enfin bref le journal de normandie la n importe et donc c etait drole c etait une experience qui etait vraiment drole il m a beaucoup aide
+
+ ------------------------------------------- 
+
+20.0
+line_id 6660998873
+transcript norm:  ecoute sharon elle fait un diner pour une levee de fonds au festival de cal et on met les crocos sur les tables et du coup elle craque sur le truc bon apres on devient milliers apres je sais pas par un dessin de mur c est bien apres il y avait deja une notoriete aujourd hui les artistes ils m appellent pour voir des sculptures c est drole d ailleurs le respect qu il y a entre les artistes musicaux les cinemas et les artistes
+ref norm:         ecoute sharon elle fait un diner pour une levee de fond au festival de cannes et on met des crocos sur les tables et du coup elle craque sur le truc bon apres on devient amis apres je ne sais pas enfin justin bieber c est bien apres donc il y avait deja une notoriete aujourd hui les artistes ils m appellent pour avoir des sculptures enfin tu vois c est drole d ailleurs le respect qu il y a entre les artistes musicaux du cinema et les artistes ..
+
+ ------------------------------------------- 
+
+32.098765432098766
+line_id 6660926649
+transcript norm:  il y a trois semaines j ai des under reloads qui m appellent et qui me disent ma chanson j ai maluma qui m appelle tous ces draps c est pas moi qui les ai telecharges pour les voir c est eux qui sont je dis pas que des musiques comme ca mais en tout cas aujourd hui t as des gens qui t appellent et qui veulent te rencontrer pour des raisons x ou y des francais mais enfin .
+ref norm:         il y a trois semaines j ai jason derulo qui m appelle et qui me dit machin j ai maluma qui m appelle tous ces gens la ce n est pas moi qui aie cherche pour les voir c est eux qui sont . je ne dis pas qu au debut c etait comme ca mais en tout cas aujourd hui tu as des gens qui t appellent qui veulent te rencontrer pour des raisons x ou y des francais meme
+
+ ------------------------------------------- 
+
+29.761904761904763
+line_id 6660913831
+transcript norm:  et oui c etait tres sympa parce que c est une mega star donc le nombre de gens autour machin etc et a un moment il est la en fait vous pouvez pas la rencontrer en fait enfin un truc je sais plus alors que c etait prevu etc et le mec il s est enerve il a pousse tout le monde sa fille machin etc et donc on est a arnaud on a fait la rencontre on est passes tout le temps ensemble et du coup la on est sur un projet de faire une oeuvre a quatre mains
+ref norm:         oui il etait tres sympa parce que c est une mega star donc le nombre de gens autour etc et a un moment il dit non vous ne pouvez pas le rencontrer en fait alors que c etait prevu etc et le mec s est enerve il a pousse tout le monde sa fille etc et donc on a fait la rencontre on a passe du temps ensemble et du coup la on est sur un projet de faire une oeuvre a quatre mains
+
+ ------------------------------------------- 
+
+37.16814159292036
+line_id 6660956423
+transcript norm:  oui c est que t es artiste ou les dessins de ma femme ou tu veux pas faire des trucs enfin oui c est tellement debattu mais dans la culture artiste du coup il y a des raccourcis qui sont rapidement faits et tout ce qui est trash c est soit interdit de faire ce qui est trash au debut j interdis beaucoup de choses au long du jeu je m interdis plus rien mais par contre j ai envie de dire que je suis d accord de faire ou en tout cas de reflechir a faire ce que des enfants peuvent voir
+ref norm:         oui tu es artiste tu ne peux pas mouler les seins de ma femme tu ne veux pas faire le truc ou . oui ca t a demande les gens ils pensent culture artiste donc du coup il y a des raccourcis qui sont rapidement faits et tout ce qui est trash je me suis toujours interdit de faire ce qui etait trash au debut je m etais interdit beaucoup de choses aujourd hui je ne m interdis plus rien mais par contre en fait j ai envie de dire que je suis d accord de faire ou je suis en tout cas de reflechir a faire ce que des enfants peuvent voir
+
+ ------------------------------------------- 
+
+29.268292682926827
+line_id 6660925120
+transcript norm:  oui oui voila et apres c est bon on est du casse source parce que ca serait important pour ca tu vois j ai eu des potes avec un lindier assez connu il s appelle martin grex qui avait une famille donc lui il a eu le succes mais il a trouve qu il allait garder la tete froide avec beaucoup de respect genereux mais c est rare parce que lui il est arrive dans ce monde la de la musique ou du cinema que tu connais un peu c est tres complique voila les gens sont tres compliques mais il y a des exceptions donc du coup je pense que la famille est faite et puis le fait que ouais peut etre cette regie tardive la matche electrique
+ref norm:         oui oui voila et apres c est pour l education je pense que c est tres important pour ca tu vois je suis potes avec un dj assez connu qui s appelle martin garrix qui avait une famille donc lui il a eu du succes mais il a toujours garde la tete froide avec beaucoup de respect genereux mais c est rare parce que lui il est arrive dans ce monde la de la musique ou du cinema tu connais un peu c est tres complique les rapports a l argent sont tres compliques etc mais il y a des exceptions donc du coup je pense que la famille y fait et puis le fait ouais peut etre cette reussite tardive la maturite
+
+ ------------------------------------------- 
+
+44.230769230769226
+line_id 6660915462
+transcript norm:  aujourd hui a plus que l oreille j ai ecrit aussi un truc genial pour moi en tout cas et qui est mort en populaire au bon sens du terme c est que j ai fait une experience de collab avec disney ou j ai eu radar preteilumi qui est source fille
+ref norm:         alors aujourd hui puisqu aujourd hui j ai cree aussi un truc genial parce que enfin pour moi en tout cas ce qui me rend populaire au bon sens du terme c est que mon experience j ai fait une experience de collab avec disney ou j ai reinterprete le mickey sorcier
+
+ ------------------------------------------- 
+
+27.659574468085108
+line_id 6660957422
+transcript norm:  c est pas grave c est qu en plus moins €49 evidemment c est pas fabrique en france mais moi dans mes ateliers pour faire la meme chose ca m aurait coute 500 balles ou 1000 balles je sais pas ca m aurait coute une arme quoi regle a peinture chromee dis leur ca va etre une fortune de peinture chromee enfin si tu venais les voir etre chez form ca coute tres cher et donc du coup le systeme a permis de rentrer comme ca avec de faire plaisir a des gens qui n ont pas eu acces a l art et du coup on a fait un vrai carton on a fait on a fait des milliers de pieces et il y a des soldats hauts il y a des trafics l homme derriere etc c est un truc de fou
+ref norm:         ce n est pas ca c est qu en plus moi €49 bon evidemment ce n est pas fabrique en france mais moi dans mes ateliers pour faire la meme chose ca m aurait coute 500 balles ou 1000 balles je ne sais pas ca m aurait coute une blinde quoi rien que la peinture chromee deja c est une fortune de faire une peinture chromee enfin si tu connais les voitures ca coute tres cher et donc du coup disney m a permis de rentrer comme ca de faire plaisir a des gens qui n ont pas eu acces a l art et du coup on a fait un vrai carton on a vendu des milliers de pieces il y a eu du sold out il y a eu des trafics meme derriere etc c est un truc de fou
+
+ ------------------------------------------- 
+
+19.53125
+line_id 6660957897
+transcript norm:  ecoute je ne sais pas est ce que le set cheveux c est une serie limitee est ce qu il y en aura tres peu est ce que tu peux les collectionner et puis t as trouve rendre plus cher je n en sais rien ca depend de c est quoi la vocation du produit t as les produits en serie limitee par exemple ca vaut ils sont tres chers mais ca vaut le coup parce que quelque part tu les collectionnes et du coup ils prennent de la valeur si c est juste pour secher les cheveux pour dire que t as fait dyson bon voila c est pour moi en tout cas d avoir un set cheveux dyson apres c est souvent esthetique c est le dna c est joli ca se prie aussi
+ref norm:         ecoute je sais pas est ce que les seche cheveux c est une serie limitee est ce qu il y en aura tres peu tu peux les collectionner et plus tard tu pourrais les vendre plus cher j en sais rien ca depend c est quoi la vocation du produit t as des produits en serie limitee par exemple ils sont tres chers mais ca vaut le coup parce que quelque part tu les collectionnes et du coup ils prendront de la valeur si c est juste pour te secher les cheveux pour dire que t as fait dyson bon voila c est pour moi en tout cas d avoir un seche cheveux dyson apres c est souvent esthetique le design c est joli ca se plait aussi
+
+ ------------------------------------------- 
+
+28.695652173913043
+line_id 6660921157
+transcript norm:  ouais on m a pete une statue mais le plus pete de statues c est moi je me souviens au debut il avait le crocodile comme statue j avais sorti du temps rouge et la premiere fois que je le sens en noir j ai une cliente qui vient pour recuperer la sculpture c etait chez moi c etait au debut j avais pratiquement pas de galerie c etait au debut du dernier pour moi c etait tres important de faire des ventes et j etais tres excite a l idee de vendre cette vente
+ref norm:         ouais on m a pete une statue mais celui qui a le plus pete de statue c est moi moi j ai pete une statue je me souviens au debut j avais le crocodile comme statue et j avais une . j avais fait . j avais sorti il etait en rouge la premiere fois que je le sors en noir j ai une cliente qui vient pour recuperer la sculpture c etait chez moi c est au debut je crois que j avais pratiquement pas de galerie c etait au debut etc pour moi c est tres important de faire des ventes et j etais tres excite a l idee de vendre cette vente
+
+ ------------------------------------------- 
+
+12.0
+line_id 6660981325
+transcript norm:  donc cliquez alors ca certainement ca congle des manques certainement ca congle des manques mais je pense que c est pas tellement le succes c est de pouvoir moi ce qui m a vraiment peut etre pas soigne mais un truc qui m a donne des choses assez interessantes et positives c est de me donner la possibilite de pouvoir faire d autres choses de pouvoir realiser d autres projets de pouvoir realiser ses reves
+ref norm:         complique alors certainement ca comble des manques certainement ca comble des manques mais je pense que c est pas tellement le succes c est de pouvoir . moi ce qui m a vraiment peut etre pas soigne mais en tout cas qui m a donne des choses assez interessantes et positives c est de me donner la possibilite de pouvoir faire d autres choses de pouvoir realiser d autres projets de pouvoir realiser ses reves
+
+ ------------------------------------------- 
+
+2.083333333333333
+line_id 9271864241
+transcript norm:  mais pour l heure le dialog est particulierement complique cette vague de violence inedite depuis les annees 80 a commence alors que l assemblee nationale debattait d une aveforme constitutionnelle concernant le corps electoral neo caledonien alors que contient ce texte pour provoquer une telle flambee de violence
+ref norm:         mais pour l heure le dialog est particulierement complique cette vague de violence inedite depuis les annees 80 a commence alors que l assemblee nationale debattait d une reforme constitutionnelle concernant le corps electoral neo caledonien alors que contient ce texte pour provoquer une telle flambee de violence
+
+ ------------------------------------------- 
+
+2.127659574468085
+line_id 9271844169
+transcript norm:  qu est ce qui se joue exactement dans cette crise et quelle issue peut on en attendre nathalie guibert est journaliste au service politique du monde elle nous explique nouvelle caledonie tout comprendre a la crise un episode de marion bouterelle et claire leys realization thomas zeng
+ref norm:         qu est ce qui se joue exactement dans cette crise et quelle issue peut on en attendre nathalie guibert est journaliste au service politique du monde elle nous explique nouvelle caledonie tout comprendre a la crise un episode de marion bothorel et claire leys realization thomas zeng
+
+ ------------------------------------------- 
+
+1.5873015873015872
+line_id 9271819905
+transcript norm:  apres 10 jours de crise et 16 0 kilometers parcourus emmanuel macron est arrive jeudi matin heure locale en nouvelle caledonie cet archipel situe a mi chemin entre l australie et la nouvelle zelande et partout sur le territoire les stigmates des violences ecoles calcinees magasins pilles et des forces de l ordre postees en nombre dans chaque quartier de noumea la capitale
+ref norm:         apres dix jours de crise et 16 0 kilometers parcourus emmanuel macron est arrive jeudi matin heure locale en nouvelle caledonie cet archipel situe a mi chemin entre l australie et la nouvelle zelande et partout sur le territoire les stigmates des violences ecoles calcinees magasins pilles et des forces de l ordre postees en nombre dans chaque quartier de noumea la capitale
+
+ ------------------------------------------- 
+
+4.3478260869565215
+line_id 9271886759
+transcript norm:  ces barrages tenus par des independantistes sont pourtant toujours bien visibles dans l archipel grand comme deux fois la corse au nord de la capitale des carcasses de voitures incendiees continuent de hacher la circulation christelle habite dans le nord est de noumea le quotidien de cette caledonienne de 52 ans que l equipe de l heure du monde a contactee s est transforme depuis le debut des emeutes
+ref norm:         ces barrages tenus par des independantistes sont pourtant toujours bien visibles dans l archipel grands comme deux fois la corse au nord de la capitale des carcasses de voitures incendiees continuent de hacher la circulation christelle habite dans le nord est de noumea le quotidien de cette caledonienne de 52 ans que l equipe de l heure du monde a contacte s est transformee depuis le debut des emeutes
+
+ ------------------------------------------- 
+
+4.081632653061225
+line_id 9271819054
+transcript norm:  johan lui n a pas du tout le meme point de vue concernant les independantistes qui prennent part au blocage radicalement oppose aux manifestants cet habitant de noumea de 37 ans va jusqu a les qualifier de terroristes dans le temoignage qu il a donne a l agence reuters
+ref norm:         yohan lui n a pas du tout le meme point de vue concernant les independantistes qui prennent part au blocage radicalement oppose aux manifestants cet habitant de noumea de 37 ans va jusqu a les qualifier de terroriste dans le temoignage qu il a donne a l agence reuters
+
+ ------------------------------------------- 
+
+1.7857142857142856
+line_id 9271867626
+transcript norm:  bref entre les caledoniens qui veulent que la collectivite reste francaise et soutienne le gouvernement et ceux qui militent pour l independance le dialog semble desormais tres compromis et ce clivage remonte au debut de la colonization francaise comme l explique le professeur mathias chauchat aggrage de droit public a l universite de la nouvelle caledonie
+ref norm:         bref entre les caledoniens qui veulent que la collectivite reste francaise et soutienne le gouvernement et ceux qui militent pour l independance le dialog semble desormais tres compromis et ce clivage remonte au debut de la colonization francaise comme l explique le professeur mathias chauchat agrege de droit public a l universite de la nouvelle caledonie
+
+ ------------------------------------------- 
+
+2.083333333333333
+line_id 9271886883
+transcript norm:  alors ces deux camps qui semblent irreconciliables pourront ils a nouveau se parler emmanuel macron a promis lors de son deplacement de ne pas passer en force la reforme du corps electoral neo caledonien le texte qui a mis le faux aux poudres tout en y renoncant pas
+ref norm:         alors ces deux camps qui semblent irreconciliables pourront ils a nouveau se parler emmanuel macron a promis lors de son deplacement de ne pas passer en force la reforme du corps electoral neo caledonien le texte qui a mis le feu aux poudres tout en y renoncant pas
+
+ ------------------------------------------- 
+
+1.694915254237288
+line_id 5899376963
+transcript norm:  l accord de noumea il prevoyait qu en cas de non apres les trois referendums l organization politique du pays jusqu a ce qu il y ait un nouveau statut consensuel demeure irreversible et il etait meme precise que cette irreversibilite etait constitutionnellement garantie il etait aussi precise qu il ne pouvait pas y avoir de retour en arriere
+ref norm:         l accord de noumea y prevoyait qu en cas de non apres les trois referendums l organization politique du pays jusqu a ce qu il y ait un nouveau statut consensuel demeure irreversible et il etait meme precise que cette irreversibilite etait constitutionnellement garantie il etait aussi precise qu il ne pouvait pas y avoir de retour en arriere
+
+ ------------------------------------------- 
+
+8.108108108108109
+line_id 5899311339
+transcript norm:  donc les canards se pensaient proteges par la parole de l etat et evidemment lorsque macron annonce que la france pourra reviser la constitution pourra ouvrir le corps electoral ils rompent la parole donnee par l etat
+ref norm:         donc les canaques se pensaient proteges par la parole de l etat et evidemment lorsque macron annonce que la france pourra reviser la constitution pourra ouvrir le corps electoral il rompt la parole donnee par l etat
+
+ ------------------------------------------- 
+
+5.555555555555555
+line_id 9271816301
+transcript norm:  ok donc ces trois referendums ont tous abouti a un non a l independance et conformement aux accords de matignon et de noumea ils auraient du entrainer une discussion sur l avenir de la nouvelle caden
+ref norm:         ok donc ces trois referendums ont tous abouti a un nom a l independance et conformement aux accords de matignon et de noumea ils auraient du entrainer une discussion sur l avenir de la nouvelle caledonie
+
+ ------------------------------------------- 
+
+3.508771929824561
+line_id 9271813057
+transcript norm:  dix mois apres cette declaration emmanuel macron est de retour a noumea et tente de trouver une sortie de crise on l a dit il ne retire pas la reforme du corps electoral mais promet de ne pas la passer en force surtout il appelle au retour au calme et a la discussion entre les deux camps
+ref norm:         dis moi apres cette declaration emmanuel macron est de retour a noumea et tente de trouver une sortie de crise on l a dit il ne retire pas la reforme du corps electoral mais promet de ne pas la passer en force surtout il appelle au retour au calme et a la discussion entre les deux camps
+
+ ------------------------------------------- 
+
+4.761904761904762
+line_id 9271865868
+transcript norm:  nathalie on a bien compris que les tensions sont anciennes tres ancrees dans l archipel est ce qu on peut quand meme esperer qu un sentiment caledonien puisse a terme reunir les habitants et donc mettre un terme aux violences
+ref norm:         nathalie on a bien compris que les tensions sont anciennes tres ancrees dans l archipel est ce qu on peut quand meme esperer qu un sentiment caledonien entre guillemets puisse a terme reunir les habitants et donc mettre un terme aux violences
+
+ ------------------------------------------- 
+
+2.0408163265306123
+line_id 9247076521
+transcript norm:  manifestement une prison pas comme les autres on dit que l ile a commence a accueillir des prisonniers a partir de la fin des annees 1860 apres la guerre de secessio a l origine une prison militaire ou etaient envoyes les soldats les plus insolents et les ennemis politiques
+ref norm:         manifestement une prison pas comme les autres on dit que l ile a commence a accueillir des prisonniers a partir de la fin des annees 1860 apres la guerre de secession a l origine une prison militaire ou etaient envoyes les soldats les plus insolents et les ennemis politiques
+
+ ------------------------------------------- 
+
+5.797101449275362
+line_id 9247028825
+transcript norm:  il faudrait attendre 1912 pour voir apparaitre l element central de l ile ce grand bloc en beton que l on connait et qui fera office de prison construit par les prisonniers militaires eux memes il est compose de 600 cellules a l epoque il s agissait tout simplement de la plus grande structure au beton armee au monde ce qui a rendu l ile d el catraz tres populaire
+ref norm:         il faudra attendre 1912 pour voir apparaitre l element central de l ile ce grand bloc en beton que l on connait et qui fera office de prison construit par les prisonniers militaires eux memes il est compose de 600 cellules a l epoque il s agissait tout simplement de la plus grande structure en beton armee au monde ce qui a rendu l ile d alcatraz tres populaire
+
+ ------------------------------------------- 
+
+3.7037037037037033
+line_id 9247099597
+transcript norm:  alcatraz devient un penitencier federal pour detenus civils l idee etait d y envoyer les individus les plus dangereux du pays ceux qui etaient les plus incorrigibles et qui avaient une forte propension a l evasion on retrouvait donc des braqueurs de banque des kidnappeurs des meurtriers et meme des patrons du crime organize
+ref norm:         alcatraz devient un penitentier federal pour detenus civils l idee etait d y envoyer les individus les plus dangereux du pays ceux qui etaient les plus incorrigibles et qui avaient une forte propension a l evasion on retrouvait donc des braqueurs de banques des kidnappeurs des meurtriers et meme des patrons du crime organize
+
+ ------------------------------------------- 
+
+4.411764705882353
+line_id 9247046276
+transcript norm:  leur but etait de creer une prison dont il serait impossible de s evader et ou la corruption et les traitements de faveur n existeraient pas une prison ou les conditions de detention seraient extremement strictes ou les detenus seraient non pas appeles par leur nom mais par un simple numero de matricule une conception tres draconienne imaginee par le procureur general de l epoque qui s est souvient .
+ref norm:         leur but etait de creer une prison dont il serait impossible de s evader et ou la corruption et les traitements de faveur n existeraient pas une prison ou les conditions de detention seraient extremement strictes ou les detenus seraient non pas appeles par leur nom mais par un simple numero de matricule une conception tres draconienne imaginee par le procureur general de l epoque qui se souvient
+
+ ------------------------------------------- 
+
+0.0
+line_id 9247050089
+transcript norm:  peu apres mon entree en fonction en tant que procureur general j ai concu le projet d etablir une institution destinee aux prisonniers federaux les plus difficiles a gerer j en ai d abord discute avec le president roosevelt et apres avoir obtenu son accord j ai cherche un lieu ou l implanter le choix s est finalement porte sur la baie de san francisco
+ref norm:         peu apres mon entree en fonction en tant que procureur general j ai concu le projet d etablir une institution destinee aux prisonniers federaux les plus difficiles a gerer j en ai d abord discute avec le president roosevelt et apres avoir obtenu son accord j ai cherche un lieu ou l implanter le choix s est finalement porte sur la baie de san francisco
+
+ ------------------------------------------- 
+
+4.0
+line_id 9247090477
+transcript norm:  j ai alors choisi le directeur et les gardiens et j ai suivi de pres chaque etape de construction de cette nouvelle prison dans le systeme penitentiaire federal alcatraz represente le summum de l isle morane ces hommes sont tous les jours conscients du bourdonnement de la vie autour d eux
+ref norm:         j ai alors choisi le directeur et les gardiens et j ai suivi de pres chaque etape de construction de cette nouvelle prison dans le systeme penitentiaire federal alcatraz represente le summum de l isolement ces hommes sont tous les jours conscients du bourdonnement de la vie autour d eux
+
+ ------------------------------------------- 
+
+3.7037037037037033
+line_id 9247028082
+transcript norm:  les detenus consideres comme les pires des pires ont donc ete transferes a alcatraz a partir de 1934 al capone machine gun kelly bumpy johnson whitey bulger ou encore mick vickohen pour ne citer qu eux de grands noms qui ont tres probablement contribue a alimenter l atmosphere mysterieuse et fantasmagorique de l ile
+ref norm:         les detenus consideres comme les pires des pires ont donc ete transferes a alcatraz a partir de 1934 al capone machine gun kelly bumpy johnson whitey bulger ou encore mickey cohen pour ne citer qu eux de grands noms qui ont tres probablement contribue a alimenter l atmosphere mysterieuse et fantasmagorique de l ile
+
+ ------------------------------------------- 
+
+6.0
+line_id 9247046057
+transcript norm:  mais bon a alcatraz ces individus n etaient desormais plus rien reduire de simples numeros pour les briser moralement nos conditions de detention etaient particulierement insupportables les privileges etaient reduits au strict minimum avec uniquement les besoins vitaux comme la nourriture l eau les vetements et les soins medicaux
+ref norm:         mais bon a alcatraz ces individus n etaient desormais plus rien reduits a de simples numeros pour les briser moralement leurs conditions de detention etaient particulierement insupportables les privileges etaient reduits au strict minimum avec uniquement les besoins vitaux comme la nourriture l eau les vetements et les soins medicaux
+
+ ------------------------------------------- 
+
+7.462686567164178
+line_id 9247098097
+transcript norm:  a droit au journal ni a la radio son acces limite a la bibliotheque etait autorise quant au droit de travailler il n etait pas donne a tout le monde alcatraz il fallait le meriter mais le pire etait sans doute cette regle du silence une regle imposee lors des premieres annees du penitencier federal qui interdisait aux prisonniers de parler avec les autres detenus
+ref norm:         pas droit au journal ni a la radio seul un acces limite a la bibliotheque etait autorise quant au droit de travailler il n etait pas donne a tout le monde a alcatraz il fallait le meriter mais le pire etait sans doute cette regle du silence une regle imposee lors des premieres annees du penitentier federal qui interdisait aux prisonniers de parler avec les autres detenus
+
+ ------------------------------------------- 
+
+8.51063829787234
+line_id 9247071908
+transcript norm:  il s est alors dit que si le penitencier etait concu pour accueillir le gratin du crime il devait choisir les meilleurs agents pour les surveiller il en a employe suffisamment pour garantir une surveillance maximale ce qui fait qu elle tatrasse compter un gardien pour trois prisonniers
+ref norm:         il s est alors dit que si le penitentiel etait concu pour accueillir le gratin du crime il devait choisir les meilleurs agents pour les surveiller il en a employe suffisamment pour garantir une surveillance maximale ce qui fait qu alcatraz comptait un gardien pour trois prisonniers
+
+ ------------------------------------------- 
+
+2.0408163265306123
+line_id 9247061560
+transcript norm:  l idee etait donc de faire d alcatraz un endroit capable de dissuader les autres criminels de venir sejourner sur le rocher pour ceux qui y etaient deja interseres le mal etait deja fait cela n a pourtant pas empeche certains d entre eux de penser a l evasion
+ref norm:         l idee etait donc de faire d alcatraz un endroit capable de dissuader les autres criminels de venir sejourner sur le rocher pour ceux qui y etaient deja incarceres le mal etait deja fait cela n a pourtant pas empeche certains d entre eux de penser a l evasion
+
+ ------------------------------------------- 
+
+10.526315789473683
+line_id 9247019709
+transcript norm:  jean libertat matricule az 132 dira ceci alcatraz etait un endroit sans espoir une veritable prison d esprit la seule chose qui me permettait de tenir etait l idee que je pourrais un jour sortir d ici
+ref norm:         charlie bertha matricule az 132 dira ceci alcatraz etait un endroit sans espoir une veritable prison de l esprit la seule chose qui me permettait de tenir etait l idee que je pourrais un jour sortir d ici
+
+ ------------------------------------------- 
+
+13.698630136986301
+line_id 9247062029
+transcript norm:  nombre de ces gars avaient connu beaucoup de souffrance ils n avaient plus rien quelle que soit la duree de leur peine tout se resumait a une question de temps l un compte le temps qu il a perdu tandis que l autre compte le temps qu il lui reste jusqu a la fin un autre temoignage toutefois ci du detenu jim quillen matricule az 586 ces hommes n avaient plus rien a attendre et .
+ref norm:         nombreux de ces gars avaient connu beaucoup de souffrance ils n avaient plus rien quelle que soit la duree de leur peine tous resumaient a une question de temps l un compte le temps qu il a perdu tandis que l autre compte le temps qui lui reste jusqu a la fin un autre temoignage cette fois ci du detenu jim quillen matricule az 586 ces hommes n avaient plus rien a attendre
+
+ ------------------------------------------- 
+
+0.0
+line_id 9247093611
+transcript norm:  vous savez leur jeune vie etait maintenant terminee il n etait pas possible de revenir en arriere pour arranger les choses je me suis moi meme retrouve dans cet etat d esprit desespere conscient de ne jamais pouvoir recuperer ce qui etait perdu croyez moi certains d entre eux voulaient vraiment sortir d une maniere ou d une autre la vie en prison etait deja assez dure mais alcatraz en amplifiait le caractere sinistre san francisco etait juste la devant vous
+ref norm:         vous savez leur jeune vie etait maintenant terminee il n etait pas possible de revenir en arriere pour arranger les choses je me suis moi meme retrouve dans cet etat d esprit desespere conscient de ne jamais pouvoir recuperer ce qui etait perdu croyez moi certains d entre eux voulaient vraiment sortir d une maniere ou d une autre la vie en prison etait deja assez dure mais alcatraz en amplifiait le caractere sinistre san francisco etait juste la devant vous
+
+ ------------------------------------------- 
+
+6.382978723404255
+line_id 9247020068
+transcript norm:  on pouvait sentir le mouvement qui se produisait de l autre cote de l eau l effert d essence de la vie urbaine je ne peux pas l expliquer mais vous pouviez tout voir juste la on entendait les femmes rire sur les bateaux qui passaient devant l ile
+ref norm:         on pouvait sentir le mouvement qui se produisait de l autre cote de l eau l effervescence de la vie urbaine je ne peux pas l expliquer mais vous pouviez tout voir juste la on entendait les femmes rire sur les bateaux qui passaient devant l ile
+
+ ------------------------------------------- 
+
+1.2048192771084338
+line_id 9247081634
+transcript norm:  cela a rendu les choses difficiles pour beaucoup d hommes ils etaient condamnes a de longues peines et vivaient avec leurs seuls souvenirs certains en ont eu alors assez ils ont decide qu ils n allaient pas vivre leurs derniers jours en pourrissant sur cette ile je ne pense pas que les gens comprennent vraiment ce que c est que de vivre dans cet environnement pendant dix annees la plupart des gens peuvent survivre pendant des semaines ou des mois dans cet etat
+ref norm:         cela a rendu les choses difficiles pour beaucoup d hommes ils etaient condamnes a de longues peines et vivaient avec leurs seuls souvenirs certains en ont eu alors assez ils ont decide qu ils n allaient pas vivre leurs derniers jours en pourrissant sur cette ile je ne pense pas que les gens comprennent vraiment ce que c est que de vivre dans cet environnement pendant des annees la plupart des gens peuvent survivre pendant des semaines ou des mois dans cet etat
+
+ ------------------------------------------- 
+
+1.9230769230769231
+line_id 9247052042
+transcript norm:  imaginez l attention mentale d une personne qui vit cela pendant plusieurs annees on nous disait quand nous pouvions manger quand nous pouvions dormir quand nous pouvions fumer quand nous pouvions lire quand nous pouvions chier on pouvait choisir les livres qu on lisait et c etait a peu pres tout
+ref norm:         mais imaginez l attention mentale d une personne qui vit cela pendant plusieurs annees on nous disait quand nous pouvions manger quand nous pouvions dormir quand nous pouvions fumer quand nous pouvions lire quand nous pouvions chier on pouvait choisir les livres qu on lisait et c etait a peu pres tout
+
+ ------------------------------------------- 
+
+0.0
+line_id 9247096298
+transcript norm:  d une maniere ou d une autre certains de ces gars allaient gouter a nouveau a la liberte selon leurs propres conditions ils allaient gouter a la liberte au moins une derniere fois vous savez morts ou vivants ils se disent qu ils sont morts de toute facon ils n avaient rien a perdre meme les gars qui ne reussissaient pas leur tentative d evasion ne perdaient rien au final
+ref norm:         d une maniere ou d une autre certains de ces gars allaient gouter a nouveau a la liberte selon leurs propres conditions ils allaient gouter a la liberte au moins une derniere fois vous savez morts ou vivants ils se disent qu ils sont morts de toute facon ils n avaient rien a perdre meme les gars qui ne reussissaient pas leur tentative d evasion ne perdaient rien au final
+
+ ------------------------------------------- 
+
+1.694915254237288
+line_id 9247077662
+transcript norm:  un autre rapport du docteur suggere que bauer souffrait d une maladie mentale il etait d ailleurs considere comme fou et desespere par les autres detenus la regle du silence instauree dans les premieres annees ajoutee a la routine implacable de la prison ont lourdement pese sur lui ce qui n a pas aide a ameliorer son etat mental
+ref norm:         un autre rapport du docteur suggere que bowers souffrait d une maladie mentale il etait d ailleurs considere comme fou et desespere par les autres detenus la regle du silence instauree dans les premieres annees ajoutee a la routine implacable de la prison ont lourdement pese sur lui ce qui n a pas aide a ameliorer son etat mental
+
+ ------------------------------------------- 
+
+1.8867924528301887
+line_id 9247068014
+transcript norm:  un jour il a refuse de travailler a la blanchisserie ou il etait assigne resultat il a ete confine dans une cellule de one m 80 sur one m 80 pendant trois mois un jour de juin 1935 alors qu il devait aller travailler a la blanchisserie il s est mis a crier
+ref norm:         un jour il a refuse de travailler a la blanchisserie ou il etait assigne resultat il a ete confine dans une cellule de one m 80 sur one m 80 pendant 3 mois un jour de juin 1935 alors qu il devait aller travailler a la blanchisserie il s est mis a crier
+
+ ------------------------------------------- 
+
+2.272727272727273
+line_id 9247030085
+transcript norm:  il a ete par la suite severement puni place a l isolement puis soumis a un regime alimentaire restrictif plus tard il a ete envoye pour travailler a un incinerateur de l ile situe a l ouest du rocher un travail banal mais penible
+ref norm:         il a ete par la suite severement puni place a l isolement puis soumis a un regime alimentaire restrictif plus tard il a ete envoye pour travailler a l incinerateur de l ile situe a l ouest du rocher un travail banal mais penible
+
+ ------------------------------------------- 
+
+17.94871794871795
+line_id 9247054808
+transcript norm:  bauer semblait s accommoder de ce nouveau boulot jusqu a ce jour du 27 avril 1936 toujours la contre toute attente joe bauer stante de s evader erwin chandler sergardien de prison se rappelle bien de la scene
+ref norm:         bowers semblait s accommoder de ce nouveau boulot jusqu a ce jour du 27 avril 1936 ce jour la contre toute attente joe bowers tente de s evader erville chandler gardien de prison se rappelle bien de la scene
+
+ ------------------------------------------- 
+
+8.571428571428571
+line_id 9247096761
+transcript norm:  alors que j etais de service dans la tour de garde aux alentours de 11 heures j ai soudain apercu le detenu joseph bowers au sommet de la cloture grillagee essayant de franchir je lui ai crie plusieurs fois de decideur mais il y aurait mon avertissement et a continue j ai tire deux coups de feu a la terre et j ai attendu quelques secondes pour voir le resultat
+ref norm:         alors que j etais de service dans la tour de garde aux alentours de 11 heures j ai soudain apercu le detenu joseph bowers au sommet de la cloture grillagee essayant de la franchir je lui ai crie plusieurs fois de descendre mais il a ignore mon avertissement et a continue j ai tire deux coups de feu a raptor et j ai attendu quelques secondes pour voir le resultat
+
+ ------------------------------------------- 
+
+2.857142857142857
+line_id 9247036702
+transcript norm:  il a alors commence a descendre du cote gauche de la cloture et j ai tire une fois de plus en visant ses jambes bowers s accrochait dessus avec ses mains mais ses pieds te dirigeaient vers le bas apres mon troisieme coup de feu j ai appele l armurerie et j ai signale l incident a mon retour j ai constate que le corps avait chute dans la baie
+ref norm:         il a alors commence a descendre du cote gauche de la cloture et j ai tire une fois de plus en visant ses jambes bowers s accrochait dessus avec ses mains mais ses pieds etaient diriges vers le bas apres mon troisieme coup de feu j ai appele l armurerie et j ai signale l incident a mon retour j ai constate que le corps avait chute dans la baie
+
+ ------------------------------------------- 
+
+2.380952380952381
+line_id 9247018894
+transcript norm:  la chute du haut de la falaise s avera fatale pour bowers mais pour certains comme roy gardner un celebre braqueur de banque ce jour la bowers n a pas tente de s evader egalement temoin de la scene il se souvient .
+ref norm:         la chute du haut de la falaise s avera fatale pour bowers mais pour certains comme roy gardner un celebre braqueur de banque ce jour la bowers n a pas tente de s evader egalement temoin de la scene il se souvient
+
+ ------------------------------------------- 
+
+5.263157894736842
+line_id 9247027037
+transcript norm:  joe a ete envoye travailler a l incinerateur seul il y travaillait lorsqu un camion a ordures a deverse des papiers et que le vent en a fait tomber quelques uns par dessus la cloture bowers avait recu l ordre de garder l embout a propre et a tente de grimper sur la cloture pour ramasser les detritus
+ref norm:         joe a ete envoye travailler a l incinerateur seul il y travaillait lorsqu un camion a ordure a deverse des papiers et que le vent en a fait tomber quelques uns par dessus la cloture bowers avait recu l ordre de garder l endroit propre et a tente de grimper sur la cloture pour ramasser les detritus
+
+ ------------------------------------------- 
+
+6.976744186046512
+line_id 9247082834
+transcript norm:  le gardien de la tour surplombant l assignateur a alors ordonne a bowers de descendre de la cloture bowers a proteste en disant qu il devait ramasser les papiers et c est la que le gardien lui a dit recu a deux reprises
+ref norm:         le gardien de la tour surplombant l incinerateur a alors ordonne a bowers de descendre de la cloture bowers a proteste en disant qu il devait ramasser les papiers et c est la que le gardien lui a tire dessus a deux reprises
+
+ ------------------------------------------- 
+
+15.0
+line_id 9247063433
+transcript norm:  m chandler se tenait a l interieur de la tour d en face fusil a la main avant que je regardais bowers a alors commence a escalader la cloture essayant apparemment de retourner a l interieur de la cour il reussit a passer un bras et une jambe par dessus les fils barbeles lorsqu a trois
+ref norm:         monsieur chandler se tenait a l interieur dans la tour d en face fusil a la main pendant que je regardais bowers a alors commence a escalader la cloture essayant apparemment de retourner a l interieur de la cour il reussit a passer un bras et une jambe par dessus les fils barbeles lorsqu un troisieme coup de feu retentit
+
+ ------------------------------------------- 
+
+0.0
+line_id 9247065589
+transcript norm:  on ne le saura probablement jamais quoi qu il en soit il s agissait de la premiere tentative d evasion d alcatraz et elle a envoye un message clair aux prisonniers les gardiens n hesiteraient pas a tuer tous ceux qui tenteraient de franchir les clotures de la prison
+ref norm:         on ne le saura probablement jamais quoi qu il en soit il s agissait de la premiere tentative d evasion d alcatraz et elle a envoye un message clair aux prisonniers les gardiens n hesiteraient pas a tuer tous ceux qui tenteraient de franchir les clotures de la prison
+
+ ------------------------------------------- 
+
+8.771929824561402
+line_id 9247099767
+transcript norm:  les deux se connaissaient deja ils s etaient rencontres dans un penitencier a vorelcatras ved et ranf avaient alors une forte tendance a l evasion et sur le rocher ils etaient consideres comme les pires des pires le dossier de ted cole le decrit comme un abruti vicieux et tueur dote en plus d un calme inhabituel
+ref norm:         les deux se connaissaient deja ils s etaient rencontres dans un penitentier avant alcatraz ted et ralph avaient alors une forte tendance a l evasion et sur le rocher ils etaient consideres comme les pires des pires le dossier de ted cole le decrit comme un abruti vicieux et tueur dote en plus d un calme inhabituel
+
+ ------------------------------------------- 
+
+7.608695652173914
+line_id 2469052818
+transcript norm:  depuis le xxe siecle les theoriciens sont en quete de cette theorie et meme les plus grands sont passes a cote einstein hawking witten pas un seul n a pu formuler une theorie qui tient a honte mais la quete continue et c est la quete de la theorie du tout on est deux semaines avant la sortie de mon plus gros projet qui sort le 30th masterchef donc abonnez vous pour etre a l affut et bienvenue dans ce tout nouveau documentaire base sur la theorie du tout
+ref norm:         depuis le xxe siecle les theoriciens sont en quete de cette theorie et meme les plus grands sont passes a cote einstein hawking witten pas un seul n a pu formuler une theorie qui tient de la route mais la quete continue et c est la quete de la theorie du tout on est deux semaines avant la sortie de mon plus gros projet qui sort le 30 mars sur youtube donc abonnez vous pour etre a l affut et bienvenue dans ce tout nouveau documentaire base sur la theorie du tout
+
+ ------------------------------------------- 
+
+10.309278350515463
+line_id 2469055991
+transcript norm:  il est en collaboration avec la mediatheque du valenciennes qui m accueille dans leur magnifique decor d ailleurs sachez que c est ce soir l avant premiere que je fais au cinema et merci a ceux qui viennent j ai hate de vous rencontrer pour ceux qui n ont pas eu l occasion de venir le projet sortira le 30 mars sur ma chaine youtube abonnez vous donc si ce n est pas deja fait pour ne pas louper ca mais bref qu est ce que la theorie du pou et comment on y parvient
+ref norm:         il est en collaboration avec la mediatheque de valenciennes qui m accueille dans leur magnifique decor et d ailleurs sachez que c est ce soir l avant premiere que je fais au cinema et merci a ceux qui viennent j ai hate de vous rencontrer pour ceux qui n auront pas eu l occasion de venir et bien le projet sortira donc le 30 mars sur ma chaine youtube abonnez vous donc si c est pas deja fait pour pas louper ca mais bref qu est ce que la theorie du tout et comment on y parvient
+
+ ------------------------------------------- 
+
+7.142857142857142
+line_id 2469093175
+transcript norm:  on a deux manieres fondamentales de decrire notre univers la premiere c est la relativite generale etablie par einstein en 1915 qui est la theorie la plus belle de la physique c est elle en fait qui decrit la force de gravitation et pour abel en fait avant einstein on disait que la gravite etait une force mais on ne savait pas comment elle agissait et einstein donc quand il arrive il va expliquer que la gravite c est en fait la consequence d une courbure de l espace temps on peut la decrire comme une force en fait
+ref norm:         on a deux manieres fondamentales de decrire notre univers la premiere c est la relativite generale etablie par einstein en 1915 qui est la theorie la plus belle de la physique c est elle en fait qui decrit la force de gravitation et pour rappel avant einstein on disait que la gravite etait une force mais on ne savait pas comment elle agissait et einstein quand il arrive il va expliquer que la gravite c est en fait la consequence d une courbure de l espace temps on ne va plus la decrire comme une force en fait
+
+ ------------------------------------------- 
+
+14.285714285714285
+line_id 2469052773
+transcript norm:  a cette epoque la gravite etait mal comprise et ce malgre les efforts des astronomes comme kepler pour l ecran du mouvement des planetes de maniere empirique entre 1637 et 1689 des physiciens comme robert hooke ou descartes proposaient des lois de la gravitation mais aucune ne semblait etre barrette
+ref norm:         a cette epoque la gravite etait mal comprise et ce malgre les efforts des astronomes comme kepler pour decrire les mouvements des planetes de maniere empirique entre 1667 et 1679 des physiciens comme robert hooke ou descartes proposaient des lois de la gravitation mais aucune ne semblait etre parfaite
+
+ ------------------------------------------- 
+
+0.0
+line_id 2469098878
+transcript norm:  et c est hooke qui va lancer newton sur la voie pour formaliser ses idees newton a developpe des calculs permettant de demontrer comment la force de gravite agissait sur les objets en mouvement et comment elle les maintenait en orbite autour des autres il affirme que la gravite est une force exercee a distance entre les objets dotes de masse agissant a distance sans contact physique direct
+ref norm:         et c est hooke qui va lancer newton sur la voie pour formaliser ses idees newton a developpe des calculs permettant de demontrer comment la force de gravite agissait sur les objets en mouvement et comment elle les maintenait en orbite autour des autres il affirme que la gravite est une force exercee a distance entre les objets dotes de masse agissant a distance sans contact physique direct
+
+ ------------------------------------------- 
+
+20.3125
+line_id 2469092957
+transcript norm:  il a donc formule cette idee dans sa celebre loi de la gravitation universelle cette theorie revolutionnaire a permis d expliquer non seulement pourquoi les pommes tombaient des arbres mais aussi pourquoi les planetes s il y a une tournure de la terre ou que la pomme tombe de l arbre ca cause un meme phenomene la gravite
+ref norm:         il a donc formule cette idee dans sa celebre loi de la gravitation universelle cette theorie revolutionnaire a permis d expliquer non seulement pourquoi les pommes tombaient des arbres mais aussi pourquoi les planetes orbitaient autour du soleil si la lune tourne autour de la terre ou que la pomme tombe de l arbre c est a cause d un meme phenomene la gravite
+
+ ------------------------------------------- 
+
+7.017543859649122
+line_id 2469079300
+transcript norm:  le seul souci qu on avait a cette epoque c etait d expliquer comment cette force agissait il n y avait pas de cordes entre deux astres qui les retournaient pour maintenir leur attraction gravitationnelle c est alors qu arrive albert einstein un jeune physicien ayant une tres grande renommee cree ces articles resolvant plusieurs problemes
+ref norm:         le seul souci qu on avait a cette epoque c etait d expliquer comment cette force agissait il n y avait pas de cordes entre deux astres qui les retenaient pour maintenir leur attraction gravitationnelle c est alors qu arrive albert einstein un jeune physicien ayant une tres grande renommee grace a ses articles resolvant plusieurs problemes
+
+ ------------------------------------------- 
+
+5.454545454545454
+line_id 2469068362
+transcript norm:  en 1905 il avait publie sa theorie de la relativite restreinte qui unifiait l espace avec le temps bien que cette theorie ait revolutionne notre comprehension de l espace du temps et de la vitesse de la lumiere einstein n y etait pas satisfait car il ne prenait pas en compte les effets de gravitation
+ref norm:         en 1905 il avait publie sa theorie de la relativite restreinte qui unifiait l espace avec le temps bien que cette theorie ait revolutionne notre comprehension de l espace du temps et de la vitesse de la lumiere einstein n etait pas satisfait car elle ne prenait pas en compte les effets de la gravitation
+
+ ------------------------------------------- 
+
+11.428571428571429
+line_id 2469048534
+transcript norm:  la relativite generale developpee par einstein entre 1907 et 1915 reposerait des fondamentales que la gravitation est une manifestation de la courbure de l espace temps causee par la presence de masse et d energie contrairement a la vision newtonienne de la gravitation comme une force agissant a distance la relativite generale decrit la gravitation comme une deformation de l espace et du temps autour d un objet massif
+ref norm:         la relativite generale developpee par einstein entre 1907 et 1915 repose sur l idee fondamentale que la gravitation est une manifestation de la courbure de l espace temps causee par la presence de masse et d energie contrairement a la vision newtonienne de la gravitation comme une force agissant a distance la relativite generale decrit la gravitation comme une deformation de l espace et du temps autour d objets massifs
+
+ ------------------------------------------- 
+
+5.555555555555555
+line_id 2469081543
+transcript norm:  cet infiniment petit la c est le monde des particules tout ce qui nous entoure mais a une taille extremement petite des 1000000s de fois plus petite que notre propre taille et la mecanique quantique c est une branche fondamentale de la physique qui s interesse aux comportements et aux interactions des particules subatomiques
+ref norm:         cet infiniment petit la c est le monde des particules tout ce qui nous entoure met a une taille extremement petite des 1000000s de fois plus petite que notre propre taille et la mecanique quantique c est une branche fondamentale de la physique qui s interesse au comportement et aux interactions des particules subatomiques
+
+ ------------------------------------------- 
+
+7.142857142857142
+line_id 2469027530
+transcript norm:  au fil du xxe siecle les physiciens ont su ameliorer cette theorie et la pousser a son maximum elle nous a permis de realiser des merveilles qu on pourra expliquer plus tard c est en etablissant toutes ces nouvelles lois qu on a compris que le monde quantique representait un monde bien different de nous
+ref norm:         au fil du xxeme siecle les physiciens ont su ameliorer cette theorie et la pousser a son maximum elle nous a permis de realiser des merveilles qu on pourra expliquer plus tard c est en etablissant toutes ces nouvelles lois qu on a compris que le monde quantique representait un monde bien different d une autre
+
+ ------------------------------------------- 
+
+5.970149253731343
+line_id 2469061605
+transcript norm:  ces lois sont contre intuitives c est pour cette raison qu elles nous paraissent surprenantes mais si nous vivions tous les jours dans le cadre de ces lois la elles ne nous paraitraient pas si surprenantes que ca en mecanique quantique une particule peut etre a la fois une onde et une particule ponctuelle c est le principe de dualite d anchor pescu prenons la lumiere par exemple
+ref norm:         ces lois sont contre intutives c est pour cette raison qu elles nous paraissent surprenantes mais si nous vivions tous les jours dans le cadre de ces lois la elles nous paraitraient pas si surprenantes que ca en mecanique quantique une particule peut etre a la fois une onde et une particule ponctuelle c est le principe de dualite d ondes corpuscules prenons la lumiere par exemple
+
+ ------------------------------------------- 
+
+0.0
+line_id 2469067424
+transcript norm:  la lumiere peut etre a la fois une particule simple donc un photon mais c est aussi une onde ce n est pas l un ou l autre c est les deux en meme temps et cette idee la est bien reelle puisqu elle a ete confirmee par des experiences
+ref norm:         la lumiere peut etre a la fois une particule simple donc un photon mais c est aussi une onde ce n est pas l un ou l autre c est les deux en meme temps et cette idee la est bien reelle puisqu elle a ete confirmee par des experiences
+
+ ------------------------------------------- 
+
+0.0
+line_id 2469045424
+transcript norm:  cette force c est celle qui est responsable des interactions entre les particules chargees electriquement elle peut etre attractive ou repulsive selon la charge des particules et elle a en theorie une portee infinie c est grace a elle que l electricite existe et qu une ampoule peut rayonner
+ref norm:         cette force c est celle qui est responsable des interactions entre les particules chargees electriquement elle peut etre attractive ou repulsive selon la charge des particules et elle a en theorie une portee infinie c est grace a elle que l electricite existe et qu une ampoule peut rayonner
+
+ ------------------------------------------- 
+
+5.555555555555555
+line_id 2469018727
+transcript norm:  cette force est la plus puissante de toutes les autres forces elle surpasse de tres loin la gravitation qui est toute derniere dans nos classements de puissance des forces et elle est 100 fois plus puissante que l electromagnetisme par contre alors que la force de gravitation a une portee extremement longue celle ci a une portee tres courte elle n est de l ordre que one millionieme de milliardieme de meter
+ref norm:         cette force est la plus puissante de toutes les autres forces elle surpasse de tres loin la gravitation qui est toute derniere dans le classement de puissance des forces et elle est 100 fois plus puissante que l electromagnetisme par contre alors que la force de gravitation a une portee extremement longue celle ci a une portee tres courte elle n est de l ordre que un millionieme de milliardieme de meters
+
+ ------------------------------------------- 
+
+0.0
+line_id 2469040473
+transcript norm:  on l a decouvert dans les annees 1930 par le physicien japonais yukawa qui a propose l existence d une particule porteuse de force appelee le gluon et c est donc cette particule qui est le gluon qui est responsable de l interaction entre les particules dans le cadre de cette force
+ref norm:         on l a decouvert dans les annees 1930 par le physicien japonais yukawa qui a propose l existence d une particule porteuse de force appelee le gluon et c est donc cette particule qui est le gluon qui est responsable de l interaction entre les particules dans le cadre de cette force
+
+ ------------------------------------------- 
+
+4.819277108433735
+line_id 2469053979
+transcript norm:  cette force est la premiere a avoir ete decouverte et c est celle qu on decrit grace a la relativite generale contrairement aux autres forces elle n a pas de mediateur il n existe pas de particules a notre connaissance responsables de cette force et s il devait en exister une on l appellerait le caravator au tout debut de l univers lors de la periode qui a suivi immediatement le big bang les quatre forces fondamentales etaient initialement unifiees en une seule force
+ref norm:         cette force est la premiere a avoir ete decouverte et c est celle qu on decrit grace a la relativite generale contrairement aux autres forces elle n a pas de mediateur il n existe pas de particules a notre connaissance responsables de cette force et s il devait en exister une on l appellerait le gravite au tout debut de l univers lors de la periode qui a suivi immediatement le bigbang les 4 forces fondamentales etaient initialement unifiees en une seule force
+
+ ------------------------------------------- 
+
+12.76595744680851
+line_id 2469070664
+transcript norm:  ce stade est souvent appele l ere de la grandignification a ce moment la les conditions extremement chaudes et denses de l univers primordial ont permis a ces forces d interagir de maniere a ne former qu une seule force qu on appelle la superforce
+ref norm:         ce stade est souvent appele l ere de la grande unification a ce moment la les conditions extremement chaudes des dents de l univers primordial ont permis a ces forces d interagir de maniere a ne former qu une seule force qu on appelle la super force
+
+ ------------------------------------------- 
+
+10.144927536231885
+line_id 2469094886
+transcript norm:  cette superforce n a pu exister que dans un univers hyper dense de 10 puissance moins 33 meters l univers n avait donc que la taille de planck la plus petite taille possible sa temperature ayant permis l existence d une superforce etait d environ millimilliard de degres celsius a ce stade la temperature de l univers etait si elevee que les effets quantiques dominaient
+ref norm:         cette super force n a pu exister que dans un univers hyper dense de 10 puissance moins 33 meters ou l univers n avait donc que la taille de planck la plus petite taille possible sa temperature ayant permis l existence d une super force etait d environ 1000 milliards de degres celsius a ce stade la temperature de l univers etait si elevee que les effets quantiques dominaient
+
+ ------------------------------------------- 
+
+15.625
+line_id 2469054712
+transcript norm:  ce processus de separation des forces est souvent decrit comme une succession de brisures de symetrie chaque brisure de symetrie a conduit a une reorganization des interactions entre les particules et a finalement donne naissance aux quatre forces distinctes la premiere brisure de symetrie est survenue a des energies extremement elevees quelques fractions de secondes appellent pour qui
+ref norm:         ce processus de separation des forces est souvent decrit comme une succession de brisures de symetrie chaque brisure de symetrie a conduit a une reorganization des interactions entre les particules et a finalement donne naissance aux quatre forces distinctes que nous connaissons aujourd hui la premiere briseur de symetrie est survenue a des energies extremement elevees quelques fractions de secondes apres le big bang
+
+ ------------------------------------------- 
+
+17.46031746031746
+line_id 2469038995
+transcript norm:  ca aurait conduit a la separation de la force gravitationnelle des trois autres forces fondamentales regroupees en la force electronique leaire ensuite une autre periode connue sous le nom de briseur de symetrie electrofaible est survenue a environ 10 puissance moins 36 secondes a paul bikwang c est le moment ou la force forte s est decouplee de la force electrofaible
+ref norm:         ca aurait conduit a la separation de la force gravitationnelle des trois autres forces fondamentales regroupees en la force electronucleaire ensuite une autre periode connue sous le nom de brisures de symetrie electro faibles est survenue a environ 10 puissance moins 36 secondes apres le big bang c est le moment ou la force forte s est decouplee de la force electro faible
+
+ ------------------------------------------- 
+
+14.285714285714285
+line_id 2469059466
+transcript norm:  et a ce moment la il existe donc trois forces dans l univers a 10 puissance moins 12 secondes apres l huile de moine l univers etait suffisamment proche pour que les forces electromagnetiques et faibles se manifestent individuellement etablissant ainsi la configuration actuelle des quatre forces fondamentales telles que nous les connaissons aujourd hui des nos jours nous souhaitons savoir comment ces quatre forces auraient pu etre liees autour des metaux
+ref norm:         et a ce moment la il existe donc trois forces dans l univers 10 puissance moins 12 secondes apres le big bang l univers etait suffisamment froid pour que les forces electromagnetiques et faibles se manifestent individuellement etablissant ainsi la configuration actuelle des quatre forces fondamentales telles que nous les connaissons aujourd hui de nos jours nous souhaitons savoir comment ces quatre forces auraient pu etre liees au tout debut
+
+ ------------------------------------------- 
+
+14.035087719298245
+line_id 2469037720
+transcript norm:  a chaque fois les physiciens ont tente de dignifier toutes les forces entrainees on veut toujours en fait tenter de dignifier le plus de choses entre eux pour avoir quelque chose de coherent et qui nous permette d avancer dans le physique et ce sera la fameuse theorie qui nous permettra peut etre de tout dignifier
+ref norm:         a chaque fois les physiciens ont tente d unifier toutes les forces entre elles on veut toujours en fait tenter d unifier le plus de choses entre eux pour avoir quelque chose de coherent et qui nous permette d avancer dans la physique et ce sera la fameuse theorie qui nous permettra peut etre de tout unifier
+
+ ------------------------------------------- 
+
+9.090909090909092
+line_id 2469047124
+transcript norm:  l unification des forces fondamentales d un point de vue theorique repose sur des efforts considerables de la part des physiciens pour developper des modeles mathematiques et des theories physiques coherentes selon que le cas de la theorie electrofaible elle s appuie sur des principes de symetrie pour expliquer les interactions electromagnetiques et faibles
+ref norm:         l unification des forces mondiales d un point de vue theorique repose sur des efforts considerables de la part des physiciens pour developper des modeles mathematiques et des theories physiques coherentes c est donc le cas de la theorie electrofable elle s appuie sur des principes de symetrie pour expliquer les interactions electromagnetiques et faibles
+
+ ------------------------------------------- 
+
+3.6363636363636362
+line_id 2469031586
+transcript norm:  en fait a forte temperature ces deux forces semblaient agir de la meme maniere dans le cadre d une seule force et par la suite on a plie cette force a une autre et ca a donne la grande unification mais la mecanique quantique seule ne nous a pas permis de faire tout ca
+ref norm:         en fait a forte temperature ces deux forces semblaient agir de la meme maniere dans le cadre d une seule force et par la suite on a pu lier cette force a une autre et ca a donne la grande unification mais la mecanique quantique seule ne nous a pas permis de faire tout ca
+
+ ------------------------------------------- 
+
+Final wer score:  12.741627118234922

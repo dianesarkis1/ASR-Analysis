@@ -1,0 +1,1268 @@
+0.0
+line_id 4239782441
+transcript norm:  soy un pastelero chileno apasionado por la pasteleria y de alguna forma encontre mi vocacion en la pasteleria ha sido algo que me ha ayudado mucho en mi carrera y fue cuando realmente me empezo a ir bien a mi digamos que en el colegio siempre me fue mal y me iba muy mal
+ref norm:         soy un pastelero chileno apasionado por la pasteleria y de alguna forma encontre mi vocacion en la pasteleria ha sido algo que me ha ayudado mucho en mi carrera y fue cuando realmente me empezo a ir bien a mi digamos que en el colegio siempre me fue mal y me iba muy mal
+
+ ------------------------------------------- 
+
+5.357142857142857
+line_id 3667992110
+transcript norm:  de hecho me echaron de un colegio porque era muy porro y siempre se me hizo como un poco dificil esa parte hasta que llegue a la carrera de gastronomia y me empezo a ir bien yo siempre supe que queria una carrera tecnica pero como que no aplicaba mucho tenia que .
+ref norm:         de hecho me echaron de un colegio porque era muy porro y siempre se me hizo como un poco dificil esa parte hasta que llegue a la carrera de gastronomia y me empezo a ir bien y yo siempre supe que queria una carrera tecnica pero como que no no aplicaba mucho huevon tenia que .
+
+ ------------------------------------------- 
+
+4.878048780487805
+line_id 3667985719
+transcript norm:  tenia que estudiar ingenieria tenia que estudiar algo mas caeson tenia que estudiar muchos libros y el estudio no era lo mio y aprendia muy facil repitiendo y era muy habil con las manos y ahi se me empezo a dar .
+ref norm:         tenia que estudiar ingenieria tenia que estudiar algo mas cabezon tenia que estudiar muchos libros y el estudio no era lo mio y aprendia muy facil repitiendo y era muy habil con las manos y ahi se me empezo a dar
+
+ ------------------------------------------- 
+
+3.076923076923077
+line_id 3667989523
+transcript norm:  me meti a estudiar gastronomia a la segunda semana una profe me dijo vas a ser pastelero yo no sabia si queria ser pastelero 0 no en linea de hecho creo que ni siquiera lo queria hacer y ahi poco a poco fui creciendo en la rama de pasteleria y bueno ahi mas adelante te voy a ir contando cada uno de los hitos
+ref norm:         me meti a estudiar gastronomia a la segunda semana una profe me dijo vas a ser pastelero yo no sabia si queria ser pastelero 0 no en mi vida de hecho creo que ni siquiera lo queria hacer y ahi poco a poco fui creciendo en la rama de pasteleria y bueno ahi mas adelante te voy a ir contando cada uno de los hitos
+
+ ------------------------------------------- 
+
+4.081632653061225
+line_id 6701491293
+transcript norm:  y como me costaba estudiar me costaba concentrarme aparte me contaba con un monton de otros amigos que no estaban ahi tampoco y en ningun caso me medicaron ni nada por el estilo y yo creo que hasta el dia de hoy yo tengo una dificultad para leer
+ref norm:         y como me costaba estudiar me costaba concentrarme aparte me juntaba con un monton de otros amigos que no estaban ni ahi tampoco y en ningun caso me medicaron ni nada por el estilo y yo creo que hasta el dia de hoy yo tengo una dificultad para leer
+
+ ------------------------------------------- 
+
+6.25
+line_id 3667914833
+transcript norm:  0 sea si tu me ponias a leer en publico me pongo nervioso me subo las manos hay algo ahi que yo creo que nunca se me diagnostico y me cuesta cambio las letras cambio todo y no me doy ni cuenta y yo creo que eso tambien era algo que me dificultaba mucho a estudiar y eso en la pasteleria no pasa claro
+ref norm:         0 sea si tu me ponia a leer en publico me pongo nervioso me suba las manos hay algo ahi que yo creo que nunca se me diagnostico y me cuesta y cambio las letras cambio todo y no me doy ni cuenta y yo creo que eso tambien era algo que me dificultaba mucho a estudiar y eso en la pasteleria no pasa
+
+ ------------------------------------------- 
+
+0.0
+line_id 3667935520
+transcript norm:  y a mi me gusta la pasteleria mas alla del hacer pasteles me gusta el ensenar me gusta hacer con las manos me gusta esta parte como de la artesania y realmente para mi hoy en dia el ir a trabajar no es ir a trabajar es como que ir a cumplir mis suenos
+ref norm:         y a mi me gusta la pasteleria mas alla del hacer pasteles me gusta el ensenar me gusta hacer con las manos me gusta esta parte como de la artesania y realmente para mi hoy en dia el ir a trabajar no es ir a trabajar es como que ir a cumplir mis suenos
+
+ ------------------------------------------- 
+
+12.307692307692308
+line_id 3667935802
+transcript norm:  y eso encuentro que deberia incentivarse desde el colegio y para cada una de las personas de que no tengan que oye te voy a ir a trabajar porque tengo que ganarme los pesos para pagar la cuenta no ojala voy a ir a trabajar en algo que realmente te apasione un monton y realmente poder pasar esa pasion y ese conocimiento a otras personas
+ref norm:         y eso encuentro que deberia incentivarse desde el colegio y para cada una de las personas de que no tengan que yo tengo que ir a trabajar porque tengo que ganarme los pesos para pagar las cuentas no ojala po voy a ir a trabajar en algo que realmente te apasione un monton y idealmente poder pasar esa pasion y ese conocimiento a otras personas
+
+ ------------------------------------------- 
+
+2.380952380952381
+line_id 3667984804
+transcript norm:  a ver primero que todo en mi casa y generalmente en el sur mucha gente cocina y cocina bien porque se hace mucha olla de casa y mi mama estudio artes plasticas y bueno pinta muy bien hace arreglos florales super bien
+ref norm:         a ver primero que todo en mi casa y generalmente en el sur mucha gente cocina y cocina bien porque se hace mucha vida de casa y mi mama estudio artes plasticas y bueno pinta muy bien hace arreglos florales super bien
+
+ ------------------------------------------- 
+
+4.545454545454546
+line_id 3667943515
+transcript norm:  tiene realmente un don para la movilidad artistica pero nunca lo ejercio y nunca se profesionalizo mucho mas sino que quedo en el don en el saber hacerlo bien pero hasta ahi y yo creo que y yo hoy en dia me veo reflejado mucho en eso porque me meti en el area por donde yo habia pero si tuve la oportunidad de poder ir especializandome
+ref norm:         tiene realmente un don para la movida artistica pero nunca lo ejercio y nunca se profesionalizo mucho mas sino que quedo en el don en el saber hacerlo bien pero hasta ahi y yo creo que y yo hoy en dia me veo reflejado mucho en eso porque me meti en el area por donde iba ella pero si tuve la oportunidad de poder ir especializandome
+
+ ------------------------------------------- 
+
+2.2222222222222223
+line_id 3667945651
+transcript norm:  bueno en la pasteleria podria haberme especializado en un monton de otras cosas que puedan tener que ver con el arte pero justamente en la pasteleria es donde me siento comodo me gusta y obviamente que me gusta complementarlo con otras areas del arte tambien
+ref norm:         bueno en la pasteleria podria darme especializado en un monton de otras cosas que puedan tener que ver con el arte pero justamente en la pasteleria es donde me siento comodo me gusta y obviamente que me gusta complementarlo con otras areas del arte tambien
+
+ ------------------------------------------- 
+
+0.0
+line_id 6701456645
+transcript norm:  mira la verdad que justo alla vivian unos tios y yo estudiaba en el colegio aleman y justamente en esa epoca todos mis amigos se iban a hacer intercambio a alemania
+ref norm:         mira la verdad que justo alla vivian unos tios y yo estudiaba en el colegio aleman y justamente en esa epoca todos mis amigos se iban a hacer intercambio a alemania
+
+ ------------------------------------------- 
+
+16.417910447761194
+line_id 3667961756
+transcript norm:  y a mi justo antes de eso me habian echado del colegio y me fui a otro colegio y justamente nos hacian intercambio y nada por el estilo y mi vieja dijo bueno ya que un poco estan todos saliendo de una super buena experiencia a salir y nosotros podemos pagarte un pasaje justamente tenia unos tios viviendo alla han dado tripa ya a tres meses
+ref norm:         y a mi justo antes de eso me habian echado del colegio y me fui a otro colegio y justamente bueno ahi no se hacian intercambio ni nada por el estilo y mi vieja dijo bueno ya que un poco estan todos saliendo en una super buena experiencia a salir y nosotros podemos pagarte un pasaje justamente tenia unos tios viviendo alla andate para alla tres meses
+
+ ------------------------------------------- 
+
+9.230769230769232
+line_id 3667983040
+transcript norm:  fue donde realmente lo vi lo vi que podia ser algo real y a mi de antes de la cocina me gustaba mucho armar y desarmar computadores y estaban estas torres antiguas sacarle el ram meterle el disco duro me encantaba pero me encantaba meterle mano y bueno la hablaba con mi mama con mi familia oye como que me gusta esto .
+ref norm:         fue donde realmente lo vi lo vi que podia ser algo real y a mi de antes de la cocina me gustaba mucho armar y desarmar computadores que bueno estaban estas torres antiguas sacarle el ram meterle el disco duro todo eso me encantaba pero me encantaba meterle mano y bueno lo hablaba con mi mama con mi familia oye como que me gusta esto
+
+ ------------------------------------------- 
+
+15.0
+line_id 6701434667
+transcript norm:  y yo decia claro pero tienes que ser ingeniero en informatica y el decia pero es que no no quiero ser ingeniero en informatica yo creo que no se me iba a dar no me iba a gustar yo queria ser tecnico sabes
+ref norm:         me decia claro pero tienes que ser ingeniero en informatica decia pero es que no no quiero ser ingeniero en informatica yo creo que no no se me iba a dar no me iba a gustar yo queria ser tecnico
+
+ ------------------------------------------- 
+
+4.615384615384616
+line_id 3667970705
+transcript norm:  bueno a la hora que me toco salir del colegio y estudiar algo fue como bueno voy a estudiar cocina y de hecho la pcb que ahora la paes que tambien como que no la pesque como que no era requisito tampoco y bueno me meti a estudiar cocina pero tambien sin saber mucho para donde iba y yo no sabia cocinar mucho tampoco
+ref norm:         bueno a la hora que me toco salir del colegio y estudiar algo fue como bueno voy a estudiar cocina y de hecho la psu que ahora es la paes y tambien como que no la pesque como que no era requisito tampoco y bueno me meti a estudiar cocina pero tambien sin saber mucho para donde iba y yo no sabia cocinar mucho tampoco
+
+ ------------------------------------------- 
+
+0.0
+line_id 3667954464
+transcript norm:  y bueno me meti a estudiar cocina y finalmente ahi empece a encontrarme conmigo mismo empece a comprarme libros a estudiar a practicar a trabajar un monton tambien porque le metia muchas horas
+ref norm:         y bueno me meti a estudiar cocina y finalmente ahi empece a encontrarme conmigo mismo empece a comprarme libros a estudiar a practicar a trabajar un monton tambien porque le metia muchas horas
+
+ ------------------------------------------- 
+
+14.925373134328357
+line_id 3667922826
+transcript norm:  de hecho tambien me paso que al final de esta parte de estudio cierto de gastronomia yo he estudiado en las mananas de las ocho a la una y he comido a trabajar a un sushi alli mismo en vina y era como el bicho raro porque uno va a estudiar y trabajar al mismo tiempo siendo que tu mision ahora es estudiar
+ref norm:         de hecho tambien me paso que al final del de esta parte de estudio cierto de gastronomia yo trabajaba 0 sea estudiaba en las mananas de las ocho a la una y despues me iba a trabajar a un sushi alli mismo en vina y era como el bicho raro porque como vas a estudiar y trabajar al mismo tiempo siendo que tu mision ahora es estudiar
+
+ ------------------------------------------- 
+
+16.27906976744186
+line_id 6701466855
+transcript norm:  yo desde el comienzo me di cuenta que me encantaba pero despues igual hubieron altos y bajos durante el camino y ahi igual me la cuestione mas de alguna vez y queria seguir en esto 0 no
+ref norm:         chuta es que sabes que yo desde el comienzo me di cuenta que me encantaba pero despues igual hubieron altos y bajos durante el camino y ahi igual me la cuestione mas de alguna vez es que queria seguir en esto 0 no
+
+ ------------------------------------------- 
+
+8.064516129032258
+line_id 3667997357
+transcript norm:  y yo creo que una de las cosas que realmente hizo el clic para seguir por el camino de la pasteleria fue haberme ido al celler de can roca con jordi roca que es un pastelero increible salio mejor pastelero del mundo en mas de alguna ocasion el celler de can roca tambien el mejor restaurante del mundo mas de una ocasion
+ref norm:         y yo creo que una de las cosas que realmente hizo el click para seguir por el camino de la pasteleria fue haberme ido a el seller de can roca con jordi roca que es un pastelero increible salio mejor pastelero del mundo mas de alguna ocasion el celler de can roca tambien el mejor restaurante del mundo mas de una ocasion
+
+ ------------------------------------------- 
+
+0.0
+line_id 3667947750
+transcript norm:  y ahi fue de las primeras veces que vi pasteleros que estaban metidos en un restaurante pero que nunca mas en la vida iban a tocar una partida salada porque antes eso a mi en chile nunca me habia tocado ni siquiera verlo y ahi dije no
+ref norm:         y ahi fue de las primeras veces que vi pasteleros que estaban metidos en un restaurante pero que nunca mas en la vida iban a tocar una partida salada porque antes eso a mi en chile nunca me habia tocado ni siquiera verlo y ahi dije no
+
+ ------------------------------------------- 
+
+7.142857142857142
+line_id 3667990323
+transcript norm:  0 sea aqui ya es pasteleria de frenton y aparte que la pasteleria ahi es un mundo 0 sea son muchos mundos y nunca voy a poder parar de aprender aparte que siempre esta evolucionando hay nuevas tecnicas nuevas tendencias un monton de cosas entonces creo que fue una muy buena decision el poder tomar un area de la gastronomia y empezar a especializarme en esa area
+ref norm:         0 sea aqui ya es pasteleria de frenton y aparte que en la pasteleria hay 0 sea es un mundo 0 sea son muchos mundos y nunca vaya a poder parar de aprender aparte que siempre esta evolucionando hay nuevas tecnicas nuevas tendencias un monton de cosas entonces creo que fue una muy buena decision el poder tomar un area de la gastronomia y empezar a especializarme en esa area
+
+ ------------------------------------------- 
+
+8.88888888888889
+line_id 6701459403
+transcript norm:  y al segundo ano de carrera empece a ver todo el work experience para irme a estados unidos a trabajar mi vieja me pago los pasajes y me fui a trabajar hacia hamburguesa en una cuestion tipo un mcdonald is enorme en un resort de esqui
+ref norm:         y al segundo ano de carrera empece a ver esto del work experience para irme a estados unidos a trabajar mi vieja me pago los pasajes me fui a trabajar hacia hamburguesa en una cuestion tipo un mcdonald is enorme en un resort de ski
+
+ ------------------------------------------- 
+
+8.620689655172415
+line_id 4239713045
+transcript norm:  y ahi tenia esa pega primero haciendo hamburguesas como para un publico un poquito mas masivo y despues me consegui una segunda pega que ella hacia con las mismas hamburguesas pero mas gourmet y me acuerdo que en cosa de dos tres semanas ya tenia la plata para devolverle a mi vieja y el resto fue todo ganancia experiencias
+ref norm:         y ahi tenia esa pega primero haciendo hamburguesas como para un publico un poquito mas masivo y despues me consegui una segunda pega que ahi hacia las mismas hamburguesas pero mas gourmet y me acuerdo que en cosas de dos tres semanas ya tenia la plata para devolverla a mi vieja y el resto fue todo ganancia experiencia
+
+ ------------------------------------------- 
+
+2.4390243902439024
+line_id 3667948188
+transcript norm:  ahi conoci a mi esposa y ahi bueno se fue dando un monton de cosas y despues digamos se hicieron los dos anos de carrera despues se hizo el work experience de estados unidos ahi de frenton me meti al borao
+ref norm:         ahi conoci a mi esposa y ahi bueno se fue dando un monton de cosas y despues digamos se hicieron los dos anos de carrera despues se hizo el work experience de estados unidos ahi de frenton me meti al borabo
+
+ ------------------------------------------- 
+
+2.564102564102564
+line_id 6701459455
+transcript norm:  porque a rodolfo yo lo habia conocido el habia ido a dar una charla a culinaria antes y me encanto lo que estaba haciendo algo super disruptivo para la epoca cierto no existia un restaurante de esas caracteristicas en chile
+ref norm:         porque rodolfo yo lo habia conocido el habia ido a dar una charla a culinaria antes y me encanto lo que estaba haciendo algo super disruptivo para la epoca cierto no existia un restaurante de esas caracteristicas en chile
+
+ ------------------------------------------- 
+
+10.0
+line_id 3667980408
+transcript norm:  ya dos anos solamente eramos cuatro en cocina hoy en dia son como 400 mas gigante y ahi yo parti en partidas de sala parti en carnes entrantes pescados y siempre me picaba el bichito que veia la pasteleria ahi a lo lejos las teincas no se que decian no
+ref norm:         tenia dos anos solamente eramos cuatro en cocina hoy en dia son como 400 mas gigantes y ahi yo parti en partidas de saladas parti en carnes entrantes pescados y siempre me picaba el bichito que veia la pasteleria ahi a lo lejos las tecnicas no se que decia no
+
+ ------------------------------------------- 
+
+13.513513513513514
+line_id 3667956932
+transcript norm:  yo queria irme para alla me queria irme para alla me queria irme para alla entre practicante a pasteleria y empezo a pasar el tiempo y me quede jefe pasteleria del borabo eso cuando recien inicio
+ref norm:         yo quiero irme para alla me quiero irme para alla me quiero irme para alla entre practicante a pasteleria y empezo a pasar el tiempo y me quede de jefe pasteleria del borago eso cuando recien inicio
+
+ ------------------------------------------- 
+
+3.8461538461538463
+line_id 3667977426
+transcript norm:  si pues a ver primero yo creo que era la filosofia de trabajo como el interpretaba la gastronomia como el cuidaba los productos de alguna forma el tambien que habia estado fuera estaba trayendo tendencias a chile armando algo que en chile no existia y que a mi me llamaba la atencion
+ref norm:         si po a ver primero yo creo que era la filosofia de trabajo como el interpretaba la gastronomia como el cuidaba los productos de alguna forma el tambien ya habia estado fuera estaba trayendo tendencias a chile armando algo que en chile no existia y que a mi me llamaba la atencion
+
+ ------------------------------------------- 
+
+11.940298507462686
+line_id 3667976162
+transcript norm:  era un nivel de profesionalismo que te lo juro no existia en chile ver un restaurante asi de armado asi de cuadrado asi de profesional bueno y hoy en dia si que ya existen muchos mas y el contacto nada 0 sea rolfo fue a la charla y yo me bloquee me cerre y dije tengo que ir con el de alguna manera
+ref norm:         era un nivel de profesionalismo que te lo juro 0 sea no existia en chile ver un restaurant asi de asi de armado asi de cuadrado asi de profesional bueno y hoy en dia si que ya existe mucho mas y el contacto nada 0 sea rodolfo fue a la charla y yo me bloquee me cerre y dije tengo que ir con el de alguna manera
+
+ ------------------------------------------- 
+
+3.225806451612903
+line_id 4239744714
+transcript norm:  si es que igual yo creo que eso es algo que me ha ayudado harto en la carrera y es que nada como que me pongo un objetivo y me rayo me pongo super persistente cargante tambien como lo querais decir pero de alguna u otra forma le doy le doy le doy le aprieto la tecla hasta que la cuestion funciona oiste
+ref norm:         si es que igual yo creo que eso es algo que me ha ayudado harto en la carrera y es que nada como que me pongo un objetivo y me rayo me pongo super persistente cargante tambien como lo querai decir pero de alguna u otra forma le doy le doy le doy le aprieto la tecla hasta que la cuestion funciona
+
+ ------------------------------------------- 
+
+12.903225806451612
+line_id 3667937058
+transcript norm:  al comienzo yo la verdad que no tenia ni idea y habia otros cocineros que hablaban de un monton de otros restaurantes que mugaritz el bulli kiki aguastas pero restaurantes topisimos si
+ref norm:         que al comienzo yo la verdad que no tenia ni idea y habia otros cocineros que hablaban de un monton de otros restaurantes mugaritz el bulli kiki agosta pero restaurantes topisimos
+
+ ------------------------------------------- 
+
+18.30985915492958
+line_id 3667954642
+transcript norm:  y yo no tenia ni idea de que cresta estaban hablando de ahi como que empece a enganchar a cachar que existian un monton de otros restaurantes como bora one me dije bueno este es el tipo de carrera que yo quiero seguir y justamente ahi salio el seyer takanroka jordi roca tio queria ser pastelero tenia que ir a trabajar con el mejor pastelero del mundo de alguna manera
+ref norm:         y yo no tenia ni idea de que crees que estaban hablando y ahi como que empece a enganchar a cachar que existian un monton de otros restaurantes como borago y dije bueno esta el tipo de carrera que yo quiero seguir y justamente ahi salio el celler de can roca jordi roca yo queria ser pastelero tenia que ir a trabajar con el mejor pastelero del mundo de alguna manera
+
+ ------------------------------------------- 
+
+15.151515151515152
+line_id 3667955655
+transcript norm:  me puse a ya ni me acuerdo pero creo que fueron mucho correo y muchas llamas por telefono y en una de esas me dijeron ok te puedes venir hay como una plaza de aqui a un ano mas asi que no se pues si no me acuerdo de que ano era pero de aqui a un ano mas puedes venirte a hacer la practica a calcilla
+ref norm:         y me puse a ya ni me acuerdo pero creo que fueron muchos correos y muchas llamadas por telefono y en una de esas me dijeron ok te puedes venir hay como una plaza de aqui a un ano mas asi que no se no me acuerdo que ano era pero de aqui a un ano mas puedes venirte a hacer la practica aca al celler
+
+ ------------------------------------------- 
+
+8.771929824561402
+line_id 3667921496
+transcript norm:  entramos a las 8 de la manana teniamos un break como a las 40 5 de la tarde despues entramos de 9 a las 7 de la noche y estabamos como hasta las one de la manana y yo llegaba raja y tenia 20 21 22 anos 0 sea tenia mas energia que la cresta te lo juro
+ref norm:         entrabamos a las 8 de la manana teniamos un break como a las 40 5 de la tarde despues entrabamos de 9 a las 7 de la noche y estabamos como hasta las one de la manana y yo llegaba a raja y tenia 20 21 22 anos tenia mas energia que la cresta te lo juro
+
+ ------------------------------------------- 
+
+19.047619047619047
+line_id 3667989885
+transcript norm:  0 sea yo llegaba me pedian algo me tiraba al piso era buscar las cuestiones y por suerte por haber estado antes en el boracon entendia mucho mejor el ritmo de trabajo y tambien tenia mucho mas claro para donde iba la pelota yo enseguida encuentro que igual me fueron dando muchas responsabilidades bastante rapido
+ref norm:         0 sea yo llegaba me pedian algo me tiraba al piso iba a ir a buscar las cuestiones y por suerte por haber estado antes en el borago entendia mucho mejor el ritmo de trabajo y tambien tenia mucho mas claro para donde iba la para donde iba la pelota y en seguir encuentro que igual me fueron dando muchas responsabilidades bastante rapido
+
+ ------------------------------------------- 
+
+18.181818181818183
+line_id 3667912794
+transcript norm:  pero yo creia que es eso 0 sea no se si es un ejemplo en particular pero si el bueno si me ha tocado claro oye quiero que me pagueis tanta plata por esto ok te la pago no hay problema y llegar al momento de hacer la pega y ejecutarla pesimamente .
+ref norm:         yo creo que es eso como de 0 sea no se si es un ejemplo particular pero si el ah bueno si me ha tocado de que claro oye quiero que me paguies tanta plata por esto ok te la pago no hay problema y llegar al momento de hacer la pega y ejecutarla pesimamente
+
+ ------------------------------------------- 
+
+6.25
+line_id 3667967532
+transcript norm:  primero que todo yo queria trabajar con referentes que realmente me inspiraran pero mas alla de la tecnica mas alla de que el tipo sabia hacer un bombon perfecto era como trataba a su cliente como trataba a sus colaboradores como trataba la gastronomia en general y yo de alguna forma me he rodeado mucho de eso y eso yo creo que esta escudilloso
+ref norm:         primero que todo yo queria trabajar con referentes que realmente me inspiraran pero mas alla de la tecnica mas alla de que el tipo sabia hacer un bombon perfecto era como trataba a su cliente como trataba a sus colaboradores como trataba la gastronomia en general y yo de alguna forma me rodeaba mucho de eso y eso yo creo que esta ahi jodido
+
+ ------------------------------------------- 
+
+17.073170731707318
+line_id 4239774704
+transcript norm:  no lo encontrais en un libro no lo encontrais en una universidad eso no lo vais a ver nunca eso lo vais a tener que ver trabajando y para trabajar con gente muy buena teneis que hacer un sacrificio po
+ref norm:         eso no lo encontrai en un libro no lo encontrai en una universidad eso no lo vais a ver nunca eso le va a tener que ver trabajando y para trabajar con gente muy buena teneis que hacer algun sacrificio huevon
+
+ ------------------------------------------- 
+
+3.7037037037037033
+line_id 6701467492
+transcript norm:  y despues de los 30 los 40 comenzar a armar algun tipo de negocio para poder de alguna forma tambien comenzar a cumplir tus propios suenos
+ref norm:         y despues de los 30 a los 40 comenzar a armar algun tipo de negocio para poder de alguna forma tambien comenzar a cumplir tus propios suenos
+
+ ------------------------------------------- 
+
+4.6875
+line_id 3667946760
+transcript norm:  me salia 0 sea yo era cargante cargante cargante cargante y de alguna forma salia y no me pescaban por ningun lado no se que y yo estaba ya fuera de mi pais totalmente fuera de mi zona de confort y me iba a sao paulo que igual es una ciudad medio heavy grande en fin y no tenia donde quedarme parado guey
+ref norm:         me salia 0 sea yo era cargante cargante cargante cargante y de alguna forma salia y no me pescaban por ningun lado no se que y yo estaba ya fuera de mi pais fuera totalmente fuera de mi zona de confort y me iba a sao paulo que igual es una ciudad medio heavy grande en fin y no tenia donde caerme parado huevon
+
+ ------------------------------------------- 
+
+10.76923076923077
+line_id 3667935500
+transcript norm:  y ahi creo que tambien es clave poder nuevamente rodearte de gente que sea muy buena porque finalmente en esa oportunidad no me la banque por ser cargante sino que estaba te lo juro a dos semanas de irme a brasil agarrar el avion y no saber donde queria estar parandome y en una desesperada esa le digo a jordi roca al chef del restaurant
+ref norm:         y ahi creo que tambien es clave poder nuevamente rodearte de gente que sean muy bueno porque finalmente en esa oportunidad no me la banque por ser cargante sino que estaba te lo juro a dos semanas de irme a brasil de agarrar el avion y no saber donde queris tapararme y en una desesperada esa le digo a jordi roca al chef del restaurante
+
+ ------------------------------------------- 
+
+13.793103448275861
+line_id 3667957506
+transcript norm:  oye jordi sabes que me pasa esto me voy para alla yo juraba de guata que me iba a meter al dom no me pescan no se que hacer y no se si tu conocias a alguien alla y me puedes pedir ayuda y te lo juro pero por dios que en cuatro horas estaba la partida lista
+ref norm:         oye jordi sabes que me pasa esto me voy pa alla yo juraba de guata que me iba a meter al dome no me pescan no se que hacer no se si tu conocias a alguien alla y me pudis pegar una yua y te lo juro pero por dios que en cuatro horas estaba la practica lista
+
+ ------------------------------------------- 
+
+8.21917808219178
+line_id 3667929662
+transcript norm:  llamo una periodista la periodista llamo a alex alex dijo oye mandalo para aca y ya esta listo solucionado entonces igual encuentro que es super importante el mal llamado pituto 0 sea como lo quieras llamar pero es el networking hay gente que dice no es que esta pitutado asi pero bueno el pituto si yo no hubiera hecho bien la pega no me hubiera tirado al piso para buscar los platos
+ref norm:         llamo a una periodista la periodista llamaba a alex alex dijo oye mandalo para aca y ya esta listo solucionado entonces igual encuentre que es super importante el mal llamado pituto 0 sea como lo quieras llamar pero es el networking hay gente que dice no es que esta pitutado si pero bueno el pituto si yo no hubiera hecho ir la pega no me hubiera tirado el piso para buscar los platos
+
+ ------------------------------------------- 
+
+22.58064516129032
+line_id 4239771476
+transcript norm:  con que cara yo le voy a vir a jordi oye dejame en ayuab a meterme en practica 0 para que tu me tu me des una referencia para otro restaurante
+ref norm:         con que cara yo le voy a abrir a jordi oye pegame una ayudada para meterme de practica 0 para que tu me tu me des una referencia para otro restaurant
+
+ ------------------------------------------- 
+
+6.25
+line_id 3667932360
+transcript norm:  a ver yo llegue a brasil al dome despues me fui a otro restaurante muy bueno que se llama mani y justamente en el seyer de can roca yo tuve la oportunidad de conocer a un espanol y una brasilera que estaban abriendo un restaurante en sao paulo
+ref norm:         a ver yo llegue a brasil al dome despues me fui a otro restaurant muy bueno que se llama mani y justamente en el celler de can roca yo tuve la oportunidad de conocer a un espanol y una brasilera que estaban abriendo un restaurant en sao paulo
+
+ ------------------------------------------- 
+
+20.0
+line_id 3667954589
+transcript norm:  y despues de hacer esta pasada por el dom por el mani que el mani tambien es un muy buen trasteran de elena arizo estos chefs que era el espanol y la brasilena me llamaron a abrir su restaurante en sao paulo y de ahi ya me quede 0 sea ahi fui jefe y partia el periodico
+ref norm:         y despues de hacer esta pasada por el dome por el mani que el mani tambien es un muy buen restaurant de elena rizzo estos chefs que eran el espanol y la brasilera me llamaron a abrir su restaurant en sao paulo y de ahi ya me quede cachai 0 sea ahi fui jefe partida
+
+ ------------------------------------------- 
+
+71.64179104477611
+line_id 4239776012
+transcript norm:  la cantidad de pegas que hay es brutal te llaman de una te llaman de otra te llaman de una
+ref norm:         la primera vez que era digamos tenia un equipo a cargo equipo chico super chico pero bueno ya tenia dos personas a cargo tenia mi sueldo tenia mis propinas y ya como que empezaba mi carrera mas formal y despues la sao pablo te empieza a comer la cantidad de pega que hay es brutal te llaman de una te llaman de otra te llaman de una
+
+ ------------------------------------------- 
+
+14.516129032258066
+line_id 3667912687
+transcript norm:  me meti en un proyecto enorme que estaba como a cargo de 40 cocineros pero finalmente yo soy del sur yo soy de huertomon me crie en una ciudad chica muy tranquila en ese entonces con muy poca delincuencia mucho mas calmado y nada yo no me habia lanzado a pablo para tener una familia pero es que napalo
+ref norm:         me meti en un proyecto enorme que estaba como a cargo de 40 cocineros pero finalmente yo soy del sur yo soy de puerto mon me crei en una ciudad chica muy tranquila en ese entonces con muy poca delincuencia mucho mas calmado y nada yo no me veia en sao pablo para tener una familia pero es que ni a palo
+
+ ------------------------------------------- 
+
+6.0
+line_id 6701450981
+transcript norm:  bueno yo cuando me venia para chile yo estuve buscando harta posibilidad de cierto trabajo entre eso estaba el eric kaiser estaba la teleguia francesa que fui a hacer una prueba y me aceptaron pero nada finalmente no me quede ahi estaba el hotel renaissance que en sao paulo es gigante
+ref norm:         bueno yo cuando me venia para chile yo estuve buscando harta posibilidad de cierto trabajo entre eso estaba el eric kaiser esta pasteleria francesa que fui a hacer una prueba y me aceptaron pero nada finalmente no me quede ahi estaba el hotel renaissance que en sao paulo es gigante
+
+ ------------------------------------------- 
+
+16.9811320754717
+line_id 3667957146
+transcript norm:  en el caso de los restaurantes donde yo trabajaba generalmente eran menus de degustacion menus de degustacion como ese tuve platitos chiquititos con que se yo una tecnica en ahora sabores etc pero finalmente de esos platitos te terminais comiendo 12 14 hasta menus que yo he comido de 50 platos
+ref norm:         en el caso de los restaurantes donde yo trabajaba generalmente eran menus de degustacion menus de degustacion como dices tu el platito chiquitito con que se lleva una tecnica de no ahora sabores etcetera pero finalmente de esos platitos te terminais comiendo 12 14 hasta menus que yo he comido de 50 platos
+
+ ------------------------------------------- 
+
+2.0
+line_id 3667910221
+transcript norm:  y al final la cantidad de comida es un monton y muchas veces me paso que ya haciendo viajes gastronomicos como para premios y cosas donde te invitan a muchos restaurantes ya era como 0 sea en verdad no puedo comer mas y empezar a decir oye sabes que vacante
+ref norm:         y al final la cantidad de comida es un monton y muchas veces me paso que ya haciendo viajes gastronomicos como para premios y cosas donde te invitan a muchos restaurantes ya era como 0 sea en verdad no puedo comer mas y empezar a decir oye sabes que bacan
+
+ ------------------------------------------- 
+
+8.955223880597014
+line_id 3667969389
+transcript norm:  finalmente la comida esta bien hecha 0 esta mal hecha de ahi entra el cuidado con el producto tener un producto fresco una buena tecnica cuidado con las temperaturas en fin el poder cocinar rico el poder cocinar bien porque tambien te meti a restaurantes de altisima super caro que tu eres el platis pero esto es una porqueria realmente muy malo y eso pasa
+ref norm:         finalmente la comida esta bien hecha 0 esta mal hecha y ahi entra el cuidado con el producto tener un producto fresco una buena tecnica cuidado a las temperaturas en fin el poder cocinar rico el poder cocinar bien porque tambien te meti a restaurantes de altisima super caro que tu ves el plato y dices pero esto es una porqueria realmente muy malo y eso pasa
+
+ ------------------------------------------- 
+
+9.25925925925926
+line_id 3667943297
+transcript norm:  por eso yo y gregg igual me fui por el lado del restaurante porque el restaurante en un menu de degustacion de por ejemplo nueve platos a mi me tocaba hacer tres entonces ya tenia tres chances de crear de hacer cosas diferentes y logicamente un plato no podia ser igual al otro
+ref norm:         por eso yo creo que igual me fui por el lado del restaurant porque en el restaurant en un menu de degustacion de por ejemplo nueve platos a mi me tocaba hacer tres entonces ya tenia tres chances de crear de hacer cosas diferentes y logicamente un plato no podia ser igual al otro
+
+ ------------------------------------------- 
+
+5.797101449275362
+line_id 3667937135
+transcript norm:  gay para mi yo siempre la parte de la creatividad ha tenido que ver con 0 agarrarme de una tecnica que vi una tecnica y me gusto me parecio interesante azucar inflado un cilindro de merengue una espuma que se yo 0 un producto un producto puede ser que se yo la murta el maki en el restaurante 99 tambien comence a hacer muchos postres con verduras
+ref norm:         y ahi para mi yo siempre lo la parte de la creatividad ha tenido que ver con 0 agarrarme de una tecnica que vi una tecnica y me gusto me parecio interesante azucar inflado un cilindro de merengue una espuma que se yo 0 un producto un producto puede ser que se yo la murta el maki en el restaurant 99 tambien comence a hacer muchos postres con verduras
+
+ ------------------------------------------- 
+
+4.444444444444445
+line_id 6701470944
+transcript norm:  me pueden preguntar por instagram y una vez que entras es una oficina gastronomica entonces tiene una barra para cocteler profesionalmente tiene una cocina profesional y tiene mesitas entonces ahi hacemos producciones de fotos grabamos un programa de television de tacos por ejemplo ok
+ref norm:         mucho me pueden preguntar por instagram y una vez que entras es una oficina gastronomica entonces tiene una barra para coctelear profesionalmente tiene una cocina profesional y tiene mesitas entonces ahi hacemos producciones de fotos grabamos un programa de television de tacos por ejemplo ok
+
+ ------------------------------------------- 
+
+21.62162162162162
+line_id 6701443695
+transcript norm:  0 sea pero a mi me gusta estar con harta porque si no mi cerebro y mi alma y todo eso no funcionan entonces dije ya sabeis que me voy a aplicar la formula de chiquenlovio que es obsesionarme volverme loco por un producto y voy a terminar la semana en un restaurante y dije que pasa y lo hago todos los anos ahora estoy obsesionado con los tacos fui tres veces a mexico el ano pasado
+ref norm:         pero a mi me gusta estar con hartas porque si no mi cerebro y mi alma y todo eso no funciona entonces dije ya sabeis que voy a aplicar la formula de chicken love you que es obsesionarme volverme loco por un producto y voy a terminarlo haciendo un restaurante dije que vas y lo hago todos los anos entonces ahora estoy obsesionado por los tacos fui tres veces a mexico el ano pasado
+
+ ------------------------------------------- 
+
+21.428571428571427
+line_id 6701495519
+transcript norm:  hice un curso de tortilla escenal con mister millagero de las tortillas alla me compre todos los libros que habia hoy por haber de taco me junte a cocinar con grandes maestros taqueros y ahora estoy despues de haber lanzado un programa de television de taco aca en chile estoy abriendo este rostran que es sancho estavo que es mi nuevo chicken lobby pero ya estoy pensando en el siguiente
+ref norm:         hice un curso de tortilla artesanal con mister miyagi de las tortillas ya me compre todos los libros a vivo y por haber de tacos me junte a cocinar con grandes maestros taqueros y ahora estoy despues de haber lanzado un programa de television de tacos aca en chile estoy abriendo este restaurante que es sanchez tacos que es mi nuevo chicken love you pero ya estoy empezando el siguiente
+
+ ------------------------------------------- 
+
+9.30232558139535
+line_id 6701462549
+transcript norm:  yo creo que es mi estilo de vida es como obsesionarme por algo y muchas veces de cosas que no tengo ni idea hay una teoria ahi probablemente la sabeis que creo que es de harvard no se que es probablemente que 21 dias algo se transforma en un habito algo asi de repente no es que yo lo haya pensado antes de pero ahora lo pienso y me hace sentido digo que pasa si en vez de 21 dias lo soy 365 dias
+ref norm:         yo creo que es mi estilo de vida es como obsesionarme por algo y muchas veces de cosas que no tengo idea hay una teoria ahi yo creo probablemente la sabeis que creo que es de harvard no se que si a replicar 21 dias algo se transforma en un habito algo asi de repente no es que yo lo haya pensado antes de pero ahora que lo pienso y me hace sentido digo que pasa si en vez de 21 dias lo haceis 365 dias
+
+ ------------------------------------------- 
+
+15.789473684210526
+line_id 6701492895
+transcript norm:  porque yo se que yo nunca voy a ser el mas seco de nada en el mundo porque es muy dificil pero estoy seguro que si cualquier persona tuya 0 cualquier persona que este viendo esto se obsesiona de verdad y da la vida a 365 dias consecutivos vaya a estar dentro del 200 30% que mas sabe en el mundo 0 incluso si no hay ni de los mejores la gente va a estar bombardeando informacion tuya sobre un punto en particular y gracias a internet que existen distintos como por lo cual la palabra era tecnica
+ref norm:         yo se que yo nunca voy a ser el mas seco de nada en el mundo porque es muy dificil pero estoy seguro que si cualquier persona tuyo cualquier persona que esta viendo esto se obsesiona de verdad y da la vida 365 dias consecutivos vaya a estar dentro del 20 30 por ciento que mas sabe en el mundo 0 incluso si no eres de los mejores la gente va a estar bombardeando informacion tuya sobre un punto en particular y gracias a internet que existen distintos como polos cual es la palabra tecnica
+
+ ------------------------------------------- 
+
+19.35483870967742
+line_id 6701488604
+transcript norm:  voy a encontrar a alguien obsesionado por lo mismo que tu 0 sea porque uno realmente dice pero a quien mas le va a gustar el ajedrez tallado en madera con color invertido siempre hay alguien que esta igual de obsesionado por se que tu por alguien por algo no no ya asi que 365 es eso es como mi manera de vivir juan yo a mi hermano siempre me molesta en que yo cuando chico a los ocho anos era como tear mama no se que hacer jugar futbol jugar basquetbol le meti al basquetbol juan me compre todas las poleras .
+ref norm:         pueden encontrar alguien obsesionado por lo mismo que tu 0 sea porque uno realmente dice pero a quien mas le va a gustar el ajedrez tallado en madera con color invertido siempre hay alguien que esta igual de obsesionado por algo por algo no ya asi que 365 es eso es como mi manera de vivir yo a mi hermano siempre me molestan que yo cuando chico a los ocho anos era como mama no se que hacer jugar futbol 0 jugar basquetbol entonces le meti al basquetbol me compra todas las poleras
+
+ ------------------------------------------- 
+
+37.64705882352941
+line_id 6701458849
+transcript norm:  que le dieron una botella bugs bunny es agua y le ponen super botella y se la toman y me dicen ah un musculo y yo soy igual me compre una sabatina nueva pude correr mas rapido salto mas me compre una boleta como que me entusiasmo mucho me dio todo el libro ahora me lei un libro de basquetbol de nuevo hoy dia de los 35 anos y me volvi loco estoy contactando a un entrenador y le dije pidele un mensaje es muy tarde va a ser tarde ya juegan a basquetbol a las 35 verdad
+ref norm:         que le dan una botella es agua y le pone super botella y se la toma y es musculoso y juega yo soy igual me compre una sabatilla nueva corro mas rapido salto mas me compre una polera como que me entusiasmo mucho me leo todos los libros ahora me leo un libro de basquetbol de nuevo hoy dia de los 35 anos y me volvi loco estoy contactando un entrenador y le dije primer mensaje es muy tarde para partir jugando a las 35
+
+ ------------------------------------------- 
+
+12.676056338028168
+line_id 6701474346
+transcript norm:  eso 100% eso corre por mi vena pero es una formula ahora cuando nacio era mi forma de ser 0 sea me gusta obsesionarme y darle con todo en la peo me molesta mucho porque una salsa mexicana el garlic chili oil le hice 24 veces y es una salsa que da lo mismo gordon ramsay la tiene y ya te queda bien a la primera
+ref norm:         claro eso 100 por ciento eso corre por mi pena pero es una formula ahora cuando nacio era mi forma de ser 0 sea me gusta obsesionarme y darle con todo en la pega me molesta mucho porque una salsa mexicana de hecho el garlic chili oil la hice 24 veces y es una salsa que da lo mismo gordon ramsay la tiene y ya te queda bien a la primera
+
+ ------------------------------------------- 
+
+30.864197530864196
+line_id 6701489365
+transcript norm:  por favor esfuerzate y algo distinto y yo en la escuela de la universidad hice shows de magia tire fuego me vesti monte horas tetrales hice una carta de amor en el pueblo de minuto y ese me acuerdo que el profe se hacia asi me la pidio como para mostrarse el ejemplo de los otros profes una carta de amor y pertenece a una querida fran y la fran era companera
+ref norm:         por favor esfuerzate y algo distinto y yo en las pruebas de la universidad hice shows de magia tire fuego me vesti monte obras tetrales hice una carta de amor a mi polola del minuto y ese me acuerdo que el profe si es tiana rossi me la pidio eh como para mostrarse el ejemplo al resto de los profes fue una carta de amor y partia de la onda queria fran y la fran que era mi polola era companera
+
+ ------------------------------------------- 
+
+10.714285714285714
+line_id 6701481278
+transcript norm:  es que aprendi porque si porque aparte cuando estas 365 dias haciendo algo te tienes que obligar a en algun momento decir que crees que mas puedo aprender y envie cuando empece a forzar el cerebro y a forzar las redes y decis ahi que no tengo nada que hacer le voy a escribir a alguien que sea experto y no te contesta pero de repente alguien si y va haciendo links y va creciendo esta bola de nieve que al principio parece chica
+ref norm:         es que aprendis porque si porque aparte cuando estais 365 dias haciendo algo te teneis que obligar en algun momento decir que crees que mas puedo aprender y ahi cuando empece a forzar el cerebro y a forzar las redes y decir sabes que no tengo nada que hacer le voy a escribir a alguien que sea experto y no te contesta pero de repente alguien si y vaya haciendo links y va creciendo esta como bola de nieve que al principio parece chica
+
+ ------------------------------------------- 
+
+17.857142857142858
+line_id 6701492230
+transcript norm:  0 sea por ejemplo mi proyecto de los 365 dias consecutivos que hubo en esa noche fueron tres anos consecutivos no porque yo lo desee sino que se fue agrandando hasta bolita y me empece a contratar con este cocinero con este sanguchero con este creativo gastronomico fue creciendo creciendo creciendo creciendo y despues fueron derivando en distintos productos
+ref norm:         0 sea por ejemplo mi proyecto de los 365 dias consecutivos comiendo sandwiches fueron tres anos consecutivos no porque yo lo decia sino que se fue agrandando esta bolita y me empece a contactar con este cocinero con este sandwichero con este critico gastronomico fue creciendo creciendo creciendo creciendo y despues fueron derivando en distintos productos
+
+ ------------------------------------------- 
+
+8.88888888888889
+line_id 6701489758
+transcript norm:  ya era un e commerce pero en verdad nunca nos fue muy bien con la venta de los productos en si pero nos fue muy bien con la comunidad esto fue el 2010 a traves de facebook muy bien 0 sea teniamos mas ciber que farabella mas ciber que sodimac no se que y nos empezaron a llamar no bueno metro gas no se que marca grande para que nosotros les administraramos las 0 la web en ese momento de facebook y era raro porque era como no nosotros no hacemos esto
+ref norm:         era un e commerce pero en verdad nunca nos fue muy bien con la venta de los productos en si pero nos fue muy bien con la comunidad esto fue el 2010 a traves de facebook muy bien 0 sea teniamos mas seguidores que falavela mas seguidores que sodimac no se que y nos empezaron a llamar me acuerdo metro gas no se que marca grande para que nosotros les administraramos las 0 la red en ese momento facebook y era raro porque era como no nosotros no hacemos esto
+
+ ------------------------------------------- 
+
+52.94117647058824
+line_id 6701433823
+transcript norm:  pero como no tenia amor loca empezaba a decir que si despues nos llamaron de mister lamp que es como un rabo oye suena ser caro en la comunicacion nosotros joder ya no teniamos amor loca y pues ahi la clasica de la emprendedora que parti vendiendo ahi termino vendiendose ah tim
+ref norm:         pero como no teniamos lucas empezamos a decir que si despues nos llamaron de mister land que es como lollapalooza oye se pueden hacer cargo de la comunicacion y nosotros fota de ya pues necesitamos lucas y empezo ahi la clasica del emprendedor que parti vendiendo ahi termine vendiendo a sebo
+
+ ------------------------------------------- 
+
+33.72093023255814
+line_id 6701476615
+transcript norm:  fuele fuele fuele fuele fuele fuele te diria que somos una casa humanista no se si estas marqueter ahora que lo pienso en la pregunta pero no se mi papa siempre como ejercicio me anono pero al almuerzo cuando nos juntamos cada uno bueno yo no se mi hermano se llama pautra y dice mastico te juro yo llevaba el diario en mercurio y le anotaba los errores cache y el despues lo mostraba en las clases de periodismo en la catolica cache esa era
+ref norm:         full full full full full te diria que somos una casa humanista no se si tan marqueteras ahora que lo pienso es buena pregunta pero no se mi papa siempre como ejercicio medio nono pero al almuerzo cuando nos juntamos cada uno al menos yo conoci a mi hermano que yo soy mas chico te juro yo llevaba el diario en mercurio y le anotaba los errores cachai eso era y el despues lo mostrara en las clases de periodismo en la catolica eso era .
+
+ ------------------------------------------- 
+
+25.423728813559322
+line_id 6701483848
+transcript norm:  entonces es muy barso pero yo siento que de alguna manera yo como que estoy pero es muy asi como muy super hermoso y no se porque aparte yo hacia las pruebas el me las mostraba yo no se octavo basico primero medio me pasaban todas las pruebas de la carrera y yo las hacia y me encantaba me gustaba mucho muy chulo todo eso
+ref norm:         entonces es muy barso pero yo siento que de alguna manera yo como que estudie periodismo asi como por homosis no se porque aparte yo hacia las pruebas el me las mostra yo no se octavo basico primer medio me pasaba todas las pruebas de la carrera y yo las hacia y me encantaba me gustaba mucho mucho mucho
+
+ ------------------------------------------- 
+
+98.76543209876543
+line_id 6701443541
+transcript norm:  entonces
+ref norm:         yo el 2014 trabajaba con mi hermano en fauna en la agencia y tenia por mi cuenta tenia un blog que era muy raro porque hablaba de dos cosas que me gustaban y no tenian ni un link entre ellas hablaba de sandwiches y de marketing entonces yo veia campanas y las analizaba se llamaba el blog de pipe no el lapiz de pipe el lapiz de pipe y ahi escribia y me encantaba escribir siempre me ha gustado mucho escribir
+
+ ------------------------------------------- 
+
+23.376623376623375
+line_id 6701423103
+transcript norm:  escribi la campana de publicidad y escribi sobre el sandwich que me comia como porque si para no olvidar lo que tenemos fue a la fuente de barra esto no se que y eso lo interesante empezo a pegar organicamente muy lento empezo a pegar significa que un amigo me dijo oye por que no le ponia nota para cachar en la escala ok oye por que no le ponia el precio y se empezo a como
+ref norm:         entonces escribia campanas de publicidad y escribia sobre sandwiches que me comia como porque si para no olvidarlo que era como fue a la fuente alemana no se que y eso lo de los sandwiches empezo a pegar organicamente muy lento empezo a pegar significa que un amigo me dijo oye por que no le ponia notas para cachar en la escala ok oye por que no le ponia el precio y se empezo a como .
+
+ ------------------------------------------- 
+
+30.612244897959183
+line_id 6701483441
+transcript norm:  no pense porque en esa epoca tras los 2000 casos nunca pense que algo podia ser yo creo que me hiciste la palabra la palabra vital por asi decirlo 0 sea nada era como para tener acceso asi como uno tiene los notes en el celular yo tenia este blog que lo subia cache
+ref norm:         pero nunca pense porque en esa epoca claro 2014 nunca pense que algo podia ser yo creo que ni existia la palabra viral por asi decirlo nada era como para tener acceso asi como uno tiene las notes en el celular yo tenia este blog que lo subia cachai
+
+ ------------------------------------------- 
+
+100.0
+line_id 6701478569
+transcript norm:  .
+ref norm:         ya me retiro feliz hasta aca llego y ahi me acuerdo que estaba con gonzalo caldera que era el redactor creativo y le digo guay que pasa si invento un modelo para que me paguen por hacer esto y me acuerdo que se reia porque me decia 0 y todo el mundo suena que te paguen por comer 0 que te paguen por viajar y lo bonito es que hoy dia 12 anos 0 sea 10 anos despues la hice huevon me pagaron por comer y por viajar no se puede
+
+ ------------------------------------------- 
+
+22.47191011235955
+line_id 6701453860
+transcript norm:  lo menos a mi me ha tocado un mundo ultra generoso de cocineros que siempre me han dicho que si a todo que me han ensenado a hacer pollo frito en el mundo en distintos paises que me han ayudado en eventos grandes yo cocinarme me se con el ben janast con gustavo saez con ellos pones maquina yo al lado yo me siento tranquilo nosotros te ayudamos nos sentimos mas rapido todo mejor pero nada esa noche me siento muy comodo
+ref norm:         y por lo menos a mi me ha tocado un mundo ultra generoso de cocinero que siempre me han dicho que si a todo que me han ensenado a hacer pollo frito en el mundo en distintos paises que me han ayudado en eventos grandes yo cocinando no se con el ben hanast con gustavo salez con ellos buenas maquinas yo al lado y ellos me dicen tranquilo nosotros te ayudamos no se que lo hacen todo mas rapido todo mejor pero nada en sanchez me siento muy comodo
+
+ ------------------------------------------- 
+
+52.17391304347826
+line_id 6701446688
+transcript norm:  y yo siempre he dicho que mi vida si la pudiese definir como una pelicula que es una mezcla de yes man de jim carrey y de you me and the pringles slate de wilson que bueno de hecho ve la ley es una ley mas rica personal hace charlas no igual termina diciendo sabes que voy a tener que hacer oraya ni ni ni es cachai y despues dice wilson es y yo digo es una cosa unica y habla como si hubiera pasado
+ref norm:         y yo siempre he dicho que mi vida si la puedes definir como una pelicula yo soy una mezcla de yes man de jim carrey y de you me and dupri no se si la he visto de owen wilson de hecho bella el buen habla de marca personal al final hace charlas no se si te acuerdas ahi que el huevon termina diciendo huevon sabes que wea tenis tu que nadie mas tiene cachai huevon dice wilson es y dice huevon eso lo va unica y habla como si hubiera pasion
+
+ ------------------------------------------- 
+
+29.03225806451613
+line_id 6701474125
+transcript norm:  pero el 10 me han terebido porque yo sin saber hacer un huevo frito en el 2016 me llevan de un programa de television a raiz de mi proyecto 3 y 5 sandwiches que solo estaba comiendo no cocinando y me dicen oye juan queris cocinar en television y yo me acuerdo que el director le dije juan yo no se cocinarse vale ok
+ref norm:         pero lo del yes man te lo digo porque yo sin saber hacer un huevo frito el 2016 me llaman de un programa de television a raiz de mi proyecto 35 sancuches que solo estaba comiendo no cocinando y me dicen oye huevon queris cocinar en television y yo me acuerdo que al director le dije buen yo no se cocinar vale
+
+ ------------------------------------------- 
+
+16.666666666666664
+line_id 6701467607
+transcript norm:  pero soy muy obsesivo si tu me invitas ahi dame una semana y yo le digo a un amigo de chef que me haga clases y estoy una semana probando y voy a ser el mejor invitado me dijo que no porque me dijo ver ver esto esto es un programa de gente como pro que sabe cocinar asi que no y ahi le rogue le dije por favor confienme y despues me dijo que si y ahi tome clase y todo y salio super bien .
+ref norm:         espero soy muy obsesivo si tu me invita ahi dame una semana y yo le digo a un amigo chef que me haga clase estoy una semana preparando y voy a ser el mejor invitado me dijo que no porque me dijo puta este es un programa de gente como pro que sabe cocinar asi que no y ahi le rogue le dije por favor confia en mi y despues me dijo que si y ahi tome clase y todo y salio super bien
+
+ ------------------------------------------- 
+
+14.85148514851485
+line_id 6701447595
+transcript norm:  pero el chile igual tiene buena hamburguesa quizas no tan buena pero estan ahi pero cuando probe este sandwich de escudo le dije nunca me ha pasado esto nunca me ha pasado de probar algo y decir necesito que el mundo pruebe esto y sienta lo mismo que yo estoy sintiendo entonces ahi mismo dije voy a pedir mas sandwiches de huevo frito entonces el siguiente por ejemplo fue en singapur en la calle y lo pruebo y me gusto mucho mas que el primero y le digo que ahora raje el chef le digo disculpe este es mi proyecto tres 0 cinco sandwiches
+ref norm:         pero el chile igual tiene buenas hamburguesas quizas no tan buenas pero estan ahi pero cuando probe este sandwich te juro dije nunca me habia pasado esto nunca me habia pasado de probar algo de decir necesito que el mundo pruebe esto y sienta lo mismo que yo estoy sintiendo entonces ahi mismo dije voy a pedir mas sandwiches de pollo frito entonces el siguiente por ejemplo fue en singapur en la calle y lo pruebo y me gusto mucho mas que el primero y le digo cara raja el chef le digo disculpe este es mi proyecto trae cinco sandwiches
+
+ ------------------------------------------- 
+
+17.24137931034483
+line_id 6701483856
+transcript norm:  termine la vuelta al mundo fui a su casa y le cocine el menu de chicken love you siete sandwiches de chile y lo prueba el es frances y siempre veo que el dijo como ulala reciclado no me acuerdo que dijo pero dijo bueno este producto esta increible emprendamos y de ahi nacio chicken love you
+ref norm:         termine la vuelta al mundo fui a su casa y le cocine el menu de chicken love you siete sandwiches distintos y lo prueba el es frances y siempre huevo que el dijo como hulala no se que no me acuerdo que dijo huevon pero dijo huevon este producto esta increible emprendamos y ahi nacio chicken love you
+
+ ------------------------------------------- 
+
+23.636363636363637
+line_id 6701411798
+transcript norm:  0 sea es como un pinterest personal cache entonces escribo toda la idea saco fotos fui a 1500 restaurantes saca fotos del menu de la polera de los garzones del techo de la ventana del limpiapied del principio y todo eso voy coleccionando y decindo esto me gusta diras 0 sea pietitas que .
+ref norm:         0 sea es como un pinterest personal cache entonces escribo toda la idea saco fotos fui a 1500 restaurantes entonces le sacaba fotos del menu de la polera de los garzones del techo de la ventana del limpia pie del principio y todo eso voy coleccionando y dicen de esto me gusta de las servilletitas
+
+ ------------------------------------------- 
+
+28.799999999999997
+line_id 6701493911
+transcript norm:  juan digo no quiero saber de estas cosas yo al leon de hecho solo que me vi un poquito pero esta cosa es perdoname cuando parti con el leon yo me acuerdo que el me cito una reunion antes de nacer chiquenlovio dos semanas antes nos tomo una cerveza y me dice oye juan estoy preocupado y yo por que porque chiquenlovio es un restaurante como tu sabes es 24 7 y tu ya tienes muchos proyectos en la cabeza y te das por menos de hacer otras cosas aparte de chiquenlovio y te digo que este auto no va a funcionar asi y por creer en mi aparte de que soy malo va a decir que no
+ref norm:         digo no quiero saber de estas cosas entonces yo a leon de hecho solo que me debio un poquito pero esta cosa es importante cuando parti con leon yo me acuerdo que el me cito a una reunion antes de lanzar chicken love you dos semanas antes nos tomo una cerveza y me decia oye guan estoy preocupado y yo puta por que porque chicken love you se va a un restaurante como tu sabes es 24 7 y tu tienes muchos proyectos en la cabeza y te veo con ganas de hacer otras cosas aparte de chicken love you y te digo que esto no va a funcionar asi y por primera vez en mi vida porque yo soy malo para decir que no
+
+ ------------------------------------------- 
+
+14.772727272727273
+line_id 6701462447
+transcript norm:  para estar con la cabeza a mil e inventando cosas choreo necesito estar haciendo varias cosas porque si no se me empudra el cerebro entonces necesito un socio como tu que si sabe preparar restaurantes para que yo me dedique a lo que yo se hacer que es cocinar sandwiches y comunicar por asi decirlo y por eso este me banco me dijo ya perremos demosle y hasta ahora funciona muy bien y ahora tenemos nuevos proyectos que queremos hacer en conjunto como sanchez tacos
+ref norm:         yo para estar con la cabeza a mil y inventando cosas chores y todo necesito estar haciendo varias cosas porque si no se me pudre el cerebro entonces necesito un socio como tu que si sabe pera restaurantes para que yo me dedique a lo que yo se hacer que es cocinar sanduche y comunicar por asi decirlo y por suerte me banco me dijo ya perremos de hombre y hasta ahora funciono muy bien y ahora tenemos nuevos proyectos que queremos hacer en conjunto como sanchez tacos
+
+ ------------------------------------------- 
+
+29.166666666666668
+line_id 6701436149
+transcript norm:  bueno en la universidad los tipos que siempre dicen que venta y marketing hay peleas pero claro no van como el mismo carrito por asi decirlo es que en verdad como voy a promocionar algo que no conoci por asi decirlo es que marketing me apesta hacer un movil de que es como vender la pomada 0 generar necesidades que no existen no se que eh
+ref norm:         bueno la universidad la tipa es que siempre dicen que venta y marketing hay peleas pero en general van van como el mismo carril por asi decirlo es que en verdad como vaya a promocionar algo que no conocis por asi decirlo oye el producto para mi el producto es que marketing me apesta eso como de que es como vender la pomada 0 generar necesidades que no existen no se que
+
+ ------------------------------------------- 
+
+29.411764705882355
+line_id 6701487677
+transcript norm:  para mi es este es mi producto lo conozco al 100% y esa es la gracia de la obsesion del 365 que sale todo todo todo yo con un termometro hice experimentos del pollo a 50 grados 52 grados 53 grados 53 grados 54 asi porque asi defini cual es el tiempo perfecto cache en chiquilobito no es estructura como bien de ya meterlo sacudirlo dos veces hacer 34 vueltas y es bien detallista pero creo que eso genera como la estatus de estropeadosis en el producto si
+ref norm:         para mi es 0 sea este es mi producto lo conozco al 100% y esa es la gracia de la obsesion del 365 como que es ahi todo todo todo todo yo con un termometro hice experimentos del pollo a 50 52 52 53 asi porque asi defini cual es el tiempo perfecto cache en chinguelo que tiene una estructura como bien de ya mederlo sacoirlo dos veces hacer 34 vueltas asi es bien detallista pero creo que eso genera como la estandarizacion del producto
+
+ ------------------------------------------- 
+
+19.480519480519483
+line_id 6701488872
+transcript norm:  0 sea plan implante como lo mas importante nosotros abrimos la cuenta de instagram un ano antes de lanzar el return y ahi leo me dijo me dijo como estais locos porque la cuenta de instagram sale a chicken love you la primera sangucheria que hubo en chile me dijo pero ahora falta un ano nos van a copiar po y que importa si va el segundo 0 tercero me importa nada pero somos los primeros en declararlo
+ref norm:         0 sea tan importante como lo mas importante nosotros abrimos la cuenta de instagram un ano antes de lanzar el restaurant y ahi leon me dijo me dijo como estais loco porque la cuenta de instagram salia chicken love you la primera sangucheria pollo frito en chile me dijo pero guau falta un ano nos van a copiar y dije que importa se va el segundo el tercero no importa nada pero somos los primeros en declararlo
+
+ ------------------------------------------- 
+
+7.575757575757576
+line_id 6701458832
+transcript norm:  y lo importante es que la gente sienta como si son socios del proyecto entonces los primeros videos yo estoy quemando el pan en los primeros videos y esto fue se me olvido la receta porque yo la tenia aca no la tenia anotada y en algun momento dije puta me era asi y me empezaba a salir horrible por eso despues me acorde shh
+ref norm:         y lo importante es que la gente se sienta como si son socios del proyecto entonces los primeros videos yo estoy quemando el pan en los primeros videos y esto fue verdad se me olvido la receta porque yo la tenia aca no la tenia anotado y en algun momento dije puta no era asi y me empezaba a salir horrible por eso despues me acorde
+
+ ------------------------------------------- 
+
+36.36363636363637
+line_id 6701444116
+transcript norm:  mucho bien lo veo que no aguanta asi ok y lo use como un documental documental es todo ok absurdamente todo todo todo todo todo para de pagar eh cosa de estupida es que de repente uno decia esto no va a tener hartos likes en instagram pero yo decia no importa si no hay que buscar por likes hay que contar la historia y solo lo trio pero en verdad eso es cuanto me termometro cache yo se que esto ya va a llegar a 100 personas en vez de a 1000 porque no es muy sexy mostrar un termometro pero esas 100 personas saben de mi obsesion pues saben que yo estoy 365 dias dedicado a ser el mejor piofe de chile cache
+ref norm:         con chicken love you con la cuenta si y lo use como un documental documente todo absolutamente todo todo todo todo todo prada de packaging cosas estupidas que de repente uno decia esto no va a tener hartos likes en instagram pero yo decia no importa si no hay que buscar por likes hay que contar una historia y solo lo he trillado pero en verdad eso es bueno tengo un termometro cache yo se que esto ya va a llegar a 100 personas en betamil porque no es muy sexy mostrar un termometro pero esas 100 personas saben de mi obsesion saben que yo estoy 365 dias dedicado a hacer el mejor pollo frito de chile cache las pruebas del pan que hicimos pan de papa con papa de verdad cachai
+
+ ------------------------------------------- 
+
+40.243902439024396
+line_id 6701492919
+transcript norm:  la prueba del pan que soy un fan de papa con papa de verdad cache no con chuno no con pure asi asi de dado 0 sea mostramos todo las juntas con los grandes panaderias las juntas con las marcas cache en la charla de fredermond biafonso el creator 0 no no creo que si que el buen hace la charla mas vendida del mundo cache que vende todo todo el hace la charla de que todo cada momento esta auspiciado no no le voy a decir una pelicula
+ref norm:         las pruebas del pan que hicimos pan de papa con papa de verdad cachai no con chuno no con pure asi deshidratado 0 sea mostramos todo todo las juntas con los grandes panaderias las juntas con las marcas cache una charla ted de un guan bien famoso creo que tiene un oscar que el guan hace la charla mas vendida del mundo que vende todo todo el hace una charla ted que todo cada momento esta auspiciado el guan hizo una pelicula
+
+ ------------------------------------------- 
+
+39.77272727272727
+line_id 6701417718
+transcript norm:  es que a ver se lo traen con padres hace un mes me enseno con un guru del marketing de instagram que decia para armar una marca exitosa tienes que tener tres cuentas de instagram una la de tu negocio chiquenlo bien otra de una comunidad apasionada sobre productos de venda de tu negocio 3 y 5 sandwiches saben lo bien sanchez 3 y 5 que habla de la comunidad sanchez y tu mercado personal que ayuda a empujar esa cosa
+ref norm:         es que bueno 0 sea la otra vez un compadre hace un mes me salio como un guru del marketing instagram que decia para armar una marca exitosa tenes que tener tres cuentas de instagram una la de tu negocio chicken love you otra de una comunidad apasionada sobre el producto que vende tu negocio tres y cinco sandwiches que es chicken love you de los sanchez tres y cinco que habla de la comunidad de los sanchez y tu mercado personal que ayude a empujar esas cosas
+
+ ------------------------------------------- 
+
+27.692307692307693
+line_id 6701462989
+transcript norm:  y dije bueno yo tengo esas tres cosas tengo sanchez pibes tengo tres cinco sandwiches y tengo chicken lobby pero lo hice 0 sea sanchez pibes siempre existio despues estuvo en la cosa que mas me apasionaba en el mundo que eran los sandwiches y como un resultado de esa obsesion nacio chicken lobby le dije a mi mama y yo no lo pense al rey
+ref norm:         y yo dije bueno yo tengo esas tres cosas tengo sanchez pipe tengo tres y cinco sandwiches y tengo chicken love you pero lo hice 0 sea sanchez pipe siempre existio despues tuvo la cosa que mas me apasionaba en el mundo que eran los sandwiches y como un como un resultado de esa obsesion nacio chicken love you yo no lo pense al red
+
+ ------------------------------------------- 
+
+250.64935064935065
+line_id 6701464118
+transcript norm:  yo cuando chico decia en que marca quiero trabajar y yo decia juan si me ofrecen una marca que a mi no me gusta y no la uso no voy a aceptarla porque a mi se me ha ido a trabajar en nike para el barcelona eso era un hecho pero despues dije en marca en chile con cuales trabajaria esto era prioridad y no ensenanza para ax ok el de sarantopo el que hacia campanas chora convexon no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no
+ref norm:         yo cuando chico decia en que marcas quiero trabajar y yo decia bueno si me ofrece una marca que a mi no me gusta que no la uso no voy a aceptar la pega mi sueno de trabajar en nike para el barcelona eso era cuando en chico pero despues dije en marcas en chile con cuales trabajaria este era el primer ano de universidad decia para ax el desodorante porque hacia campanas chora con dixon perseveri
+
+ ------------------------------------------- 
+
+35.16483516483517
+line_id 6701475010
+transcript norm:  y dices tu ves son creativos son distintos en huea como que no es un desobrano es muy interesante es una comunidad entonces yo dije me han hecho un trabajo de marcas que me gustan y me han ofrecido un negocio gastronomicos y no gastronomicos de cosas que no me apasionan y siempre siempre prefiero que no pasen porque aparte uno no puede estar metido en 100 cosas entonces elegi la parte a y para mi 0 sea un negocio de estacionamiento que en el fondo era menos plata facil por asi decirlo
+ref norm:         y decia estos son creativos son distintos en huea como que no es un desodorante pues esta vendiendo una huea muy entretenida una comunidad entonces yo dije necesito trabajar para marcas que me gusten y me han ofrecido negocios gastronomicos y no gastronomicos de cosas que no me apasionan y siempre siempre prefiero dejarlos pasar porque aparte uno no puede estar metido en cien cosas entonces elegi la pateada y para mi una vez me ofrecieron un negocio de estacionamiento aunque en el fondo era ganar plata facil por asi decirlo
+
+ ------------------------------------------- 
+
+37.096774193548384
+line_id 6701423877
+transcript norm:  esto no vino nuevamente pero yo busco restaurantes que me den un poquito 0 sea para volver a un restaurante necesito que sea mas que comida porque para eso hay los 0 sea por algo invierto perdon en infraestructura en servicio que tiene la famosa hospitality que es la huella en los huevos porque necesito entre algo mas que comida
+ref norm:         esto es una opinion obviamente yo busco restaurantes que me den un poquito 0 sea para volver a un restaurant necesito que sea mas que comida porque para eso hay lo 0 sea por algo uno invierte perdon en infraestructura en servicio en el famoso hospital y es lo que me tiene loco hoy dia porque necesitas entregar algo mas que comida
+
+ ------------------------------------------- 
+
+37.77777777777778
+line_id 6701438691
+transcript norm:  comida en asociacion y aparte te lo puedo excluir con la paradoja pero no es paradoja con el tema de las dark kitchens que todo el mundo se olvido de lo que hoy las dark kitchens por si lo mismo es un restaurante solo de delivery que no tiene gastos de ubicacion sin que lo personal no se que entonces todo el mundo dijo la villa es llena de oscuras la cocina es oscura entonces todo el mundo dijo oye apartado es mucho mas barato efectivamente es mucho mas barato
+ref norm:         la comida no es suficiente y aparte te lo voy a explicar con la no se si paradoja pero no es paradoja con el tema de las dark kitchens que todo el mundo se volvio loco hoy las dark kitchens por si no me equivoco es un restaurant solo delivery que no tiene gastos de ubicacion de personal no se que entonces todo el mundo dijo oye las cocinas oscuras las cocinas oscuras entonces todo el mundo dijo oye partamos ahi es mucho mas barato realmente es mucho mas barato
+
+ ------------------------------------------- 
+
+23.711340206185564
+line_id 6701436084
+transcript norm:  pero yo en dos anos tuve como 400% de rotacion de mis vecinos porque en fondo parti ahi y nadie te conoce en la era de payreeper y dependi 100% de las aplicaciones que tienen un porcentaje entonces lo bonito de chilov de hecho ahi va sin querer logre el ejemplo efectuario que te pregunte chilov cuando abrio tenia contacto con uber rappi payoyah y ninguno de los tres los rompimos no pudimos abrirlos porque no nos daban no teniamos capacidad para vender todo lo que nos demandaban
+ref norm:         pero yo en dos anos tuve como 400% de rotacion de mis vecinos porque en el fondo partias ahi y nadie te conoce nadie te va a pedir pues y dependi 100% de las aplicaciones que tienen un porcentaje entonces lo bonito de chicken love you de hecho ahi va sin querer logre el ejemplo perfecto para lo que me preguntais chicken love you cuando abrio tenia contrato con uber rappi poy y ninguno de los tres lo rompimos no pudimos abrirlos porque no nos daban no teniamos capacidad para vender todo lo que nosotros nos demandaban
+
+ ------------------------------------------- 
+
+17.94871794871795
+line_id 6701467527
+transcript norm:  entonces solo hicimos delivery propio con justo por suerte ninguna de las tres aplicaciones lo recomendo porque podrian haberlo hecho cache nos entendieron y estuvimos un ano y medio armando la marca chicken love you en venta cache en comunidad en haciendo cosas solo delivery solo en nuestra pagina y era imposible comprar yo pase viendo perdon pero tu entras la cocina esta cerrada la cocina esta cerrada porque no nos da es una cocina de dos entre cuadras
+ref norm:         entonces solo hicimos delivery propio con justo por suerte ninguna de las tres aplicaciones nos demando porque podrian haberlo hecho cache no me entendieron y estuvimos un ano y medio armando la marca chiquilopi en venta cache en comunidad en haciendo cosas solo delivery solo en nuestra pagina y era imposible comprar yo pase viendo perdon porque tu entrabes la cocina esta cerrada la cocina esta cerrada porque no nos daba era una cocina de 12 metros cuadrados
+
+ ------------------------------------------- 
+
+24.65753424657534
+line_id 6701483949
+transcript norm:  0 sea hago las dos por recomendacion de de porque lo disjusto eh ellos no mueven los ads ok entonces ellos nos recomiendan ciertas cosas pero a mi me ha gustado mucho mas hacer un contenido ok pues creo que eso no quiero hacer un anuncio publicitario cache el mes se va a vender cache tira una promo nosotros estuvimos un ano y medio sin hacer ninguna promo ni una ni un 10% nada nada eramos pisos para las promos
+ref norm:         0 sea hago las dos por recomendacion de porque los de justo ellos nos mueven los ads entonces ellos nos recomiendan ciertas cosas pero a mi me acomoda mucho mas hacer un contenido porque creo que eso no quiero hacer un anuncio publicitario el me dice bueno vende tira una promo nosotros estuvimos un ano y medio sin hacer ninguna promo ni una ni un 10% nada nada eramos pesimos para las promos
+
+ ------------------------------------------- 
+
+43.75
+line_id 6701479160
+transcript norm:  y me encantaron una comunidad ultra activa briga y para mi era pensando empaticamente es decir juan si yo me veo esto hola oye que sandwiches te delitaras hoy te dan ganas de responder te dan ganas de comentar te dan ganas de compartir solo conmigo no juan mientras que cuando si puedes hacer de ocho pisos aunque sea un vehiculo divertido puedes hacer tan ganas de compartirlo 0 ponerte en secreto 0 le envies perdon porque eres un hermoso
+ref norm:         y me encantaba era una comunidad ultra activa brigia y para mi era pensando empaticamente en decir bueno si yo veo esto hola hoy dia es viernes que sandwich te deleitaras hoy te dan ganas de responder te dan ganas de comentar te dan ganas de compartirlo con un amigo no bueno mientras que cuando haceis putas el sandwich de ocho pisos aunque sea ridiculo divertido putas eso te dan ganas de compartirlo 0 contai un secreto 0 pedis perdon
+
+ ------------------------------------------- 
+
+50.53763440860215
+line_id 6701420216
+transcript norm:  el chiquilofio es un rastran atipico en redes sociales porque de nuevo somos una persona oye 0 sea hemos pedido perdon miles de veces cada vez que le cago un pedon perdon si uno no 0 bien quien no hace esta wea a proposito me trapa de repente y una escambiela 0 sea el chiquilofio intentando mejorarle y a quien le cagar que el dia siguiente dije puta si un chocapic le cago con este yo le cague con la pibenta blanca que fue una cuestion cari .
+ref norm:         yo encuentro el chicken love you es un restaurant atipico en redes sociales porque de nuevo somos una persona entonces hemos pedido perdon miles de veces cada vez que la cagamos pedimos perdon si uno uno obvio que no hace esta wea a proposito mete la pata de repente y una vez cambie la raza del chicken love you intentando mejorarla y deje la cagar y al dia siguiente dije putas asi como el chocapic la cago con la estedia yo la cague con la pimenta blanca que fue un agustion que agregue
+
+ ------------------------------------------- 
+
+30.0
+line_id 6701434034
+transcript norm:  0 por ejemplo cosa que ni siquiera tenemos por que pedir perdon cuando partimos vendimos tanto eso que te comente que nuestra caja que era muy bonita una caja de zapatos dura que la levantais y se desarma como mantel impreso por los dos lados nos quedamos sin stop y mandamos una caja blanca horrible y escribimos una carta en word y en todos los pedidos salimos con hola soy pipe i am sorry este vidrion prendido en un trastorno no se calcula y se llama lo de la madradia no supe calcular la demanda
+ref norm:         todo en redes 0 por ejemplo cosa que ni siquiera tenemos por que pedir perdon cuando partimos vendimos tanto eso que te comente que nuestra caja que era muy bonita una caja de zapatos dura que la levanta y se desarma como un mantel impreso por los dos lados toda la hora nos quedamos sin stockpupo y mandamos una caja blanca horrible y escribimos una carta en word y en todos los videos salia como hola soy pibe juan sorry este es mi primer emprendimiento gastronomico no se calcular y soy malo para las matematicas no supe calcularla de banda
+
+ ------------------------------------------- 
+
+24.299065420560748
+line_id 6701474202
+transcript norm:  asi que buda esta no es la calidad que te quiero pasar no es asi pero es de cada traduccion y eso me lo recuerdo hasta el dia de hoy en la calle muchas veces asi como una vez cerramos la cocina porque el pollo no tenia las 14 horas de marinado y leon nos fue por echarlo al agua pero el decia la gente no lo va a notar y yo decia no pues no sacrificamos calidad y cerramos perdimos un dia de venta que es mucha luga por asegurar la calidad esa cosa de no las contamos todos nosotros
+ref norm:         asi que puta esta no es la calidad que te quiero pasar no se que pero explicate toda la opcion y eso me lo recuerdo hasta el dia de hoy en la calle muchas veces asi como pa 0 que una vez cerramos la cocina porque el pollo no tenia las catorce horas de marinado y ahi leon nos pudo echar por echarlo al agua pero el decia guau la gente no lo va a notar y decian no no sacrificamos calidad y cerramos 0 sea perdimos un dia de venta que es mucha lucas por asegurar la calidad y esas cosas de nuevo las contamos todos
+
+ ------------------------------------------- 
+
+41.37931034482759
+line_id 6701419358
+transcript norm:  pero por ejemplo ahora yo tengo el am la abertura y lo veo fuera ya digo cocino para gente de madrid gente de miami y no hice una oferta en lo de miami podria ya y filo la regla eso es otra historia pero bueno sera ahora la regla pero ahi mis socios decian ya tenemos que despipinizar yo dije bueno al reves 0 sea
+ref norm:         pero por ejemplo ahora que yo tengo la meta de abrir chiquilobio fuera ya he cocinado para gente de madrid gente de miami y nos hicieron una oferta a los de miami podria ya y fue otra historia seria la raja pero ahi mis socios decian ya tenemos que despipinizar y yo dije bueno al reves 0 sea
+
+ ------------------------------------------- 
+
+38.333333333333336
+line_id 6701485105
+transcript norm:  sorry no es por creerme el cuento no es por eso te juro que no fue por eso pero bueno el 100% de los restaurantes tu le preguntaras oye por que nacio este dia es puta por que no el dan no es que era como una mota en la empresa del barrio y yo decidi ir a la sala mia pero chicken love you tiene el mejor storytelling del planeta y estoy seguro de eso despues de recorrer el mundo y comer 1500 sandwiches en 1500 dias consecutivos puta estoy hablando con todo el mejor sandwich del planeta y lo agrio eso no es lo que me gusta mas entonces yo a mis restaurantes les digo bueno rees
+ref norm:         sorry no es por creerme el cuento no es por ego te juro que no es por ego pero bueno el 100% de los restaurantes tu le preguntar oye por que nacio este dia es puta porque no me gustaban las no y en general es como no me gustaban las hamburguesas del barrio y decide lanzar la mia pero chicken love you tiene el mejor storytelling del planeta y estoy seguro que si guay despues de recorrer el mundo y comer 1500 sandwiches en 1500 dias consecutivos puta este buen encontro el mejor sandwich del planeta y lo abrio que esa buena no la puedo entrar nadie mas entonces yo a mi suerte le digo guay no al reves
+
+ ------------------------------------------- 
+
+36.25
+line_id 6701495482
+transcript norm:  pensar en la estructura perfecta pocos ingredientes de hecho solo que te menciono este termino una vez vino el exgerente general de pisa pisa hater no antes cual es la espanola telepisa telepisa telepisa era un colombiano vino para aca nos juntamos tuvimos una reunion 0 al encantador bruto al encantador marketing no se que visitamos la cocina y dice juan tenes todo barrio en colombia hablabamos no se que cinco locales etc
+ref norm:         no pensar en la estructura perfecta pocos ingredientes de hecho solo que te mencione esta historia pero una vez vino el ex gerente general de pisa pisa jater no cual era la espanola telepisa telepisa telepisa era un colombiano vino para aca nos juntamos tuve una reunion guau le encanto el producto le encanto el marketing no se que visitamos la cocina y dice guau teneis todo para abrir en colombia abramo no se que si coloca blah blah blah
+
+ ------------------------------------------- 
+
+32.05128205128205
+line_id 6701481117
+transcript norm:  dijo te voy a hacer una agredida pero muy importante mcdonald is tiene 5 ingredientes y hace 20 hamburguesas con eso vos tenes 20 ingredientes y haceis 5 esa noche 0 sea teneis demasiados ingredientes para hacer muy pocas cosas siempre fijate y nada acuerdate estoy muy orgulloso de nuestra directora en chile cuando lo conversamos dijimos pico pico porque queremos ser el restaurante mas larga del mundo y no queremos ser el mas eficiente
+ref norm:         hijo te voy a hacer una critica pero muy importante mcdonald is tiene cinco ingredientes y hace veinte hamburguesas con eso vos tenis veinte ingredientes y hacis cinco sandwiches 0 sea tenis demasiado demasiado ingredientes para hacer muy pocas cosas simplificarlo y me acuerdo estoy muy orgulloso de nuestro director en chicken love you que cuando lo conversamos dijimos pico pico porque queremos ser el restaurante mas la raja del mundo y no queremos ser el mas eficiente
+
+ ------------------------------------------- 
+
+33.6734693877551
+line_id 6701418233
+transcript norm:  pero en verdad ultra honesto yo te juro que quiero hacer cosas entretenidas como que me desafien ok eso es yo se que me juro rapido 0 sea eso es bien malo mio 0 sea misos de mi segun decate chiqui love you es lo mejor todos los gurus con los que nos hemos juntado en el negocio segun decate chiqui love you transformalo en un macgyver en el sentido de abrir 100 chiqui love you no 10 you are one por que no quiero tener 100 chiqui love you
+ref norm:         bueno en verdad en verdad ultra honesto yo te juro que quiero hacer cosas entretenidas como que me desafien 0 sea eso es yo se que me aburo rapido 0 sea eso es bien malo mio mi socio me dice one day que te chicken love you es lo mejor todos los gurus con los que nos hemos juntado en negocio dicen one day que te chicken love you transformalo en un mcdonald is en el sentido de abrir cien chicken love you y no diez y digo huevon por que no quiero tener cien chicken love you
+
+ ------------------------------------------- 
+
+98.79518072289156
+line_id 6701437016
+transcript norm:  que
+ref norm:         no se sale bibliya de chicken love you bibliya de sanchez tacos bibliya de la pizzeria que es un proyecto que quiero vender a netflix ojala bibliya de hot dogs bibliya fuente de soda y van por ejemplo a chicken love you la era la raja pero no es un bar y a mi me encantaria que mis amigos vayan a tomar a chicken love you y se instalen entonces dije voy a armar sanchez tacos que eso va a ser un bar
+
+ ------------------------------------------- 
+
+27.27272727272727
+line_id 6701439583
+transcript norm:  puta en netflix hay muchas series que lo plasman mejor que yo pero el fuego asi que la gente se acercara para calentarse puede hacer los alimentos ahi la comida agrupa y aparte suelta el copete suelta la comida agrupa el copete suelta
+ref norm:         es que puta en netflix hay muchas series que lo plasman mejor que yo pero el fuego po huevon hacia que la gente se acercara para calentarse despues hacia los alimentos ahi 0 sea la comida buena agrupa po y aparte suelta el copete suelta la comida agrupa el copete suelta tenis la manera perfecta
+
+ ------------------------------------------- 
+
+14.285714285714285
+line_id 6701476622
+transcript norm:  esta pasando de a poquito pero es verdad en general uno a ver donde voy a comer comida chilena rica un restaurante pro de comida chilena es peludo en general uno se sabe tres italianos dos franceses cuatro berindos no se que comer mediterranea lo que querais pero comida chilena es peludo po
+ref norm:         yo creo que esta pasando de a poquito pero es verdad en general uno a ver donde va a comer comida chilena rica a un restaurante pro de comida chilena es peludo en general uno se sabe tres italianos dos franceses cuatro gringos no se que comian mediterranea lo que querais pero comida chilena es peludo
+
+ ------------------------------------------- 
+
+38.63636363636363
+line_id 6701490147
+transcript norm:  muchas veces uno cocina tu cazuela nunca he probado una cazuela y hasta ahi voy a llegar porque no sabeis que es una cazuela pero cuando probe 365 cazuelas pues ya se que me gusta esta esta esta rata
+ref norm:         muchas veces uno cocina tu cazuela y nunca hay problema con la cazuela y hasta ahi puede llegar po porque no sabeis que es una cazuela po pero cuando pero hay trescientos setecinco cazuelas pues ya se que me gusta esto esto esto esto
+
+ ------------------------------------------- 
+
+12.82051282051282
+line_id 4239761397
+transcript norm:  y despues tuve una semana aqui en el manzano y estuvimos conversando mucho y el fue el motor principal de empezar a hacer los cursos de diseno permacultural en manzana porque el dijo bueno aqui tienen todo
+ref norm:         y despues tuvo una semana aqui en el manzano y estuvimos conversando mucho y el fue el motor principal de empezar a hacer los cursos de diseno de permacultura en el manzano porque el dijo bueno aqui tienen todo
+
+ ------------------------------------------- 
+
+8.16326530612245
+line_id 4239783071
+transcript norm:  tienen un campo tienen compost tienen animales tienen todo para hacer tienen hasta alguna infraestructura que se puede adecuar para hacer los cursos asi que en el verano de 2008 hicimos el primer curso de permacultura de diseno de permacultura en ingles porque en ese tiempo hubiera terminado la espanol
+ref norm:         tienen un campo tienen compost tienen animales tienen todo para hacer tienen hasta alguna infraestructura que se puede adecuar para hacer los cursos asi que el verano de 2008 hicimos el primer curso de permacultura de diseno de permacultura en ingles porque en ese tiempo griffin no hablaba espanol
+
+ ------------------------------------------- 
+
+4.444444444444445
+line_id 4239722991
+transcript norm:  traducido simultaneamente y a ese llamado llegaron mas 0 menos como 15 personas que hasta el dia de hoy siguen siendo pioneros y estan digamos desparramando sus semillas por chile tambien y el mundo ahi llego berrin tambien mi esposa en ese primer curso
+ref norm:         traducido simultaneamente y a ese llamado llegaron eramos mas 0 menos como 15 personas que hasta el dia de hoy siguen siendo pioneros y estan digamos desparramando sus semillas por chile tambien y el mundo ahi llego carolina tambien mi esposa en ese primer curso
+
+ ------------------------------------------- 
+
+17.77777777777778
+line_id 4239769836
+transcript norm:  y de ahi para adelante fue todo lo que tiene que ver con permacultura fuimos parte de lo que fue el instituto chileno de permacultura nacio de ahi de todos estos procesos y ahi con su transcurso despues en adelante
+ref norm:         y de ahi para adelante fue todo todo digamos lo que tiene que ver con permacultura armamos 0 fuimos parte de lo que fue el instituto chileno de permacultura nacio de ahi de todos estos procesos y ahi curso tras curso despues en adelante po
+
+ ------------------------------------------- 
+
+0.0
+line_id 4239764723
+transcript norm:  varios disenos y mucha gente motivada y como podria decir yo con las herramientas para pensar un futuro un poquito mas sustentable de lo que veniamos haciendo
+ref norm:         varios disenos y mucha gente motivada y como podria decir yo con las herramientas para pensar un futuro un poquito mas sustentable de lo que veniamos haciendo
+
+ ------------------------------------------- 
+
+8.823529411764707
+line_id 4239740708
+transcript norm:  tambien tambien habia un tipo oscuro y era mas enfocado un poco quizas en los mundos de la ecualdea que estaban super incipientes en esos tiempos pero de ahi para adelante en verdad fue todo un revuelo nosotros tuvimos muchos cursos con mucha gente estuvimos haciendo muchas cosas en torno a la permacultura por chile latinoamerica de hecho nos toco hasta la primera caravana de permacultura revolucionaria en venezuela
+ref norm:         tambien tambien habia un tiempo oscuro y era mas enfocado quizas en los mundos de la ecozaldea que estaban super incipientes en esos tiempos pero de ahi para adelante en verdad fue todo un revuelo nosotros tuvimos cursos muchos cursos con mucha gente tuvimos haciendo muchas cosas en torno a la permacultura por chile latinoamerica de hecho nos toco hasta la primera caravana de permacultura revolucionaria en venezuela
+
+ ------------------------------------------- 
+
+6.41025641025641
+line_id 4239779932
+transcript norm:  como que hay un tema a generacion mas atras y que nosotros tambien nos pusimos esa mochila encima de que teniamos que generar tambien trabajo para frenar un poco esto que veiamos que es la migracion rural que hasta el dia de hoy sigue sucediendo de que en verdad no hay oportunidades para la gente de las zonas rurales la gente joven no le interesa en verdad la vida en el campo 0 la vida rural
+ref norm:         como que hay un tema generacional mas atras y que nosotros tambien nos pusimos esa mochila encima de que teniamos que generar tambien trabajo ya para frenar un poco esto que veiamos que es la migracion la migracion rural que hasta el dia de hoy sigue sucediendo de que en verdad no hay oportunidades para la gente de las zonas rurales la gente joven no le interesa en verdad la vida en el campo 0 la vida rural
+
+ ------------------------------------------- 
+
+8.695652173913043
+line_id 4239751661
+transcript norm:  entonces como era y hasta el dia de hoy seguimos intentando hacer ese granito de arena digamos en ese desarrollo rural que lo estamos imaginando hoy dia de diferentes formas de hecho somos catalogados los que vivimos en el mundo rural y que tenemos una profesion por decir una cosa los neorurales y hoy dia los neorurales estan por todo el mundo 0 sea por todo chile
+ref norm:         entonces como era y hasta el dia de hoy seguimos intentando de hacer ese granito de arena digamos en ese desarrollo rural que lo estamos imaginando hoy dia de diferentes formas de hecho somos catalogados los que vivimos en el mundo rural y que tenemos una profesion por decir una cosa los neo rurales hoy dia los neo rurales estan por todo un mundo 0 sea por todo chile
+
+ ------------------------------------------- 
+
+8.064516129032258
+line_id 4239748118
+transcript norm:  y muchos de ellos haciendo cosas reinteresantes otro no tanto porque tambien esta el fenomeno de la parcelacion que ha fragmentado muchisimo el territorio por un lado en terminos de que esta hoy dia el territorio chileno productivo y de cuenca esta fragmentado en pequenas franjas de 60 metros de ancho por un kilometro de largo por decir una cosa y
+ref norm:         y muchos de ellos haciendo cosas re interesantes otros no tanto porque tambien esta el fenomeno de la parcelacion ya que ha fragmentado muchisimo el territorio por un lado en terminos de que esta hoy dia el territorio chileno productivo y de cuenca esta fragmentado en pequenas franjas de 60 metros de ancho por un kilometro de largo por decir una cosa
+
+ ------------------------------------------- 
+
+1.5625
+line_id 4239790946
+transcript norm:  hay un intercambio cultural tambien super fuerte que ya como que las tradiciones esa vida de campo simple y tranquila ya tampoco se ve mucho entonces hay ahi todo un tema hoy dia con el desarrollo rural pero bueno para nosotros siempre fue algo super importante el tener la disponibilidad de mano de obra y digamos vacantes abiertas para trabajar en lo que estabamos haciendo
+ref norm:         hay un intercambio cultural tambien super fuerte que ya como que las tradiciones esa vida de campo simple y tranquila ya tampoco se ve mucho entonces ahi todo un tema hoy dia con el desarrollo rural pero bueno para nosotros siempre fue algo super importante el tener la disponibilidad de mano de obra y digamos vacantes abiertas para trabajar en lo que estabamos haciendo
+
+ ------------------------------------------- 
+
+1.639344262295082
+line_id 4239766411
+transcript norm:  entonces venia con este babaja agricola y forestal y nos pusimos como mision dos cosas la educacion porque creemos que la educacion para la sustentabilidad es algo que nosotros tuvimos que aprender cuando uno empieza a entender un poco la ecologia empieza a entender que algo esta raro en esta forma de desarrollo como que algo no calza con la ecologia
+ref norm:         entonces venia con este bagaje agricola y forestal y nos pusimos como mision dos cosas la educacion porque creemos que la educacion para la sustentabilidad es algo que nosotros tuvimos que aprender cuando uno empieza a entender un poco la ecologia empieza a entender que algo esta raro en esta forma de desarrollo como que algo no calza con la ecologia
+
+ ------------------------------------------- 
+
+3.508771929824561
+line_id 4239766558
+transcript norm:  nosotros tuvimos que aprender todo eso entonces parte de lo que nos pusimos como mision era la educacion para la sustentabilidad para todo el que quiera digamos 0 que le resonaba esto y que algo esta raro algo no calza en esta tierra viuda y este desarrollo economico digamos basado en la extraccion de recursos y el capital
+ref norm:         nosotros tuvimos que aprender todo eso entonces parte de lo que nos pusimos como mision era la educacion para la sustentabilidad para todo el que quiera digamos 0 que le resonaba esto que algo esta raro algo no calza en esta tierra viva y este desarrollo economico digamos basado en la extraccion de recursos y el capital
+
+ ------------------------------------------- 
+
+6.8181818181818175
+line_id 4239769357
+transcript norm:  entonces la educacion para la sustentabilidad fue un punto y lo otro que tambien es parte de lo que por ser parte del area de la produccion de alimentos es que la produccion de alimentos tampoco es tan no concuerda con la ecologia
+ref norm:         entonces la educacion para la sustentabilidad fue un punto y lo otro que tambien es parte de lo que por ser parte del area de la produccion de alimentos es que la produccion de alimentos tampoco esta tampoco estan no concuerda con la ecologia
+
+ ------------------------------------------- 
+
+23.25581395348837
+line_id 4239780318
+transcript norm:  por que porque los que venimos de las ciencias agrarias al final lo que te ensenan en la universidad es a combatir la naturaleza todo el rato asi dale veracidad con todo lo que veis porque necesitas controlar para proporcionar alimento
+ref norm:         ya por que porque los que venimos de las ciencias agrarias al final lo que te ensena la universidad es a combatir la naturaleza todo el rato asi darle ver asi con todo lo que podis porque necesitas controlar para poder producir alimentos
+
+ ------------------------------------------- 
+
+26.666666666666668
+line_id 4239795526
+transcript norm:  entonces tambien eso fue la otra mision como que necesitamos poder y producir alimentos de una forma que de la mar 0 de la naturaleza no encontremos
+ref norm:         entonces tambien eso fue la otra mision era como que necesitamos poder y producir alimentos de una forma que en de la mano con la naturaleza y no en contra
+
+ ------------------------------------------- 
+
+12.5
+line_id 4239737678
+transcript norm:  entonces esas fueron nuestras misiones y son hasta el dia de hoy nuestra mision digamos como manzano es la educacion para la sustentabilidad y la produccion de alimentos sanos de la mano bueno en la tercera no encontre esos fueron los dos entonces asi se fue dando un poco este desarrollo de lo que fue desde ese 2007 y en terminos de educacion empezamos a hacer cursos de todo lo que queriamos aprender y necesitabamos aprender
+ref norm:         ya entonces esas fueron nuestras misiones y son hasta el dia de hoy nuestra mision digamos como manzano es la educacion para la sustentabilidad y la produccion de alimentos sanos de la mano con la naturaleza y no en contra de ella esas fueron los dos entonces asi se fue dando un poco este desarrollo de lo que fue desde ese 2007 y en terminos de educacion empezamos a hacer cursos de todo lo que queriamos aprender y necesitabamos aprender
+
+ ------------------------------------------- 
+
+8.47457627118644
+line_id 4239720008
+transcript norm:  entonces empezamos a hacer uso de esos pinos y tratar de sacarle el mayor barro posible a traves de la formacion y inversion de aserraderos y una pequena industria maderera que tenemos hoy dia aqui asi que eso ha sido como la evolucion muchos clientes mucha gente muchos clientes fieles a los productos hasta el dia de hoy
+ref norm:         entonces empezamos a hacer uso de esos pinos y tratar de sacar el mayor valor posible a traves de la formacion y inversion de aserraderos y una pequena industria maderera que tenemos hoy dia aqui asi que eso ha sido como la evolucion muchos clientes mucha gente muchos clientes fidelizados digamos con los productos hasta el dia de hoy
+
+ ------------------------------------------- 
+
+10.638297872340425
+line_id 4239724569
+transcript norm:  pero en esa busqueda digamos de las alternativas mas sustentables al quehacer humano cuando tuvimos la necesidad de construir nuestras casas ya conociamos el concepto de bioconstruccion y teniamos digamos el progreso de que en verdad no ibamos a poder hacer bioconstruccion porque teniamos pura arena
+ref norm:         bueno en esa busqueda digamos de las alternativas mas sustentables al quehacer humano cuando tuvimos la necesidad de construir nuestras casas ya conociamos el concepto de biocontruccion y teniamos digamos el prejuicio de que en verdad aqui no ibamos a poder hacer biocontruccion porque teniamos pura arena
+
+ ------------------------------------------- 
+
+6.122448979591836
+line_id 3667950018
+transcript norm:  comienzo como que me iba bien al comienzo de primero basico a cuarto 0 sexto me iba mas 0 menos bien y despues me empezo a ir pesimo sobre todo en idiomas me iba mal y hoy en dia me he esforzado de aprender idiomas y hablo cuatro idiomas
+ref norm:         al comienzo como que me iba bien al comienzo de primero basico a cuarto 0 sexto me iba mas 0 menos bien y despues me empezo a ir pesimo sobre todo en idiomas me iba mal yo en dia me he esforzado de aprender idiomas y hablo cuatro idiomas
+
+ ------------------------------------------- 
+
+1.694915254237288
+line_id 3667971557
+transcript norm:  entonces es como que te dicen que eres malo para hacer algo pero en verdad quizas te lo estan ensenando de una manera que no es muy facil para ti aprenderlo y yo creo que si yo creo que era uno de esos que estaba en el colegio medio que muy para los amigos muy para hacer otras cosas no
+ref norm:         entonces es como que te dicen que eres malo para hacer algo pero en verdad quizas te lo estan ensenando de una manera que no es muy facil para ti aprenderlo y yo creo que si yo creo que era uno de esos que estaba en el colegio medio que muy para los amigos muy para hacer otras cosas
+
+ ------------------------------------------- 
+
+0.0
+line_id 3667986239
+transcript norm:  pero encuentro que y algo que dicen muchos por ahi que si encuentras un talento en el ojala incentivar ese talento y no intentar de un poco regular las habilidades 0 los conocimientos
+ref norm:         pero encuentro que y algo que dicen muchos por ahi que si encuentras un talento en el ojala incentivar ese talento y no intentar de un poco regular las habilidades 0 los conocimientos
+
+ ------------------------------------------- 
+
+2.0408163265306123
+line_id 3667937662
+transcript norm:  para que finalmente sea un capo 0 una capa en lo que realmente se le hace facil en lo que realmente el dia de manana puede encontrar su vocacion porque a mi algo que me ha ayudado mucho en la carrera es que yo creo que yo encontre mi vocacion
+ref norm:         para que finalmente sea un capo una capa en lo que realmente se le hace facil en lo que realmente el dia de manana puede encontrar su vocacion porque a mi algo que me ha ayudado mucho en la carrera es que yo creo que yo encontre mi vocacion
+
+ ------------------------------------------- 
+
+13.157894736842104
+line_id 3667926869
+transcript norm:  no el borabo fue antes de espana absolutamente si primero fue el culinario en tres anos de carrera el primer ano normal como que en verdad recien me estaba metiendo en esto en la cocina no entendia mucho
+ref norm:         no el borago fue antes de espana exactamente si primero fue el culinario de tres anos de carrera el primer ano normal como que en verdad recien me esta metiendo en esto de la cocina no entendia mucho
+
+ ------------------------------------------- 
+
+10.526315789473683
+line_id 3667954275
+transcript norm:  el segundo ano ya empece a trabajar en algunas cositas extras y ese ano decidi hacer un work experience me fui a estados unidos a hacer hamburguesas basicamente dan un resort de esqui y me encanta el snowboard
+ref norm:         el segundo ano ya empece a trabajar en algunas cositas extras y ese ano decidi hacer un work experience me fui a estados unidos a hacer hamburguesas basicamente estaba en un resort de esquia me encanta el snowboard
+
+ ------------------------------------------- 
+
+2.127659574468085
+line_id 3667953844
+transcript norm:  me llamo un monton la atencion como su filosofia este tema de los menus por tiempo todo lo que hacia y yo si 0 si ya tenia que hacer una practica profesional y dije no de alguna manera me tengo que ir a trabajar con rodolfo
+ref norm:         me llamo un monton la atencion como su filosofia este tema de los menus por tiempo de todo lo que hacia y yo si 0 si ya tenia que hacer una practica profesional y dije no de alguna manera me tengo que ir a trabajar con rodolfo
+
+ ------------------------------------------- 
+
+3.8461538461538463
+line_id 3667964048
+transcript norm:  y bueno logre un contacto ahi con el me aceptaron la carrera la practica me fui a trabajar al primer creo que fue el primer baragot
+ref norm:         y bueno logre un contacto ahi con el me aceptaron la carrera la practica me fui a trabajar al primer creo que fue el primer borago
+
+ ------------------------------------------- 
+
+0.0
+line_id 3667981455
+transcript norm:  pero ahi tambien claro yo estaba trabajando habia gente de brasil de japon de en fin de todo el mundo y me tocaba dormir con un japones que el tipo imaginatelo mateo si trabajamos 12 14 horas al dia el tipo llegaba a la casa y no dormia
+ref norm:         pero ahi tambien claro yo estaba trabajando habia gente de brasil de japon de en fin de todo el mundo y me tocaba dormir con un japones que el tipo imaginatelo mateo si trabajamos 12 14 horas al dia el tipo llegaba a la casa y no dormia
+
+ ------------------------------------------- 
+
+9.30232558139535
+line_id 3667961873
+transcript norm:  se ponia a estudiar espanol le decia pero a que hora te da la energia y yo creo que no le da la energia porque el tipo andaba con una ojera enorme y son tan mateos que claro se ponia a estudiar no
+ref norm:         se ponia a estudiar espanol y decia pero a que hora te da la energia y yo creo que no le da la energia porque el tipo andaba con una agujera enorme y son tan mateo que claro se ponia a estudiar huevon
+
+ ------------------------------------------- 
+
+0.0
+line_id 3667939637
+transcript norm:  yo creo que siempre a quien mas pega le van a cargar es porque esta haciendo bien la pega
+ref norm:         yo creo que siempre a quien mas pega le van a cargar es porque esta haciendo bien la pega
+
+ ------------------------------------------- 
+
+8.450704225352112
+line_id 3667977848
+transcript norm:  entonces si estas diciendo bien la pega te van a cargar mas la mano te van a dar mas pega y probablemente el dia de manana te den un cargo de responsabilidad el dia de manana te empiecen a pagar por eso despues te den otro cargo y asi vas a ir creciendo pero si estas ahi al minimo te jodiste vas a andar rebotando en muchos lugares haciendo el mismo
+ref norm:         entonces si esta haciendo bien la pega te van a cargar mas la mano te van a dar mas pega y probablemente el dia de manana te den un cargo de responsabilidad el dia de manana te empiecen a pagar por eso despues te den otro cargo y asi vaya a ir creciendo pero si esta ahi al minimo te jodiste va a andar rebotando en muchos lugares haciendo el minimo
+
+ ------------------------------------------- 
+
+0.0
+line_id 3667995523
+transcript norm:  entonces finalmente yo me quede sin la plata porque se la tuve que pagar igual sin el ingrediente porque lo tuve que pagar para que le echaran a perder sin el tiempo y con un monton de estres y digamos finalmente me provoco un problema en vez de provocarme una solucion
+ref norm:         entonces finalmente yo me quede sin la plata porque se la tuve que pagar igual sin el ingrediente porque lo tuve que pagar para que le echaran a perder sin el tiempo y con un monton de estres y digamos finalmente me provoco un problema en vez de provocarme una solucion
+
+ ------------------------------------------- 
+
+13.953488372093023
+line_id 3667941648
+transcript norm:  y creo que eso tambien hay que entenderlo dentro del mundo laboral la gente y por ahi se dice que tu suendo va de acuerdo a que tan resolutivo eres y eso creo que no se si se entiende ok
+ref norm:         y creo que eso tambien hay que entenderlo dentro del mundo laboral la gente y por ahi se dice que tu sueldo va de acuerdo a la que tan resolutivo eres y eso creo que no se si no se si se entiende
+
+ ------------------------------------------- 
+
+3.508771929824561
+line_id 3667946010
+transcript norm:  bueno ahi hay una historia que yo encuentro que es muy buena que dicen que dicen no se si tu lo hayas escuchado pero que de los 20 a los 30 hay que trabajar realmente con referentes que tu admires pero que admires mas alla de la tecnica que admires mas alla del trabajo de los ingresos
+ref norm:         bueno y hay una historia que yo encuentro que es muy buena que dicen que dicen no se si tu lo hayas escuchado pero que de los 20 a los 30 hay que trabajar idealmente con referentes que tu admires pero que admires mas alla de la tecnica que admires mas alla del trabajo de los ingresos
+
+ ------------------------------------------- 
+
+6.0606060606060606
+line_id 3667925655
+transcript norm:  que lo admire por como ve el trabajo como ve esa vocacion 0 como ve eso que esta haciendo independiente de lo que sea porque puede ser incluso sin ser del trabajo
+ref norm:         que lo admires por como ve el trabajo como ve esa vocacion 0 como ve ese eso que esta haciendo independiente de lo que sea porque puede ser incluso sin ser del trabajo
+
+ ------------------------------------------- 
+
+5.263157894736842
+line_id 3667945550
+transcript norm:  de hecho me han ofrecido varias veces volver me han ofrecido pega un monton de cosas pero no me llama la atencion para vivir de ninguna manera lo entiendo de hecho fue super extrano porque volvimos de brasil con mi esposa y llegamos a santiago y te lo juro por dios que santiago parecia una tacita de leche 0
+ref norm:         de hecho me han ofrecido varias veces volver me han ofrecido pega un monton de cosas pero no me llama la atencion para vivir de ninguna manera de hecho fue super extrano porque volvimos de brasil con mi esposa y llegamos a santiago y te lo juro por dios que santiago parecia una tacita de leche huevon
+
+ ------------------------------------------- 
+
+0.0
+line_id 3667955174
+transcript norm:  era como todo el mundo tranquilo yo se que ahora igual ya esta mucho mas ajetreado pero tranqui no pasa nada muy seguro otra onda
+ref norm:         era como todo el mundo tranquilo yo se que ahora igual ya esta mucho mas ajetreado pero tranqui no pasa nada muy seguro otra onda
+
+ ------------------------------------------- 
+
+6.8181818181818175
+line_id 3667983115
+transcript norm:  aca vine y era un poquito mas chico y me ofrecian el puesto como de sub chair de pasteleria y estaba el restaurante 99 que en esa epoca era un papel en blanco muy bonito proyecto pero no tenia ningun premio ni ninguna cuestion
+ref norm:         aca vine y era un poquito mas chico y me ofrecian el puesto como de sub chef de pasteleria y estaba el restaurant 99 que en esa epoca era un papel en blanco muy bonito proyecto pero no tenia ningun premio ni una cuestion
+
+ ------------------------------------------- 
+
+4.761904761904762
+line_id 3667910250
+transcript norm:  pero si ahi me ofrecian 0 me daban la libertad de ser el chef de pasteleria entonces finalmente ahi si tenia mucho mas alas voy a hacer mis propuestas hacer mis cosas y finalmente por eso que tome la decision de entrar ahi
+ref norm:         pero si ahi me ofrecian 0 me daban la libertad de ser el chef de pasteleria entonces finalmente ahi si tenia mucho mas alas podia hacer mis propuestas hacer mis cosas y finalmente por eso que tome la decision de entrar ahi
+
+ ------------------------------------------- 
+
+9.090909090909092
+line_id 3667986402
+transcript norm:  pero no puedo porque la paso mal es mucha comida
+ref norm:         pero no puedo porque la paso mal pues es mucha comida
+
+ ------------------------------------------- 
+
+11.11111111111111
+line_id 3667978531
+transcript norm:  y a nivel de lo que me se de la gastronomia yo siempre he dicho que hay gastronomia muy buena de alta gastronomia como pueden ser estos restaurantes de menu degustacion de experiencia como puede haber muy buena gastronomia en la calle en mexico en peru aca mismo vaya a puerto mone en gelmoa a mi me encanta ir al mercado es
+ref norm:         y ya a nivel de lo que me decias de la gastronomia yo siempre he dicho que hay gastronomia muy buena de alta gastronomia como pueden ser estos restaurantes de menu de gustacion de experiencia como puede haber muy buena gastronomia en la calle en mexico en peru aca mismo vaya a puerto mona en gelmo a mi me encanta ir al mercado
+
+ ------------------------------------------- 
+
+25.0
+line_id 6701423669
+transcript norm:  claro tal cual fue en este vlog que como te digo me empezaron a invitar a comunicreati en 2014 dije la hice y ahi arme este proyecto de 375 sandwiches que lo lance en el 2016 bien leime hace un ano completo de nuevo yo tenia mi paga formal con un saldo bajito pero normal
+ref norm:         claro tal cual fue en este blog que como digo me empezaron a invitar a comer gratis en 2014 y dije la hice y ahi arme este proyecto de 365 sandwiches que lo gance en 2016 y ahi me lanze un ano completo de nuevo yo tenia mi pega formal con un sueldo bajito pero normal
+
+ ------------------------------------------- 
+
+23.636363636363637
+line_id 6701429355
+transcript norm:  y cuando renuncie ahi me acuerdo que mi hermano me dijo pero eres estupido creo que seas un socio como vas a renunciar a esta wea para dedicarte con el sandwich y con un sueldo era como el 40% del sueldo que tenes ahi y nada estaba seguro que algo se podia armar
+ref norm:         y cuando renuncie ahi me acuerdo porque mi hermano me dijo pero el no es tuyo yo creo que estamos socios como vas a renunciar a esta huea para dedicarte como el sandwiche y con un sueldo era como el 40% del sueldo que tenia ahi y nada estaba seguro que algo se podia armar
+
+ ------------------------------------------- 
+
+32.3943661971831
+line_id 6701451253
+transcript norm:  si oye un shally y me inicie a terminar con un magister en marketing 0 sea el magister que tu queres pero yo hice marketing de hecho hay una estupida historia que cuento entre nosotros nomas pero me da verguenza porque se rumoreaba que el de marketing era el mas pajaro pero a mi me gustaba tanto el marketing me leia todos los libros que chau que chau
+ref norm:         si obvio comercial y en mi universidad termine con un magisterio en marketing 0 sea el magisterio que tu crees pero yo hice marketing de hecho hay una estupidez esto lo comento como entre nosotros no mas pero me daba verguenza porque se rumoreaba que el de marketing era el mas pajero pero a mi me gustaba tanto el marketing y me leia todos los libros que dije sabes que chao
+
+ ------------------------------------------- 
+
+26.82926829268293
+line_id 6701437377
+transcript norm:  y yo era nerd pero era amateur no queria que algo fuera como poco exigente no es asi pero me meti y siento que le he hecho un te pero al final obvio cuando uno le mete saca y pre hecho cualquier cosa 0 sea un curso bueno mas 0 menos no es asi y obviamente habia muchos alumnos ultramaquinas pero lo que pasa es que los que les daba la tonalidad universitaria los que querian terminar por decir tambien entraron a marketing no es asi
+ref norm:         y yo era nerd porque era mateo no queria que algo fuera como poco exigente no se que pero me meti y siento que le he hecho un te porque la cago que cuando uno le mete sacai y aprovecha cualquier cosa 0 sea un curso bueno mas 0 menos no se que y obviamente habia muchos alumnos ultra maquinas pero lo que pasa es que los que les daba la tonalidad los que querian terminar porque si tambien entraran a marketing
+
+ ------------------------------------------- 
+
+28.07017543859649
+line_id 6701479506
+transcript norm:  si lo he partido departia en el viaje por el mundo que fue mi tercer ano consecutivo comiendo 365 sandwiches 0 sea ya en el sandwich numero 1000 por asi decirlo y fue en melbourne australia que fue la tercera ciudad del viaje que fui a una sandwicheria al sandwich del dia y a un momento .
+ref norm:         chicken love you partio de partida en el viaje por el mundo que fue mi tercer ano consecutivo comiendo trescientos sesenta y cinco sandwiches 0 sea ya en el sandwich numero mil por asi decirlo y fue en melbourne australia que fue la tercera ciudad del viaje que fui a una sandwicheria al sandwich del dia digamos
+
+ ------------------------------------------- 
+
+9.25925925925926
+line_id 6701440750
+transcript norm:  y me pido pollo frito de cueva nunca la pense mucho fue como ah pollo frito claro lo pruebo y te juro sin exagerar digo con chismadre nunca habia probado algo asi en mi vida porque hamburguesas probe hamburguesas increibles en japon en londres hong kong en singapur en miles de partes
+ref norm:         y me pido pollo frito de cueva nunca la pense mucho fue como ah pollo frito que raro lo pruebo y te juro sin exagerar digo concha de madre nunca habia probado algo asi en mi vida porque hamburguesas probe hamburguesas increibles en japon en londres hong kong en singapur en miles de partes
+
+ ------------------------------------------- 
+
+27.536231884057973
+line_id 6701441863
+transcript norm:  y pregunte 21 veces a 21 cocineros en 21 ciudades distintas si me pueden ensenar que viene a cuantos me creen que si los 21 21 por un lado y ahi yo digo puta el mundo es generoso yo creo que depende de la aprocha 0 sea cuando ayer con la buena onda lechu cotto tiene un concepto que es muy simple pero el dice el poder de lola
+ref norm:         y pregunte 21 veces a 21 cocineros en 21 ciudades distintas si me pueden ensenar y ahi viene a cuantos me dijeron que si 21 21 po huevon la cago y ahi yo digo el mundo es generoso yo creo que depende del approach 0 sea cuando llegais con la buena onda de hecho coto tiene un concepto que es muy simple pero le dice el poder del hola
+
+ ------------------------------------------- 
+
+26.785714285714285
+line_id 6701488960
+transcript norm:  que es cuando yo digo como hola como estais ese ya es un abriado de puertas y nada funciono cocine con 21 personas entre el dueno de shake shack 0 sea el chef ejecutivo de shake shack jose sergio gonzalez que es un chef venezolano con 3 millones de seguidores
+ref norm:         que es cuando ya es como hola como estai ese ya es un abrir de puerta y nada funciono cocine con 21 personas entre ellas no se el dueno de shake shack 0 sea el chef ejecutivo de shake shack con cesar gonzalez que es un chef venezolano seco no se de tres millones de seguidores
+
+ ------------------------------------------- 
+
+30.0
+line_id 6701493433
+transcript norm:  y todos yo mirandolos como grandes de evidencia les pregunto hola vosotros no sabias me dicen oye si paga me subi al foodtruck con ellos cocinaba y ahi fui viendo que patrones se repetian esto del pollo y fui como tejiendo diciendo juan este ya se que nadie lo ha probado en chile no existe en chile
+ref norm:         y todos yo mirandolos como grandes eminencias y les preguntaba hola como estais me ensenaban obvio que si pa me subi al food track con ellos cocinaba y ahi fui viendo que patron se repetia en esto del pollo y fui como tejiendo diciendo bueno esto ya ya se que nadie lo ha probado en chile no existe en chile
+
+ ------------------------------------------- 
+
+15.0
+line_id 6701435328
+transcript norm:  ya se cocinarlo necesito a alguien que me ayude a llevarlo a la realidad y ahi recurri a una historia que tiene que ver con guayabetas porque esta en un ano nuevo en una fiesta y me acuerdo que pasa un buen alto asi flaco con una guayabera muy bacan y le digo de buena onda compadre bueno es que tu guayabeta
+ref norm:         ya se cocinarlo necesito alguien que me ayude a llevarlo a la realidad y ahi recurri a una historia que tiene que ver con guayaberas porque estaba en un ano nuevo en una fiesta y me acuerdo que paso un buen alto flaco con una guayabera muy bacan y le digo de buena onda compadre que me arraja tu guayabera
+
+ ------------------------------------------- 
+
+20.98765432098765
+line_id 6701441370
+transcript norm:  una empresaria que tenia 60 4 locales no se y nos estamos conversando esto fue antes del viaje por el mundo y ahi lo conoci y sabia que era dueno de una empresaria entonces yo despues despues de haber cocinado 21 veces en el mundo llamo a este compadre a leon y le digo yo digo abrahamo un rostran y me dice ya puta hamburguesa tu eres el buen de la hamburguesa y yo no de pollo fita
+ref norm:         una hamburgueseria que tiene no se cuatro locales no se que y nos quedamos conversando esto fue antes del viaje por el mundo y ahi lo conoci y sabia que era dueno de una hamburgueseria entonces yo despues de haber cocinado veintiun veces en el mundo llamo a este compadre a leon y le digo oye oigan habra un restaurant y me dice ya puta hamburguesa tu eres el buen de la hamburguesa me dice y yo no de pollo frito
+
+ ------------------------------------------- 
+
+23.25581395348837
+line_id 6701464380
+transcript norm:  y el pollo frito y curiosamente el que tiene experiencia en restaurante y todo me dice pero como un pollo frito dentro de un sandwich que raro como harina con marina no no lo entiendo asi que voy a chile de lo demas te poste
+ref norm:         y el pollo frito y curiosamente el que tiene experiencia en restaurant y todo me dice pero como un pollo frito dentro de un sandwich que raro como harina con harina no lo entiendo entonces dije voy a chile y te lo demuestro
+
+ ------------------------------------------- 
+
+15.686274509803921
+line_id 6701410739
+transcript norm:  si no ese fue el primer tema de hecho buen punto yo sabia cocinarlo en mi casa pero yo nunca habia usado una freidora industrial una plancha industrial nada era todo en un wok entonces me decia y a cuantos gramos tiene tal cosa y le digo dos cucharadas
+ref norm:         si no a ver ese fue el primer tema de hecho buen punto yo sabia cocinarlo en mi casa pero yo nunca habia usado una freyora industrial una plancha industrial nada era todo en un wok entonces el me decia ya cuanto gramos tiene tal cosa y yo digo dos cucharadas
+
+ ------------------------------------------- 
+
+23.28767123287671
+line_id 6701499107
+transcript norm:  me dice no pues bueno no puede ser dos cucharas cuantos gramos y yo ah no se pues bueno entonces tuve que hacer todo de nuevo pesandolo no se que con temperatura y ahi el trabajaba con un chef conmigo entendes que el si sabia de maquinaria especial entonces yo le decia bueno es una friura con estas caracteristicas y el decia ya la rpj 44 no se que
+ref norm:         me dice no po huevon no puede ser dos cucharadas cuantos gramos y yo ah no se po huevon entonces tuve que hacer todo de nuevo pesandolo no se que con temperatura y ahi el trabajaba con un chef con nico quintano que el si sabia de maquinarias especiales entonces yo le decia bueno he hecho una freyora con estas caracteristicas y el decia ya la rpg 4 x 4 no se que
+
+ ------------------------------------------- 
+
+11.235955056179774
+line_id 6701446949
+transcript norm:  a ver a mi me ha gustado mucho que tenemos las pegas muy divididas yo me encargo del producto de la comunicacion marketing diseno etc y el area comercial por asi decirlo de alianzas con marcas y se encarga de control de finanzas de recursos humanos y la operacion en si y me gusta porque de hecho el mismo coto hermano cuando chico hace 15 anos me decia como no es bueno ser de todo contabilidad bla bla bla
+ref norm:         a ver a mi me ha gustado mucho que tenemos las pegas muy divididas yo me encargo del producto de la comunicacion marketing diseno etc y el area comercial por asi decirlo de alianzas con marcas y el se encarga de control 0 sea de finanzas de recursos humanos y de la operacion en si y me gusta porque de hecho el mismo coto mi hermano cuando chico hace 15 anos me decia como no es bueno que tu tienes que ser de todo contabilidad bla bla bla bla
+
+ ------------------------------------------- 
+
+19.51219512195122
+line_id 6701495740
+transcript norm:  y yo yo que fue valiente pero quizas fue una decision estupida pero que me acomoda y dices que no juan porque cada vez que tu me decis oye bruto 0 neto yo puta se me alfiorna me complico
+ref norm:         y yo digo que fue valiente pero quizas fue una decision estupida pero que me acomoda y yo dije es que no guan porque cada vez que tu me decis oye bruto todo neto digo puta se me olvido me complico
+
+ ------------------------------------------- 
+
+42.1875
+line_id 6701495101
+transcript norm:  estamos con pablo millado con el ciros el de bandera que ahora hablo en la edicion juan pablo alvaro barrientos que tambien es como un estandarte de gastronomia chilena de hecho el tiene la fuente chilena pero en general como rostan si la palabra es engrupido pero producido entre la union es dificil de arrepentir 0 no
+ref norm:         pero esta por ejemplo juan pablo millado con el ciros el de bandera que ahora abrio en iciora juan pablo alvaro barriento que el tambien es como un estandarte de gastronomia chilena como de hecho el tiene la fuente chilena pero en general en general como restaurantes no se si la palabra engrupidos pero producido producido entretenido no se que es dificil recomendar uno
+
+ ------------------------------------------- 
+
+49.01960784313725
+line_id 6701464472
+transcript norm:  creo que de a poco no se incluso la peor que hace el rod fogusman con el borabo ya obviamente es super dificil de acceder pero por lo menos el compadre estando en la vuelta esta mejorando la vida cocha hay 84 libros de alga cache como creo que me andemica
+ref norm:         pero yo que le da poco no se incluso la pega que hace el rodolfo guzman con el boraco ya obviamente es super dificil de acceder pero por lo menos el compadre esta andando una vuelta y esta cocinando puta cocha ochenta y cuatro tipos de algas cachai como comida endemica
+
+ ------------------------------------------- 
+
+26.666666666666668
+line_id 6701422726
+transcript norm:  si siempre la respuesta es vi un video de jamie oliver 0 de alvaro barrento y esa es cache 0 le cambie la paprika 0 la sal pero son siento que me falta gente y me no man probe 44 opciones hice temperatura lo probe para la izquierda para la derecha para arriba para abajo puta ya esta en verdad es el mejor
+ref norm:         y casi siempre la respuesta es vi un video de jamie oliver 0 de alvaro barriento y esa es 0 le cambie la paprika por la sal pero me falta gente que me diga no guay probe 44 gustiones hice temperatura lo pruebe para la izquierda para la derecha para arriba para abajo y este en verdad es el mejor
+
+ ------------------------------------------- 
+
+37.03703703703704
+line_id 6701452182
+transcript norm:  que se obsesionen que se vuelvan locos aprovechen que en youtube hay 4 mil millones de videos hablan 5 horas de 5 grandes cracks 0 sea a verle a jimmy miller pero a darle a gordon branson a darle a alvaro barrientos y comparenle digan ah sabes que esta me gusta mas que la otra prueben
+ref norm:         entonces que se obsesionen que se vuelvan locos aprovechen que en youtube hay cuatro mil millones de videos hagan cinco recetas de cinco grandes cracks 0 sea haganla de jamie oliver pero haganla de gordon ramsay haganla de alvaro barriento y comparenla digan ah sabes que esta me gusta mas que la otra prueben
+
+ ------------------------------------------- 
+
+15.686274509803921
+line_id 4239797598
+transcript norm:  y en el 2007 nos encontramos aqui porque david horne hizo su gira por latinoamerica y llego a chile y como tenian vinculos con griffin por nacelarra y los cursos de permacultura de nueva zelanda paso por el manzana de hecho estuvimos ahi anduvimos trayendo como rockstar a david horne
+ref norm:         y el 2007 nos encontramos aqui porque david holmgren hizo su gira por latinoamerica y llego a chile y como tenian vinculos con griffin por nueva zelanda y los cursos de permacultura de nueva zelanda paso por el manzano de hecho estuvimos ahi y lo anduvimos trayendo como rockstar a david
+
+ ------------------------------------------- 
+
+0.0
+line_id 4239795767
+transcript norm:  yo la javi y griffin andaba con su esposa sue y bueno tenia varias charlas en chile en varios lados asi que anduvimos con el
+ref norm:         yo la javi y griffin andaba con su esposa sue y bueno tenia varias charlas en chile en varios lados asi que anduvimos con el
+
+ ------------------------------------------- 
+
+7.936507936507936
+line_id 4239719238
+transcript norm:  como te digo por eso como que el entendimiento siempre ha sido como a nivel de la zona y la autosustentacion pero las herramientas del pensamiento sistemico en verdad se pueden aplicar a niveles regionales a las cuencas a las bioregiones como que todo eso tambien funciona si es que logramos entender que esto es una forma de pensar diferente una forma de mirar el ecosistema
+ref norm:         como te digo por eso el entendimiento siempre ha sido a nivel de las zonas y la autosustentacion pero las herramientas del pensamiento sistemico en verdad se pueden aplicar a niveles regionales a las cuencas a las bioregiones como que todo eso tambien funciona si es que logramos entender que esto es una forma de pensar diferente una forma de mirar el ecosistema
+
+ ------------------------------------------- 
+
+3.0303030303030303
+line_id 4239753430
+transcript norm:  la naturaleza y como el ser humano se inserta dentro de esta naturaleza desde ese punto de vista como de las herramientas que te entrega la permacultura se podrian utilizar sin ningun problema
+ref norm:         la naturaleza y como el ser humano se inserta dentro de nuestra naturaleza desde ese punto de vista como de las herramientas que te entrega la permacultura se podrian utilizar sin ningun problema
+
+ ------------------------------------------- 
+
+21.73913043478261
+line_id 4239720122
+transcript norm:  bueno el manzano desde ese 2007 venia con un antepasado agricola por ser un campo agricola y forestal
+ref norm:         bueno el manzano desde ese 2007 venia con una venia con un digamos un antepasado agricola por ser un campo agricola y forestal
+
+ ------------------------------------------- 
+
+2.9850746268656714
+line_id 4239798772
+transcript norm:  el manzano como territorio y como campo tiene una parte agricola tiene una parte forestal y una cosa re importante que siempre fue parte de lo que nosotros teniamos como mision 0 nos pusimos como mision fue el desarrollo rural de esta villa villa del manzano que es la villa rural asociada a este campo que venia de los antiguos trabajadores del fondo que era mas grande
+ref norm:         el manzano como territorio y como campo tiene una parte agricola tiene una parte forestal y una cosa re importante que siempre fue parte de lo que nosotros teniamos como mision 0 nos pusimos como mision fue el desarrollo rural de esta villa villa el manzano que es la villa rural asociada a este campo que venia de los antiguos trabajadores del fundo que era mas grande
+
+ ------------------------------------------- 
+
+18.75
+line_id 4239772095
+transcript norm:  desde la permacultura que fue la primera cosa diseno de los ecosistemas con las herramientas de la ecologia hasta las construcciones con barro sistemas sociales de organizacion economia y todo lo que tiene que ver con la sustentabilidad en torno al quehacer humano
+ref norm:         ya que son desde la permacultura que fueron las primeras cosas diseno digamos de los ecosistemas con las herramientas de la ecologia hasta digamos las construcciones con barro sistemas sociales de organizacion economia y todo lo que tiene que ver con la sustentabilidad en torno al quehacer humano
+
+ ------------------------------------------- 
+
+0.0
+line_id 4239767694
+transcript norm:  ya entonces fuimos haciendo muchos cursos de esto invitando a mucha gente nosotros aprendiendo y abriendo el espacio para que otra gente aprenda tambien y junto con eso la produccion de alimentos organicos desde la mirada de lo que comemos todos los dias
+ref norm:         ya entonces fuimos haciendo muchos cursos de esto invitando a mucha gente nosotros aprendiendo y abriendo el espacio para que otra gente aprenda tambien y junto con eso la produccion de alimentos organicos desde la mirada de lo que comemos todos los dias
+
+ ------------------------------------------- 
+
+5.555555555555555
+line_id 4239730747
+transcript norm:  ya nunca nos gusto el concepto del frasquito de algo asi super premium organico sino que el desafio de producir porotos papas trigo lo que comemos todos los dias es de una forma diferente y organica
+ref norm:         ya no nunca nos gusto el concepto del frasquito de algo asi super premium organico sino que el desafio de producir porotos papas trigo lo que comemos todos los dias de una forma diferente y organica
+
+ ------------------------------------------- 
+
+19.444444444444446
+line_id 4239763749
+transcript norm:  eso era como son las dos misiones y ahi hemos andado en esos dos mundos la parte forestal tambien se metio entre medio porque empezamos a hacernos cargo del legado de nuestros padres que fue plantar el campo con pina
+ref norm:         esas son las dos misiones y ahi andaban esos dos mundos la parte forestal tambien se metio entre medio porque empezamos a hacernos cargo del legado de nuestros padres que fue plantar el campo con pino
+
+ ------------------------------------------- 
+
+Final wer score:  18.786339882896783

@@ -1,0 +1,1261 @@
+0.0
+line_id 3886149120
+transcript norm:  la forma en la que pensamos moldea absolutamente todo lo que hacemos moldea nuestros negocios y aun mas importante moldea nuestra vida moldea todo lo que nos rodea porque el mundo es lo vemos como somos no como es
+ref norm:         la forma en la que pensamos moldea absolutamente todo lo que hacemos moldea nuestros negocios y aun mas importante moldea nuestra vida moldea todo lo que nos rodea porque el mundo es lo vemos como somos no como es
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886190627
+transcript norm:  entonces si nosotros cambiamos y empezamos a tener conciencia respecto a la forma en la que pensamos podemos cambiar todo lo que tenemos hacia adelante podemos cambiar el rumbo que le estamos dando a nuestro negocio podemos cambiar nuestras relaciones podemos cambiar lo que sea y solamente tiene que ver con empezar a reconfigurar nuestra cabeza nuestra mente para que nos ayude a lograr ese objetivo
+ref norm:         entonces si nosotros cambiamos y empezamos a tener conciencia respecto a la forma en la que pensamos podemos cambiar todo lo que tenemos hacia adelante podemos cambiar el rumbo que le estamos dando a nuestro negocio podemos cambiar nuestras relaciones podemos cambiar lo que sea y solamente tiene que ver con empezar a reconfigurar nuestra cabeza nuestra mente para que nos ayude a lograr ese objetivo
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886137003
+transcript norm:  agrupe 13 principios que yo uso en mi vida lo uso personalmente todo el tiempo lo uso para la vida en general y lo uso para los negocios en particular son 13 principios que yo quiero que uses son 13 principios que yo quiero que cada vez que tengas una duda cada vez que no sepas como resolver algo vuelvas y los repases porque te van a dar claves para que vos puedas avanzar y superar esas dudas y superar esas decisiones
+ref norm:         agrupe 13 principios que yo uso en mi vida lo uso personalmente todo el tiempo lo uso para la vida en general y lo uso para los negocios en particular son 13 principios que yo quiero que uses son 13 principios que yo quiero que cada vez que tengas una duda cada vez que no sepas como resolver algo vuelvas y los repases porque te van a dar claves para que vos puedas avanzar y superar esas dudas y superar esas decisiones
+
+ ------------------------------------------- 
+
+1.7241379310344827
+line_id 3886137573
+transcript norm:  vamos a ir arrancando con el principio numero uno lo que no se puede medir no se puede mejorar por que simplemente medir algo ya tiene una extrana tendencia a mejorarlo pensa en atletas de alto rendimiento pensa en personas que corren maratones pensa en personas que nadan ni siquiera hace falta que seas atleta de alto rendimiento
+ref norm:         vamos a ir arrancando con el principio numero one lo que no se puede medir no se puede mejorar por que simplemente medir algo ya tiene una extrana tendencia a mejorarlo pensa en atletas de alto rendimiento pensa en personas que corren maratones pensa en personas que nadan ni siquiera hace falta que seas atleta de alto rendimiento
+
+ ------------------------------------------- 
+
+5.405405405405405
+line_id 3886125899
+transcript norm:  yo vos queremos empezar a correr y queremos lograr correr 10 kilometros 5 kilometros a fin de ano bueno la forma de saber si estamos mejorando es viendo cuanto estamos corriendo cada dia que salimos a correr
+ref norm:         yo vos queremos empezar a correr y queremos lograr correr 10 km 5 km a fin de ano bueno la forma de saber si estamos mejorando es viendo cuanto estamos corriendo cada dia que salimos a correr
+
+ ------------------------------------------- 
+
+11.538461538461538
+line_id 3886177244
+transcript norm:  si hoy corro un kilometro manana corro dos y de repente volvi a correr uno si yo mido eso con esos datos yo puedo decir bueno pero que paso que este dia anterior corri mas y este corri menos no basta simplemente con registrar que algo se logra 0 no
+ref norm:         si hoy corro one km manana corro 2 km y de repente volvi a correr one km si yo mido eso con esos datos yo puedo decir bueno pero que paso que este dia anterior corri mas y este corri menos no basta simplemente con registrar que algo se logra 0 no
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886198414
+transcript norm:  este es un principio que aunque parezca una tonteria no todo el mundo lo tiene presente y es que si no tenes clientes no tenes negocio y si no tenes negocio para que estas haciendo lo que estas haciendo los clientes son lo fundamental de todo lo que estamos haciendo
+ref norm:         este es un principio que aunque parezca una tonteria no todo el mundo lo tiene presente y es que si no tenes clientes no tenes negocio y si no tenes negocio para que estas haciendo lo que estas haciendo los clientes son lo fundamental de todo lo que estamos haciendo
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886159344
+transcript norm:  nuestro cliente es amo y senor nuestro y de nuestro negocio nosotros tenemos que entender hasta como duerme nuestro cliente estoy exagerando estoy exagerando excepto que estes vendiendo colchones y almohadas pero nuestro cliente es fundamental para el negocio nosotros tenemos que profundizar muchisimo en los habitos de nuestros clientes en las necesidades que tienen tenemos que volvernos como vimos clientes centricos
+ref norm:         nuestro cliente es amo y senor nuestro y de nuestro negocio nosotros tenemos que entender hasta como duerme nuestro cliente estoy exagerando estoy exagerando excepto que estes vendiendo colchones y almohadas pero nuestro cliente es fundamental para el negocio nosotros tenemos que profundizar muchisimo en los habitos de nuestros clientes en las necesidades que tienen tenemos que volvernos como vimos clientes centricos
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463935618
+transcript norm:  nuestro cliente es fundamental para el exito del negocio y eso es algo que a partir de hoy nos tenemos que grabar a fuego en la cabeza en la mente que sea lo que sea que estemos haciendo nuestro cliente tiene que estar en el centro de esa experiencia
+ref norm:         nuestro cliente es fundamental para el exito del negocio y eso es algo que a partir de hoy nos tenemos que grabar a fuego en la cabeza en la mente que sea lo que sea que estemos haciendo nuestro cliente tiene que estar en el centro de esa experiencia
+
+ ------------------------------------------- 
+
+1.36986301369863
+line_id 3387394381
+transcript norm:  las decisiones que tomemos tienen que estar basadas en el valor que le estamos aportando al cliente porque si nosotros realmente le aportamos valor a nuestro cliente vamos a tener un retorno el cliente va a querer acceder a nuestros productos a nuestros servicios a nosotros entonces es un loop es un circulo nosotros si satisfacemos las necesidades de nuestro cliente y para satisfacerlas hay que entenderlas vamos a poder tener un negocio no
+ref norm:         las decisiones que tomemos tienen que estar basadas en el valor que le estamos aportando al cliente porque si nosotros realmente le aportamos valor a nuestro cliente vamos a tener un retorno el cliente va a querer acceder a nuestros productos a nuestros servicios a nosotros entonces es un loop es un circulo nosotros si satisfacemos las necesidades de nuestro cliente y para satisfacerlas hay que entenderlas vamos a poder tener un negocio
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886115866
+transcript norm:  nuestro cliente es el centro del negocio y para que el negocio funcione tenemos que satisfacer las necesidades de nuestros clientes tenemos que respirar dormir comer con nuestros clientes
+ref norm:         nuestro cliente es el centro del negocio y para que el negocio funcione tenemos que satisfacer las necesidades de nuestros clientes tenemos que respirar dormir comer con nuestros clientes
+
+ ------------------------------------------- 
+
+1.639344262295082
+line_id 3886112406
+transcript norm:  lo que me lleva al principio numero 3 y que es algo que muchisimas empresas no saben que muchisimos negocios no tienen en cuenta en realidad y que esta es la principal causa por la que un cliente se va de un negocio por la que no compra 0 por la que deja de comprar en un negocio es la principal causa
+ref norm:         lo que me lleva al principio numero 3 y que es algo que muchisimas empresas no saben que muchisimos negocios no tienen en cuenta en realidad y que esta es la principal causa por la que un cliente se va de un negocio por la que no compra 0 por la que deja de comprar en un negocio es la principal
+
+ ------------------------------------------- 
+
+2.4390243902439024
+line_id 3387321880
+transcript norm:  y es que tenemos que tener excelencia en atencion al cliente si tenemos excelencia en atencion al cliente el 50% del camino que estamos recorriendo con nuestro negocio de la batalla del negocio que estamos librando ya lo tenemos ganado
+ref norm:         y es que tenemos que tener excelencia en atencion al cliente si tenemos excelencia en atencion al cliente el 50% del camino que estamos recorriendo con nuestro negocio de la batalla del negocio que estamos librando no ya lo tenemos ganado
+
+ ------------------------------------------- 
+
+1.6129032258064515
+line_id 3886140873
+transcript norm:  los clientes en general estan acostumbrados nosotros estamos acostumbrados a ser maltratados por las empresas con las que lidiamos pensa en bancos pensa en telefonia celular en servicios de internet pensa como lo que significa cada vez que tenes que interactuar con atencion al cliente de esos lugares imaginate lo que seria que aparezca un negocio que tenga una atencion al cliente
+ref norm:         los clientes en general estan acostumbrados nosotros estamos acostumbrados a hacer maltratados por las empresas con las que lidiamos pensa en bancos pensa en telefonia celular en servicios de internet pensa como lo que significa cada vez que tenes que interactuar con atencion al cliente de esos lugares imaginate lo que seria que aparezca un negocio que tenga una atencion al cliente
+
+ ------------------------------------------- 
+
+1.5873015873015872
+line_id 3886151748
+transcript norm:  como si alguna vez interactuaste tuviste la suerte de interactuar con el servicio del cliente de amazon por ejemplo sabes que van a hacer todo para resolverte el problema y que contactarse con ellos es hermosa la experiencia porque por un lado la gente te trata muy bien por el otro lado realmente te quieren ayudar a que resuelvas el problema que tenes
+ref norm:         como si alguna vez interactuaste estuviste la suerte de interactuar con el servicio del cliente de amazon por ejemplo sabes que van a hacer todo para resolverte el problema y que contactarse con ellos es hermosa la experiencia porque por un lado la gente te trata muy bien por el otro lado realmente te quieren ayudar a que resuelvas el problema que tenes
+
+ ------------------------------------------- 
+
+0.0
+line_id 3387358437
+transcript norm:  y si no te pueden ayudar a resolver ese problema buscan las formas a vida y por haber de devolverte tu dinero 0 devolverte tu producto 0 hacer que realmente vos quieras seguir comprando con ellos porque tiene muchisimo valor que eso suceda las propias ideas sobre lo que es posible de nosotros las hemos reducido inconscientemente por las malas experiencias que tenemos con atencion al cliente 0 sea la vara en atencion al cliente esta muy baja
+ref norm:         y si no te pueden ayudar a resolver ese problema buscan las formas a vida y por haber de devolverte tu dinero 0 devolverte tu producto 0 hacer que realmente vos quieras seguir comprando con ellos porque tiene muchisimo valor que eso suceda las propias ideas sobre lo que es posible de nosotros las hemos reducido inconscientemente por las malas experiencias que tenemos con atencion al cliente 0 sea la vara en atencion al cliente esta muy baja
+
+ ------------------------------------------- 
+
+1.8867924528301887
+line_id 3886183119
+transcript norm:  entonces nosotros cuando tenemos una muy buena experiencia en atencion al cliente decimos como wow esto es nuevo estamos tan acostumbrados a que nos maltraten en atencion al cliente que cuando nos topamos con esas buenas experiencias decimos wow esto es muy bueno quiero quedarme aca me encanta y generalmente lo compartimos
+ref norm:         entonces nosotros cuando tenemos una muy buena experiencia en atencion al cliente decimos como wow esto es nuevo entonces estamos tan acostumbrados a que nos maltraten en atencion al cliente que cuando nos topamos con esas buenas experiencias decimos wow esto es muy bueno quiero quedarme aca me encanta y generalmente lo compartimos
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886192817
+transcript norm:  decimos che me atendieron muy bien en este nuevo producto en este nuevo servicio en esta empresa 0 con esta persona las primeras etapas de un negocio vale muchisimo la pena ofrecer un servicio de atencion al cliente que sea de un nivel tremendo que sea excepcional
+ref norm:         decimos che me atendieron muy bien en este nuevo producto en este nuevo servicio en esta empresa 0 con esta persona las primeras etapas de un negocio vale muchisimo la pena ofrecer un servicio de atencion al cliente que sea de un nivel tremendo que sea excepcional
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886157090
+transcript norm:  entonces muchisimo foco en la atencion al cliente sea el negocio que tengas es fundamental ya vas a tener 50% de la batalla ganada principio numero 4 esto es algo que repito hasta el cansancio es uno de los grandes aprendizajes de mi vida profesional
+ref norm:         entonces muchisimo foco en la atencion al cliente sea el negocio que tengas es fundamental ya vas a tener 50% de la batalla ganada principio numero 4 esto es algo que repito hasta el cansancio es uno de los grandes aprendizajes de mi vida profesional
+
+ ------------------------------------------- 
+
+1.2048192771084338
+line_id 3886174292
+transcript norm:  yo no se si sabias pero yo estudie una carrera vinculada a comunicacion y ni siquiera ahi sabia que todo negocio tiene que ser un negocio de comunicacion ahi no lo tenia presente esto me lo di me di cuenta sobre la marcha me di cuenta creando negocios me di cuenta probando cosas y me di cuenta que la comunicacion es tremendamente importante aun asi aunque sea tremendamente importante comunicacion en gran medida todo lo que tenga que ver con publicidad marketing etcetera
+ref norm:         yo no se si sabias pero yo estudie una carrera vinculada a comunicacion y ni siquiera ahi sabia que todo negocio tiene que ser un negocio de comunicacion ahi no lo tenia presente esto me lo di me di cuenta sobre la marcha me di cuenta creando negocios me di cuenta probando cosas y me di cuenta que la comunicacion es tremendamente importante aun asi aunque sea tremendamente importante comunicacion en gran medida todo lo que tenga que ver con publicidad marketing etc
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886164850
+transcript norm:  no es algo que vamos a hacer muchisimo foco en la primera etapa del emprendimiento cuando en realidad lo que tenemos que hacer es lanzar rapido y sacar datos rapido para poder ir mejorando nuestro producto y sentando las bases del negocio que estamos armando pero es muy importante en la siguiente etapa cuando ya tenemos el negocio mas consolidado y cuando realmente necesitamos empezar a traccionar mas a llegar a mas personas a hacer crecer mas el negocio
+ref norm:         no es algo que vamos a hacer muchisimo foco en la primera etapa del emprendimiento cuando en realidad lo que tenemos que hacer es lanzar rapido y sacar datos rapido para poder ir mejorando nuestro producto y sentando las bases del negocio que estamos armando pero es muy importante en la siguiente etapa cuando ya tenemos el negocio mas consolidado y cuando realmente necesitamos empezar a traccionar mas a llegar a mas personas a hacer crecer mas el negocio
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886155475
+transcript norm:  si vos pasas anos desarrollando algo para darte cuenta cuando lo lances al mercado que en realidad hay muchisimo por mejorar lo mas probable es que el negocio que tenes se funda en el proceso de mejorar eso en el proceso de captar nuevos clientes
+ref norm:         si vos pasas anos desarrollando algo para darte cuenta cuando lo lances al mercado que en realidad hay muchisimo por mejorar lo mas probable es que el negocio que tenes se funda en el proceso de mejorar eso en el proceso de captar nuevos clientes
+
+ ------------------------------------------- 
+
+2.2222222222222223
+line_id 3886199236
+transcript norm:  entonces nosotros cada vez que tenemos una nueva idea 0 queremos lanzar un nuevo producto 0 queremos implementar tal vez un nuevo proceso esto aplica para todo lo tenemos que hacer rapido porque nuestro foco en este momento en esta instancia es sacar datos
+ref norm:         entonces nosotros cada vez que estamos tenemos una nueva idea 0 queremos lanzar un nuevo producto 0 queremos implementar tal vez un nuevo proceso esto aplica para todo lo tenemos que hacer rapido porque nuestro foco en este momento en esta instancia es sacar datos
+
+ ------------------------------------------- 
+
+5.333333333333334
+line_id 3886183796
+transcript norm:  como puedo hacerlo cuando lanzamos rapido nuestro principal objetivo es obtener datos rapidos para partir de esos datos y entender si vamos bien por ese camino 0 no yendo al principio anterior el de lanzar rapido no sirve solamente para eso sirve para obtener datos que nos permitan avanzar en nuestro negocio es lo que te contaba recien para mejorar nuestro producto nuestro servicio de atencion al cliente nuestros precios y hasta nuestro equipo
+ref norm:         como puedo hacerlo cuando lanzamos rapido nuestro principal objetivo es obtener datos rapidos para a partir de esos datos entender si vamos bien por ese camino 0 no yendo al principio anterior el de lanzar rapido no sirve solamente para eso sirve para obtener datos que nos permitan avanzar en nuestro negocio es lo que te he contado recien para mejorar nuestro producto nuestro servicio de atencion al cliente nuestros precios y hasta nuestro equipo
+
+ ------------------------------------------- 
+
+4.25531914893617
+line_id 3387311833
+transcript norm:  iterar esta palabra que estamos usando aca se refiere a refinar lo que pensamos en un principio en base a datos que obtuvimos datos que estamos obteniendo ahora despues de lanzar rapido nuestras ideas iniciales estas hipotesis que estamos creando que estamos lanzando son los cimientos
+ref norm:         iterar esta palabra que estamos usando aca se refiere a refinar lo que pensamos en un principio en base a datos que obtuvimos datos que estamos obteniendo ahora despues de lanzar rapido nuestras ideas iniciales estas hipotesis que estamos creando y que estamos lanzando son los siguimientos
+
+ ------------------------------------------- 
+
+2.7777777777777777
+line_id 3886125113
+transcript norm:  es sobre lo que vamos a construir nuestro edificio nuestro negocio cuantas mas dudas nos sacamos a traves de la experimentacion 0 sea a traves de lanzar y obtener datos mejores cimientos vamos a ir construyendo
+ref norm:         es sobre lo que vamos a construir nuestro edificio nuestro negocio cuantas mas dudas nos sacamos a traves de la experimentacion 0 sea a traves de lanzar y obtener datos mejores siguimientos vamos a ir construyendo
+
+ ------------------------------------------- 
+
+2.083333333333333
+line_id 3886170974
+transcript norm:  mas rapido y mejor va a crecer el edificio nuestro negocio hasta que todo este construido sobre cimientos super solidos eso es lo que estamos buscando siempre vamos a basar las decisiones que vayamos tomando de nuestro negocio en base a este aprendizaje validado como se le llama
+ref norm:         mas rapido y mejor va a crecer el edificio nuestro negocio hasta que todo este construido sobre siguimientos super solidos eso es lo que estamos buscando siempre vamos a basar las decisiones que vayamos tomando de nuestro negocio en base a este aprendizaje validado como se le llama
+
+ ------------------------------------------- 
+
+8.450704225352112
+line_id 3886192908
+transcript norm:  en base a estos datos que obtuvimos de lanzar rapido para asi poder iterar rapido 0 sea mejorar lo que lanzamos y nos dimos cuenta que tenia oportunidad de mejora gracias al feedback que nos dieron rapido acordate siempre lanzo rapido itero rapido esto significa no me quedo durmiendo en base a los datos que obtuve de lo que estaba pasando no es que lanzo rapido por lanzar rapido e
+ref norm:         en base a estas estos datos que obtuvimos de lanzar rapido para asi poder iterar rapido 0 sea mejorar lo que lanzamos y nos dimos cuenta que he tenido oportunidad de mejorar gracias al feedback que nos dieron rapido acordate siempre lanzo rapido hitero rapido esto significa no me quedo durmiendo en base a los datos que obtuve de lo que estaba pasando no es que lanzo rapido por lanzar rapido
+
+ ------------------------------------------- 
+
+3.4482758620689653
+line_id 3886153696
+transcript norm:  y si lanzo rapido para obtener datos rapido para a partir de esos datos poder ir mejorando mi negocio mi servicio y lo que sea que le estoy ofreciendo a mis clientes lo que sea que estoy tratando de mejorar en mi empresa eso no aplica solamente para tus clientes hacia afuera aplica para el negocio hacia adentro tambien aplica para el negocio cuando vayas a mejorar un equipo cuando vayas a contratar una persona cuando vayas a implementar algun proceso el mismo concepto aplica para todo
+ref norm:         y si lanzo rapido para obtener datos rapido para a partir de esos datos poder ir mejorando mi negocio mi servicio y lo que sea que le estoy ofreciendo a mis clientes lo que sea que estoy tratando de mejorar mi empresa esto no aplica solamente para tus clientes hacia afuera aplica para el negocio hacia adentro tambien aplica para el negocio cuando vayas a mejorar un equipo cuando vayas a contratar a una persona cuando vayas a implementar algun proceso el mismo concepto aplica para todo
+
+ ------------------------------------------- 
+
+3.389830508474576
+line_id 3886151902
+transcript norm:  lanzo rapido mejoro rapido 0 sea itero rapido siete deja que tus ideas evolucionen esto esta tremendamente vinculado con lo que hablabamos antes con los dos principios anteriores la mayoria de las personas piensan que hay que pegarla a la primera y solo asi se sabe si tiene exito lo que pensaron este concepto es muy errado muy errado
+ref norm:         lanzo rapido mejoro rapido 0 sea hitero rapido 7 deja que tus ideas evolucionen esto esta tremendamente vinculado con lo que hablabamos antes con los dos principios anteriores la mayoria de las personas piensan que hay que pegarla a la primera y solo asi se sabe si tiene exito lo que pensaron este concepto es muy errado muy errado
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463949533
+transcript norm:  es que yo voy creando algo de a poco para ver si mi idea si lo que voy haciendo va funcionando y en base a esa informacion esa retroalimentacion lo que te contaba recien sobre iterar voy mejorando el producto 0 sea va creciendo a medida que lo voy mejorando
+ref norm:         es que yo voy creando algo de a poco para ver si mi idea si lo que voy haciendo va funcionando y en base a esa informacion esa retroalimentacion lo que te contaba recien sobre iterar voy mejorando el producto 0 sea va creciendo a medida que lo voy mejorando
+
+ ------------------------------------------- 
+
+1.0416666666666665
+line_id 3886176727
+transcript norm:  imaginate que es como si alguna vez estuviste cerca de una persona que escribio un libro 0 escribiste un blog 0 escribiste algo en tu vida generalmente cuando estas escribiendo la mayoria de las ideas aparecen a medida que se esta escribiendo y que se esta editando se aparecen en el proceso mismo concepto para tu negocio hay que dejar que la idea evolucione y lo va a ir haciendo a medida que lo estamos desarrollando que lo estamos lanzando y que estamos aprendiendo sobre los datos que nos esta dando el mercado y nuestros clientes
+ref norm:         imaginate que es como si alguna vez estuviste cerca de una persona que escribio un libro 0 escribiste un blog 0 escribiste algo en tu vida generalmente cuando estas escribiendo la mayoria de las ideas aparecen a medida que se esta escribiendo y que se esta editando se aparecen en el proceso mismo concepto para tu negocio hay que dejar que la idea evolucione y lo voy a ir haciendo a medida que lo estamos desarrollando que lo estamos lanzando y que estamos aprendiendo sobre los datos que nos esta dando el mercado y nuestros clientes
+
+ ------------------------------------------- 
+
+1.5625
+line_id 3886132131
+transcript norm:  principio 8 optimiza tus recursos no puedo enfatizar realmente lo suficiente lo importante que es que un negocio se mantenga usando el minimo indispensable de recursos en etapas iniciales optimizar recursos ojo no me refiero solamente a no gastar dinero no gastar grandes cantidades exuberantes de dinero sino tambien optimizar tu tiempo optimizar recursos significa gastar solo un indispensable para el exito del negocio
+ref norm:         principio 8 optimiza tus recursos no puedo enfatizar realmente lo suficiente lo importante que es que un negocio se mantenga usando el minimo indispensable de recursos en etapas iniciales optimizar recursos ojo no me refiero solamente a no gastar dinero no gastar grandes cantidades exuberantes de dinero sino tambien optimizar tu tiempo optimizar recursos significa gastar solo lo indispensable para el exito del negocio
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886129071
+transcript norm:  yo quiero que de aca te lleves que no es indispensable no es necesario invertir una locura de dinero para que el negocio inicial funcione no es necesario tener un equipo de 15 personas para arrancar
+ref norm:         yo quiero que de aca te lleves que no es indispensable no es necesario invertir una locura de dinero para que el negocio inicial funcione no es necesario tener un equipo de 15 personas para arrancar
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886136524
+transcript norm:  lo que si es necesario es entender como optimizar el negocio desde el inicio para sostener tambien esta cultura de optimizacion esta cultura de optimizacion del tiempo del dinero de las decisiones de las inversiones y del negocio esto no significa no invertir en el negocio
+ref norm:         lo que si es necesario es entender como optimizar el negocio desde el inicio para sostener tambien esta cultura de optimizacion esta cultura de optimizacion del tiempo del dinero de las decisiones de las inversiones y del negocio esto no significa no invertir en el negocio
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886111703
+transcript norm:  significa saber donde hay que invertir y que si se invierte ahi el retorno va a ser mucho mayor que la inversion muchos de las causas de fracaso de muerte de un emprendimiento es que se quedan sin recursos eso es porque gastan al inicio un monton de dinero en cosas que no tienen sentido
+ref norm:         significa saber donde hay que invertir y que si se invierte ahi el retorno va a ser mucho mayor que la inversion muchos de las causas de fracaso de muerte de un emprendimiento es que se quedan sin recursos eso es porque gastan al inicio un monton de dinero en cosas que no tienen sentido
+
+ ------------------------------------------- 
+
+6.8181818181818175
+line_id 3886165081
+transcript norm:  sabemos que para ganar lo que tenemos que hacer es pegarle con el dardo la mayor cantidad de veces lo mas cerca del centro del tablero lo segundo que hacemos es usar nuestras herramientas de juego vamos a necesitar un dardo y un tablero y lo tercero
+ref norm:         sabemos que para ganar lo que tenemos que hacer es pegarle con el dardo la mayor cantidad de veces lo mas cerca del centro del tablero lo segundo que hacemos es usar nuestras herramientas de juego vamos a necesitar un dardo y un tablero
+
+ ------------------------------------------- 
+
+8.333333333333332
+line_id 3886111478
+transcript norm:  tercero que hacemos es mirar el tablero hacer foco apuntar y tirar el dardo para los negocios es exactamente lo mismo para poder hacer un negocio primero tenes que entender las reglas del juego de tu negocio tenes que entender quienes son tus clientes tenes que entender en que mercado estas jugando cual es la competencia lo segundo que vas a hacer es elegir los recursos que vas a necesitar
+ref norm:         y lo tercero que hacemos es mirar el tablero hacer foco apuntar y tirar el dardo para los negocios es exactamente lo mismo para poder hacer un negocio primero tienes que entender las reglas de juego de tu negocio tienes que entender quienes son tus clientes tienes que entender en que mercado estas jugando cual es la competencia lo segundo que vas a hacer es elegir los recursos que vas a necesitar
+
+ ------------------------------------------- 
+
+2.5
+line_id 3886140461
+transcript norm:  en base a saber toda esa informacion vas a elegir si necesitas tener no se tienes que producir productos necesitas alguien que te produzca en masa lo puedes hacer manual necesitas contratar a alguien con una expertise en particular 0 no
+ref norm:         en base a saber toda esa informacion vas a elegir si necesitas tener no se tienes que producir productos necesitas alguien que te produzca en masa lo puedes hacer manual necesitas contratar a alguien con expertise en particular 0 no
+
+ ------------------------------------------- 
+
+2.2222222222222223
+line_id 3886116377
+transcript norm:  numero tres para poder realmente lograr el exito de tu negocio necesitas mirar el objetivo que estas buscando apuntar y tirar si vos no podes hacer foco en el objetivo que te estas planteando no vas a poder llegar a tener exito de tu negocio
+ref norm:         numero tres para poder realmente lograr el exito de tu negocio necesitas mirar el objetivo que estas buscando apuntar y tirar si vos no puedes hacer foco en el objetivo que te estas planteando no vas a poder llegar a tener exito de tu negocio
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886125860
+transcript norm:  y para poder hacer foco tenes que entender todas las bases de lo que hablabamos antes tenes que entender las reglas del juego tenes que entender los recursos que necesitas y tenes que sentar las bases para poder hacer foco es entender que en este camino va a haber un monton de cosas que vos vas a dejar ir
+ref norm:         y para poder hacer foco tenes que entender todas las bases de lo que hablabamos antes tenes que entender las reglas del juego tenes que entender los recursos que necesitas y tenes que sentar las bases para poder hacer foco es entender que en este camino va a haber un monton de cosas que vos vas a dejar ir
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886191631
+transcript norm:  me sucede que me topo todo el tiempo con personas que les cuesta tomar una decision en base a un objetivo porque principalmente es por miedo de que va a pasar si dejo ir esa otra idea 0 si dejo ir ese otro camino nada esta tallado en piedra en la vida en los negocios en nada
+ref norm:         me sucede que me topo todo el tiempo con personas que les cuesta tomar una decision en base a un objetivo porque principalmente es por miedo de que va a pasar si dejo ir esa otra idea 0 si dejo ir ese otro camino nada esta tallado en piedra en la vida en los negocios en nada
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886170330
+transcript norm:  por eso es tan importante este principio hacer foco no tiene que ver solamente con hacer foco y con orden tiene que ver con todo esto que te contaba que necesitas que suceda alrededor para poder lograrlo tiene que ver con tomar decisiones principio 10 hacelo 0 no lo hagas pero no lo intentes
+ref norm:         por eso es tan importante este principio hacer foco no tiene que ver solamente con hacer foco y con orden tiene que ver con todo esto que te contaba que necesitas que suceda alrededor para poder lograrlo tiene que ver con tomar decisiones principio 10 hacelo 0 no lo hagas pero no lo intentes
+
+ ------------------------------------------- 
+
+1.8181818181818181
+line_id 3886122377
+transcript norm:  si viste la pelicula star wars de las primeras que salieron te puede llegar a sonar muy conocida esta frase que es una escena donde luke skywalker esta entrenando para convertirse en un maestro jedi y tiene que levantar una nave que se habia estrellado en un pantano ahi y tenian que usarla para irse
+ref norm:         si viste la pelicula star wars de las primeras que salieron te puede llegar a sonar muy conocida esta frase que es una escena donde luke skywalker esta entrenando para convertirse en un maestro jedi y tiene que levantar una nave que se habia estrellado en un pantano ahi y tenia que usarla para irse
+
+ ------------------------------------------- 
+
+1.1235955056179776
+line_id 3387346271
+transcript norm:  y esto lo tenia que hacer con su mente entonces yoda lo estaba entrenando para que el pueda utilizar su mente para levantar la nave etc bueno luke viene yoda y le dice bueno tenes que levantar la nave con la mente y luke le dice bueno maestro mover piedras porque estaba moviendo piedras con la mente en ese momento es una cosa pero esto es totalmente diferente yoda le dice mira no no es diferente solo es diferente en tu mente vos tenes que desaprender lo aprendido
+ref norm:         y esto lo tenia que hacer con su mente entonces yoda lo estaba entrenando para que el pueda utilizar su mente para levantar la nave etc bueno luke viene a yoda y le dice bueno tenes que levantar la nave con la mente y luke le dice bueno maestro mover piedras porque estaba moviendo piedras con la mente en ese momento es una cosa pero esto es totalmente diferente yoda le dice mira no no es diferente solo es diferente en tu mente vos tenes que desaprender lo aprendido
+
+ ------------------------------------------- 
+
+5.555555555555555
+line_id 5463993804
+transcript norm:  que no estamos lo suficientemente comprometidos 0 que no somos lo suficientemente capaces significa que ya estamos empezando con el mal pie con un mal la mayoria de las veces que decimos esto es porque tenemos una duda
+ref norm:         que no estamos lo suficientemente comprometidos 0 que no somos lo suficientemente capaces ya estamos empezando con el mal pie con un mal la mayoria de las veces que decimos esto es porque tenemos una duda
+
+ ------------------------------------------- 
+
+12.5
+line_id 5463922763
+transcript norm:  si estuvieramos completamente seguros de lo que estamos haciendo de lo que vamos a hacer no diriamos bueno lo voy a intentar decimos si lo voy a hacer entonces las cosas no siempre salen como planeamos y no siempre podemos alcanzar las metas que nos proponemos pero cuando arrancamos tenemos que partir ya con el discurso de que lo vamos a lograr
+ref norm:         si estuvierasemos completamente seguros de lo que estamos haciendo de lo que vamos a hacer no diriamos bueno lo voy a intentar entonces las cosas no siempre salen como planeamos y no siempre podemos alcanzar las metas que nos proponemos pero cuando arrancamos tenemos que partir ya con el discurso de que lo vamos a lograr
+
+ ------------------------------------------- 
+
+1.4705882352941175
+line_id 3886138461
+transcript norm:  no podemos partir con un discurso de bueno lo voy a intentar a medias de la palabra intentar la mayor barrera para avanzar nos la ponemos nosotros esas barreras no existen entonces a partir de ahora yo quiero que borres la palabra intentar de tu vocabulario y cada vez que vayas a usar la palabra intentar la corras de tu cabeza y digas lo voy a hacer
+ref norm:         no podemos partir con un discurso de bueno lo voy a intentar este a medias de la palabra intentar la mayor barrera para avanzar nos la ponemos nosotros esas barreras no existen entonces a partir de ahora yo quiero que borres la palabra intentar de tu vocabulario y cada vez que vayas a usar la palabra intentar la corras de tu cabeza y digas lo voy a hacer
+
+ ------------------------------------------- 
+
+3.260869565217391
+line_id 3886116294
+transcript norm:  y si tenes dudas de por que no lo vas a hacer 0 por que no podrias hacerlo 0 lo que sea tomate un segundo para analizar y darte cuenta que lo que te esta pasando es miedo y la forma de superar ese miedo es pasar a la accion hacerlo sacar datos y ver si funciona 0 no nada se va a romper en el proceso lo unico que va a pasar es que vas a aprender un monton hacelo 0 no lo hagas no lo intentes principio 11 amo este principio eh .
+ref norm:         y si tenes dudas de por que no lo vas a hacer 0 por que no podrias hacerlo 0 lo que sea tomate un segundo para analizar y darte cuenta que lo que te esta pasando es miedo y la forma de superar ese miedo es pasar la accion hacerlo sacar datos y ver si funciona 0 no nada se va a romper en el proceso lo unico que va a pasar es que vas a aprender un monton hacelo 0 no lo hagas no lo intentes principio 11 amo este principio
+
+ ------------------------------------------- 
+
+8.333333333333332
+line_id 3886149701
+transcript norm:  en los negocios las cosas se hacen para ganar no se hacen para no perder en todo lo que hacemos 0 sea si vos te pones a jugar un juego te pones a jugar al ajedrez te pones a jugar el sudoku se juega solo y si igual lo haces para ganar no para no perder
+ref norm:         en los negocios las cosas se hacen para ganar no se hacen para no perder en todo lo que hacemos 0 sea si vos te pones a jugar un juego te pones a jugar al ajedrez te pones a jugar al sudoku te pones al sudoku se juega solo y si igual lo haces para ganar no para no perder
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886131278
+transcript norm:  nosotros jugamos para ganar no para no perder para este negativo para este bloque mental tambien que nos ponemos cuando vamos a hacer algo mucha gente le apuesta la vida a no perder en vez de apostarle a ganar por ejemplo bajar los gastos como hablabamos antes es importante pero el enfoque debe ser en realidad vamos a aumentar las ganancias
+ref norm:         nosotros jugamos para ganar no para no perder para este negativo para este bloque mental tambien que nos ponemos cuando vamos a hacer algo mucha gente le apuesta la vida a no perder en vez de apostarle a ganar por ejemplo bajar los gastos como hablabamos antes es importante pero el enfoque debe ser en realidad vamos a aumentar las ganancias
+
+ ------------------------------------------- 
+
+7.2727272727272725
+line_id 3387373136
+transcript norm:  nuestro objetivo es mantener los gastos bajos pero la realidad es que queremos aumentar las ganancias nuestra mente siempre tiene que estar enfocada en lo positivo siempre en lo positivo siempre en el si no en el no entonces vamos a jugar a ganar no vamos a jugar a no perder
+ref norm:         nuestro objetivo es si bueno vamos a mantener los gastos bajos pero la realidad es que queremos aumentar las ganancias nuestra mente siempre tiene que estar enfocada en lo positivo siempre en lo positivo siempre en el si no en el no entonces vamos a jugar a ganar no vamos a jugar a no perder
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886112813
+transcript norm:  estos ultimos dos principios tienen muchisimo que ver con las palabras que usamos y con como pensamos antes de hacer una accion antes de buscar un objetivo estas dos situaciones que se repiten en la mayoria de las personas son tremendos bloqueantes al momento de lograr un objetivo
+ref norm:         estos ultimos dos principios tienen muchisimo que ver con las palabras que usamos y con como pensamos antes de hacer una accion antes de buscar un objetivo estas dos situaciones que se repiten en la mayoria de las personas son tremendos bloqueantes al momento de lograr un objetivo
+
+ ------------------------------------------- 
+
+2.9850746268656714
+line_id 3387310672
+transcript norm:  si vos empezas a hacer un ejercicio consciente con estos ultimos dos principios yo te aseguro que va a ser un antes y un despues en como encaras los objetivos que te propones empeza a implementarlo a partir de hoy principio numero 12 al principio principio principio se crece de manera escalonada que significa esto que nosotros no vamos a buscar un crecimiento explosivo en lo que estamos haciendo
+ref norm:         si vos empezas a hacer un ejercicio consciente con estos ultimos dos principios yo te aseguro que va a ser un antes y un despues en como encaras los objetivos que te propones empeza a implementarlo a partir de hoy principio numero 12 al principio se crece de manera escalonada que significa esto que nosotros no vamos a buscar un crecimiento explosivo en lo que estamos haciendo
+
+ ------------------------------------------- 
+
+2.5974025974025974
+line_id 3886139116
+transcript norm:  no vamos a buscar que hoy tenemos una venta y manana vamos a tener 5 nosotros lo que vamos a buscar es de a poco de forma incremental ir haciendo crecer nuestro negocio por que busco que hagas esto y por que no te digo si empece a vender todo ya vendele un monton de gente porque el crecimiento explosivo genera un monton de desafios genera desafios de stock genera desafios de proceso genera desafios de equipo diferente
+ref norm:         no vamos a buscar que hoy tenemos una venta y manana vamos a tener 5000 nosotros lo que vamos a buscar es de a poco de forma incremental ir haciendo crecer nuestro negocio por que busco que hagas esto y por que no te digo si empece a vender todo ya vendele un monton de gente porque el crecimiento explosivo genera un monton de desafios genera desafios de stock genera desafios de proceso genera desafios de equipo
+
+ ------------------------------------------- 
+
+3.4482758620689653
+line_id 3886156309
+transcript norm:  y si todo eso pasa de golpe genera la muerte de muchisimos negocios y ni hablar que vos no tuviste el momento y la etapa de aprender de lo que venis haciendo para partir de ahi y sentar cimientos fuertes del negocio para recien ahi hacerlo crecer entonces al principio vamos a crecer de manera escalonada que significa esto
+ref norm:         y si todo eso pasa de golpe genera la muerte de muchisimos negocios y ni hablar que vos no tuviste el momento y la etapa de aprender de lo que venis haciendo para partir de ahi sentar seguimientos fuertes del negocio para recien ahi hacerlo crecer entonces al principio vamos a crecer de manera escalonada que significa esto
+
+ ------------------------------------------- 
+
+1.4084507042253522
+line_id 3886134412
+transcript norm:  vamos a ir lanzando y aprendiendo para ir mejorando y en base a lo que vamos mejorando vamos a ir generando estos cimientos que nos van a ir ayudando a crecer el negocio conscientemente aprendiendo de lo que estamos haciendo para que eso nos permite tomar buenas decisiones para nuestro negocio y no que crezca de un dia para el otro increiblemente yo nunca te voy a decir que apuntes a eso
+ref norm:         vamos a ir lanzando y aprendiendo para ir mejorando y en base a lo que vamos mejorando vamos a ir generando estos cimientos que nos van a ir ayudando a crecer el negocio conscientemente aprendiendo de lo que estamos haciendo para que eso nos permite tomar buenas decisiones para nuestro negocio y no que crezca un dia para el otro increiblemente yo nunca te voy a decir que apuntes a eso
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886132680
+transcript norm:  no es mi forma de hacer negocios y durante todos estos anos yo he validado que de esta forma es la que tiene sentido y es la que funciona principio numero 13 la principal validacion la obtenemos del mercado cuando esta dispuesto a pagar por lo que hacemos
+ref norm:         no es mi forma de hacer negocios y durante todos estos anos yo he validado que de esta forma es la que tiene sentido y es la que funciona principio numero 13 la principal validacion la obtenemos del mercado cuando esta dispuesto a pagar por lo que hacemos
+
+ ------------------------------------------- 
+
+10.909090909090908
+line_id 3387314744
+transcript norm:  la cantidad de gente que tiene de gente de personas que tienen negocios que mantienen durante muchisimos anos y el negocio no les genero un dolar un peso un euro un nada y lo estan manteniendo solamente por mantener el negocio porque no les esta generando ingresos es increible y sabes por que lo hacen por que lo hacen
+ref norm:         la cantidad de gente que tiene de gente de personas que tienen negocios que mandinen durante muchisimos anos y el negocio no le genero un dolar un peso un euro un nada y lo estan manteniendo solamente por mantener el negocio porque no les esta generando ingresos es increible y sabes por que lo hacen
+
+ ------------------------------------------- 
+
+1.0869565217391304
+line_id 3886133282
+transcript norm:  porque no tenian en cuenta este principio que lo principal para saber si un negocio funciona 0 no y hay que seguir manteniendolo 0 si el producto funciona 0 no es vender es que la gente te compre lo que estas haciendo y no solo que te compre lo que estas haciendo sino que al comprartelo haga que el negocio crezca tambien porque no es tampoco mantener un negocio zombie durante muchisimo tiempo para saber si realmente lo que estas haciendo tiene un valor el valor que vos pensas hay que venderlo
+ref norm:         porque no tenian en cuenta este principio que lo principal para saber si un negocio funciona 0 no y hay que seguir manteniendolo 0 si el producto funciona 0 no es vender es que la gente te compre lo que estas haciendo y no solo que te compre lo que estas haciendo sino que al comprertelo haga que el negocio crezca tambien porque no es tampoco mantener un negocio zombie durante muchisimo tiempo para saber si realmente lo que estas haciendo tiene un valor el valor que vos pensas hay que venderlo
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463939600
+transcript norm:  era invierno un invierno frio frente a mi un lago un lago calido y majestuoso no paraba de nevar
+ref norm:         era invierno un invierno frio frente a mi un lago un lago calido y majestuoso no paraba de nevar
+
+ ------------------------------------------- 
+
+1.4084507042253522
+line_id 5463913123
+transcript norm:  el paisaje era increible mientras veia caer los copos que se disolvian en el vapor geotermal me di cuenta de que estaba rodeada de palos de selfie la gente se dedicaba a posar y subir fotos a las redes incluso habia personas que transmitian el momento en vivo por instagram en silencio dentro mio me pregunte si le podriamos llamar a esta era el siglo del intente vivir pero me distraje
+ref norm:         el paisaje era increible mientras veia caer los copos que se disolvian en el vapor geotermal me di cuenta de que estaba rodeada de palos de selfie la gente se dedicaba a posar y subir fotos a las redes incluso habia personas que transmitian el momento en vivo por instagram en silencio dentro mio me pregunte si le podriamos llamar a esta era el siglo del intente vivir pero me distraja
+
+ ------------------------------------------- 
+
+7.142857142857142
+line_id 5463964073
+transcript norm:  la respuesta me la dio un influencer aleman que justo en ese momento miro a la camara de su telefono y dijo con un fuerte grito aqui estoy en la laguna azul viviendo la vida azul otro ano viaje a paris
+ref norm:         la respuesta me la dio un influencer aleman que justo en ese momento miro a la camara de su telefono y dijo con un fuerte grito aqui estoy en la laguna sur viviendo la vida a full otro ano viaje a paris
+
+ ------------------------------------------- 
+
+8.47457627118644
+line_id 5463930124
+transcript norm:  fui al museo del louver a contemplar la yoconda para mi asombro descubri que todo el tiempo esta oculta detras de una horda de personas de todas partes del mundo que hacen luchilla para llegar adelante y que cuando llegan le dan la espalda al cuadro se sacan una selfie y salen del amontonamiento de personas a los codazos
+ref norm:         fui al museo del lum a contemplar la yolconda para mi desumbre descubri que todo el tiempo esta oculta detras de una horda de personas de todas partes del mundo que hace gira para llegar adelante y que cuando llegan le dan la espalda al cuadro se sacan una selfie y salen del amontonamiento de personas a los codazos
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463964922
+transcript norm:  me pase mas de una hora observando a la multitud y nadie ni una sola persona se dedico a admirar a la mona lisa mas de unos pocos segundos estas dos escenas dan cuenta de que estamos perdiendo el superpoder maximo que siempre tuvimos como especie nuestra atencion
+ref norm:         me pase mas de una hora observando a la multitud y nadie ni una sola persona se dedico a admirar a la mona lisa mas de unos pocos segundos estas dos escenas dan cuenta de que estamos perdiendo el superpoder maximo que siempre tuvimos como especie nuestra atencion
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463913526
+transcript norm:  es como si estuvieramos bajo algun hechizo que nos volvio incapaces de prestar atencion a las cosas que importan seamos justos el contexto no ayuda hoy en dia hay tantas cosas que nos llaman la atencion al mismo tiempo que de hecho es sorprendente que podamos concentrarnos en algo leer un libro entero 0 ver una pelicula de dos horas son actividades cada vez menos frecuentes siempre lei sobre los peligros de perder el foco de no poder prestar atencion pero algo cambio este ultimo tiempo
+ref norm:         es como si estuvieramos bajo algun hechizo que nos volvio incapaces de prestar atencion a las cosas que importan seamos justos el contexto no ayuda hoy en dia hay tantas cosas que nos llaman la atencion al mismo tiempo que de hecho es sorprendente que podamos concentrarnos en algo leer un libro entero 0 ver una pelicula de dos horas son actividades cada vez menos frecuentes siempre lei sobre los peligros de perder el foco de no poder prestar atencion pero algo cambio este ultimo tiempo
+
+ ------------------------------------------- 
+
+4.651162790697675
+line_id 5463995466
+transcript norm:  empece a notar que yo misma estaba teniendo problemas para concentrarme me costaba investigar escribir guiones llegar a ideas profundas para este podcast 0 compartir nuevas ideas con mis socios de epsimo maliti la falta de foco y de atencion me estaban fragmentando
+ref norm:         empece a notar que yo misma estaba teniendo problemas para concentrarme me costaba investigar escribir guiones llegar a ideas profundas para este podcast 0 compartir nuevas ideas con mis socios de psi mammoliti la falta de foco y de atencion me estaban fragmentando
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463956958
+transcript norm:  estaba perdiendo mi capacidad para estar presente empezaba a investigar un tema que me resultaba apasionante pero enseguida me distraia con youtube 0 instagram y lo peor fue que ni siquiera note el momento en el que mi mente se desconectaba
+ref norm:         estaba perdiendo mi capacidad para estar presente empezaba a investigar un tema que me resultaba apasionante pero enseguida me distraia con youtube 0 instagram y lo peor fue que ni siquiera note el momento en el que mi mente se desconectaba
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463945493
+transcript norm:  te paso alguna vez de estar leyendo un libro y descubrir que solamente estas pasando los ojos por arriba de las letras pero no tenes ni idea de que esta pasando en la historia bueno asi entonces mire a mi alrededor colegas amigas familia lo que vi me preocupo todavia mas no es un tema solamente mio
+ref norm:         te paso alguna vez de estar leyendo un libro y descubrir que solamente estas pasando los ojos por arriba de las letras pero no tenes ni idea de que esta pasando en la historia bueno asi entonces mire a mi alrededor colegas amigas familia lo que vi me preocupo todavia mas no es un tema solamente mio
+
+ ------------------------------------------- 
+
+1.9230769230769231
+line_id 5463962727
+transcript norm:  es un fenomeno social colectivo a todos nos pasa lo mismo nos descubrimos mirando el telefono en momentos importantes como si una fuerza desconocida del mas alla nos llevara en piloto automatico cual zombies el problema es que sin darnos cuenta estamos perdiendo algo demasiado valioso la posibilidad de estar realmente presentes
+ref norm:         es un fenomeno social colectivo a todos nos pasa lo mismo nos descubrimos mirando el telefono a momentos importantes como si una fuerza desconocida del mas alla nos llevara en piloto automatico cual zombies el problema es que sin darnos cuenta estamos perdiendo algo demasiado valioso la posibilidad de estar realmente presentes
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463982461
+transcript norm:  por eso es clave que escuches este episodio porque existe la posibilidad de que la vida se te este escurriendo entre los dedos y no te hayas dado cuenta cuanto vale nuestra atencion por que nos cuesta cada vez mas concentrarnos en algo por mas que dure unos pocos segundos hoy hablamos de como recuperar lo mas valioso que tenemos despues del tiempo nuestra atencion
+ref norm:         por eso es clave que escuches este episodio porque existe la posibilidad de que la vida se te este escurriendo entre los dedos y no te hayas dado cuenta cuanto vale nuestra atencion por que nos cuesta cada vez mas concentrarnos en algo por mas que dure unos pocos segundos hoy hablamos de como recuperar lo mas valioso que tenemos despues del tiempo nuestra atencion
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463989525
+transcript norm:  la primera de esas razones es que una vida llena de distracciones es poco interesante es vacia las crisis de atencion deterioran nuestra vida si no somos capaces de prestar atencion es muy dificil que podamos alcanzar nuestras metas
+ref norm:         la primera de esas razones es que una vida llena de distracciones es poco interesante es vacia las crisis de atencion deterioran nuestra vida si no somos capaces de prestar atencion es muy dificil que podamos alcanzar nuestras metas
+
+ ------------------------------------------- 
+
+1.4925373134328357
+line_id 5463936237
+transcript norm:  si queres recuperar tu atencion y ganar la batalla tenes que acceder a esta informacion imagina que vas en un auto y alguien tiro un monton de basura sobre el parabrisas si lo dejas asi corres el riesgo de chocar 0 de perderte que es lo primero que tenes que hacer limpiar el parabrisas hasta que no lo hagas no vas a saber ni donde estas parado
+ref norm:         si queres recuperar tu atencion y ganar la batalla tenes que acceder a esta informacion imagina que vas en un auto y alguien tira un monton de basura sobre el parabrisas si lo dejas asi corres el riesgo de chocar 0 de perderte que es lo primero que tenes que hacer limpiar el parabrisas hasta que no lo hagas no vas a saber ni donde estas parado
+
+ ------------------------------------------- 
+
+1.7241379310344827
+line_id 5463973421
+transcript norm:  las crisis de atencion ademas producen un monton de ansiedad angustia y frustracion pero no tiene por que ser asi siempre podemos solucionarlo el primer paso es reconocer cual es el verdadero problema de fondo te cuento algo personal hace un tiempo que ya no puedo leer libros enteros quiero pasar las hojas rapido y llegar al final
+ref norm:         las creces de atencion ademas producen un monton de ansiedad angustia y frustracion pero no tiene por que ser asi siempre podemos solucionarlo el primer paso es reconocer cual es el verdadero problema de fondo te cuento algo personal hace un tiempo que ya no puedo leer libros enteros quiero pasar las hojas rapido y llegar al final
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463977794
+transcript norm:  no puedo ver peliculas de dos horas y media sin desbloquear el telefono unas cuantas veces a ver si hay alguna notificacion cosas que en el pasado marcaron mi personalidad y me hicieron ser quien soy hoy ahora me resultan dificiles y a veces imposibles
+ref norm:         no puedo ver peliculas de dos horas y media sin desbloquear el telefono unas cuantas veces a ver si hay alguna notificacion cosas que en el pasado marcaron mi personalidad y me hicieron ser quien soy hoy ahora me resultan dificiles y a veces imposibles
+
+ ------------------------------------------- 
+
+3.1746031746031744
+line_id 5463948264
+transcript norm:  mi panico personal por sentirme fuera de control me llevo a investigar este tema y descubri a un investigador que me volo la cabeza se llama jochen hari y escribio muchos libros entre ellos uno llamado el valor de la atencion en el que viajo por todo el mundo para preguntarle a los investigadores mas importantes por que nuestra atencion se estaba destruyendo
+ref norm:         mi panico personal por sentirme fuera de control me llevo a investigar este tema y descubri a un investigador que me volo la cabeza se llama jojen harry y escribio muchos libros entre ellos uno llamado el valor de la atencion en el que viajo por todo el mundo para preguntarle a los investigadores mas importantes por que nuestra atencion se estaba destruyendo
+
+ ------------------------------------------- 
+
+1.3157894736842104
+line_id 5463912309
+transcript norm:  kari concluyo que estamos viviendo una profunda crisis de atencion que afecta a millones de personas en todo el planeta siempre pense que era obvio que tenemos la capacidad de hacer varias cosas a la vez hablamos por telefono mientras ordenamos la ropa 0 preparamos algo en la cocina en una reunion de trabajo escuchamos de rebote lo que dice un companero mientras revisamos nuestra casilla de mail tenemos poco tiempo disponible y mucho que hacer
+ref norm:         harry concluyo que estamos viviendo una profunda crisis de atencion que afecta a millones de personas en todo el planeta siempre pense que era obvio que tenemos la capacidad de hacer varias cosas a la vez hablamos por telefono mientras ordenamos la ropa 0 preparamos algo en la cocina en una reunion de trabajo escuchamos de rebote lo que dice un companero mientras revisamos nuestra casilla de mail tenemos poco tiempo disponible y mucho que hacer
+
+ ------------------------------------------- 
+
+9.30232558139535
+line_id 5463952479
+transcript norm:  con tantas cosas pasando todo al mismo tiempo nuestro cerebro multitaskia para ajustarse a la hiperestimulacion en la que vivimos pero hace ya un tiempo que aparecen estudios senalando lo destructivo que puede ser el multitasking para nuestra atencion y nuestra productividad
+ref norm:         con tantas cosas pasando todo el mismo tiempo nuestro cerebro multitasquea para ajustarse a la hiperestimulacion en la que vivimos pero hace ya un tiempo que aparece en estudios senalando lo destructivo que puede ser el multitasking para nuestra atencion y nuestra productividad
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463983285
+transcript norm:  el multitasking 0 multitarea en espanol es cuando hacemos muchas tareas a la vez escuchamos musica mientras leemos un libro 0 un articulo online respondemos mensajes y prestamos atencion a la olla que dejamos en el fuego
+ref norm:         el multitasking 0 multitarea en espanol es cuando hacemos muchas tareas a la vez escuchamos musica mientras leemos un libro 0 un articulo online respondemos mensajes y prestamos atencion a la olla que dejamos en el fuego
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463927184
+transcript norm:  para eso tomamos un termino que se usa para las maquinas y que nunca deberia haberse aplicado a los seres humanos multitasking en 1960 especialistas en computacion inventaron maquinas que podian hacer varias cosas al mismo tiempo a esas maquinas se les llamo multitarea nosotros tomamos ese concepto y nos lo apropiamos como si fueramos computadoras no somos maquinas
+ref norm:         para eso tomamos un termino que se usa para las maquinas y que nunca deberia haberse aplicado a los seres humanos multitasking en 1960 especialistas en computacion inventaron maquinas que podian hacer varias cosas al mismo tiempo a esas maquinas se les llamo multitarea nosotros tomamos ese concepto y nos lo apropiamos como si fueramos computadoras no somos maquinas
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463971903
+transcript norm:  no podemos vivir segun esa logica somos seres humanos y funcionamos de otra manera cuando escuche esta idea me preocupe este senor no puede tener razon yo misma hago siempre muchas cosas a la vez pero como la cosa estaba entretenida segui leyendo
+ref norm:         no podemos vivir segun esa logica somos seres humanos y funcionamos de otra manera cuando escuche esta idea me preocupe este senor no puede tener razon yo misma hago siempre muchas cosas a la vez pero como la cosa estaba entretenida segui leyendo
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463952086
+transcript norm:  cuando la gente cree que hace varias cosas a la vez lo que hace en realidad son malabarismos pasan permanentemente de una tarea a otra varias veces que me acabas de preguntar que acabo de responder por whatsapp que dicen en la television que cancion estaba sonando recien
+ref norm:         cuando la gente cree que hace varias cosas a la vez lo que hace en realidad son malabarismos pasan permanentemente de una tarea a otra varias veces que me acabas de preguntar que acabo de responder por whatsapp que dicen en la television que cancion estaba sonando recien
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463915172
+transcript norm:  saltar de una tarea a otra entorpece el proceso de pensar el cerebro se vuelve mas lento y comete errores los pensamientos se vuelven mas superficiales y menos creativos alternar implica reconfigurar el cerebro momento a momento tarea a tarea el multitasking tiene un costo alto muy alto el termino tecnico es costo de la alternancia
+ref norm:         saltar de una tarea a otra entorpece el proceso de pensar el cerebro se vuelve mas lento y comete errores los pensamientos se vuelven mas superficiales y menos creativos alternar implica reconfigurar el cerebro momento a momento tarea a tarea el multitasking tiene un costo alto muy alto el termino tecnico es costo de la alternancia
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463982501
+transcript norm:  y el precio es carisimo hacemos cosas cada vez de menor calidad nos volvemos menos competentes cometemos mas errores recordamos menos somos menos creativos y ademas terminamos cansados y enojados acordarte de que estabas haciendo antes de la interrupcion y de lo que estabas pensando mientras hacias esa tarea demora
+ref norm:         y el precio es carisimo hacemos cosas cada vez de menor calidad nos volvemos menos competentes cometemos mas errores recordamos menos somos menos creativos y ademas terminamos cansados y enojados acordarte de que estabas haciendo antes de la interrupcion y de lo que estabas pensando mientras hacias esa tarea demora
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463910140
+transcript norm:  en esa espera nuestro rendimiento cae nos volvemos lentos todo como resultado de esa alternancia los cambios constantes de actividades generan una sensacion de rapidez nos quedamos pensando que somos eficientes y productivos eso es una gran mentira
+ref norm:         en esa espera nuestro rendimiento cae nos volvemos lentos todo como resultado de esa alternancia los cambios constantes de actividades generan una sensacion de rapidez nos quedamos pensando que somos eficientes y productivos eso es una gran mentira
+
+ ------------------------------------------- 
+
+1.5384615384615385
+line_id 5463994407
+transcript norm:  si pasas mucho tiempo en estos momentos de alternancia estas malgastando tiempo de procesado mental de hecho hay un estudio que hizo la empresa de tecnologia hp que me dejo con la boca abierta ellos descubrieron que la distraccion tecnologica es decir el mero hecho de recibir correos electronicos y llamadas causaba una caida del consciente intelectual de sus empleados de 10 puntos de media
+ref norm:         si pasas mucho tiempo en estos momentos de alternancia estas malgastando tiempo de procesado mental de hecho hay un estudio que hizo la empresa de tecnologia hp que me dejo con la boca abierta ellos descubrieron que la distraccion tecnologica es decir el mero hecho de recibir correos electronicos y llamadas causaba una caida del conciente intelectual de sus empleados de 10 puntos de media
+
+ ------------------------------------------- 
+
+3.9215686274509802
+line_id 5463946680
+transcript norm:  para que se entienda la magnitud a corto plazo les afectaba el doble de lo que les hubiera afectado fumar cannabis es decir los empleados tendrian mayor capacidad de rendir en el trabajo estando fumados 0 colocados que la que tienen al consultar muy a menudo mensajes mails tiktok 0 instagram
+ref norm:         para que se entienda la magnitud a corto plazo les afectaba el doble de lo que les hubiera afectado umar canabis es decir los empleados tendrian mayor capacidad de rendir en el trabajo estando fumados 0 colocados que la que tienen al consultar muy a menudo mensajes mails tiktok 0 instagram
+
+ ------------------------------------------- 
+
+4.081632653061225
+line_id 5463950680
+transcript norm:  puesto en datos cuando fumas marihuana en el momento de mayor efecto tu coeficiente cae un 5% aproximadamente mientras que las interrupciones constantes tienen un efecto a corto plazo dos veces superior el 10% con esto no quiero incitar a nadie a fumar marihuana que no se malinterprete
+ref norm:         puesto en datos cuando fumas marihuana en el momento de mayor efecto tu coeficiente cae un 5% aproximadamente mientras que las interrupciones constantes tienen un efecto a corto plazo dos veces superior el 10% con esto no quiero incitar a nadie a fumar marihuana que no se mal interprete
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463981445
+transcript norm:  lo que quiero dejar muy claro es el enorme peso que tienen las distracciones en nuestra concentracion te parece un monton bueno preparate porque de aca en adelante todo se pone un poco mas oscuro la segunda manera en que el multitasking perjudica nuestra atencion es lo que podriamos llamar el efecto fallo cuando alternamos entre tareas empiezan a asomar errores que de otro modo nunca hubieran surgido
+ref norm:         lo que quiero dejar muy claro es el enorme peso que tienen las distracciones en nuestra concentracion te parece un monton bueno preparate porque de aca en adelante todo se pone un poco mas oscuro la segunda manera en que el multitasking perjudica nuestra atencion es lo que podriamos llamar el efecto fallo cuando alternamos entre tareas empiezan a asomar errores que de otro modo nunca hubieran surgido
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463964799
+transcript norm:  esto pasa porque nuestro cerebro tiene que retroceder un poco para ver donde dejo la tarea antes de retomarla y eso es algo que no puede hacer a la perfeccion ahi aparecen los fallos en vez de sostener pensamientos profundos nos movemos en terrenos mas superficiales porque perdemos mucho tiempo retrocediendo corrigiendo errores volviendo a corregir y asi
+ref norm:         esto pasa porque nuestro cerebro tiene que retroceder un poco para ver donde dejo la tarea antes de retomarla y eso es algo que no puede hacer a la perfeccion ahi aparecen los fallos en vez de sostener pensamientos profundos nos movemos en terrenos mas superficiales porque perdemos mucho tiempo retrocediendo corrigiendo errores volviendo a corregir y asi
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463980168
+transcript norm:  y de esa fusion nace una nueva idea algo diferente a cada una de las dos ideas que lo componen si pasamos nuestro tiempo alternando entre tareas y corrigiendo errores esas nuevas conexiones no se van a generar nunca
+ref norm:         y de esa fusion nace una nueva idea algo diferente a cada una de las dos ideas que lo componen si pasamos nuestro tiempo alternando entre tareas y corrigiendo errores esas nuevas conexiones no se van a generar nunca
+
+ ------------------------------------------- 
+
+8.333333333333332
+line_id 5463983810
+transcript norm:  nuestro cerebro se va a quedar en la superficie y no va a poder generar pensamientos originales diferentes creativos las evidencias segun miller son claras si queremos tener exito y ser mas productivos y felices no tenemos mas alternativa que concentrarnos en una sola cosa a la vez
+ref norm:         nuestros cerebros se van a quedar en la superficie y no van a poder generar pensamientos originales diferentes creativos las evidencias segun miller son claras si queremos tener exito y ser mas productivos y felices no tenemos mas alternativa que concentrarnos en una sola cosa a la vez
+
+ ------------------------------------------- 
+
+1.8518518518518516
+line_id 5463944356
+transcript norm:  cuanto mas leia este libro mas me daba cuenta que mi idea de hacer mil cosas a la vez era como mi deseo de vivir comiendo comida chatarra y mantener un buen estado fisico imposible y ahora le toca el turno a mi caracteristica favorita de toda cosa que leo consumo 0 escucho
+ref norm:         cuanto mas leia este libro mas me daba cuenta que mi idea de hacer mil cosas a la vez era como mi deseo de vivir comiendo 0 comida chatarra y mantener un buen estado fisico imposible y ahora le toca el turno a mi caracteristica favorita de toda cosa que leo consumo 0 escucho
+
+ ------------------------------------------- 
+
+2.631578947368421
+line_id 5463966589
+transcript norm:  la profundidad y el sentido de las cosas la velocidad tiene algo que nos hace sentir genial sentimos que estamos conectados al mundo con solo un clic que podemos averiguar cualquier cosa en una busqueda rapida de google
+ref norm:         la profundidad y el sentido de las cosas la velocidad tiene algo que nos hace sentir genial sentimos que estamos conectados al mundo con solo un click que podemos averiguar cualquier cosa en una busqueda rapida de google
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463913779
+transcript norm:  y cuando a esta altura parecia que no se podia poner peor leo una frase de miller que me preocupa un poco mas hemos creado la tormenta perfecta de degradacion de nuestra capacidad de pensar como resultado de la distraccion lo mejor que podemos hacer es alejarnos de la distraccion
+ref norm:         y cuando a esta altura parecia que no se podia poner peor leo una frase de miller que me preocupa un poco mas hemos creado la tormenta perfecta de degradacion de nuestra capacidad de pensar como resultado de la distraccion lo mejor que podemos hacer es alejarnos de la distraccion
+
+ ------------------------------------------- 
+
+4.3478260869565215
+line_id 5463941941
+transcript norm:  pero como antes de pasar a las soluciones si hay soluciones posibles queria retomar por un momento el tema del contexto el papel de las grandes fuerzas sociales que estan en la base de todo esto y exceden a nuestro control johan hari lo explica asi .
+ref norm:         pero como antes de pasar a las soluciones si hay soluciones posibles queria retomar por un momento el tema del contexto el papel de las grandes fuerzas sociales que estan en la base de todo esto y exceden a nuestro control johan harry lo explica asi
+
+ ------------------------------------------- 
+
+1.1494252873563218
+line_id 5463976486
+transcript norm:  imagina que alguien esta todo el dia rociandonos con un polvo que nos produce picores terribles y despues cuando ya te arrancaste toda la piel de tanto rascarte se acerca y te dice que sos un desastre que como puede ser que tengas tan malos habitos y la verdad podrias aprender a meditar para estar mas tranquila y no arrancarte la piel la proxima vez andate a la mierda dice harry deja de lanzarme esa basura por encima en lugar de darme consejos y decirme que medite
+ref norm:         imagina que alguien esta todo el dia rociandonos con un polvo que nos produce picores terribles y despues cuando ya te arrancaste toda la piel de tanto rascarte se acerca y te dice que sos un desastre que como puede ser que tengas tan malos habitos y la verdad podrias aprender a meditar para estar mas tranquilo y no arrancarte la piel la proxima vez andate a la mierda dice harry deja de lanzarme esa basura por encima en lugar de darme consejos y decirme que medite
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463994114
+transcript norm:  hay fuerzas que son mas poderosas que nosotros y que no podemos controlar la industria tecnologica la alimentaria los ambientes laborales la contaminacion del aire entre otras y aunque los cambios individuales no sean suficientes si son necesarios muy necesarios
+ref norm:         hay fuerzas que son mas poderosas que nosotros y que no podemos controlar la industria tecnologica la alimentaria los ambientes laborales la contaminacion del aire entre otras y aunque los cambios individuales no sean suficientes si son necesarios muy necesarios
+
+ ------------------------------------------- 
+
+12.82051282051282
+line_id 5463974606
+transcript norm:  en psycomality nos especializamos en cambios personales profundos somos una clinica de salud mental con mas de 150 psicologos y miles de recursos online disponibles en nuestra pagina web podes entrar en psycomality com para conocer mas
+ref norm:         en psi mammoliti nos especializamos en cambios personales profundos somos una clinica de salud mental con mas de 150 psicologos y miles de recursos online disponibles en nuestra pagina web podeis entrar en www psimammoliti com para conocer mas
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463952239
+transcript norm:  por el momento aunque no podamos cambiar a los grandes poderes de la noche a la manana si hay cosas que podemos hacer hoy ya desde nuestro lugar de individuos vayamos a una de las herramientas que podemos usar para combatir esta crisis de atencion que se nos impone tanto desde afuera como desde nuestro mundo interno el estado de flujo
+ref norm:         por el momento aunque no podamos cambiar a los grandes poderes de la noche a la manana si hay cosas que podemos hacer hoy ya desde nuestro lugar de individuos vayamos a una de las herramientas que podemos usar para combatir esta crisis de atencion que se nos impone tanto desde afuera como desde nuestro mundo interno el estado de flujo
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463930809
+transcript norm:  escuchaste este concepto alguna vez aunque no lo conozcas como concepto si 0 si lo experimentaste el estado de flujo es cuando estas haciendo algo y realmente te metes tan de lleno que tu sentido del tiempo se desvanece
+ref norm:         escuchaste este concepto alguna vez aunque no lo conozcas como concepto si 0 si lo experimentaste el estado de flujo es cuando estas haciendo algo y realmente te metes tan de lleno que tu sentido del tiempo se desvanece
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463957794
+transcript norm:  pueden pasar horas y horas y no te diste ni cuenta una vez me desperte a las 7 am hice mi rutina de actividad fisica me hice unos mates que es una bebida argentina que me encanta y me sente a escribir e investigar ese dia no habia luz ni internet y eso me permitio y me forzo a trabajar sin interrupciones
+ref norm:         pueden pasar horas y horas y no te diste ni cuenta una vez me desperte a las 7 am hice mi rutina de actividad fisica me hice unos mates que es una bebida argentina que me encanta y me sente a escribir e investigar ese dia no habia luz ni internet y eso me permitio y me forzo a trabajar sin interrupciones
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463949128
+transcript norm:  a mi me suele pasar escribiendo otros lo alcanzan haciendo deporte otras personas cocinando pintando otros con el sexo otros leyendo cualquier cosa que sea significativa para las personas puede inducirlas a un estado de flujo
+ref norm:         a mi me suele pasar escribiendo otros lo alcanzan haciendo deporte otras personas cocinando pintando otros con el sexo otros leyendo cualquier cosa que sea significativa para las personas puede inducirlas a un estado de flujo
+
+ ------------------------------------------- 
+
+1.7543859649122806
+line_id 5463993394
+transcript norm:  el profesor mihaly investigador que dio nombre y dedico su vida a estudiar los estados de flujo tiene una charla ted hermosa en la que explica que estos son la forma mas profunda de atencion y concentracion que los humanos puedan lograr la forma mas poderosa conocida hasta el momento cuando suceden aparece la magia todo fluye suceso
+ref norm:         el profesor mihaly investigador que dio nombre y dedico su vida a estudiar los estados de flujo tiene una charla ted hermosa en la que explica que estos son la forma mas profunda de atencion y concentracion que los humanos puedan lograr la forma mas poderosa conocida hasta el momento cuando suceden aparece la magia todo fluye
+
+ ------------------------------------------- 
+
+1.6666666666666667
+line_id 5463990251
+transcript norm:  somos uno con la tarea es como el elixir de la concentracion michaly descubrio que si excavamos en la direccion correcta somos capaces de llegar a un pozo de concentracion en nuestro interior que es como un manantial de atencion un arroyo que fluye y nos lleva por tareas dificiles de una manera que nos resulta indolora y hasta placentera
+ref norm:         somos uno con la tarea es como el elixir de la concentracion mihaly descubrio que si excavamos en la direccion correcta somos capaces de llegar a un pozo de concentracion en nuestro interior que es como un manantial de atencion un arroyo que fluye y nos lleva por tareas dificiles de una manera que nos resulta indolora y hasta placentera
+
+ ------------------------------------------- 
+
+1.4705882352941175
+line_id 5463910306
+transcript norm:  lo primero que me imagine fue que se llega ahi relajandonos me imagine acostada en una playa paradisiaca tomando algo fresco pero no de hecho relajarnos casi nunca nos lleva a un estado de flujo se accede a traves de otra ruta una ruta a la que no podemos acceder siempre que queramos a gusto y piachere nuestro no pero si hay cosas que podemos hacer para buscarla
+ref norm:         lo primero que me imagine fue que se llega ahi relajandonos me imagine acostada en una playa paradisiaca tomando algo fresco pero no de hecho relajarnos casi nunca nos lleva a un estado de flujo se accede a traves de otra ruta una ruta a la que no podemos acceder siempre que queramos a gusto y phr nuestro no pero si hay cosas que podemos hacer para buscarla
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463925519
+transcript norm:  si queremos hacer unitasking tenemos que practicar el cerebro es como un musculo cuanto mas usamos ciertas partes mas fuertes se hacen y las conexiones mejor funcionan
+ref norm:         si queremos hacer unitasking tenemos que practicar el cerebro es como un musculo cuanto mas usamos ciertas partes mas fuertes se hacen y las conexiones mejor funcionan
+
+ ------------------------------------------- 
+
+3.1746031746031744
+line_id 5463947646
+transcript norm:  si te cuesta concentrarte proba la monotarea durante 10 minutos un dia y despues permitite distraerte durante un minuto y volve a la monotarea otros 10 minutos y asi sucesivamente y de manera progresiva andas subiendo la cantidad de tiempo que le dedicas a esa monotarea eso si cuando estes con todo el foco en la monotarea saca tu telefono de tu vista
+ref norm:         si te cuesta concentrarte proba la monotarea durante 10 minutos un dia y despues permitete distraerte durante un minuto y volve a la monotarea otros 10 minutos y asi sucesivamente y de manera progresiva anda subiendo la cantidad de tiempo que le dedicas a esa monotarea eso si cuando estes con todo el foco en la monotarea saca tu telefono de tu vista
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463959657
+transcript norm:  apaga el televisor apaga la radio cualquier distraccion tenes que ayudarte al menos al principio vas a ver que a medida que lo hagas tu cerebro va a ir acostumbrandose las conexiones neuronales se van a reforzar y esto se va a dar cada vez mejor practica empeza despacio pero practica
+ref norm:         apaga el televisor apaga la radio cualquier distraccion tenes que ayudarte al menos al principio vas a ver que a medida que lo hagas tu cerebro va a ir acostumbrandose las conexiones neuronales se van a reforzar y esto se va a dar cada vez mejor practica empeza despacio pero practica
+
+ ------------------------------------------- 
+
+1.7857142857142856
+line_id 5463949426
+transcript norm:  y vas a ver que vas a conseguir entrar en estados de flujo con determinadas tareas segunda clave elegir una tarea que sea significativa si tratas de fluir hacia algo que no te importa probablemente no funcione tiene que tener sentido para vos nuestro cerebro esta disenado asi prestamos atencion a las cosas que nos importan
+ref norm:         y vas a ver que vas a conseguir entrar en estado de flujo con determinadas tareas segunda clave elegir una tarea que sea significativa si tratas de fluir hacia algo que no te importa probablemente no funcione tiene que tener sentido para vos nuestro cerebro esta disenado asi prestamos atencion a las cosas que nos importan
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463912100
+transcript norm:  cuando intentamos obligarnos a hacer cosas que no nos interesan nuestra atencion falla y se desvia la tercera clave es ponernos al limite llevarte al limite de tus habilidades de tu zona de confort pero sin exigirte cosas imposibles
+ref norm:         cuando intentamos obligarnos a hacer cosas que no nos interesan nuestra atencion falla y se desvia la tercera clave es ponernos al limite llevarte al limite de tus habilidades de tu zona de confort pero sin exigirte cosas imposibles
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463939715
+transcript norm:  ni muy facil como para aburrirte ni tan dificil como para frustrarte si sos un escalador de talento medio trepar la pared de tu jardin no te va a meter en un estado de flujo es demasiado facil probablemente te pongas en piloto automatico y ya
+ref norm:         ni muy facil como para aburrirte ni tan dificil como para frustrarte si sos un escalador de talento medio trepar la pared de tu jardin no te va a meter en un estado de flujo es demasiado facil probablemente te pongas en piloto automatico y ya
+
+ ------------------------------------------- 
+
+2.380952380952381
+line_id 5463981196
+transcript norm:  pero si te vas a escalar el everes tampoco porque es demasiado dificil probablemente te angusties te frustres te abrumes y no fluyas tenes que encontrar una roca un poco mas alta y mas dificil que la que escalaste la ultima vez
+ref norm:         pero si te vas a escalar el everest tampoco porque es demasiado dificil probablemente te angusties te frustres te abrumes y no fluyas tenes que encontrar una roca un poco mas alta y mas dificil que la que escalaste la ultima vez
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463988832
+transcript norm:  resumiendo para encontrar el flujo tenes que elegir una sola meta asegurarte de que esa meta tenga sentido para vos y llevarte hasta el limite de tus capacidades una vez que empieces a fluir vas a sentir que estas puramente presente en el momento
+ref norm:         resumiendo para encontrar el flujo tenes que elegir una sola meta asegurarte de que esa meta tenga sentido para vos y llevarte hasta el limite de tus capacidades una vez que empieces a fluir vas a sentir que estas puramente presente en el momento
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463933903
+transcript norm:  es un estado en el que parece que tu ego se esfumara y te volvieras uno con la tarea se siente increible hay dos herramientas mas ademas del estado de flujo que pueden ayudarnos a recuperar nuestra atencion
+ref norm:         es un estado en el que parece que tu ego se esfumara y te volvieras uno con la tarea se siente increible hay dos herramientas mas ademas del estado de flujo que pueden ayudarnos a recuperar nuestra atencion
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463943390
+transcript norm:  la divagacion mental y el mindfulness el mindfulness 0 atencion plena es una habilidad que nos ayuda a prestar atencion a lo que estamos haciendo en el momento presente si tu mente es como una linterna el mindfulness es la manera de dirigir esa luz a lo que estas haciendo ahora mismo
+ref norm:         la divagacion mental y el mindfulness el mindfulness 0 atencion plena es una habilidad que nos ayuda a prestar atencion a lo que estamos haciendo en el momento presente si tu mente es como una linterna el mindfulness es la manera de dirigir esa luz a lo que estas haciendo ahora mismo
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463961852
+transcript norm:  en lugar de estar pensando en que va a pasar manana 0 que paso ayer se trata de prestar atencion a lo que esta pasando mientras esta pasando y la divagacion mental si se que divagar es una palabra con connotacion negativa
+ref norm:         en lugar de estar pensando en que va a pasar manana 0 que paso ayer se trata de prestar atencion a lo que esta pasando mientras esta pasando y la divagacion mental si se que divagar es una palabra con connotacion negativa
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463936800
+transcript norm:  que me estas recomendando hacer marina bueno resulta que dejar volar la mente sin control sin poner un podcast sin musica sin hablar por telefono puede tener muchos beneficios harry cuenta que en su desintoxicacion de redes sociales paseaba por la playa sin telefono ni internet
+ref norm:         que me estas recomendando hacer marina bueno resulta que dejar volar la mente sin control sin poner un podcast sin musica sin hablar por telefono puede tener muchos beneficios harry cuenta que en su desintoxicacion de redes sociales paseaba por la playa sin telefono ni internet
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463965526
+transcript norm:  y descubrio que esos ratos eran mucho mas creativos que el resto de su dia la mente hace cosas realmente importantes cuando divaga procesa el pasado le da vueltas al sentido del presente anticipa el futuro crea significados planea
+ref norm:         y descubrio que esos ratos eran mucho mas creativos que el resto de su dia la mente hace cosas realmente importantes cuando divaga procesa el pasado le da vueltas al sentido del presente anticipa el futuro crea significados planea
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463977115
+transcript norm:  lo mas importante es que nos permite conectar unas cosas con otras algo crucial en el trabajo creativo hemos eliminado la divagacion mental casi por completo de nuestras vidas sin tener ni idea sin tener en cuenta la importancia que tiene
+ref norm:         lo mas importante es que nos permite conectar unas cosas con otras algo crucial en el trabajo creativo hemos eliminado la divagacion mental casi por completo de nuestras vidas sin tener ni idea sin tener en cuenta la importancia que tiene
+
+ ------------------------------------------- 
+
+4.477611940298507
+line_id 3387323349
+transcript norm:  ana viene a terapia conmigo hace poco mas de seis meses de todos mis consultantes ella es de las personas mas comprometidas con su espacio terapeutico vive una vida que muchos tildarian de exitosa trabajo desafiante en una empresa muy cool after office con sus companeros tragos fancies salidas a comer a los mejores restaurantes los fines de semana vacaciones en el caribe la ultima sesion me confeso
+ref norm:         ana viene a terapia conmigo hace poco mas de seis meses de todos mis consultantes ella es de las personas mas comprometidas con su espacio terapeutico vive una vida que muchos tildarian de exitosa trabajo desafiante en una empresa muy cool afteroffice con sus companeros tragos fancies salidas a comer a los mejores restaurantes a fines de semana vacaciones en el caribe la ultima sesion me confeso
+
+ ------------------------------------------- 
+
+0.0
+line_id 3387352475
+transcript norm:  no aguanto mas estoy harta de vivir estresada lo unico que me calma es salir a fumar y ya no me queda aire en los pulmones trabajo hasta muy tarde me llevo tareas a casa y aun asi siento que no termino nada mi mente es una lluvia de pendientes es como si tuviera una deuda que no puedo pagar y crece todos los dias ni hablar de que no puedo cerrar un ojo a la hora de dormir
+ref norm:         no aguanto mas estoy harta de vivir estresada lo unico que me calma es salir a fumar y ya no me queda aire en los pulmones trabajo hasta muy tarde me llevo tareas a casa y aun asi siento que no termino nada mi mente es una lluvia de pendientes es como si tuviera una deuda que no puedo pagar y crece todos los dias ni hablar de que no puedo cerrar un ojo a la hora de dormir
+
+ ------------------------------------------- 
+
+0.0
+line_id 3387396870
+transcript norm:  necesito eliminar el estres de mi vida ya si no me va a consumir por completo ana esta pasando por una situacion de estres intenso la carga que siente es agotadora y ya no impacta solo en su trabajo la afecta mucho emocional y fisicamente se siente cansada todo el tiempo y sus relaciones personales se estan desvaneciendo y lo peor mientras mas intenta luchar contra el estres y evadirlo mas se intensifica
+ref norm:         necesito eliminar el estres de mi vida ya si no me va a consumir por completo ana esta pasando por una situacion de estres intenso la carga que siente es agotadora y ya no impacta solo en su trabajo la afecta mucho emocional y fisicamente se siente cansada todo el tiempo y sus relaciones personales se estan desvaneciendo y lo peor mientras mas intenta luchar contra el estres y evadirlo mas se intensifica
+
+ ------------------------------------------- 
+
+1.3888888888888888
+line_id 3387346234
+transcript norm:  pero es importante tener en cuenta el por que aparece la fiebre aparece porque es la manera que tiene nuestro cuerpo de defenderse frente a una amenaza un virus una infeccion algo que esta impidiendo su funcionamiento normal entonces pensar a la fiebre como la causa del problema y no como la mensajera que trae informacion valiosa que hay algo que anda mal puede ser peligroso con el estres pasa lo mismo
+ref norm:         pero es importante tener en cuenta el por que aparece la fiebre aparece porque es la manera que tiene nuestro cuerpo de defenderse frente a una amenaza un virus una infeccion algo que esta impidiendo su funcionamiento normal entonces pensar en la fiebre como la causa del problema y no como la mensajera que trae informacion valiosa que hay algo que anda mal puede ser peligroso con el estres pasa lo mismo
+
+ ------------------------------------------- 
+
+2.5
+line_id 5463996512
+transcript norm:  pensamos que es la causa del problema cuando en realidad es el mensajero el vigilante del barco que nos avisa que tenemos que tomar una direccion diferente para no estrellarnos contra el glaciar nos grita algo que tenemos que escuchar
+ref norm:         pensamos que es la causa del problema cuando en realidad es el mensajero el vigilante del barco que nos avisa que tenemos que tomar una direccion diferente para no estrellarnos contra el lasear nos grita algo que tenemos que escuchar
+
+ ------------------------------------------- 
+
+0.0
+line_id 3387313827
+transcript norm:  el decia que todos experimentamos en mayor 0 menor medida estres y que tiene que ver con una cuestion de adaptacion al medio el estres es la respuesta natural de nuestro organismo frente a situaciones que percibimos como amenazantes nuevas 0 inciertas si lo pensamos un segundo rapidamente nos damos cuenta que todo el tiempo estamos frente a este tipo de situaciones
+ref norm:         el decia que todos experimentamos en mayor 0 menor medida estres y que tiene que ver con una cuestion de adaptacion al medio el estres es la respuesta natural de nuestro organismo frente a situaciones que percibimos como amenazantes nuevas 0 inciertas si lo pensamos un segundo rapidamente nos damos cuenta que todo el tiempo estamos frente a este tipo de situaciones
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463933982
+transcript norm:  es la vida misma cuando aparece el estres nuestro cuerpo se prepara y segrega distintas hormonas principalmente dos cortisol y adrenalina el cortisol conocido como la hormona del estres aumenta la glucosa en la sangre suprimiendo funciones no esenciales en situaciones de emergencia como por ejemplo la reproduccion 0 la digestion
+ref norm:         es la vida misma cuando aparece el estres nuestro cuerpo se prepara y segrega distintas hormonas principalmente dos cortisol y adrenalina el cortisol conocido como la hormona del estres aumenta la glucosa en la sangre suprimiendo funciones no esenciales en situaciones de emergencia como por ejemplo la reproduccion 0 la digestion
+
+ ------------------------------------------- 
+
+0.0
+line_id 3387378646
+transcript norm:  si estamos escapando de un leon 0 llegando tarde a una reunion importante en nuestro trabajo nuestro cuerpo lo ultimo que necesita es estar poniendo energia en digerir comida 0 en aumentar nuestro deseo sexual el cortisol nos ayuda a gestionar nuestros recursos con el unico fin de sobrevivir
+ref norm:         si estamos escapando de un leon 0 llegando tarde a una reunion importante en nuestro trabajo nuestro cuerpo lo ultimo que necesita es estar poniendo energia en digerir comida 0 en aumentar nuestro deseo sexual el cortisol nos ayuda a gestionar nuestros recursos con el unico fin de sobrevivir
+
+ ------------------------------------------- 
+
+0.0
+line_id 3387378567
+transcript norm:  la adrenalina por otro lado prepara al cuerpo para la respuesta inmediata de lucha 0 huida aumenta la frecuencia cardiaca eleva la presion sanguinea y potencia la energia permitiendonos reaccionar rapido ante una amenaza hans llamo a este conjunto de reacciones sindrome general de adaptacion
+ref norm:         la adrenalina por otro lado prepara al cuerpo para la respuesta inmediata de lucha 0 huida aumenta la frecuencia cardiaca eleva la presion sanguinea y potencia la energia permitiendonos reaccionar rapido ante una amenaza hans llamo a este conjunto de reacciones sindrome general de adaptacion
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463942013
+transcript norm:  en ese momento lo penso como una enfermedad hoy sabemos que todos tenemos este sistema de adaptacion y que alivio si no lo tuvieramos estariamos en problemas
+ref norm:         en ese momento lo penso como una enfermedad hoy sabemos que todos tenemos este sistema de adaptacion y que alivio si no lo tuvieramos estariamos en problemas
+
+ ------------------------------------------- 
+
+1.9607843137254901
+line_id 3387357887
+transcript norm:  sin la posibilidad de sentir estres ignorariamos situaciones peligrosas 0 nos relajariamos en momentos en que en realidad estaria bueno estar enfocados y con energia lo dijo charles darwin cuando hablo de la supervivencia del mas apto sobrevive quien se adapta al entorno y el estres nos ayuda a hacerlo
+ref norm:         sin la posibilidad de sentir estres ignorariamos situaciones peligrosas 0 nos relajariamos en momentos en que en realidad estaria bueno estar enfocados y con energia lo dijo charles darwin cuando hablo de la supervivencia del mas apto sobrevive es quien se adapta al entorno y el estres nos ayuda a hacerlo
+
+ ------------------------------------------- 
+
+0.0
+line_id 3387379223
+transcript norm:  pero el problema y aca me quiero detener es que nuestro cerebro no diferencia las amenazas reales de las imaginarias las siente igual de reales y por lo tanto reacciona de la misma manera
+ref norm:         pero el problema y aca me quiero detener es que nuestro cerebro no diferencia las amenazas reales de las imaginarias las siente igual de reales y por lo tanto reacciona de la misma manera
+
+ ------------------------------------------- 
+
+4.0
+line_id 3387382404
+transcript norm:  factores realmente agresivos como ser victimas de un accidente fatal 0 ser abusado sexualmente 0 un perro furioso que viene a nuestro ataque 0 situaciones cotidianas propias de una sociedad hiperexigente como el mail de nuestro jefe un poco molesto a primera hora del dia activan nuestro sistema por igual
+ref norm:         factores realmente agresivos como ser victimas de un accidente fatal 0 ser abusados sexualmente 0 un perro furioso que viene a nuestro ataque 0 situaciones cotidianas propias de una sociedad interexigente como el mail de nuestro jefe un poco molesto a primera hora del dia activan nuestro sistema por igual
+
+ ------------------------------------------- 
+
+0.0
+line_id 3387335636
+transcript norm:  ahora si nuestro cerebro cansado no puede diferenciar situaciones extremas de situaciones cotidianas cuales son entonces las consecuencias de estar en este permanente estado de alerta para responder voy a traer una palabra que nos va a ayudar a entender que pasa con el estres y por que nos afecta tanto la psico neuro inmuno endocrinologia si psico neuro inmuno endocrinologia
+ref norm:         ahora si nuestro cerebro cansado no puede diferenciar situaciones extremas de situaciones cotidianas cuales son entonces las consecuencias de estar en este permanente estado de alerta para responder voy a traer una palabra que nos va a ayudar a entender que pasa con el estres y por que nos afecta tanto la psico neuro inmuno endocrinologia si psico neuro inmuno endocrinologia
+
+ ------------------------------------------- 
+
+4.651162790697675
+line_id 3387310509
+transcript norm:  que quiere decir bueno se trata del estudio y la explicacion de la interaccion entre la mente el sistema nervioso el sistema endocrino es decir nuestras hormonas y el sistema inmune el que nos protege de sustancias potencialmente peligrosas como los virus
+ref norm:         que quiere decir bueno se trata de el estudio y la explicacion de la interaccion entre la mente el sistema nervioso el sistema endocrino es decir nuestras hormonas y el sistema inmune el que nos protege de sustancias potencialmente peligrosas como los virus
+
+ ------------------------------------------- 
+
+0.0
+line_id 3387326885
+transcript norm:  durante muchisimo tiempo se creyo que todos estos factores funcionaban de manera completamente aislados independientes la mente por un lado el cuerpo por el otro lo biologico por el otro hoy existen miles de investigaciones que confirman que no hay manera de pensar estos sistemas aislados todos estan estrechamente interconectados funcionan en conjunto
+ref norm:         durante muchisimo tiempo se creyo que todos estos factores funcionaban de manera completamente aislados independientes la mente por un lado el cuerpo por el otro lo biologico por el otro hoy existen miles de investigaciones que confirman que no hay manera de pensar estos sistemas aislados todos estan estrechamente interconectados funcionan en conjunto
+
+ ------------------------------------------- 
+
+3.6363636363636362
+line_id 3387359350
+transcript norm:  si leemos al estres bajo la lupa de todos estos sistemas interconectados entendemos entonces que un estado mental de preocupacion puede hacer que nuestro cuerpo lo traduzca como una amenaza y disparar cambios hormonales que nos hagan experimentar sintomas fisicos desagradables e incluso hasta desarrollar alguna enfermedad a raiz de un sistema inmunologico debilitado
+ref norm:         si le vemos al estres bajo la lupa de todos estos sistemas interconectados entendemos entonces que un estado mental de preocupacion puede hacer que nuestro cuerpo lo traduzca como una amenaza y disparar cambios hormonales que nos hagan experimentar sintomas fisicos desagradables e incluso hasta desarrollar alguna enfermedad a raiz de un sistema inmunologico debilitado
+
+ ------------------------------------------- 
+
+1.2048192771084338
+line_id 3387357820
+transcript norm:  cuando estas afuera a salvo viene un trabajador del banco y te dice a vos y a todas las personas que corrieron que era solo un simulacro una falsa alarma no hay fuego pueden regresar adentro y esperar su turno mas alla de que la alarma haya sido solamente una prueba tu cuerpo no es el mismo que antes de escuchar la alarma volves ingresas al banco y tu cuerpo esta diferente no tiene la misma calma que antes del evento del fuego
+ref norm:         cuando estas afuera a salvo viene un trabajador del banco y te dice a vos y a todas las personas que corrieron que era solo un simulacro una falsa alarma no hay fuego pueden regresar adentro y esperar su turno mas alla de que la alarma haya sido solamente una prueba tu cuerpo no es el mismo que antes de escuchar la alarma volves ingresas al banco y tu cuerpo esta diferente no tienes la misma calma que antes del evento del fuego
+
+ ------------------------------------------- 
+
+0.0
+line_id 3387340762
+transcript norm:  ni un estres nulo que haria que la vida nos pase por encima ni un estres excesivo que nos bloquearia por completo mas bien un estres equilibrado ni mucho ni poco en lugar de desgastarte el eustres te fortalece
+ref norm:         ni un estres nulo que haria que la vida nos pase por encima ni un estres excesivo que nos bloquearia por completo mas bien un estres equilibrado ni mucho ni poco en lugar de desgastarte el eustres te fortalece
+
+ ------------------------------------------- 
+
+0.0
+line_id 3387375604
+transcript norm:  el cortisol en pequenas dosis agudiza tus capacidades cognitivas te ayuda a concentrarte mejor y a focalizar muchisimo la atencion para responder ante un desafio de manera mucho mas efectiva que si no tuvieras cortisol hagamos un mini ejercicio para identificarlo si podes cerra tus ojos
+ref norm:         el cortisol en pequenas dosis agudiza tus capacidades cognitivas te ayuda a concentrarte mejor y a focalizar muchisimo la atencion para responder ante un desafio de manera mucho mas efectiva que si no tuvieras cortisol hagamos un mini ejercicio para identificarlo si podes cerra tus ojos
+
+ ------------------------------------------- 
+
+1.9607843137254901
+line_id 3387396912
+transcript norm:  si no podes imaginar con los ojos abiertos pensa en el ultimo desafio al que te enfrentaste esa situacion que te genero un cosquilleo en la panza la ultima vez que estabas por salir de tu zona de confort y que te animaste a hacerlo te acordas en que situacion fue
+ref norm:         si no podes imaginar con los ojos abiertos pensa en el ultimo desafio al que te enfrentaste esa situacion que te genero un cosquillon en la panza la ultima vez que estabas por salir de tu zona de confort y que te animaste a hacerlo te acordas en que situacion fue
+
+ ------------------------------------------- 
+
+0.0
+line_id 3387394256
+transcript norm:  donde estabas imaginate ahi trae la escena con lujo de detalles a tu imaginacion
+ref norm:         donde estabas imaginate ahi trae la escena con lujo de detalles a tu imaginacion
+
+ ------------------------------------------- 
+
+6.25
+line_id 3886133841
+transcript norm:  la clave es en mejorar e ir analizando las desviaciones no es lo mismo que yo empiece a correr ahora y diga que dentro de seis meses voy a correr cinco kilometros
+ref norm:         la clave es en mejorar e ir analizando las desviaciones no es lo mismo que yo empiece a correr ahora y diga que dentro de 6 meses voy a correr 5 kilometros
+
+ ------------------------------------------- 
+
+11.11111111111111
+line_id 3886120807
+transcript norm:  y llego a los seis meses y corro esos cinco kilometros a duras penas que si yo durante todo este tiempo fui midiendo mi progreso y fui viendo que podia hacer para correr mas 0 correr mejor si hago eso seguramente dentro de seis meses no corra cinco kilometros corra veinte principio numero dos
+ref norm:         y llego a los 6 meses y corro esos 5 kilometros a duras penas que si yo durante todo este tiempo fui midiendo mi progreso y fui viendo que podia hacer para correr mas 0 correr mejor si hago eso seguramente dentro de 6 meses no corra 5 kilometros corra 20 principio numero 2
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886195146
+transcript norm:  aunque esto no sea escalable aunque no sea replicable aunque te demande mas recursos de lo que tenias pensado 0 mas tiempo dar una atencion al cliente excepcional te va a traer muchisimo retorno en la inversion
+ref norm:         aunque esto no sea escalable aunque no sea replicable aunque te demande mas recursos de lo que tenias pensado 0 mas tiempo dar una atencion al cliente excepcional te va a traer muchisimo retorno en la inversion
+
+ ------------------------------------------- 
+
+11.320754716981133
+line_id 3886136166
+transcript norm:  por que porque acuerdate del principio 2 cliente es amo y senor el cliente no esta acostumbrado a tener una buena experiencia de atencion al cliente entonces si nosotros hacemos eso ya vamos a estar un paso adelante de nuestra competencia y del mercado en si mismo
+ref norm:         por que porque acuerdate del principio 2 cliente es amo y senor el cliente no esta acostumbrado a tener una buena experiencia al cliente entonces una buena experiencia de atencion al cliente entonces si nosotros hacemos eso ya vamos a estar un paso adelante de nuestra competencia y del mercado en si mismo
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886121048
+transcript norm:  tu foco capaz que no sea hacerlo crecer mas pero queres consolidarlo mas la comunicacion es fundamental entonces uno de los principales motivos tambien por los que fracasan muchisimos negocios es porque no tienen en cuenta este principio
+ref norm:         tu foco capaz que no sea hacerlo crecer mas pero queres consolidarlo mas la comunicacion es fundamental entonces uno de los principales motivos tambien por los que fracasan muchisimos negocios es porque no tienen en cuenta este principio
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886140858
+transcript norm:  principio numero 5 lanza tu idea rapido rapidez es uno de los factores fundamentales que hay que tener en cuenta cuando se esta lanzando una nueva idea porque es lo que veiamos en el video anterior
+ref norm:         principio numero 5 lanza tu idea rapido rapidez es uno de los factores fundamentales que hay que tener en cuenta cuando se esta lanzando una nueva idea porque es lo que veiamos en el video anterior
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886183846
+transcript norm:  es que las personas que van a interactuar con nuestra idea con nuestro producto con nuestro servicio con nuestro proceso nos de feedback nos de datos nos de retroalimentacion y nosotros a traves de eso ir mejorando el producto ir sentando las bases para el producto
+ref norm:         es que las personas que van a interactuar con nuestra idea con nuestro producto con nuestro servicio con nuestro proceso nos de feedback nos de datos nos de retroalimentacion y nosotros a traves de eso ir mejorando el producto ir sentando las bases para el producto
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886129850
+transcript norm:  en la etapa de probar datos es lo mas importante es lanzar rapido y obtener datos en esta etapa es conseguir retroalimentacion lo vuelvo a repetir de ahora en mas tu foco va a ser cada vez que tengas una idea pensar ok tengo que probar si esto funciona rapido
+ref norm:         en la etapa de probar datos es lo mas importante es lanzar rapido y obtener datos en esta etapa es conseguir retroalimentacion lo vuelvo a repetir de ahora en mas tu foco va a ser cada vez que tengas una idea pensar ok tengo que probar si esto funciona rapido
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886162619
+transcript norm:  nosotros tenemos que dejar que las ideas evolucionen para que la idea pueda llegar a convertirse en lo que puede ser el otro 50% de lanzar e iterar rapido es esto es entender que crear un negocio que funciona es un proceso es lo que llamamos crecer de forma iterativa e incremental
+ref norm:         nosotros tenemos que dejar que las ideas evolucionen para que la idea pueda llegar a convertirse en lo que puede ser el otro 50% de lanzar e iterar rapido es esto es entender que crear un negocio que funciona es un proceso es lo que llamamos crecer de forma iterativa e incremental
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886143873
+transcript norm:  este concepto aunque parece que lo acabo de inventar es muy usado en el mundo de desarrollo de emprendimientos tecnologicos del crecimiento iterativo e incremental
+ref norm:         este concepto aunque parece que lo acabo de inventar es muy usado en el mundo de desarrollo de emprendimientos tecnologicos del crecimiento iterativo e incremental
+
+ ------------------------------------------- 
+
+13.88888888888889
+line_id 3886195980
+transcript norm:  entonces nuestras decisiones lo que vayamos a tomar de decision para el negocio tienen que ser decisiones con sentido que realmente le esten aportando valor al negocio y que no sea una decision al tuntun principio nueve
+ref norm:         entonces nuestras decisiones lo que vayamos a tomar decisiones para el negocio tienen que ser decisiones con sentido que realmente le esten aportando valor al negocio y que no sea una decision al tuntu principe 9
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886181695
+transcript norm:  hace foco yo quiero que ahora hagas un ejercicio conmigo y quiero que te imagines que estas en el bar donde se esta por tirar este dardo ahi al tablero cuando estamos jugando a los dardos lo primero que hacemos es entender las reglas del juego
+ref norm:         hace foco yo quiero que ahora hagas un ejercicio conmigo y quiero que te imagines que estas en el bar donde se esta por tirar este dardo ahi al tablero cuando estamos jugando a los dardos lo primero que hacemos es entender las reglas del juego
+
+ ------------------------------------------- 
+
+31.70731707317073
+line_id 3886117327
+transcript norm:  y luke le dice bueno muy bien lo voy a intentar a lo que yoda le contesta no intentar no hacer 0 no hacer aca no hay intentos esto significa que nosotros tenemos que borrar la palabra intentar de nuestro vocabulario intentar es una de las palabras mas toxicas que existen en nuestro vocabulario
+ref norm:         y luke le dice bueno muy bien lo voy a intentar a lo que yoda le contesta no intentar no hacer 0 no hacer aca no hay intentos esto significa que nosotros tenemos que borrar la palabra intentar de nuestro vocabulario
+
+ ------------------------------------------- 
+
+0.0
+line_id 3886199187
+transcript norm:  nosotros tenemos que hacer 0 no hacer no intentar decir que vamos a intentar algo significa que no estamos lo suficientemente seguros de que lo podemos lograr
+ref norm:         nosotros tenemos que hacer 0 no hacer no intentar decir que vamos a intentar algo significa que no estamos lo suficientemente seguros de que lo podemos lograr
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463989001
+transcript norm:  queremos leer un libro pero nos distraemos con avisos y notificaciones de redes sociales queremos compartir tiempo con un hijo una hija 0 amigos pero no paramos de desbloquear el telefono y mirar whatsapp
+ref norm:         queremos leer un libro pero nos distraemos con avisos y notificaciones de redes sociales queremos compartir tiempo con un hijo una hija 0 amigos pero no paramos de desbloquear el telefono y mirar whatsapp
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463943672
+transcript norm:  queremos comenzar nuestro propio negocio pero nos disolvemos entre actualizaciones de facebook 0 videos de tiktok sintiendo envidia y ansiedad nunca parece haber suficiente calma suficiente espacio fresco y aireado como para pensar con claridad dato de color
+ref norm:         queremos comenzar nuestro propio negocio pero nos disolvemos entre actualizaciones de facebook 0 videos de tiktok sintiendo envidia y ansiedad nunca parece haber suficiente calma suficiente espacio fresco y aireado como para pensar con claridad dato de color
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463998470
+transcript norm:  un estudio de la universidad de oregon revelo que si estamos concentrados en algo y nos interrumpen tardamos un promedio de 23 minutos en volver al mismo estado de concentracion en el que estabamos antes de distraernos
+ref norm:         un estudio de la universidad de oregon revelo que si estamos concentrados en algo y nos interrumpen tardamos un promedio de 23 minutos en volver al mismo estado de concentracion en el que estabamos antes de distraernos
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463935074
+transcript norm:  23 minutos la segunda razon es algo de lo que hablo siempre en este podcast y esta detras de absolutamente todo lo que hago se trata de que solamente si entendemos lo que esta pasando podemos entonces empezar a cambiarlo no es una cuestion de elecciones
+ref norm:         23 minutos la segunda razon es algo de lo que hablo siempre en este podcast y esta detras de absolutamente todo lo que hago se trata de que solamente si entendemos lo que esta pasando podemos entonces empezar a cambiarlo no es una cuestion de elecciones
+
+ ------------------------------------------- 
+
+2.2222222222222223
+line_id 5463941809
+transcript norm:  esto es igual si queremos llegar a nuestros objetivos primero tenemos que recuperar nuestra atencion pensa en las cosas que hayas logrado a lo largo de los anos iniciar un negocio ser una buena amiga madre hacer actividad fisica con regularidad 0 tocar algun instrumento
+ref norm:         esto es igual si queremos llegar a nuestros objetivos primero tenemos que recuperar nuestra atencion pensar en las cosas que hayas logrado a lo largo de los anos iniciar un negocio ser una buena amiga madre hacer actividad fisica con regularidad 0 tocar algun instrumento
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463940801
+transcript norm:  sea lo que sea eso requirio mucho enfoque y atencion sostenidos si tu concentracion se descompone tambien lo hace tu capacidad para resolver problemas y lograr objetivos
+ref norm:         sea lo que sea eso requirio mucho enfoque y atencion sostenidos si tu concentracion se descompone tambien lo hace tu capacidad para resolver problemas y lograr objetivos
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463937007
+transcript norm:  el profesor ed miller neurocientifico del instituto de tecnologia de massachusetts explica que nuestro cerebro solo puede producir uno 0 dos pensamientos a la vez y nada mas no es una cuestion de voluntad es la estructura que tiene nuestro cerebro desde hace mas de 40 anos
+ref norm:         el profesor ed miller neurocientifico del instituto de tecnologia de massachusetts explica que nuestro cerebro solo puede producir uno 0 dos pensamientos a la vez y nada mas no es una cuestion de voluntad es la estructura que tiene nuestro cerebro desde hace mas de 40 anos
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463946798
+transcript norm:  y segun miller no va a cambiar ni para vos ni para mi pero en vez de reconocer nuestros limites biologicos nos inventamos un mito el mito de que podemos pensar en tres cinco diez cosas a la vez
+ref norm:         y segun miller no va a cambiar ni para vos ni para mi pero en vez de reconocer nuestros limites biologicos nos inventamos un mito el mito de que podemos pensar en tres cinco diez cosas a la vez
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463918247
+transcript norm:  existe un tercer costo asociado a la multitarea que es el mas util porque solo lo notamos a mediano 0 a largo plazo harry lo llama el drenaje de la creatividad las personas que hacen multitasking todos los dias se vuelven significativamente menos creativas
+ref norm:         existe un tercer costo asociado a la multitarea que es el mas util porque solo lo notamos a mediano 0 a largo plazo harry lo llama el drenaje de la creatividad las personas que hacen multitasking todos los dias se vuelven significativamente menos creativas
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463917172
+transcript norm:  por que porque la innovacion es algo que pasa por debajo de la mente consciente implica que dos ideas que al parecer no tenian nada que ver se conecten
+ref norm:         por que porque la innovacion es algo que pasa por debajo de la mente consciente implica que dos ideas que al parecer no tenian nada que ver se conecten
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463966109
+transcript norm:  pero exponernos a esta cantidad de informacion no es gratis a cambio de eso sacrificamos la profundidad porque la profundidad requiere tiempo y requiere reflexion y energia y foco atencion mucha atencion
+ref norm:         pero exponernos a esta cantidad de informacion no es gratis a cambio de eso sacrificamos la profundidad porque la profundidad requiere tiempo y requiere reflexion y energia y foco atencion mucha atencion
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463916755
+transcript norm:  si tenes que mantenerte al dia de todo constantemente no hay tiempo para el compromiso que requiere la profundidad el multitasking nos esta llevando poco a poco cada vez mas hacia la superficie
+ref norm:         si tenes que mantenerte al dia de todo constantemente no hay tiempo para el compromiso que requiere la profundidad el multitasking nos esta llevando poco a poco cada vez mas hacia la superficie
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463949574
+transcript norm:  eran las 8 de la manana cuando empece y la siguiente vez que mire el reloj ya eran las 4 de la tarde habian pasado 8 horas y yo no habia comido ni tomado nada no me habia levantado de la silla en realidad ni siquiera me habia dado cuenta del paso del tiempo
+ref norm:         eran las 8 de la manana cuando empece y la siguiente vez que mire el reloj ya eran las 4 de la tarde habian pasado 8 horas y yo no habia comido ni tomado nada no me habia levantado de la silla en realidad ni siquiera me habia dado cuenta del paso del tiempo
+
+ ------------------------------------------- 
+
+3.0303030303030303
+line_id 5463998953
+transcript norm:  los escaladores dicen que cuando trepas una montana y entras en un estado de flujo se siente como si vos fueras la roca cada persona entra en estados de flujo por distintos motivos
+ref norm:         los escaladores dicen que cuando trepas una montana y entras en un estado de flujo se siente como si vos fueras la roca cada persona entra en estado de flujo por distintos motivos
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463973036
+transcript norm:  hay tres claves fundamentales 0 pasos a seguir para sumergirnos en un estado de flujo voy a ir una a una primera clave el unitasking que es esto es lo contrario al multitasking se trata de hacer una sola tarea a la vez
+ref norm:         hay tres claves fundamentales 0 pasos a seguir para sumergirnos en un estado de flujo voy a ir una a una primera clave el unitasking que es esto es lo contrario al multitasking se trata de hacer una sola tarea a la vez
+
+ ------------------------------------------- 
+
+0.0
+line_id 5463922210
+transcript norm:  uni de una tasking de tarea es decir reservar una buena cantidad de tiempo a una sola actividad sin interrupciones pero eso no se da asi nomas
+ref norm:         uni de una tasking de tarea es decir reservar una buena cantidad de tiempo a una sola actividad sin interrupciones pero eso no se da asi nomas
+
+ ------------------------------------------- 
+
+0.0
+line_id 3387334569
+transcript norm:  y lo mas curioso es que todos estos puntos tienen algo en comun creemos que el estres es el problema si la causa de todos nuestros problemas y dolencias es el estres al parecer la solucion es eliminarlo combatir el estres
+ref norm:         y lo mas curioso es que todos estos puntos tienen algo en comun creemos que el estres es el problema si la causa de todos nuestros problemas y dolencias es el estres al parecer la solucion es eliminarlo combatir el estres
+
+ ------------------------------------------- 
+
+0.0
+line_id 3387368696
+transcript norm:  pasa algo similar a cuando tenemos fiebre y unicamente nos enfocamos en tratar de que baje esta bien tener 40 grados de fiebre es super molesto nos sentimos fatal es logico intentar disminuir la temperatura
+ref norm:         pasa algo similar a cuando tenemos fiebre y unicamente nos enfocamos en tratar de que baje esta bien tener 40 grados de fiebre es super molesto nos sentimos fatal es logico intentar disminuir la temperatura
+
+ ------------------------------------------- 
+
+0.0
+line_id 3387387879
+transcript norm:  que significa la palabra estres la palabra estres deriva del griego stringere que significa provocar tension en sus comienzos el termino estres se usaba en el campo de la fisica mas especificamente de la fisica de los metales hace referencia a la modificacion que experimenta un cuerpo elastico cuando actua sobre el una fuerza externa
+ref norm:         que significa la palabra estres la palabra estres deriva del griego stringere que significa provocar tension en sus comienzos el termino estres se usaba en el campo de la fisica mas especificamente de la fisica de los metales hace referencia a la modificacion que experimenta un cuerpo elastico cuando actua sobre el una fuerza externa
+
+ ------------------------------------------- 
+
+0.0
+line_id 3387314543
+transcript norm:  fue el medico hans selye alla por el ano 1935 quien hablo por primera vez de estres en el area de la salud mental lo definio como la respuesta adaptativa del organismo ante factores amenazantes
+ref norm:         fue el medico hans selye alla por el ano 1935 quien hablo por primera vez de estres en el area de la salud mental lo definio como la respuesta adaptativa del organismo ante factores amenazantes
+
+ ------------------------------------------- 
+
+0.0
+line_id 3387351404
+transcript norm:  cualquier pequeno estimulo puede ser disparador de estres en la vida moderna vivimos rodeados de alarmas sirenas de ambulancias mensajes malintencionados problemas economicos mudanzas perdidas de amigos peleas con familiares situaciones en el trabajo
+ref norm:         cualquier pequeno estimulo puede ser disparador de estres en la vida moderna vivimos rodeados de alarmas sirenas de ambulancias mensajes malintencionados problemas economicos mudanzas perdidas de amigos peleas con familiares situaciones en el trabajo
+
+ ------------------------------------------- 
+
+0.0
+line_id 3387339215
+transcript norm:  te imaginas vivir todo el tiempo como si estuvieras escapando de un perro hambriento y depredador nos agota de solo pensarlo asi se siente nuestro cerebro en pleno siglo xxi
+ref norm:         te imaginas vivir todo el tiempo como si estuvieras escapando de un perro hambriento y depredador nos agota de solo pensarlo asi se siente nuestro cerebro en pleno siglo xxi
+
+ ------------------------------------------- 
+
+0.0
+line_id 3387349653
+transcript norm:  el pico de cortisol la hormona del estres tarda muchas horas en bajar la taquicardia la sudoracion la sensacion de malestar el hueco en el estomago van a perdurar por varias horas hasta que poco a poco el cortisol se vaya lentamente de tu cuerpo
+ref norm:         el pico de cortisol la hormona del estres tarda muchas horas en bajar la taquicardia la sudoracion la sensacion de malestar el hueco en el estomago van a perdurar por varias horas hasta que poco a poco el cortisol se vaya lentamente de tu cuerpo
+
+ ------------------------------------------- 
+
+0.0
+line_id 3387390603
+transcript norm:  pasemos ahora a las soluciones como hacemos para mantener la calma en un mundo que nos estresa constantemente primero reconocer nuestro monto de estres que tanto nos estresamos
+ref norm:         pasemos ahora a las soluciones como hacemos para mantener la calma en un mundo que nos estresa constantemente primero reconocer nuestro monto de estres que tanto nos estresamos
+
+ ------------------------------------------- 
+
+Final wer score:  1.9302582633754608
