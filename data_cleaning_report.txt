@@ -1,0 +1,82 @@
+DETAILED DATA CLEANING ANALYSIS REPORT
+==================================================
+
+OVERALL STATISTICS:
+--------------------
+total_files_analyzed: 80
+total_rows_analyzed: 12,354
+total_missing_values: 30
+total_outliers: 764
+
+MISSING VALUES BY COLUMN:
+-------------------------
+  articulation_rate: 30 (0.24%)
+
+MISSING VALUES BY DEMOGRAPHICS:
+------------------------------
+By country:
+  france: 4 (0.62%)
+  belgium: 8 (0.62%)
+  canada: 18 (2.31%)
+
+By gender:
+  female: 8 (0.61%)
+  male: 22 (1.59%)
+
+OUTLIERS BY COLUMN:
+--------------------
+  rms_amplitude: 42 (0.34%)
+  dc_offset: 150 (1.21%)
+  articulation_rate: 64 (0.52%)
+  mean_pitch: 146 (1.18%)
+  pitch_std_dev: 256 (2.07%)
+  hnr: 28 (0.23%)
+  wer_score: 78 (0.63%)
+
+TOP 5 BIGGEST OUTLIERS:
+-------------------------
+Rank | Column | File | Value | Mean | Std | Z-Score | Deviation
+-----|--------|------|-------|------|-----|---------|-----------
+ 1.  | pitch_std_dev | ivory_coast_female_i | 717.486 | 55.088 | 51.235 |   12.93 |   662.398
+ 2.  | pitch_std_dev | ivory_coast_female_i | 717.486 | 55.088 | 51.235 |   12.93 |   662.398
+ 3.  | pitch_std_dev | dominican_republic_m | 287.813 | 28.906 | 21.293 |   12.16 |   258.907
+ 4.  | pitch_std_dev | dominican_republic_m | 287.813 | 28.906 | 21.293 |   12.16 |   258.907
+ 5.  | pitch_std_dev | canada_male_individu | 651.022 | 37.494 | 51.685 |   11.87 |   613.528
+
+FOLDER SUMMARIES:
+--------------------
+
+Acoustic Lines:
+  total_rows: 3,849
+  total_missing: 8
+  total_outliers: 236
+
+Acoustic Lines (with WER):
+  total_rows: 3,849
+  total_missing: 8
+  total_outliers: 284
+
+Transformed Acoustic Lines:
+  total_rows: 2,328
+  total_missing: 7
+  total_outliers: 107
+
+Transformed Acoustic Lines (with WER):
+  total_rows: 2,328
+  total_missing: 7
+  total_outliers: 137
+
+CLEANING RECOMMENDATIONS:
+-------------------------
+
+MISSING_VALUES:
+  overall_percentage: 0.24283632831471588
+  strategy: Delete rows with missing values
+
+OUTLIERS:
+  overall_percentage: 6.184231827748097
+  strategy: Winsorize or cap outliers
+
+DATA_CONSISTENCY:
+  unique_columns: 10
+  strategy: Columns are consistent across folders
