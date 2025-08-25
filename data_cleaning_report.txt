@@ -3,68 +3,85 @@ DETAILED DATA CLEANING ANALYSIS REPORT
 
 OVERALL STATISTICS:
 --------------------
-total_files_analyzed: 80
-total_rows_analyzed: 12,354
-total_missing_values: 30
-total_outliers: 764
+total_files_analyzed: 40
+total_rows_analyzed: 6,177
+total_missing_values: 15
+total_outliers: 345
 
 MISSING VALUES BY COLUMN:
 -------------------------
-  articulation_rate: 30 (0.24%)
+  articulation_rate: 15 (0.24%)
 
 MISSING VALUES BY DEMOGRAPHICS:
 ------------------------------
 By country:
-  france: 4 (0.62%)
-  belgium: 8 (0.62%)
-  canada: 18 (2.31%)
+  france: 2 (0.62%)
+  belgium: 4 (0.62%)
+  canada: 9 (2.31%)
 
 By gender:
-  female: 8 (0.61%)
-  male: 22 (1.59%)
+  female: 4 (0.61%)
+  male: 11 (1.59%)
 
 OUTLIERS BY COLUMN:
 --------------------
-  rms_amplitude: 42 (0.34%)
-  dc_offset: 150 (1.21%)
-  articulation_rate: 64 (0.52%)
-  mean_pitch: 146 (1.18%)
-  pitch_std_dev: 256 (2.07%)
-  hnr: 28 (0.23%)
-  wer_score: 78 (0.63%)
+  rms_amplitude: 21 (0.34%)
+  dc_offset: 75 (1.21%)
+  articulation_rate: 32 (0.52%)
+  mean_pitch: 73 (1.18%)
+  pitch_std_dev: 128 (2.07%)
+  hnr: 14 (0.23%)
+  wer_score: 2 (0.03%)
 
 TOP 5 BIGGEST OUTLIERS:
 -------------------------
 Rank | Column | File | Value | Mean | Std | Z-Score | Deviation
 -----|--------|------|-------|------|-----|---------|-----------
  1.  | pitch_std_dev | ivory_coast_female_i | 717.486 | 55.088 | 51.235 |   12.93 |   662.398
- 2.  | pitch_std_dev | ivory_coast_female_i | 717.486 | 55.088 | 51.235 |   12.93 |   662.398
- 3.  | pitch_std_dev | dominican_republic_m | 287.813 | 28.906 | 21.293 |   12.16 |   258.907
- 4.  | pitch_std_dev | dominican_republic_m | 287.813 | 28.906 | 21.293 |   12.16 |   258.907
- 5.  | pitch_std_dev | canada_male_individu | 651.022 | 37.494 | 51.685 |   11.87 |   613.528
+ 2.  | pitch_std_dev | dominican_republic_m | 287.813 | 28.906 | 21.293 |   12.16 |   258.907
+ 3.  | pitch_std_dev | canada_male_individu | 651.022 | 37.494 | 51.685 |   11.87 |   613.528
+ 4.  | pitch_std_dev | ivory_coast_male_ind | 398.358 | 27.744 | 31.798 |   11.66 |   370.614
+ 5.  | pitch_std_dev | spain_male_individua | 354.035 | 37.520 | 28.083 |   11.27 |   316.516
+
+COLUMN STATISTICS (MIN/MAX):
+------------------------------
+  rms_amplitude:
+    Min: 0.007
+    Max: 0.264
+  dc_offset:
+    Min: -0.005
+    Max: 0.003
+  articulation_rate:
+    Min: 1.840
+    Max: 24.571
+  mean_pitch:
+    Min: 74.325
+    Max: 624.314
+  pitch_std_dev:
+    Min: 8.669
+    Max: 717.486
+  hnr:
+    Min: 3.312
+    Max: 15.781
+  wer_score:
+    Min: 0.000
+    Max: 473.684
+  original_speaker_id:
+    Min: 10204.000
+    Max: 99763.000
 
 FOLDER SUMMARIES:
 --------------------
 
-Acoustic Lines:
+Acoustic Lines (with WER):
   total_rows: 3,849
   total_missing: 8
   total_outliers: 236
 
-Acoustic Lines (with WER):
-  total_rows: 3,849
-  total_missing: 8
-  total_outliers: 284
-
-Transformed Acoustic Lines:
-  total_rows: 2,328
-  total_missing: 7
-  total_outliers: 107
-
 Transformed Acoustic Lines (with WER):
   total_rows: 2,328
   total_missing: 7
-  total_outliers: 137
+  total_outliers: 109
 
 CLEANING RECOMMENDATIONS:
 -------------------------
@@ -74,7 +91,7 @@ MISSING_VALUES:
   strategy: Delete rows with missing values
 
 OUTLIERS:
-  overall_percentage: 6.184231827748097
+  overall_percentage: 5.5852355512384655
   strategy: Winsorize or cap outliers
 
 DATA_CONSISTENCY:

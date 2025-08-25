@@ -32,15 +32,13 @@ class DataCleaningAnalyzer:
         """
         self.data_root = Path(data_root)
         self.folders = [
-            "Acoustic Lines",
             "Acoustic Lines (with WER)", 
-            "Transformed Acoustic Lines",
             "Transformed Acoustic Lines (with WER)"
         ]
         self.results = {}
         
     def get_all_csv_files(self):
-        """Get all CSV files from the four data folders."""
+        """Get all CSV files from the two WER-containing data folders."""
         all_files = {}
         for folder in self.folders:
             folder_path = self.data_root / folder
@@ -128,7 +126,8 @@ class DataCleaningAnalyzer:
     
     def detect_outliers(self, df, file_name, method='zscore'):
         """
-        Detect outliers using z-score method (more than 3 std from mean).
+        Detect outliers using z-score method (more than 3 std from mean) for most columns,
+        and explicit bounds (0-200) for wer_score (only negative values are outliers).
         
         Args:
             df (pd.DataFrame): Input dataframe
@@ -147,17 +146,28 @@ class DataCleaningAnalyzer:
         }
         
         numeric_cols = df.select_dtypes(include=[np.number]).columns
+        # Exclude line_id from analysis as it's just an identifier
+        numeric_cols = [col for col in numeric_cols if col != 'line_id']
         
         for col in numeric_cols:
-            # Calculate mean and std for this column in this file
-            col_mean = df[col].mean()
-            col_std = df[col].std()
-            
-            # Define outliers as more than 3 standard deviations from the mean
-            lower_bound = col_mean - 3 * col_std
-            upper_bound = col_mean + 3 * col_std
-            
-            outliers = df[(df[col] < lower_bound) | (df[col] > upper_bound)]
+            # Special handling for wer_score: use explicit bounds 0-200 (only negative values are outliers)
+            if col == 'wer_score':
+                lower_bound = 0
+                upper_bound = 200
+                outliers = df[(df[col] < lower_bound) | (df[col] > upper_bound)]
+                # For wer_score, we don't need mean/std for z-score calculation
+                col_mean = df[col].mean()
+                col_std = df[col].std()
+            else:
+                # Calculate mean and std for other columns in this file
+                col_mean = df[col].mean()
+                col_std = df[col].std()
+                
+                # Define outliers as more than 3 standard deviations from the mean
+                lower_bound = col_mean - 3 * col_std
+                upper_bound = col_mean + 3 * col_std
+                
+                outliers = df[(df[col] < lower_bound) | (df[col] > upper_bound)]
             
             outlier_count = len(outliers)
             outlier_info['outliers_by_column'][col] = outlier_count
@@ -383,6 +393,7 @@ class DataCleaningAnalyzer:
             total_rows_before = 0
             total_rows_after = 0
             total_missing_removed = 0
+            total_speaker_id_changes = 0
             
             for csv_file in csv_files:
                 try:
@@ -393,18 +404,42 @@ class DataCleaningAnalyzer:
                     
                     # Remove rows with missing articulation_rate
                     df_cleaned = df.dropna(subset=['articulation_rate'])
+                    
+                    # Standardize speaker IDs to ensure matching between datasets
+                    speaker_id_changes = 0
+                    if 'speaker_id' in df_cleaned.columns:
+                        # Extract numeric part from speaker_id (e.g., SAF38861 -> 38861)
+                        original_speaker_ids = df_cleaned['speaker_id'].copy()
+                        df_cleaned['speaker_id'] = df_cleaned['speaker_id'].str.extract(r'(\d+)').astype(str)
+                        speaker_id_changes = (original_speaker_ids != df_cleaned['speaker_id']).sum()
+                    
+                    # Clip WER scores above 200 to 200
+                    wer_clipped_count = 0
+                    if 'wer_score' in df_cleaned.columns:
+                        wer_above_200 = df_cleaned['wer_score'] > 200
+                        wer_clipped_count = wer_above_200.sum()
+                        df_cleaned.loc[wer_above_200, 'wer_score'] = 200
+                    
                     rows_after = len(df_cleaned)
                     total_rows_after += rows_after
                     
                     missing_removed = rows_before - rows_after
                     total_missing_removed += missing_removed
+                    total_speaker_id_changes += speaker_id_changes
                     
                     # Save cleaned dataset
                     target_file = target_path / csv_file.name
                     df_cleaned.to_csv(target_file, index=False)
                     
-                    if missing_removed > 0:
-                        print(f"    {csv_file.name}: {rows_before} → {rows_after} rows (-{missing_removed} missing)")
+                    if missing_removed > 0 or wer_clipped_count > 0 or speaker_id_changes > 0:
+                        changes = []
+                        if missing_removed > 0:
+                            changes.append(f"-{missing_removed} missing")
+                        if wer_clipped_count > 0:
+                            changes.append(f"-{wer_clipped_count} WER clipped")
+                        if speaker_id_changes > 0:
+                            changes.append(f"-{speaker_id_changes} speaker IDs standardized")
+                        print(f"    {csv_file.name}: {rows_before} → {rows_after} rows ({', '.join(changes)})")
                     else:
                         print(f"    {csv_file.name}: {rows_before} → {rows_after} rows (no changes)")
                         
@@ -416,6 +451,7 @@ class DataCleaningAnalyzer:
             print(f"    Total rows before: {total_rows_before:,}")
             print(f"    Total rows after: {total_rows_after:,}")
             print(f"    Total missing rows removed: {total_missing_removed:,}")
+            print(f"    Total speaker IDs standardized: {total_speaker_id_changes:,}")
             print(f"    Data retention: {(total_rows_after/total_rows_before)*100:.2f}%")
             print()
         
@@ -508,6 +544,23 @@ class DataCleaningAnalyzer:
                     
                     # Collect demographic analysis of missing values
                     comprehensive_results['missing_demographics'].append(missing_demographics)
+                    
+                    # Calculate column statistics (min/max) across all data
+                    if 'column_statistics' not in comprehensive_results:
+                        comprehensive_results['column_statistics'] = {}
+                    
+                    numeric_cols_for_stats = [col for col in df.select_dtypes(include=[np.number]).columns if col != 'line_id']
+                    for col in numeric_cols_for_stats:
+                        if col not in comprehensive_results['column_statistics']:
+                            comprehensive_results['column_statistics'][col] = {'min': float('inf'), 'max': float('-inf')}
+                        
+                        col_min = df[col].min()
+                        col_max = df[col].max()
+                        
+                        if col_min < comprehensive_results['column_statistics'][col]['min']:
+                            comprehensive_results['column_statistics'][col]['min'] = col_min
+                        if col_max > comprehensive_results['column_statistics'][col]['max']:
+                            comprehensive_results['column_statistics'][col]['max'] = col_max
                     
                 except Exception as e:
                     print(f"    Error processing {file_path.name}: {e}")
@@ -776,6 +829,16 @@ class DataCleaningAnalyzer:
                 f.write("-----|--------|------|-------|------|-----|---------|-----------\n")
                 for i, outlier in enumerate(results['top_5_outliers'], 1):
                     f.write(f"{i:2d}.  | {outlier['column']:6s} | {outlier['file'][:20]:20s} | {outlier['value']:6.3f} | {outlier['mean']:5.3f} | {outlier['std']:4.3f} | {outlier['z_score']:7.2f} | {outlier['deviation']:9.3f}\n")
+                f.write("\n")
+            
+            # Write column statistics (min/max)
+            if 'column_statistics' in results and results['column_statistics']:
+                f.write("COLUMN STATISTICS (MIN/MAX):\n")
+                f.write("-" * 30 + "\n")
+                for col, stats in results['column_statistics'].items():
+                    f.write(f"  {col}:\n")
+                    f.write(f"    Min: {stats['min']:.3f}\n")
+                    f.write(f"    Max: {stats['max']:.3f}\n")
                 f.write("\n")
             
             # Write folder summaries
