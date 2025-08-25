@@ -9,11 +9,13 @@ ASR-Analysis/
 ├── Data/
 │   ├── Acoustic Lines/                    # Original acoustic features
 │   ├── Acoustic Lines (with WER)/         # Acoustic features + WER scores
+│   ├── Acoustic Lines (with WER), Cleaned/ # Cleaned acoustic features + WER
 │   ├── Transformed Acoustic Lines/        # Transformed acoustic features
 │   ├── Transformed Acoustic Lines (with WER)/ # Transformed features + WER
+│   ├── Transformed Acoustic Lines (with WER), Cleaned/ # Cleaned transformed features + WER
 │   ├── WERs/                             # Word Error Rate files
 │   ├── data_merging_french_normal.py      # French data merging script
-│   └── data_merging_other.py             # Other languages data merging script
+│   └── data_cleaning_other.py             # Other languages data merging script
 ├── outlier_plots/                         # Generated outlier analysis plots
 ├── data_cleaning_analysis.py              # Comprehensive data cleaning script
 ├── data_cleaning_report.txt               # Generated cleaning analysis report
@@ -48,6 +50,8 @@ python data_merging_other.py
   - `Transformed Acoustic Lines/`
   - `Transformed Acoustic Lines (with WER)/`
 
+**Note**: The data cleaning script will create additional "Cleaned" folders after analysis.
+
 ### 2. Data Cleaning Analysis Script (Second)
 After the data merging is complete, run the comprehensive cleaning analysis:
 
@@ -64,6 +68,8 @@ python data_cleaning_analysis.py
 - Creates comprehensive cleaning recommendations
 - Saves detailed report to `data_cleaning_report.txt`
 - Generates outlier plots in `outlier_plots/` directory
+- **Creates cleaned datasets** by removing rows with missing `articulation_rate` values
+- **Saves cleaned datasets** to new "Cleaned" folders with same naming convention
 
 ## 📊 What You'll Get
 
@@ -81,6 +87,15 @@ python data_cleaning_analysis.py
   - Outliers highlighted in red
   - Mean and ±3σ bounds marked
   - One plot per file per variable that has outliers
+
+### **Cleaned Datasets**
+- **New folders created**:
+  - `Acoustic Lines (with WER), Cleaned/`
+  - `Transformed Acoustic Lines (with WER), Cleaned/`
+- **All missing `articulation_rate` values removed**
+- **Same file naming convention** maintained
+- **Complete datasets** saved even if no changes were made
+- **Data retention statistics** provided for each folder
 
 ### **Key Insights**
 - **Missing Values**: All 30 missing values are in `articulation_rate` column

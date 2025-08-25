@@ -343,6 +343,87 @@ class DataCleaningAnalyzer:
             except Exception as e:
                 print(f"Error creating histogram for {file_name} - {column}: {e}")
     
+    def create_cleaned_datasets(self, results, output_dir="Data"):
+        """
+        Create cleaned datasets by removing rows with missing articulation_rate values.
+        
+        Args:
+            results (dict): Analysis results containing missing value information
+            output_dir (str): Base directory to save cleaned datasets
+        """
+        print("\n🧹 Creating cleaned datasets...")
+        
+        # Define source and target folders
+        source_folders = [
+            "Acoustic Lines (with WER)",
+            "Transformed Acoustic Lines (with WER)"
+        ]
+        
+        target_folders = [
+            "Acoustic Lines (with WER), Cleaned",
+            "Transformed Acoustic Lines (with WER), Cleaned"
+        ]
+        
+        # Process each folder pair
+        for source_folder, target_folder in zip(source_folders, target_folders):
+            source_path = Path(output_dir) / source_folder
+            target_path = Path(output_dir) / target_folder
+            
+            if not source_path.exists():
+                print(f"  Source folder not found: {source_folder}")
+                continue
+            
+            # Create target directory
+            target_path.mkdir(exist_ok=True)
+            print(f"  Processing: {source_folder} → {target_folder}")
+            
+            # Get all CSV files in source folder
+            csv_files = list(source_path.glob("*.csv"))
+            
+            total_rows_before = 0
+            total_rows_after = 0
+            total_missing_removed = 0
+            
+            for csv_file in csv_files:
+                try:
+                    # Read the data
+                    df = pd.read_csv(csv_file)
+                    rows_before = len(df)
+                    total_rows_before += rows_before
+                    
+                    # Remove rows with missing articulation_rate
+                    df_cleaned = df.dropna(subset=['articulation_rate'])
+                    rows_after = len(df_cleaned)
+                    total_rows_after += rows_after
+                    
+                    missing_removed = rows_before - rows_after
+                    total_missing_removed += missing_removed
+                    
+                    # Save cleaned dataset
+                    target_file = target_path / csv_file.name
+                    df_cleaned.to_csv(target_file, index=False)
+                    
+                    if missing_removed > 0:
+                        print(f"    {csv_file.name}: {rows_before} → {rows_after} rows (-{missing_removed} missing)")
+                    else:
+                        print(f"    {csv_file.name}: {rows_before} → {rows_after} rows (no changes)")
+                        
+                except Exception as e:
+                    print(f"    Error processing {csv_file.name}: {e}")
+            
+            # Summary for this folder
+            print(f"  {source_folder} Summary:")
+            print(f"    Total rows before: {total_rows_before:,}")
+            print(f"    Total rows after: {total_rows_after:,}")
+            print(f"    Total missing rows removed: {total_missing_removed:,}")
+            print(f"    Data retention: {(total_rows_after/total_rows_before)*100:.2f}%")
+            print()
+        
+        print("✅ Cleaned datasets created successfully!")
+        print("📁 New folders created:")
+        for target_folder in target_folders:
+            print(f"   • {target_folder}/")
+    
     def run_comprehensive_analysis(self):
         """
         Run comprehensive analysis on all data folders.
@@ -743,6 +824,10 @@ def main():
     # Create outlier histograms
     print("\n📊 Creating outlier histograms...")
     analyzer.create_outlier_histograms(results)
+    
+    # Create cleaned datasets
+    print("\n🧹 Creating cleaned datasets...")
+    analyzer.create_cleaned_datasets(results)
     
     print("\n✅ Analysis complete! Check the generated report for detailed information.")
 
