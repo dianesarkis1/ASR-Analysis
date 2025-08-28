@@ -1,4 +1,3 @@
-# File that merges the data to add the WERs to each line item. The Updated Data will be saved in "Updated Data" folder.
 """
 Merge non-transformed French WERs into Acoustic Lines CSVs by line_id. This specific part of the data has its own script because the WER file is formatted differently than for the other categories. 
 
@@ -32,9 +31,6 @@ import json
 import pandas as pd
 from typing import Dict, Tuple
 
-# -------------------------
-# CONFIG – tweak if needed
-# -------------------------
 PROJECT_ROOT = "."
 ACOUSTIC_DIR = "Data/Acoustic Lines"
 WER_ROOT = "Data/WERs"

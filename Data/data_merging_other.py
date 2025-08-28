@@ -1,5 +1,3 @@
-# File that merges Spanish WERs and transformed acoustic data with WER scores.
-# This script handles the different WER file format: <score> then line_id <id>
 """
 Merge Spanish WERs into Acoustic Lines CSVs and merge transformed acoustic data with both French and Spanish WERs.
 
@@ -43,9 +41,6 @@ import json
 import pandas as pd
 from typing import Dict, Tuple
 
-# -------------------------
-# CONFIG – tweak if needed
-# -------------------------
 PROJECT_ROOT = "."
 ACOUSTIC_DIR = "Data/Acoustic Lines"
 TRANSFORMED_ACOUSTIC_DIR = "Data/Transformed Acoustic Lines"

@@ -1,168 +1,27 @@
 # ASR Analysis Project
+This project analyzes phonological speech features and Word Error Rate data from Whisper v3 across French and Spanish demographic groups and regions. The main analysis is in inference_analysis.ipynb, with preprocessing and cleaning scripts in Data/. The goal is to improve model explainability by comparing performance on original audio snippets versus Cartesia-transformed snippets, where Cartesia standardizes all speakers within a language to a common voice.
 
-This repository contains scripts for analyzing Automatic Speech Recognition (ASR) data, including acoustic features and Word Error Rate (WER) scores across different countries, genders, and languages.
+## Execution Order
+The Python scripts must be run in the following order to ensure proper data flow:
+### 1. Data Merging Scripts
+First, run the data merging scripts to combine acoustic features with WER data:
+- **`Data/data_merging_french_normal.py`** - Merges non-transformed French WERs into acoustic features CSVs
+- **`Data/data_merging_other.py`** - Merges other language/transformed WERs into acoustic features CSVs
+- This creates consolidated datasets in "Acoustic Lines (with WER)" folders with WER scores added to each row.
 
-## 📁 Project Structure
+### 2. Data Cleaning Analysis
+Run the data cleaning analysis script:
+- **`data_cleaning_analysis.py`** - Performs comprehensive data cleaning and outlier detection
+- Generates outlier plots in `outlier_plots/` folder
+- Produces `data_cleaning_report.txt` with cleaning statistics
+- Creates cleaned datasets in "Acoustic Lines (with WER), Cleaned" folders
 
-```
-ASR-Analysis/
-├── Data/
-│   ├── Acoustic Lines/                    # Original acoustic features
-│   ├── Acoustic Lines (with WER)/         # Acoustic features + WER scores
-│   ├── Acoustic Lines (with WER), Cleaned/ # Cleaned acoustic features + WER
-│   ├── Transformed Acoustic Lines/        # Transformed acoustic features
-│   ├── Transformed Acoustic Lines (with WER)/ # Transformed features + WER
-│   ├── Transformed Acoustic Lines (with WER), Cleaned/ # Cleaned transformed features + WER
-│   ├── WERs/                             # Word Error Rate files
-│   ├── data_merging_french_normal.py      # French data merging script
-│   └── data_cleaning_other.py             # Other languages data merging script
-├── outlier_plots/                         # Generated outlier analysis plots
-├── data_cleaning_analysis.py              # Comprehensive data cleaning script
-├── data_cleaning_report.txt               # Generated cleaning analysis report
-├── requirements.txt                       # Python dependencies
-└── README.md                              # This file
-```
+### 3. Data Cleaning Checks
+Run the data cleaning verification script:
+- **`cleaned_data_checks.py`** - Validates the cleaned datasets and ensures data integrity
 
-## 🚀 Script Execution Order
+### 4. Main Analysis Notebook
+Finally, run the main analysis notebook
 
-**IMPORTANT**: The scripts must be run in the following order to ensure proper data processing:
-
-### 1. Data Merging Scripts (First)
-Run these scripts to prepare and merge your raw data:
-
-#### **French Data Merging**
-```bash
-cd Data
-python data_merging_french_normal.py
-```
-
-#### **Other Languages Data Merging**
-```bash
-python data_merging_other.py
-```
-
-**What these scripts do:**
-- Process raw acoustic feature data
-- Merge data from different sources
-- Create the four main data folders:
-  - `Acoustic Lines/`
-  - `Acoustic Lines (with WER)/`
-  - `Transformed Acoustic Lines/`
-  - `Transformed Acoustic Lines (with WER)/`
-
-**Note**: The data cleaning script will create additional "Cleaned" folders after analysis.
-
-### 2. Data Cleaning Analysis Script (Second)
-After the data merging is complete, run the comprehensive cleaning analysis:
-
-```bash
-cd ..  # Return to project root
-python data_cleaning_analysis.py
-```
-
-**What this script does:**
-- Analyzes all four data folders for missing values and outliers
-- Provides demographic breakdown of missing values (by country, gender)
-- Detects outliers using 3σ method (per file per variable)
-- Generates outlier histograms for visual analysis
-- Creates comprehensive cleaning recommendations
-- Saves detailed report to `data_cleaning_report.txt`
-- Generates outlier plots in `outlier_plots/` directory
-- **Creates cleaned datasets** by removing rows with missing `articulation_rate` values
-- **Saves cleaned datasets** to new "Cleaned" folders with same naming convention
-
-## 📊 What You'll Get
-
-### **Data Cleaning Report**
-- Overall statistics (files, rows, missing values, outliers)
-- Missing values by column and demographics
-- Outliers by column with percentages
-- Top 5 biggest outliers with details
-- Folder summaries
-- Cleaning recommendations
-
-### **Outlier Analysis**
-- 80+ histogram plots showing:
-  - Distribution of all values for each variable
-  - Outliers highlighted in red
-  - Mean and ±3σ bounds marked
-  - One plot per file per variable that has outliers
-
-### **Cleaned Datasets**
-- **New folders created**:
-  - `Acoustic Lines (with WER), Cleaned/`
-  - `Transformed Acoustic Lines (with WER), Cleaned/`
-- **All missing `articulation_rate` values removed**
-- **Same file naming convention** maintained
-- **Complete datasets** saved even if no changes were made
-- **Data retention statistics** provided for each folder
-
-### **Key Insights**
-- **Missing Values**: All 30 missing values are in `articulation_rate` column
-- **Demographic Bias**: Canada (2.31%) and male speakers (1.59%) have higher missing rates
-- **Outliers**: 6.18% of data contains outliers, with `pitch_std_dev` having the most (2.07%)
-
-## 🛠️ Prerequisites
-
-Install the required Python packages:
-
-```bash
-pip install -r requirements.txt
-```
-
-**Required packages:**
-- pandas >= 1.3.0
-- numpy == 1.22.3
-- matplotlib == 3.5.3
-- seaborn == 0.11.2
-- pathlib2 >= 2.3.0
-
-## ⚠️ Important Notes
-
-1. **Data Merging First**: Always run the data merging scripts before the cleaning analysis
-2. **Bias Awareness**: Missing values are not randomly distributed - removing them will bias your sample
-3. **Outlier Investigation**: 6.18% outlier rate suggests investigating patterns rather than simple removal
-4. **File Dependencies**: The cleaning script expects the four data folders to exist and contain CSV files
-
-## 🔍 Understanding the Output
-
-### **Missing Values Analysis**
-- **Low overall rate**: 0.24% missing data
-- **Concentrated issue**: All missing values in `articulation_rate`
-- **Demographic patterns**: Higher rates in Canada and male speakers
-
-### **Outlier Analysis**
-- **Definition**: Values > 3 standard deviations from mean (per file)
-- **Manageable rate**: 6.18% of data
-- **Most problematic**: `pitch_std_dev` column
-
-### **Recommendations**
-- **Missing values**: Consider imputation rather than deletion
-- **Outliers**: Investigate patterns, consider winsorizing
-- **Data consistency**: All folders have the same 10 columns
-
-## 📈 Next Steps
-
-After running the cleaning analysis:
-
-1. **Review the report** (`data_cleaning_report.txt`)
-2. **Examine outlier plots** in `outlier_plots/` directory
-3. **Make informed decisions** about handling missing values and outliers
-4. **Consider bias implications** before removing data
-5. **Plan data cleaning strategy** based on the analysis results
-
-## 🤝 Contributing
-
-When adding new scripts or modifying existing ones:
-1. Follow the established naming convention
-2. Update this README if the workflow changes
-3. Test the execution order
-4. Commit and push changes
-
-## 📞 Support
-
-If you encounter issues:
-1. Check that scripts are run in the correct order
-2. Verify all required packages are installed
-3. Ensure the Data/ folder structure is correct
-4. Check the generated reports for error messages 
+## Requirements
+The `requirements.txt` file contains all the Python package dependencies needed to run this project. Install them using:
